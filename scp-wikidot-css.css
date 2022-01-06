@@ -1,0 +1,20 @@
+ /* modules */
+@import url(http://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--modules/css/pagerate/PageRateWidgetModule.css);
+ /* theme */
+@import url(http://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--theme/base/css/style.css);
+@import url(http://d3g0gp89917ko0.cloudfront.net/v--edac79f846ba/common--theme/shiny/css/style.css);
+@import url(http://scp-jp-sandbox2.wdfiles.com/local--theme/scp-sigma-9-off-canvas/style.css);
+
+.fake-link {
+	color: #b01;
+	text-decoration: none;
+	background: transparent;
+	cursor:pointer;
+
+}
+
+.fake-link:hover {
+	text-decoration: underline;
+	background-color: transparent;
+	cursor:ponter;
+}
