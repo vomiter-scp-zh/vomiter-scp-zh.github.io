@@ -7,9 +7,9 @@
             let userid=urldata[1];
             let current_number_string=urldata[2];
             let current_number=parseInt(current_number_string,10).toString(36);
-            const dateTime = new Date().getTime().toString(36);
-            let newDraftURL="http://scp-sandbox2-zh.wikidot.com/draft:"+userid+"-"+current_number+"-"+dateTime+"/parentPage/portal:"+userid+"/#_editpage";
             function createDraft(){
+                let dateTime = new Date().getTime().toString(36);
+                let newDraftURL="http://scp-sandbox2-zh.wikidot.com/draft:"+userid+"-"+current_number+"-"+dateTime+"/parentPage/portal:"+userid+"/#_editpage";
                 window.open(newDraftURL);
             }
     </script>
