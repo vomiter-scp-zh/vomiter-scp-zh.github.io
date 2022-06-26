@@ -60,7 +60,7 @@ function finish_test(){
     for(i=0;i<raw_fin_ans.length;i++){
         raw_fin_ans[i].classList.remove('vis_chosen', 'chosen', 'ans-item');
         fin_ans.push(raw_fin_ans[i].classList);
-        if (fin_ans[i]==right_ans[i]){score=+1;}
+        if (fin_ans[i]==right_ans[i]){score+=1;}
         else{score=score}
         raw_fin_ans[i].classList.add('ans-item');
     }
