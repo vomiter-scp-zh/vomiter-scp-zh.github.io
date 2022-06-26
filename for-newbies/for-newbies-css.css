@@ -1,0 +1,11 @@
+.ans-pr{
+    margin:0.5em
+}
+
+.vis_chosen div{
+    border:solid;
+}
+
+.ans-item:nth-child(6){
+    display: none;
+}
