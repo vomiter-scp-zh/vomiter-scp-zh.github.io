@@ -1,10 +1,10 @@
-alert("working1");
 
 var ans_for_sq = document.querySelectorAll('.ans-item');
 var sq = document.querySelectorAll('.single-question');
 var a_chosen=document.querySelector('.in-question .chosen');
 var in_q=a_chosen=document.querySelector('.in-question');
 var ning_q;
+var score=0;
 
 
 //為題目上編號
@@ -41,11 +41,6 @@ numing_ans(5);
 
 
 
-alert("working2");
-alert(ans_for_sq.length);
-
-
-
 
 for (i=0;i<ans_for_sq.length;i++){
 ans_for_sq[i].addEventListener("click",function(){a_chosen=document.querySelector('.in-question .chosen');a_chosen.classList.remove('chosen',"vis_chosen"); this.classList.add('chosen','vis_chosen');})
@@ -65,11 +60,12 @@ function finish_test(){
     for(i=0;i<raw_fin_ans.length;i++){
         raw_fin_ans[i].classList.remove('vis_chosen', 'chosen', 'ans-item');
         fin_ans.push(raw_fin_ans[i].classList);
-        if (fin_ans[i]==right_ans[i]){alert('true')}
-        else{alert('false')}
+        if (fin_ans[i]==right_ans[i]){score=+1;}
+        else{score=score}
         raw_fin_ans[i].classList.add('ans-item');
     }
-    alert(fin_ans);
+    alert(score);
+    score=0;
     choose_6();
 
 }
