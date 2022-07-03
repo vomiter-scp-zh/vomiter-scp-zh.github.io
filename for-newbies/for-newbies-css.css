@@ -1,11 +1,56 @@
-.ans-pr{
-    margin:0.5em
+.sheet{
+    margin:auto;
+    max-width: 800px;
 }
 
-.vis_chosen div{
-    border:solid;
+a{
+    color:#333;
+    text-decoration:none;
+}
+
+.single-question{
+    margin: 1em;
+    padding: 1em;
+    border-radius: 1em;
+    border-color: aqua;
+    border-style: outset;
+}
+
+.ans-container{
+    padding: 1em;
+}
+.ans-pr{
+    margin:0.25em;
+    padding: 0.25em;
+    border-radius: 1em;
+    border-style: double;
 }
 
 .ans-item:nth-child(6){
     display: none;
+}
+
+.ans-item>.ans-pr:hover{
+    background-color: rgb(254, 246, 205);
+    text-decoration: underline;
+}
+
+.vis_chosen>.ans-pr,.vis_chosen>.ans-pr:hover{
+    background-color: blanchedalmond;
+}
+
+
+
+.finish-button a>div{
+    text-align: center;
+    line-height: 4em;
+    margin:4em auto;
+    border-style:ridge;
+    font-size: 2em;
+    border-radius: 2.5em;
+}
+
+.finish-button:hover a>div{
+    color:#999;
+    background-color: rgb(247, 45, 26);
 }
