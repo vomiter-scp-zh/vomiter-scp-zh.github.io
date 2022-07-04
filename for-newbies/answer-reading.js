@@ -8,7 +8,7 @@ for(i=0;i<right_ans.length;i++){
 }
 
 for(i=0;i<fin_ans.length;i++){
-    final_ans.push((fin_ans[i]-1).toString());
+    final_ans.push((parseInt(fin_ans[i],10)+1).toString());
 }
 
 
