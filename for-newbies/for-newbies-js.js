@@ -4,7 +4,6 @@ var sq = document.querySelectorAll('.single-question');
 var a_chosen=document.querySelector('.in-question .chosen');
 var in_q=a_chosen=document.querySelector('.in-question');
 var ning_q;
-var score=0;
 
 //為題目上編號
 for(i=0;i<sq.length;i++){
@@ -70,8 +69,6 @@ for (i=0;i<sq.length;i++){
     }
 
 var fin_ans=[];
-const right_ans=["AnsNo3","AnsNo2"]
-
 
 function finish_test(){
     fin_ans=[];
@@ -81,8 +78,7 @@ function finish_test(){
         fin_ans.push(String(raw_fin_ans[i].classList).split('AnsNo')[1]);
         raw_fin_ans[i].classList.add('ans-item');
     }
-    alert(fin_ans);
-    score=0;
+    reading_a();
     choose_6();
 
 }
