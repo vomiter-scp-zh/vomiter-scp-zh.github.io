@@ -7,12 +7,14 @@ for(i=0;i<right_ans.length;i++){
     r_a.push((right_ans[i]-1).toString());
 }
 
-for(i=0;i<fin_ans.length;i++){
-    final_ans.push((parseInt(fin_ans[i],10)+1).toString());
-}
 
 
 function reading_a(){
+    final_ans.length=0;
+    for(i=0;i<fin_ans.length;i++){
+        final_ans.push((parseInt(fin_ans[i],10)+1).toString());
+    }
+    
     for(i=0;i<r_a.length;i++){
         if(r_a[i]==fin_ans[i]){score+=1}
     }
