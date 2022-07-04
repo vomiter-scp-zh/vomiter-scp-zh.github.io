@@ -39,7 +39,9 @@ a{
     background-color: blanchedalmond;
 }
 
-
+.finish-button{
+    padding: 20%;
+}
 
 .finish-button a>div{
     text-align: center;
