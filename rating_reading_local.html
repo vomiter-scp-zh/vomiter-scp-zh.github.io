@@ -1,5 +1,8 @@
-<div id="to_write"></div>
+<div id="to_write">
 
+</div>
+
+<script type="text/javascript" src="rating_local.js" charset="utf-8"></script>
 <script>
     function make_table(inner){
         table_ele=`<table style="width: 100%;">${inner}</table>`
@@ -40,14 +43,21 @@
         document.getElementById('to_write').innerHTML=a_thing;
 
     }
-
-
-fetch('https://vomiter-scp-zh.github.io/rating.json')
-  .then(function(response) {
-    return response.json();
-  })
-  .then(function(myJson) {
-    console.log(myJson);
-    make_a_thing(myJson)
-  });
+    make_a_thing(Myjson)
 </script>
+
+<style>
+    @import url('https://scp-zh-tr.wdfiles.com/local--code/component%3Atheme-new/1');
+    tr>td:nth-child(1){
+        width:50%;
+    }
+    tr>td:nth-child(2){
+        width:25%;
+        text-align: center;
+    }
+    tr>td:nth-child(3){
+        width:25%;
+        text-align: center;
+    }
+
+</style>
