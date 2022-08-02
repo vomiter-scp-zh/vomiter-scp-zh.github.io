@@ -1,8 +1,9 @@
 <script>
-async function loadNames() {
-  const response = await fetch('https://vomiter-scp-zh.github.io/rating_to_read.html');
-  const names = await response.json();
-  console.log(names); 
-}
-loadNames()
+fetch('https://vomiter-scp-zh.github.io/rating.json')
+  .then(function(response) {
+    return response.json();
+  })
+  .then(function(myJson) {
+    console.log(myJson);
+  });
 </script>
