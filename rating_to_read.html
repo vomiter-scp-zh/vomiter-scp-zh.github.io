@@ -2,12 +2,9 @@
 async function loadNames() {
   const response = await fetch('https://vomiter-scp-zh.github.io/rating_to_read.html');
   const rating_list = await response.json();
-  return rating_list
+  console.log(rating_list);
 }
 
-l=loadNames();
-console.log(l);
-alert()
 </script>
 
 <div>
