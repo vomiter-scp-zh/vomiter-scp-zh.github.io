@@ -440,6 +440,11 @@
         "RATING": 22
     },
     {
+        "TITLE": null,
+        "FULLNAME": "scp-zh-930",
+        "RATING": 22
+    },
+    {
         "TITLE": "SCP-ZH-610 - 猛爆性繁衍組織瘤",
         "FULLNAME": "scp-zh-610",
         "RATING": 21
@@ -495,12 +500,7 @@
         "RATING": 21
     },
     {
-        "TITLE": "SCP-ZH-930 - 基輔戰鬼顯現之時",
-        "FULLNAME": "scp-zh-930",
-        "RATING": 21
-    },
-    {
-        "TITLE": null,
+        "TITLE": "SCP-ZH-235",
         "FULLNAME": "adult:scp-zh-235",
         "RATING": 21
     },
