@@ -1,3 +1,9 @@
 <script>
-    var a=fetch('./rating.json')
+fetch('http://vomiter-scp-zh.github.io/rating.json')
+  .then(function(response) {
+    return response.json();
+  })
+  .then(function(myJson) {
+    console.log(myJson);
+  });
 </script>
