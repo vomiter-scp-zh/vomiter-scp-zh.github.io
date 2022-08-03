@@ -1,1 +1,26 @@
-[{"TITLE": "\u5b89\u7720\u83ef\u723e\u8332", "RATING": 12}, {"TITLE": "\u795e\u7570\u535a\u89bd\u6703\u4e00\u4e5d\u4e09\u4e94", "RATING": 24}, {"TITLE": "\u5c11\u5973\u8e8d\u7136\u65bc\u7d19\u4e0a", "RATING": 10}, {"TITLE": "SCP-ZH-2005-EX", "RATING": 55}, {"TITLE": "Nihilmace\u8207Valmua", "RATING": 15}, {"TITLE": "025O\u7684\u756b", "RATING": 18}]
+[
+    {
+        "TITLE": "安眠華爾茲",
+        "RATING": 12
+    },
+    {
+        "TITLE": "神異博覽會一九三五",
+        "RATING": 24
+    },
+    {
+        "TITLE": "少女躍然於紙上",
+        "RATING": 10
+    },
+    {
+        "TITLE": "SCP-ZH-2005-EX",
+        "RATING": 55
+    },
+    {
+        "TITLE": "Nihilmace與Valmua",
+        "RATING": 15
+    },
+    {
+        "TITLE": "025O的畫",
+        "RATING": 18
+    }
+]

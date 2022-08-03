@@ -1,1 +1,26 @@
-[{"TITLE": "SCP-ZH-004", "RATING": 9}, {"TITLE": "SCP-ZH-105 - \u4e0d\u5b5d\u5b50", "RATING": 65}, {"TITLE": "SCP-ZH-036 - \u8336\u766e\u6d63\u718a", "RATING": 15}, {"TITLE": "SCP-ZH-002 - \u53f0\u7063\u7368\u89d2\u7378", "RATING": 36}, {"TITLE": "\u6211\u5728\u842c\u7269\u4e4b\u4e2d", "RATING": 36}, {"TITLE": "\u6536\u5bb9\u5ba4ZH-S12-E-024\u5be6\u9a57\u7d00\u9304", "RATING": 33}]
+[
+    {
+        "TITLE": "SCP-ZH-004",
+        "RATING": 9
+    },
+    {
+        "TITLE": "SCP-ZH-105 - 不孝子",
+        "RATING": 65
+    },
+    {
+        "TITLE": "SCP-ZH-036 - 茶癮浣熊",
+        "RATING": 15
+    },
+    {
+        "TITLE": "SCP-ZH-002 - 台灣獨角獸",
+        "RATING": 36
+    },
+    {
+        "TITLE": "我在萬物之中",
+        "RATING": 36
+    },
+    {
+        "TITLE": "收容室ZH-S12-E-024實驗紀錄",
+        "RATING": 33
+    }
+]

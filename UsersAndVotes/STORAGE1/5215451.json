@@ -1,1 +1,26 @@
-[{"TITLE": "\u62cb\u9234\u4eba\u4e2d\u5fc3\u9801", "RATING": 22}, {"TITLE": "SCP-ZH-111", "RATING": 33}, {"TITLE": "\u70ba\u4e86\u66f4\u5927\u7684\u5229\u76ca-\u7b2c\u4e8c\u90e8\u5206", "RATING": 5}, {"TITLE": "\u6b98\u5f71", "RATING": 14}, {"TITLE": "SCP-ZH-090 - \u6bc6\u6253\u76ae\u7d0d\u5854\uff01", "RATING": 16}, {"TITLE": "SCP-ZH-404", "RATING": 8}]
+[
+    {
+        "TITLE": "拋鈴人中心頁",
+        "RATING": 22
+    },
+    {
+        "TITLE": "SCP-ZH-111",
+        "RATING": 33
+    },
+    {
+        "TITLE": "為了更大的利益-第二部分",
+        "RATING": 5
+    },
+    {
+        "TITLE": "殘影",
+        "RATING": 14
+    },
+    {
+        "TITLE": "SCP-ZH-090 - 毆打皮納塔！",
+        "RATING": 16
+    },
+    {
+        "TITLE": "SCP-ZH-404",
+        "RATING": 8
+    }
+]

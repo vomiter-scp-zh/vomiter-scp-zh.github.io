@@ -1,1 +1,26 @@
-[{"TITLE": "SCP-ZH-255", "RATING": 22}, {"TITLE": "SCP-ZH-252", "RATING": 15}, {"TITLE": "SCP-ZH-372", "RATING": 15}, {"TITLE": "SCP\u57fa\u91d1\u6703\u4e0d\u77e5\u9053\u7684\u90a3\u4e9b\u4e8b\u4ef6", "RATING": 19}, {"TITLE": "SCP-ZH-009", "RATING": 20}, {"TITLE": "SCP-ZH-720", "RATING": 9}]
+[
+    {
+        "TITLE": "SCP-ZH-255",
+        "RATING": 22
+    },
+    {
+        "TITLE": "SCP-ZH-252",
+        "RATING": 15
+    },
+    {
+        "TITLE": "SCP-ZH-372",
+        "RATING": 15
+    },
+    {
+        "TITLE": "SCP基金會不知道的那些事件",
+        "RATING": 19
+    },
+    {
+        "TITLE": "SCP-ZH-009",
+        "RATING": 20
+    },
+    {
+        "TITLE": "SCP-ZH-720",
+        "RATING": 9
+    }
+]

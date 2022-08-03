@@ -1,1 +1,50 @@
-[{"TITLE": "\u767d\u6fa4\u91cd\u751f\u8a08\u5283-2008", "RATING": 9}, {"TITLE": "Ctrl Z\u535a\u58eb\u7684SCP\u8a18\u9304\uff1aSCP-524 \u9955\u992e\u5154\u5a01\u723e\u7279", "RATING": 6}, {"TITLE": "Ctrl Z\u535a\u58eb\u7684SCP\u8a18\u9304\uff1aSCP-999 The Tickle Monster", "RATING": 7}, {"TITLE": "Ctrl Z\u535a\u58eb\u7684SCP\u8a18\u9304\uff1aSCP-2599 Not Good Enough", "RATING": 5}, {"TITLE": "Ctrl Z\u535a\u58eb\u7684SCP\u8a18\u9304\uff1aSCP-166 \u5c11\u5973\u9b45\u9b54", "RATING": 11}, {"TITLE": "Ctrl Z\u535a\u58eb\u7684SCP\u8a18\u9304\uff1aSCP-085 \u624b\u7e6a\u7684''Cassy''", "RATING": 6}, {"TITLE": "Ctrl Z\u535a\u58eb\u7684SCP\u8a18\u9304\uff1aSCP-2295 \u6709\u8457\u62fc\u5e03\u5fc3\u81df\u7684\u718a", "RATING": 10}, {"TITLE": "Valentine\u7684Logo\u9801", "RATING": 21}, {"TITLE": "\u85dd\u8853\u7d00\u9304\uff1a\u9019\u4e9b\u5be7\u975c\u7684\u65e5\u5b50\u3002", "RATING": 11}, {"TITLE": "\u6eff\u6d32\u570b\u7570\u5e38\u8fa6\u516c\u5ba4\u968a\u6b4c", "RATING": 10}, {"TITLE": "\u65e5\u672c\u5206\u7ad9\u7684\u8c93\u54aa\uff1f", "RATING": 9}, {"TITLE": "\u300c\u7d66\u6211\u4e00\u675f\u9bae\u82b1\u5427\u3002\u300d", "RATING": 14}]
+[
+    {
+        "TITLE": "白澤重生計劃-2008",
+        "RATING": 9
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-524 饕餮兔威爾特",
+        "RATING": 6
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-999 The Tickle Monster",
+        "RATING": 7
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-2599 Not Good Enough",
+        "RATING": 5
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-166 少女魅魔",
+        "RATING": 11
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-085 手繪的''Cassy''",
+        "RATING": 6
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-2295 有著拼布心臟的熊",
+        "RATING": 10
+    },
+    {
+        "TITLE": "Valentine的Logo頁",
+        "RATING": 21
+    },
+    {
+        "TITLE": "藝術紀錄：這些寧靜的日子。",
+        "RATING": 11
+    },
+    {
+        "TITLE": "滿洲國異常辦公室隊歌",
+        "RATING": 10
+    },
+    {
+        "TITLE": "日本分站的貓咪？",
+        "RATING": 9
+    },
+    {
+        "TITLE": "「給我一束鮮花吧。」",
+        "RATING": 14
+    }
+]

@@ -1,1 +1,26 @@
-[{"TITLE": "SCP-ZH-029", "RATING": -1}, {"TITLE": "\u7dad\u5b89\u8a2d\u65bd\u6a94\u6848\uff1aSite-ZH-25", "RATING": 16}, {"TITLE": "\u5c0b\u7372\u7269\u54c1\u7de8\u865f\uff1a021", "RATING": 11}, {"TITLE": "\u6211\u5728\u842c\u7269\u4e4b\u4e2d", "RATING": 36}, {"TITLE": "\u6211\u6c92\u80fd\u6551\u5230\u4ed6\u3002", "RATING": 22}, {"TITLE": "\u95c7\u58fd\u53f8\u6a94\u6848No.053\u300c\u7d05\u8c46\u8ecd\u8266\u300d", "RATING": 12}]
+[
+    {
+        "TITLE": "SCP-ZH-029",
+        "RATING": -1
+    },
+    {
+        "TITLE": "維安設施檔案：Site-ZH-25",
+        "RATING": 16
+    },
+    {
+        "TITLE": "尋獲物品編號：021",
+        "RATING": 11
+    },
+    {
+        "TITLE": "我在萬物之中",
+        "RATING": 36
+    },
+    {
+        "TITLE": "我沒能救到他。",
+        "RATING": 22
+    },
+    {
+        "TITLE": "闇壽司檔案No.053「紅豆軍艦」",
+        "RATING": 12
+    }
+]

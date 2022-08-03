@@ -1,1 +1,66 @@
-[{"TITLE": "\u7f8e\u9e97\u7684\u8774\u8776\u4ed9\u5b50Kondraki\u535a\u58eb", "RATING": 12}, {"TITLE": "\u6211\u5728\u842c\u7269\u4e4b\u4e2d", "RATING": 36}, {"TITLE": "\u65b0\u805e\u5feb\u8a0a\uff1a\u82e5\u6211\u5011\u8981\u9054\u5230\u4ec1\u6148\u7684\u4e0b\u5834\uff0c\u61c9\u8a72\u9075\u5b88\u54ea\u4e9b\u4e8b\u60c5", "RATING": 24}, {"TITLE": "\u524a\u4e0d\u5b8c\u8089\u7684\u6c99\u5a01\u746a", "RATING": 21}, {"TITLE": "Bright\u535a\u58eb\u6559\u4f60\u5982\u4f55\u6b63\u78ba\u64ca\u9000\u6575\u4eba", "RATING": 24}, {"TITLE": "\u5de7\u9054Clef!", "RATING": 24}, {"TITLE": "\u8a18\u61b6\u7684\u6d2a\u6d41", "RATING": 11}, {"TITLE": "\u500b\u4eba\u65e5\u8a8c", "RATING": 11}, {"TITLE": "\u6fc3\u6e6f\u7d04\u6703", "RATING": 20}, {"TITLE": "\u8ddd\u96e2\u4e16\u754c\u672b\u65e5\u9084\u6709\u4e94\u5206\u9418", "RATING": 24}, {"TITLE": "\u4e8c\u4eba\u5bb6\u5ead", "RATING": 9}, {"TITLE": "\u4eba\u7684\u60b2\u6b61\uff0c\u4e26\u4e0d\u76f8\u901a", "RATING": 13}, {"TITLE": "\u8056\u8a95\u79ae\u7269", "RATING": 6}, {"TITLE": "\u6211\u5011\u5c1a\u672a\u77e5\u9053\u7684\u65c5\u7a0b\u7684\u7d42\u9ede-\u2588\u2588\u2588/9288&nbsp;km", "RATING": 20}, {"TITLE": "Ctrl Z\u535a\u58eb\u7684SCP\u8cbc\u7d19\u6536\u96c6\u7c3f-Safe", "RATING": 12}, {"TITLE": "\u975e\u76f8\u95dc\u4eba\u54e1\u7981\u6b62\u95b1\u89bd", "RATING": 16}]
+[
+    {
+        "TITLE": "美麗的蝴蝶仙子Kondraki博士",
+        "RATING": 12
+    },
+    {
+        "TITLE": "我在萬物之中",
+        "RATING": 36
+    },
+    {
+        "TITLE": "新聞快訊：若我們要達到仁慈的下場，應該遵守哪些事情",
+        "RATING": 24
+    },
+    {
+        "TITLE": "削不完肉的沙威瑪",
+        "RATING": 21
+    },
+    {
+        "TITLE": "Bright博士教你如何正確擊退敵人",
+        "RATING": 24
+    },
+    {
+        "TITLE": "巧達Clef!",
+        "RATING": 24
+    },
+    {
+        "TITLE": "記憶的洪流",
+        "RATING": 11
+    },
+    {
+        "TITLE": "個人日誌",
+        "RATING": 11
+    },
+    {
+        "TITLE": "濃湯約會",
+        "RATING": 20
+    },
+    {
+        "TITLE": "距離世界末日還有五分鐘",
+        "RATING": 24
+    },
+    {
+        "TITLE": "二人家庭",
+        "RATING": 9
+    },
+    {
+        "TITLE": "人的悲歡，並不相通",
+        "RATING": 13
+    },
+    {
+        "TITLE": "聖誕禮物",
+        "RATING": 6
+    },
+    {
+        "TITLE": "我們尚未知道的旅程的終點-███/9288&nbsp;km",
+        "RATING": 20
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP貼紙收集簿-Safe",
+        "RATING": 12
+    },
+    {
+        "TITLE": "非相關人員禁止閱覽",
+        "RATING": 16
+    }
+]

@@ -1,1 +1,22 @@
-[{"TITLE": "SCP-ZH-883", "RATING": 8}, {"TITLE": "SCP-ZH-100", "RATING": 23}, {"TITLE": "SCP-ZH-998 - \u73fe\u8c61\u5b78", "RATING": 36}, {"TITLE": "SCP-ZH-9288-EX", "RATING": 44}, {"TITLE": "SCP-ZH-120", "RATING": 38}]
+[
+    {
+        "TITLE": "SCP-ZH-883",
+        "RATING": 8
+    },
+    {
+        "TITLE": "SCP-ZH-100",
+        "RATING": 23
+    },
+    {
+        "TITLE": "SCP-ZH-998 - 現象學",
+        "RATING": 36
+    },
+    {
+        "TITLE": "SCP-ZH-9288-EX",
+        "RATING": 44
+    },
+    {
+        "TITLE": "SCP-ZH-120",
+        "RATING": 38
+    }
+]

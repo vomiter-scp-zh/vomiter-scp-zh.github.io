@@ -1,1 +1,42 @@
-[{"TITLE": "\u9999\u6e2f\u7279\u5340\u7570\u5e38\u9078\u5340\u8cc7\u6599\u5eab\uff1a\u65b0\u8336\u5dba\u9078\u5340", "RATING": 13}, {"TITLE": "\u4e8b\u4ef6\u4ee3\u865f\uff1a\u6838\u88c2\u64e0\u514c-\u5f8c\u52e4\u91ab\u8b77\u4eba\u54e1\u7814\u7a76\u54e1L.What\u8996\u89d2", "RATING": 16}, {"TITLE": "\u5de5\u4f5c\u4eba\u54e1\u53ca\u89d2\u8272\u6a94\u6848-ZH", "RATING": 16}, {"TITLE": "SCP-ZH-998 - \u73fe\u8c61\u5b78", "RATING": 36}, {"TITLE": "SCP-ZH-120", "RATING": 38}, {"TITLE": "SCP-ZH-976", "RATING": 14}, {"TITLE": "SCP-ZH-053", "RATING": 29}, {"TITLE": "\u6728\u6613\u85cf\u66f8\u95a3\u76ee\u9304 \u507d-\u516d\u4e8c\u4e00\u300a\u9b31\u91d1\u9999\u300b", "RATING": 7}, {"TITLE": "SCP-ZH-603 - \u8173\u8e0f\u8eca\u4e0a\u7684\u4eba", "RATING": 30}, {"TITLE": "SCP-ZH-014", "RATING": 20}]
+[
+    {
+        "TITLE": "香港特區異常選區資料庫：新茶嶺選區",
+        "RATING": 13
+    },
+    {
+        "TITLE": "事件代號：核裂擠兌-後勤醫護人員研究員L.What視角",
+        "RATING": 16
+    },
+    {
+        "TITLE": "工作人員及角色檔案-ZH",
+        "RATING": 16
+    },
+    {
+        "TITLE": "SCP-ZH-998 - 現象學",
+        "RATING": 36
+    },
+    {
+        "TITLE": "SCP-ZH-120",
+        "RATING": 38
+    },
+    {
+        "TITLE": "SCP-ZH-976",
+        "RATING": 14
+    },
+    {
+        "TITLE": "SCP-ZH-053",
+        "RATING": 29
+    },
+    {
+        "TITLE": "木易藏書閣目錄 偽-六二一《鬱金香》",
+        "RATING": 7
+    },
+    {
+        "TITLE": "SCP-ZH-603 - 腳踏車上的人",
+        "RATING": 30
+    },
+    {
+        "TITLE": "SCP-ZH-014",
+        "RATING": 20
+    }
+]

@@ -1,1 +1,58 @@
-[{"TITLE": "\u683c\u9b6f\u70cf-P \u500b\u6848\u5377\u5b97 \"\u5922\u5831\u6a5f \u0422\u0435\u043b\u0435\u0433\u0440\u0430\u0444 \u0441\u043d\u043e\u0432\"", "RATING": 7}, {"TITLE": "SCP-ZH-055", "RATING": 18}, {"TITLE": "Alicia\u5973\u58eb", "RATING": 31}, {"TITLE": "\u53f0\u7063\u9435\u9053\u98ef\u5e97\u7684\u5b89\u5e03\u7f85\u65af\u9910\u5ef3", "RATING": 17}, {"TITLE": "SCP-ZH-090 - \u6bc6\u6253\u76ae\u7d0d\u5854\uff01", "RATING": 16}, {"TITLE": "SCP-ZH-903", "RATING": 19}, {"TITLE": "SCP-ZH-614 - 4D\u7cbd\u5b50", "RATING": 11}, {"TITLE": "SCP-ZH-032", "RATING": 21}, {"TITLE": "SCP-ZH-571 - \u4e0d\u53ef\u8996\u7684\u8ffd\u8de1\u8005", "RATING": 12}, {"TITLE": "SCP-ZH-112 - \u795d\u4f60\u751f\u65e5\u5feb\u6a02", "RATING": 19}, {"TITLE": "SCP-ZH-1000-EX", "RATING": 18}, {"TITLE": "SCP-ZH-243", "RATING": 18}, {"TITLE": "SCP-ZH-082 - \u5c0f\u871c\u8702\u9910\u8eca", "RATING": 24}, {"TITLE": "SCP-ZH-086 - \u8acb\u4f60\u5225\u8aaa\u898b\u904e\u6211", "RATING": 22}]
+[
+    {
+        "TITLE": "格魯烏-P 個案卷宗 \"夢報機 Телеграф снов\"",
+        "RATING": 7
+    },
+    {
+        "TITLE": "SCP-ZH-055",
+        "RATING": 18
+    },
+    {
+        "TITLE": "Alicia女士",
+        "RATING": 31
+    },
+    {
+        "TITLE": "台灣鐵道飯店的安布羅斯餐廳",
+        "RATING": 17
+    },
+    {
+        "TITLE": "SCP-ZH-090 - 毆打皮納塔！",
+        "RATING": 16
+    },
+    {
+        "TITLE": "SCP-ZH-903",
+        "RATING": 19
+    },
+    {
+        "TITLE": "SCP-ZH-614 - 4D粽子",
+        "RATING": 11
+    },
+    {
+        "TITLE": "SCP-ZH-032",
+        "RATING": 21
+    },
+    {
+        "TITLE": "SCP-ZH-571 - 不可視的追跡者",
+        "RATING": 12
+    },
+    {
+        "TITLE": "SCP-ZH-112 - 祝你生日快樂",
+        "RATING": 19
+    },
+    {
+        "TITLE": "SCP-ZH-1000-EX",
+        "RATING": 18
+    },
+    {
+        "TITLE": "SCP-ZH-243",
+        "RATING": 18
+    },
+    {
+        "TITLE": "SCP-ZH-082 - 小蜜蜂餐車",
+        "RATING": 24
+    },
+    {
+        "TITLE": "SCP-ZH-086 - 請你別說見過我",
+        "RATING": 22
+    }
+]

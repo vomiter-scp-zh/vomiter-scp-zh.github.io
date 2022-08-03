@@ -1,1 +1,106 @@
-[{"TITLE": "SCP-ZH-361 - \u9a5a\u559cX\u9eb5", "RATING": 10}, {"TITLE": "\u6c7d\u6c34\u7684\u85dd\u4f5c\u98012", "RATING": 12}, {"TITLE": "SCP-\u229b\u2742\u274d\u25cc", "RATING": 15}, {"TITLE": "SCP-ZH-744 - \u53cd\u6d17\u79ae", "RATING": 13}, {"TITLE": "SCP-ZH-196 - \u8207\u3164\u3164\u3164\u3164\u5a46\u5a11\u8d77\u821e", "RATING": 17}, {"TITLE": "SCP\u57fa\u91d1\u6703\u7e41\u4e2d\u5206\u90e8\u7684\u6a19\u8a8c", "RATING": 13}, {"TITLE": "\u4f60\u77e5\u9053\u55ce", "RATING": 13}, {"TITLE": "\u6c92\u6709\u57fa\u91d1\u6703\u7684\u90a3\u6642", "RATING": 23}, {"TITLE": "SCP-ZH-382 - \u72a7\u7272\u54c1", "RATING": 12}, {"TITLE": "SCP-ZH-002-J - \u6c34\u63a8\u8eca", "RATING": 14}, {"TITLE": "SCP-ZH-132 - \u8981\u4f60\u547d\u7684007\u904a\u6232", "RATING": 14}, {"TITLE": "NX-ZH-02\uff1a\u897f\u52a0\u8d70\u7063\u7fa4\u5cf6", "RATING": 19}, {"TITLE": "SCP-ZH-706 - \u5c11\u5e74\u311f\uff0c\u53ef\u4e0d\u53ef\u4ee5\u966a\u963f\u4f2f\u627e\u56de\u5bb6\u7684\u8def\uff1f", "RATING": 10}, {"TITLE": "SCP-ZH-895\u2014\u5875\u5c01\u4e4b\u5922\u8207\u6096\u8ad6", "RATING": 10}, {"TITLE": "SCP-ZH-587-J", "RATING": 22}, {"TITLE": "SCP-ZH-222-J", "RATING": 24}, {"TITLE": "SCP-ZH-403 - \u7981\u81e0\u8207\u7d42\u6b62\u7b26", "RATING": 13}, {"TITLE": "SCP-ZH-005", "RATING": 59}, {"TITLE": "SCP-ZH-105 - \u4e0d\u5b5d\u5b50", "RATING": 65}, {"TITLE": "SCP-ZH-860 - dado\u7684\u300c\u53d1\u300d\u8ca1\u85e5", "RATING": 33}, {"TITLE": "SCP-ZH-60053-J - HONK", "RATING": 42}, {"TITLE": "SCP-ZH-835 - \u71e6\u85cd\u795e\u5316\u5929\u7a79", "RATING": 22}, {"TITLE": "SCP-ZH-022-J - \u62dc\u8a17\u8ab0\u4f86\u628a\u5b83\u586b\u4e0a", "RATING": 36}, {"TITLE": "SCP-ZH-999\uff0d\u4eba\u5011\u6b20\u4ed6\u500b\u7e3d\u7d71\u5e2d\u4f4d", "RATING": 54}, {"TITLE": "SCP-ZH-922 - \u99ac\u862d\u59d1\u5a18", "RATING": 24}, {"TITLE": "\u85dd\u8853\u4f5c\u54c1\uff1aSCP-ZH-922\uff08k1s10r0d\u7248\uff09", "RATING": 14}]
+[
+    {
+        "TITLE": "SCP-ZH-361 - 驚喜X麵",
+        "RATING": 10
+    },
+    {
+        "TITLE": "汽水的藝作頁2",
+        "RATING": 12
+    },
+    {
+        "TITLE": "SCP-⊛❂❍◌",
+        "RATING": 15
+    },
+    {
+        "TITLE": "SCP-ZH-744 - 反洗禮",
+        "RATING": 13
+    },
+    {
+        "TITLE": "SCP-ZH-196 - 與ㅤㅤㅤㅤ婆娑起舞",
+        "RATING": 17
+    },
+    {
+        "TITLE": "SCP基金會繁中分部的標誌",
+        "RATING": 13
+    },
+    {
+        "TITLE": "你知道嗎",
+        "RATING": 13
+    },
+    {
+        "TITLE": "沒有基金會的那時",
+        "RATING": 23
+    },
+    {
+        "TITLE": "SCP-ZH-382 - 犧牲品",
+        "RATING": 12
+    },
+    {
+        "TITLE": "SCP-ZH-002-J - 水推車",
+        "RATING": 14
+    },
+    {
+        "TITLE": "SCP-ZH-132 - 要你命的007遊戲",
+        "RATING": 14
+    },
+    {
+        "TITLE": "NX-ZH-02：西加走灣群島",
+        "RATING": 19
+    },
+    {
+        "TITLE": "SCP-ZH-706 - 少年ㄟ，可不可以陪阿伯找回家的路？",
+        "RATING": 10
+    },
+    {
+        "TITLE": "SCP-ZH-895—塵封之夢與悖論",
+        "RATING": 10
+    },
+    {
+        "TITLE": "SCP-ZH-587-J",
+        "RATING": 22
+    },
+    {
+        "TITLE": "SCP-ZH-222-J",
+        "RATING": 24
+    },
+    {
+        "TITLE": "SCP-ZH-403 - 禁臠與終止符",
+        "RATING": 13
+    },
+    {
+        "TITLE": "SCP-ZH-005",
+        "RATING": 59
+    },
+    {
+        "TITLE": "SCP-ZH-105 - 不孝子",
+        "RATING": 65
+    },
+    {
+        "TITLE": "SCP-ZH-860 - dado的「发」財藥",
+        "RATING": 33
+    },
+    {
+        "TITLE": "SCP-ZH-60053-J - HONK",
+        "RATING": 42
+    },
+    {
+        "TITLE": "SCP-ZH-835 - 燦藍神化天穹",
+        "RATING": 22
+    },
+    {
+        "TITLE": "SCP-ZH-022-J - 拜託誰來把它填上",
+        "RATING": 36
+    },
+    {
+        "TITLE": "SCP-ZH-999－人們欠他個總統席位",
+        "RATING": 54
+    },
+    {
+        "TITLE": "SCP-ZH-922 - 馬蘭姑娘",
+        "RATING": 24
+    },
+    {
+        "TITLE": "藝術作品：SCP-ZH-922（k1s10r0d版）",
+        "RATING": 14
+    }
+]

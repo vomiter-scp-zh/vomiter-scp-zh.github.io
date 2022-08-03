@@ -1,1 +1,34 @@
-[{"TITLE": "SCP-ZH-229", "RATING": 14}, {"TITLE": "SCP-ZH-666", "RATING": 15}, {"TITLE": "SCP-ZH-178", "RATING": 11}, {"TITLE": "SCP-ZH-003", "RATING": 6}, {"TITLE": "SCP-ZH-222-J", "RATING": 24}, {"TITLE": "SCP-ZH-583", "RATING": 12}, {"TITLE": "\u7dad\u5b89\u8a2d\u65bd\u6a94\u6848\uff1aSite-ZH-02", "RATING": 25}, {"TITLE": "SCP-ZH-087-J", "RATING": 11}]
+[
+    {
+        "TITLE": "SCP-ZH-229",
+        "RATING": 14
+    },
+    {
+        "TITLE": "SCP-ZH-666",
+        "RATING": 15
+    },
+    {
+        "TITLE": "SCP-ZH-178",
+        "RATING": 11
+    },
+    {
+        "TITLE": "SCP-ZH-003",
+        "RATING": 6
+    },
+    {
+        "TITLE": "SCP-ZH-222-J",
+        "RATING": 24
+    },
+    {
+        "TITLE": "SCP-ZH-583",
+        "RATING": 12
+    },
+    {
+        "TITLE": "維安設施檔案：Site-ZH-02",
+        "RATING": 25
+    },
+    {
+        "TITLE": "SCP-ZH-087-J",
+        "RATING": 11
+    }
+]

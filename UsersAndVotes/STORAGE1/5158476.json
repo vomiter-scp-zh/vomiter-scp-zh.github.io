@@ -1,1 +1,30 @@
-[{"TITLE": "SCP-ZH-229", "RATING": 14}, {"TITLE": "SCP-ZH-117", "RATING": 33}, {"TITLE": "SCP-ZH-401", "RATING": 9}, {"TITLE": "SCP-ZH-178", "RATING": 11}, {"TITLE": "SCP-ZH-089", "RATING": 14}, {"TITLE": "SCP-ZH-105 - \u4e0d\u5b5d\u5b50", "RATING": 65}, {"TITLE": "SCP-ZH-125", "RATING": 22}]
+[
+    {
+        "TITLE": "SCP-ZH-229",
+        "RATING": 14
+    },
+    {
+        "TITLE": "SCP-ZH-117",
+        "RATING": 33
+    },
+    {
+        "TITLE": "SCP-ZH-401",
+        "RATING": 9
+    },
+    {
+        "TITLE": "SCP-ZH-178",
+        "RATING": 11
+    },
+    {
+        "TITLE": "SCP-ZH-089",
+        "RATING": 14
+    },
+    {
+        "TITLE": "SCP-ZH-105 - 不孝子",
+        "RATING": 65
+    },
+    {
+        "TITLE": "SCP-ZH-125",
+        "RATING": 22
+    }
+]

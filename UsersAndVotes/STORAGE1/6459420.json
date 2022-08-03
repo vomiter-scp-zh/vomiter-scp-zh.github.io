@@ -1,1 +1,26 @@
-[{"TITLE": "SCP-ZH-009", "RATING": 20}, {"TITLE": "SCP-ZH-005", "RATING": 59}, {"TITLE": "\u7e41\u4e2d\u5206\u90e8\u6a19\u8a8c", "RATING": 14}, {"TITLE": "SCP-ZH-002 - \u53f0\u7063\u7368\u89d2\u7378", "RATING": 36}, {"TITLE": "SCP-ZH-028", "RATING": 7}, {"TITLE": "SCP-ZH-030", "RATING": 7}]
+[
+    {
+        "TITLE": "SCP-ZH-009",
+        "RATING": 20
+    },
+    {
+        "TITLE": "SCP-ZH-005",
+        "RATING": 59
+    },
+    {
+        "TITLE": "繁中分部標誌",
+        "RATING": 14
+    },
+    {
+        "TITLE": "SCP-ZH-002 - 台灣獨角獸",
+        "RATING": 36
+    },
+    {
+        "TITLE": "SCP-ZH-028",
+        "RATING": 7
+    },
+    {
+        "TITLE": "SCP-ZH-030",
+        "RATING": 7
+    }
+]

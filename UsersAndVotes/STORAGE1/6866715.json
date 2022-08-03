@@ -1,1 +1,82 @@
-[{"TITLE": "SCP-ZH-050", "RATING": 15}, {"TITLE": "SCP-ZH-025", "RATING": 15}, {"TITLE": "\u5713\u4e4b\u5922\uff0c\u5922\u4e2d\u4e4b\u9ec3\u4e0d\u662f\u5409\u7965", "RATING": 12}, {"TITLE": "SCP-ZH-012", "RATING": 19}, {"TITLE": "SCP-ZH-102 - \u300a\u5f69\u8679\u6a4b\u300b\u4fdd\u5bc6\u689d\u6b3e", "RATING": 7}, {"TITLE": "SCP-ZH-007", "RATING": 15}, {"TITLE": "\u300a\u738b\u9053\u7570\u571f-\u507d\u6eff\u6d32\u570b\u7570\u5e38\u8fa6\u516c\u5ba4\u7279\u5c55\u300b\u5834\u520a", "RATING": 14}, {"TITLE": "\u55b5\u55b5\u722a\u722a\uff0c\u6253\u6253\u9bca\u9bca", "RATING": 9}, {"TITLE": "SCP-ZH-046", "RATING": 18}, {"TITLE": "SCP-ZH-091", "RATING": 19}, {"TITLE": "Surge\u7684\u63d0\u6848\u4e00", "RATING": 31}, {"TITLE": "SCP-ZH-416", "RATING": 8}, {"TITLE": "SCP-ZH-032", "RATING": 21}, {"TITLE": "SCP-ZH-034", "RATING": 23}, {"TITLE": "\u5929\u4eae\u524d\u7684\u6200\u611b\u6545\u4e8b", "RATING": 20}, {"TITLE": "SCP-ZH-096 - \u7d05\u79fb\u7834\u6ec5", "RATING": 22}, {"TITLE": "SCP-ZH-808 - \u9b3c\u9580\u95dc", "RATING": 15}, {"TITLE": "\u5e03\u9b6f\u514b\u6797\u7b2c\u96f6\u5340\uff1a\u5929\u5802", "RATING": 15}, {"TITLE": "SCP-ZH-499 - \u5eb7\u4e43\u99a8\u76d4\u7532\u5de5\u85dd", "RATING": 37}, {"TITLE": "SCP-ZH-909 - \u8a55\u5206\u6a21\u584a", "RATING": 6}]
+[
+    {
+        "TITLE": "SCP-ZH-050",
+        "RATING": 15
+    },
+    {
+        "TITLE": "SCP-ZH-025",
+        "RATING": 15
+    },
+    {
+        "TITLE": "圓之夢，夢中之黃不是吉祥",
+        "RATING": 12
+    },
+    {
+        "TITLE": "SCP-ZH-012",
+        "RATING": 19
+    },
+    {
+        "TITLE": "SCP-ZH-102 - 《彩虹橋》保密條款",
+        "RATING": 7
+    },
+    {
+        "TITLE": "SCP-ZH-007",
+        "RATING": 15
+    },
+    {
+        "TITLE": "《王道異土-偽滿洲國異常辦公室特展》場刊",
+        "RATING": 14
+    },
+    {
+        "TITLE": "喵喵爪爪，打打鯊鯊",
+        "RATING": 9
+    },
+    {
+        "TITLE": "SCP-ZH-046",
+        "RATING": 18
+    },
+    {
+        "TITLE": "SCP-ZH-091",
+        "RATING": 19
+    },
+    {
+        "TITLE": "Surge的提案一",
+        "RATING": 31
+    },
+    {
+        "TITLE": "SCP-ZH-416",
+        "RATING": 8
+    },
+    {
+        "TITLE": "SCP-ZH-032",
+        "RATING": 21
+    },
+    {
+        "TITLE": "SCP-ZH-034",
+        "RATING": 23
+    },
+    {
+        "TITLE": "天亮前的戀愛故事",
+        "RATING": 20
+    },
+    {
+        "TITLE": "SCP-ZH-096 - 紅移破滅",
+        "RATING": 22
+    },
+    {
+        "TITLE": "SCP-ZH-808 - 鬼門關",
+        "RATING": 15
+    },
+    {
+        "TITLE": "布魯克林第零區：天堂",
+        "RATING": 15
+    },
+    {
+        "TITLE": "SCP-ZH-499 - 康乃馨盔甲工藝",
+        "RATING": 37
+    },
+    {
+        "TITLE": "SCP-ZH-909 - 評分模塊",
+        "RATING": 6
+    }
+]

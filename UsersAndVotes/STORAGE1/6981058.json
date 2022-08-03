@@ -1,1 +1,38 @@
-[{"TITLE": "\u7570\u805e\uff1a\u4e2d\u6e2f\u8def\u4e0a\u7684\u91ce\u72fc", "RATING": 6}, {"TITLE": "SCP-ZH-706 - \u5c11\u5e74\u311f\uff0c\u53ef\u4e0d\u53ef\u4ee5\u966a\u963f\u4f2f\u627e\u56de\u5bb6\u7684\u8def\uff1f", "RATING": 10}, {"TITLE": "SCP-ZH-60053-J - HONK", "RATING": 42}, {"TITLE": "\u5641\u5fc3\u7684\u60e1\u4f5c\u5287", "RATING": 14}, {"TITLE": "SCP-ZH-129", "RATING": 11}, {"TITLE": "\u57fa\u9234\u5354\u8b70\u670d\u52d9\u8655 \u5feb\u901f\u8cc7\u6599\u67e5\u8a62\u7cfb\u7d71", "RATING": 9}, {"TITLE": "SCP-ZH-352 - \u7d55\u547d\u516d\u9f9c\u8461\u8404", "RATING": 18}, {"TITLE": "SCP-ZH-999\uff0d\u4eba\u5011\u6b20\u4ed6\u500b\u7e3d\u7d71\u5e2d\u4f4d", "RATING": 54}, {"TITLE": "\u300c\u6211\u6c92\u760b\u300d", "RATING": 10}]
+[
+    {
+        "TITLE": "異聞：中港路上的野狼",
+        "RATING": 6
+    },
+    {
+        "TITLE": "SCP-ZH-706 - 少年ㄟ，可不可以陪阿伯找回家的路？",
+        "RATING": 10
+    },
+    {
+        "TITLE": "SCP-ZH-60053-J - HONK",
+        "RATING": 42
+    },
+    {
+        "TITLE": "噁心的惡作劇",
+        "RATING": 14
+    },
+    {
+        "TITLE": "SCP-ZH-129",
+        "RATING": 11
+    },
+    {
+        "TITLE": "基鈴協議服務處 快速資料查詢系統",
+        "RATING": 9
+    },
+    {
+        "TITLE": "SCP-ZH-352 - 絕命六龜葡萄",
+        "RATING": 18
+    },
+    {
+        "TITLE": "SCP-ZH-999－人們欠他個總統席位",
+        "RATING": 54
+    },
+    {
+        "TITLE": "「我沒瘋」",
+        "RATING": 10
+    }
+]

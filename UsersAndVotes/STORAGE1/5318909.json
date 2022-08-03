@@ -1,1 +1,38 @@
-[{"TITLE": "SCP-ZH-018", "RATING": 9}, {"TITLE": "SCP-ZH-401", "RATING": 9}, {"TITLE": "SCP-ZH-003", "RATING": 6}, {"TITLE": "SCP-ZH-618", "RATING": 41}, {"TITLE": "SCP-ZH-888", "RATING": 19}, {"TITLE": "SCP-ZH-020", "RATING": 13}, {"TITLE": "SCP-ZH-005", "RATING": 59}, {"TITLE": "SCP-ZH-045", "RATING": 18}, {"TITLE": "\u6211\u5011\u6210\u529f\u6536\u5bb9KZ\u4e86\uff01", "RATING": 6}]
+[
+    {
+        "TITLE": "SCP-ZH-018",
+        "RATING": 9
+    },
+    {
+        "TITLE": "SCP-ZH-401",
+        "RATING": 9
+    },
+    {
+        "TITLE": "SCP-ZH-003",
+        "RATING": 6
+    },
+    {
+        "TITLE": "SCP-ZH-618",
+        "RATING": 41
+    },
+    {
+        "TITLE": "SCP-ZH-888",
+        "RATING": 19
+    },
+    {
+        "TITLE": "SCP-ZH-020",
+        "RATING": 13
+    },
+    {
+        "TITLE": "SCP-ZH-005",
+        "RATING": 59
+    },
+    {
+        "TITLE": "SCP-ZH-045",
+        "RATING": 18
+    },
+    {
+        "TITLE": "我們成功收容KZ了！",
+        "RATING": 6
+    }
+]

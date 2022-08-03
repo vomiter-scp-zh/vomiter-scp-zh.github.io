@@ -1,1 +1,30 @@
-[{"TITLE": "\u6c7d\u6c34\u7684\u85dd\u4f5c\u98012", "RATING": 12}, {"TITLE": "\u5b89\u7720\u83ef\u723e\u8332", "RATING": 12}, {"TITLE": "SCP-ZH-421", "RATING": 6}, {"TITLE": "SCP-ZH-075", "RATING": 12}, {"TITLE": "SCP-ZH-591", "RATING": 12}, {"TITLE": "SCP-ZH-200", "RATING": 33}, {"TITLE": "SCP-ZH-113", "RATING": 27}]
+[
+    {
+        "TITLE": "汽水的藝作頁2",
+        "RATING": 12
+    },
+    {
+        "TITLE": "安眠華爾茲",
+        "RATING": 12
+    },
+    {
+        "TITLE": "SCP-ZH-421",
+        "RATING": 6
+    },
+    {
+        "TITLE": "SCP-ZH-075",
+        "RATING": 12
+    },
+    {
+        "TITLE": "SCP-ZH-591",
+        "RATING": 12
+    },
+    {
+        "TITLE": "SCP-ZH-200",
+        "RATING": 33
+    },
+    {
+        "TITLE": "SCP-ZH-113",
+        "RATING": 27
+    }
+]

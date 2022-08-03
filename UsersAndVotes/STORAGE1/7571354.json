@@ -1,1 +1,46 @@
-[{"TITLE": "SCP-ZH-998 - \u73fe\u8c61\u5b78", "RATING": 36}, {"TITLE": "SCP-ZH-60053-J - HONK", "RATING": 42}, {"TITLE": "SCP-ZH-222", "RATING": 13}, {"TITLE": "\u6d77\u795e\u60b2\u9cf4\u6642", "RATING": 16}, {"TITLE": "SCP-ZH-769", "RATING": 10}, {"TITLE": "SCP-ZH-499 - \u5eb7\u4e43\u99a8\u76d4\u7532\u5de5\u85dd", "RATING": 37}, {"TITLE": "SCP-ZH-999\uff0d\u4eba\u5011\u6b20\u4ed6\u500b\u7e3d\u7d71\u5e2d\u4f4d", "RATING": 54}, {"TITLE": "SCP-ZH-337 - \u5922\u5de5\u5ee0", "RATING": 28}, {"TITLE": "\u53c8\u662f\u500b\u8a72\u6b7b\u7684\u5de5\u4f5c\u5929", "RATING": 10}, {"TITLE": "\u5c71\u672c\u7814\u7a76\u54e1\u7684ZH-922\u89c0\u5bdf\u65e5\u8a8c", "RATING": 17}, {"TITLE": "\u6211\u5011\u90fd\u53ea\u662f\u8840\u8089\u4e4b\u8ec0", "RATING": 15}]
+[
+    {
+        "TITLE": "SCP-ZH-998 - 現象學",
+        "RATING": 36
+    },
+    {
+        "TITLE": "SCP-ZH-60053-J - HONK",
+        "RATING": 42
+    },
+    {
+        "TITLE": "SCP-ZH-222",
+        "RATING": 13
+    },
+    {
+        "TITLE": "海神悲鳴時",
+        "RATING": 16
+    },
+    {
+        "TITLE": "SCP-ZH-769",
+        "RATING": 10
+    },
+    {
+        "TITLE": "SCP-ZH-499 - 康乃馨盔甲工藝",
+        "RATING": 37
+    },
+    {
+        "TITLE": "SCP-ZH-999－人們欠他個總統席位",
+        "RATING": 54
+    },
+    {
+        "TITLE": "SCP-ZH-337 - 夢工廠",
+        "RATING": 28
+    },
+    {
+        "TITLE": "又是個該死的工作天",
+        "RATING": 10
+    },
+    {
+        "TITLE": "山本研究員的ZH-922觀察日誌",
+        "RATING": 17
+    },
+    {
+        "TITLE": "我們都只是血肉之軀",
+        "RATING": 15
+    }
+]

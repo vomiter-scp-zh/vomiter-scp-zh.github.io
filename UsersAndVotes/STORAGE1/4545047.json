@@ -1,1 +1,38 @@
-[{"TITLE": "SCP-ZH-255", "RATING": 22}, {"TITLE": "SCP-ZH-251", "RATING": 10}, {"TITLE": "SCP-ZH-252", "RATING": 15}, {"TITLE": "SCP-ZH-253", "RATING": 12}, {"TITLE": "SCP-ZH-017", "RATING": 18}, {"TITLE": "SCP-ZH-953", "RATING": 8}, {"TITLE": "SCP-ZH-256", "RATING": 15}, {"TITLE": "SCP-ZH-323", "RATING": 10}, {"TITLE": "SCP-ZH-289", "RATING": 14}]
+[
+    {
+        "TITLE": "SCP-ZH-255",
+        "RATING": 22
+    },
+    {
+        "TITLE": "SCP-ZH-251",
+        "RATING": 10
+    },
+    {
+        "TITLE": "SCP-ZH-252",
+        "RATING": 15
+    },
+    {
+        "TITLE": "SCP-ZH-253",
+        "RATING": 12
+    },
+    {
+        "TITLE": "SCP-ZH-017",
+        "RATING": 18
+    },
+    {
+        "TITLE": "SCP-ZH-953",
+        "RATING": 8
+    },
+    {
+        "TITLE": "SCP-ZH-256",
+        "RATING": 15
+    },
+    {
+        "TITLE": "SCP-ZH-323",
+        "RATING": 10
+    },
+    {
+        "TITLE": "SCP-ZH-289",
+        "RATING": 14
+    }
+]

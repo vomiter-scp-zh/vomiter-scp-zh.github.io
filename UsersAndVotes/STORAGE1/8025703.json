@@ -1,1 +1,22 @@
-[{"TITLE": "SCP-ZH-382 - \u72a7\u7272\u54c1", "RATING": 12}, {"TITLE": "SCP-ZH-002-J - \u6c34\u63a8\u8eca", "RATING": 14}, {"TITLE": "SCP-ZH-005", "RATING": 59}, {"TITLE": "SCP-ZH-174", "RATING": 22}, {"TITLE": "SCP-ZH-091", "RATING": 19}]
+[
+    {
+        "TITLE": "SCP-ZH-382 - 犧牲品",
+        "RATING": 12
+    },
+    {
+        "TITLE": "SCP-ZH-002-J - 水推車",
+        "RATING": 14
+    },
+    {
+        "TITLE": "SCP-ZH-005",
+        "RATING": 59
+    },
+    {
+        "TITLE": "SCP-ZH-174",
+        "RATING": 22
+    },
+    {
+        "TITLE": "SCP-ZH-091",
+        "RATING": 19
+    }
+]

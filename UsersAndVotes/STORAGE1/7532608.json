@@ -1,1 +1,94 @@
-[{"TITLE": "SCP-ZH-60053-J - HONK", "RATING": 42}, {"TITLE": "\u5c0f\u52d5\u7269\u7c21\u4ecb\uff1aSurge\uff01", "RATING": 25}, {"TITLE": "\u96f7\u5c04\u96d5\u523b\u2500\u2500Site-ZH-12", "RATING": 17}, {"TITLE": "\u9396\u93c8\u7684\u97f3\u7af9", "RATING": 26}, {"TITLE": "\u7099\u71b1\u7684\u5348\u5f8c\u6642\u5149", "RATING": 28}, {"TITLE": "SCP-ZH-096\u89e3\u5bc6", "RATING": 16}, {"TITLE": "SCP-ZH-1000-EX", "RATING": 18}, {"TITLE": "What The Fuck", "RATING": 24}, {"TITLE": "SCP-ZH-228 - \u7fe0\u57d4\uff0c1947\u3002", "RATING": 25}, {"TITLE": "\u91cf\u5b50\u81ea\u6bba", "RATING": 8}, {"TITLE": "\u91cf\u5b50\u6c38\u751f", "RATING": 9}, {"TITLE": "SCP-ZH-110 - \u5730\u677f\u7834\u4e86\u500b\u6d1e", "RATING": 19}, {"TITLE": "SCP-ZH-352 - \u7d55\u547d\u516d\u9f9c\u8461\u8404", "RATING": 18}, {"TITLE": "\uff33\u4e4b\u6b7b", "RATING": 17}, {"TITLE": "SCP-ZH-701 - \u63a0\u98df\u6027\u964d\u96e8", "RATING": 11}, {"TITLE": "k1s10r0d\u7684\u63d0\u6848 - IMMOLARI", "RATING": 33}, {"TITLE": "SCP-ZH-277\uff0d\u7bc9\u8def\u4e2d\u539f", "RATING": 11}, {"TITLE": "SCP-ZH-337 - \u5922\u5de5\u5ee0", "RATING": 28}, {"TITLE": "SCP-ZH-106-\u300c\u9006\u6a21\u56e0\u300d", "RATING": 22}, {"TITLE": "\u85dd\u8853\u4f5c\u54c1\uff1aSCP-ZH-922\uff08SamScript\u7248\uff09", "RATING": 11}, {"TITLE": "\u85dd\u8853\u4f5c\u54c1\uff1aSCP-ZH-922\uff08k1s10r0d\u7248\uff09", "RATING": 14}, {"TITLE": "\u85dd\u8853\u4f5c\u54c1\uff1aSCP-ZH-922\uff08LuLu_Lucifelle\u7248\uff09", "RATING": 12}, {"TITLE": "\u6211\u5011\u90fd\u53ea\u662f\u8840\u8089\u4e4b\u8ec0", "RATING": 15}]
+[
+    {
+        "TITLE": "SCP-ZH-60053-J - HONK",
+        "RATING": 42
+    },
+    {
+        "TITLE": "小動物簡介：Surge！",
+        "RATING": 25
+    },
+    {
+        "TITLE": "雷射雕刻──Site-ZH-12",
+        "RATING": 17
+    },
+    {
+        "TITLE": "鎖鏈的音竹",
+        "RATING": 26
+    },
+    {
+        "TITLE": "炙熱的午後時光",
+        "RATING": 28
+    },
+    {
+        "TITLE": "SCP-ZH-096解密",
+        "RATING": 16
+    },
+    {
+        "TITLE": "SCP-ZH-1000-EX",
+        "RATING": 18
+    },
+    {
+        "TITLE": "What The Fuck",
+        "RATING": 24
+    },
+    {
+        "TITLE": "SCP-ZH-228 - 翠埔，1947。",
+        "RATING": 25
+    },
+    {
+        "TITLE": "量子自殺",
+        "RATING": 8
+    },
+    {
+        "TITLE": "量子永生",
+        "RATING": 9
+    },
+    {
+        "TITLE": "SCP-ZH-110 - 地板破了個洞",
+        "RATING": 19
+    },
+    {
+        "TITLE": "SCP-ZH-352 - 絕命六龜葡萄",
+        "RATING": 18
+    },
+    {
+        "TITLE": "Ｓ之死",
+        "RATING": 17
+    },
+    {
+        "TITLE": "SCP-ZH-701 - 掠食性降雨",
+        "RATING": 11
+    },
+    {
+        "TITLE": "k1s10r0d的提案 - IMMOLARI",
+        "RATING": 33
+    },
+    {
+        "TITLE": "SCP-ZH-277－築路中原",
+        "RATING": 11
+    },
+    {
+        "TITLE": "SCP-ZH-337 - 夢工廠",
+        "RATING": 28
+    },
+    {
+        "TITLE": "SCP-ZH-106-「逆模因」",
+        "RATING": 22
+    },
+    {
+        "TITLE": "藝術作品：SCP-ZH-922（SamScript版）",
+        "RATING": 11
+    },
+    {
+        "TITLE": "藝術作品：SCP-ZH-922（k1s10r0d版）",
+        "RATING": 14
+    },
+    {
+        "TITLE": "藝術作品：SCP-ZH-922（LuLu_Lucifelle版）",
+        "RATING": 12
+    },
+    {
+        "TITLE": "我們都只是血肉之軀",
+        "RATING": 15
+    }
+]

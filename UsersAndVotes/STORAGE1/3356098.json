@@ -1,1 +1,50 @@
-[{"TITLE": "SCP-ZH-60053-J - HONK", "RATING": 42}, {"TITLE": "\u6536\u5bb9\u5ba4ZH-S12-E-024\u5be6\u9a57\u7d00\u9304", "RATING": 33}, {"TITLE": "SCP-ZH-647 - \u5634\u7832\u8001\u4eba", "RATING": 31}, {"TITLE": "SCP-ZH-140", "RATING": 20}, {"TITLE": "SCP-ZH-022-J - \u62dc\u8a17\u8ab0\u4f86\u628a\u5b83\u586b\u4e0a", "RATING": 36}, {"TITLE": "SCP-ZH-033", "RATING": 3}, {"TITLE": "SCP-ZH-00l", "RATING": 12}, {"TITLE": "SCP-ZH-298 - \u5929\u7a7a\u9be8", "RATING": 7}, {"TITLE": "SCP-ZH-052", "RATING": 18}, {"TITLE": "SCP-ZH-058 - \u53e6\u4e00\u9053\u8d70\u5eca", "RATING": 10}, {"TITLE": "SCP-ZH-054", "RATING": 7}, {"TITLE": "SCP-ZH-110 - \u5730\u677f\u7834\u4e86\u500b\u6d1e", "RATING": 19}]
+[
+    {
+        "TITLE": "SCP-ZH-60053-J - HONK",
+        "RATING": 42
+    },
+    {
+        "TITLE": "收容室ZH-S12-E-024實驗紀錄",
+        "RATING": 33
+    },
+    {
+        "TITLE": "SCP-ZH-647 - 嘴砲老人",
+        "RATING": 31
+    },
+    {
+        "TITLE": "SCP-ZH-140",
+        "RATING": 20
+    },
+    {
+        "TITLE": "SCP-ZH-022-J - 拜託誰來把它填上",
+        "RATING": 36
+    },
+    {
+        "TITLE": "SCP-ZH-033",
+        "RATING": 3
+    },
+    {
+        "TITLE": "SCP-ZH-00l",
+        "RATING": 12
+    },
+    {
+        "TITLE": "SCP-ZH-298 - 天空鯨",
+        "RATING": 7
+    },
+    {
+        "TITLE": "SCP-ZH-052",
+        "RATING": 18
+    },
+    {
+        "TITLE": "SCP-ZH-058 - 另一道走廊",
+        "RATING": 10
+    },
+    {
+        "TITLE": "SCP-ZH-054",
+        "RATING": 7
+    },
+    {
+        "TITLE": "SCP-ZH-110 - 地板破了個洞",
+        "RATING": 19
+    }
+]

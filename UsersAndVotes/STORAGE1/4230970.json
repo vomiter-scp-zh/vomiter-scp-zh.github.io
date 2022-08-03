@@ -1,1 +1,34 @@
-[{"TITLE": "SCP-ZH-977", "RATING": 5}, {"TITLE": "SCP-ZH-004", "RATING": 9}, {"TITLE": "\u6f5b\u5728\u5371\u96aa\u7121\u6cd5\u88ab\u6587\u5b57\u8a18\u9304", "RATING": 13}, {"TITLE": "SCP-ZH-035", "RATING": 20}, {"TITLE": "SCP-ZH-310 - \u7570\u5e38\u86cb\u767d\u8cea\u7d50\u69cb\u57df", "RATING": 26}, {"TITLE": "SCP-ZH-005", "RATING": 59}, {"TITLE": "SCP-ZH-199", "RATING": 22}, {"TITLE": "SCP-ZH-105 - \u4e0d\u5b5d\u5b50", "RATING": 65}]
+[
+    {
+        "TITLE": "SCP-ZH-977",
+        "RATING": 5
+    },
+    {
+        "TITLE": "SCP-ZH-004",
+        "RATING": 9
+    },
+    {
+        "TITLE": "潛在危險無法被文字記錄",
+        "RATING": 13
+    },
+    {
+        "TITLE": "SCP-ZH-035",
+        "RATING": 20
+    },
+    {
+        "TITLE": "SCP-ZH-310 - 異常蛋白質結構域",
+        "RATING": 26
+    },
+    {
+        "TITLE": "SCP-ZH-005",
+        "RATING": 59
+    },
+    {
+        "TITLE": "SCP-ZH-199",
+        "RATING": 22
+    },
+    {
+        "TITLE": "SCP-ZH-105 - 不孝子",
+        "RATING": 65
+    }
+]

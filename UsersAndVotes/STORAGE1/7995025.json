@@ -1,1 +1,34 @@
-[{"TITLE": "\u6c92\u6709\u57fa\u91d1\u6703\u7684\u90a3\u6642", "RATING": 23}, {"TITLE": "SCP-ZH-706 - \u5c11\u5e74\u311f\uff0c\u53ef\u4e0d\u53ef\u4ee5\u966a\u963f\u4f2f\u627e\u56de\u5bb6\u7684\u8def\uff1f", "RATING": 10}, {"TITLE": "SCP-ZH-300", "RATING": 15}, {"TITLE": "SCP-ZH-60053-J - HONK", "RATING": 42}, {"TITLE": "SCP-ZH-167", "RATING": 12}, {"TITLE": "SCP-ZH-857", "RATING": 12}, {"TITLE": "SCP-ZH-204", "RATING": 16}, {"TITLE": "SCP-ZH-185", "RATING": 19}]
+[
+    {
+        "TITLE": "沒有基金會的那時",
+        "RATING": 23
+    },
+    {
+        "TITLE": "SCP-ZH-706 - 少年ㄟ，可不可以陪阿伯找回家的路？",
+        "RATING": 10
+    },
+    {
+        "TITLE": "SCP-ZH-300",
+        "RATING": 15
+    },
+    {
+        "TITLE": "SCP-ZH-60053-J - HONK",
+        "RATING": 42
+    },
+    {
+        "TITLE": "SCP-ZH-167",
+        "RATING": 12
+    },
+    {
+        "TITLE": "SCP-ZH-857",
+        "RATING": 12
+    },
+    {
+        "TITLE": "SCP-ZH-204",
+        "RATING": 16
+    },
+    {
+        "TITLE": "SCP-ZH-185",
+        "RATING": 19
+    }
+]
