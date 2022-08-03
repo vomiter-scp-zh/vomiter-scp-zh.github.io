@@ -1,10 +1,12 @@
 [
     {
         "TITLE": "安布羅斯餐廳-伊薩科夫號分店 (節日限定)",
-        "RATING": 28
+        "RATING": 28,
+        "FULLNAME": "ambrose-isakov"
     },
     {
         "TITLE": "SCP-ZH-860 - dado的「发」財藥",
-        "RATING": 33
+        "RATING": 33,
+        "FULLNAME": "scp-zh-860"
     }
 ]

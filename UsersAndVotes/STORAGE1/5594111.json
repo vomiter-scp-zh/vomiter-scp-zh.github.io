@@ -1,10 +1,12 @@
 [
     {
         "TITLE": "小動物簡介：Perillos！",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "critter-profile-perillos"
     },
     {
         "TITLE": "海水的顏色－黑",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "color-of-sea-black"
     }
 ]

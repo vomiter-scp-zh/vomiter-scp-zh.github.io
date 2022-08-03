@@ -1,10 +1,12 @@
 [
     {
         "TITLE": "伊伽姊姊去哪了?",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "zh-248-f004"
     },
     {
         "TITLE": "SCP-ZH-903",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "scp-zh-903"
     }
 ]

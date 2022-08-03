@@ -1,34 +1,42 @@
 [
     {
         "TITLE": "SCP-ZH-252",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "scp-zh-252"
     },
     {
         "TITLE": "SCP-ZH-127",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "scp-zh-127"
     },
     {
         "TITLE": "SCP-ZH-748",
-        "RATING": 5
+        "RATING": 5,
+        "FULLNAME": "scp-zh-748"
     },
     {
         "TITLE": "SCP-ZH-510",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-510"
     },
     {
         "TITLE": "SCP-ZH-406",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "scp-zh-406"
     },
     {
         "TITLE": "安布羅斯餐廳-崇文館",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "ambrose-chung-wen-kuan"
     },
     {
         "TITLE": "聖誕帽，這是Dr. Xmas的日子",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "xina-mas-2019"
     },
     {
         "TITLE": "研究員LostWhat角色歌：在碎片裡面",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "in-the-shard"
     }
 ]

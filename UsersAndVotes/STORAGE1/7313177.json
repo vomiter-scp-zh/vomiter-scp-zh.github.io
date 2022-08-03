@@ -1,134 +1,167 @@
 [
     {
         "TITLE": "SCP-ZH-174",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "scp-zh-174"
     },
     {
         "TITLE": "SCP-ZH-815",
-        "RATING": 35
+        "RATING": 35,
+        "FULLNAME": "scp-zh-815"
     },
     {
         "TITLE": "SCP-ZH-070",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "scp-zh-070"
     },
     {
         "TITLE": "SCP-ZH-120",
-        "RATING": 38
+        "RATING": 38,
+        "FULLNAME": "scp-zh-120"
     },
     {
         "TITLE": "SCP-ZH-075",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "scp-zh-075"
     },
     {
         "TITLE": "SCP-ZH-027 - 玉籠包",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "scp-zh-027"
     },
     {
         "TITLE": "SCP-ZH-055",
-        "RATING": 18
+        "RATING": 18,
+        "FULLNAME": "scp-zh-055"
     },
     {
         "TITLE": "SCP-ZH-200",
-        "RATING": 33
+        "RATING": 33,
+        "FULLNAME": "scp-zh-200"
     },
     {
         "TITLE": "SCP-ZH-263",
-        "RATING": 4
+        "RATING": 4,
+        "FULLNAME": "scp-zh-263"
     },
     {
         "TITLE": "Bright博士教你如何正確擊退敵人",
-        "RATING": 24
+        "RATING": 24,
+        "FULLNAME": "how-to-defeat-those-bad-guys-correctly"
     },
     {
         "TITLE": "SCP-ZH-133",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "scp-zh-133"
     },
     {
         "TITLE": "菇菇基金會",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "fungi-foundation"
     },
     {
         "TITLE": "SCP-ZH-282",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "scp-zh-282"
     },
     {
         "TITLE": "SCP-ZH-446 - 化蟲",
-        "RATING": 27
+        "RATING": 27,
+        "FULLNAME": "scp-zh-446"
     },
     {
         "TITLE": "SCP-ZH-088",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-088"
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "RATING": 55
+        "RATING": 55,
+        "FULLNAME": "scp-zh-2005-ex"
     },
     {
         "TITLE": "SCP-ZH-204",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "scp-zh-204"
     },
     {
         "TITLE": "藝術紀錄：網路紅人。",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "art-for-zh2005ex"
     },
     {
         "TITLE": "Ctrl Z博士的SCP-ZH記錄-1",
-        "RATING": 24
+        "RATING": 24,
+        "FULLNAME": "creepy-tunnel"
     },
     {
         "TITLE": "SCP-ZH-207",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "scp-zh-207"
     },
     {
         "TITLE": "SCP-ZH-022-J - 拜託誰來把它填上",
-        "RATING": 36
+        "RATING": 36,
+        "FULLNAME": "scp-zh-022-j"
     },
     {
         "TITLE": "2021愚人節主頁",
-        "RATING": 24
+        "RATING": 24,
+        "FULLNAME": "super-cooking-pot"
     },
     {
         "TITLE": "Valmúa小合集",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "valmua-compilation"
     },
     {
         "TITLE": "SCP-ZH-975 - 基準現實函數：輸入",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-975"
     },
     {
         "TITLE": "SCP-ZH-880",
-        "RATING": 29
+        "RATING": 29,
+        "FULLNAME": "scp-zh-880"
     },
     {
         "TITLE": "SCP-ZH-185",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "scp-zh-185"
     },
     {
         "TITLE": "SCP-ZH-736 - 你不能再往前了",
-        "RATING": 31
+        "RATING": 31,
+        "FULLNAME": "scp-zh-736"
     },
     {
         "TITLE": "SCP-ZH-115",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "scp-zh-115"
     },
     {
         "TITLE": "異常項目紀錄：「防暴警察頭盔」",
-        "RATING": 35
+        "RATING": 35,
+        "FULLNAME": "anomalous-item-hk-police-helmet"
     },
     {
         "TITLE": "SCP-ZH-110 - 地板破了個洞",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "scp-zh-110"
     },
     {
         "TITLE": "SCP-ZH-909 - 評分模塊",
-        "RATING": 6
+        "RATING": 6,
+        "FULLNAME": "scp-zh-909"
     },
     {
         "TITLE": "SCP-ZH-916 - 夢迴熔爐",
-        "RATING": 18
+        "RATING": 18,
+        "FULLNAME": "scp-zh-916"
     },
     {
         "TITLE": "SCP-ZH-235",
-        "RATING": 21
+        "RATING": 21,
+        "FULLNAME": "adult:scp-zh-235"
     }
 ]

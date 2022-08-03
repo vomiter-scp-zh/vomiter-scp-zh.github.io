@@ -1,22 +1,27 @@
 [
     {
         "TITLE": "孩子的世界",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "childhood"
     },
     {
         "TITLE": "SCP-ZH-174",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "scp-zh-174"
     },
     {
         "TITLE": "木易藏書閣目錄 木-一一五 《望月箸》",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "mu-yi-115"
     },
     {
         "TITLE": "SCP-ZH-098 - 「寧靜」",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "scp-zh-098"
     },
     {
         "TITLE": "SCP-ZH-987",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-987"
     }
 ]

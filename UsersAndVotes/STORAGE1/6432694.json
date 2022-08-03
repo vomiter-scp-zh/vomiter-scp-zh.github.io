@@ -1,14 +1,17 @@
 [
     {
         "TITLE": "安布羅斯餐廳-崇文館",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "ambrose-chung-wen-kuan"
     },
     {
         "TITLE": "SCP-ZH-60053-J - HONK",
-        "RATING": 42
+        "RATING": 42,
+        "FULLNAME": "scp-zh-60053-j"
     },
     {
         "TITLE": "SCP-ZH-0601-J",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "scp-zh-0601-j"
     }
 ]

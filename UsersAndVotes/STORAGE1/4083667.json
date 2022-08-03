@@ -1,14 +1,17 @@
 [
     {
         "TITLE": "SCP-ZH-285 - 致命誘惑",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "scp-zh-285"
     },
     {
         "TITLE": "SCP-ZH-069",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-069"
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-02",
-        "RATING": 25
+        "RATING": 25,
+        "FULLNAME": "site-zh-02"
     }
 ]

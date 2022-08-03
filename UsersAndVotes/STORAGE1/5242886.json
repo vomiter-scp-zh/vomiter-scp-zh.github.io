@@ -1,14 +1,17 @@
 [
     {
         "TITLE": "SCP-ZH-003",
-        "RATING": 6
+        "RATING": 6,
+        "FULLNAME": "scp-zh-003"
     },
     {
         "TITLE": "SCP-ZH-372",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "scp-zh-372"
     },
     {
         "TITLE": "SCP-ZH-610 - 猛爆性繁衍組織瘤",
-        "RATING": 21
+        "RATING": 21,
+        "FULLNAME": "scp-zh-610"
     }
 ]

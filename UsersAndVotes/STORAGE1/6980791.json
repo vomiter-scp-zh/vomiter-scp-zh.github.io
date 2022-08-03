@@ -1,142 +1,177 @@
 [
     {
         "TITLE": "SCP-ZH-222-J",
-        "RATING": 24
+        "RATING": 24,
+        "FULLNAME": "scp-zh-222-j"
     },
     {
         "TITLE": "SCP-ZH-005",
-        "RATING": 59
+        "RATING": 59,
+        "FULLNAME": "scp-zh-005"
     },
     {
         "TITLE": "假如你來到這個宇宙請保持冷靜",
-        "RATING": 30
+        "RATING": 30,
+        "FULLNAME": "you-need-icecream-in-summer"
     },
     {
         "TITLE": "工作人員及角色檔案-ZH",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "personnel-and-character-dossier-zh"
     },
     {
         "TITLE": "SCP-ZH-998 - 現象學",
-        "RATING": 36
+        "RATING": 36,
+        "FULLNAME": "scp-zh-998"
     },
     {
         "TITLE": "籠中鳥",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "caged-bird"
     },
     {
         "TITLE": "SCP-ZH-9288-EX",
-        "RATING": 44
+        "RATING": 44,
+        "FULLNAME": "scp-zh-9288-ex"
     },
     {
         "TITLE": "SCP-ZH-044",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "scp-zh-044"
     },
     {
         "TITLE": "SCP-ZH-860 - dado的「发」財藥",
-        "RATING": 33
+        "RATING": 33,
+        "FULLNAME": "scp-zh-860"
     },
     {
         "TITLE": "年獸爭奪戰",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "year-critical-strike"
     },
     {
         "TITLE": "「三垣」中心頁",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "three-enclosures-hub"
     },
     {
         "TITLE": "SCP-ZH-113",
-        "RATING": 27
+        "RATING": 27,
+        "FULLNAME": "scp-zh-113"
     },
     {
         "TITLE": "SCP-ZH-111",
-        "RATING": 33
+        "RATING": 33,
+        "FULLNAME": "scp-zh-111"
     },
     {
         "TITLE": "航海學中心頁",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "navigation"
     },
     {
         "TITLE": "神異博覽會一九三五",
-        "RATING": 24
+        "RATING": 24,
+        "FULLNAME": "taiwan-miracle-exposition"
     },
     {
         "TITLE": "殘影、殘響及殘燭（或稱為██、██及██）",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "zycie-zhizn-life"
     },
     {
         "TITLE": "終期消毒，熄燈號",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "mtf15-14-td1"
     },
     {
         "TITLE": "SCP-ZH-500",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "scp-zh-500"
     },
     {
         "TITLE": "未署名的聖誕禮物 Site-ZH-02",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "xmas-gift-but-have-no-signature-02"
     },
     {
         "TITLE": "SCP-ZH-446 - 化蟲",
-        "RATING": 27
+        "RATING": 27,
+        "FULLNAME": "scp-zh-446"
     },
     {
         "TITLE": "Nihilmace給新人的一些創作建議：我該如何讓文章合格？",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "plz-fuck-off-mary-sue"
     },
     {
         "TITLE": "雲湧",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "cloud-well"
     },
     {
         "TITLE": "SCP-ZH-878",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "scp-zh-878"
     },
     {
         "TITLE": "SCP-ZH-088",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-088"
     },
     {
         "TITLE": "聖誕節前夕",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "christmas-eve"
     },
     {
         "TITLE": "聖誕清夢",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "xmas-dream"
     },
     {
         "TITLE": "ZH，025，1225",
-        "RATING": 18
+        "RATING": 18,
+        "FULLNAME": "zh-025-xmas"
     },
     {
         "TITLE": "晴雨",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "sun-shower-metha"
     },
     {
         "TITLE": "吊運",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "lifting"
     },
     {
         "TITLE": "SCP-ZH-647 - 嘴砲老人",
-        "RATING": 31
+        "RATING": 31,
+        "FULLNAME": "scp-zh-647"
     },
     {
         "TITLE": "穿越時空的稽查，最後目的地是永和豆漿",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "in-the-maze-of-2020"
     },
     {
         "TITLE": "賦其以形",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "give-it-shape"
     },
     {
         "TITLE": "殘燭",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "candle-in-the-wind"
     },
     {
         "TITLE": "SCP-ZH-526",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "scp-zh-526"
     },
     {
         "TITLE": "SCP-ZH-090 - 毆打皮納塔！",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "scp-zh-090"
     }
 ]

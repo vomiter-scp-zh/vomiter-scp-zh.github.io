@@ -1,10 +1,12 @@
 [
     {
         "TITLE": "工作人員及角色檔案-ZH",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "personnel-and-character-dossier-zh"
     },
     {
         "TITLE": "Ｓ之死",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "the-death-of-sam-or-semibreve-etc"
     }
 ]

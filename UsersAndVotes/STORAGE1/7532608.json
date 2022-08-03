@@ -1,94 +1,117 @@
 [
     {
         "TITLE": "SCP-ZH-60053-J - HONK",
-        "RATING": 42
+        "RATING": 42,
+        "FULLNAME": "scp-zh-60053-j"
     },
     {
         "TITLE": "小動物簡介：Surge！",
-        "RATING": 25
+        "RATING": 25,
+        "FULLNAME": "critter-profile-surge"
     },
     {
         "TITLE": "雷射雕刻──Site-ZH-12",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "site-zh-12-made-with-wood"
     },
     {
         "TITLE": "鎖鏈的音竹",
-        "RATING": 26
+        "RATING": 26,
+        "FULLNAME": "k1s10r0d-chain-sugoi"
     },
     {
         "TITLE": "炙熱的午後時光",
-        "RATING": 28
+        "RATING": 28,
+        "FULLNAME": "the-ss-vs-ss"
     },
     {
         "TITLE": "SCP-ZH-096解密",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "scp-zh-096-declassification"
     },
     {
         "TITLE": "SCP-ZH-1000-EX",
-        "RATING": 18
+        "RATING": 18,
+        "FULLNAME": "scp-zh-1000-ex"
     },
     {
         "TITLE": "What The Fuck",
-        "RATING": 24
+        "RATING": 24,
+        "FULLNAME": "what-the-fuck"
     },
     {
         "TITLE": "SCP-ZH-228 - 翠埔，1947。",
-        "RATING": 25
+        "RATING": 25,
+        "FULLNAME": "scp-zh-228"
     },
     {
         "TITLE": "量子自殺",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "quantum-suicide"
     },
     {
         "TITLE": "量子永生",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "quantum-immortality"
     },
     {
         "TITLE": "SCP-ZH-110 - 地板破了個洞",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "scp-zh-110"
     },
     {
         "TITLE": "SCP-ZH-352 - 絕命六龜葡萄",
-        "RATING": 18
+        "RATING": 18,
+        "FULLNAME": "scp-zh-352"
     },
     {
         "TITLE": "Ｓ之死",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "the-death-of-sam-or-semibreve-etc"
     },
     {
         "TITLE": "SCP-ZH-701 - 掠食性降雨",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "scp-zh-701"
     },
     {
         "TITLE": "k1s10r0d的提案 - IMMOLARI",
-        "RATING": 33
+        "RATING": 33,
+        "FULLNAME": "k1s10r0d-s-proposal"
     },
     {
         "TITLE": "SCP-ZH-277－築路中原",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "scp-zh-277"
     },
     {
         "TITLE": "SCP-ZH-337 - 夢工廠",
-        "RATING": 28
+        "RATING": 28,
+        "FULLNAME": "scp-zh-337"
     },
     {
         "TITLE": "SCP-ZH-106-「逆模因」",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "scp-zh-106"
     },
     {
         "TITLE": "藝術作品：SCP-ZH-922（SamScript版）",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "cidal-dongi-by-samscript"
     },
     {
         "TITLE": "藝術作品：SCP-ZH-922（k1s10r0d版）",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "cidal-dongi-by-k1s10r0d"
     },
     {
         "TITLE": "藝術作品：SCP-ZH-922（LuLu_Lucifelle版）",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "cidal-dongi-by-lulu-lucifelle"
     },
     {
         "TITLE": "我們都只是血肉之軀",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "we-are-no-more-than-mortal-souls"
     }
 ]

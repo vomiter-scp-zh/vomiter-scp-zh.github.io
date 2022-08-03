@@ -1,54 +1,67 @@
 [
     {
         "TITLE": "SCP-ZH-105 - 不孝子",
-        "RATING": 65
+        "RATING": 65,
+        "FULLNAME": "scp-zh-105"
     },
     {
         "TITLE": "在星星之下",
-        "RATING": 4
+        "RATING": 4,
+        "FULLNAME": "ilmari"
     },
     {
         "TITLE": "SCP-ZH-171",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "scp-zh-171"
     },
     {
         "TITLE": "SCP-ZH-324",
-        "RATING": 5
+        "RATING": 5,
+        "FULLNAME": "scp-zh-324"
     },
     {
         "TITLE": "SCP-ZH-912",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "scp-zh-912"
     },
     {
         "TITLE": "殘影、殘響及殘燭（或稱為██、██及██）",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "zycie-zhizn-life"
     },
     {
         "TITLE": "終期消毒，熄燈號",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "mtf15-14-td1"
     },
     {
         "TITLE": "未署名的聖誕禮物 Site-ZH-02",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "xmas-gift-but-have-no-signature-02"
     },
     {
         "TITLE": "殘燭",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "candle-in-the-wind"
     },
     {
         "TITLE": "SCP-ZH-526",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "scp-zh-526"
     },
     {
         "TITLE": "真實",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "authentic"
     },
     {
         "TITLE": "SCP-ZH-140",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "scp-zh-140"
     },
     {
         "TITLE": "方針核許異聞零零零貳－水畔公國",
-        "RATING": 0
+        "RATING": 0,
+        "FULLNAME": "zh-bt-strange-news-0002"
     }
 ]

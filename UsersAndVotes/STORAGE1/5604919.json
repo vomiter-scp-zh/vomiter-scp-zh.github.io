@@ -1,382 +1,477 @@
 [
     {
         "TITLE": "SCP-ZH-252",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "scp-zh-252"
     },
     {
         "TITLE": "B3冷凍庫幽靈饕客",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "site-zh-02-eater"
     },
     {
         "TITLE": "沒有人會負責善後",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "nobodyneedshelp"
     },
     {
         "TITLE": "最真實的往往無法看見",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "the-truth-is-usually-invisible"
     },
     {
         "TITLE": "到職",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "arrival"
     },
     {
         "TITLE": "花語：仙丹花",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "chinese-ixora"
     },
     {
         "TITLE": "SCP-ZH-045",
-        "RATING": 18
+        "RATING": 18,
+        "FULLNAME": "scp-zh-045"
     },
     {
         "TITLE": "對欲肉教的人類學進路03-案例研究03：香港新茶嶺的盧亭人",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "sarkic-case-study-03-the-luo-ting-n-a-of-new-cha-ling"
     },
     {
         "TITLE": "SCP-ZH-815",
-        "RATING": 35
+        "RATING": 35,
+        "FULLNAME": "scp-zh-815"
     },
     {
         "TITLE": "處銀白之中，於虹光之間",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "in-the-snow-in-the-iris"
     },
     {
         "TITLE": "三生有幸",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "third-life"
     },
     {
         "TITLE": "鄉間小徑",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "dreamcatcher"
     },
     {
         "TITLE": "調查中，非請勿入",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "under-investigation-and-keep-out-of-here"
     },
     {
         "TITLE": "Valentine的Logo頁",
-        "RATING": 21
+        "RATING": 21,
+        "FULLNAME": "valentine-logo"
     },
     {
         "TITLE": "花語：檉柳",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "tamaricaceae"
     },
     {
         "TITLE": "SCP-ZH-9288-EX",
-        "RATING": 44
+        "RATING": 44,
+        "FULLNAME": "scp-zh-9288-ex"
     },
     {
         "TITLE": "SCP-ZH-120",
-        "RATING": 38
+        "RATING": 38,
+        "FULLNAME": "scp-zh-120"
     },
     {
         "TITLE": "我在這裡一陣子了",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "been-a-while"
     },
     {
         "TITLE": "山姆的ZH分部角色紀錄本",
-        "RATING": 24
+        "RATING": 24,
+        "FULLNAME": "doodles-from-sam"
     },
     {
         "TITLE": "SCP-ZH-973",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "scp-zh-973"
     },
     {
         "TITLE": "沙皇先知協會中心頁",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "tsars-hub"
     },
     {
         "TITLE": "SCP-ZH-300",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "scp-zh-300"
     },
     {
         "TITLE": "聖誕帽，這是Dr. Xmas的日子",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "xina-mas-2019"
     },
     {
         "TITLE": "SCP-ZH-626",
-        "RATING": 23
+        "RATING": 23,
+        "FULLNAME": "scp-zh-626"
     },
     {
         "TITLE": "聖夜晚餐",
-        "RATING": 21
+        "RATING": 21,
+        "FULLNAME": "so-i-said-that-dinner"
     },
     {
         "TITLE": "研究員LostWhat角色歌：在碎片裡面",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "in-the-shard"
     },
     {
         "TITLE": "SCP-ZH-216",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "scp-zh-216"
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-12",
-        "RATING": 23
+        "RATING": 23,
+        "FULLNAME": "site-zh-12"
     },
     {
         "TITLE": "藝術紀錄：SCP-ZH-100",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "art-for-0100"
     },
     {
         "TITLE": "雕刻作品：聖夜相守",
-        "RATING": 18
+        "RATING": 18,
+        "FULLNAME": "handcrafts"
     },
     {
         "TITLE": "SCP-ZH-097",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "scp-zh-097"
     },
     {
         "TITLE": "已被廢除的國安局第八處 中心頁",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "old-nsb8-hub"
     },
     {
         "TITLE": "安布羅斯餐廳-伊薩科夫號分店 (節日限定)",
-        "RATING": 28
+        "RATING": 28,
+        "FULLNAME": "ambrose-isakov"
     },
     {
         "TITLE": "SCP-ZH-860 - dado的「发」財藥",
-        "RATING": 33
+        "RATING": 33,
+        "FULLNAME": "scp-zh-860"
     },
     {
         "TITLE": "年獸爭奪戰",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "year-critical-strike"
     },
     {
         "TITLE": "SCP-ZH-202",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "scp-zh-202"
     },
     {
         "TITLE": "Dr. Bales的日常小品集錦 一",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "bales-s-daily-1"
     },
     {
         "TITLE": "從今以後，她將永生",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "she-lives-in-my-heart"
     },
     {
         "TITLE": "SCP-ZH-055",
-        "RATING": 18
+        "RATING": 18,
+        "FULLNAME": "scp-zh-055"
     },
     {
         "TITLE": "Kondraki的四次方麻煩",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "four-konnies-four-troubles"
     },
     {
         "TITLE": "人之天使，神之奴",
-        "RATING": 7
+        "RATING": 7,
+        "FULLNAME": "three-faced-servant"
     },
     {
         "TITLE": "SCP-066 新概念音響",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "scp-066-painting"
     },
     {
         "TITLE": "美麗的蝴蝶仙子Kondraki博士",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "oh-god-this-is-kondraki"
     },
     {
         "TITLE": "賓主盡歡",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "fools-wine"
     },
     {
         "TITLE": "蛛網起源：那是1993年",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "1993-cobweb-international"
     },
     {
         "TITLE": "Alicia女士",
-        "RATING": 31
+        "RATING": 31,
+        "FULLNAME": "scp-zh-774"
     },
     {
         "TITLE": "SCP-ZH-150",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "scp-zh-150"
     },
     {
         "TITLE": "終章：2020年",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "part0-in-the-end"
     },
     {
         "TITLE": "章節名：華葬",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "i-hate-myself"
     },
     {
         "TITLE": "我不認識游泳池裡的屍體",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "i-don-t-know-the-body-in-the-swim-pool"
     },
     {
         "TITLE": "SCP-ZH-012",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "scp-zh-012"
     },
     {
         "TITLE": "我在萬物之中",
-        "RATING": 36
+        "RATING": 36,
+        "FULLNAME": "arkwork-3999"
     },
     {
         "TITLE": "我的爺爺",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "my-grandpa"
     },
     {
         "TITLE": "淵夢的黑白圖集01",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "abyssdream-pic-01"
     },
     {
         "TITLE": "SCP-ZH-200",
-        "RATING": 33
+        "RATING": 33,
+        "FULLNAME": "scp-zh-200"
     },
     {
         "TITLE": "我沒能救到他。",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "arkwork-zh-200"
     },
     {
         "TITLE": "噢不！屍體正在逃跑！",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "oh-no-body-is-running"
     },
     {
         "TITLE": "研究員黃羽霆的辦公室",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "cnblack-s-laboratory"
     },
     {
         "TITLE": "刀下心，又名叛狼返巢",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "cleguisbt"
     },
     {
         "TITLE": "SCP-ZH-2588-J",
-        "RATING": 5
+        "RATING": 5,
+        "FULLNAME": "scp-zh-2588-j"
     },
     {
         "TITLE": "無夢之人是否會夢到明天的景色",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "dream-about-tomorrow"
     },
     {
         "TITLE": "香脆夏威夷披薩",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "sh-crispy-pineapple-pizza"
     },
     {
         "TITLE": "新聞快訊：若我們要達到仁慈的下場，應該遵守哪些事情",
-        "RATING": 24
+        "RATING": 24,
+        "FULLNAME": "news-site-zh-81-1"
     },
     {
         "TITLE": "落磐",
-        "RATING": 7
+        "RATING": 7,
+        "FULLNAME": "fall-stable"
     },
     {
         "TITLE": "File No.HKC454/1",
-        "RATING": 7
+        "RATING": 7,
+        "FULLNAME": "file-no-hkc454"
     },
     {
         "TITLE": "引血香：我等需給予罪人懲罰",
-        "RATING": 7
+        "RATING": 7,
+        "FULLNAME": "sh-zh174"
     },
     {
         "TITLE": "花語：琉璃苣",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "borage"
     },
     {
         "TITLE": "削不完肉的沙威瑪",
-        "RATING": 21
+        "RATING": 21,
+        "FULLNAME": "parawatch-shawarma"
     },
     {
         "TITLE": "實習",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "practice"
     },
     {
         "TITLE": "闇壽司檔案No.053「紅豆軍艦」",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "yamizushi-file-053"
     },
     {
         "TITLE": "3D油飯",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "sh-3d-glutinous-oil-rice"
     },
     {
         "TITLE": "SCP-ZH-264",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "scp-zh-264"
     },
     {
         "TITLE": "卡嚓……卡嚓……",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "kacha"
     },
     {
         "TITLE": "SCP-ZH-289",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "scp-zh-289"
     },
     {
         "TITLE": "SCP-ZH-078",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "scp-zh-078"
     },
     {
         "TITLE": "成為一個工廠領工",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "the-foreman"
     },
     {
         "TITLE": "SCP-ZH-175",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-175"
     },
     {
         "TITLE": "SCP-ZH-103 相關實驗記錄",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "scp-zh-103-experiment-log"
     },
     {
         "TITLE": "巧達Clef!",
-        "RATING": 24
+        "RATING": 24,
+        "FULLNAME": "arkwork-chowderclef"
     },
     {
         "TITLE": "記憶的洪流",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "stream-of-memory"
     },
     {
         "TITLE": "個人日誌",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "personal-diary-of-iceberg-and-gears"
     },
     {
         "TITLE": "47",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "47"
     },
     {
         "TITLE": "滿洲國異常辦公室隊歌",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "the-song-of-mckao"
     },
     {
         "TITLE": "日環蝕與主任與冰淇凌",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "abyssdream-pic-v"
     },
     {
         "TITLE": "SCP-ZH-700",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "scp-zh-700"
     },
     {
         "TITLE": "SCP-ZH-229-EX",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "scp-zh-229-ex"
     },
     {
         "TITLE": "為何我們不能濫用現實穩定錨？",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "about-scranton-reality-anchors"
     },
     {
         "TITLE": "繁中站點地下街",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "shopping-arcade"
     },
     {
         "TITLE": "在那天，妳仍舊向我道了聲晚安",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "at-that-day-you-still-wish-me-a-good-dream"
     },
     {
         "TITLE": "缺席者的盛宴",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "eclipse-absence"
     },
     {
         "TITLE": "蛛網國際安保報告書 CI-S-057：霓虹兔電子遊樂場",
-        "RATING": 7
+        "RATING": 7,
+        "FULLNAME": "cobweb-ci-s-057"
     },
     {
         "TITLE": "藝術紀錄：校外教學。",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "art-for-2316"
     },
     {
         "TITLE": "麻糬的繁中人員畫作選集·一",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "the-art-work-collection-of-wright-wilson-2"
     },
     {
         "TITLE": "濃湯約會",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "chowder-date"
     },
     {
         "TITLE": "穹頂之下的那人",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "hbd-to-vik"
     }
 ]

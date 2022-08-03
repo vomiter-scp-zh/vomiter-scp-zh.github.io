@@ -1,14 +1,17 @@
 [
     {
         "TITLE": "SCP-ZH-946",
-        "RATING": 27
+        "RATING": 27,
+        "FULLNAME": "scp-zh-946"
     },
     {
         "TITLE": "Surge的提案一",
-        "RATING": 31
+        "RATING": 31,
+        "FULLNAME": "surge-s-proposal-1"
     },
     {
         "TITLE": "故事的力量～你為什麼需要超形上學～",
-        "RATING": 24
+        "RATING": 24,
+        "FULLNAME": "why-you-need-pataphysics"
     }
 ]

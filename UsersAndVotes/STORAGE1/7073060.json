@@ -1,902 +1,1127 @@
 [
     {
         "TITLE": "2022夏季競賽 主題《X》",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "summer-contest-2022"
     },
     {
         "TITLE": "近期的創作（二）",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "sq-artwork-1b"
     },
     {
         "TITLE": "SCP-⊛❂❍◌",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "scp-zh-868"
     },
     {
         "TITLE": "SCP基金會繁中分部的標誌",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "logo-zh"
     },
     {
         "TITLE": "2022 虹光之間",
-        "RATING": 7
+        "RATING": 7,
+        "FULLNAME": "darkroom-2022"
     },
     {
         "TITLE": "汽水的藝作頁1",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "lillianasoda-artworks1"
     },
     {
         "TITLE": "維安事故ZH-330-2",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "incident-zh-330-2"
     },
     {
         "TITLE": "SCP-ZH-330 - 舊日的記憶樂章",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "scp-zh-330"
     },
     {
         "TITLE": "安塔雷斯運動宣導",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "propaganda-of-the-antares-movement"
     },
     {
         "TITLE": "近期的創作（一）",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "sq-artwork-1a"
     },
     {
         "TITLE": "別惹我",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "don-t-tread-on-me"
     },
     {
         "TITLE": "異塵漫步",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "a-walk-in-the-fallout"
     },
     {
         "TITLE": "1970-1972奇萊山區未解明事件再審提案",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "unsolved-cases-mount-qilai-1970-1972"
     },
     {
         "TITLE": "刺蝟筆記本：ZH分部人物合輯（ZH-12站篇）",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "hedgehog-note-site-zh-12"
     },
     {
         "TITLE": "SCP-ZH-900",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "scp-zh-900"
     },
     {
         "TITLE": "小動物簡介：Sesame&amp;Mochi!",
-        "RATING": 5
+        "RATING": 5,
+        "FULLNAME": "sesame-mochi"
     },
     {
         "TITLE": "佩森尼爾私設小裙子好耶",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "pthahnil-drees-relenaxd"
     },
     {
         "TITLE": "SCP-ZH-382 - 犧牲品",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "scp-zh-382"
     },
     {
         "TITLE": "小動物簡介：Perillos！",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "critter-profile-perillos"
     },
     {
         "TITLE": "Myosotis",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "myosotis"
     },
     {
         "TITLE": "NX-ZH-02：西加走灣群島",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "nx-zh-02"
     },
     {
         "TITLE": "SCP-ZH-403 - 禁臠與終止符",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "scp-zh-403"
     },
     {
         "TITLE": "SCP-ZH-801 - 湮滅公分母",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-801"
     },
     {
         "TITLE": "希望的顏色",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "color-of-hope"
     },
     {
         "TITLE": "翻譯不只是塊蛋糕",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "sth-about-translation"
     },
     {
         "TITLE": "SCP-ZH-998 - 現象學",
-        "RATING": 36
+        "RATING": 36,
+        "FULLNAME": "scp-zh-998"
     },
     {
         "TITLE": "SCP-ZH-9288-EX",
-        "RATING": 44
+        "RATING": 44,
+        "FULLNAME": "scp-zh-9288-ex"
     },
     {
         "TITLE": "核裂擠兌中心頁",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "operation-nucleon-bank"
     },
     {
         "TITLE": "Dr.Ray的異常項目分級圖標",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "ray-s-logo"
     },
     {
         "TITLE": "SCP-ZH-959",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-959"
     },
     {
         "TITLE": "SCP-ZH-002 - 台灣獨角獸",
-        "RATING": 36
+        "RATING": 36,
+        "FULLNAME": "scp-zh-002"
     },
     {
         "TITLE": "SCP-ZH-626",
-        "RATING": 23
+        "RATING": 23,
+        "FULLNAME": "scp-zh-626"
     },
     {
         "TITLE": "行動計劃 第叁捌肆字號",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "nsb8-384"
     },
     {
         "TITLE": "SCP-ZH-202",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "scp-zh-202"
     },
     {
         "TITLE": "SCP-ZH-747 - 趨凶避凶",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "scp-zh-747"
     },
     {
         "TITLE": "SCP-ZH-109",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "scp-zh-109"
     },
     {
         "TITLE": "SCP-ZH-236",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "scp-zh-236"
     },
     {
         "TITLE": "SCP-ZH-480",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-480"
     },
     {
         "TITLE": "「三垣」中心頁",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "three-enclosures-hub"
     },
     {
         "TITLE": "SCP-ZH-113",
-        "RATING": 27
+        "RATING": 27,
+        "FULLNAME": "scp-zh-113"
     },
     {
         "TITLE": "SCP-ZH-729 - 性感鬣蜥",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "scp-zh-729"
     },
     {
         "TITLE": "航海學中心頁",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "navigation"
     },
     {
         "TITLE": "海神悲鳴時",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "wadatsumi-no-naku-koroni"
     },
     {
         "TITLE": "闇壽司檔案No.019「伸卡握法」",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "yamizushi-file-no019"
     },
     {
         "TITLE": "神異博覽會一九三五",
-        "RATING": 24
+        "RATING": 24,
+        "FULLNAME": "taiwan-miracle-exposition"
     },
     {
         "TITLE": "收容室ZH-S12-E-024實驗紀錄",
-        "RATING": 33
+        "RATING": 33,
+        "FULLNAME": "scp-zh-024"
     },
     {
         "TITLE": "SCP-ZH-500",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "scp-zh-500"
     },
     {
         "TITLE": "Nihilmace給新人的一些創作建議：我該如何讓文章合格？",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "plz-fuck-off-mary-sue"
     },
     {
         "TITLE": "SCP-ZH-023",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "scp-zh-023"
     },
     {
         "TITLE": "2021冬季競賽 主題《紅》",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "winter-ace-2021"
     },
     {
         "TITLE": "殘燭",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "candle-in-the-wind"
     },
     {
         "TITLE": "特工Flash角色歌：在風暴之中",
-        "RATING": 5
+        "RATING": 5,
+        "FULLNAME": "in-the-storm"
     },
     {
         "TITLE": "節慶的顏色",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "festive-colors"
     },
     {
         "TITLE": "SCP-ZH-526",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "scp-zh-526"
     },
     {
         "TITLE": "SCP-ZH-090 - 毆打皮納塔！",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "scp-zh-090"
     },
     {
         "TITLE": "真實",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "authentic"
     },
     {
         "TITLE": "SCP-ZH-091",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "scp-zh-091"
     },
     {
         "TITLE": "學生檔案-S16905160",
-        "RATING": 6
+        "RATING": 6,
+        "FULLNAME": "st-christina-college"
     },
     {
         "TITLE": "銀色之後",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "behind-the-silver"
     },
     {
         "TITLE": "爆旋壽司 青龍舞兮 朱雀飛翔",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "sushi-dragon-phoenix"
     },
     {
         "TITLE": "SCP-ZH-079",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "scp-zh-079"
     },
     {
         "TITLE": "無面的沙場",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "a-battlefield-without-emotion"
     },
     {
         "TITLE": "SCP-ZH-248 - 尤斯蒂亞症候群",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "scp-zh-248"
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "RATING": 55
+        "RATING": 55,
+        "FULLNAME": "scp-zh-2005-ex"
     },
     {
         "TITLE": "沒什麼，只是一張老照片",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "nothing-just-a-old-picture"
     },
     {
         "TITLE": "伊伽姊姊去哪了?",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "zh-248-f004"
     },
     {
         "TITLE": "生醫創作與你：寫給基金會作家的名詞辨析",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "biomedical-sense-zh"
     },
     {
         "TITLE": "SCP-ZH-204",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "scp-zh-204"
     },
     {
         "TITLE": "慢性存活",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "chronic-survival"
     },
     {
         "TITLE": "藝術紀錄：網路紅人。",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "art-for-zh2005ex"
     },
     {
         "TITLE": "對於火鍋的慾望",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "whatyousay"
     },
     {
         "TITLE": "線的另一端",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "red-red-string"
     },
     {
         "TITLE": "SCP-ZH-404",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "scp-zh-404"
     },
     {
         "TITLE": "水族館約會",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "aquarium-date-art"
     },
     {
         "TITLE": "SCP-ZH-240",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "scp-zh-240"
     },
     {
         "TITLE": "SCP-ZH-950 - 綠神經",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "scp-zh-950"
     },
     {
         "TITLE": "食堂約會",
-        "RATING": 21
+        "RATING": 21,
+        "FULLNAME": "canteen-date"
     },
     {
         "TITLE": "2013年的雙人自拍",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "selfie-of-metha-and-kris-in-2013"
     },
     {
         "TITLE": "魔鳥與魔鳥使",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "hafune"
     },
     {
         "TITLE": "雷陣雨",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "thunderstorm"
     },
     {
         "TITLE": "SCP-ZH-593 - 坡頂",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "scp-zh-593"
     },
     {
         "TITLE": "Ctrl Z博士的SCP-ZH記錄-2",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "escape-chess"
     },
     {
         "TITLE": "你會感到後悔嗎？",
-        "RATING": 34
+        "RATING": 34,
+        "FULLNAME": "what-are-you-waiting-for-just-join-goc-dude"
     },
     {
         "TITLE": "SCP-ZH-496 - 安全極限距離",
-        "RATING": 28
+        "RATING": 28,
+        "FULLNAME": "scp-zh-496"
     },
     {
         "TITLE": "SCP-ZH-322",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "scp-zh-322"
     },
     {
         "TITLE": "SCP-ZH-835 - 燦藍神化天穹",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "scp-zh-835"
     },
     {
         "TITLE": "SCP-ZH-022-J - 拜託誰來把它填上",
-        "RATING": 36
+        "RATING": 36,
+        "FULLNAME": "scp-zh-022-j"
     },
     {
         "TITLE": "SCP-ZH-033",
-        "RATING": 3
+        "RATING": 3,
+        "FULLNAME": "scp-zh-033"
     },
     {
         "TITLE": "霜寒",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "frozencold"
     },
     {
         "TITLE": "愚人節的致命模因",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "the-bottle-in-april-fools"
     },
     {
         "TITLE": "SCP-ZH-00l",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "scp-zh-00l"
     },
     {
         "TITLE": "SCP-ZH-250 - 人造的雪色面具",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-250"
     },
     {
         "TITLE": "SCP-ZH-873 - 鐵鏽味",
-        "RATING": 7
+        "RATING": 7,
+        "FULLNAME": "scp-zh-873"
     },
     {
         "TITLE": "SCP-ZH-833",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-833"
     },
     {
         "TITLE": "SCP-ZH-093",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "scp-zh-093"
     },
     {
         "TITLE": "SCP-ZH-975 - 基準現實函數：輸入",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-975"
     },
     {
         "TITLE": "SCP-ZH-880",
-        "RATING": 29
+        "RATING": 29,
+        "FULLNAME": "scp-zh-880"
     },
     {
         "TITLE": "SCP-ZH-162",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-162"
     },
     {
         "TITLE": "鎖鏈的音竹",
-        "RATING": 26
+        "RATING": 26,
+        "FULLNAME": "k1s10r0d-chain-sugoi"
     },
     {
         "TITLE": "SCP-ZH-488",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "scp-zh-488"
     },
     {
         "TITLE": "SCP-ZH-946",
-        "RATING": 27
+        "RATING": 27,
+        "FULLNAME": "scp-zh-946"
     },
     {
         "TITLE": "Surge的提案一",
-        "RATING": 31
+        "RATING": 31,
+        "FULLNAME": "surge-s-proposal-1"
     },
     {
         "TITLE": "故事的力量～你為什麼需要超形上學～",
-        "RATING": 24
+        "RATING": 24,
+        "FULLNAME": "why-you-need-pataphysics"
     },
     {
         "TITLE": "SCP-ZH-736 - 你不能再往前了",
-        "RATING": 31
+        "RATING": 31,
+        "FULLNAME": "scp-zh-736"
     },
     {
         "TITLE": "炙熱的午後時光",
-        "RATING": 28
+        "RATING": 28,
+        "FULLNAME": "the-ss-vs-ss"
     },
     {
         "TITLE": "開幕儀式",
-        "RATING": 3
+        "RATING": 3,
+        "FULLNAME": "black-sheep-rite"
     },
     {
         "TITLE": "SCP-ZH-903",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "scp-zh-903"
     },
     {
         "TITLE": "伊亞的故事",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "ea-the-daughter"
     },
     {
         "TITLE": "收容奇緣：Sigurrós",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "sigurros-and-taiwanese-unicorn"
     },
     {
         "TITLE": "實域真實",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "true-real"
     },
     {
         "TITLE": "挑戰活動 職位交換",
-        "RATING": 7
+        "RATING": 7,
+        "FULLNAME": "transfer-challenge-zh"
     },
     {
         "TITLE": "山姆的ZH分部項目紀錄本",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "samscript-scp-artwork"
     },
     {
         "TITLE": "遠己中心頁",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "yuanji-hub"
     },
     {
         "TITLE": "SCP-ZH-533 - 惡性聯結車",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "scp-zh-533"
     },
     {
         "TITLE": "SCP-ZH-782 - 牛角泰森",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "scp-zh-782"
     },
     {
         "TITLE": "你是啥物人？",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "to-the-doctor"
     },
     {
         "TITLE": "SCP-ZH-231",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "scp-zh-231"
     },
     {
         "TITLE": "SCP-ZH-800",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "scp-zh-800"
     },
     {
         "TITLE": "開箱檢查",
-        "RATING": 3
+        "RATING": 3,
+        "FULLNAME": "arcadeinvestigative"
     },
     {
         "TITLE": "英雄集結",
-        "RATING": 3
+        "RATING": 3,
+        "FULLNAME": "a-motley-crew"
     },
     {
         "TITLE": "直到聖杯再現",
-        "RATING": 3
+        "RATING": 3,
+        "FULLNAME": "until-san-greal-are-needed-once-again"
     },
     {
         "TITLE": "SCP-ZH-327 - 花兒與檳榔",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "scp-zh-327"
     },
     {
         "TITLE": "SCP-ZH-270 - 撒奇萊雅的刺竹林",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "scp-zh-270"
     },
     {
         "TITLE": "SCP-ZH-709",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "scp-zh-709"
     },
     {
         "TITLE": "SCP-ZH-614 - 4D粽子",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "scp-zh-614"
     },
     {
         "TITLE": "SCP-ZH-988",
-        "RATING": 7
+        "RATING": 7,
+        "FULLNAME": "scp-zh-988"
     },
     {
         "TITLE": "SCP-ZH-115",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "scp-zh-115"
     },
     {
         "TITLE": "SCP-ZH-620 - 瘟疫燃燒於生命之泉",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "scp-zh-620"
     },
     {
         "TITLE": "SCP-ZH-410",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "scp-zh-410"
     },
     {
         "TITLE": "2021 夏季競賽 主題《異聞錄》",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "summer-contest-2021"
     },
     {
         "TITLE": "SCP-ZH-576 - 花語",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "scp-zh-576"
     },
     {
         "TITLE": "SCP-ZH-198",
-        "RATING": 3
+        "RATING": 3,
+        "FULLNAME": "scp-zh-198"
     },
     {
         "TITLE": "SCP-ZH-034",
-        "RATING": 23
+        "RATING": 23,
+        "FULLNAME": "scp-zh-034"
     },
     {
         "TITLE": "SCP-ZH-112 - 祝你生日快樂",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "scp-zh-112"
     },
     {
         "TITLE": "天亮前的戀愛故事",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "taisho150-lovestorybeforedawn"
     },
     {
         "TITLE": "SCP-ZH-096 - 紅移破滅",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "scp-zh-096"
     },
     {
         "TITLE": "SCP-ZH-060-J - Re:在音竹宇宙重生的煩人美少女到底是甚麼東西呀?!",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "scp-zh-060-j"
     },
     {
         "TITLE": "SCP-ZH-096解密",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "scp-zh-096-declassification"
     },
     {
         "TITLE": "機動特遣隊擴充系統：黃道二十八宿",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "task-forces-zh-28-xiu"
     },
     {
         "TITLE": "SCP-ZH-1000-EX",
-        "RATING": 18
+        "RATING": 18,
+        "FULLNAME": "scp-zh-1000-ex"
     },
     {
         "TITLE": "SCP-ZH-409",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "scp-zh-409"
     },
     {
         "TITLE": "SCP-ZH-299 - 大者長千里，小者數十分。",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "scp-zh-299"
     },
     {
         "TITLE": "SCP-ZH-205",
-        "RATING": 6
+        "RATING": 6,
+        "FULLNAME": "scp-zh-205"
     },
     {
         "TITLE": "異常項目紀錄：「防暴警察頭盔」",
-        "RATING": 35
+        "RATING": 35,
+        "FULLNAME": "anomalous-item-hk-police-helmet"
     },
     {
         "TITLE": "SCP-ZH-067 - 藍圖",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-067"
     },
     {
         "TITLE": "SCP-ZH-128",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "scp-zh-128"
     },
     {
         "TITLE": "SCP-ZH-377 - 海托世的捐血車",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "scp-zh-377"
     },
     {
         "TITLE": "SCP-ZH-177 - 深井",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "scp-zh-177"
     },
     {
         "TITLE": "午後間歇",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "midsummer-the-plants-and-you"
     },
     {
         "TITLE": "SCP-ZH-220",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "scp-zh-220"
     },
     {
         "TITLE": "SCP-ZH-969",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "scp-zh-969"
     },
     {
         "TITLE": "SCP-ZH-048",
-        "RATING": 21
+        "RATING": 21,
+        "FULLNAME": "scp-zh-048"
     },
     {
         "TITLE": "SCP-ZH-613",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "scp-zh-613"
     },
     {
         "TITLE": "手部記憶",
-        "RATING": 5
+        "RATING": 5,
+        "FULLNAME": "memories-of-the-arm"
     },
     {
         "TITLE": "SCP-ZH-776",
-        "RATING": 6
+        "RATING": 6,
+        "FULLNAME": "scp-zh-776"
     },
     {
         "TITLE": "LTE-1903-Orange-Blaecca",
-        "RATING": 7
+        "RATING": 7,
+        "FULLNAME": "lte-1903-orange-blaecca"
     },
     {
         "TITLE": "對向列車的狂奔人影",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "running-shadow-of-the-opposite-train"
     },
     {
         "TITLE": "某人的夢",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "benitoite-little-pigeon-halloween"
     },
     {
         "TITLE": "十月十七日憶院外友人",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "17-th-october-a-letter-to-a-friend"
     },
     {
         "TITLE": "資本主義、來襲",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "capitalism-attack"
     },
     {
         "TITLE": "SCP-ZH-057 - 暴躁小行星",
-        "RATING": 18
+        "RATING": 18,
+        "FULLNAME": "scp-zh-057"
     },
     {
         "TITLE": "SCP-ZH-360",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "scp-zh-360"
     },
     {
         "TITLE": "SCP-ZH-228 - 翠埔，1947。",
-        "RATING": 25
+        "RATING": 25,
+        "FULLNAME": "scp-zh-228"
     },
     {
         "TITLE": "SCP-ZH-808 - 鬼門關",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "scp-zh-808"
     },
     {
         "TITLE": "美好的老日子",
-        "RATING": 7
+        "RATING": 7,
+        "FULLNAME": "the-goodie-old-days"
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-44",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "site-zh-44"
     },
     {
         "TITLE": "SCP-ZH-352 - 絕命六龜葡萄",
-        "RATING": 18
+        "RATING": 18,
+        "FULLNAME": "scp-zh-352"
     },
     {
         "TITLE": "項目企劃書 2017-47：《健康的代價》",
-        "RATING": 23
+        "RATING": 23,
+        "FULLNAME": "project-proposal-2017-47-zh"
     },
     {
         "TITLE": "聖夜相守再一夜",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "christmas-event3"
     },
     {
         "TITLE": "SCP-ZH-398 - 四面閻魔",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "scp-zh-398"
     },
     {
         "TITLE": "莉亞",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "riariaria2"
     },
     {
         "TITLE": "SCP-ZH-399 - 我們心中的444號視聽教室",
-        "RATING": 29
+        "RATING": 29,
+        "FULLNAME": "scp-zh-399"
     },
     {
         "TITLE": "聖誕EVE",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "xmas-eve-art"
     },
     {
         "TITLE": "聖夜出遊",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "merry-christmas-aya-and-mayaw"
     },
     {
         "TITLE": "SCP-999-JP - 第九號當以九言述之",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "scp-999-jp-enneametric"
     },
     {
         "TITLE": "繁中管理員筆記：2021年回顧",
-        "RATING": 34
+        "RATING": 34,
+        "FULLNAME": "note-for-u-guys-2021"
     },
     {
         "TITLE": "SCP-ZH-499 - 康乃馨盔甲工藝",
-        "RATING": 37
+        "RATING": 37,
+        "FULLNAME": "scp-zh-499"
     },
     {
         "TITLE": "無標題",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "adiscoolyesss"
     },
     {
         "TITLE": "人的兩面",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "duality-of-man"
     },
     {
         "TITLE": "那個輔路她",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "that-volutaar"
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
-        "RATING": 54
+        "RATING": 54,
+        "FULLNAME": "scp-zh-999"
     },
     {
         "TITLE": "退休生活",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "retire-from-bistro"
     },
     {
         "TITLE": "SCP-ZH-062 - 燈猴",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "scp-zh-062"
     },
     {
         "TITLE": "SCP-ZH-059 - 無形的奴隸與反抗",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "scp-zh-059"
     },
     {
         "TITLE": "k1s10r0d的提案 - IMMOLARI",
-        "RATING": 33
+        "RATING": 33,
+        "FULLNAME": "k1s10r0d-s-proposal"
     },
     {
         "TITLE": "SCP-ZH-094 - 失敗作",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "scp-zh-094"
     },
     {
         "TITLE": "SCP-ZH-072 - 工作間失竊事件",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "scp-zh-072"
     },
     {
         "TITLE": "SCP-ZH-337 - 夢工廠",
-        "RATING": 28
+        "RATING": 28,
+        "FULLNAME": "scp-zh-337"
     },
     {
         "TITLE": "Matini！2022！繁中！急迫競賽！",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "jamcon-zh-2022"
     },
     {
         "TITLE": "白雲孤飛",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "i-ll-come-back-to-the-earth-and-bring-the-piece-of-the-star"
     },
     {
         "TITLE": "SCP-ZH-107 - 捕鳥雲",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "scp-zh-107"
     },
     {
         "TITLE": "SCP-ZH-056 - 本班機飛往彼岸",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "scp-zh-056"
     },
     {
         "TITLE": "兒童走失處理紀錄",
-        "RATING": 26
+        "RATING": 26,
+        "FULLNAME": "snowcatflyhighhigh"
     },
     {
         "TITLE": "聖女憐子",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "kz-la-pieta"
     },
     {
         "TITLE": "SCP-ZH-086 - 請你別說見過我",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "scp-zh-086"
     },
     {
         "TITLE": "墮天使的祈願",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "fly-to-the-sky"
     },
     {
         "TITLE": "SCP-ZH-223 - 孽種",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "scp-zh-223"
     },
     {
         "TITLE": "SCP-ZH-725 - 空蟲",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "scp-zh-725"
     },
     {
         "TITLE": "SCP-ZH-413 - 含碘晴天娃娃",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "scp-zh-413"
     },
     {
         "TITLE": "SCP-ZH-432 - 更好的你",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "scp-zh-432"
     },
     {
         "TITLE": "SCP-ZH-385 - 子母巡弋飛彈MSC-7「獌束」",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "scp-zh-385"
     },
     {
         "TITLE": "SCP-ZH-073 - 巡迴演出最終站",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "scp-zh-073"
     },
     {
         "TITLE": "SCP-ZH-609 - 睡前檢查",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "scp-zh-609"
     },
     {
         "TITLE": "時間刻",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "counting-down"
     },
     {
         "TITLE": "SCP-ZH-930 - 基輔戰鬼顯現之時",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "scp-zh-930"
     },
     {
         "TITLE": "SCP-ZH-179 - 冤枉",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "scp-zh-179"
     },
     {
         "TITLE": "電子星空",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "electronic-stary"
     },
     {
         "TITLE": "SCP-ZH-777 - 七鐘證偽傳七響",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "scp-zh-777"
     },
     {
         "TITLE": "025O的畫",
-        "RATING": 18
+        "RATING": 18,
+        "FULLNAME": "025o-s-painting"
     },
     {
         "TITLE": "SCP-ZH-106-「逆模因」",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "scp-zh-106"
     },
     {
         "TITLE": "SCP-ZH-922 - 馬蘭姑娘",
-        "RATING": 24
+        "RATING": 24,
+        "FULLNAME": "scp-zh-922"
     },
     {
         "TITLE": "山本研究員的ZH-922觀察日誌",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "romiamiad-ni-cidal"
     },
     {
         "TITLE": "SCP-ZH-255 - 孤獨險",
-        "RATING": 18
+        "RATING": 18,
+        "FULLNAME": "scp-zh-225"
     },
     {
         "TITLE": "2022愚人節主頁",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "soup-chicken-power"
     },
     {
         "TITLE": "Site-ZH-88的標誌",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "zh-88-logo"
     },
     {
         "TITLE": "命懸一鴨，逃出生天",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "among-in-the-duck"
     },
     {
         "TITLE": "布魯克林第零區：完形崩壞",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "boorklyn-00-crash"
     },
     {
         "TITLE": "歡迎，敬啟者",
-        "RATING": 18
+        "RATING": 18,
+        "FULLNAME": "multiversal-valentine"
     },
     {
         "TITLE": "第22天",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "project-mia-day-by-mimeow"
     },
     {
         "TITLE": "「我沒瘋」",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "i-mcrazy"
     },
     {
         "TITLE": "「火魔法」回顧：似同實異的兩大類術式",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "review-of-fire-spells"
     },
     {
         "TITLE": "SCP-ZH-235",
-        "RATING": 21
+        "RATING": 21,
+        "FULLNAME": "adult:scp-zh-235"
     },
     {
         "TITLE": "SCP-ZH-338",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "adult:scp-zh-338"
     },
     {
         "TITLE": "SCP-V1L3-J實驗產物附圖備份",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "adult:k1s10r0d-art-of-v1l3-j-burning-calories"
     },
     {
         "TITLE": "晚安12站",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "adult:oyasumi-site-zh-12"
     }
 ]

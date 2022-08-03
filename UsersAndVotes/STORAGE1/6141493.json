@@ -1,178 +1,222 @@
 [
     {
         "TITLE": "Myosotis",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "myosotis"
     },
     {
         "TITLE": "SCP-ZH-883",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "scp-zh-883"
     },
     {
         "TITLE": "SCP-ZH-105 - 不孝子",
-        "RATING": 65
+        "RATING": 65,
+        "FULLNAME": "scp-zh-105"
     },
     {
         "TITLE": "SCP-ZH-125",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "scp-zh-125"
     },
     {
         "TITLE": "泡影",
-        "RATING": 7
+        "RATING": 7,
+        "FULLNAME": "the-bubble-in-the-tide"
     },
     {
         "TITLE": "SCP-ZH-047",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "scp-zh-047"
     },
     {
         "TITLE": "SCP-ZH-120",
-        "RATING": 38
+        "RATING": 38,
+        "FULLNAME": "scp-zh-120"
     },
     {
         "TITLE": "洗標：橘3041-Dr. Owen的實驗袍",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "owens-clothes"
     },
     {
         "TITLE": "章節名：華葬",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "i-hate-myself"
     },
     {
         "TITLE": "我在萬物之中",
-        "RATING": 36
+        "RATING": 36,
+        "FULLNAME": "arkwork-3999"
     },
     {
         "TITLE": "我沒能救到他。",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "arkwork-zh-200"
     },
     {
         "TITLE": "眼見不一定為實",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "the-thing-you-can-see-is-not-always-authentic"
     },
     {
         "TITLE": "巧達Clef!",
-        "RATING": 24
+        "RATING": 24,
+        "FULLNAME": "arkwork-chowderclef"
     },
     {
         "TITLE": "在那天，妳仍舊向我道了聲晚安",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "at-that-day-you-still-wish-me-a-good-dream"
     },
     {
         "TITLE": "水銀研究員的文檔向量化筆記_第一部分",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "researcher-hg-s-svg-art-part1"
     },
     {
         "TITLE": "SCP-ZH-015",
-        "RATING": 23
+        "RATING": 23,
+        "FULLNAME": "scp-zh-015"
     },
     {
         "TITLE": "SCP-ZH-147",
-        "RATING": 18
+        "RATING": 18,
+        "FULLNAME": "scp-zh-147"
     },
     {
         "TITLE": "廁所裡的致命模因",
-        "RATING": 31
+        "RATING": 31,
+        "FULLNAME": "the-bottle-in-restroom"
     },
     {
         "TITLE": "藝術@(&amp;ˊ紀█：自我中心。",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "art-for-zh-111"
     },
     {
         "TITLE": "收容室ZH-S12-E-024實驗紀錄",
-        "RATING": 33
+        "RATING": 33,
+        "FULLNAME": "scp-zh-024"
     },
     {
         "TITLE": "鏡中的我如是說",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "in-the-mirror"
     },
     {
         "TITLE": "SCP-ZH-526",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "scp-zh-526"
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "RATING": 55
+        "RATING": 55,
+        "FULLNAME": "scp-zh-2005-ex"
     },
     {
         "TITLE": "慢性存活",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "chronic-survival"
     },
     {
         "TITLE": "SCP-ZH-022-J - 拜託誰來把它填上",
-        "RATING": 36
+        "RATING": 36,
+        "FULLNAME": "scp-zh-022-j"
     },
     {
         "TITLE": "SCP-ZH-115",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "scp-zh-115"
     },
     {
         "TITLE": "SCP-ZH-620 - 瘟疫燃燒於生命之泉",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "scp-zh-620"
     },
     {
         "TITLE": "SCP-ZH-032",
-        "RATING": 21
+        "RATING": 21,
+        "FULLNAME": "scp-zh-032"
     },
     {
         "TITLE": "SCP-ZH-034",
-        "RATING": 23
+        "RATING": 23,
+        "FULLNAME": "scp-zh-034"
     },
     {
         "TITLE": "SCP-ZH-112 - 祝你生日快樂",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "scp-zh-112"
     },
     {
         "TITLE": "SCP-ZH-048",
-        "RATING": 21
+        "RATING": 21,
+        "FULLNAME": "scp-zh-048"
     },
     {
         "TITLE": "SCP-ZH-144 - 十二進位法",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "scp-zh-144"
     },
     {
         "TITLE": "百花魔女的愛之書",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "snedronningen"
     },
     {
         "TITLE": "SCP-ZH-352 - 絕命六龜葡萄",
-        "RATING": 18
+        "RATING": 18,
+        "FULLNAME": "scp-zh-352"
     },
     {
         "TITLE": "項目企劃書 2017-47：《健康的代價》",
-        "RATING": 23
+        "RATING": 23,
+        "FULLNAME": "project-proposal-2017-47-zh"
     },
     {
         "TITLE": "SCP-ZH-701 - 掠食性降雨",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "scp-zh-701"
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
-        "RATING": 54
+        "RATING": 54,
+        "FULLNAME": "scp-zh-999"
     },
     {
         "TITLE": "k1s10r0d的提案 - IMMOLARI",
-        "RATING": 33
+        "RATING": 33,
+        "FULLNAME": "k1s10r0d-s-proposal"
     },
     {
         "TITLE": "SCP-ZH-094 - 失敗作",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "scp-zh-094"
     },
     {
         "TITLE": "SCP-ZH-517 - One More Time, One More Chance",
-        "RATING": 18
+        "RATING": 18,
+        "FULLNAME": "scp-zh-517"
     },
     {
         "TITLE": "SCP-ZH-337 - 夢工廠",
-        "RATING": 28
+        "RATING": 28,
+        "FULLNAME": "scp-zh-337"
     },
     {
         "TITLE": "勿忘我",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "forget-me-not-lucifelle"
     },
     {
         "TITLE": "虔誠神父與社畜輔導員不會撞破蒙臉上司們做羞羞的事",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "one-night-four-broken-hearts-in-12"
     },
     {
         "TITLE": "「火魔法」回顧：似同實異的兩大類術式",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "review-of-fire-spells"
     }
 ]

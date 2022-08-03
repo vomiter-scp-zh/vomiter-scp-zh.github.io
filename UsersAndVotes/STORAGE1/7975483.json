@@ -1,82 +1,102 @@
 [
     {
         "TITLE": "木易藏書閣目錄 雜-五九六 《察何臺的行軍套裝》",
-        "RATING": 6
+        "RATING": 6,
+        "FULLNAME": "mu-yi-596"
     },
     {
         "TITLE": "SCP-⊛❂❍◌",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "scp-zh-868"
     },
     {
         "TITLE": "SCP-ZH-196 - 與ㅤㅤㅤㅤ婆娑起舞",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "scp-zh-196"
     },
     {
         "TITLE": "安眠華爾茲",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "dormitive-waltz"
     },
     {
         "TITLE": "在繼續前進之前",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "before-the-moving-on"
     },
     {
         "TITLE": "site-zh-13站點標誌",
-        "RATING": 4
+        "RATING": 4,
+        "FULLNAME": "scp-zh-13-icon"
     },
     {
         "TITLE": "SCP基金會繁中分部的標誌",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "logo-zh"
     },
     {
         "TITLE": "2022 虹光之間",
-        "RATING": 7
+        "RATING": 7,
+        "FULLNAME": "darkroom-2022"
     },
     {
         "TITLE": "近期的創作（一）",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "sq-artwork-1a"
     },
     {
         "TITLE": "別惹我",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "don-t-tread-on-me"
     },
     {
         "TITLE": "鐘架",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "bell-frame"
     },
     {
         "TITLE": "異塵漫步",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "a-walk-in-the-fallout"
     },
     {
         "TITLE": "你知道嗎",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "do-you-know-i-love-you"
     },
     {
         "TITLE": "小動物簡介：Perillos！",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "critter-profile-perillos"
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-16",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "site-zh-16"
     },
     {
         "TITLE": "SCP-ZH-005",
-        "RATING": 59
+        "RATING": 59,
+        "FULLNAME": "scp-zh-005"
     },
     {
         "TITLE": "SCP-ZH-515 - 平安符",
-        "RATING": 43
+        "RATING": 43,
+        "FULLNAME": "scp-zh-515"
     },
     {
         "TITLE": "k1s10r0d的提案 - IMMOLARI",
-        "RATING": 33
+        "RATING": 33,
+        "FULLNAME": "k1s10r0d-s-proposal"
     },
     {
         "TITLE": "SCP-ZH-540 - Alone In The Dark",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-540"
     },
     {
         "TITLE": "Site-ZH-88的標誌",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "zh-88-logo"
     }
 ]

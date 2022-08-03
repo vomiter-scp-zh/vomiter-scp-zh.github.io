@@ -1,122 +1,152 @@
 [
     {
         "TITLE": "SCP基金會不知道的那些事件",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "ocd-virus01"
     },
     {
         "TITLE": "站點綠化提案",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "greening"
     },
     {
         "TITLE": "到職",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "arrival"
     },
     {
         "TITLE": "洗標：橘2147-Dr. Bales的實驗衣",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "orange-2147"
     },
     {
         "TITLE": "跑腿",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "run-errands"
     },
     {
         "TITLE": "冰箱",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "fridge"
     },
     {
         "TITLE": "SCP-ZH-012",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "scp-zh-012"
     },
     {
         "TITLE": "在那天，妳仍舊向我道了聲晚安",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "at-that-day-you-still-wish-me-a-good-dream"
     },
     {
         "TITLE": "濃湯約會",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "chowder-date"
     },
     {
         "TITLE": "小動物簡介：Surge！",
-        "RATING": 25
+        "RATING": 25,
+        "FULLNAME": "critter-profile-surge"
     },
     {
         "TITLE": "無硝的沙場",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "a-battlefield-without-gunpowder"
     },
     {
         "TITLE": "廁所裡的致命模因",
-        "RATING": 31
+        "RATING": 31,
+        "FULLNAME": "the-bottle-in-restroom"
     },
     {
         "TITLE": "收容室ZH-S12-E-024實驗紀錄",
-        "RATING": 33
+        "RATING": 33,
+        "FULLNAME": "scp-zh-024"
     },
     {
         "TITLE": "白日夢遊者",
-        "RATING": 7
+        "RATING": 7,
+        "FULLNAME": "daydream-walker"
     },
     {
         "TITLE": "花語：花毛茛",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "ranunculus"
     },
     {
         "TITLE": "雲湧",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "cloud-well"
     },
     {
         "TITLE": "願君安好",
-        "RATING": 23
+        "RATING": 23,
+        "FULLNAME": "wish-you-safe-and-sound"
     },
     {
         "TITLE": "吊運",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "lifting"
     },
     {
         "TITLE": "爆旋壽司 青龍舞兮 朱雀飛翔",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "sushi-dragon-phoenix"
     },
     {
         "TITLE": "Dr. Bales的日常小品集錦 二",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "bales-s-daily-2"
     },
     {
         "TITLE": "你會感到後悔嗎？",
-        "RATING": 34
+        "RATING": 34,
+        "FULLNAME": "what-are-you-waiting-for-just-join-goc-dude"
     },
     {
         "TITLE": "SCP-ZH-022-J - 拜託誰來把它填上",
-        "RATING": 36
+        "RATING": 36,
+        "FULLNAME": "scp-zh-022-j"
     },
     {
         "TITLE": "愚人節的致命模因",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "the-bottle-in-april-fools"
     },
     {
         "TITLE": "SCP-ZH-00l",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "scp-zh-00l"
     },
     {
         "TITLE": "炙熱的午後時光",
-        "RATING": 28
+        "RATING": 28,
+        "FULLNAME": "the-ss-vs-ss"
     },
     {
         "TITLE": "中港路上沒有人只有野狼",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "wolf-125"
     },
     {
         "TITLE": "「轉世計劃」",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "project-reincarnation"
     },
     {
         "TITLE": "SCP-ZH-057 - 暴躁小行星",
-        "RATING": 18
+        "RATING": 18,
+        "FULLNAME": "scp-zh-057"
     },
     {
         "TITLE": "SCP-ZH-999-J",
-        "RATING": 4
+        "RATING": 4,
+        "FULLNAME": "scp-zh-999-j"
     },
     {
         "TITLE": "又是個該死的工作天",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "another-damn-workday"
     }
 ]

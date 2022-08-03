@@ -1,26 +1,32 @@
 [
     {
         "TITLE": "都市傳說型異常應對部門中心頁",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "urban-legend-department"
     },
     {
         "TITLE": "SCP-ZH-002 - 台灣獨角獸",
-        "RATING": 36
+        "RATING": 36,
+        "FULLNAME": "scp-zh-002"
     },
     {
         "TITLE": "SCP-ZH-00l",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "scp-zh-00l"
     },
     {
         "TITLE": "SCP-ZH-399 - 我們心中的444號視聽教室",
-        "RATING": 29
+        "RATING": 29,
+        "FULLNAME": "scp-zh-399"
     },
     {
         "TITLE": "SCP-ZH-059 - 無形的奴隸與反抗",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "scp-zh-059"
     },
     {
         "TITLE": "SCP-ZH-123 - 給自己的筆記",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "scp-zh-123"
     }
 ]

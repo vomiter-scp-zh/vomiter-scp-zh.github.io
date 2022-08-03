@@ -1,10 +1,12 @@
 [
     {
         "TITLE": "SCP-ZH-005",
-        "RATING": 59
+        "RATING": 59,
+        "FULLNAME": "scp-zh-005"
     },
     {
         "TITLE": "SCP-ZH-815",
-        "RATING": 35
+        "RATING": 35,
+        "FULLNAME": "scp-zh-815"
     }
 ]

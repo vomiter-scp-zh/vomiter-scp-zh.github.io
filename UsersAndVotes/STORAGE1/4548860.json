@@ -1,190 +1,237 @@
 [
     {
         "TITLE": "SCP-ZH-940",
-        "RATING": 7
+        "RATING": 7,
+        "FULLNAME": "scp-zh-940"
     },
     {
         "TITLE": "SCP-ZH-252",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "scp-zh-252"
     },
     {
         "TITLE": "SCP-ZH-825",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "scp-zh-825"
     },
     {
         "TITLE": "SCP-ZH-118",
-        "RATING": 6
+        "RATING": 6,
+        "FULLNAME": "scp-zh-118"
     },
     {
         "TITLE": "SCP-ZH-583",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "scp-zh-583"
     },
     {
         "TITLE": "SCP-ZH-477 - 不可抗吸引",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "scp-zh-477"
     },
     {
         "TITLE": "SCP-ZH-285 - 致命誘惑",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "scp-zh-285"
     },
     {
         "TITLE": "SCP-ZH-069",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-069"
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-02",
-        "RATING": 25
+        "RATING": 25,
+        "FULLNAME": "site-zh-02"
     },
     {
         "TITLE": "SCP-ZH-720",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "scp-zh-720"
     },
     {
         "TITLE": "SCP-ZH-020",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "scp-zh-020"
     },
     {
         "TITLE": "挑戰傳統評分方式：關於自訂評分模版",
-        "RATING": 24
+        "RATING": 24,
+        "FULLNAME": "rating-against-traditions"
     },
     {
         "TITLE": "SCP-ZH-501 - 永恆之心",
-        "RATING": 4
+        "RATING": 4,
+        "FULLNAME": "scp-zh-501"
     },
     {
         "TITLE": "SCP-ZH-323",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-323"
     },
     {
         "TITLE": "SCP-ZH-823",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "scp-zh-823"
     },
     {
         "TITLE": "潛在危險無法被文字記錄",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "disremember"
     },
     {
         "TITLE": "沒有人會負責善後",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "nobodyneedshelp"
     },
     {
         "TITLE": "站點綠化提案",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "greening"
     },
     {
         "TITLE": "SCP-ZH-886",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "scp-zh-886"
     },
     {
         "TITLE": "SCP-ZH-972",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "scp-zh-972"
     },
     {
         "TITLE": "首級",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "head"
     },
     {
         "TITLE": "SCP-ZH-035",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "scp-zh-035"
     },
     {
         "TITLE": "歸來",
-        "RATING": 6
+        "RATING": 6,
+        "FULLNAME": "the-tales-of-agents"
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-16",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "site-zh-16"
     },
     {
         "TITLE": "SCP-ZH-310 - 異常蛋白質結構域",
-        "RATING": 26
+        "RATING": 26,
+        "FULLNAME": "scp-zh-310"
     },
     {
         "TITLE": "SCP-ZH-005",
-        "RATING": 59
+        "RATING": 59,
+        "FULLNAME": "scp-zh-005"
     },
     {
         "TITLE": "SCP-ZH-199",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "scp-zh-199"
     },
     {
         "TITLE": "SCP-ZH-105 - 不孝子",
-        "RATING": 65
+        "RATING": 65,
+        "FULLNAME": "scp-zh-105"
     },
     {
         "TITLE": "SCP-ZH-661",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-661"
     },
     {
         "TITLE": "血跡-上",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "bloodstain-1"
     },
     {
         "TITLE": "血跡-下",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "bloodstain-2"
     },
     {
         "TITLE": "SCP-ZH-125",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "scp-zh-125"
     },
     {
         "TITLE": "認養海報：Choco！",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "adoption-poster-choco"
     },
     {
         "TITLE": "SCP-ZH-077",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "scp-zh-077"
     },
     {
         "TITLE": "最真實的往往無法看見",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "the-truth-is-usually-invisible"
     },
     {
         "TITLE": "直面恐懼的足跡",
-        "RATING": 6
+        "RATING": 6,
+        "FULLNAME": "courageous-footprints"
     },
     {
         "TITLE": "到職",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "arrival"
     },
     {
         "TITLE": "SCP-ZH-515 - 平安符",
-        "RATING": 43
+        "RATING": 43,
+        "FULLNAME": "scp-zh-515"
     },
     {
         "TITLE": "SCP-ZH-080",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-080"
     },
     {
         "TITLE": "SCP-ZH-719-J",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "scp-zh-719-j"
     },
     {
         "TITLE": "SCP-ZH-610 - 猛爆性繁衍組織瘤",
-        "RATING": 21
+        "RATING": 21,
+        "FULLNAME": "scp-zh-610"
     },
     {
         "TITLE": "認識段落寫作",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "understanding-paragraph"
     },
     {
         "TITLE": "SCP-ZH-254",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "scp-zh-254"
     },
     {
         "TITLE": "SCP-ZH-815",
-        "RATING": 35
+        "RATING": 35,
+        "FULLNAME": "scp-zh-815"
     },
     {
         "TITLE": "SCP-ZH-087 - 棄稿",
-        "RATING": 30
+        "RATING": 30,
+        "FULLNAME": "scp-zh-087"
     },
     {
         "TITLE": "SCP-ZH-626",
-        "RATING": 23
+        "RATING": 23,
+        "FULLNAME": "scp-zh-626"
     },
     {
         "TITLE": "SCP-ZH-416",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "scp-zh-416"
     }
 ]

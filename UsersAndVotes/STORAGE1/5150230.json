@@ -1,50 +1,62 @@
 [
     {
         "TITLE": "SCP-ZH-629",
-        "RATING": 5
+        "RATING": 5,
+        "FULLNAME": "scp-zh-629"
     },
     {
         "TITLE": "SCP-ZH-510",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-510"
     },
     {
         "TITLE": "SCP-ZH-618",
-        "RATING": 41
+        "RATING": 41,
+        "FULLNAME": "scp-zh-618"
     },
     {
         "TITLE": "SCP-ZH-823",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "scp-zh-823"
     },
     {
         "TITLE": "直面恐懼的足跡",
-        "RATING": 6
+        "RATING": 6,
+        "FULLNAME": "courageous-footprints"
     },
     {
         "TITLE": "SCP-ZH-711",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "scp-zh-711"
     },
     {
         "TITLE": "SCP-ZH-564",
-        "RATING": 5
+        "RATING": 5,
+        "FULLNAME": "scp-zh-564"
     },
     {
         "TITLE": "SCP-ZH-973",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "scp-zh-973"
     },
     {
         "TITLE": "SCP-ZH-011",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "scp-zh-011"
     },
     {
         "TITLE": "SCP-1678 UnLondon 鏡像倫敦",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "the-london-from-eternal2018"
     },
     {
         "TITLE": "SCP-073 Cain 該隱 &amp; SCP-076 Abel 亞伯",
-        "RATING": 6
+        "RATING": 6,
+        "FULLNAME": "the-cain-from-eternal2018"
     },
     {
         "TITLE": "SCP-191 Cyborg Child機械女孩&amp;SCP-2845 The Deer牡鹿",
-        "RATING": 4
+        "RATING": 4,
+        "FULLNAME": "the-eternal2018-artwork-3"
     }
 ]

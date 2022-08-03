@@ -1,198 +1,247 @@
 [
     {
         "TITLE": "SCP-ZH-117",
-        "RATING": 33
+        "RATING": 33,
+        "FULLNAME": "scp-zh-117"
     },
     {
         "TITLE": "SCP-ZH-003",
-        "RATING": 6
+        "RATING": 6,
+        "FULLNAME": "scp-zh-003"
     },
     {
         "TITLE": "SCP-ZH-587-J",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "scp-zh-587-j"
     },
     {
         "TITLE": "SCP-ZH-222-J",
-        "RATING": 24
+        "RATING": 24,
+        "FULLNAME": "scp-zh-222-j"
     },
     {
         "TITLE": "SCP-ZH-009",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "scp-zh-009"
     },
     {
         "TITLE": "挑戰傳統評分方式：關於自訂評分模版",
-        "RATING": 24
+        "RATING": 24,
+        "FULLNAME": "rating-against-traditions"
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-16",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "site-zh-16"
     },
     {
         "TITLE": "SCP-ZH-005",
-        "RATING": 59
+        "RATING": 59,
+        "FULLNAME": "scp-zh-005"
     },
     {
         "TITLE": "SCP-ZH-006",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-006"
     },
     {
         "TITLE": "SCP-ZH-105 - 不孝子",
-        "RATING": 65
+        "RATING": 65,
+        "FULLNAME": "scp-zh-105"
     },
     {
         "TITLE": "SCP-ZH-719-J",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "scp-zh-719-j"
     },
     {
         "TITLE": "SCP-ZH-254",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "scp-zh-254"
     },
     {
         "TITLE": "SCP-ZH-913 - 回家月餅",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "scp-zh-913"
     },
     {
         "TITLE": "安保設施檔案：Site-ZH-50",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "site-zh-50"
     },
     {
         "TITLE": "Dr.Ray的異常項目分級圖標",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "ray-s-logo"
     },
     {
         "TITLE": "雕刻作品：聖夜相守",
-        "RATING": 18
+        "RATING": 18,
+        "FULLNAME": "handcrafts"
     },
     {
         "TITLE": "Viken-K的模因標示回收場",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "viken-k-arts"
     },
     {
         "TITLE": "SCP-ZH-60053-J - HONK",
-        "RATING": 42
+        "RATING": 42,
+        "FULLNAME": "scp-zh-60053-j"
     },
     {
         "TITLE": "SCP-ZH-016",
-        "RATING": 7
+        "RATING": 7,
+        "FULLNAME": "scp-zh-016"
     },
     {
         "TITLE": "蛛網起源：那是1993年",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "1993-cobweb-international"
     },
     {
         "TITLE": "SCP-ZH-200",
-        "RATING": 33
+        "RATING": 33,
+        "FULLNAME": "scp-zh-200"
     },
     {
         "TITLE": "削不完肉的沙威瑪",
-        "RATING": 21
+        "RATING": 21,
+        "FULLNAME": "parawatch-shawarma"
     },
     {
         "TITLE": "菇菇基金會",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "fungi-foundation"
     },
     {
         "TITLE": "水銀研究員的文檔向量化筆記_第一部分",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "researcher-hg-s-svg-art-part1"
     },
     {
         "TITLE": "距離世界末日還有五分鐘",
-        "RATING": 24
+        "RATING": 24,
+        "FULLNAME": "five-minutes-to-end"
     },
     {
         "TITLE": "SCP-ZH-013",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "scp-zh-013"
     },
     {
         "TITLE": "SCP-ZH-391",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-391"
     },
     {
         "TITLE": "SCP-ZH-014",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "scp-zh-014"
     },
     {
         "TITLE": "中國國安部，不應存在的十九局",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "19th-bureau-of-mss-of-china"
     },
     {
         "TITLE": "SCP-ZH-061",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "scp-zh-061"
     },
     {
         "TITLE": "蛛網國際 中心頁",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "cobweb-international-hub"
     },
     {
         "TITLE": "SCP-ZH-444",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "scp-zh-444"
     },
     {
         "TITLE": "SCP-ZH-021 - 你有什麼煩惱嗎？",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "scp-zh-021"
     },
     {
         "TITLE": "1935異常博覽會-LOGO",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "the-taiwan-exposition-1935-logo"
     },
     {
         "TITLE": "布丁的關注組織LOGO頁",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "pudding-logo"
     },
     {
         "TITLE": "SCP-ZH-912",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "scp-zh-912"
     },
     {
         "TITLE": "廁所裡的致命模因",
-        "RATING": 31
+        "RATING": 31,
+        "FULLNAME": "the-bottle-in-restroom"
     },
     {
         "TITLE": "藝術@(&amp;ˊ紀█：自我中心。",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "art-for-zh-111"
     },
     {
         "TITLE": "沙皇先知協會擬人-奇術講解篇",
-        "RATING": 18
+        "RATING": 18,
+        "FULLNAME": "tsars-seers-art-thaumatology"
     },
     {
         "TITLE": "家祖父與西伯利亞抑留連續失蹤事件",
-        "RATING": 6
+        "RATING": 6,
+        "FULLNAME": "grandfather-and-japanese-prisoners-of-war-in-the-soviet-unio"
     },
     {
         "TITLE": "拜訪與巧遇",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "meeting"
     },
     {
         "TITLE": "聖夜相守又一夜",
-        "RATING": 2
+        "RATING": 2,
+        "FULLNAME": "christmas-event2"
     },
     {
         "TITLE": "SCP-ZH-446 - 化蟲",
-        "RATING": 27
+        "RATING": 27,
+        "FULLNAME": "scp-zh-446"
     },
     {
         "TITLE": "蒼白的末期患者",
-        "RATING": 18
+        "RATING": 18,
+        "FULLNAME": "81q5-sadness-pink"
     },
     {
         "TITLE": "SCP-ZH-526",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "scp-zh-526"
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "RATING": 55
+        "RATING": 55,
+        "FULLNAME": "scp-zh-2005-ex"
     },
     {
         "TITLE": "SCP-ZH-204",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "scp-zh-204"
     },
     {
         "TITLE": "SCP-ZH-207",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "scp-zh-207"
     },
     {
         "TITLE": "後現代基金會同人戀愛向輕小說",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "k1s10r0d-april-fool-project-2021"
     }
 ]

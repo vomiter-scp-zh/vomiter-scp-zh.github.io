@@ -1,54 +1,67 @@
 [
     {
         "TITLE": "SCP-ZH-041",
-        "RATING": 18
+        "RATING": 18,
+        "FULLNAME": "scp-zh-041"
     },
     {
         "TITLE": "SCP-ZH-100",
-        "RATING": 23
+        "RATING": 23,
+        "FULLNAME": "scp-zh-0100"
     },
     {
         "TITLE": "SCP-ZH-100",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "scp-zh-100"
     },
     {
         "TITLE": "處銀白之中，於虹光之間",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "in-the-snow-in-the-iris"
     },
     {
         "TITLE": "SCP-ZH-010 - 迷走神經寄生體",
-        "RATING": 18
+        "RATING": 18,
+        "FULLNAME": "scp-zh-010"
     },
     {
         "TITLE": "第〇二二號 兩儀通",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "collected-land-no022"
     },
     {
         "TITLE": "SCP-ZH-711",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "scp-zh-711"
     },
     {
         "TITLE": "SCP-ZH-564",
-        "RATING": 5
+        "RATING": 5,
+        "FULLNAME": "scp-zh-564"
     },
     {
         "TITLE": "SCP-ZH-030",
-        "RATING": 7
+        "RATING": 7,
+        "FULLNAME": "scp-zh-030"
     },
     {
         "TITLE": "SCP-ZH-262",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "scp-zh-262"
     },
     {
         "TITLE": "SCP-ZH-095",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "scp-zh-095"
     },
     {
         "TITLE": "SCP-ZH-747 - 趨凶避凶",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "scp-zh-747"
     },
     {
         "TITLE": "SCP-ZH-109",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "scp-zh-109"
     }
 ]

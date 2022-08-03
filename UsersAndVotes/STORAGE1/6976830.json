@@ -1,10 +1,12 @@
 [
     {
         "TITLE": "SCP-ZH-125",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "scp-zh-125"
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-13",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "site-zh-13"
     }
 ]

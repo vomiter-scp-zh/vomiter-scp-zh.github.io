@@ -1,54 +1,67 @@
 [
     {
         "TITLE": "SCP-ZH-222-J",
-        "RATING": 24
+        "RATING": 24,
+        "FULLNAME": "scp-zh-222-j"
     },
     {
         "TITLE": "SCP-ZH-222",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "scp-zh-222"
     },
     {
         "TITLE": "你是啥物人？",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "to-the-doctor"
     },
     {
         "TITLE": "SCP-ZH-613",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "scp-zh-613"
     },
     {
         "TITLE": "SCP-ZH-280 - 欸不是我的東西呢",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-280"
     },
     {
         "TITLE": "SCP-ZH-226 - 冬日女孩",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "scp-zh-226"
     },
     {
         "TITLE": "繁中管理員筆記：2021年回顧",
-        "RATING": 34
+        "RATING": 34,
+        "FULLNAME": "note-for-u-guys-2021"
     },
     {
         "TITLE": "Meow!!Gwan",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "tonal-felidae"
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
-        "RATING": 54
+        "RATING": 54,
+        "FULLNAME": "scp-zh-999"
     },
     {
         "TITLE": "退休生活",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "retire-from-bistro"
     },
     {
         "TITLE": "SCP-ZH-106-「逆模因」",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "scp-zh-106"
     },
     {
         "TITLE": "SCP-ZH-186 - 這些車從哪來?",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-186"
     },
     {
         "TITLE": "歡迎，敬啟者",
-        "RATING": 18
+        "RATING": 18,
+        "FULLNAME": "multiversal-valentine"
     }
 ]

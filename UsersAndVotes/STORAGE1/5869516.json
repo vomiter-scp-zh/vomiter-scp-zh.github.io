@@ -1,70 +1,87 @@
 [
     {
         "TITLE": "SCP-ZH-919",
-        "RATING": 1
+        "RATING": 1,
+        "FULLNAME": "scp-zh-919"
     },
     {
         "TITLE": "事件代號：核裂擠兌-SCP-ZH-899視點",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "operation-nucleon-bank-899"
     },
     {
         "TITLE": "SCP-ZH-100",
-        "RATING": 23
+        "RATING": 23,
+        "FULLNAME": "scp-zh-0100"
     },
     {
         "TITLE": "SCP-ZH-9288-EX",
-        "RATING": 44
+        "RATING": 44,
+        "FULLNAME": "scp-zh-9288-ex"
     },
     {
         "TITLE": "Dr. Bales的日常小品集錦 一",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "bales-s-daily-1"
     },
     {
         "TITLE": "在星星之下",
-        "RATING": 4
+        "RATING": 4,
+        "FULLNAME": "ilmari"
     },
     {
         "TITLE": "SCP-ZH-445",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-445"
     },
     {
         "TITLE": "SCP-ZH-167",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "scp-zh-167"
     },
     {
         "TITLE": "我的爺爺",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "my-grandpa"
     },
     {
         "TITLE": "我沒能救到他。",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "arkwork-zh-200"
     },
     {
         "TITLE": "SCP-ZH-053",
-        "RATING": 29
+        "RATING": 29,
+        "FULLNAME": "scp-zh-053"
     },
     {
         "TITLE": "SCP-ZH-229-EX",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "scp-zh-229-ex"
     },
     {
         "TITLE": "SCP-ZH-040",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "scp-zh-040"
     },
     {
         "TITLE": "SCP-ZH-021 - 你有什麼煩惱嗎？",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "scp-zh-021"
     },
     {
         "TITLE": "你會感到後悔嗎？",
-        "RATING": 34
+        "RATING": 34,
+        "FULLNAME": "what-are-you-waiting-for-just-join-goc-dude"
     },
     {
         "TITLE": "SCP-ZH-322",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "scp-zh-322"
     },
     {
         "TITLE": "2021愚人節主頁",
-        "RATING": 24
+        "RATING": 24,
+        "FULLNAME": "super-cooking-pot"
     }
 ]

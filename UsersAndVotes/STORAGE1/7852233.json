@@ -1,62 +1,77 @@
 [
     {
         "TITLE": "2022夏季競賽 主題《X》",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "summer-contest-2022"
     },
     {
         "TITLE": "SCP-ZH-913 - 回家月餅",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "scp-zh-913"
     },
     {
         "TITLE": "洗標：橘1114-Mad博士的襯衫",
-        "RATING": 7
+        "RATING": 7,
+        "FULLNAME": "orange-1114"
     },
     {
         "TITLE": "從今以後，她將永生",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "she-lives-in-my-heart"
     },
     {
         "TITLE": "月中秋，秋糜之餅不見欣喜",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "not-a-mooncake"
     },
     {
         "TITLE": "故事的力量～你為什麼需要超形上學～",
-        "RATING": 24
+        "RATING": 24,
+        "FULLNAME": "why-you-need-pataphysics"
     },
     {
         "TITLE": "炙熱的午後時光",
-        "RATING": 28
+        "RATING": 28,
+        "FULLNAME": "the-ss-vs-ss"
     },
     {
         "TITLE": "SCP-ZH-800",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "scp-zh-800"
     },
     {
         "TITLE": "SCP-ZH-399 - 我們心中的444號視聽教室",
-        "RATING": 29
+        "RATING": 29,
+        "FULLNAME": "scp-zh-399"
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
-        "RATING": 54
+        "RATING": 54,
+        "FULLNAME": "scp-zh-999"
     },
     {
         "TITLE": "k1s10r0d的提案 - IMMOLARI",
-        "RATING": 33
+        "RATING": 33,
+        "FULLNAME": "k1s10r0d-s-proposal"
     },
     {
         "TITLE": "Neviim.aic，攝於2022年2月",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "neviim-aic-original-art"
     },
     {
         "TITLE": "SCP-ZH-056 - 本班機飛往彼岸",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "scp-zh-056"
     },
     {
         "TITLE": "2022愚人節主頁",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "soup-chicken-power"
     },
     {
         "TITLE": "歡迎，敬啟者",
-        "RATING": 18
+        "RATING": 18,
+        "FULLNAME": "multiversal-valentine"
     }
 ]

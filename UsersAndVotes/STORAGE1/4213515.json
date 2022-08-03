@@ -1,386 +1,482 @@
 [
     {
         "TITLE": "SCP-ZH-255",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "scp-zh-255"
     },
     {
         "TITLE": "SCP-ZH-655",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "scp-zh-655"
     },
     {
         "TITLE": "SCP-ZH-940",
-        "RATING": 7
+        "RATING": 7,
+        "FULLNAME": "scp-zh-940"
     },
     {
         "TITLE": "SCP-ZH-251",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-251"
     },
     {
         "TITLE": "SCP-ZH-017",
-        "RATING": 18
+        "RATING": 18,
+        "FULLNAME": "scp-zh-017"
     },
     {
         "TITLE": "SCP-ZH-811",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-811"
     },
     {
         "TITLE": "SCP-ZH-431",
-        "RATING": 4
+        "RATING": 4,
+        "FULLNAME": "scp-zh-431"
     },
     {
         "TITLE": "SCP-ZH-018",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "scp-zh-018"
     },
     {
         "TITLE": "SCP-ZH-349",
-        "RATING": 6
+        "RATING": 6,
+        "FULLNAME": "scp-zh-349"
     },
     {
         "TITLE": "SCP-ZH-117",
-        "RATING": 33
+        "RATING": 33,
+        "FULLNAME": "scp-zh-117"
     },
     {
         "TITLE": "SCP-ZH-572",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "scp-zh-572"
     },
     {
         "TITLE": "SCP-ZH-629",
-        "RATING": 5
+        "RATING": 5,
+        "FULLNAME": "scp-zh-629"
     },
     {
         "TITLE": "SCP-ZH-529",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "scp-zh-529"
     },
     {
         "TITLE": "SCP-ZH-900",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "scp-zh-900"
     },
     {
         "TITLE": "SCP-ZH-178",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "scp-zh-178"
     },
     {
         "TITLE": "夢藝天道行（TV345/7YUT8/5GDL6）",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "potehi"
     },
     {
         "TITLE": "塑身巧抹糕（CA521/9CHI3/5FON7）",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "chocolatecake"
     },
     {
         "TITLE": "SCP-ZH-883",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "scp-zh-883"
     },
     {
         "TITLE": "SCP-ZH-882",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "scp-zh-882"
     },
     {
         "TITLE": "SCP-ZH-419",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-419"
     },
     {
         "TITLE": "SCP-ZH-687",
-        "RATING": 3
+        "RATING": 3,
+        "FULLNAME": "scp-zh-687"
     },
     {
         "TITLE": "SCP-ZH-825",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "scp-zh-825"
     },
     {
         "TITLE": "SCP-ZH-029",
-        "RATING": -1
+        "RATING": -1,
+        "FULLNAME": "scp-zh-029"
     },
     {
         "TITLE": "永衡教會(舊版) LOGO",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "valentine-01"
     },
     {
         "TITLE": "SCP-ZH-406",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "scp-zh-406"
     },
     {
         "TITLE": "SCP-ZH-618",
-        "RATING": 41
+        "RATING": 41,
+        "FULLNAME": "scp-zh-618"
     },
     {
         "TITLE": "測驗心理諮詢室",
-        "RATING": 2
+        "RATING": 2,
+        "FULLNAME": "counseling-room"
     },
     {
         "TITLE": "翻譯不只是塊蛋糕",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "sth-about-translation"
     },
     {
         "TITLE": "SCP-ZH-477 - 不可抗吸引",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "scp-zh-477"
     },
     {
         "TITLE": "由來．死亡．加入",
-        "RATING": 5
+        "RATING": 5,
+        "FULLNAME": "from-death-join"
     },
     {
         "TITLE": "SCP-ZH-285 - 致命誘惑",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "scp-zh-285"
     },
     {
         "TITLE": "SCP-ZH-069",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-069"
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-02",
-        "RATING": 25
+        "RATING": 25,
+        "FULLNAME": "site-zh-02"
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-25",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "site-zh-25"
     },
     {
         "TITLE": "SCP-ZH-087-J",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "scp-zh-087-j"
     },
     {
         "TITLE": "名以為你的遺跡–錯肩",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "ruins-of-your-memories-1"
     },
     {
         "TITLE": "SCP-ZH-888",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "scp-zh-888"
     },
     {
         "TITLE": "SCP-ZH-889",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "scp-zh-889"
     },
     {
         "TITLE": "無月之夜",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "no-moon-night"
     },
     {
         "TITLE": "Nx-ZH-17",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "thinking-and-write"
     },
     {
         "TITLE": "挑戰傳統評分方式：關於自訂評分模版",
-        "RATING": 24
+        "RATING": 24,
+        "FULLNAME": "rating-against-traditions"
     },
     {
         "TITLE": "SCP-ZH-323",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-323"
     },
     {
         "TITLE": "潛在危險無法被文字記錄",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "disremember"
     },
     {
         "TITLE": "最好的結局",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "what-do-you-think"
     },
     {
         "TITLE": "沒有人會負責善後",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "nobodyneedshelp"
     },
     {
         "TITLE": "站點綠化提案",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "greening"
     },
     {
         "TITLE": "SCP-ZH-886",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "scp-zh-886"
     },
     {
         "TITLE": "SCP-ZH-972",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "scp-zh-972"
     },
     {
         "TITLE": "木易藏書閣目錄 金-九七八 《敲頭銅碗》",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "yee"
     },
     {
         "TITLE": "首級",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "head"
     },
     {
         "TITLE": "SCP-ZH-035",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "scp-zh-035"
     },
     {
         "TITLE": "SCP-ZH-511",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "scp-zh-511"
     },
     {
         "TITLE": "歸來",
-        "RATING": 6
+        "RATING": 6,
+        "FULLNAME": "the-tales-of-agents"
     },
     {
         "TITLE": "Site-ZH-02 大廳",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "site-zh-02-front"
     },
     {
         "TITLE": "SCP-ZH-005",
-        "RATING": 59
+        "RATING": 59,
+        "FULLNAME": "scp-zh-005"
     },
     {
         "TITLE": "SCP-ZH-199",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "scp-zh-199"
     },
     {
         "TITLE": "最真實的往往無法看見",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "the-truth-is-usually-invisible"
     },
     {
         "TITLE": "SCP-ZH-070",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "scp-zh-070"
     },
     {
         "TITLE": "SCP-ZH-100",
-        "RATING": 23
+        "RATING": 23,
+        "FULLNAME": "scp-zh-0100"
     },
     {
         "TITLE": "籠中鳥",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "caged-bird"
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-81",
-        "RATING": 18
+        "RATING": 18,
+        "FULLNAME": "site-zh-81"
     },
     {
         "TITLE": "SCP-ZH-9288-EX",
-        "RATING": 44
+        "RATING": 44,
+        "FULLNAME": "scp-zh-9288-ex"
     },
     {
         "TITLE": "SCP-ZH-258",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "scp-zh-258"
     },
     {
         "TITLE": "Dr.Ray的異常項目分級圖標",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "ray-s-logo"
     },
     {
         "TITLE": "SCP-ZH-973",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "scp-zh-973"
     },
     {
         "TITLE": "SCP-ZH-642",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "scp-zh-642"
     },
     {
         "TITLE": "尋獲物品編號：021",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "ru021"
     },
     {
         "TITLE": "SCP-ZH-027 - 玉籠包",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "scp-zh-027"
     },
     {
         "TITLE": "SCP-ZH-002 - 台灣獨角獸",
-        "RATING": 36
+        "RATING": 36,
+        "FULLNAME": "scp-zh-002"
     },
     {
         "TITLE": "餘波",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "aftermath-zh"
     },
     {
         "TITLE": "沙皇先知協會中心頁",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "tsars-hub"
     },
     {
         "TITLE": "SCP-ZH-670 - 明知故犯",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "scp-zh-670"
     },
     {
         "TITLE": "SCP-ZH-300",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "scp-zh-300"
     },
     {
         "TITLE": "聖誕軍演",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "xmas-exercise"
     },
     {
         "TITLE": "安布羅斯餐廳-崇文館",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "ambrose-chung-wen-kuan"
     },
     {
         "TITLE": "誰把聖誕樹上的星星拿走了？",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "star-of-bethlehem"
     },
     {
         "TITLE": "SCP-ZH-026",
-        "RATING": 7
+        "RATING": 7,
+        "FULLNAME": "scp-zh-026"
     },
     {
         "TITLE": "鴨鴨的聖誕賀圖",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "duck-s-xmas"
     },
     {
         "TITLE": "SCP-ZH-626",
-        "RATING": 23
+        "RATING": 23,
+        "FULLNAME": "scp-zh-626"
     },
     {
         "TITLE": "聖夜晚餐",
-        "RATING": 21
+        "RATING": 21,
+        "FULLNAME": "so-i-said-that-dinner"
     },
     {
         "TITLE": "SCP-ZH-044",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "scp-zh-044"
     },
     {
         "TITLE": "驟雨",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "downpour"
     },
     {
         "TITLE": "尋獲地點編號：001",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "article-number-001"
     },
     {
         "TITLE": "Off Work",
-        "RATING": 18
+        "RATING": 18,
+        "FULLNAME": "pry"
     },
     {
         "TITLE": "Viken-K的模因標示回收場",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "viken-k-arts"
     },
     {
         "TITLE": "安布羅斯餐廳-伊薩科夫號分店 (節日限定)",
-        "RATING": 28
+        "RATING": 28,
+        "FULLNAME": "ambrose-isakov"
     },
     {
         "TITLE": "SCP-ZH-278 - 你必須信任的門衛",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "scp-zh-278"
     },
     {
         "TITLE": "如何使用異常分級簡表ALT版",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "how-to-use-acs-alt"
     },
     {
         "TITLE": "SCP-ZH-860 - dado的「发」財藥",
-        "RATING": 33
+        "RATING": 33,
+        "FULLNAME": "scp-zh-860"
     },
     {
         "TITLE": "行動計劃 第叁捌肆字號",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "nsb8-384"
     },
     {
         "TITLE": "SCP-ZH-807",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "scp-zh-807"
     },
     {
         "TITLE": "SCP-ZH-168",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "scp-zh-168"
     },
     {
         "TITLE": "行動簡報 第916字號",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "nsb8-916"
     },
     {
         "TITLE": "SCP-ZH-051",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "scp-zh-051"
     },
     {
         "TITLE": "SCP-ZH-314",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "scp-zh-314"
     },
     {
         "TITLE": "SCP-ZH-2588-J",
-        "RATING": 5
+        "RATING": 5,
+        "FULLNAME": "scp-zh-2588-j"
     }
 ]

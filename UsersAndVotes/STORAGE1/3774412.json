@@ -1,10 +1,12 @@
 [
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "RATING": 55
+        "RATING": 55,
+        "FULLNAME": "scp-zh-2005-ex"
     },
     {
         "TITLE": "SCP-ZH-496 - 安全極限距離",
-        "RATING": 28
+        "RATING": 28,
+        "FULLNAME": "scp-zh-496"
     }
 ]

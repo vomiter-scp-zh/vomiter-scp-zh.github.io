@@ -1,14 +1,17 @@
 [
     {
         "TITLE": "SCP-ZH-002 - 台灣獨角獸",
-        "RATING": 36
+        "RATING": 36,
+        "FULLNAME": "scp-zh-002"
     },
     {
         "TITLE": "行動計劃 第叁捌肆字號",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "nsb8-384"
     },
     {
         "TITLE": "台灣異新報、昭和十年十一月一日",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "taiwan-newspaper"
     }
 ]

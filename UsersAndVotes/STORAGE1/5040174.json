@@ -1,34 +1,42 @@
 [
     {
         "TITLE": "SCP-ZH-024-ARC",
-        "RATING": 6
+        "RATING": 6,
+        "FULLNAME": "scp-zh-024-arc"
     },
     {
         "TITLE": "SCP-ZH-587-J",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "scp-zh-587-j"
     },
     {
         "TITLE": "SCP-ZH-582",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "scp-zh-582"
     },
     {
         "TITLE": "SCP-ZH-510",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-510"
     },
     {
         "TITLE": "SCP-ZH-406",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "scp-zh-406"
     },
     {
         "TITLE": "B3冷凍庫幽靈饕客",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "site-zh-02-eater"
     },
     {
         "TITLE": "小動物簡介：Esther！",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "esther"
     },
     {
         "TITLE": "SCP-ZH-618",
-        "RATING": 41
+        "RATING": 41,
+        "FULLNAME": "scp-zh-618"
     }
 ]

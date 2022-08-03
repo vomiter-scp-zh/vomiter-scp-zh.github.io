@@ -1,98 +1,122 @@
 [
     {
         "TITLE": "沒有基金會的那時",
-        "RATING": 23
+        "RATING": 23,
+        "FULLNAME": "the-time-foundation-disappeared"
     },
     {
         "TITLE": "事件代號：核裂擠兌 蛛網裡的老鷹",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "operation-nucleon-bank-cobweb01"
     },
     {
         "TITLE": "項目企劃書 1924-1894：《博覽會》",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "project-proposal-1925-1894"
     },
     {
         "TITLE": "殘影",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "afterimage"
     },
     {
         "TITLE": "故事的力量～你為什麼需要超形上學～",
-        "RATING": 24
+        "RATING": 24,
+        "FULLNAME": "why-you-need-pataphysics"
     },
     {
         "TITLE": "你是啥物人？",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "to-the-doctor"
     },
     {
         "TITLE": "奇蹟學煉金術導論：如何把水銀煉成黃金",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "thaumatalchemy"
     },
     {
         "TITLE": "SCP-ZH-352 - 絕命六龜葡萄",
-        "RATING": 18
+        "RATING": 18,
+        "FULLNAME": "scp-zh-352"
     },
     {
         "TITLE": "SCP-ZH-499 - 康乃馨盔甲工藝",
-        "RATING": 37
+        "RATING": 37,
+        "FULLNAME": "scp-zh-499"
     },
     {
         "TITLE": "SCP-ZH-916 - 夢迴熔爐",
-        "RATING": 18
+        "RATING": 18,
+        "FULLNAME": "scp-zh-916"
     },
     {
         "TITLE": "音樂律動加密程序",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "maimaimiamia"
     },
     {
         "TITLE": "契計劃、昭和二十年",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "setu-plan"
     },
     {
         "TITLE": "SCP-ZH-082 - 小蜜蜂餐車",
-        "RATING": 24
+        "RATING": 24,
+        "FULLNAME": "scp-zh-082"
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
-        "RATING": 54
+        "RATING": 54,
+        "FULLNAME": "scp-zh-999"
     },
     {
         "TITLE": "SCP-ZH-151 - 冷漠殺",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "scp-zh-151"
     },
     {
         "TITLE": "SCP-ZH-104 - 人工造子",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "scp-zh-104"
     },
     {
         "TITLE": "k1s10r0d的提案 - IMMOLARI",
-        "RATING": 33
+        "RATING": 33,
+        "FULLNAME": "k1s10r0d-s-proposal"
     },
     {
         "TITLE": "SCP-ZH-830 - 奇蹟",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "scp-zh-830"
     },
     {
         "TITLE": "SCP-ZH-277－築路中原",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "scp-zh-277"
     },
     {
         "TITLE": "SCP-ZH-072 - 工作間失竊事件",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "scp-zh-072"
     },
     {
         "TITLE": "SCP-ZH-181 - 永續的工業革命",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "scp-zh-181"
     },
     {
         "TITLE": "SCP-ZH-337 - 夢工廠",
-        "RATING": 28
+        "RATING": 28,
+        "FULLNAME": "scp-zh-337"
     },
     {
         "TITLE": "SCP-ZH-365 - 贗品證件夾",
-        "RATING": 3
+        "RATING": 3,
+        "FULLNAME": "scp-zh-365"
     },
     {
         "TITLE": "SCP-ZH-922 - 馬蘭姑娘",
-        "RATING": 24
+        "RATING": 24,
+        "FULLNAME": "scp-zh-922"
     }
 ]

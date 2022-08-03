@@ -1,26 +1,32 @@
 [
     {
         "TITLE": "SCP-ZH-004",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "scp-zh-004"
     },
     {
         "TITLE": "SCP-ZH-105 - 不孝子",
-        "RATING": 65
+        "RATING": 65,
+        "FULLNAME": "scp-zh-105"
     },
     {
         "TITLE": "SCP-ZH-036 - 茶癮浣熊",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "scp-zh-036"
     },
     {
         "TITLE": "SCP-ZH-002 - 台灣獨角獸",
-        "RATING": 36
+        "RATING": 36,
+        "FULLNAME": "scp-zh-002"
     },
     {
         "TITLE": "我在萬物之中",
-        "RATING": 36
+        "RATING": 36,
+        "FULLNAME": "arkwork-3999"
     },
     {
         "TITLE": "收容室ZH-S12-E-024實驗紀錄",
-        "RATING": 33
+        "RATING": 33,
+        "FULLNAME": "scp-zh-024"
     }
 ]

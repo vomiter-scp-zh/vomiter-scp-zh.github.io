@@ -1,30 +1,37 @@
 [
     {
         "TITLE": "SCP-ZH-253",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "scp-zh-253"
     },
     {
         "TITLE": "SCP-ZH-811",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-811"
     },
     {
         "TITLE": "SCP-ZH-229",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "scp-zh-229"
     },
     {
         "TITLE": "SCP-ZH-421",
-        "RATING": 6
+        "RATING": 6,
+        "FULLNAME": "scp-zh-421"
     },
     {
         "TITLE": "SCP-ZH-510",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-510"
     },
     {
         "TITLE": "SCP-ZH-406",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "scp-zh-406"
     },
     {
         "TITLE": "香港特區異常選區資料庫：新茶嶺選區",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "new-cha-ling"
     }
 ]

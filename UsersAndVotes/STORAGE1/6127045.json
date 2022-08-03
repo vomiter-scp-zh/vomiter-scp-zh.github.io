@@ -1,90 +1,112 @@
 [
     {
         "TITLE": "關注組織-ZH",
-        "RATING": 3
+        "RATING": 3,
+        "FULLNAME": "groups-of-interest-zh"
     },
     {
         "TITLE": "SCP-ZH-252",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "scp-zh-252"
     },
     {
         "TITLE": "SCP-ZH-515 - 平安符",
-        "RATING": 43
+        "RATING": 43,
+        "FULLNAME": "scp-zh-515"
     },
     {
         "TITLE": "SCP-ZH-603 - 腳踏車上的人",
-        "RATING": 30
+        "RATING": 30,
+        "FULLNAME": "scp-zh-603"
     },
     {
         "TITLE": "Colmod 組件指南",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "colmod-guide"
     },
     {
         "TITLE": "SCP-ZH-451",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "scp-zh-451"
     },
     {
         "TITLE": "文章使用零件中心頁",
-        "RATING": 6
+        "RATING": 6,
+        "FULLNAME": "cardinal-hub"
     },
     {
         "TITLE": "中國國安部，不應存在的十九局",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "19th-bureau-of-mss-of-china"
     },
     {
         "TITLE": "SCP-ZH-444",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "scp-zh-444"
     },
     {
         "TITLE": "2021冬季競賽 主題《紅》",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "winter-ace-2021"
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "RATING": 55
+        "RATING": 55,
+        "FULLNAME": "scp-zh-2005-ex"
     },
     {
         "TITLE": "藝術紀錄：網路紅人。",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "art-for-zh2005ex"
     },
     {
         "TITLE": "洗標：紅1354-深入傳統納餓卡部落",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "red-1354"
     },
     {
         "TITLE": "SCP-ZH-404",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "scp-zh-404"
     },
     {
         "TITLE": "Nihilmace與Valmua",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "k1s10r0d-nihilmace-and-valmua"
     },
     {
         "TITLE": "水族館約會",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "aquarium-date-art"
     },
     {
         "TITLE": "SCP-ZH-496 - 安全極限距離",
-        "RATING": 28
+        "RATING": 28,
+        "FULLNAME": "scp-zh-496"
     },
     {
         "TITLE": "異常項目紀錄：「防暴警察頭盔」",
-        "RATING": 35
+        "RATING": 35,
+        "FULLNAME": "anomalous-item-hk-police-helmet"
     },
     {
         "TITLE": "SCP-ZH-808 - 鬼門關",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "scp-zh-808"
     },
     {
         "TITLE": "布魯克林第零區：天堂",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "boorklyn-00-the-heaven"
     },
     {
         "TITLE": "「SCP-ZH-999」 ：《工》",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "zh999-contest"
     },
     {
         "TITLE": "曙光東啟",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "dawn-of-east"
     }
 ]

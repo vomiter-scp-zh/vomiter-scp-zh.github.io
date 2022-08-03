@@ -1,294 +1,367 @@
 [
     {
         "TITLE": "希望的顏色",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "color-of-hope"
     },
     {
         "TITLE": "SCP-ZH-889",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "scp-zh-889"
     },
     {
         "TITLE": "挑戰傳統評分方式：關於自訂評分模版",
-        "RATING": 24
+        "RATING": 24,
+        "FULLNAME": "rating-against-traditions"
     },
     {
         "TITLE": "SCP-ZH-105 - 不孝子",
-        "RATING": 65
+        "RATING": 65,
+        "FULLNAME": "scp-zh-105"
     },
     {
         "TITLE": "遐邇週刊 第011期",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "the-weekly-011"
     },
     {
         "TITLE": "木易藏書閣目錄 木-一一五 《望月箸》",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "mu-yi-115"
     },
     {
         "TITLE": "SCP-ZH-998 - 現象學",
-        "RATING": 36
+        "RATING": 36,
+        "FULLNAME": "scp-zh-998"
     },
     {
         "TITLE": "處銀白之中，於虹光之間",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "in-the-snow-in-the-iris"
     },
     {
         "TITLE": "三生有幸",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "third-life"
     },
     {
         "TITLE": "吹響號角的無名山脈",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "the-non-names-town"
     },
     {
         "TITLE": "SCP-ZH-301",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "scp-zh-301"
     },
     {
         "TITLE": "關於那個大海怪",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "about-that-big-guy"
     },
     {
         "TITLE": "死貓吊樹頭",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "on-the-tree"
     },
     {
         "TITLE": "我在這裡一陣子了",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "been-a-while"
     },
     {
         "TITLE": "尋獲物品編號：037",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "article-number-037"
     },
     {
         "TITLE": "SCP-ZH-959",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-959"
     },
     {
         "TITLE": "尋獲物品編號：021",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "ru021"
     },
     {
         "TITLE": "尋獲物品編號：065",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "article-number-065"
     },
     {
         "TITLE": "餘波",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "aftermath-zh"
     },
     {
         "TITLE": "聖誕軍演",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "xmas-exercise"
     },
     {
         "TITLE": "安布羅斯餐廳-崇文館",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "ambrose-chung-wen-kuan"
     },
     {
         "TITLE": "SCP-ZH-044",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "scp-zh-044"
     },
     {
         "TITLE": "尋獲地點編號：001",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "article-number-001"
     },
     {
         "TITLE": "雕刻作品：聖夜相守",
-        "RATING": 18
+        "RATING": 18,
+        "FULLNAME": "handcrafts"
     },
     {
         "TITLE": "年獸爭奪戰",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "year-critical-strike"
     },
     {
         "TITLE": "SCP-ZH-60053-J - HONK",
-        "RATING": 42
+        "RATING": 42,
+        "FULLNAME": "scp-zh-60053-j"
     },
     {
         "TITLE": "行動計劃 第叁捌肆字號",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "nsb8-384"
     },
     {
         "TITLE": "SCP-ZH-108",
-        "RATING": 19
+        "RATING": 19,
+        "FULLNAME": "scp-zh-108"
     },
     {
         "TITLE": "洗標：藍2020-白布的唐人裝",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "blue-2020"
     },
     {
         "TITLE": "極光的顏色",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "color-of-aurora"
     },
     {
         "TITLE": "尋獲物品編號：097/洗標：黑0117",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "article-number-097-black-0117"
     },
     {
         "TITLE": "她一直都在，無須緬懷",
-        "RATING": 14
+        "RATING": 14,
+        "FULLNAME": "she-s-always-here"
     },
     {
         "TITLE": "Dr. Kris的文檔山海－SCP-2940-B",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "k1s10r0d-2940-b-art"
     },
     {
         "TITLE": "Kondraki的四次方麻煩",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "four-konnies-four-troubles"
     },
     {
         "TITLE": "SCP-●●|●●●●●|●●|● 素描",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "scp-2521-painting"
     },
     {
         "TITLE": "美麗的蝴蝶仙子Kondraki博士",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "oh-god-this-is-kondraki"
     },
     {
         "TITLE": "他們把人扔進了海裡",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "they-throw-them-into-the-sea"
     },
     {
         "TITLE": "主站博士相關插圖",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "qmario-artwork-1"
     },
     {
         "TITLE": "終章：2020年",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "part0-in-the-end"
     },
     {
         "TITLE": "我在萬物之中",
-        "RATING": 36
+        "RATING": 36,
+        "FULLNAME": "arkwork-3999"
     },
     {
         "TITLE": "SCP-ZH-103 - 易形鴞魔",
-        "RATING": 15
+        "RATING": 15,
+        "FULLNAME": "scp-zh-103"
     },
     {
         "TITLE": "我沒能救到他。",
-        "RATING": 22
+        "RATING": 22,
+        "FULLNAME": "arkwork-zh-200"
     },
     {
         "TITLE": "SCP-ZH-053",
-        "RATING": 29
+        "RATING": 29,
+        "FULLNAME": "scp-zh-053"
     },
     {
         "TITLE": "清醒夢",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "lucid-dream"
     },
     {
         "TITLE": "SCP-ZH-480",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "scp-zh-480"
     },
     {
         "TITLE": "Bright博士教你如何正確擊退敵人",
-        "RATING": 24
+        "RATING": 24,
+        "FULLNAME": "how-to-defeat-those-bad-guys-correctly"
     },
     {
         "TITLE": "宿雨",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "the-rain-fell-overnight"
     },
     {
         "TITLE": "SCP-ZH-603 - 腳踏車上的人",
-        "RATING": 30
+        "RATING": 30,
+        "FULLNAME": "scp-zh-603"
     },
     {
         "TITLE": "SCP-ZH-103 相關實驗記錄",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "scp-zh-103-experiment-log"
     },
     {
         "TITLE": "巧達Clef!",
-        "RATING": 24
+        "RATING": 24,
+        "FULLNAME": "arkwork-chowderclef"
     },
     {
         "TITLE": "記憶的洪流",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "stream-of-memory"
     },
     {
         "TITLE": "手裡的重量",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "the-weight-on-his-hands"
     },
     {
         "TITLE": "菇菇基金會",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "fungi-foundation"
     },
     {
         "TITLE": "牙科定期檢診",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "teeth-checked"
     },
     {
         "TITLE": "SCP-ZH-221",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "scp-zh-221"
     },
     {
         "TITLE": "趨光",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "phototaxis"
     },
     {
         "TITLE": "SCP-ZH-451",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "scp-zh-451"
     },
     {
         "TITLE": "中國國安部，不應存在的十九局",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "19th-bureau-of-mss-of-china"
     },
     {
         "TITLE": "海神悲鳴時",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "wadatsumi-no-naku-koroni"
     },
     {
         "TITLE": "矢尖",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "arrowhead"
     },
     {
         "TITLE": "也許，一個溫暖的午後，在海洋公園啜飲咖啡",
-        "RATING": 12
+        "RATING": 12,
+        "FULLNAME": "maybe-some-coffee-in-the-ocean-park"
     },
     {
         "TITLE": "紀律嚴明",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "discipline"
     },
     {
         "TITLE": "雨燕",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "swift"
     },
     {
         "TITLE": "凌雲御風起",
-        "RATING": 8
+        "RATING": 8,
+        "FULLNAME": "rocaf"
     },
     {
         "TITLE": "蓬萊島新創民主形式：「創制」首長將於今日解凍",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "r-sinano-chuo-zhtr-2018-11-19-a222a"
     },
     {
         "TITLE": "繁中官方化賀圖",
-        "RATING": 20
+        "RATING": 20,
+        "FULLNAME": "scp"
     },
     {
         "TITLE": "SCP-ZH-791",
-        "RATING": 9
+        "RATING": 9,
+        "FULLNAME": "scp-zh-791"
     },
     {
         "TITLE": "加冕為亡",
-        "RATING": 11
+        "RATING": 11,
+        "FULLNAME": "crown"
     },
     {
         "TITLE": "聖夜相守時",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "formytreasure"
     },
     {
         "TITLE": "Polaris",
-        "RATING": 17
+        "RATING": 17,
+        "FULLNAME": "polaris"
     },
     {
         "TITLE": "所有的橋都被燒掉了",
-        "RATING": 13
+        "RATING": 13,
+        "FULLNAME": "all-the-bridges-were-burned"
     },
     {
         "TITLE": "銀裝素裹",
-        "RATING": 10
+        "RATING": 10,
+        "FULLNAME": "end-of-heavy-snow"
     },
     {
         "TITLE": "非相關人員禁止閱覽",
-        "RATING": 16
+        "RATING": 16,
+        "FULLNAME": "adult:unrelated-person-do-not-read"
     }
 ]
