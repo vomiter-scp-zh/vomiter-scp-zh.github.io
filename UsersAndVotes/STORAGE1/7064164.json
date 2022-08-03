@@ -598,5 +598,10 @@
         "TITLE": "極限刻度",
         "RATING": 8,
         "FULLNAME": "limit-scale"
+    },
+    {
+        "TITLE": "牠在看著嗎？",
+        "RATING": 8,
+        "FULLNAME": "is-it-watching"
     }
 ]
