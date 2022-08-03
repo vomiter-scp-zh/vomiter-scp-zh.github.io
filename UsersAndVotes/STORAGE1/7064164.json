@@ -593,5 +593,10 @@
         "TITLE": "晚安12站",
         "RATING": 10,
         "FULLNAME": "adult:oyasumi-site-zh-12"
+    },
+    {
+        "TITLE": "極限刻度",
+        "RATING": 8,
+        "FULLNAME": "limit-scale"
     }
 ]
