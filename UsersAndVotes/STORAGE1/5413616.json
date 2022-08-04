@@ -1203,5 +1203,10 @@
         "TITLE": "晚安12站",
         "RATING": 10,
         "FULLNAME": "adult:oyasumi-site-zh-12"
+    },
+    {
+        "TITLE": "萬華鏡中的貓",
+        "RATING": 17,
+        "FULLNAME": "cats-in-kaleidoscopes"
     }
 ]
