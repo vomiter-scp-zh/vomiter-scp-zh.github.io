@@ -363,5 +363,15 @@
         "TITLE": "SCP-ZH-119 - 懲罰之火不降於我",
         "RATING": 6,
         "FULLNAME": "scp-zh-119"
+    },
+    {
+        "TITLE": "遠己中心頁",
+        "RATING": 15,
+        "FULLNAME": "yuanji-hub"
+    },
+    {
+        "TITLE": "都市傳說型異常應對部門中心頁",
+        "RATING": 16,
+        "FULLNAME": "urban-legend-department"
     }
 ]
