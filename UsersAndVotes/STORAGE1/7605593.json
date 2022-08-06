@@ -326,7 +326,7 @@
     },
     {
         "TITLE": "SCP-ZH-279 - 愛的形狀",
-        "RATING": 14,
+        "RATING": 15,
         "FULLNAME": "scp-zh-279"
     },
     {
@@ -353,5 +353,10 @@
         "TITLE": "海棠依舊",
         "RATING": 11,
         "FULLNAME": "lucid-dreams"
+    },
+    {
+        "TITLE": "SCP-ZH-184 - 奔車朽索",
+        "RATING": 2,
+        "FULLNAME": "scp-zh-184"
     }
 ]
