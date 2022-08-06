@@ -445,6 +445,11 @@
         "RATING": 22
     },
     {
+        "TITLE": "NX-ZH-02：西加走灣群島",
+        "FULLNAME": "nx-zh-02",
+        "RATING": 22
+    },
+    {
         "TITLE": "SCP-ZH-610 - 猛爆性繁衍組織瘤",
         "FULLNAME": "scp-zh-610",
         "RATING": 21
@@ -502,11 +507,6 @@
     {
         "TITLE": "SCP-ZH-235",
         "FULLNAME": "adult:scp-zh-235",
-        "RATING": 21
-    },
-    {
-        "TITLE": "NX-ZH-02：西加走灣群島",
-        "FULLNAME": "nx-zh-02",
         "RATING": 21
     },
     {
