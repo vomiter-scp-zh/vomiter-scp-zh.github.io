@@ -888,5 +888,15 @@
         "TITLE": "SCP-ZH-532 - 簡單人生身心診所",
         "RATING": 6,
         "FULLNAME": "scp-zh-532"
+    },
+    {
+        "TITLE": "SCP-ZH-941 - 你才沒有在奮鬥",
+        "RATING": -1,
+        "FULLNAME": "scp-zh-941"
+    },
+    {
+        "TITLE": "SCP-ZH-318 - 認同癖",
+        "RATING": 1,
+        "FULLNAME": "scp-zh-318"
     }
 ]
