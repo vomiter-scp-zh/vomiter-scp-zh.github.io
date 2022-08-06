@@ -756,7 +756,17 @@
     },
     {
         "TITLE": "SCP-ZH-902 倒數之中",
-        "RATING": 1,
+        "RATING": 2,
         "FULLNAME": "scp-zh-902"
+    },
+    {
+        "TITLE": "SCP-ZH-532 - 簡單人生身心診所",
+        "RATING": 2,
+        "FULLNAME": "scp-zh-532"
+    },
+    {
+        "TITLE": "SCP-ZH-119 - 懲罰之火不降於我",
+        "RATING": 5,
+        "FULLNAME": "scp-zh-119"
     }
 ]
