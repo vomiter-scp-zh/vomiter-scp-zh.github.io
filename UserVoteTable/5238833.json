@@ -1,0 +1,307 @@
+[
+    {
+        "TITLE": "SCP-ZH-408",
+        "RATING": 6,
+        "FULLNAME": "scp-zh-408"
+    },
+    {
+        "TITLE": "SCP-ZH-401",
+        "RATING": 9,
+        "FULLNAME": "scp-zh-401"
+    },
+    {
+        "TITLE": "小動物簡介：Doris！",
+        "RATING": 6,
+        "FULLNAME": "doris"
+    },
+    {
+        "TITLE": "實驗記錄 ZH-666",
+        "RATING": 6,
+        "FULLNAME": "zh-666"
+    },
+    {
+        "TITLE": "SCP-ZH-883",
+        "RATING": 8,
+        "FULLNAME": "scp-zh-883"
+    },
+    {
+        "TITLE": "SCP-ZH-882",
+        "RATING": 13,
+        "FULLNAME": "scp-zh-882"
+    },
+    {
+        "TITLE": "SCP-ZH-372",
+        "RATING": 15,
+        "FULLNAME": "scp-zh-372"
+    },
+    {
+        "TITLE": "SCP-ZH-004",
+        "RATING": 9,
+        "FULLNAME": "scp-zh-004"
+    },
+    {
+        "TITLE": "SCP-ZH-587-J",
+        "RATING": 22,
+        "FULLNAME": "scp-zh-587-j"
+    },
+    {
+        "TITLE": "SCP-ZH-419",
+        "RATING": 10,
+        "FULLNAME": "scp-zh-419"
+    },
+    {
+        "TITLE": "控制。",
+        "RATING": 6,
+        "FULLNAME": "secure-zh"
+    },
+    {
+        "TITLE": "木易藏書閣目錄 書-五零三 《王氏易》",
+        "RATING": 10,
+        "FULLNAME": "wong-magical-book"
+    },
+    {
+        "TITLE": "收容。",
+        "RATING": 7,
+        "FULLNAME": "contain-zh"
+    },
+    {
+        "TITLE": "SCP基金會不知道的那些事件",
+        "RATING": 19,
+        "FULLNAME": "ocd-virus01"
+    },
+    {
+        "TITLE": "永衡教會(舊版) LOGO",
+        "RATING": 11,
+        "FULLNAME": "valentine-01"
+    },
+    {
+        "TITLE": "SCP-ZH-406",
+        "RATING": 11,
+        "FULLNAME": "scp-zh-406"
+    },
+    {
+        "TITLE": "翻譯不只是塊蛋糕",
+        "RATING": 11,
+        "FULLNAME": "sth-about-translation"
+    },
+    {
+        "TITLE": "SCP-ZH-118",
+        "RATING": 6,
+        "FULLNAME": "scp-zh-118"
+    },
+    {
+        "TITLE": "SCP-ZH-477 - 不可抗吸引",
+        "RATING": 13,
+        "FULLNAME": "scp-zh-477"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-ZH-02",
+        "RATING": 25,
+        "FULLNAME": "site-zh-02"
+    },
+    {
+        "TITLE": "SCP-ZH-888",
+        "RATING": 19,
+        "FULLNAME": "scp-zh-888"
+    },
+    {
+        "TITLE": "SCP-ZH-256",
+        "RATING": 15,
+        "FULLNAME": "scp-zh-256"
+    },
+    {
+        "TITLE": "SCP-ZH-889",
+        "RATING": 12,
+        "FULLNAME": "scp-zh-889"
+    },
+    {
+        "TITLE": "SCP-ZH-720",
+        "RATING": 9,
+        "FULLNAME": "scp-zh-720"
+    },
+    {
+        "TITLE": "無月之夜",
+        "RATING": 9,
+        "FULLNAME": "no-moon-night"
+    },
+    {
+        "TITLE": "Nx-ZH-17",
+        "RATING": 12,
+        "FULLNAME": "thinking-and-write"
+    },
+    {
+        "TITLE": "SCP-ZH-020",
+        "RATING": 13,
+        "FULLNAME": "scp-zh-020"
+    },
+    {
+        "TITLE": "挑戰傳統評分方式：關於自訂評分模版",
+        "RATING": 24,
+        "FULLNAME": "rating-against-traditions"
+    },
+    {
+        "TITLE": "潛在危險無法被文字記錄",
+        "RATING": 13,
+        "FULLNAME": "disremember"
+    },
+    {
+        "TITLE": "最好的結局",
+        "RATING": 12,
+        "FULLNAME": "what-do-you-think"
+    },
+    {
+        "TITLE": "沒有人會負責善後",
+        "RATING": 13,
+        "FULLNAME": "nobodyneedshelp"
+    },
+    {
+        "TITLE": "木易藏書閣目錄 金-九七八 《敲頭銅碗》",
+        "RATING": 16,
+        "FULLNAME": "yee"
+    },
+    {
+        "TITLE": "Site-ZH-02 大廳",
+        "RATING": 16,
+        "FULLNAME": "site-zh-02-front"
+    },
+    {
+        "TITLE": "SCP-ZH-310 - 異常蛋白質結構域",
+        "RATING": 26,
+        "FULLNAME": "scp-zh-310"
+    },
+    {
+        "TITLE": "SCP-ZH-006",
+        "RATING": 10,
+        "FULLNAME": "scp-zh-006"
+    },
+    {
+        "TITLE": "SCP-ZH-105 - 不孝子",
+        "RATING": 65,
+        "FULLNAME": "scp-zh-105"
+    },
+    {
+        "TITLE": "NSB-8新進人員教程: 何謂colony",
+        "RATING": 9,
+        "FULLNAME": "nsb8-teach-colony"
+    },
+    {
+        "TITLE": "潮間時分",
+        "RATING": 7,
+        "FULLNAME": "tidal"
+    },
+    {
+        "TITLE": "洗標：橘2147-Dr. Bales的實驗衣",
+        "RATING": 10,
+        "FULLNAME": "orange-2147"
+    },
+    {
+        "TITLE": "KZ收容突破",
+        "RATING": 7,
+        "FULLNAME": "kz-containment-breach"
+    },
+    {
+        "TITLE": "一如往常",
+        "RATING": 8,
+        "FULLNAME": "v"
+    },
+    {
+        "TITLE": "SCP-ZH-070",
+        "RATING": 17,
+        "FULLNAME": "scp-zh-070"
+    },
+    {
+        "TITLE": "跑腿",
+        "RATING": 9,
+        "FULLNAME": "run-errands"
+    },
+    {
+        "TITLE": "SCP-ZH-043",
+        "RATING": 4,
+        "FULLNAME": "scp-zh-043"
+    },
+    {
+        "TITLE": "SCP-ZH-047",
+        "RATING": 12,
+        "FULLNAME": "scp-zh-047"
+    },
+    {
+        "TITLE": "尋獲物品編號：037",
+        "RATING": 11,
+        "FULLNAME": "article-number-037"
+    },
+    {
+        "TITLE": "山姆的ZH分部角色紀錄本",
+        "RATING": 24,
+        "FULLNAME": "doodles-from-sam"
+    },
+    {
+        "TITLE": "聖誕軍演",
+        "RATING": 22,
+        "FULLNAME": "xmas-exercise"
+    },
+    {
+        "TITLE": "誰把聖誕樹上的星星拿走了？",
+        "RATING": 14,
+        "FULLNAME": "star-of-bethlehem"
+    },
+    {
+        "TITLE": "SCP-ZH-026",
+        "RATING": 7,
+        "FULLNAME": "scp-zh-026"
+    },
+    {
+        "TITLE": "鴨鴨的聖誕賀圖",
+        "RATING": 17,
+        "FULLNAME": "duck-s-xmas"
+    },
+    {
+        "TITLE": "提案：聖誕軟暖貂",
+        "RATING": 14,
+        "FULLNAME": "christmas-marten"
+    },
+    {
+        "TITLE": "SCP-ZH-626",
+        "RATING": 23,
+        "FULLNAME": "scp-zh-626"
+    },
+    {
+        "TITLE": "遠東零號部門卷宗：E-830",
+        "RATING": 12,
+        "FULLNAME": "e-830"
+    },
+    {
+        "TITLE": "研究員LostWhat角色歌：在碎片裡面",
+        "RATING": 14,
+        "FULLNAME": "in-the-shard"
+    },
+    {
+        "TITLE": "SCP-ZH-400",
+        "RATING": 14,
+        "FULLNAME": "scp-zh-400"
+    },
+    {
+        "TITLE": "SCP-ZH-099",
+        "RATING": 11,
+        "FULLNAME": "scp-zh-099"
+    },
+    {
+        "TITLE": "SCP-ZH-098 - 「寧靜」",
+        "RATING": 16,
+        "FULLNAME": "scp-zh-098"
+    },
+    {
+        "TITLE": "SCP-ZH-097",
+        "RATING": 14,
+        "FULLNAME": "scp-zh-097"
+    },
+    {
+        "TITLE": "SC-19/465/SC-19/486",
+        "RATING": 9,
+        "FULLNAME": "sc-19"
+    },
+    {
+        "TITLE": "安布羅斯餐廳-伊薩科夫號分店 (節日限定)",
+        "RATING": 28,
+        "FULLNAME": "ambrose-isakov"
+    }
+]
