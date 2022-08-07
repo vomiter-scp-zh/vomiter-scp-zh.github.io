@@ -1,0 +1,59 @@
+@import url('https://scp-zh-tr.wdfiles.com/local--code/component%3Atheme-new/1');
+tr>td:nth-child(1){
+    width:50%;
+}
+tr>td:nth-child(2){
+    width:25%;
+    text-align: center;
+}
+tr>td:nth-child(3){
+    width:25%;
+    text-align: center;
+}
+table{
+    font-size: 1.1em;
+    line-height: 1.3em;
+}
+tr{
+    display: none;
+}
+tr.showing{
+    display: table-row;
+}
+
+.page_button .pre-current{
+    display: none;
+}
+
+.current .target{
+    display: none;
+}
+
+
+.pager .current .pre-current {
+display: inherit;
+padding: 0 7px;
+margin: 0 3px;
+font-weight: bold;
+background-color: #888;
+color: #FFF;
+border: 1px solid #333;
+}
+.pager {
+margin: 0.5em 0;
+text-align: center;
+}
+
+.pager-no {
+padding: 0.2em 1em;
+}
+.pager .target {
+padding: 0 7px;
+margin: 0 3px;
+border: 1px solid #CCC;
+text-decoration: none;
+}
+
+.pager .target>a>div{
+display: inline-block;
+}

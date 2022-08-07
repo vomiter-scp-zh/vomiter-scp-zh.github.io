@@ -11,11 +11,62 @@
         width:25%;
         text-align: center;
     }
+    table{
+        font-size: 1.1em;
+        line-height: 1.3em;
+    }
+    tr{
+        display: none;
+    }
+    tr.showing{
+        display: table-row;
+    }
 
+    .page_button .pre-current{
+        display: none;
+    }
+
+    .current .target{
+        display: none;
+    }
+
+
+    .pager .current .pre-current {
+    display: inherit;
+    padding: 0 7px;
+    margin: 0 3px;
+    font-weight: bold;
+    background-color: #888;
+    color: #FFF;
+    border: 1px solid #333;
+}
+    .pager {
+    margin: 0.5em 0;
+    text-align: center;
+}
+
+.pager-no {
+    padding: 0.2em 1em;
+}
+.pager .target {
+    padding: 0 7px;
+    margin: 0 3px;
+    border: 1px solid #CCC;
+    text-decoration: none;
+}
+
+.pager .target>a>div{
+    display: inline-block;
+}
 </style>
 
 <div id="to_write">
 
+</div>
+<div class="pager">
+    <span class="pager-no">第一頁</span>
+    <span class="page_button current"><a href="#"><span class="target">1</span></a><span class="pre-current">1</span></span>
+    <span class="page_button"><a href="#"><span class="target">2</span></a><span class="pre-current">2</span></span>
 </div>
 
 
@@ -43,23 +94,67 @@
         return a_ele
 
     }
+
     function make_a_thing(myJson){
         a_thing=''
         for(i=0;i<200;i++){
-        the_entry=myJson.shift();
-        entry_title=the_entry['TITLE'];
-        entry_link=the_entry['FULLNAME'];
-        entry_rating=the_entry['RATING'];
-        a_wrapped=`${make_a(entry_title,entry_link)}`;
-        td_a=make_td(a_wrapped);
-        td_r=make_td(entry_rating);
-        td_c=make_td('dummy')
-        tr_entry=make_tr(td_a+td_r+td_c);
-        a_thing=a_thing+tr_entry;
+            the_entry=myJson.shift();
+            entry_title=the_entry['TITLE'];
+            entry_link=the_entry['FULLNAME'];
+            entry_rating=the_entry['RATING'];
+            a_wrapped=`${make_a(entry_title,entry_link)}`;
+            td_a=make_td(a_wrapped);
+            td_r=make_td(entry_rating);
+            td_c=make_td('dummy')
+            tr_entry=make_tr(td_a+td_r+td_c);
+            a_thing=a_thing+tr_entry;
         }
         a_thing=make_table(a_thing)
         document.getElementById('to_write').innerHTML=a_thing;
 
     }
-    make_a_thing(Myjson)
+    make_a_thing(Myjson);
+
+    te_list=document.getElementsByTagName('tr');
+    j=0;
+    k=0;
+    k_limit=0;
+    while(j<7){
+        j++;
+        if(j!=7){
+        k_limit+=30;}
+        else{
+            k_limit+=20;
+        }
+        while(k<k_limit){
+            te_list[k].classList.add(`page${j}`)
+            if (j==1){
+                te_list[k].classList.add(`showing`)
+            }
+            k++
+        }
+    }
+
+    var page_targets=document.querySelectorAll('.page_button');
+
+    function add_page_changer(){
+        for(i=0;i<page_targets.length;i++){
+        page_targets[i].classList.remove('current');}
+        this.classList.add('current');
+        no=this.children[1].innerHTML;
+        all_tr=document.querySelectorAll('tr')
+        for (i=0;i<all_tr.length;i++){
+            all_tr[i].classList.remove('showing');
+        }
+        to_show=document.querySelectorAll(`.page${no}`)
+        for(i=0;i<to_show.length;i++){
+            to_show[i].classList.add('showing');
+        }
+    }
+    
+    for(i=0;i<page_targets.length;i++){
+        page_targets[i].addEventListener("click",add_page_changer);
+    }
+
+    
 </script>
