@@ -326,7 +326,7 @@
     },
     {
         "TITLE": "SCP-ZH-279 - 愛的形狀",
-        "RATING": 16,
+        "RATING": 17,
         "FULLNAME": "scp-zh-279"
     },
     {
@@ -336,32 +336,32 @@
     },
     {
         "TITLE": "交會，然後漸行漸遠",
-        "RATING": 6,
+        "RATING": 8,
         "FULLNAME": "go-to-sus-hi-po"
     },
     {
         "TITLE": "無心之言",
-        "RATING": 6,
+        "RATING": 7,
         "FULLNAME": "heartless-speaking"
     },
     {
         "TITLE": "愛是犧牲奉獻",
-        "RATING": 5,
+        "RATING": 6,
         "FULLNAME": "love-is-sacrifice"
     },
     {
         "TITLE": "海棠依舊",
-        "RATING": 12,
+        "RATING": 13,
         "FULLNAME": "lucid-dreams"
     },
     {
         "TITLE": "SCP-ZH-184 - 奔車朽索",
-        "RATING": 10,
+        "RATING": 12,
         "FULLNAME": "scp-zh-184"
     },
     {
         "TITLE": "SCP-ZH-119 - 懲罰之火不降於我",
-        "RATING": 6,
+        "RATING": 9,
         "FULLNAME": "scp-zh-119"
     },
     {
@@ -373,5 +373,25 @@
         "TITLE": "都市傳說型異常應對部門中心頁",
         "RATING": 16,
         "FULLNAME": "urban-legend-department"
+    },
+    {
+        "TITLE": "SCP-ZH-941 - 你才沒有在奮鬥",
+        "RATING": -1,
+        "FULLNAME": "scp-zh-941"
+    },
+    {
+        "TITLE": "SCP-ZH-318 - 認同癖",
+        "RATING": 2,
+        "FULLNAME": "scp-zh-318"
+    },
+    {
+        "TITLE": "SCP-ZH-902 - 倒數之中",
+        "RATING": 7,
+        "FULLNAME": "scp-zh-902"
+    },
+    {
+        "TITLE": "SCP-ZH-532 - 簡單人生身心診所",
+        "RATING": 11,
+        "FULLNAME": "scp-zh-532"
     }
 ]
