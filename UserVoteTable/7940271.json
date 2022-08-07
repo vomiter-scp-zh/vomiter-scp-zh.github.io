@@ -1,12 +1,12 @@
 [
     {
         "TITLE": "Polaris",
-        "RATING": 17,
-        "FULLNAME": "polaris"
+        "FULLNAME": "polaris",
+        "RATING": 17
     },
     {
         "TITLE": "永生之夢",
-        "RATING": 5,
-        "FULLNAME": "the-dream-of-immortality"
+        "FULLNAME": "the-dream-of-immortality",
+        "RATING": 5
     }
 ]

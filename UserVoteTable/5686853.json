@@ -1,17 +1,17 @@
 [
     {
         "TITLE": "SCP-ZH-919",
-        "RATING": 1,
-        "FULLNAME": "scp-zh-919"
+        "FULLNAME": "scp-zh-919",
+        "RATING": 1
     },
     {
         "TITLE": "SCP-ZH-748",
-        "RATING": 5,
-        "FULLNAME": "scp-zh-748"
+        "FULLNAME": "scp-zh-748",
+        "RATING": 5
     },
     {
         "TITLE": "SCP-ZH-043",
-        "RATING": 4,
-        "FULLNAME": "scp-zh-043"
+        "FULLNAME": "scp-zh-043",
+        "RATING": 4
     }
 ]

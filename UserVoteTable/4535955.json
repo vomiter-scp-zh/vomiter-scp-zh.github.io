@@ -1,32 +1,32 @@
 [
     {
         "TITLE": "SCP-ZH-199",
-        "RATING": 22,
-        "FULLNAME": "scp-zh-199"
+        "FULLNAME": "scp-zh-199",
+        "RATING": 22
     },
     {
         "TITLE": "SCP-ZH-9288-EX",
-        "RATING": 44,
-        "FULLNAME": "scp-zh-9288-ex"
+        "FULLNAME": "scp-zh-9288-ex",
+        "RATING": 44
     },
     {
         "TITLE": "距離世界末日還有五分鐘",
-        "RATING": 24,
-        "FULLNAME": "five-minutes-to-end"
+        "FULLNAME": "five-minutes-to-end",
+        "RATING": 24
     },
     {
         "TITLE": "SCP-ZH-147",
-        "RATING": 18,
-        "FULLNAME": "scp-zh-147"
+        "FULLNAME": "scp-zh-147",
+        "RATING": 18
     },
     {
         "TITLE": "Ctrl Z博士的鉛筆塗鴉",
-        "RATING": 16,
-        "FULLNAME": "ctrlzpencil"
+        "FULLNAME": "ctrlzpencil",
+        "RATING": 16
     },
     {
         "TITLE": "Ctrl Z博士的旅行記事本",
-        "RATING": 12,
-        "FULLNAME": "ctrlztravel"
+        "FULLNAME": "ctrlztravel",
+        "RATING": 12
     }
 ]

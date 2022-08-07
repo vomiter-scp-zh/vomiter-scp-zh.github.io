@@ -1,27 +1,27 @@
 [
     {
         "TITLE": "SCP-ZH-291 - 謎之外星血晶螳螂蔓",
-        "RATING": 2,
-        "FULLNAME": "scp-zh-291"
+        "FULLNAME": "scp-zh-291",
+        "RATING": 2
     },
     {
         "TITLE": "中國國安部，不應存在的十九局",
-        "RATING": 20,
-        "FULLNAME": "19th-bureau-of-mss-of-china"
+        "FULLNAME": "19th-bureau-of-mss-of-china",
+        "RATING": 20
     },
     {
         "TITLE": "小動物簡介：Surge！",
-        "RATING": 25,
-        "FULLNAME": "critter-profile-surge"
+        "FULLNAME": "critter-profile-surge",
+        "RATING": 25
     },
     {
         "TITLE": "中華人民共和國國家安全部異常十九局 - LOGO",
-        "RATING": 10,
-        "FULLNAME": "mss-19-logo"
+        "FULLNAME": "mss-19-logo",
+        "RATING": 10
     },
     {
         "TITLE": "紀律嚴明",
-        "RATING": 8,
-        "FULLNAME": "discipline"
+        "FULLNAME": "discipline",
+        "RATING": 8
     }
 ]

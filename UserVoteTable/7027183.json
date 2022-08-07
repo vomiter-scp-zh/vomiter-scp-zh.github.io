@@ -1,22 +1,22 @@
 [
     {
         "TITLE": "SCP-ZH-009",
-        "RATING": 20,
-        "FULLNAME": "scp-zh-009"
+        "FULLNAME": "scp-zh-009",
+        "RATING": 20
     },
     {
         "TITLE": "SCP-ZH-070",
-        "RATING": 17,
-        "FULLNAME": "scp-zh-070"
+        "FULLNAME": "scp-zh-070",
+        "RATING": 17
     },
     {
         "TITLE": "廁所裡的致命模因",
-        "RATING": 31,
-        "FULLNAME": "the-bottle-in-restroom"
+        "FULLNAME": "the-bottle-in-restroom",
+        "RATING": 31
     },
     {
         "TITLE": "SCP-ZH-060",
-        "RATING": 21,
-        "FULLNAME": "scp-zh-060"
+        "FULLNAME": "scp-zh-060",
+        "RATING": 21
     }
 ]

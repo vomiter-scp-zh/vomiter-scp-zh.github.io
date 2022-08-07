@@ -1,42 +1,42 @@
 [
     {
         "TITLE": "SCP-ZH-003",
-        "RATING": 6,
-        "FULLNAME": "scp-zh-003"
+        "FULLNAME": "scp-zh-003",
+        "RATING": 6
     },
     {
         "TITLE": "SCP-ZH-004",
-        "RATING": 9,
-        "FULLNAME": "scp-zh-004"
+        "FULLNAME": "scp-zh-004",
+        "RATING": 9
     },
     {
         "TITLE": "SCP-ZH-005",
-        "RATING": 59,
-        "FULLNAME": "scp-zh-005"
+        "FULLNAME": "scp-zh-005",
+        "RATING": 59
     },
     {
         "TITLE": "SCP-ZH-010 - 迷走神經寄生體",
-        "RATING": 18,
-        "FULLNAME": "scp-zh-010"
+        "FULLNAME": "scp-zh-010",
+        "RATING": 18
     },
     {
         "TITLE": "SCP-ZH-002 - 台灣獨角獸",
-        "RATING": 36,
-        "FULLNAME": "scp-zh-002"
+        "FULLNAME": "scp-zh-002",
+        "RATING": 36
     },
     {
         "TITLE": "SCP-ZH-012",
-        "RATING": 19,
-        "FULLNAME": "scp-zh-012"
+        "FULLNAME": "scp-zh-012",
+        "RATING": 19
     },
     {
         "TITLE": "SCP-ZH-011",
-        "RATING": 8,
-        "FULLNAME": "scp-zh-011"
+        "FULLNAME": "scp-zh-011",
+        "RATING": 8
     },
     {
         "TITLE": "SCP-ZH-014",
-        "RATING": 20,
-        "FULLNAME": "scp-zh-014"
+        "FULLNAME": "scp-zh-014",
+        "RATING": 20
     }
 ]

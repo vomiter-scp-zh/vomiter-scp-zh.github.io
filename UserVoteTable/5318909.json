@@ -1,47 +1,47 @@
 [
     {
         "TITLE": "SCP-ZH-018",
-        "RATING": 9,
-        "FULLNAME": "scp-zh-018"
+        "FULLNAME": "scp-zh-018",
+        "RATING": 9
     },
     {
         "TITLE": "SCP-ZH-401",
-        "RATING": 9,
-        "FULLNAME": "scp-zh-401"
+        "FULLNAME": "scp-zh-401",
+        "RATING": 9
     },
     {
         "TITLE": "SCP-ZH-003",
-        "RATING": 6,
-        "FULLNAME": "scp-zh-003"
+        "FULLNAME": "scp-zh-003",
+        "RATING": 6
     },
     {
         "TITLE": "SCP-ZH-618",
-        "RATING": 41,
-        "FULLNAME": "scp-zh-618"
+        "FULLNAME": "scp-zh-618",
+        "RATING": 41
     },
     {
         "TITLE": "SCP-ZH-888",
-        "RATING": 19,
-        "FULLNAME": "scp-zh-888"
+        "FULLNAME": "scp-zh-888",
+        "RATING": 19
     },
     {
         "TITLE": "SCP-ZH-020",
-        "RATING": 13,
-        "FULLNAME": "scp-zh-020"
+        "FULLNAME": "scp-zh-020",
+        "RATING": 13
     },
     {
         "TITLE": "SCP-ZH-005",
-        "RATING": 59,
-        "FULLNAME": "scp-zh-005"
+        "FULLNAME": "scp-zh-005",
+        "RATING": 59
     },
     {
         "TITLE": "SCP-ZH-045",
-        "RATING": 18,
-        "FULLNAME": "scp-zh-045"
+        "FULLNAME": "scp-zh-045",
+        "RATING": 18
     },
     {
         "TITLE": "我們成功收容KZ了！",
-        "RATING": 6,
-        "FULLNAME": "we-finally-contain-kz"
+        "FULLNAME": "we-finally-contain-kz",
+        "RATING": 6
     }
 ]

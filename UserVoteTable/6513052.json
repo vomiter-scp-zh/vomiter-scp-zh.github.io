@@ -1,32 +1,32 @@
 [
     {
         "TITLE": "安眠華爾茲",
-        "RATING": 12,
-        "FULLNAME": "dormitive-waltz"
+        "FULLNAME": "dormitive-waltz",
+        "RATING": 12
     },
     {
         "TITLE": "神異博覽會一九三五",
-        "RATING": 24,
-        "FULLNAME": "taiwan-miracle-exposition"
+        "FULLNAME": "taiwan-miracle-exposition",
+        "RATING": 24
     },
     {
         "TITLE": "少女躍然於紙上",
-        "RATING": 10,
-        "FULLNAME": "riariaria"
+        "FULLNAME": "riariaria",
+        "RATING": 10
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "RATING": 55,
-        "FULLNAME": "scp-zh-2005-ex"
+        "FULLNAME": "scp-zh-2005-ex",
+        "RATING": 55
     },
     {
         "TITLE": "Nihilmace與Valmua",
-        "RATING": 15,
-        "FULLNAME": "k1s10r0d-nihilmace-and-valmua"
+        "FULLNAME": "k1s10r0d-nihilmace-and-valmua",
+        "RATING": 15
     },
     {
         "TITLE": "025O的畫",
-        "RATING": 18,
-        "FULLNAME": "025o-s-painting"
+        "FULLNAME": "025o-s-painting",
+        "RATING": 18
     }
 ]

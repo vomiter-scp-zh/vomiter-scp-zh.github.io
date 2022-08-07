@@ -1,22 +1,22 @@
 [
     {
         "TITLE": "SCP-ZH-003",
-        "RATING": 6,
-        "FULLNAME": "scp-zh-003"
+        "FULLNAME": "scp-zh-003",
+        "RATING": 6
     },
     {
         "TITLE": "SCP-ZH-002 - 台灣獨角獸",
-        "RATING": 36,
-        "FULLNAME": "scp-zh-002"
+        "FULLNAME": "scp-zh-002",
+        "RATING": 36
     },
     {
         "TITLE": "Ctrl Z博士的鉛筆塗鴉",
-        "RATING": 16,
-        "FULLNAME": "ctrlzpencil"
+        "FULLNAME": "ctrlzpencil",
+        "RATING": 16
     },
     {
         "TITLE": "異常項目紀錄：「防暴警察頭盔」",
-        "RATING": 35,
-        "FULLNAME": "anomalous-item-hk-police-helmet"
+        "FULLNAME": "anomalous-item-hk-police-helmet",
+        "RATING": 35
     }
 ]

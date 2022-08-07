@@ -1,17 +1,17 @@
 [
     {
         "TITLE": "個人日誌",
-        "RATING": 11,
-        "FULLNAME": "personal-diary-of-iceberg-and-gears"
+        "FULLNAME": "personal-diary-of-iceberg-and-gears",
+        "RATING": 11
     },
     {
         "TITLE": "沙皇先知協會擬人-奇術講解篇",
-        "RATING": 18,
-        "FULLNAME": "tsars-seers-art-thaumatology"
+        "FULLNAME": "tsars-seers-art-thaumatology",
+        "RATING": 18
     },
     {
         "TITLE": "海水的顏色－黑",
-        "RATING": 10,
-        "FULLNAME": "color-of-sea-black"
+        "FULLNAME": "color-of-sea-black",
+        "RATING": 10
     }
 ]

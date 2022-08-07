@@ -1,27 +1,27 @@
 [
     {
         "TITLE": "SCP-ZH-883",
-        "RATING": 8,
-        "FULLNAME": "scp-zh-883"
+        "FULLNAME": "scp-zh-883",
+        "RATING": 8
     },
     {
         "TITLE": "SCP-ZH-100",
-        "RATING": 23,
-        "FULLNAME": "scp-zh-0100"
+        "FULLNAME": "scp-zh-0100",
+        "RATING": 23
     },
     {
         "TITLE": "SCP-ZH-998 - 現象學",
-        "RATING": 36,
-        "FULLNAME": "scp-zh-998"
+        "FULLNAME": "scp-zh-998",
+        "RATING": 36
     },
     {
         "TITLE": "SCP-ZH-9288-EX",
-        "RATING": 44,
-        "FULLNAME": "scp-zh-9288-ex"
+        "FULLNAME": "scp-zh-9288-ex",
+        "RATING": 44
     },
     {
         "TITLE": "SCP-ZH-120",
-        "RATING": 38,
-        "FULLNAME": "scp-zh-120"
+        "FULLNAME": "scp-zh-120",
+        "RATING": 38
     }
 ]

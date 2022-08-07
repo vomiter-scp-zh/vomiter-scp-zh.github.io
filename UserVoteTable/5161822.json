@@ -1,17 +1,17 @@
 [
     {
         "TITLE": "SCP-ZH-446 - 化蟲",
-        "RATING": 27,
-        "FULLNAME": "scp-zh-446"
+        "FULLNAME": "scp-zh-446",
+        "RATING": 27
     },
     {
         "TITLE": "表層變動",
-        "RATING": 16,
-        "FULLNAME": "one-of-the-secrets"
+        "FULLNAME": "one-of-the-secrets",
+        "RATING": 16
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "RATING": 55,
-        "FULLNAME": "scp-zh-2005-ex"
+        "FULLNAME": "scp-zh-2005-ex",
+        "RATING": 55
     }
 ]

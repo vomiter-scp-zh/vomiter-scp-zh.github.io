@@ -1,22 +1,22 @@
 [
     {
         "TITLE": "一次興衰",
-        "RATING": 13,
-        "FULLNAME": "a-change"
+        "FULLNAME": "a-change",
+        "RATING": 13
     },
     {
         "TITLE": "假如你來到這個宇宙請保持冷靜",
-        "RATING": 30,
-        "FULLNAME": "you-need-icecream-in-summer"
+        "FULLNAME": "you-need-icecream-in-summer",
+        "RATING": 30
     },
     {
         "TITLE": "繁中分部標誌",
-        "RATING": 14,
-        "FULLNAME": "zh-logo"
+        "FULLNAME": "zh-logo",
+        "RATING": 14
     },
     {
         "TITLE": "我們成功收容KZ了！",
-        "RATING": 6,
-        "FULLNAME": "we-finally-contain-kz"
+        "FULLNAME": "we-finally-contain-kz",
+        "RATING": 6
     }
 ]

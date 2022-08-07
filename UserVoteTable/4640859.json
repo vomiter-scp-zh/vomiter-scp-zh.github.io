@@ -1,22 +1,22 @@
 [
     {
         "TITLE": "SCP-ZH-515 - 平安符",
-        "RATING": 43,
-        "FULLNAME": "scp-zh-515"
+        "FULLNAME": "scp-zh-515",
+        "RATING": 43
     },
     {
         "TITLE": "距離世界末日還有五分鐘",
-        "RATING": 24,
-        "FULLNAME": "five-minutes-to-end"
+        "FULLNAME": "five-minutes-to-end",
+        "RATING": 24
     },
     {
         "TITLE": "SCP-ZH-014",
-        "RATING": 20,
-        "FULLNAME": "scp-zh-014"
+        "FULLNAME": "scp-zh-014",
+        "RATING": 20
     },
     {
         "TITLE": "SCP-ZH-042",
-        "RATING": 16,
-        "FULLNAME": "scp-zh-042"
+        "FULLNAME": "scp-zh-042",
+        "RATING": 16
     }
 ]

@@ -1,17 +1,17 @@
 [
     {
         "TITLE": "我在萬物之中",
-        "RATING": 36,
-        "FULLNAME": "arkwork-3999"
+        "FULLNAME": "arkwork-3999",
+        "RATING": 36
     },
     {
         "TITLE": "SCP-ZH-603 - 腳踏車上的人",
-        "RATING": 30,
-        "FULLNAME": "scp-zh-603"
+        "FULLNAME": "scp-zh-603",
+        "RATING": 30
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
-        "RATING": 54,
-        "FULLNAME": "scp-zh-999"
+        "FULLNAME": "scp-zh-999",
+        "RATING": 54
     }
 ]
