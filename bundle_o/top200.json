@@ -270,12 +270,6 @@
         "COMMENTS": null
     },
     {
-        "TITLE": "維安設施檔案：Site-ZH-02",
-        "FULLNAME": "site-zh-02",
-        "RATING": 25,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "小動物簡介：Surge！",
         "FULLNAME": "critter-profile-surge",
         "RATING": 25,
@@ -288,16 +282,10 @@
         "COMMENTS": null
     },
     {
-        "TITLE": "SCP-ZH-222-J",
-        "FULLNAME": "scp-zh-222-j",
-        "RATING": 24,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "挑戰傳統評分方式：關於自訂評分模版",
-        "FULLNAME": "rating-against-traditions",
-        "RATING": 24,
-        "COMMENTS": null
+        "TITLE": "26",
+        "FULLNAME": "site-zh-02",
+        "RATING": 25,
+        "COMMENTS": "7"
     },
     {
         "TITLE": "山姆的ZH分部角色紀錄本",
@@ -372,6 +360,18 @@
         "COMMENTS": null
     },
     {
+        "TITLE": "24",
+        "FULLNAME": "scp-zh-222-j",
+        "RATING": 24,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "24",
+        "FULLNAME": "rating-against-traditions",
+        "RATING": 24,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "沒有基金會的那時",
         "FULLNAME": "the-time-foundation-disappeared",
         "RATING": 23,
@@ -417,12 +417,6 @@
         "TITLE": "項目企劃書 2017-47：《健康的代價》",
         "FULLNAME": "project-proposal-2017-47-zh",
         "RATING": 23,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "SCP-ZH-587-J",
-        "FULLNAME": "scp-zh-587-j",
-        "RATING": 22,
         "COMMENTS": null
     },
     {
@@ -555,6 +549,12 @@
         ]
     },
     {
+        "TITLE": "23",
+        "FULLNAME": "scp-zh-587-j",
+        "RATING": 22,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-ZH-610 - 猛爆性繁衍組織瘤",
         "FULLNAME": "scp-zh-610",
         "RATING": 21,
@@ -630,12 +630,6 @@
         "TITLE": "NX-ZH-02：西加走灣群島",
         "FULLNAME": "nx-zh-02",
         "RATING": 21,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "SCP-ZH-009",
-        "FULLNAME": "scp-zh-009",
-        "RATING": 20,
         "COMMENTS": null
     },
     {
@@ -771,16 +765,10 @@
         "COMMENTS": null
     },
     {
-        "TITLE": "SCP基金會不知道的那些事件",
-        "FULLNAME": "ocd-virus01",
-        "RATING": 19,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "SCP-ZH-888",
-        "FULLNAME": "scp-zh-888",
-        "RATING": 19,
-        "COMMENTS": null
+        "TITLE": "29",
+        "FULLNAME": "scp-zh-009",
+        "RATING": 20,
+        "COMMENTS": "3"
     },
     {
         "TITLE": "花語：仙丹花",
@@ -913,6 +901,18 @@
         "FULLNAME": "scp-zh-517",
         "RATING": 19,
         "COMMENTS": null
+    },
+    {
+        "TITLE": "20",
+        "FULLNAME": "ocd-virus01",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "21",
+        "FULLNAME": "scp-zh-888",
+        "RATING": 19,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-045",
@@ -1116,12 +1116,6 @@
         "COMMENTS": null
     },
     {
-        "TITLE": "站點綠化提案",
-        "FULLNAME": "greening",
-        "RATING": 17,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "SCP-ZH-077",
         "FULLNAME": "scp-zh-077",
         "RATING": 17,
@@ -1238,6 +1232,12 @@
     {
         "TITLE": "聖誕與萬聖僅有一線之隔",
         "FULLNAME": "christmas-or-halloween",
+        "RATING": 17,
+        "COMMENTS": null
+    },
+    {
+        "TITLE": "聖夜相守時",
+        "FULLNAME": "formytreasure",
         "RATING": 17,
         "COMMENTS": null
     }

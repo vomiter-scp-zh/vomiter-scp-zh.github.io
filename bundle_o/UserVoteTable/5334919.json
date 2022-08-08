@@ -27,10 +27,10 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-004",
+        "TITLE": "18",
         "FULLNAME": "scp-zh-004",
         "RATING": 9,
-        "COMMENTS": null
+        "COMMENTS": "5"
     },
     {
         "TITLE": "SCP-ZH-618",
@@ -39,9 +39,9 @@
         "COMMENTS": null
     },
     {
-        "TITLE": "SCP-ZH-583",
+        "TITLE": "15",
         "FULLNAME": "scp-zh-583",
         "RATING": 12,
-        "COMMENTS": null
+        "COMMENTS": "6"
     }
 ]
