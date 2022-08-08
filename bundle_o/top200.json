@@ -90,10 +90,10 @@
         "COMMENTS": null
     },
     {
-        "TITLE": "異常項目紀錄：「防暴警察頭盔」",
+        "TITLE": "44",
         "FULLNAME": "anomalous-item-hk-police-helmet",
         "RATING": 35,
-        "COMMENTS": null
+        "COMMENTS": "5"
     },
     {
         "TITLE": "你會感到後悔嗎？",
@@ -288,12 +288,6 @@
         "COMMENTS": "2"
     },
     {
-        "TITLE": "What The Fuck",
-        "FULLNAME": "what-the-fuck",
-        "RATING": 24,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "SCP-ZH-082 - 小蜜蜂餐車",
         "FULLNAME": "scp-zh-082",
         "RATING": 24,
@@ -372,6 +366,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "24",
+        "FULLNAME": "what-the-fuck",
+        "RATING": 24,
+        "COMMENTS": "3"
+    },
+    {
         "TITLE": "沒有基金會的那時",
         "FULLNAME": "the-time-foundation-disappeared",
         "RATING": 23,
@@ -418,12 +418,6 @@
         "FULLNAME": "scp-zh-034",
         "RATING": 23,
         "COMMENTS": "3"
-    },
-    {
-        "TITLE": "SCP-ZH-144 - 十二進位法",
-        "FULLNAME": "scp-zh-144",
-        "RATING": 22,
-        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-086 - 請你別說見過我",
@@ -555,10 +549,10 @@
         "COMMENTS": "2"
     },
     {
-        "TITLE": "SCP-ZH-048",
-        "FULLNAME": "scp-zh-048",
-        "RATING": 21,
-        "COMMENTS": null
+        "TITLE": "22",
+        "FULLNAME": "scp-zh-144",
+        "RATING": 22,
+        "COMMENTS": "3"
     },
     {
         "TITLE": "NX-ZH-02：西加走灣群島",
@@ -631,6 +625,12 @@
         "FULLNAME": "scp-zh-032",
         "RATING": 21,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "23",
+        "FULLNAME": "scp-zh-048",
+        "RATING": 21,
+        "COMMENTS": "2"
     },
     {
         "TITLE": "29",
@@ -771,18 +771,6 @@
         "COMMENTS": "10"
     },
     {
-        "TITLE": "SCP-ZH-128",
-        "FULLNAME": "scp-zh-128",
-        "RATING": 19,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "SCP-ZH-220",
-        "FULLNAME": "scp-zh-220",
-        "RATING": 19,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "SCP-ZH-110 - 地板破了個洞",
         "FULLNAME": "scp-zh-110",
         "RATING": 19,
@@ -915,16 +903,16 @@
         "COMMENTS": "3"
     },
     {
-        "TITLE": "SCP-ZH-1000-EX",
-        "FULLNAME": "scp-zh-1000-ex",
-        "RATING": 18,
-        "COMMENTS": null
+        "TITLE": "19",
+        "FULLNAME": "scp-zh-128",
+        "RATING": 19,
+        "COMMENTS": "3"
     },
     {
-        "TITLE": "SCP-ZH-243",
-        "FULLNAME": "scp-zh-243",
-        "RATING": 18,
-        "COMMENTS": null
+        "TITLE": "19",
+        "FULLNAME": "scp-zh-220",
+        "RATING": 19,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-052",
@@ -1104,6 +1092,18 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "26",
+        "FULLNAME": "scp-zh-1000-ex",
+        "RATING": 18,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "18",
+        "FULLNAME": "scp-zh-243",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-196 - 與ㅤㅤㅤㅤ婆娑起舞",
         "FULLNAME": "scp-zh-196",
         "RATING": 17,
@@ -1112,12 +1112,6 @@
     {
         "TITLE": "Myosotis",
         "FULLNAME": "myosotis",
-        "RATING": 17,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "SCP-ZH-613",
-        "FULLNAME": "scp-zh-613",
         "RATING": 17,
         "COMMENTS": null
     },
@@ -1240,5 +1234,11 @@
         "FULLNAME": "on-the-tree",
         "RATING": 17,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "17",
+        "FULLNAME": "been-a-while",
+        "RATING": 17,
+        "COMMENTS": "1"
     }
 ]
