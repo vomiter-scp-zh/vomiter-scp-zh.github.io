@@ -108,12 +108,6 @@
         "COMMENTS": null
     },
     {
-        "TITLE": "SCP-ZH-860 - dado的「发」財藥",
-        "FULLNAME": "scp-zh-860",
-        "RATING": 33,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "SCP-ZH-200",
         "FULLNAME": "scp-zh-200",
         "RATING": 33,
@@ -142,6 +136,12 @@
         "FULLNAME": "scp-zh-117",
         "RATING": 33,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "33",
+        "FULLNAME": "scp-zh-860",
+        "RATING": 33,
+        "COMMENTS": "3"
     },
     {
         "TITLE": "Alicia女士",
@@ -210,12 +210,6 @@
         "COMMENTS": null
     },
     {
-        "TITLE": "安布羅斯餐廳-伊薩科夫號分店 (節日限定)",
-        "FULLNAME": "ambrose-isakov",
-        "RATING": 28,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "SCP-ZH-496 - 安全極限距離",
         "FULLNAME": "scp-zh-496",
         "RATING": 28,
@@ -232,6 +226,12 @@
         "FULLNAME": "scp-zh-337",
         "RATING": 28,
         "COMMENTS": null
+    },
+    {
+        "TITLE": "28",
+        "FULLNAME": "ambrose-isakov",
+        "RATING": 28,
+        "COMMENTS": "9"
     },
     {
         "TITLE": "SCP-ZH-113",
@@ -378,12 +378,6 @@
         "COMMENTS": null
     },
     {
-        "TITLE": "維安設施檔案：Site-ZH-12",
-        "FULLNAME": "site-zh-12",
-        "RATING": 23,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "SCP-ZH-015",
         "FULLNAME": "scp-zh-015",
         "RATING": 23,
@@ -420,10 +414,10 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "行動計劃 第叁捌肆字號",
-        "FULLNAME": "nsb8-384",
-        "RATING": 22,
-        "COMMENTS": null
+        "TITLE": "23",
+        "FULLNAME": "site-zh-12",
+        "RATING": 23,
+        "COMMENTS": "3"
     },
     {
         "TITLE": "從今以後，她將永生",
@@ -555,10 +549,10 @@
         "COMMENTS": "7"
     },
     {
-        "TITLE": "SCP-ZH-600",
-        "FULLNAME": "scp-zh-600",
-        "RATING": 21,
-        "COMMENTS": null
+        "TITLE": "22",
+        "FULLNAME": "nsb8-384",
+        "RATING": 22,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-166",
@@ -631,6 +625,12 @@
         "FULLNAME": "so-i-said-that-dinner",
         "RATING": 21,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "21",
+        "FULLNAME": "scp-zh-600",
+        "RATING": 21,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-133",
@@ -771,12 +771,6 @@
         "COMMENTS": "3"
     },
     {
-        "TITLE": "SCP-ZH-108",
-        "FULLNAME": "scp-zh-108",
-        "RATING": 19,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "SCP-ZH-012",
         "FULLNAME": "scp-zh-012",
         "RATING": 19,
@@ -915,16 +909,10 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "Off Work",
-        "FULLNAME": "pry",
-        "RATING": 18,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "雕刻作品：聖夜相守",
-        "FULLNAME": "handcrafts",
-        "RATING": 18,
-        "COMMENTS": null
+        "TITLE": "19",
+        "FULLNAME": "scp-zh-108",
+        "RATING": 19,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-055",
@@ -1102,6 +1090,18 @@
         "FULLNAME": "site-zh-81",
         "RATING": 18,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "18",
+        "FULLNAME": "pry",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "18",
+        "FULLNAME": "handcrafts",
+        "RATING": 18,
+        "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-ZH-196 - 與ㅤㅤㅤㅤ婆娑起舞",
