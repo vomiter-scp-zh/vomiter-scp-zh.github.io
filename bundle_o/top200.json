@@ -174,12 +174,6 @@
         "COMMENTS": null
     },
     {
-        "TITLE": "SCP-ZH-087 - 棄稿",
-        "FULLNAME": "scp-zh-087",
-        "RATING": 30,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "SCP-ZH-603 - 腳踏車上的人",
         "FULLNAME": "scp-zh-603",
         "RATING": 30,
@@ -190,6 +184,12 @@
         "FULLNAME": "you-need-icecream-in-summer",
         "RATING": 30,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "31",
+        "FULLNAME": "scp-zh-087",
+        "RATING": 30,
+        "COMMENTS": "4"
     },
     {
         "TITLE": "SCP-ZH-053",
@@ -378,12 +378,6 @@
         "COMMENTS": null
     },
     {
-        "TITLE": "SCP-ZH-100",
-        "FULLNAME": "scp-zh-0100",
-        "RATING": 23,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "SCP-ZH-626",
         "FULLNAME": "scp-zh-626",
         "RATING": 23,
@@ -420,10 +414,10 @@
         "COMMENTS": null
     },
     {
-        "TITLE": "SCP-ZH-174",
-        "FULLNAME": "scp-zh-174",
-        "RATING": 22,
-        "COMMENTS": null
+        "TITLE": "23",
+        "FULLNAME": "scp-zh-0100",
+        "RATING": 23,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "聖誕軍演",
@@ -553,6 +547,12 @@
         "FULLNAME": "scp-zh-125",
         "RATING": 22,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "24",
+        "FULLNAME": "scp-zh-174",
+        "RATING": 22,
+        "COMMENTS": "4"
     },
     {
         "TITLE": "Valentine的Logo頁",
@@ -771,12 +771,6 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "對欲肉教的人類學進路03-案例研究03：香港新茶嶺的盧亭人",
-        "FULLNAME": "sarkic-case-study-03-the-luo-ting-n-a-of-new-cha-ling",
-        "RATING": 19,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "Dr.Ray的異常項目分級圖標",
         "FULLNAME": "ray-s-logo",
         "RATING": 19,
@@ -915,16 +909,10 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-ZH-045",
-        "FULLNAME": "scp-zh-045",
-        "RATING": 18,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "SCP-ZH-041",
-        "FULLNAME": "scp-zh-041",
-        "RATING": 18,
-        "COMMENTS": null
+        "TITLE": "20",
+        "FULLNAME": "sarkic-case-study-03-the-luo-ting-n-a-of-new-cha-ling",
+        "RATING": 19,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-010 - 迷走神經寄生體",
@@ -1104,6 +1092,18 @@
         ]
     },
     {
+        "TITLE": "19",
+        "FULLNAME": "scp-zh-045",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "20",
+        "FULLNAME": "scp-zh-041",
+        "RATING": 18,
+        "COMMENTS": "4"
+    },
+    {
         "TITLE": "SCP-ZH-196 - 與ㅤㅤㅤㅤ婆娑起舞",
         "FULLNAME": "scp-zh-196",
         "RATING": 17,
@@ -1112,18 +1112,6 @@
     {
         "TITLE": "Myosotis",
         "FULLNAME": "myosotis",
-        "RATING": 17,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "SCP-ZH-913 - 回家月餅",
-        "FULLNAME": "scp-zh-913",
-        "RATING": 17,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "SCP-ZH-070",
-        "FULLNAME": "scp-zh-070",
         "RATING": 17,
         "COMMENTS": null
     },
@@ -1238,6 +1226,18 @@
     {
         "TITLE": "雷射雕刻──Site-ZH-12",
         "FULLNAME": "site-zh-12-made-with-wood",
+        "RATING": 17,
+        "COMMENTS": null
+    },
+    {
+        "TITLE": "SCP-ZH-526",
+        "FULLNAME": "scp-zh-526",
+        "RATING": 17,
+        "COMMENTS": null
+    },
+    {
+        "TITLE": "洗標：紅1354-深入傳統納餓卡部落",
+        "FULLNAME": "red-1354",
         "RATING": 17,
         "COMMENTS": null
     }
