@@ -111,79 +111,37 @@
         "TITLE": "12",
         "FULLNAME": "scp-zh-018",
         "RATING": 9,
-        "COMMENTS": [
-            "1",
-            "3",
-            "6",
-            "3",
-            "1",
-            "1",
-            "3",
-            "1",
-            "2",
-            "0",
-            "2",
-            "1",
-            "2",
-            "5",
-            "1",
-            "2",
-            "1",
-            "1",
-            "1",
-            "2"
-        ]
+        "COMMENTS": "2"
     },
     {
         "TITLE": "34",
         "FULLNAME": "scp-zh-117",
         "RATING": 33,
-        "COMMENTS": [
-            "1",
-            "3",
-            "6",
-            "3",
-            "1",
-            "1",
-            "3",
-            "1",
-            "2",
-            "0",
-            "2",
-            "1",
-            "2",
-            "5",
-            "1",
-            "2",
-            "1",
-            "1",
-            "1",
-            "2"
-        ]
+        "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-ZH-024-ARC",
+        "TITLE": "9",
         "FULLNAME": "scp-zh-024-arc",
         "RATING": 6,
-        "COMMENTS": null
+        "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-ZH-124",
+        "TITLE": "6",
         "FULLNAME": "scp-zh-124",
         "RATING": 5,
-        "COMMENTS": null
+        "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-ZH-178",
+        "TITLE": "17",
         "FULLNAME": "scp-zh-178",
         "RATING": 11,
-        "COMMENTS": null
+        "COMMENTS": "2"
     },
     {
-        "TITLE": "SCP-ZH-003",
+        "TITLE": "27",
         "FULLNAME": "scp-zh-003",
         "RATING": 6,
-        "COMMENTS": null
+        "COMMENTS": "4"
     },
     {
         "TITLE": "SCP-ZH-130",

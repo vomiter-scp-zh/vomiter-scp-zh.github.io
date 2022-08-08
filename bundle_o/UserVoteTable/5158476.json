@@ -30,40 +30,19 @@
         "TITLE": "34",
         "FULLNAME": "scp-zh-117",
         "RATING": 33,
-        "COMMENTS": [
-            "1",
-            "3",
-            "6",
-            "3",
-            "1",
-            "1",
-            "3",
-            "1",
-            "2",
-            "0",
-            "2",
-            "1",
-            "2",
-            "5",
-            "1",
-            "2",
-            "1",
-            "1",
-            "1",
-            "2"
-        ]
+        "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-ZH-401",
+        "TITLE": "11",
         "FULLNAME": "scp-zh-401",
         "RATING": 9,
-        "COMMENTS": null
+        "COMMENTS": "2"
     },
     {
-        "TITLE": "SCP-ZH-178",
+        "TITLE": "17",
         "FULLNAME": "scp-zh-178",
         "RATING": 11,
-        "COMMENTS": null
+        "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-ZH-089",
