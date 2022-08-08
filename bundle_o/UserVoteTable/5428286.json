@@ -6,7 +6,7 @@
         "COMMENTS": "5"
     },
     {
-        "TITLE": "34",
+        "TITLE": "SCP-ZH-117",
         "FULLNAME": "scp-zh-117",
         "RATING": 33,
         "COMMENTS": "1"
@@ -21,7 +21,7 @@
         "TITLE": "SCP-ZH-618",
         "FULLNAME": "scp-zh-618",
         "RATING": 41,
-        "COMMENTS": null
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-972",
@@ -39,13 +39,13 @@
         "TITLE": "SCP-ZH-105 - 不孝子",
         "FULLNAME": "scp-zh-105",
         "RATING": 65,
-        "COMMENTS": null
+        "COMMENTS": "5"
     },
     {
         "TITLE": "SCP-ZH-515 - 平安符",
         "FULLNAME": "scp-zh-515",
         "RATING": 43,
-        "COMMENTS": null
+        "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-ZH-087 - 棄稿",
@@ -81,6 +81,6 @@
         "TITLE": "SCP-ZH-499 - 康乃馨盔甲工藝",
         "FULLNAME": "scp-zh-499",
         "RATING": 37,
-        "COMMENTS": null
+        "COMMENTS": "3"
     }
 ]

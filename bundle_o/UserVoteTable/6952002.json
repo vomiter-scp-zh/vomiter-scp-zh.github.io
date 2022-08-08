@@ -99,7 +99,7 @@
         "TITLE": "SCP-ZH-815",
         "FULLNAME": "scp-zh-815",
         "RATING": 35,
-        "COMMENTS": null
+        "COMMENTS": "8"
     },
     {
         "TITLE": "SCP-ZH-087 - 棄稿",
@@ -381,7 +381,7 @@
         "TITLE": "SCP-ZH-2005-EX",
         "FULLNAME": "scp-zh-2005-ex",
         "RATING": 55,
-        "COMMENTS": null
+        "COMMENTS": "1"
     },
     {
         "TITLE": "2010年的那幾個實習生",
@@ -423,7 +423,7 @@
         "TITLE": "你會感到後悔嗎？",
         "FULLNAME": "what-are-you-waiting-for-just-join-goc-dude",
         "RATING": 34,
-        "COMMENTS": null
+        "COMMENTS": "5"
     },
     {
         "TITLE": "SCP-ZH-496 - 安全極限距離",
@@ -447,7 +447,7 @@
         "TITLE": "SCP-ZH-022-J - 拜託誰來把它填上",
         "FULLNAME": "scp-zh-022-j",
         "RATING": 36,
-        "COMMENTS": null
+        "COMMENTS": "19"
     },
     {
         "TITLE": "SCP-ZH-022",
@@ -771,7 +771,7 @@
         "TITLE": "繁中管理員筆記：2021年回顧",
         "FULLNAME": "note-for-u-guys-2021",
         "RATING": 34,
-        "COMMENTS": null
+        "COMMENTS": "4"
     },
     {
         "TITLE": "「給我一束鮮花吧。」",
@@ -819,7 +819,7 @@
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
         "FULLNAME": "scp-zh-999",
         "RATING": 54,
-        "COMMENTS": null
+        "COMMENTS": "13"
     },
     {
         "TITLE": "退休生活",
@@ -1035,7 +1035,7 @@
         "TITLE": "SCP-ZH-403 - 禁臠與終止符",
         "FULLNAME": "scp-zh-403",
         "RATING": 14,
-        "COMMENTS": null
+        "COMMENTS": "4"
     },
     {
         "TITLE": "非相關人員禁止閱覽",
@@ -1071,12 +1071,18 @@
         "TITLE": "SCP-ZH-361 - 驚喜X麵",
         "FULLNAME": "scp-zh-361",
         "RATING": 14,
-        "COMMENTS": null
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-279 - 愛的形狀",
         "FULLNAME": "scp-zh-279",
         "RATING": 17,
-        "COMMENTS": null
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-318 - 認同癖",
+        "FULLNAME": "scp-zh-318",
+        "RATING": 1,
+        "COMMENTS": "3"
     }
 ]

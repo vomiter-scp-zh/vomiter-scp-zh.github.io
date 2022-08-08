@@ -135,25 +135,25 @@
         "TITLE": "牠在看著嗎？",
         "FULLNAME": "is-it-watching",
         "RATING": 8,
-        "COMMENTS": null
+        "COMMENTS": "0"
     },
     {
         "TITLE": "NX-ZH-02：西加走灣群島",
         "FULLNAME": "nx-zh-02",
         "RATING": 21,
-        "COMMENTS": null
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-403 - 禁臠與終止符",
         "FULLNAME": "scp-zh-403",
         "RATING": 14,
-        "COMMENTS": null
+        "COMMENTS": "4"
     },
     {
         "TITLE": "SCP-ZH-801 - 湮滅公分母",
         "FULLNAME": "scp-zh-801",
         "RATING": 10,
-        "COMMENTS": null
+        "COMMENTS": "0"
     },
     {
         "TITLE": "希望的顏色",
@@ -201,7 +201,7 @@
         "TITLE": "SCP-ZH-998 - 現象學",
         "FULLNAME": "scp-zh-998",
         "RATING": 36,
-        "COMMENTS": null
+        "COMMENTS": "7"
     },
     {
         "TITLE": "三生有幸",
@@ -213,13 +213,13 @@
         "TITLE": "SCP-ZH-9288-EX",
         "FULLNAME": "scp-zh-9288-ex",
         "RATING": 44,
-        "COMMENTS": null
+        "COMMENTS": "5"
     },
     {
         "TITLE": "SCP-ZH-002 - 台灣獨角獸",
         "FULLNAME": "scp-zh-002",
         "RATING": 36,
-        "COMMENTS": null
+        "COMMENTS": "13"
     },
     {
         "TITLE": "貓耳日",
@@ -273,7 +273,7 @@
         "TITLE": "SCP-ZH-111",
         "FULLNAME": "scp-zh-111",
         "RATING": 33,
-        "COMMENTS": null
+        "COMMENTS": "0"
     },
     {
         "TITLE": "海神悲鳴時",
@@ -585,7 +585,7 @@
         "TITLE": "SCP-ZH-2005-EX",
         "FULLNAME": "scp-zh-2005-ex",
         "RATING": 55,
-        "COMMENTS": null
+        "COMMENTS": "1"
     },
     {
         "TITLE": "伊伽姊姊去哪了?",
@@ -663,7 +663,7 @@
         "TITLE": "你會感到後悔嗎？",
         "FULLNAME": "what-are-you-waiting-for-just-join-goc-dude",
         "RATING": 34,
-        "COMMENTS": null
+        "COMMENTS": "5"
     },
     {
         "TITLE": "SCP-ZH-496 - 安全極限距離",
@@ -681,7 +681,7 @@
         "TITLE": "SCP-ZH-022-J - 拜託誰來把它填上",
         "FULLNAME": "scp-zh-022-j",
         "RATING": 36,
-        "COMMENTS": null
+        "COMMENTS": "19"
     },
     {
         "TITLE": "天穹之下，千鳥四散",
@@ -1305,7 +1305,7 @@
         "TITLE": "繁中管理員筆記：2021年回顧",
         "FULLNAME": "note-for-u-guys-2021",
         "RATING": 34,
-        "COMMENTS": null
+        "COMMENTS": "4"
     },
     {
         "TITLE": "「給我一束鮮花吧。」",
@@ -1317,7 +1317,7 @@
         "TITLE": "SCP-ZH-499 - 康乃馨盔甲工藝",
         "FULLNAME": "scp-zh-499",
         "RATING": 37,
-        "COMMENTS": null
+        "COMMENTS": "3"
     },
     {
         "TITLE": "SCP-ZH-560 - 人生的第二春",
@@ -1401,7 +1401,7 @@
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
         "FULLNAME": "scp-zh-999",
         "RATING": 54,
-        "COMMENTS": null
+        "COMMENTS": "13"
     },
     {
         "TITLE": "退休生活",
@@ -1719,7 +1719,7 @@
         "TITLE": "極限刻度",
         "FULLNAME": "limit-scale",
         "RATING": 8,
-        "COMMENTS": null
+        "COMMENTS": "0"
     },
     {
         "TITLE": "瑞雪酬月",
@@ -1743,48 +1743,48 @@
         "TITLE": "SCP-ZH-532 - 簡單人生身心診所",
         "FULLNAME": "scp-zh-532",
         "RATING": 12,
-        "COMMENTS": null
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-119 - 懲罰之火不降於我",
         "FULLNAME": "scp-zh-119",
-        "RATING": 10,
-        "COMMENTS": null
+        "RATING": 11,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-184 - 奔車朽索",
         "FULLNAME": "scp-zh-184",
-        "RATING": 14,
-        "COMMENTS": null
+        "RATING": 15,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "海棠依舊",
         "FULLNAME": "lucid-dreams",
-        "RATING": 13,
-        "COMMENTS": null
+        "RATING": 14,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "愛是犧牲奉獻",
         "FULLNAME": "love-is-sacrifice",
         "RATING": 5,
-        "COMMENTS": null
+        "COMMENTS": "0"
     },
     {
         "TITLE": "無心之言",
         "FULLNAME": "heartless-speaking",
         "RATING": 7,
-        "COMMENTS": null
+        "COMMENTS": "1"
     },
     {
         "TITLE": "交會，然後漸行漸遠",
         "FULLNAME": "go-to-sus-hi-po",
         "RATING": 8,
-        "COMMENTS": null
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-279 - 愛的形狀",
         "FULLNAME": "scp-zh-279",
         "RATING": 17,
-        "COMMENTS": null
+        "COMMENTS": "1"
     }
 ]

@@ -138,7 +138,7 @@
         "COMMENTS": "1"
     },
     {
-        "TITLE": "34",
+        "TITLE": "SCP-ZH-117",
         "FULLNAME": "scp-zh-117",
         "RATING": 33,
         "COMMENTS": "1"
@@ -429,7 +429,7 @@
         "TITLE": "SCP-ZH-618",
         "FULLNAME": "scp-zh-618",
         "RATING": 41,
-        "COMMENTS": null
+        "COMMENTS": "0"
     },
     {
         "TITLE": "測驗心理諮詢室",
@@ -609,7 +609,7 @@
         "TITLE": "SCP-ZH-105 - 不孝子",
         "FULLNAME": "scp-zh-105",
         "RATING": 65,
-        "COMMENTS": null
+        "COMMENTS": "5"
     },
     {
         "TITLE": "NSB-8新進人員教程: 何謂colony",
@@ -687,7 +687,7 @@
         "TITLE": "SCP-ZH-515 - 平安符",
         "FULLNAME": "scp-zh-515",
         "RATING": 43,
-        "COMMENTS": null
+        "COMMENTS": "2"
     },
     {
         "TITLE": "熟悉的陌生人們",
@@ -783,6 +783,6 @@
         "TITLE": "SCP-ZH-111",
         "FULLNAME": "scp-zh-111",
         "RATING": 33,
-        "COMMENTS": null
+        "COMMENTS": "0"
     }
 ]

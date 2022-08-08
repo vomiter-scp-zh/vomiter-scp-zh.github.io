@@ -99,13 +99,13 @@
         "TITLE": "SCP-ZH-005",
         "FULLNAME": "scp-zh-005",
         "RATING": 59,
-        "COMMENTS": null
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-105 - 不孝子",
         "FULLNAME": "scp-zh-105",
         "RATING": 65,
-        "COMMENTS": null
+        "COMMENTS": "5"
     },
     {
         "TITLE": "泡影",
@@ -117,7 +117,7 @@
         "TITLE": "SCP-ZH-815",
         "FULLNAME": "scp-zh-815",
         "RATING": 35,
-        "COMMENTS": null
+        "COMMENTS": "8"
     },
     {
         "TITLE": "中秋節的過勞站點與NB區研究員與一群異常浣熊",
@@ -147,7 +147,7 @@
         "TITLE": "SCP-ZH-9288-EX",
         "FULLNAME": "scp-zh-9288-ex",
         "RATING": 44,
-        "COMMENTS": null
+        "COMMENTS": "5"
     },
     {
         "TITLE": "SCP-ZH-025",
@@ -249,7 +249,7 @@
         "TITLE": "我在萬物之中",
         "FULLNAME": "arkwork-3999",
         "RATING": 36,
-        "COMMENTS": null
+        "COMMENTS": "8"
     },
     {
         "TITLE": "研究員黃羽霆的辦公室",
@@ -471,7 +471,7 @@
         "TITLE": "SCP-ZH-2005-EX",
         "FULLNAME": "scp-zh-2005-ex",
         "RATING": 55,
-        "COMMENTS": null
+        "COMMENTS": "1"
     },
     {
         "TITLE": "沒什麼，只是一張老照片",
@@ -591,7 +591,7 @@
         "TITLE": "你會感到後悔嗎？",
         "FULLNAME": "what-are-you-waiting-for-just-join-goc-dude",
         "RATING": 34,
-        "COMMENTS": null
+        "COMMENTS": "5"
     },
     {
         "TITLE": "SCP-ZH-496 - 安全極限距離",
@@ -1149,7 +1149,7 @@
         "TITLE": "繁中管理員筆記：2021年回顧",
         "FULLNAME": "note-for-u-guys-2021",
         "RATING": 34,
-        "COMMENTS": null
+        "COMMENTS": "4"
     },
     {
         "TITLE": "「給我一束鮮花吧。」",
@@ -1161,7 +1161,7 @@
         "TITLE": "SCP-ZH-499 - 康乃馨盔甲工藝",
         "FULLNAME": "scp-zh-499",
         "RATING": 37,
-        "COMMENTS": null
+        "COMMENTS": "3"
     },
     {
         "TITLE": "那個輔路她",
@@ -1430,7 +1430,7 @@
     {
         "TITLE": "SCP-ZH-184 - 奔車朽索",
         "FULLNAME": "scp-zh-184",
-        "RATING": 14,
-        "COMMENTS": null
+        "RATING": 15,
+        "COMMENTS": "1"
     }
 ]

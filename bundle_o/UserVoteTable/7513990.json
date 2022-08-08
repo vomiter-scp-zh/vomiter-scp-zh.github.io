@@ -33,7 +33,7 @@
         "TITLE": "SCP-ZH-801 - 湮滅公分母",
         "FULLNAME": "scp-zh-801",
         "RATING": 10,
-        "COMMENTS": null
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-009",
@@ -51,7 +51,7 @@
         "TITLE": "SCP-ZH-618",
         "FULLNAME": "scp-zh-618",
         "RATING": 41,
-        "COMMENTS": null
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-035",
@@ -63,7 +63,7 @@
         "TITLE": "SCP-ZH-005",
         "FULLNAME": "scp-zh-005",
         "RATING": 59,
-        "COMMENTS": null
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-006",
@@ -81,7 +81,7 @@
         "TITLE": "SCP-ZH-515 - 平安符",
         "FULLNAME": "scp-zh-515",
         "RATING": 43,
-        "COMMENTS": null
+        "COMMENTS": "2"
     },
     {
         "TITLE": "假如你來到這個宇宙請保持冷靜",
@@ -177,7 +177,7 @@
         "TITLE": "SCP-ZH-120",
         "FULLNAME": "scp-zh-120",
         "RATING": 38,
-        "COMMENTS": null
+        "COMMENTS": "4"
     },
     {
         "TITLE": "SCP-ZH-025",
@@ -363,7 +363,7 @@
         "TITLE": "SCP-ZH-111",
         "FULLNAME": "scp-zh-111",
         "RATING": 33,
-        "COMMENTS": null
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-021 - 你有什麼煩惱嗎？",
@@ -405,7 +405,7 @@
         "TITLE": "SCP-ZH-2005-EX",
         "FULLNAME": "scp-zh-2005-ex",
         "RATING": 55,
-        "COMMENTS": null
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-496 - 安全極限距離",
@@ -615,13 +615,13 @@
         "TITLE": "繁中管理員筆記：2021年回顧",
         "FULLNAME": "note-for-u-guys-2021",
         "RATING": 34,
-        "COMMENTS": null
+        "COMMENTS": "4"
     },
     {
         "TITLE": "SCP-ZH-499 - 康乃馨盔甲工藝",
         "FULLNAME": "scp-zh-499",
         "RATING": 37,
-        "COMMENTS": null
+        "COMMENTS": "3"
     },
     {
         "TITLE": "SCP-ZH-909 - 評分模塊",
@@ -645,7 +645,7 @@
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
         "FULLNAME": "scp-zh-999",
         "RATING": 54,
-        "COMMENTS": null
+        "COMMENTS": "13"
     },
     {
         "TITLE": "SCP-ZH-340 - 生命之沙，繁星之盒",
@@ -856,5 +856,17 @@
         "FULLNAME": "scp-zh-995",
         "RATING": 12,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-902 - 倒數之中",
+        "FULLNAME": "scp-zh-902",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-184 - 奔車朽索",
+        "FULLNAME": "scp-zh-184",
+        "RATING": 15,
+        "COMMENTS": "1"
     }
 ]

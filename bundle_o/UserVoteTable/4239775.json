@@ -84,7 +84,7 @@
         "COMMENTS": "1"
     },
     {
-        "TITLE": "34",
+        "TITLE": "SCP-ZH-117",
         "FULLNAME": "scp-zh-117",
         "RATING": 33,
         "COMMENTS": "1"
@@ -237,7 +237,7 @@
         "TITLE": "SCP-ZH-618",
         "FULLNAME": "scp-zh-618",
         "RATING": 41,
-        "COMMENTS": null
+        "COMMENTS": "0"
     },
     {
         "TITLE": "測驗心理諮詢室",
@@ -369,7 +369,7 @@
         "TITLE": "SCP-ZH-105 - 不孝子",
         "FULLNAME": "scp-zh-105",
         "RATING": 65,
-        "COMMENTS": null
+        "COMMENTS": "5"
     },
     {
         "TITLE": "血跡-下",
@@ -537,7 +537,7 @@
         "TITLE": "SCP-ZH-815",
         "FULLNAME": "scp-zh-815",
         "RATING": 35,
-        "COMMENTS": null
+        "COMMENTS": "8"
     },
     {
         "TITLE": "孤獨的宴會",
@@ -597,7 +597,7 @@
         "TITLE": "SCP-ZH-998 - 現象學",
         "FULLNAME": "scp-zh-998",
         "RATING": 36,
-        "COMMENTS": null
+        "COMMENTS": "7"
     },
     {
         "TITLE": "洗標：橘8963-許靜池的絲質睡衣",
@@ -675,7 +675,7 @@
         "TITLE": "SCP-ZH-9288-EX",
         "FULLNAME": "scp-zh-9288-ex",
         "RATING": 44,
-        "COMMENTS": null
+        "COMMENTS": "5"
     },
     {
         "TITLE": "死貓吊樹頭",
@@ -1485,7 +1485,7 @@
         "TITLE": "SCP-ZH-022-J - 拜託誰來把它填上",
         "FULLNAME": "scp-zh-022-j",
         "RATING": 36,
-        "COMMENTS": null
+        "COMMENTS": "19"
     },
     {
         "TITLE": "SCP-ZH-022",
@@ -1953,13 +1953,13 @@
         "TITLE": "繁中管理員筆記：2021年回顧",
         "FULLNAME": "note-for-u-guys-2021",
         "RATING": 34,
-        "COMMENTS": null
+        "COMMENTS": "4"
     },
     {
         "TITLE": "SCP-ZH-499 - 康乃馨盔甲工藝",
         "FULLNAME": "scp-zh-499",
         "RATING": 37,
-        "COMMENTS": null
+        "COMMENTS": "3"
     },
     {
         "TITLE": "SCP-ZH-909 - 評分模塊",
@@ -1983,7 +1983,7 @@
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
         "FULLNAME": "scp-zh-999",
         "RATING": 54,
-        "COMMENTS": null
+        "COMMENTS": "13"
     },
     {
         "TITLE": "退休生活",
@@ -2067,7 +2067,7 @@
         "TITLE": "NX-ZH-02：西加走灣群島",
         "FULLNAME": "nx-zh-02",
         "RATING": 21,
-        "COMMENTS": null
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-235",
@@ -2085,6 +2085,6 @@
         "TITLE": "完美犯X的入職",
         "FULLNAME": "interview-of-x",
         "RATING": 8,
-        "COMMENTS": null
+        "COMMENTS": "0"
     }
 ]

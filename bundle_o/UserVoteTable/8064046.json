@@ -3,7 +3,7 @@
         "TITLE": "SCP-ZH-361 - 驚喜X麵",
         "FULLNAME": "scp-zh-361",
         "RATING": 14,
-        "COMMENTS": null
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-255",
@@ -93,7 +93,7 @@
         "TITLE": "SCP-ZH-005",
         "FULLNAME": "scp-zh-005",
         "RATING": 59,
-        "COMMENTS": null
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-006",
@@ -357,12 +357,12 @@
         "TITLE": "SCP-ZH-279 - 愛的形狀",
         "FULLNAME": "scp-zh-279",
         "RATING": 17,
-        "COMMENTS": null
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-941 - 你才沒有在奮鬥",
         "FULLNAME": "scp-zh-941",
-        "RATING": 0,
-        "COMMENTS": null
+        "RATING": -1,
+        "COMMENTS": "7"
     }
 ]
