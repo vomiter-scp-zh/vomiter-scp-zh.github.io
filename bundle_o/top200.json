@@ -378,12 +378,6 @@
         "COMMENTS": null
     },
     {
-        "TITLE": "SCP-ZH-034",
-        "FULLNAME": "scp-zh-034",
-        "RATING": 23,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "項目企劃書 2017-47：《健康的代價》",
         "FULLNAME": "project-proposal-2017-47-zh",
         "RATING": 23,
@@ -420,10 +414,10 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-ZH-096 - 紅移破滅",
-        "FULLNAME": "scp-zh-096",
-        "RATING": 22,
-        "COMMENTS": null
+        "TITLE": "24",
+        "FULLNAME": "scp-zh-034",
+        "RATING": 23,
+        "COMMENTS": "3"
     },
     {
         "TITLE": "SCP-ZH-144 - 十二進位法",
@@ -555,10 +549,10 @@
         "COMMENTS": "2"
     },
     {
-        "TITLE": "SCP-ZH-032",
-        "FULLNAME": "scp-zh-032",
-        "RATING": 21,
-        "COMMENTS": null
+        "TITLE": "22",
+        "FULLNAME": "scp-zh-096",
+        "RATING": 22,
+        "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-ZH-048",
@@ -633,22 +627,10 @@
         "COMMENTS": "3"
     },
     {
-        "TITLE": "SCP-ZH-037",
-        "FULLNAME": "scp-zh-037",
-        "RATING": 20,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "天亮前的戀愛故事",
-        "FULLNAME": "taisho150-lovestorybeforedawn",
-        "RATING": 20,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "SCP-ZH-060-J - Re:在音竹宇宙重生的煩人美少女到底是甚麼東西呀?!",
-        "FULLNAME": "scp-zh-060-j",
-        "RATING": 20,
-        "COMMENTS": null
+        "TITLE": "26",
+        "FULLNAME": "scp-zh-032",
+        "RATING": 21,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "29",
@@ -771,10 +753,22 @@
         "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-ZH-112 - 祝你生日快樂",
-        "FULLNAME": "scp-zh-112",
-        "RATING": 19,
-        "COMMENTS": null
+        "TITLE": "20",
+        "FULLNAME": "scp-zh-037",
+        "RATING": 20,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "20",
+        "FULLNAME": "taisho150-lovestorybeforedawn",
+        "RATING": 20,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "20",
+        "FULLNAME": "scp-zh-060-j",
+        "RATING": 20,
+        "COMMENTS": "10"
     },
     {
         "TITLE": "SCP-ZH-128",
@@ -913,6 +907,12 @@
         "FULLNAME": "scp-zh-903",
         "RATING": 19,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "19",
+        "FULLNAME": "scp-zh-112",
+        "RATING": 19,
+        "COMMENTS": "3"
     },
     {
         "TITLE": "SCP-ZH-1000-EX",
