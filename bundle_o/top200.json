@@ -144,12 +144,6 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-ZH-647 - 嘴砲老人",
-        "FULLNAME": "scp-zh-647",
-        "RATING": 31,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "Surge的提案一",
         "FULLNAME": "surge-s-proposal-1",
         "RATING": 31,
@@ -172,6 +166,12 @@
         "FULLNAME": "the-bottle-in-restroom",
         "RATING": 31,
         "COMMENTS": "7"
+    },
+    {
+        "TITLE": "32",
+        "FULLNAME": "scp-zh-647",
+        "RATING": 31,
+        "COMMENTS": "4"
     },
     {
         "TITLE": "31",
@@ -234,12 +234,6 @@
         "COMMENTS": "9"
     },
     {
-        "TITLE": "SCP-ZH-446 - 化蟲",
-        "FULLNAME": "scp-zh-446",
-        "RATING": 27,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "SCP-ZH-946",
         "FULLNAME": "scp-zh-946",
         "RATING": 27,
@@ -250,6 +244,12 @@
         "FULLNAME": "scp-zh-113",
         "RATING": 27,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "27",
+        "FULLNAME": "scp-zh-446",
+        "RATING": 27,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "鎖鏈的音竹",
@@ -378,12 +378,6 @@
         "COMMENTS": null
     },
     {
-        "TITLE": "願君安好",
-        "FULLNAME": "wish-you-safe-and-sound",
-        "RATING": 23,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "SCP-ZH-034",
         "FULLNAME": "scp-zh-034",
         "RATING": 23,
@@ -416,6 +410,12 @@
     {
         "TITLE": "25",
         "FULLNAME": "scp-zh-015",
+        "RATING": 23,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "23",
+        "FULLNAME": "wish-you-safe-and-sound",
         "RATING": 23,
         "COMMENTS": "0"
     },
@@ -555,12 +555,6 @@
         "COMMENTS": "1"
     },
     {
-        "TITLE": "殺死一隻知更鳥。",
-        "FULLNAME": "it-was-not-my-fault",
-        "RATING": 21,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "食堂約會",
         "FULLNAME": "canteen-date",
         "RATING": 21,
@@ -633,10 +627,10 @@
         "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-ZH-878",
-        "FULLNAME": "scp-zh-878",
-        "RATING": 20,
-        "COMMENTS": null
+        "TITLE": "22",
+        "FULLNAME": "it-was-not-my-fault",
+        "RATING": 21,
+        "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-ZH-140",
@@ -771,10 +765,10 @@
         "COMMENTS": "2"
     },
     {
-        "TITLE": "賦其以形",
-        "FULLNAME": "give-it-shape",
-        "RATING": 19,
-        "COMMENTS": null
+        "TITLE": "20",
+        "FULLNAME": "scp-zh-878",
+        "RATING": 20,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-091",
@@ -915,16 +909,10 @@
         "COMMENTS": "3"
     },
     {
-        "TITLE": "蒼白的末期患者",
-        "FULLNAME": "81q5-sadness-pink",
-        "RATING": 18,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "ZH，025，1225",
-        "FULLNAME": "zh-025-xmas",
-        "RATING": 18,
-        "COMMENTS": null
+        "TITLE": "19",
+        "FULLNAME": "give-it-shape",
+        "RATING": 19,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "辦公室裡的致命模因",
@@ -1104,6 +1092,18 @@
         "COMMENTS": "4"
     },
     {
+        "TITLE": "18",
+        "FULLNAME": "81q5-sadness-pink",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "18",
+        "FULLNAME": "zh-025-xmas",
+        "RATING": 18,
+        "COMMENTS": "4"
+    },
+    {
         "TITLE": "SCP-ZH-196 - 與ㅤㅤㅤㅤ婆娑起舞",
         "FULLNAME": "scp-zh-196",
         "RATING": 17,
@@ -1112,42 +1112,6 @@
     {
         "TITLE": "Myosotis",
         "FULLNAME": "myosotis",
-        "RATING": 17,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "花語：花毛茛",
-        "FULLNAME": "ranunculus",
-        "RATING": 17,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "紀錄及訊息安全管理部門特殊文件－與李總統登輝先生相關的專訪",
-        "FULLNAME": "raisa-lee-teng-hui",
-        "RATING": 17,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "聖誕與萬聖僅有一線之隔",
-        "FULLNAME": "christmas-or-halloween",
-        "RATING": 17,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "聖夜相守時",
-        "FULLNAME": "formytreasure",
-        "RATING": 17,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "台灣異新報、昭和十年十一月一日",
-        "FULLNAME": "taiwan-newspaper",
-        "RATING": 17,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "雷射雕刻──Site-ZH-12",
-        "FULLNAME": "site-zh-12-made-with-wood",
         "RATING": 17,
         "COMMENTS": null
     },
@@ -1240,5 +1204,41 @@
         "FULLNAME": "scp-zh-073",
         "RATING": 17,
         "COMMENTS": null
+    },
+    {
+        "TITLE": "SCP-ZH-279 - 愛的形狀",
+        "FULLNAME": "scp-zh-279",
+        "RATING": 17,
+        "COMMENTS": null
+    },
+    {
+        "TITLE": "23",
+        "FULLNAME": "scp-zh-954",
+        "RATING": 17,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "17",
+        "FULLNAME": "greening",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "20",
+        "FULLNAME": "scp-zh-077",
+        "RATING": 17,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "18",
+        "FULLNAME": "arrival",
+        "RATING": 17,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "18",
+        "FULLNAME": "cats-in-kaleidoscopes",
+        "RATING": 17,
+        "COMMENTS": "0"
     }
 ]
