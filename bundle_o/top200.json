@@ -120,12 +120,6 @@
         "COMMENTS": null
     },
     {
-        "TITLE": "收容室ZH-S12-E-024實驗紀錄",
-        "FULLNAME": "scp-zh-024",
-        "RATING": 33,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "k1s10r0d的提案 - IMMOLARI",
         "FULLNAME": "k1s10r0d-s-proposal",
         "RATING": 33,
@@ -144,10 +138,10 @@
         "COMMENTS": "3"
     },
     {
-        "TITLE": "廁所裡的致命模因",
-        "FULLNAME": "the-bottle-in-restroom",
-        "RATING": 31,
-        "COMMENTS": null
+        "TITLE": "33",
+        "FULLNAME": "scp-zh-024",
+        "RATING": 33,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-647 - 嘴砲老人",
@@ -172,6 +166,12 @@
         "FULLNAME": "scp-zh-774",
         "RATING": 31,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "31",
+        "FULLNAME": "the-bottle-in-restroom",
+        "RATING": 31,
+        "COMMENTS": "7"
     },
     {
         "TITLE": "31",
@@ -270,12 +270,6 @@
         "COMMENTS": "2"
     },
     {
-        "TITLE": "小動物簡介：Surge！",
-        "FULLNAME": "critter-profile-surge",
-        "RATING": 25,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "SCP-ZH-228 - 翠埔，1947。",
         "FULLNAME": "scp-zh-228",
         "RATING": 25,
@@ -288,10 +282,10 @@
         "COMMENTS": "7"
     },
     {
-        "TITLE": "神異博覽會一九三五",
-        "FULLNAME": "taiwan-miracle-exposition",
-        "RATING": 24,
-        "COMMENTS": null
+        "TITLE": "25",
+        "FULLNAME": "critter-profile-surge",
+        "RATING": 25,
+        "COMMENTS": "2"
     },
     {
         "TITLE": "Ctrl Z博士的SCP-ZH記錄-1",
@@ -372,6 +366,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "27",
+        "FULLNAME": "taiwan-miracle-exposition",
+        "RATING": 24,
+        "COMMENTS": "3"
+    },
+    {
         "TITLE": "沒有基金會的那時",
         "FULLNAME": "the-time-foundation-disappeared",
         "RATING": 23,
@@ -418,12 +418,6 @@
         "FULLNAME": "scp-zh-015",
         "RATING": 23,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-021 - 你有什麼煩惱嗎？",
-        "FULLNAME": "scp-zh-021",
-        "RATING": 22,
-        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-835 - 燦藍神化天穹",
@@ -555,10 +549,10 @@
         "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-ZH-060",
-        "FULLNAME": "scp-zh-060",
-        "RATING": 21,
-        "COMMENTS": null
+        "TITLE": "22",
+        "FULLNAME": "scp-zh-021",
+        "RATING": 22,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "殺死一隻知更鳥。",
@@ -633,16 +627,10 @@
         "COMMENTS": "2"
     },
     {
-        "TITLE": "航海學中心頁",
-        "FULLNAME": "navigation",
-        "RATING": 20,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "繁中官方化賀圖",
-        "FULLNAME": "scp",
-        "RATING": 20,
-        "COMMENTS": null
+        "TITLE": "21",
+        "FULLNAME": "scp-zh-060",
+        "RATING": 21,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-878",
@@ -769,6 +757,18 @@
         "FULLNAME": "19th-bureau-of-mss-of-china",
         "RATING": 20,
         "COMMENTS": "16"
+    },
+    {
+        "TITLE": "21",
+        "FULLNAME": "navigation",
+        "RATING": 20,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "20",
+        "FULLNAME": "scp",
+        "RATING": 20,
+        "COMMENTS": "2"
     },
     {
         "TITLE": "賦其以形",
@@ -913,36 +913,6 @@
         "FULLNAME": "scp-zh-282",
         "RATING": 19,
         "COMMENTS": "3"
-    },
-    {
-        "TITLE": "SCP-ZH-046",
-        "FULLNAME": "scp-zh-046",
-        "RATING": 18,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "一般與異常探勘講座",
-        "FULLNAME": "how-to-survive-in-the-wild",
-        "RATING": 18,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "SCP-ZH-831",
-        "FULLNAME": "scp-zh-831",
-        "RATING": 18,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "請問有誰能把地下街的換幣機修一下",
-        "FULLNAME": "artwork-shopping-arcade",
-        "RATING": 18,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "沙皇先知協會擬人-奇術講解篇",
-        "FULLNAME": "tsars-seers-art-thaumatology",
-        "RATING": 18,
-        "COMMENTS": null
     },
     {
         "TITLE": "蒼白的末期患者",
@@ -1104,6 +1074,36 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "18",
+        "FULLNAME": "scp-zh-046",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "18",
+        "FULLNAME": "how-to-survive-in-the-wild",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "18",
+        "FULLNAME": "scp-zh-831",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "18",
+        "FULLNAME": "artwork-shopping-arcade",
+        "RATING": 18,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "18",
+        "FULLNAME": "tsars-seers-art-thaumatology",
+        "RATING": 18,
+        "COMMENTS": "4"
+    },
+    {
         "TITLE": "SCP-ZH-196 - 與ㅤㅤㅤㅤ婆娑起舞",
         "FULLNAME": "scp-zh-196",
         "RATING": 17,
@@ -1112,36 +1112,6 @@
     {
         "TITLE": "Myosotis",
         "FULLNAME": "myosotis",
-        "RATING": 17,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "台灣鐵道飯店的安布羅斯餐廳",
-        "FULLNAME": "ambrose-taiwan-railway-hotel",
-        "RATING": 17,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "無硝的沙場",
-        "FULLNAME": "a-battlefield-without-gunpowder",
-        "RATING": 17,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "SCP-ZH-444",
-        "FULLNAME": "scp-zh-444",
-        "RATING": 17,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "Ctrl Z博士從週刊上剪下的四格漫畫",
-        "FULLNAME": "comic",
-        "RATING": 17,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "蓬萊島新創民主形式：「創制」首長將於今日解凍",
-        "FULLNAME": "r-sinano-chuo-zhtr-2018-11-19-a222a",
         "RATING": 17,
         "COMMENTS": null
     },
@@ -1238,6 +1208,36 @@
     {
         "TITLE": "SCP-ZH-094 - 失敗作",
         "FULLNAME": "scp-zh-094",
+        "RATING": 17,
+        "COMMENTS": null
+    },
+    {
+        "TITLE": "SCP-ZH-072 - 工作間失竊事件",
+        "FULLNAME": "scp-zh-072",
+        "RATING": 17,
+        "COMMENTS": null
+    },
+    {
+        "TITLE": "白雲孤飛",
+        "FULLNAME": "i-ll-come-back-to-the-earth-and-bring-the-piece-of-the-star",
+        "RATING": 17,
+        "COMMENTS": null
+    },
+    {
+        "TITLE": "SCP-ZH-413 - 含碘晴天娃娃",
+        "FULLNAME": "scp-zh-413",
+        "RATING": 17,
+        "COMMENTS": null
+    },
+    {
+        "TITLE": "山本研究員的ZH-922觀察日誌",
+        "FULLNAME": "romiamiad-ni-cidal",
+        "RATING": 17,
+        "COMMENTS": null
+    },
+    {
+        "TITLE": "SCP-ZH-073 - 巡迴演出最終站",
+        "FULLNAME": "scp-zh-073",
         "RATING": 17,
         "COMMENTS": null
     }
