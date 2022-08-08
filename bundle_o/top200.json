@@ -234,12 +234,6 @@
         "COMMENTS": "9"
     },
     {
-        "TITLE": "SCP-ZH-113",
-        "FULLNAME": "scp-zh-113",
-        "RATING": 27,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "SCP-ZH-446 - 化蟲",
         "FULLNAME": "scp-zh-446",
         "RATING": 27,
@@ -250,6 +244,12 @@
         "FULLNAME": "scp-zh-946",
         "RATING": 27,
         "COMMENTS": null
+    },
+    {
+        "TITLE": "27",
+        "FULLNAME": "scp-zh-113",
+        "RATING": 27,
+        "COMMENTS": "2"
     },
     {
         "TITLE": "鎖鏈的音竹",
@@ -286,12 +286,6 @@
         "FULLNAME": "site-zh-02",
         "RATING": 25,
         "COMMENTS": "7"
-    },
-    {
-        "TITLE": "距離世界末日還有五分鐘",
-        "FULLNAME": "five-minutes-to-end",
-        "RATING": 24,
-        "COMMENTS": null
     },
     {
         "TITLE": "神異博覽會一九三五",
@@ -372,14 +366,14 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "沒有基金會的那時",
-        "FULLNAME": "the-time-foundation-disappeared",
-        "RATING": 23,
-        "COMMENTS": null
+        "TITLE": "24",
+        "FULLNAME": "five-minutes-to-end",
+        "RATING": 24,
+        "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-ZH-015",
-        "FULLNAME": "scp-zh-015",
+        "TITLE": "沒有基金會的那時",
+        "FULLNAME": "the-time-foundation-disappeared",
         "RATING": 23,
         "COMMENTS": null
     },
@@ -420,10 +414,10 @@
         "COMMENTS": "3"
     },
     {
-        "TITLE": "拋鈴人中心頁",
-        "FULLNAME": "goi-bt",
-        "RATING": 22,
-        "COMMENTS": null
+        "TITLE": "25",
+        "FULLNAME": "scp-zh-015",
+        "RATING": 23,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-021 - 你有什麼煩惱嗎？",
@@ -555,6 +549,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "25",
+        "FULLNAME": "goi-bt",
+        "RATING": 22,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-ZH-060",
         "FULLNAME": "scp-zh-060",
         "RATING": 21,
@@ -631,30 +631,6 @@
         "FULLNAME": "parawatch-shawarma",
         "RATING": 21,
         "COMMENTS": "2"
-    },
-    {
-        "TITLE": "濃湯約會",
-        "FULLNAME": "chowder-date",
-        "RATING": 20,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "SCP-ZH-014",
-        "FULLNAME": "scp-zh-014",
-        "RATING": 20,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "我們尚未知道的旅程的終點-███/9288&nbsp;km",
-        "FULLNAME": "artwork-of-9288-ex",
-        "RATING": 20,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "中國國安部，不應存在的十九局",
-        "FULLNAME": "19th-bureau-of-mss-of-china",
-        "RATING": 20,
-        "COMMENTS": null
     },
     {
         "TITLE": "航海學中心頁",
@@ -771,10 +747,28 @@
         "COMMENTS": "3"
     },
     {
-        "TITLE": "SCP-ZH-282",
-        "FULLNAME": "scp-zh-282",
-        "RATING": 19,
-        "COMMENTS": null
+        "TITLE": "20",
+        "FULLNAME": "chowder-date",
+        "RATING": 20,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "22",
+        "FULLNAME": "scp-zh-014",
+        "RATING": 20,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "20",
+        "FULLNAME": "artwork-of-9288-ex",
+        "RATING": 20,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "41",
+        "FULLNAME": "19th-bureau-of-mss-of-china",
+        "RATING": 20,
+        "COMMENTS": "16"
     },
     {
         "TITLE": "賦其以形",
@@ -915,10 +909,10 @@
         "COMMENTS": "2"
     },
     {
-        "TITLE": "SCP-ZH-147",
-        "FULLNAME": "scp-zh-147",
-        "RATING": 18,
-        "COMMENTS": null
+        "TITLE": "21",
+        "FULLNAME": "scp-zh-282",
+        "RATING": 19,
+        "COMMENTS": "3"
     },
     {
         "TITLE": "SCP-ZH-046",
@@ -1102,6 +1096,12 @@
         "FULLNAME": "scp-zh-055",
         "RATING": 18,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "18",
+        "FULLNAME": "scp-zh-147",
+        "RATING": 18,
+        "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-ZH-196 - 與ㅤㅤㅤㅤ婆娑起舞",
