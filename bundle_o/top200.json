@@ -210,12 +210,6 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-ZH-496 - 安全極限距離",
-        "FULLNAME": "scp-zh-496",
-        "RATING": 28,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "炙熱的午後時光",
         "FULLNAME": "the-ss-vs-ss",
         "RATING": 28,
@@ -232,6 +226,12 @@
         "FULLNAME": "ambrose-isakov",
         "RATING": 28,
         "COMMENTS": "9"
+    },
+    {
+        "TITLE": "29",
+        "FULLNAME": "scp-zh-496",
+        "RATING": 28,
+        "COMMENTS": "7"
     },
     {
         "TITLE": "SCP-ZH-946",
@@ -286,12 +286,6 @@
         "FULLNAME": "critter-profile-surge",
         "RATING": 25,
         "COMMENTS": "2"
-    },
-    {
-        "TITLE": "Ctrl Z博士的SCP-ZH記錄-1",
-        "FULLNAME": "creepy-tunnel",
-        "RATING": 24,
-        "COMMENTS": null
     },
     {
         "TITLE": "2021愚人節主頁",
@@ -370,6 +364,12 @@
         "FULLNAME": "taiwan-miracle-exposition",
         "RATING": 24,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "24",
+        "FULLNAME": "creepy-tunnel",
+        "RATING": 24,
+        "COMMENTS": "2"
     },
     {
         "TITLE": "沒有基金會的那時",
@@ -555,12 +555,6 @@
         "COMMENTS": "1"
     },
     {
-        "TITLE": "食堂約會",
-        "FULLNAME": "canteen-date",
-        "RATING": 21,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "SCP-ZH-032",
         "FULLNAME": "scp-zh-032",
         "RATING": 21,
@@ -569,12 +563,6 @@
     {
         "TITLE": "SCP-ZH-048",
         "FULLNAME": "scp-zh-048",
-        "RATING": 21,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "SCP-ZH-235",
-        "FULLNAME": "adult:scp-zh-235",
         "RATING": 21,
         "COMMENTS": null
     },
@@ -633,16 +621,16 @@
         "COMMENTS": "2"
     },
     {
-        "TITLE": "SCP-ZH-140",
-        "FULLNAME": "scp-zh-140",
-        "RATING": 20,
-        "COMMENTS": null
+        "TITLE": "23",
+        "FULLNAME": "adult:scp-zh-235",
+        "RATING": 21,
+        "COMMENTS": "10"
     },
     {
-        "TITLE": "SCP-ZH-248 - 尤斯蒂亞症候群",
-        "FULLNAME": "scp-zh-248",
-        "RATING": 20,
-        "COMMENTS": null
+        "TITLE": "21",
+        "FULLNAME": "canteen-date",
+        "RATING": 21,
+        "COMMENTS": "3"
     },
     {
         "TITLE": "SCP-ZH-037",
@@ -771,10 +759,16 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-ZH-091",
-        "FULLNAME": "scp-zh-091",
-        "RATING": 19,
-        "COMMENTS": null
+        "TITLE": "20",
+        "FULLNAME": "scp-zh-140",
+        "RATING": 20,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "20",
+        "FULLNAME": "scp-zh-248",
+        "RATING": 20,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-185",
@@ -915,16 +909,10 @@
         "COMMENTS": "1"
     },
     {
-        "TITLE": "辦公室裡的致命模因",
-        "FULLNAME": "the-bottle-in-office",
-        "RATING": 18,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "牛奶拼圖",
-        "FULLNAME": "milk-puzzle",
-        "RATING": 18,
-        "COMMENTS": null
+        "TITLE": "19",
+        "FULLNAME": "scp-zh-091",
+        "RATING": 19,
+        "COMMENTS": "3"
     },
     {
         "TITLE": "花語：蒲公英",
@@ -1104,6 +1092,18 @@
         "COMMENTS": "4"
     },
     {
+        "TITLE": "18",
+        "FULLNAME": "the-bottle-in-office",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "18",
+        "FULLNAME": "milk-puzzle",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-196 - 與ㅤㅤㅤㅤ婆娑起舞",
         "FULLNAME": "scp-zh-196",
         "RATING": 17,
@@ -1112,24 +1112,6 @@
     {
         "TITLE": "Myosotis",
         "FULLNAME": "myosotis",
-        "RATING": 17,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "SCP-ZH-526",
-        "FULLNAME": "scp-zh-526",
-        "RATING": 17,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "洗標：紅1354-深入傳統納餓卡部落",
-        "FULLNAME": "red-1354",
-        "RATING": 17,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "SCP-ZH-950 - 綠神經",
-        "FULLNAME": "scp-zh-950",
         "RATING": 17,
         "COMMENTS": null
     },
@@ -1238,6 +1220,24 @@
     {
         "TITLE": "18",
         "FULLNAME": "cats-in-kaleidoscopes",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "18",
+        "FULLNAME": "scp-zh-913",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "18",
+        "FULLNAME": "scp-zh-070",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "18",
+        "FULLNAME": "scp-zh-301",
         "RATING": 17,
         "COMMENTS": "0"
     }
