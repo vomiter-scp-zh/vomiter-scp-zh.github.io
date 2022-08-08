@@ -372,12 +372,6 @@
         "COMMENTS": "1"
     },
     {
-        "TITLE": "沒有基金會的那時",
-        "FULLNAME": "the-time-foundation-disappeared",
-        "RATING": 23,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "23",
         "FULLNAME": "scp-zh-0100",
         "RATING": 23,
@@ -420,31 +414,10 @@
         "COMMENTS": "3"
     },
     {
-        "TITLE": "24",
-        "FULLNAME": "scp-zh-255",
-        "RATING": 22,
-        "COMMENTS": [
-            "0",
-            "3",
-            "5",
-            "20",
-            "1",
-            "4",
-            "0",
-            "0",
-            "0",
-            "0",
-            "1",
-            "3",
-            "6",
-            "3",
-            "1",
-            "1",
-            "3",
-            "1",
-            "2",
-            "0"
-        ]
+        "TITLE": "23",
+        "FULLNAME": "the-time-foundation-disappeared",
+        "RATING": 23,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "23",
@@ -553,6 +526,12 @@
         "FULLNAME": "scp-zh-106",
         "RATING": 22,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "24",
+        "FULLNAME": "scp-zh-255",
+        "RATING": 22,
+        "COMMENTS": "5"
     },
     {
         "TITLE": "NX-ZH-02：西加走灣群島",
@@ -915,39 +894,6 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "歡迎，敬啟者",
-        "FULLNAME": "multiversal-valentine",
-        "RATING": 18,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "19",
-        "FULLNAME": "scp-zh-017",
-        "RATING": 18,
-        "COMMENTS": [
-            "1",
-            "3",
-            "6",
-            "3",
-            "1",
-            "1",
-            "3",
-            "1",
-            "2",
-            "0",
-            "2",
-            "1",
-            "2",
-            "5",
-            "1",
-            "2",
-            "1",
-            "1",
-            "1",
-            "2"
-        ]
-    },
-    {
         "TITLE": "19",
         "FULLNAME": "scp-zh-045",
         "RATING": 18,
@@ -1104,16 +1050,16 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-ZH-196 - 與ㅤㅤㅤㅤ婆娑起舞",
-        "FULLNAME": "scp-zh-196",
-        "RATING": 17,
-        "COMMENTS": null
+        "TITLE": "18",
+        "FULLNAME": "multiversal-valentine",
+        "RATING": 18,
+        "COMMENTS": "0"
     },
     {
-        "TITLE": "Myosotis",
-        "FULLNAME": "myosotis",
-        "RATING": 17,
-        "COMMENTS": null
+        "TITLE": "19",
+        "FULLNAME": "scp-zh-017",
+        "RATING": 18,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-279 - 愛的形狀",
@@ -1240,5 +1186,17 @@
         "FULLNAME": "r-sinano-chuo-zhtr-2018-11-19-a222a",
         "RATING": 17,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "17",
+        "FULLNAME": "ranunculus",
+        "RATING": 17,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "26",
+        "FULLNAME": "raisa-lee-teng-hui",
+        "RATING": 17,
+        "COMMENTS": "1"
     }
 ]
