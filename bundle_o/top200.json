@@ -174,12 +174,6 @@
         "COMMENTS": null
     },
     {
-        "TITLE": "假如你來到這個宇宙請保持冷靜",
-        "FULLNAME": "you-need-icecream-in-summer",
-        "RATING": 30,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "SCP-ZH-087 - 棄稿",
         "FULLNAME": "scp-zh-087",
         "RATING": 30,
@@ -190,6 +184,12 @@
         "FULLNAME": "scp-zh-603",
         "RATING": 30,
         "COMMENTS": null
+    },
+    {
+        "TITLE": "31",
+        "FULLNAME": "you-need-icecream-in-summer",
+        "RATING": 30,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-053",
@@ -252,12 +252,6 @@
         "COMMENTS": null
     },
     {
-        "TITLE": "SCP-ZH-310 - 異常蛋白質結構域",
-        "FULLNAME": "scp-zh-310",
-        "RATING": 26,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "鎖鏈的音竹",
         "FULLNAME": "k1s10r0d-chain-sugoi",
         "RATING": 26,
@@ -268,6 +262,12 @@
         "FULLNAME": "snowcatflyhighhigh",
         "RATING": 26,
         "COMMENTS": null
+    },
+    {
+        "TITLE": "26",
+        "FULLNAME": "scp-zh-310",
+        "RATING": 26,
+        "COMMENTS": "2"
     },
     {
         "TITLE": "小動物簡介：Surge！",
@@ -420,18 +420,6 @@
         "COMMENTS": null
     },
     {
-        "TITLE": "SCP-ZH-199",
-        "FULLNAME": "scp-zh-199",
-        "RATING": 22,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "SCP-ZH-125",
-        "FULLNAME": "scp-zh-125",
-        "RATING": 22,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "SCP-ZH-174",
         "FULLNAME": "scp-zh-174",
         "RATING": 22,
@@ -555,10 +543,16 @@
         "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-ZH-610 - 猛爆性繁衍組織瘤",
-        "FULLNAME": "scp-zh-610",
-        "RATING": 21,
-        "COMMENTS": null
+        "TITLE": "23",
+        "FULLNAME": "scp-zh-199",
+        "RATING": 22,
+        "COMMENTS": "8"
+    },
+    {
+        "TITLE": "25",
+        "FULLNAME": "scp-zh-125",
+        "RATING": 22,
+        "COMMENTS": "2"
     },
     {
         "TITLE": "Valentine的Logo頁",
@@ -633,10 +627,10 @@
         "COMMENTS": null
     },
     {
-        "TITLE": "SCP-ZH-035",
-        "FULLNAME": "scp-zh-035",
-        "RATING": 20,
-        "COMMENTS": null
+        "TITLE": "22",
+        "FULLNAME": "scp-zh-610",
+        "RATING": 21,
+        "COMMENTS": "7"
     },
     {
         "TITLE": "處銀白之中，於虹光之間",
@@ -771,10 +765,10 @@
         "COMMENTS": "3"
     },
     {
-        "TITLE": "花語：仙丹花",
-        "FULLNAME": "chinese-ixora",
-        "RATING": 19,
-        "COMMENTS": null
+        "TITLE": "21",
+        "FULLNAME": "scp-zh-035",
+        "RATING": 20,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "對欲肉教的人類學進路03-案例研究03：香港新茶嶺的盧亭人",
@@ -913,6 +907,12 @@
         "FULLNAME": "scp-zh-888",
         "RATING": 19,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "20",
+        "FULLNAME": "chinese-ixora",
+        "RATING": 19,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-045",
@@ -1116,18 +1116,6 @@
         "COMMENTS": null
     },
     {
-        "TITLE": "SCP-ZH-077",
-        "FULLNAME": "scp-zh-077",
-        "RATING": 17,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "到職",
-        "FULLNAME": "arrival",
-        "RATING": 17,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "SCP-ZH-913 - 回家月餅",
         "FULLNAME": "scp-zh-913",
         "RATING": 17,
@@ -1238,6 +1226,18 @@
     {
         "TITLE": "聖夜相守時",
         "FULLNAME": "formytreasure",
+        "RATING": 17,
+        "COMMENTS": null
+    },
+    {
+        "TITLE": "台灣異新報、昭和十年十一月一日",
+        "FULLNAME": "taiwan-newspaper",
+        "RATING": 17,
+        "COMMENTS": null
+    },
+    {
+        "TITLE": "雷射雕刻──Site-ZH-12",
+        "FULLNAME": "site-zh-12-made-with-wood",
         "RATING": 17,
         "COMMENTS": null
     }
