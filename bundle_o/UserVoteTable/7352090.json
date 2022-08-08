@@ -2,26 +2,31 @@
     {
         "TITLE": "SCP-ZH-291 - 謎之外星血晶螳螂蔓",
         "FULLNAME": "scp-zh-291",
-        "RATING": 2
+        "RATING": 2,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-862",
         "FULLNAME": "scp-zh-862",
-        "RATING": 5
+        "RATING": 5,
+        "COMMENTS": null
     },
     {
         "TITLE": "中華民國國家安全局第八處 中心頁",
         "FULLNAME": "nsb8-hub",
-        "RATING": 13
+        "RATING": 13,
+        "COMMENTS": null
     },
     {
         "TITLE": "2021 夏季競賽 主題《異聞錄》",
         "FULLNAME": "summer-contest-2021",
-        "RATING": 13
+        "RATING": 13,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-032",
         "FULLNAME": "scp-zh-032",
-        "RATING": 21
+        "RATING": 21,
+        "COMMENTS": null
     }
 ]

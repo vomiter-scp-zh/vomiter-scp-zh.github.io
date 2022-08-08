@@ -2,11 +2,13 @@
     {
         "TITLE": "伊伽姊姊去哪了?",
         "FULLNAME": "zh-248-f004",
-        "RATING": 15
+        "RATING": 15,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-903",
         "FULLNAME": "scp-zh-903",
-        "RATING": 19
+        "RATING": 19,
+        "COMMENTS": null
     }
 ]

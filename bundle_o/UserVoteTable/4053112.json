@@ -2,16 +2,19 @@
     {
         "TITLE": "沒有基金會的那時",
         "FULLNAME": "the-time-foundation-disappeared",
-        "RATING": 23
+        "RATING": 23,
+        "COMMENTS": null
     },
     {
         "TITLE": "2021愚人節主頁",
         "FULLNAME": "super-cooking-pot",
-        "RATING": 24
+        "RATING": 24,
+        "COMMENTS": null
     },
     {
         "TITLE": "繁廣化工的標誌",
         "FULLNAME": "fan-guang-chemical-logo",
-        "RATING": 8
+        "RATING": 8,
+        "COMMENTS": null
     }
 ]

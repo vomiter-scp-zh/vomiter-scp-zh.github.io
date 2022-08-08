@@ -2,11 +2,13 @@
     {
         "TITLE": "SCP-ZH-603 - 腳踏車上的人",
         "FULLNAME": "scp-zh-603",
-        "RATING": 30
+        "RATING": 30,
+        "COMMENTS": null
     },
     {
         "TITLE": "記憶的洪流",
         "FULLNAME": "stream-of-memory",
-        "RATING": 11
+        "RATING": 11,
+        "COMMENTS": null
     }
 ]

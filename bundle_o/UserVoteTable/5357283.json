@@ -2,16 +2,19 @@
     {
         "TITLE": "SCP-ZH-117",
         "FULLNAME": "scp-zh-117",
-        "RATING": 33
+        "RATING": 33,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-089",
         "FULLNAME": "scp-zh-089",
-        "RATING": 14
+        "RATING": 14,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-285 - 致命誘惑",
         "FULLNAME": "scp-zh-285",
-        "RATING": 16
+        "RATING": 16,
+        "COMMENTS": null
     }
 ]

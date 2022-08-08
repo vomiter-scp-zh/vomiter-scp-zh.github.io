@@ -2,11 +2,13 @@
     {
         "TITLE": "SCP-ZH-174",
         "FULLNAME": "scp-zh-174",
-        "RATING": 22
+        "RATING": 22,
+        "COMMENTS": null
     },
     {
         "TITLE": "Alicia女士",
         "FULLNAME": "scp-zh-774",
-        "RATING": 31
+        "RATING": 31,
+        "COMMENTS": null
     }
 ]

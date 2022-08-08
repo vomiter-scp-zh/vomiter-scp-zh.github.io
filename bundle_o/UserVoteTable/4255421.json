@@ -2,16 +2,19 @@
     {
         "TITLE": "皇家香港警察隊零號專隊 中心頁",
         "FULLNAME": "zero-team-hub",
-        "RATING": 10
+        "RATING": 10,
+        "COMMENTS": null
     },
     {
         "TITLE": "聖誕帽，這是Dr. Xmas的日子",
         "FULLNAME": "xina-mas-2019",
-        "RATING": 19
+        "RATING": 19,
+        "COMMENTS": null
     },
     {
         "TITLE": "鴨鴨的聖誕賀圖",
         "FULLNAME": "duck-s-xmas",
-        "RATING": 17
+        "RATING": 17,
+        "COMMENTS": null
     }
 ]

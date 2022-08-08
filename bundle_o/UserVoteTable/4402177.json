@@ -2,21 +2,25 @@
     {
         "TITLE": "SCP-ZH-130",
         "FULLNAME": "scp-zh-130",
-        "RATING": 7
+        "RATING": 7,
+        "COMMENTS": null
     },
     {
         "TITLE": "長廊",
         "FULLNAME": "cdbeta05",
-        "RATING": 6
+        "RATING": 6,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-029",
         "FULLNAME": "scp-zh-029",
-        "RATING": -1
+        "RATING": -1,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-291 - 謎之外星血晶螳螂蔓",
         "FULLNAME": "scp-zh-291",
-        "RATING": 2
+        "RATING": 2,
+        "COMMENTS": null
     }
 ]

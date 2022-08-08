@@ -2,16 +2,19 @@
     {
         "TITLE": "航海學中心頁",
         "FULLNAME": "navigation",
-        "RATING": 20
+        "RATING": 20,
+        "COMMENTS": null
     },
     {
         "TITLE": "2021愚人節主頁",
         "FULLNAME": "super-cooking-pot",
-        "RATING": 24
+        "RATING": 24,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-1000-EX",
         "FULLNAME": "scp-zh-1000-ex",
-        "RATING": 18
+        "RATING": 18,
+        "COMMENTS": null
     }
 ]

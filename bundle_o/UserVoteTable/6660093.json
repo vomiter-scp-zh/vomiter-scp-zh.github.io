@@ -2,76 +2,91 @@
     {
         "TITLE": "挑戰傳統評分方式：關於自訂評分模版",
         "FULLNAME": "rating-against-traditions",
-        "RATING": 24
+        "RATING": 24,
+        "COMMENTS": null
     },
     {
         "TITLE": "研究員LostWhat角色歌：在碎片裡面",
         "FULLNAME": "in-the-shard",
-        "RATING": 14
+        "RATING": 14,
+        "COMMENTS": null
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-12",
         "FULLNAME": "site-zh-12",
-        "RATING": 23
+        "RATING": 23,
+        "COMMENTS": null
     },
     {
         "TITLE": "為何我們不能濫用現實穩定錨？",
         "FULLNAME": "about-scranton-reality-anchors",
-        "RATING": 15
+        "RATING": 15,
+        "COMMENTS": null
     },
     {
         "TITLE": "距離世界末日還有五分鐘",
         "FULLNAME": "five-minutes-to-end",
-        "RATING": 24
+        "RATING": 24,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-015",
         "FULLNAME": "scp-zh-015",
-        "RATING": 23
+        "RATING": 23,
+        "COMMENTS": null
     },
     {
         "TITLE": "廁所裡的致命模因",
         "FULLNAME": "the-bottle-in-restroom",
-        "RATING": 31
+        "RATING": 31,
+        "COMMENTS": null
     },
     {
         "TITLE": "假面騎士AD片頭主題曲：夢想與罪惡之間",
         "FULLNAME": "between-dream-and-sin",
-        "RATING": 13
+        "RATING": 13,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
         "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 55
+        "RATING": 55,
+        "COMMENTS": null
     },
     {
         "TITLE": "辦公室裡的致命模因",
         "FULLNAME": "the-bottle-in-office",
-        "RATING": 18
+        "RATING": 18,
+        "COMMENTS": null
     },
     {
         "TITLE": "牛奶拼圖",
         "FULLNAME": "milk-puzzle",
-        "RATING": 18
+        "RATING": 18,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-207",
         "FULLNAME": "scp-zh-207",
-        "RATING": 11
+        "RATING": 11,
+        "COMMENTS": null
     },
     {
         "TITLE": "炙熱的午後時光",
         "FULLNAME": "the-ss-vs-ss",
-        "RATING": 28
+        "RATING": 28,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-416",
         "FULLNAME": "scp-zh-416",
-        "RATING": 8
+        "RATING": 8,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-800",
         "FULLNAME": "scp-zh-800",
-        "RATING": 8
+        "RATING": 8,
+        "COMMENTS": null
     }
 ]

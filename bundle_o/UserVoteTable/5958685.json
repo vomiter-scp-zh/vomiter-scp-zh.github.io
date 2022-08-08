@@ -2,76 +2,91 @@
     {
         "TITLE": "SCP-ZH-122",
         "FULLNAME": "scp-zh-122",
-        "RATING": 5
+        "RATING": 5,
+        "COMMENTS": null
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-25",
         "FULLNAME": "site-zh-25",
-        "RATING": 16
+        "RATING": 16,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-041",
         "FULLNAME": "scp-zh-041",
-        "RATING": 18
+        "RATING": 18,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-564",
         "FULLNAME": "scp-zh-564",
-        "RATING": 5
+        "RATING": 5,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-973",
         "FULLNAME": "scp-zh-973",
-        "RATING": 8
+        "RATING": 8,
+        "COMMENTS": null
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-12",
         "FULLNAME": "site-zh-12",
-        "RATING": 23
+        "RATING": 23,
+        "COMMENTS": null
     },
     {
         "TITLE": "物理少年",
         "FULLNAME": "science-confusion-puberty",
-        "RATING": 16
+        "RATING": 16,
+        "COMMENTS": null
     },
     {
         "TITLE": "SC-19/465/SC-19/486",
         "FULLNAME": "sc-19",
-        "RATING": 9
+        "RATING": 9,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-860 - dado的「发」財藥",
         "FULLNAME": "scp-zh-860",
-        "RATING": 33
+        "RATING": 33,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-012",
         "FULLNAME": "scp-zh-012",
-        "RATING": 19
+        "RATING": 19,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-200",
         "FULLNAME": "scp-zh-200",
-        "RATING": 33
+        "RATING": 33,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-2588-J",
         "FULLNAME": "scp-zh-2588-j",
-        "RATING": 5
+        "RATING": 5,
+        "COMMENTS": null
     },
     {
         "TITLE": "微雨",
         "FULLNAME": "drizzle",
-        "RATING": 10
+        "RATING": 10,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-265",
         "FULLNAME": "scp-zh-265",
-        "RATING": 6
+        "RATING": 6,
+        "COMMENTS": null
     },
     {
         "TITLE": "反異常有組織罪案特殊行動報告：代號「反黑」",
         "FULLNAME": "anti-dark",
-        "RATING": 7
+        "RATING": 7,
+        "COMMENTS": null
     }
 ]

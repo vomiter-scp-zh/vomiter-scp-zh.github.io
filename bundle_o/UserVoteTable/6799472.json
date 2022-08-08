@@ -2,16 +2,19 @@
     {
         "TITLE": "文章使用零件中心頁",
         "FULLNAME": "cardinal-hub",
-        "RATING": 6
+        "RATING": 6,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-021 - 你有什麼煩惱嗎？",
         "FULLNAME": "scp-zh-021",
-        "RATING": 22
+        "RATING": 22,
+        "COMMENTS": null
     },
     {
         "TITLE": "布丁的關注組織LOGO頁",
         "FULLNAME": "pudding-logo",
-        "RATING": 9
+        "RATING": 9,
+        "COMMENTS": null
     }
 ]

@@ -2,11 +2,13 @@
     {
         "TITLE": "逍遙前",
         "FULLNAME": "after-the-boom",
-        "RATING": 10
+        "RATING": 10,
+        "COMMENTS": null
     },
     {
         "TITLE": "布丁的關注組織LOGO頁",
         "FULLNAME": "pudding-logo",
-        "RATING": 9
+        "RATING": 9,
+        "COMMENTS": null
     }
 ]

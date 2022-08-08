@@ -2,16 +2,19 @@
     {
         "TITLE": "SCP-ZH-291 - 謎之外星血晶螳螂蔓",
         "FULLNAME": "scp-zh-291",
-        "RATING": 2
+        "RATING": 2,
+        "COMMENTS": null
     },
     {
         "TITLE": "項目擬人化假想",
         "FULLNAME": "the-meriewanderer-artwork-1",
-        "RATING": 2
+        "RATING": 2,
+        "COMMENTS": null
     },
     {
         "TITLE": "小動物簡介：Surge！",
         "FULLNAME": "critter-profile-surge",
-        "RATING": 25
+        "RATING": 25,
+        "COMMENTS": null
     }
 ]

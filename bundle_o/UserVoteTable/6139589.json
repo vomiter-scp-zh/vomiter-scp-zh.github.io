@@ -1,12 +1,35 @@
 [
     {
-        "TITLE": "SCP-ZH-017",
+        "TITLE": "19",
         "FULLNAME": "scp-zh-017",
-        "RATING": 18
+        "RATING": 18,
+        "COMMENTS": [
+            "0",
+            "3",
+            "5",
+            "20",
+            "1",
+            "4",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "3",
+            "6",
+            "3",
+            "1",
+            "1",
+            "3",
+            "1",
+            "2",
+            "0"
+        ]
     },
     {
         "TITLE": "SCP-ZH-105 - 不孝子",
         "FULLNAME": "scp-zh-105",
-        "RATING": 65
+        "RATING": 65,
+        "COMMENTS": null
     }
 ]

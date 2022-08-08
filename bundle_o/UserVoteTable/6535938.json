@@ -2,11 +2,13 @@
     {
         "TITLE": "巧達Clef!",
         "FULLNAME": "arkwork-chowderclef",
-        "RATING": 24
+        "RATING": 24,
+        "COMMENTS": null
     },
     {
         "TITLE": "天亮前的戀愛故事",
         "FULLNAME": "taisho150-lovestorybeforedawn",
-        "RATING": 20
+        "RATING": 20,
+        "COMMENTS": null
     }
 ]

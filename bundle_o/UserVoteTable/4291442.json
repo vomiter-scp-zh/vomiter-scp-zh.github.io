@@ -2,26 +2,31 @@
     {
         "TITLE": "SCP-ZH-105 - 不孝子",
         "FULLNAME": "scp-zh-105",
-        "RATING": 65
+        "RATING": 65,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-125",
         "FULLNAME": "scp-zh-125",
-        "RATING": 22
+        "RATING": 22,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-025",
         "FULLNAME": "scp-zh-025",
-        "RATING": 15
+        "RATING": 15,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-002 - 台灣獨角獸",
         "FULLNAME": "scp-zh-002",
-        "RATING": 36
+        "RATING": 36,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-200",
         "FULLNAME": "scp-zh-200",
-        "RATING": 33
+        "RATING": 33,
+        "COMMENTS": null
     }
 ]

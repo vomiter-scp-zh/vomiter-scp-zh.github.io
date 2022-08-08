@@ -2,11 +2,13 @@
     {
         "TITLE": "SCP-ZH-998 - 現象學",
         "FULLNAME": "scp-zh-998",
-        "RATING": 36
+        "RATING": 36,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-027 - 玉籠包",
         "FULLNAME": "scp-zh-027",
-        "RATING": 15
+        "RATING": 15,
+        "COMMENTS": null
     }
 ]

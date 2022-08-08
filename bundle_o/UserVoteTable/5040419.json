@@ -1,42 +1,71 @@
 [
     {
-        "TITLE": "SCP-ZH-017",
+        "TITLE": "19",
         "FULLNAME": "scp-zh-017",
-        "RATING": 18
+        "RATING": 18,
+        "COMMENTS": [
+            "0",
+            "3",
+            "5",
+            "20",
+            "1",
+            "4",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "3",
+            "6",
+            "3",
+            "1",
+            "1",
+            "3",
+            "1",
+            "2",
+            "0"
+        ]
     },
     {
         "TITLE": "SCP-ZH-117",
         "FULLNAME": "scp-zh-117",
-        "RATING": 33
+        "RATING": 33,
+        "COMMENTS": null
     },
     {
         "TITLE": "UIU檔案：1970-005",
         "FULLNAME": "uiu-1970-005",
-        "RATING": 7
+        "RATING": 7,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-618",
         "FULLNAME": "scp-zh-618",
-        "RATING": 41
+        "RATING": 41,
+        "COMMENTS": null
     },
     {
         "TITLE": "花語：仙丹花",
         "FULLNAME": "chinese-ixora",
-        "RATING": 19
+        "RATING": 19,
+        "COMMENTS": null
     },
     {
         "TITLE": "日本分站的貓咪？",
         "FULLNAME": "scp-zh-art",
-        "RATING": 9
+        "RATING": 9,
+        "COMMENTS": null
     },
     {
         "TITLE": "麻糬的scp畫作選集",
         "FULLNAME": "the-art-work-collection-of-wright-wilson",
-        "RATING": 14
+        "RATING": 14,
+        "COMMENTS": null
     },
     {
         "TITLE": "你不應在溫室裏說冷笑話",
         "FULLNAME": "nopunsinthegreenhouse",
-        "RATING": 11
+        "RATING": 11,
+        "COMMENTS": null
     }
 ]

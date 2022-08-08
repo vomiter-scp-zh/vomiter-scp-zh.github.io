@@ -2,11 +2,13 @@
     {
         "TITLE": "SCP-ZH-555",
         "FULLNAME": "scp-zh-555",
-        "RATING": 1
+        "RATING": 1,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-618",
         "FULLNAME": "scp-zh-618",
-        "RATING": 41
+        "RATING": 41,
+        "COMMENTS": null
     }
 ]

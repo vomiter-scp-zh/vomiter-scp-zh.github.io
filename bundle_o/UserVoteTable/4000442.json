@@ -2,66 +2,79 @@
     {
         "TITLE": "SCP-ZH-080",
         "FULLNAME": "scp-zh-080",
-        "RATING": 10
+        "RATING": 10,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-603 - 腳踏車上的人",
         "FULLNAME": "scp-zh-603",
-        "RATING": 30
+        "RATING": 30,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-451",
         "FULLNAME": "scp-zh-451",
-        "RATING": 11
+        "RATING": 11,
+        "COMMENTS": null
     },
     {
         "TITLE": "中國國安部，不應存在的十九局",
         "FULLNAME": "19th-bureau-of-mss-of-china",
-        "RATING": 20
+        "RATING": 20,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-444",
         "FULLNAME": "scp-zh-444",
-        "RATING": 17
+        "RATING": 17,
+        "COMMENTS": null
     },
     {
         "TITLE": "賦其以形",
         "FULLNAME": "give-it-shape",
-        "RATING": 19
+        "RATING": 19,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-034",
         "FULLNAME": "scp-zh-034",
-        "RATING": 23
+        "RATING": 23,
+        "COMMENTS": null
     },
     {
         "TITLE": "異常項目紀錄：「防暴警察頭盔」",
         "FULLNAME": "anomalous-item-hk-police-helmet",
-        "RATING": 35
+        "RATING": 35,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-144 - 十二進位法",
         "FULLNAME": "scp-zh-144",
-        "RATING": 22
+        "RATING": 22,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-228 - 翠埔，1947。",
         "FULLNAME": "scp-zh-228",
-        "RATING": 25
+        "RATING": 25,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-226 - 冬日女孩",
         "FULLNAME": "scp-zh-226",
-        "RATING": 14
+        "RATING": 14,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-499 - 康乃馨盔甲工藝",
         "FULLNAME": "scp-zh-499",
-        "RATING": 37
+        "RATING": 37,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
         "FULLNAME": "scp-zh-999",
-        "RATING": 54
+        "RATING": 54,
+        "COMMENTS": null
     }
 ]

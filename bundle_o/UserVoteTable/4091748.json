@@ -2,26 +2,31 @@
     {
         "TITLE": "SCP-ZH-582",
         "FULLNAME": "scp-zh-582",
-        "RATING": 15
+        "RATING": 15,
+        "COMMENTS": null
     },
     {
         "TITLE": "潛在危險無法被文字記錄",
         "FULLNAME": "disremember",
-        "RATING": 13
+        "RATING": 13,
+        "COMMENTS": null
     },
     {
         "TITLE": "到職",
         "FULLNAME": "arrival",
-        "RATING": 17
+        "RATING": 17,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-515 - 平安符",
         "FULLNAME": "scp-zh-515",
-        "RATING": 43
+        "RATING": 43,
+        "COMMENTS": null
     },
     {
         "TITLE": "Ctrl Z博士的SCP記錄：SCP-939 引渡他聲",
         "FULLNAME": "bangyen939",
-        "RATING": 6
+        "RATING": 6,
+        "COMMENTS": null
     }
 ]

@@ -2,31 +2,37 @@
     {
         "TITLE": "SCP-ZH-035",
         "FULLNAME": "scp-zh-035",
-        "RATING": 20
+        "RATING": 20,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-045",
         "FULLNAME": "scp-zh-045",
-        "RATING": 18
+        "RATING": 18,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-041",
         "FULLNAME": "scp-zh-041",
-        "RATING": 18
+        "RATING": 18,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-042",
         "FULLNAME": "scp-zh-042",
-        "RATING": 16
+        "RATING": 16,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-228 - 翠埔，1947。",
         "FULLNAME": "scp-zh-228",
-        "RATING": 25
+        "RATING": 25,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-352 - 絕命六龜葡萄",
         "FULLNAME": "scp-zh-352",
-        "RATING": 18
+        "RATING": 18,
+        "COMMENTS": null
     }
 ]

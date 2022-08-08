@@ -1,72 +1,107 @@
 [
     {
-        "TITLE": "SCP-ZH-255",
+        "TITLE": "24",
         "FULLNAME": "scp-zh-255",
-        "RATING": 22
+        "RATING": 22,
+        "COMMENTS": [
+            "0",
+            "3",
+            "5",
+            "20",
+            "1",
+            "4",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "3",
+            "6",
+            "3",
+            "1",
+            "1",
+            "3",
+            "1",
+            "2",
+            "0"
+        ]
     },
     {
         "TITLE": "SCP-ZH-117",
         "FULLNAME": "scp-zh-117",
-        "RATING": 33
+        "RATING": 33,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-089",
         "FULLNAME": "scp-zh-089",
-        "RATING": 14
+        "RATING": 14,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-618",
         "FULLNAME": "scp-zh-618",
-        "RATING": 41
+        "RATING": 41,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-972",
         "FULLNAME": "scp-zh-972",
-        "RATING": 8
+        "RATING": 8,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-006",
         "FULLNAME": "scp-zh-006",
-        "RATING": 10
+        "RATING": 10,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-105 - 不孝子",
         "FULLNAME": "scp-zh-105",
-        "RATING": 65
+        "RATING": 65,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-515 - 平安符",
         "FULLNAME": "scp-zh-515",
-        "RATING": 43
+        "RATING": 43,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-087 - 棄稿",
         "FULLNAME": "scp-zh-087",
-        "RATING": 30
+        "RATING": 30,
+        "COMMENTS": null
     },
     {
         "TITLE": "驚蟄",
         "FULLNAME": "snake-s-wake",
-        "RATING": 11
+        "RATING": 11,
+        "COMMENTS": null
     },
     {
         "TITLE": "無病餘生",
         "FULLNAME": "orangetea-and-plum",
-        "RATING": 12
+        "RATING": 12,
+        "COMMENTS": null
     },
     {
         "TITLE": "Alicia女士",
         "FULLNAME": "scp-zh-774",
-        "RATING": 31
+        "RATING": 31,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-736 - 你不能再往前了",
         "FULLNAME": "scp-zh-736",
-        "RATING": 31
+        "RATING": 31,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-499 - 康乃馨盔甲工藝",
         "FULLNAME": "scp-zh-499",
-        "RATING": 37
+        "RATING": 37,
+        "COMMENTS": null
     }
 ]

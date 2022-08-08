@@ -2,11 +2,13 @@
     {
         "TITLE": "SCP-ZH-977",
         "FULLNAME": "scp-zh-977",
-        "RATING": 5
+        "RATING": 5,
+        "COMMENTS": null
     },
     {
         "TITLE": "沒有人會負責善後",
         "FULLNAME": "nobodyneedshelp",
-        "RATING": 13
+        "RATING": 13,
+        "COMMENTS": null
     }
 ]

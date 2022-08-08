@@ -2,66 +2,79 @@
     {
         "TITLE": "SCP-ZH-222-J",
         "FULLNAME": "scp-zh-222-j",
-        "RATING": 24
+        "RATING": 24,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-222",
         "FULLNAME": "scp-zh-222",
-        "RATING": 13
+        "RATING": 13,
+        "COMMENTS": null
     },
     {
         "TITLE": "你是啥物人？",
         "FULLNAME": "to-the-doctor",
-        "RATING": 12
+        "RATING": 12,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-613",
         "FULLNAME": "scp-zh-613",
-        "RATING": 17
+        "RATING": 17,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-280 - 欸不是我的東西呢",
         "FULLNAME": "scp-zh-280",
-        "RATING": 10
+        "RATING": 10,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-226 - 冬日女孩",
         "FULLNAME": "scp-zh-226",
-        "RATING": 14
+        "RATING": 14,
+        "COMMENTS": null
     },
     {
         "TITLE": "繁中管理員筆記：2021年回顧",
         "FULLNAME": "note-for-u-guys-2021",
-        "RATING": 34
+        "RATING": 34,
+        "COMMENTS": null
     },
     {
         "TITLE": "Meow!!Gwan",
         "FULLNAME": "tonal-felidae",
-        "RATING": 11
+        "RATING": 11,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
         "FULLNAME": "scp-zh-999",
-        "RATING": 54
+        "RATING": 54,
+        "COMMENTS": null
     },
     {
         "TITLE": "退休生活",
         "FULLNAME": "retire-from-bistro",
-        "RATING": 17
+        "RATING": 17,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-106-「逆模因」",
         "FULLNAME": "scp-zh-106",
-        "RATING": 22
+        "RATING": 22,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-186 - 這些車從哪來?",
         "FULLNAME": "scp-zh-186",
-        "RATING": 10
+        "RATING": 10,
+        "COMMENTS": null
     },
     {
         "TITLE": "歡迎，敬啟者",
         "FULLNAME": "multiversal-valentine",
-        "RATING": 18
+        "RATING": 18,
+        "COMMENTS": null
     }
 ]

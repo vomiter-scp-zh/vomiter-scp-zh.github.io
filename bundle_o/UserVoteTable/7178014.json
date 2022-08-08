@@ -2,11 +2,13 @@
     {
         "TITLE": "NX-ZH-02：西加走灣群島",
         "FULLNAME": "nx-zh-02",
-        "RATING": 21
+        "RATING": 21,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-340 - 生命之沙，繁星之盒",
         "FULLNAME": "scp-zh-340",
-        "RATING": 19
+        "RATING": 19,
+        "COMMENTS": null
     }
 ]

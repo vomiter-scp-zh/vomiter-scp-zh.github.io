@@ -2,56 +2,67 @@
     {
         "TITLE": "SCP-ZH-998 - 現象學",
         "FULLNAME": "scp-zh-998",
-        "RATING": 36
+        "RATING": 36,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-60053-J - HONK",
         "FULLNAME": "scp-zh-60053-j",
-        "RATING": 42
+        "RATING": 42,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-222",
         "FULLNAME": "scp-zh-222",
-        "RATING": 13
+        "RATING": 13,
+        "COMMENTS": null
     },
     {
         "TITLE": "海神悲鳴時",
         "FULLNAME": "wadatsumi-no-naku-koroni",
-        "RATING": 16
+        "RATING": 16,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-769",
         "FULLNAME": "scp-zh-769",
-        "RATING": 10
+        "RATING": 10,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-499 - 康乃馨盔甲工藝",
         "FULLNAME": "scp-zh-499",
-        "RATING": 37
+        "RATING": 37,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
         "FULLNAME": "scp-zh-999",
-        "RATING": 54
+        "RATING": 54,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-337 - 夢工廠",
         "FULLNAME": "scp-zh-337",
-        "RATING": 28
+        "RATING": 28,
+        "COMMENTS": null
     },
     {
         "TITLE": "又是個該死的工作天",
         "FULLNAME": "another-damn-workday",
-        "RATING": 10
+        "RATING": 10,
+        "COMMENTS": null
     },
     {
         "TITLE": "山本研究員的ZH-922觀察日誌",
         "FULLNAME": "romiamiad-ni-cidal",
-        "RATING": 17
+        "RATING": 17,
+        "COMMENTS": null
     },
     {
         "TITLE": "我們都只是血肉之軀",
         "FULLNAME": "we-are-no-more-than-mortal-souls",
-        "RATING": 15
+        "RATING": 15,
+        "COMMENTS": null
     }
 ]

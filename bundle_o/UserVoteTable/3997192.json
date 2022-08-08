@@ -2,21 +2,25 @@
     {
         "TITLE": "SCP-ZH-256",
         "FULLNAME": "scp-zh-256",
-        "RATING": 15
+        "RATING": 15,
+        "COMMENTS": null
     },
     {
         "TITLE": "木易藏書閣目錄 金-九七八 《敲頭銅碗》",
         "FULLNAME": "yee",
-        "RATING": 16
+        "RATING": 16,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-461",
         "FULLNAME": "scp-zh-461",
-        "RATING": 9
+        "RATING": 9,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-451",
         "FULLNAME": "scp-zh-451",
-        "RATING": 11
+        "RATING": 11,
+        "COMMENTS": null
     }
 ]

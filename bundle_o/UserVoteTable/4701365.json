@@ -2,31 +2,37 @@
     {
         "TITLE": "SCP-ZH-029",
         "FULLNAME": "scp-zh-029",
-        "RATING": -1
+        "RATING": -1,
+        "COMMENTS": null
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-25",
         "FULLNAME": "site-zh-25",
-        "RATING": 16
+        "RATING": 16,
+        "COMMENTS": null
     },
     {
         "TITLE": "尋獲物品編號：021",
         "FULLNAME": "ru021",
-        "RATING": 11
+        "RATING": 11,
+        "COMMENTS": null
     },
     {
         "TITLE": "我在萬物之中",
         "FULLNAME": "arkwork-3999",
-        "RATING": 36
+        "RATING": 36,
+        "COMMENTS": null
     },
     {
         "TITLE": "我沒能救到他。",
         "FULLNAME": "arkwork-zh-200",
-        "RATING": 22
+        "RATING": 22,
+        "COMMENTS": null
     },
     {
         "TITLE": "闇壽司檔案No.053「紅豆軍艦」",
         "FULLNAME": "yamizushi-file-053",
-        "RATING": 12
+        "RATING": 12,
+        "COMMENTS": null
     }
 ]

@@ -2,21 +2,25 @@
     {
         "TITLE": "SCP-ZH-130",
         "FULLNAME": "scp-zh-130",
-        "RATING": 7
+        "RATING": 7,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-020",
         "FULLNAME": "scp-zh-020",
-        "RATING": 13
+        "RATING": 13,
+        "COMMENTS": null
     },
     {
         "TITLE": "已被廢除的國安局第八處 中心頁",
         "FULLNAME": "old-nsb8-hub",
-        "RATING": 13
+        "RATING": 13,
+        "COMMENTS": null
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-44",
         "FULLNAME": "site-zh-44",
-        "RATING": 14
+        "RATING": 14,
+        "COMMENTS": null
     }
 ]

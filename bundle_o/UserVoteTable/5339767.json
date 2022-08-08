@@ -2,16 +2,19 @@
     {
         "TITLE": "SCP-ZH-178",
         "FULLNAME": "scp-zh-178",
-        "RATING": 11
+        "RATING": 11,
+        "COMMENTS": null
     },
     {
         "TITLE": "測驗心理諮詢室",
         "FULLNAME": "counseling-room",
-        "RATING": 2
+        "RATING": 2,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-005",
         "FULLNAME": "scp-zh-005",
-        "RATING": 59
+        "RATING": 59,
+        "COMMENTS": null
     }
 ]

@@ -1,157 +1,230 @@
 [
     {
-        "TITLE": "SCP-ZH-655",
+        "TITLE": "12",
         "FULLNAME": "scp-zh-655",
-        "RATING": 8
+        "RATING": 8,
+        "COMMENTS": [
+            "0",
+            "3",
+            "5",
+            "20",
+            "1",
+            "4",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "3",
+            "6",
+            "3",
+            "1",
+            "1",
+            "3",
+            "1",
+            "2",
+            "0"
+        ]
     },
     {
-        "TITLE": "SCP-ZH-253",
+        "TITLE": "12",
         "FULLNAME": "scp-zh-253",
-        "RATING": 12
+        "RATING": 12,
+        "COMMENTS": [
+            "0",
+            "3",
+            "5",
+            "20",
+            "1",
+            "4",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "3",
+            "6",
+            "3",
+            "1",
+            "1",
+            "3",
+            "1",
+            "2",
+            "0"
+        ]
     },
     {
         "TITLE": "SCP-ZH-882",
         "FULLNAME": "scp-zh-882",
-        "RATING": 13
+        "RATING": 13,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-587-J",
         "FULLNAME": "scp-zh-587-j",
-        "RATING": 22
+        "RATING": 22,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-222-J",
         "FULLNAME": "scp-zh-222-j",
-        "RATING": 24
+        "RATING": 24,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP基金會不知道的那些事件",
         "FULLNAME": "ocd-virus01",
-        "RATING": 19
+        "RATING": 19,
+        "COMMENTS": null
     },
     {
         "TITLE": "B3冷凍庫幽靈饕客",
         "FULLNAME": "site-zh-02-eater",
-        "RATING": 10
+        "RATING": 10,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-618",
         "FULLNAME": "scp-zh-618",
-        "RATING": 41
+        "RATING": 41,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-285 - 致命誘惑",
         "FULLNAME": "scp-zh-285",
-        "RATING": 16
+        "RATING": 16,
+        "COMMENTS": null
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-02",
         "FULLNAME": "site-zh-02",
-        "RATING": 25
+        "RATING": 25,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-087-J",
         "FULLNAME": "scp-zh-087-j",
-        "RATING": 11
+        "RATING": 11,
+        "COMMENTS": null
     },
     {
         "TITLE": "無月之夜",
         "FULLNAME": "no-moon-night",
-        "RATING": 9
+        "RATING": 9,
+        "COMMENTS": null
     },
     {
         "TITLE": "木易藏書閣目錄 金-九七八 《敲頭銅碗》",
         "FULLNAME": "yee",
-        "RATING": 16
+        "RATING": 16,
+        "COMMENTS": null
     },
     {
         "TITLE": "首級",
         "FULLNAME": "head",
-        "RATING": 15
+        "RATING": 15,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-005",
         "FULLNAME": "scp-zh-005",
-        "RATING": 59
+        "RATING": 59,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-105 - 不孝子",
         "FULLNAME": "scp-zh-105",
-        "RATING": 65
+        "RATING": 65,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-125",
         "FULLNAME": "scp-zh-125",
-        "RATING": 22
+        "RATING": 22,
+        "COMMENTS": null
     },
     {
         "TITLE": "最真實的往往無法看見",
         "FULLNAME": "the-truth-is-usually-invisible",
-        "RATING": 12
+        "RATING": 12,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-515 - 平安符",
         "FULLNAME": "scp-zh-515",
-        "RATING": 43
+        "RATING": 43,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-080",
         "FULLNAME": "scp-zh-080",
-        "RATING": 10
+        "RATING": 10,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-719-J",
         "FULLNAME": "scp-zh-719-j",
-        "RATING": 16
+        "RATING": 16,
+        "COMMENTS": null
     },
     {
         "TITLE": "遐邇週刊 第011期",
         "FULLNAME": "the-weekly-011",
-        "RATING": 13
+        "RATING": 13,
+        "COMMENTS": null
     },
     {
         "TITLE": "對欲肉教的人類學進路03-案例研究03：香港新茶嶺的盧亭人",
         "FULLNAME": "sarkic-case-study-03-the-luo-ting-n-a-of-new-cha-ling",
-        "RATING": 19
+        "RATING": 19,
+        "COMMENTS": null
     },
     {
         "TITLE": "Ctrl Z博士的SCP記錄：SCP-●●|●●●●●|●●|●",
         "FULLNAME": "yenney",
-        "RATING": 10
+        "RATING": 10,
+        "COMMENTS": null
     },
     {
         "TITLE": "Ctrl Z博士的SCP記錄：SCP-166 少女魅魔",
         "FULLNAME": "ggbangyen",
-        "RATING": 11
+        "RATING": 11,
+        "COMMENTS": null
     },
     {
         "TITLE": "Ctrl Z博士的SCP記錄：SCP-035 Possessive Mask",
         "FULLNAME": "yoyen",
-        "RATING": 5
+        "RATING": 5,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-174",
         "FULLNAME": "scp-zh-174",
-        "RATING": 22
+        "RATING": 22,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-815",
         "FULLNAME": "scp-zh-815",
-        "RATING": 35
+        "RATING": 35,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-●●|●●●●●|●●|● 素描",
         "FULLNAME": "scp-2521-painting",
-        "RATING": 12
+        "RATING": 12,
+        "COMMENTS": null
     },
     {
         "TITLE": "美麗的蝴蝶仙子Kondraki博士",
         "FULLNAME": "oh-god-this-is-kondraki",
-        "RATING": 12
+        "RATING": 12,
+        "COMMENTS": null
     },
     {
         "TITLE": "新聞快訊：若我們要達到仁慈的下場，應該遵守哪些事情",
         "FULLNAME": "news-site-zh-81-1",
-        "RATING": 24
+        "RATING": 24,
+        "COMMENTS": null
     }
 ]

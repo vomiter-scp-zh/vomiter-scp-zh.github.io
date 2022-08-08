@@ -2,11 +2,13 @@
     {
         "TITLE": "SCP-ZH-035",
         "FULLNAME": "scp-zh-035",
-        "RATING": 20
+        "RATING": 20,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-002 - 台灣獨角獸",
         "FULLNAME": "scp-zh-002",
-        "RATING": 36
+        "RATING": 36,
+        "COMMENTS": null
     }
 ]

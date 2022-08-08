@@ -2,61 +2,73 @@
     {
         "TITLE": "SCP-ZH-882",
         "FULLNAME": "scp-zh-882",
-        "RATING": 13
+        "RATING": 13,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-199",
         "FULLNAME": "scp-zh-199",
-        "RATING": 22
+        "RATING": 22,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-202",
         "FULLNAME": "scp-zh-202",
-        "RATING": 12
+        "RATING": 12,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-202後續實驗日誌",
         "FULLNAME": "scp-zh-202-a1",
-        "RATING": 3
+        "RATING": 3,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-012",
         "FULLNAME": "scp-zh-012",
-        "RATING": 19
+        "RATING": 19,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-060",
         "FULLNAME": "scp-zh-060",
-        "RATING": 21
+        "RATING": 21,
+        "COMMENTS": null
     },
     {
         "TITLE": "收容室ZH-S12-E-024實驗紀錄",
         "FULLNAME": "scp-zh-024",
-        "RATING": 33
+        "RATING": 33,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-140",
         "FULLNAME": "scp-zh-140",
-        "RATING": 20
+        "RATING": 20,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-224",
         "FULLNAME": "scp-zh-224",
-        "RATING": 8
+        "RATING": 8,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-496 - 安全極限距離",
         "FULLNAME": "scp-zh-496",
-        "RATING": 28
+        "RATING": 28,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-033",
         "FULLNAME": "scp-zh-033",
-        "RATING": 3
+        "RATING": 3,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-736 - 你不能再往前了",
         "FULLNAME": "scp-zh-736",
-        "RATING": 31
+        "RATING": 31,
+        "COMMENTS": null
     }
 ]

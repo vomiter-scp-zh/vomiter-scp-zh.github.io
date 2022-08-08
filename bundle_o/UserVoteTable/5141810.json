@@ -2,41 +2,49 @@
     {
         "TITLE": "SCP-ZH-009",
         "FULLNAME": "scp-zh-009",
-        "RATING": 20
+        "RATING": 20,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-005",
         "FULLNAME": "scp-zh-005",
-        "RATING": 59
+        "RATING": 59,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-105 - 不孝子",
         "FULLNAME": "scp-zh-105",
-        "RATING": 65
+        "RATING": 65,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-515 - 平安符",
         "FULLNAME": "scp-zh-515",
-        "RATING": 43
+        "RATING": 43,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-194",
         "FULLNAME": "scp-zh-194",
-        "RATING": 12
+        "RATING": 12,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-120",
         "FULLNAME": "scp-zh-120",
-        "RATING": 38
+        "RATING": 38,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-166",
         "FULLNAME": "scp-zh-166",
-        "RATING": 21
+        "RATING": 21,
+        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
         "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 55
+        "RATING": 55,
+        "COMMENTS": null
     }
 ]
