@@ -288,12 +288,6 @@
         "COMMENTS": "7"
     },
     {
-        "TITLE": "SCP-ZH-922 - 馬蘭姑娘",
-        "FULLNAME": "scp-zh-922",
-        "RATING": 24,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "24",
         "FULLNAME": "scp-zh-222-j",
         "RATING": 24,
@@ -372,6 +366,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "24",
+        "FULLNAME": "scp-zh-922",
+        "RATING": 24,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "沒有基金會的那時",
         "FULLNAME": "the-time-foundation-disappeared",
         "RATING": 23,
@@ -418,24 +418,6 @@
         "FULLNAME": "project-proposal-2017-47-zh",
         "RATING": 23,
         "COMMENTS": "3"
-    },
-    {
-        "TITLE": "SCP-ZH-086 - 請你別說見過我",
-        "FULLNAME": "scp-zh-086",
-        "RATING": 22,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "SCP-ZH-106-「逆模因」",
-        "FULLNAME": "scp-zh-106",
-        "RATING": 22,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "SCP-ZH-930 - 基輔戰鬼顯現之時",
-        "FULLNAME": "scp-zh-930",
-        "RATING": 22,
-        "COMMENTS": null
     },
     {
         "TITLE": "24",
@@ -553,6 +535,24 @@
         "FULLNAME": "scp-zh-144",
         "RATING": 22,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "25",
+        "FULLNAME": "scp-zh-086",
+        "RATING": 22,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "22",
+        "FULLNAME": "scp-zh-930",
+        "RATING": 22,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "22",
+        "FULLNAME": "scp-zh-106",
+        "RATING": 22,
+        "COMMENTS": "4"
     },
     {
         "TITLE": "NX-ZH-02：西加走灣群島",
@@ -771,18 +771,6 @@
         "COMMENTS": "10"
     },
     {
-        "TITLE": "SCP-ZH-432 - 更好的你",
-        "FULLNAME": "scp-zh-432",
-        "RATING": 19,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "虔誠神父與社畜輔導員不會撞破蒙臉上司們做羞羞的事",
-        "FULLNAME": "one-night-four-broken-hearts-in-12",
-        "RATING": 19,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "20",
         "FULLNAME": "ocd-virus01",
         "RATING": 19,
@@ -915,16 +903,16 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "025O的畫",
-        "FULLNAME": "025o-s-painting",
-        "RATING": 18,
-        "COMMENTS": null
+        "TITLE": "19",
+        "FULLNAME": "scp-zh-432",
+        "RATING": 19,
+        "COMMENTS": "2"
     },
     {
-        "TITLE": "SCP-ZH-255 - 孤獨險",
-        "FULLNAME": "scp-zh-225",
-        "RATING": 18,
-        "COMMENTS": null
+        "TITLE": "19",
+        "FULLNAME": "one-night-four-broken-hearts-in-12",
+        "RATING": 19,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "歡迎，敬啟者",
@@ -1104,6 +1092,18 @@
         "COMMENTS": "3"
     },
     {
+        "TITLE": "18",
+        "FULLNAME": "025o-s-painting",
+        "RATING": 18,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "18",
+        "FULLNAME": "scp-zh-225",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-196 - 與ㅤㅤㅤㅤ婆娑起舞",
         "FULLNAME": "scp-zh-196",
         "RATING": 17,
@@ -1112,24 +1112,6 @@
     {
         "TITLE": "Myosotis",
         "FULLNAME": "myosotis",
-        "RATING": 17,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "SCP-ZH-413 - 含碘晴天娃娃",
-        "FULLNAME": "scp-zh-413",
-        "RATING": 17,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "山本研究員的ZH-922觀察日誌",
-        "FULLNAME": "romiamiad-ni-cidal",
-        "RATING": 17,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "SCP-ZH-073 - 巡迴演出最終站",
-        "FULLNAME": "scp-zh-073",
         "RATING": 17,
         "COMMENTS": null
     },
@@ -1240,5 +1222,23 @@
         "FULLNAME": "a-battlefield-without-gunpowder",
         "RATING": 17,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "17",
+        "FULLNAME": "scp-zh-444",
+        "RATING": 17,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "17",
+        "FULLNAME": "comic",
+        "RATING": 17,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "17",
+        "FULLNAME": "r-sinano-chuo-zhtr-2018-11-19-a222a",
+        "RATING": 17,
+        "COMMENTS": "2"
     }
 ]
