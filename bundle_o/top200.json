@@ -120,12 +120,6 @@
         "COMMENTS": null
     },
     {
-        "TITLE": "k1s10r0d的提案 - IMMOLARI",
-        "FULLNAME": "k1s10r0d-s-proposal",
-        "RATING": 33,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "34",
         "FULLNAME": "scp-zh-117",
         "RATING": 33,
@@ -142,6 +136,12 @@
         "FULLNAME": "scp-zh-024",
         "RATING": 33,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "33",
+        "FULLNAME": "k1s10r0d-s-proposal",
+        "RATING": 33,
+        "COMMENTS": "3"
     },
     {
         "TITLE": "32",
@@ -210,12 +210,6 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-ZH-337 - 夢工廠",
-        "FULLNAME": "scp-zh-337",
-        "RATING": 28,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "28",
         "FULLNAME": "ambrose-isakov",
         "RATING": 28,
@@ -232,6 +226,12 @@
         "FULLNAME": "the-ss-vs-ss",
         "RATING": 28,
         "COMMENTS": "19"
+    },
+    {
+        "TITLE": "28",
+        "FULLNAME": "scp-zh-337",
+        "RATING": 28,
+        "COMMENTS": "6"
     },
     {
         "TITLE": "27",
@@ -252,12 +252,6 @@
         "COMMENTS": "13"
     },
     {
-        "TITLE": "兒童走失處理紀錄",
-        "FULLNAME": "snowcatflyhighhigh",
-        "RATING": 26,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "26",
         "FULLNAME": "scp-zh-310",
         "RATING": 26,
@@ -268,6 +262,12 @@
         "FULLNAME": "k1s10r0d-chain-sugoi",
         "RATING": 26,
         "COMMENTS": "6"
+    },
+    {
+        "TITLE": "26",
+        "FULLNAME": "snowcatflyhighhigh",
+        "RATING": 26,
+        "COMMENTS": "3"
     },
     {
         "TITLE": "26",
@@ -286,12 +286,6 @@
         "FULLNAME": "scp-zh-228",
         "RATING": 25,
         "COMMENTS": "7"
-    },
-    {
-        "TITLE": "SCP-ZH-082 - 小蜜蜂餐車",
-        "FULLNAME": "scp-zh-082",
-        "RATING": 24,
-        "COMMENTS": null
     },
     {
         "TITLE": "SCP-ZH-922 - 馬蘭姑娘",
@@ -370,6 +364,12 @@
         "FULLNAME": "what-the-fuck",
         "RATING": 24,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "24",
+        "FULLNAME": "scp-zh-082",
+        "RATING": 24,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "沒有基金會的那時",
@@ -771,30 +771,6 @@
         "COMMENTS": "10"
     },
     {
-        "TITLE": "SCP-ZH-340 - 生命之沙，繁星之盒",
-        "FULLNAME": "scp-zh-340",
-        "RATING": 19,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "SCP-ZH-059 - 無形的奴隸與反抗",
-        "FULLNAME": "scp-zh-059",
-        "RATING": 19,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "SCP-ZH-107 - 捕鳥雲",
-        "FULLNAME": "scp-zh-107",
-        "RATING": 19,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "SCP-ZH-056 - 本班機飛往彼岸",
-        "FULLNAME": "scp-zh-056",
-        "RATING": 19,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "SCP-ZH-432 - 更好的你",
         "FULLNAME": "scp-zh-432",
         "RATING": 19,
@@ -803,12 +779,6 @@
     {
         "TITLE": "虔誠神父與社畜輔導員不會撞破蒙臉上司們做羞羞的事",
         "FULLNAME": "one-night-four-broken-hearts-in-12",
-        "RATING": 19,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "SCP-ZH-517 - One More Time, One More Chance",
-        "FULLNAME": "scp-zh-517",
         "RATING": 19,
         "COMMENTS": null
     },
@@ -915,10 +885,34 @@
         "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-ZH-916 - 夢迴熔爐",
-        "FULLNAME": "scp-zh-916",
-        "RATING": 18,
-        "COMMENTS": null
+        "TITLE": "19",
+        "FULLNAME": "scp-zh-340",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "19",
+        "FULLNAME": "scp-zh-059",
+        "RATING": 19,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "19",
+        "FULLNAME": "scp-zh-517",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "19",
+        "FULLNAME": "scp-zh-107",
+        "RATING": 19,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "19",
+        "FULLNAME": "scp-zh-056",
+        "RATING": 19,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "025O的畫",
@@ -1104,6 +1098,12 @@
         "COMMENTS": "4"
     },
     {
+        "TITLE": "18",
+        "FULLNAME": "scp-zh-916",
+        "RATING": 18,
+        "COMMENTS": "3"
+    },
+    {
         "TITLE": "SCP-ZH-196 - 與ㅤㅤㅤㅤ婆娑起舞",
         "FULLNAME": "scp-zh-196",
         "RATING": 17,
@@ -1112,36 +1112,6 @@
     {
         "TITLE": "Myosotis",
         "FULLNAME": "myosotis",
-        "RATING": 17,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "曙光東啟",
-        "FULLNAME": "dawn-of-east",
-        "RATING": 17,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "退休生活",
-        "FULLNAME": "retire-from-bistro",
-        "RATING": 17,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "SCP-ZH-094 - 失敗作",
-        "FULLNAME": "scp-zh-094",
-        "RATING": 17,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "SCP-ZH-072 - 工作間失竊事件",
-        "FULLNAME": "scp-zh-072",
-        "RATING": 17,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "白雲孤飛",
-        "FULLNAME": "i-ll-come-back-to-the-earth-and-bring-the-piece-of-the-star",
         "RATING": 17,
         "COMMENTS": null
     },
@@ -1240,5 +1210,35 @@
         "FULLNAME": "scp-zh-545",
         "RATING": 17,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "17",
+        "FULLNAME": "dream-about-tomorrow",
+        "RATING": 17,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "17",
+        "FULLNAME": "art-for-death-eternal-life-1",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "17",
+        "FULLNAME": "practice",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "17",
+        "FULLNAME": "ambrose-taiwan-railway-hotel",
+        "RATING": 17,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "17",
+        "FULLNAME": "a-battlefield-without-gunpowder",
+        "RATING": 17,
+        "COMMENTS": "0"
     }
 ]
