@@ -108,12 +108,6 @@
         "COMMENTS": null
     },
     {
-        "TITLE": "SCP-ZH-117",
-        "FULLNAME": "scp-zh-117",
-        "RATING": 33,
-        "COMMENTS": null
-    },
-    {
         "TITLE": "SCP-ZH-860 - dado的「发」財藥",
         "FULLNAME": "scp-zh-860",
         "RATING": 33,
@@ -142,6 +136,33 @@
         "FULLNAME": "k1s10r0d-s-proposal",
         "RATING": 33,
         "COMMENTS": null
+    },
+    {
+        "TITLE": "34",
+        "FULLNAME": "scp-zh-117",
+        "RATING": 33,
+        "COMMENTS": [
+            "1",
+            "3",
+            "6",
+            "3",
+            "1",
+            "1",
+            "3",
+            "1",
+            "2",
+            "0",
+            "2",
+            "1",
+            "2",
+            "5",
+            "1",
+            "2",
+            "1",
+            "1",
+            "1",
+            "2"
+        ]
     },
     {
         "TITLE": "Alicia女士",
@@ -1081,16 +1102,6 @@
         "FULLNAME": "scp-zh-017",
         "RATING": 18,
         "COMMENTS": [
-            "0",
-            "3",
-            "5",
-            "20",
-            "1",
-            "4",
-            "0",
-            "0",
-            "0",
-            "0",
             "1",
             "3",
             "6",
@@ -1100,18 +1111,22 @@
             "3",
             "1",
             "2",
-            "0"
+            "0",
+            "2",
+            "1",
+            "2",
+            "5",
+            "1",
+            "2",
+            "1",
+            "1",
+            "1",
+            "2"
         ]
     },
     {
         "TITLE": "SCP-ZH-196 - 與ㅤㅤㅤㅤ婆娑起舞",
         "FULLNAME": "scp-zh-196",
-        "RATING": 17,
-        "COMMENTS": null
-    },
-    {
-        "TITLE": "SCP-ZH-954",
-        "FULLNAME": "scp-zh-954",
         "RATING": 17,
         "COMMENTS": null
     },
@@ -1238,6 +1253,12 @@
     {
         "TITLE": "紀錄及訊息安全管理部門特殊文件－與李總統登輝先生相關的專訪",
         "FULLNAME": "raisa-lee-teng-hui",
+        "RATING": 17,
+        "COMMENTS": null
+    },
+    {
+        "TITLE": "聖誕與萬聖僅有一線之隔",
+        "FULLNAME": "christmas-or-halloween",
         "RATING": 17,
         "COMMENTS": null
     }
