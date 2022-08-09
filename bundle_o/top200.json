@@ -1062,6 +1062,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-ZH-526",
+        "FULLNAME": "scp-zh-526",
+        "RATING": 18,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-ZH-279 - 愛的形狀",
         "FULLNAME": "scp-zh-279",
         "RATING": 17,
@@ -1192,11 +1198,5 @@
         "FULLNAME": "ranunculus",
         "RATING": 17,
         "COMMENTS": "3"
-    },
-    {
-        "TITLE": "紀錄及訊息安全管理部門特殊文件－與李總統登輝先生相關的專訪",
-        "FULLNAME": "raisa-lee-teng-hui",
-        "RATING": 17,
-        "COMMENTS": "1"
     }
 ]
