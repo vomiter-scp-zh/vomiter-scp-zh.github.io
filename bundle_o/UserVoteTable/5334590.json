@@ -1050,7 +1050,7 @@
         "COMMENTS": "2"
     },
     {
-        "TITLE": "SCP-ZH-910",
+        "TITLE": "SCP-ZH-910 - 科學末日恐慌",
         "FULLNAME": "scp-zh-910",
         "RATING": 7,
         "COMMENTS": "0"
@@ -2001,6 +2001,12 @@
         "TITLE": "海棠依舊",
         "FULLNAME": "lucid-dreams",
         "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "假面騎士Theseus：雙軌難題",
+        "FULLNAME": "kamen-rider-theseus-double-tracks-problem",
+        "RATING": 9,
         "COMMENTS": "0"
     }
 ]
