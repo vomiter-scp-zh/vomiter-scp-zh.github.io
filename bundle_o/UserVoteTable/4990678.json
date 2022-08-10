@@ -3986,7 +3986,7 @@
     {
         "TITLE": "SCP-ZH-092",
         "FULLNAME": "scp-zh-092",
-        "RATING": -3,
+        "RATING": -4,
         "COMMENTS": "4"
     },
     {
@@ -4899,6 +4899,24 @@
         "TITLE": "假面騎士Theseus：雙軌難題",
         "FULLNAME": "kamen-rider-theseus-double-tracks-problem",
         "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-266",
+        "FULLNAME": "scp-zh-266",
+        "RATING": 12,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-038",
+        "FULLNAME": "scp-zh-038",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "理解不能的裂縫之中",
+        "FULLNAME": "888father",
+        "RATING": 4,
         "COMMENTS": "0"
     }
 ]

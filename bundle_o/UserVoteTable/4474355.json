@@ -1594,5 +1594,17 @@
         "FULLNAME": "scp-zh-318",
         "RATING": 0,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-038",
+        "FULLNAME": "scp-zh-038",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-804",
+        "FULLNAME": "scp-zh-804",
+        "RATING": 9,
+        "COMMENTS": "3"
     }
 ]

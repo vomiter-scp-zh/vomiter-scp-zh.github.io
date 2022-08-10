@@ -2086,5 +2086,11 @@
         "FULLNAME": "interview-of-x",
         "RATING": 8,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-804",
+        "FULLNAME": "scp-zh-804",
+        "RATING": 9,
+        "COMMENTS": "3"
     }
 ]

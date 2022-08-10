@@ -1432,5 +1432,17 @@
         "FULLNAME": "scp-zh-184",
         "RATING": 15,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-038",
+        "FULLNAME": "scp-zh-038",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "老貓遊記，零",
+        "FULLNAME": "old-cat-travel-1",
+        "RATING": 8,
+        "COMMENTS": "3"
     }
 ]
