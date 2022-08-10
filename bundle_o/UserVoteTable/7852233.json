@@ -112,5 +112,11 @@
         "FULLNAME": "scp-zh-60053-j",
         "RATING": 43,
         "COMMENTS": "7"
+    },
+    {
+        "TITLE": "維安事故ZH-330-2",
+        "FULLNAME": "incident-zh-330-2",
+        "RATING": 11,
+        "COMMENTS": "0"
     }
 ]
