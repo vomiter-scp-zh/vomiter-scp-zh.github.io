@@ -118,5 +118,11 @@
         "FULLNAME": "incident-zh-330-2",
         "RATING": 11,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-005",
+        "FULLNAME": "scp-zh-005",
+        "RATING": 60,
+        "COMMENTS": "0"
     }
 ]
