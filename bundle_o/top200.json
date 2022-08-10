@@ -372,6 +372,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "NX-ZH-02：西加走灣群島",
+        "FULLNAME": "nx-zh-02",
+        "RATING": 24,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-ZH-100",
         "FULLNAME": "scp-zh-0100",
         "RATING": 23,
@@ -422,12 +428,6 @@
     {
         "TITLE": "拋鈴人中心頁",
         "FULLNAME": "goi-bt",
-        "RATING": 23,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "NX-ZH-02：西加走灣群島",
-        "FULLNAME": "nx-zh-02",
         "RATING": 23,
         "COMMENTS": "1"
     },
