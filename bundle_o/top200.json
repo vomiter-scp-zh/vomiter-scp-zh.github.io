@@ -1074,6 +1074,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "海棠依舊",
+        "FULLNAME": "lucid-dreams",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-954 - 黃色便條紙",
         "FULLNAME": "scp-zh-954",
         "RATING": 17,
@@ -1192,11 +1198,5 @@
         "FULLNAME": "r-sinano-chuo-zhtr-2018-11-19-a222a",
         "RATING": 17,
         "COMMENTS": "2"
-    },
-    {
-        "TITLE": "花語：花毛茛",
-        "FULLNAME": "ranunculus",
-        "RATING": 17,
-        "COMMENTS": "3"
     }
 ]
