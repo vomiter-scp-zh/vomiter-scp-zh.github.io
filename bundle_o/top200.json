@@ -612,6 +612,12 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "SCP-ZH-248 - 尤斯蒂亞症候群",
+        "FULLNAME": "scp-zh-248",
+        "RATING": 21,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-ZH-009",
         "FULLNAME": "scp-zh-009",
         "RATING": 20,
@@ -724,12 +730,6 @@
         "FULLNAME": "scp-zh-140",
         "RATING": 20,
         "COMMENTS": "7"
-    },
-    {
-        "TITLE": "SCP-ZH-248 - 尤斯蒂亞症候群",
-        "FULLNAME": "scp-zh-248",
-        "RATING": 20,
-        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-037",
