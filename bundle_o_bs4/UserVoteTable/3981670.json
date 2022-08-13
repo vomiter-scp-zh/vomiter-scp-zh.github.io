@@ -2014,5 +2014,53 @@
         "FULLNAME": "the-death-of-sam-or-semibreve-etc",
         "RATING": 17,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "項目企劃書 2017-47：《健康的代價》",
+        "FULLNAME": "project-proposal-2017-47-zh",
+        "RATING": 23,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-398 - 四面閻魔",
+        "FULLNAME": "scp-zh-398",
+        "RATING": 14,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-499 - 康乃馨盔甲工藝",
+        "FULLNAME": "scp-zh-499",
+        "RATING": 37,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-065 - 葡提薩埵",
+        "FULLNAME": "scp-zh-065",
+        "RATING": 9,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-999－人們欠他個總統席位",
+        "FULLNAME": "scp-zh-999",
+        "RATING": 54,
+        "COMMENTS": "13"
+    },
+    {
+        "TITLE": "退休生活",
+        "FULLNAME": "retire-from-bistro",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-340 - 生命之沙，繁星之盒",
+        "FULLNAME": "scp-zh-340",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-059 - 無形的奴隸與反抗",
+        "FULLNAME": "scp-zh-059",
+        "RATING": 19,
+        "COMMENTS": "0"
     }
 ]

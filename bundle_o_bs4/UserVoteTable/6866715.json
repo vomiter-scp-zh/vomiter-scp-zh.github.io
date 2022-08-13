@@ -106,5 +106,17 @@
         "FULLNAME": "boorklyn-00-the-heaven",
         "RATING": 16,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-499 - 康乃馨盔甲工藝",
+        "FULLNAME": "scp-zh-499",
+        "RATING": 37,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-909 - 評分模塊",
+        "FULLNAME": "scp-zh-909",
+        "RATING": 6,
+        "COMMENTS": "4"
     }
 ]

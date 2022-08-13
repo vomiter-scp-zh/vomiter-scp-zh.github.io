@@ -28,5 +28,47 @@
         "FULLNAME": "scp-zh-022-j",
         "RATING": 36,
         "COMMENTS": "19"
+    },
+    {
+        "TITLE": "SCP-ZH-999-J",
+        "FULLNAME": "scp-zh-999-j",
+        "RATING": 4,
+        "COMMENTS": "18"
+    },
+    {
+        "TITLE": "SCP-999-JP - 第九號當以九言述之",
+        "FULLNAME": "scp-999-jp-enneametric",
+        "RATING": 15,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-062 - 燈猴",
+        "FULLNAME": "scp-zh-062",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-063 - 歡 笑 不 再",
+        "FULLNAME": "scp-zh-063",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "k1s10r0d的提案 - IMMOLARI",
+        "FULLNAME": "k1s10r0d-s-proposal",
+        "RATING": 33,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-830 - 奇蹟",
+        "FULLNAME": "scp-zh-830",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Neviim.aic，攝於2022年2月",
+        "FULLNAME": "neviim-aic-original-art",
+        "RATING": 12,
+        "COMMENTS": "0"
     }
 ]
