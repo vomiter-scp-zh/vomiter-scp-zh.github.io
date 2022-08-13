@@ -622,5 +622,17 @@
         "FULLNAME": "electronic-stary",
         "RATING": 15,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-106-「逆模因」",
+        "FULLNAME": "scp-zh-106",
+        "RATING": 22,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "歡迎，敬啟者",
+        "FULLNAME": "multiversal-valentine",
+        "RATING": 18,
+        "COMMENTS": "0"
     }
 ]

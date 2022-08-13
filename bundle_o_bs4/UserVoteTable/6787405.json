@@ -268,5 +268,17 @@
         "FULLNAME": "where-are-you-we-will-be-together-forever",
         "RATING": 6,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-132 - 要你命的007遊戲",
+        "FULLNAME": "scp-zh-132",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-744 - 反洗禮",
+        "FULLNAME": "scp-zh-744",
+        "RATING": 13,
+        "COMMENTS": "3"
     }
 ]

@@ -394,5 +394,23 @@
         "FULLNAME": "scp-zh-063",
         "RATING": 16,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-922 - 馬蘭姑娘",
+        "FULLNAME": "scp-zh-922",
+        "RATING": 24,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-126 - 「羊」芋片袋",
+        "FULLNAME": "scp-zh-126",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "「火魔法」回顧：似同實異的兩大類術式",
+        "FULLNAME": "review-of-fire-spells",
+        "RATING": 15,
+        "COMMENTS": "0"
     }
 ]

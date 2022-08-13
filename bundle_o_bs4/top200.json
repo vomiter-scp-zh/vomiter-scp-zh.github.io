@@ -366,6 +366,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-ZH-922 - 馬蘭姑娘",
+        "FULLNAME": "scp-zh-922",
+        "RATING": 24,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-ZH-100",
         "FULLNAME": "scp-zh-0100",
         "RATING": 23,
@@ -412,6 +418,12 @@
         "FULLNAME": "project-proposal-2017-47-zh",
         "RATING": 23,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "沒有基金會的那時",
+        "FULLNAME": "the-time-foundation-disappeared",
+        "RATING": 23,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-255",
@@ -514,6 +526,12 @@
         "FULLNAME": "scp-zh-930",
         "RATING": 22,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-106-「逆模因」",
+        "FULLNAME": "scp-zh-106",
+        "RATING": 22,
+        "COMMENTS": "4"
     },
     {
         "TITLE": "SCP-ZH-610 - 猛爆性繁衍組織瘤",
@@ -1032,6 +1050,18 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-ZH-255 - 孤獨險",
+        "FULLNAME": "scp-zh-225",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "歡迎，敬啟者",
+        "FULLNAME": "multiversal-valentine",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-954 - 黃色便條紙",
         "FULLNAME": "scp-zh-954",
         "RATING": 17,
@@ -1166,36 +1196,6 @@
     {
         "TITLE": "紀錄及訊息安全管理部門特殊文件－與李總統登輝先生相關的專訪",
         "FULLNAME": "raisa-lee-teng-hui",
-        "RATING": 17,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "聖誕與萬聖僅有一線之隔",
-        "FULLNAME": "christmas-or-halloween",
-        "RATING": 17,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "聖夜相守時",
-        "FULLNAME": "formytreasure",
-        "RATING": 17,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "台灣異新報、昭和十年十一月一日",
-        "FULLNAME": "taiwan-newspaper",
-        "RATING": 17,
-        "COMMENTS": "4"
-    },
-    {
-        "TITLE": "雷射雕刻──Site-ZH-12",
-        "FULLNAME": "site-zh-12-made-with-wood",
-        "RATING": 17,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "洗標：紅1354-深入傳統納餓卡部落",
-        "FULLNAME": "red-1354",
         "RATING": 17,
         "COMMENTS": "1"
     }
