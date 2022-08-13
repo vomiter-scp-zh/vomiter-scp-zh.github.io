@@ -64,5 +64,11 @@
         "FULLNAME": "k1s10r0d-s-proposal",
         "RATING": 33,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-072 - 工作間失竊事件",
+        "FULLNAME": "scp-zh-072",
+        "RATING": 17,
+        "COMMENTS": "1"
     }
 ]

@@ -100,5 +100,35 @@
         "FULLNAME": "scp-zh-830",
         "RATING": 9,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-277－築路中原",
+        "FULLNAME": "scp-zh-277",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-072 - 工作間失竊事件",
+        "FULLNAME": "scp-zh-072",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-181 - 永續的工業革命",
+        "FULLNAME": "scp-zh-181",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-337 - 夢工廠",
+        "FULLNAME": "scp-zh-337",
+        "RATING": 28,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-365 - 贗品證件夾",
+        "FULLNAME": "scp-zh-365",
+        "RATING": 3,
+        "COMMENTS": "1"
     }
 ]

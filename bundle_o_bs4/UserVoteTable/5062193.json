@@ -88,5 +88,17 @@
         "FULLNAME": "k1s10r0d-s-proposal",
         "RATING": 33,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-094 - 失敗作",
+        "FULLNAME": "scp-zh-094",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-337 - 夢工廠",
+        "FULLNAME": "scp-zh-337",
+        "RATING": 28,
+        "COMMENTS": "6"
     }
 ]

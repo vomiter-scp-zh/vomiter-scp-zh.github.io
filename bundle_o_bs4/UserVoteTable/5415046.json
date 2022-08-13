@@ -1816,5 +1816,47 @@
         "FULLNAME": "k1s10r0d-s-proposal",
         "RATING": 33,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-094 - 失敗作",
+        "FULLNAME": "scp-zh-094",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-277－築路中原",
+        "FULLNAME": "scp-zh-277",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-517 - One More Time, One More Chance",
+        "FULLNAME": "scp-zh-517",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-413 - 含碘晴天娃娃",
+        "FULLNAME": "scp-zh-413",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-302 - 含碘水妖精",
+        "FULLNAME": "scp-zh-302",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-466 - 魔術碘與夢幻泡影",
+        "FULLNAME": "scp-zh-466",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "電子星空",
+        "FULLNAME": "electronic-stary",
+        "RATING": 15,
+        "COMMENTS": "0"
     }
 ]
