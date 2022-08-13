@@ -4,5 +4,23 @@
         "FULLNAME": "scp-zh-255",
         "RATING": 22,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-089",
+        "FULLNAME": "scp-zh-089",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "小動物簡介：Esther！",
+        "FULLNAME": "esther",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "挑戰傳統評分方式：關於自訂評分模版",
+        "FULLNAME": "rating-against-traditions",
+        "RATING": 24,
+        "COMMENTS": "0"
     }
 ]

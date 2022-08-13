@@ -4,5 +4,89 @@
         "FULLNAME": "scp-zh-655",
         "RATING": 8,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-900 - 石灰渦輪",
+        "FULLNAME": "scp-zh-900",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-127",
+        "FULLNAME": "scp-zh-127",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-883",
+        "FULLNAME": "scp-zh-883",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-222-J",
+        "FULLNAME": "scp-zh-222-j",
+        "RATING": 24,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "控制。",
+        "FULLNAME": "secure-zh",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "收容。",
+        "FULLNAME": "contain-zh",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "B3冷凍庫幽靈饕客",
+        "FULLNAME": "site-zh-02-eater",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-118",
+        "FULLNAME": "scp-zh-118",
+        "RATING": 6,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-477 - 不可抗吸引",
+        "FULLNAME": "scp-zh-477",
+        "RATING": 13,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-285 - 致命誘惑",
+        "FULLNAME": "scp-zh-285",
+        "RATING": 16,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "挑戰傳統評分方式：關於自訂評分模版",
+        "FULLNAME": "rating-against-traditions",
+        "RATING": 24,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-323",
+        "FULLNAME": "scp-zh-323",
+        "RATING": 10,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "最好的結局",
+        "FULLNAME": "what-do-you-think",
+        "RATING": 12,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "站點綠化提案",
+        "FULLNAME": "greening",
+        "RATING": 17,
+        "COMMENTS": "1"
     }
 ]

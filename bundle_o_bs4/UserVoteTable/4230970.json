@@ -4,5 +4,17 @@
         "FULLNAME": "scp-zh-977",
         "RATING": 5,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-004",
+        "FULLNAME": "scp-zh-004",
+        "RATING": 9,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "潛在危險無法被文字記錄",
+        "FULLNAME": "disremember",
+        "RATING": 13,
+        "COMMENTS": "1"
     }
 ]

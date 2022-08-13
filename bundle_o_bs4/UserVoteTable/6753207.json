@@ -10,41 +10,5 @@
         "FULLNAME": "scp-zh-004",
         "RATING": 9,
         "COMMENTS": "5"
-    },
-    {
-        "TITLE": "SCP-ZH-005",
-        "FULLNAME": "scp-zh-005",
-        "RATING": 60,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-010 - 迷走神經寄生體",
-        "FULLNAME": "scp-zh-010",
-        "RATING": 18,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-002 - 台灣獨角獸",
-        "FULLNAME": "scp-zh-002",
-        "RATING": 36,
-        "COMMENTS": "13"
-    },
-    {
-        "TITLE": "SCP-ZH-012",
-        "FULLNAME": "scp-zh-012",
-        "RATING": 19,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-ZH-011",
-        "FULLNAME": "scp-zh-011",
-        "RATING": 8,
-        "COMMENTS": "3"
-    },
-    {
-        "TITLE": "SCP-ZH-014",
-        "FULLNAME": "scp-zh-014",
-        "RATING": 20,
-        "COMMENTS": "4"
     }
 ]

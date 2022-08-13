@@ -16,5 +16,29 @@
         "FULLNAME": "scp-zh-117",
         "RATING": 33,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-178",
+        "FULLNAME": "scp-zh-178",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-687",
+        "FULLNAME": "scp-zh-687",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-ZH-02",
+        "FULLNAME": "site-zh-02",
+        "RATING": 25,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "挑戰傳統評分方式：關於自訂評分模版",
+        "FULLNAME": "rating-against-traditions",
+        "RATING": 24,
+        "COMMENTS": "0"
     }
 ]

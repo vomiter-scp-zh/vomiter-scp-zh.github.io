@@ -4,5 +4,23 @@
         "FULLNAME": "scp-zh-954",
         "RATING": 17,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-089",
+        "FULLNAME": "scp-zh-089",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-009",
+        "FULLNAME": "scp-zh-009",
+        "RATING": 20,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-020",
+        "FULLNAME": "scp-zh-020",
+        "RATING": 13,
+        "COMMENTS": "5"
     }
 ]

@@ -10,5 +10,17 @@
         "FULLNAME": "scp-zh-572",
         "RATING": 12,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-130",
+        "FULLNAME": "scp-zh-130",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-510",
+        "FULLNAME": "scp-zh-510",
+        "RATING": 10,
+        "COMMENTS": "1"
     }
 ]

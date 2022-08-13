@@ -4,5 +4,35 @@
         "FULLNAME": "scp-zh-018",
         "RATING": 9,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-401",
+        "FULLNAME": "scp-zh-401",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-003",
+        "FULLNAME": "scp-zh-003",
+        "RATING": 6,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-618",
+        "FULLNAME": "scp-zh-618",
+        "RATING": 41,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-888",
+        "FULLNAME": "scp-zh-888",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-020",
+        "FULLNAME": "scp-zh-020",
+        "RATING": 13,
+        "COMMENTS": "5"
     }
 ]

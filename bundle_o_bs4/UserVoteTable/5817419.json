@@ -4,5 +4,47 @@
         "FULLNAME": "scp-zh-255",
         "RATING": 22,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-401",
+        "FULLNAME": "scp-zh-401",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "收容。",
+        "FULLNAME": "contain-zh",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-009",
+        "FULLNAME": "scp-zh-009",
+        "RATING": 20,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "Eco-09協議",
+        "FULLNAME": "eco-09",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-618",
+        "FULLNAME": "scp-zh-618",
+        "RATING": 41,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "挑戰傳統評分方式：關於自訂評分模版",
+        "FULLNAME": "rating-against-traditions",
+        "RATING": 24,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "最好的結局",
+        "FULLNAME": "what-do-you-think",
+        "RATING": 12,
+        "COMMENTS": "3"
     }
 ]

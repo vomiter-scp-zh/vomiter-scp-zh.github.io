@@ -4,5 +4,53 @@
         "FULLNAME": "scp-zh-122",
         "RATING": 5,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-130",
+        "FULLNAME": "scp-zh-130",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "B3冷凍庫幽靈饕客",
+        "FULLNAME": "site-zh-02-eater",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "小動物簡介：Esther！",
+        "FULLNAME": "esther",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-618",
+        "FULLNAME": "scp-zh-618",
+        "RATING": 41,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-ZH-02",
+        "FULLNAME": "site-zh-02",
+        "RATING": 25,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-888",
+        "FULLNAME": "scp-zh-888",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-256",
+        "FULLNAME": "scp-zh-256",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-323",
+        "FULLNAME": "scp-zh-323",
+        "RATING": 10,
+        "COMMENTS": "3"
     }
 ]

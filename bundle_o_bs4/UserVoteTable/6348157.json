@@ -4,5 +4,11 @@
         "FULLNAME": "scp-zh-919",
         "RATING": 0,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-323",
+        "FULLNAME": "scp-zh-323",
+        "RATING": 10,
+        "COMMENTS": "3"
     }
 ]

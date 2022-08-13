@@ -76,5 +76,53 @@
         "FULLNAME": "scp-zh-421",
         "RATING": 6,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-629",
+        "FULLNAME": "scp-zh-629",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-529",
+        "FULLNAME": "scp-zh-529",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-401",
+        "FULLNAME": "scp-zh-401",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-900 - 石灰渦輪",
+        "FULLNAME": "scp-zh-900",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-882",
+        "FULLNAME": "scp-zh-882",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "木易藏書閣目錄 書-五零三 《王氏易》",
+        "FULLNAME": "wong-magical-book",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-825",
+        "FULLNAME": "scp-zh-825",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-583",
+        "FULLNAME": "scp-zh-583",
+        "RATING": 12,
+        "COMMENTS": "6"
     }
 ]
