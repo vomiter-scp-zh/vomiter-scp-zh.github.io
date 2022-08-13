@@ -138,6 +138,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "k1s10r0d的提案 - IMMOLARI",
+        "FULLNAME": "k1s10r0d-s-proposal",
+        "RATING": 33,
+        "COMMENTS": "3"
+    },
+    {
         "TITLE": "Surge的提案一",
         "FULLNAME": "surge-s-proposal-1",
         "RATING": 32,
@@ -228,6 +234,12 @@
         "COMMENTS": "19"
     },
     {
+        "TITLE": "SCP-ZH-337 - 夢工廠",
+        "FULLNAME": "scp-zh-337",
+        "RATING": 28,
+        "COMMENTS": "6"
+    },
+    {
         "TITLE": "SCP-ZH-446 - 化蟲",
         "FULLNAME": "scp-zh-446",
         "RATING": 27,
@@ -244,6 +256,12 @@
         "FULLNAME": "scp-zh-946",
         "RATING": 27,
         "COMMENTS": "13"
+    },
+    {
+        "TITLE": "兒童走失處理紀錄",
+        "FULLNAME": "snowcatflyhighhigh",
+        "RATING": 27,
+        "COMMENTS": "3"
     },
     {
         "TITLE": "SCP-ZH-310 - 異常蛋白質結構域",
@@ -484,6 +502,18 @@
         "FULLNAME": "scp-zh-144",
         "RATING": 22,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-086 - 請你別說見過我",
+        "FULLNAME": "scp-zh-086",
+        "RATING": 22,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-930 - 基輔戰鬼顯現之時",
+        "FULLNAME": "scp-zh-930",
+        "RATING": 22,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-610 - 猛爆性繁衍組織瘤",
@@ -816,6 +846,36 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-ZH-517 - One More Time, One More Chance",
+        "FULLNAME": "scp-zh-517",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-107 - 捕鳥雲",
+        "FULLNAME": "scp-zh-107",
+        "RATING": 19,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-056 - 本班機飛往彼岸",
+        "FULLNAME": "scp-zh-056",
+        "RATING": 19,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-432 - 更好的你",
+        "FULLNAME": "scp-zh-432",
+        "RATING": 19,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "虔誠神父與社畜輔導員不會撞破蒙臉上司們做羞羞的事",
+        "FULLNAME": "one-night-four-broken-hearts-in-12",
+        "RATING": 19,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-017",
         "FULLNAME": "scp-zh-017",
         "RATING": 18,
@@ -964,6 +1024,12 @@
         "FULLNAME": "scp-zh-916",
         "RATING": 18,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "025O的畫",
+        "FULLNAME": "025o-s-painting",
+        "RATING": 18,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-954 - 黃色便條紙",
@@ -1132,71 +1198,5 @@
         "FULLNAME": "red-1354",
         "RATING": 17,
         "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-ZH-950 - 綠神經",
-        "FULLNAME": "scp-zh-950",
-        "RATING": 17,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "Polaris",
-        "FULLNAME": "polaris",
-        "RATING": 17,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-ZH-613",
-        "FULLNAME": "scp-zh-613",
-        "RATING": 17,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "Ｓ之死",
-        "FULLNAME": "the-death-of-sam-or-semibreve-etc",
-        "RATING": 17,
-        "COMMENTS": "4"
-    },
-    {
-        "TITLE": "藝術創作：聖誕節雪喵",
-        "FULLNAME": "xmax-x",
-        "RATING": 17,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "曙光東啟",
-        "FULLNAME": "dawn-of-east",
-        "RATING": 17,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "退休生活",
-        "FULLNAME": "retire-from-bistro",
-        "RATING": 17,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-ZH-285 - 致命誘惑",
-        "FULLNAME": "scp-zh-285",
-        "RATING": 16,
-        "COMMENTS": "5"
-    },
-    {
-        "TITLE": "維安設施檔案：Site-ZH-25",
-        "FULLNAME": "site-zh-25",
-        "RATING": 16,
-        "COMMENTS": "3"
-    },
-    {
-        "TITLE": "木易藏書閣目錄 金-九七八 《敲頭銅碗》",
-        "FULLNAME": "yee",
-        "RATING": 16,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "Site-ZH-02 大廳",
-        "FULLNAME": "site-zh-02-front",
-        "RATING": 16,
-        "COMMENTS": "0"
     }
 ]

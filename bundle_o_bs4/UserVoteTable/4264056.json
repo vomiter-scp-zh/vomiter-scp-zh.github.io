@@ -676,5 +676,41 @@
         "FULLNAME": "scp-zh-059",
         "RATING": 19,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "k1s10r0d的提案 - IMMOLARI",
+        "FULLNAME": "k1s10r0d-s-proposal",
+        "RATING": 33,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-337 - 夢工廠",
+        "FULLNAME": "scp-zh-337",
+        "RATING": 28,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-107 - 捕鳥雲",
+        "FULLNAME": "scp-zh-107",
+        "RATING": 19,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-086 - 請你別說見過我",
+        "FULLNAME": "scp-zh-086",
+        "RATING": 22,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-073 - 巡迴演出最終站",
+        "FULLNAME": "scp-zh-073",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "一定是假的",
+        "FULLNAME": "must-be-fake",
+        "RATING": 13,
+        "COMMENTS": "0"
     }
 ]
