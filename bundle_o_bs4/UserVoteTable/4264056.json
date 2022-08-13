@@ -394,5 +394,17 @@
         "FULLNAME": "scp-zh-774",
         "RATING": 31,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-480",
+        "FULLNAME": "scp-zh-480",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "新聞快訊：若我們要達到仁慈的下場，應該遵守哪些事情",
+        "FULLNAME": "news-site-zh-81-1",
+        "RATING": 24,
+        "COMMENTS": "5"
     }
 ]

@@ -52,5 +52,17 @@
         "FULLNAME": "collection-of-the-cultural-revolution",
         "RATING": 11,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-264",
+        "FULLNAME": "scp-zh-264",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "新高山計劃、昭和十九年",
+        "FULLNAME": "new-takayama-plan",
+        "RATING": 11,
+        "COMMENTS": "6"
     }
 ]

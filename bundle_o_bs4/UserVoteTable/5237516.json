@@ -232,5 +232,29 @@
         "FULLNAME": "arkwork-3999",
         "RATING": 37,
         "COMMENTS": "8"
+    },
+    {
+        "TITLE": "SCP-ZH-200",
+        "FULLNAME": "scp-zh-200",
+        "RATING": 33,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-247 - 讀心血姬",
+        "FULLNAME": "scp-zh-247",
+        "RATING": 11,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-053",
+        "FULLNAME": "scp-zh-053",
+        "RATING": 29,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "阿爾漢格爾斯克的金童",
+        "FULLNAME": "sh-alexei",
+        "RATING": 7,
+        "COMMENTS": "2"
     }
 ]
