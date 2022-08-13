@@ -88,5 +88,53 @@
         "FULLNAME": "creator-part-zero",
         "RATING": 6,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-106-「逆模因」",
+        "FULLNAME": "scp-zh-106",
+        "RATING": 22,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-922 - 馬蘭姑娘",
+        "FULLNAME": "scp-zh-922",
+        "RATING": 24,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "藝術作品：SCP-ZH-922（k1s10r0d版）",
+        "FULLNAME": "cidal-dongi-by-k1s10r0d",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "我們都只是血肉之軀",
+        "FULLNAME": "we-are-no-more-than-mortal-souls",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-126 - 「羊」芋片袋",
+        "FULLNAME": "scp-zh-126",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "歡迎，敬啟者",
+        "FULLNAME": "multiversal-valentine",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "異聞：中港路上的野狼",
+        "FULLNAME": "wolf125again",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "沒有基金會的那時",
+        "FULLNAME": "the-time-foundation-disappeared",
+        "RATING": 23,
+        "COMMENTS": "0"
     }
 ]

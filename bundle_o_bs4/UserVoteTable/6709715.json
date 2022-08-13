@@ -58,5 +58,23 @@
         "FULLNAME": "retire-from-bistro",
         "RATING": 17,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-106-「逆模因」",
+        "FULLNAME": "scp-zh-106",
+        "RATING": 22,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-186 - 這些車從哪來?",
+        "FULLNAME": "scp-zh-186",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "歡迎，敬啟者",
+        "FULLNAME": "multiversal-valentine",
+        "RATING": 18,
+        "COMMENTS": "0"
     }
 ]

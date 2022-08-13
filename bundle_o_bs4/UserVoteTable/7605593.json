@@ -358,5 +358,23 @@
         "FULLNAME": "025o-s-painting",
         "RATING": 18,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "酷酷的傳播等級圖標",
+        "FULLNAME": "cool-spread-class-icons",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "2022愚人節主頁",
+        "FULLNAME": "soup-chicken-power",
+        "RATING": 16,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "都市傳說型異常應對部門中心頁",
+        "FULLNAME": "urban-legend-department",
+        "RATING": 16,
+        "COMMENTS": "1"
     }
 ]

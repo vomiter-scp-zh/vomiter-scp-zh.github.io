@@ -712,5 +712,23 @@
         "FULLNAME": "must-be-fake",
         "RATING": 13,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "山本研究員的ZH-922觀察日誌",
+        "FULLNAME": "romiamiad-ni-cidal",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "命懸一鴨，逃出生天",
+        "FULLNAME": "among-in-the-duck",
+        "RATING": 15,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "沒有基金會的那時",
+        "FULLNAME": "the-time-foundation-disappeared",
+        "RATING": 23,
+        "COMMENTS": "0"
     }
 ]
