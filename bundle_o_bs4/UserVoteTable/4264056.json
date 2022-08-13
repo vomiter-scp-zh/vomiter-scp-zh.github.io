@@ -340,5 +340,47 @@
         "FULLNAME": "scp-zh-044",
         "RATING": 20,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-600",
+        "FULLNAME": "scp-zh-600",
+        "RATING": 21,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "雕刻作品：聖夜相守",
+        "FULLNAME": "handcrafts",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-098 - 「寧靜」",
+        "FULLNAME": "scp-zh-098",
+        "RATING": 16,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-108",
+        "FULLNAME": "scp-zh-108",
+        "RATING": 19,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "不曾停歇",
+        "FULLNAME": "88-step",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "極光的顏色",
+        "FULLNAME": "color-of-aurora",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-261",
+        "FULLNAME": "scp-zh-261",
+        "RATING": 10,
+        "COMMENTS": "1"
     }
 ]

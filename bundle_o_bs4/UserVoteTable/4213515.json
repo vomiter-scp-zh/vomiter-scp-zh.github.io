@@ -478,5 +478,83 @@
         "FULLNAME": "scp-zh-044",
         "RATING": 20,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "驟雨",
+        "FULLNAME": "downpour",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "尋獲地點編號：001",
+        "FULLNAME": "article-number-001",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Off Work",
+        "FULLNAME": "pry",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Viken-K的模因標示回收場",
+        "FULLNAME": "viken-k-arts",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "安布羅斯餐廳-伊薩科夫號分店 (節日限定)",
+        "FULLNAME": "ambrose-isakov",
+        "RATING": 28,
+        "COMMENTS": "9"
+    },
+    {
+        "TITLE": "SCP-ZH-278 - 你必須信任的門衛",
+        "FULLNAME": "scp-zh-278",
+        "RATING": 14,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "如何使用異常分級簡表ALT版",
+        "FULLNAME": "how-to-use-acs-alt",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-860 - dado的「发」財藥",
+        "FULLNAME": "scp-zh-860",
+        "RATING": 33,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "行動計劃 第叁捌肆字號",
+        "FULLNAME": "nsb8-384",
+        "RATING": 22,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-807 - 春節加班",
+        "FULLNAME": "scp-zh-807",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-168",
+        "FULLNAME": "scp-zh-168",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "行動簡報 第916字號",
+        "FULLNAME": "nsb8-916",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-051 - 請給我一點溫暖",
+        "FULLNAME": "scp-zh-051",
+        "RATING": 16,
+        "COMMENTS": "1"
     }
 ]

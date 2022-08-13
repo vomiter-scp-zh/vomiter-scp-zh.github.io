@@ -46,5 +46,23 @@
         "FULLNAME": "fridge",
         "RATING": 11,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-051 - 請給我一點溫暖",
+        "FULLNAME": "scp-zh-051",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "不曾停歇",
+        "FULLNAME": "88-step",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "極光的顏色",
+        "FULLNAME": "color-of-aurora",
+        "RATING": 15,
+        "COMMENTS": "1"
     }
 ]

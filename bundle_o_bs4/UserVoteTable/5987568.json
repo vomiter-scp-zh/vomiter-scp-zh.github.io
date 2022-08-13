@@ -76,5 +76,29 @@
         "FULLNAME": "christmas-marten",
         "RATING": 14,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "年獸爭奪戰",
+        "FULLNAME": "year-critical-strike",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-60053-J - HONK",
+        "FULLNAME": "scp-zh-60053-j",
+        "RATING": 43,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "刺蝟筆記本：ZH分部動物合輯",
+        "FULLNAME": "hedgehog-note-a",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "最後一根菸",
+        "FULLNAME": "last-one-cigarette",
+        "RATING": 14,
+        "COMMENTS": "1"
     }
 ]

@@ -148,5 +148,35 @@
         "FULLNAME": "scp-zh-025",
         "RATING": 15,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-600",
+        "FULLNAME": "scp-zh-600",
+        "RATING": 21,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Off Work",
+        "FULLNAME": "pry",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-099",
+        "FULLNAME": "scp-zh-099",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-60053-J - HONK",
+        "FULLNAME": "scp-zh-60053-j",
+        "RATING": 43,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-051 - 請給我一點溫暖",
+        "FULLNAME": "scp-zh-051",
+        "RATING": 16,
+        "COMMENTS": "1"
     }
 ]

@@ -106,5 +106,89 @@
         "FULLNAME": "scp-zh-400",
         "RATING": 14,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "驟雨",
+        "FULLNAME": "downpour",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "第一號 木易藏書閣的捐贈品",
+        "FULLNAME": "first-mu-yi-donation",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "尋獲地點編號：001",
+        "FULLNAME": "article-number-001",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Off Work",
+        "FULLNAME": "pry",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "弦音未止，餘芳猶存",
+        "FULLNAME": "keepthere-art",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "物理少年",
+        "FULLNAME": "science-confusion-puberty",
+        "RATING": 16,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "Viken-K的模因標示回收場",
+        "FULLNAME": "viken-k-arts",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-098 - 「寧靜」",
+        "FULLNAME": "scp-zh-098",
+        "RATING": 16,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-860 - dado的「发」財藥",
+        "FULLNAME": "scp-zh-860",
+        "RATING": 33,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-60053-J - HONK",
+        "FULLNAME": "scp-zh-60053-j",
+        "RATING": 43,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "赫勒·富曼的展出：連體舞獅",
+        "FULLNAME": "new-year-lion",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "刺蝟筆記本：ZH分部動物合輯",
+        "FULLNAME": "hedgehog-note-a",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "最後一根菸",
+        "FULLNAME": "last-one-cigarette",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "有關批准使用模因製劑協助對鵝形惡魔實體進行驅魔的申請",
+        "FULLNAME": "grant-request-for-utilization-of-memetic-agent-to-assist-per",
+        "RATING": 17,
+        "COMMENTS": "1"
     }
 ]

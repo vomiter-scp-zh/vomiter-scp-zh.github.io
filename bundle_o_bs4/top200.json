@@ -24,6 +24,12 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "SCP-ZH-60053-J - HONK",
+        "FULLNAME": "scp-zh-60053-j",
+        "RATING": 43,
+        "COMMENTS": "7"
+    },
+    {
         "TITLE": "SCP-ZH-618",
         "FULLNAME": "scp-zh-618",
         "RATING": 41,
@@ -60,6 +66,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-ZH-860 - dado的「发」財藥",
+        "FULLNAME": "scp-zh-860",
+        "RATING": 33,
+        "COMMENTS": "3"
+    },
+    {
         "TITLE": "假如你來到這個宇宙請保持冷靜",
         "FULLNAME": "you-need-icecream-in-summer",
         "RATING": 31,
@@ -70,6 +82,12 @@
         "FULLNAME": "scp-zh-087",
         "RATING": 30,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "安布羅斯餐廳-伊薩科夫號分店 (節日限定)",
+        "FULLNAME": "ambrose-isakov",
+        "RATING": 28,
+        "COMMENTS": "9"
     },
     {
         "TITLE": "SCP-ZH-310 - 異常蛋白質結構域",
@@ -114,6 +132,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "維安設施檔案：Site-ZH-12",
+        "FULLNAME": "site-zh-12",
+        "RATING": 23,
+        "COMMENTS": "3"
+    },
+    {
         "TITLE": "SCP-ZH-255",
         "FULLNAME": "scp-zh-255",
         "RATING": 22,
@@ -150,6 +174,12 @@
         "COMMENTS": "7"
     },
     {
+        "TITLE": "行動計劃 第叁捌肆字號",
+        "FULLNAME": "nsb8-384",
+        "RATING": 22,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-ZH-610 - 猛爆性繁衍組織瘤",
         "FULLNAME": "scp-zh-610",
         "RATING": 21,
@@ -166,6 +196,12 @@
         "FULLNAME": "so-i-said-that-dinner",
         "RATING": 21,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-600",
+        "FULLNAME": "scp-zh-600",
+        "RATING": 21,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-009",
@@ -252,6 +288,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-ZH-108",
+        "FULLNAME": "scp-zh-108",
+        "RATING": 19,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-017",
         "FULLNAME": "scp-zh-017",
         "RATING": 18,
@@ -274,6 +316,18 @@
         "FULLNAME": "site-zh-81",
         "RATING": 18,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Off Work",
+        "FULLNAME": "pry",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "雕刻作品：聖夜相守",
+        "FULLNAME": "handcrafts",
+        "RATING": 18,
+        "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-ZH-954 - 黃色便條紙",
@@ -334,6 +388,12 @@
         "FULLNAME": "duck-s-xmas",
         "RATING": 17,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "有關批准使用模因製劑協助對鵝形惡魔實體進行驅魔的申請",
+        "FULLNAME": "grant-request-for-utilization-of-memetic-agent-to-assist-per",
+        "RATING": 17,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-285 - 致命誘惑",
@@ -400,6 +460,24 @@
         "FULLNAME": "scp-zh-216",
         "RATING": 16,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "物理少年",
+        "FULLNAME": "science-confusion-puberty",
+        "RATING": 16,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-098 - 「寧靜」",
+        "FULLNAME": "scp-zh-098",
+        "RATING": 16,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-051 - 請給我一點溫暖",
+        "FULLNAME": "scp-zh-051",
+        "RATING": 16,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-252",
@@ -498,6 +576,24 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "年獸爭奪戰",
+        "FULLNAME": "year-critical-strike",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "刺蝟筆記本：ZH分部動物合輯",
+        "FULLNAME": "hedgehog-note-a",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "極光的顏色",
+        "FULLNAME": "color-of-aurora",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-ZH-229",
         "FULLNAME": "scp-zh-229",
         "RATING": 14,
@@ -582,6 +678,36 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "貓耳日",
+        "FULLNAME": "cat-day",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-097",
+        "FULLNAME": "scp-zh-097",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-278 - 你必須信任的門衛",
+        "FULLNAME": "scp-zh-278",
+        "RATING": 14,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "最後一根菸",
+        "FULLNAME": "last-one-cigarette",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "洗標：橘3041-Dr. Owen的實驗袍",
+        "FULLNAME": "owens-clothes",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-882",
         "FULLNAME": "scp-zh-882",
         "RATING": 13,
@@ -664,6 +790,36 @@
         "FULLNAME": "the-moon-voice-1",
         "RATING": 13,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "驟雨",
+        "FULLNAME": "downpour",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "已被廢除的國安局第八處 中心頁",
+        "FULLNAME": "old-nsb8-hub",
+        "RATING": 13,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-136 - 仙女木之森",
+        "FULLNAME": "scp-zh-136",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "洗標：藍2020-白布的唐人裝",
+        "FULLNAME": "blue-2020",
+        "RATING": 13,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "不曾停歇",
+        "FULLNAME": "88-step",
+        "RATING": 13,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-253",
@@ -816,6 +972,36 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "圓之夢，夢中之黃不是吉祥",
+        "FULLNAME": "no-cooked-yolk-is-life",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "尋獲地點補遺：編號001",
+        "FULLNAME": "a-mysterious-road",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "弦音未止，餘芳猶存",
+        "FULLNAME": "keepthere-art",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-591",
+        "FULLNAME": "scp-zh-591",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-202",
+        "FULLNAME": "scp-zh-202",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "木易藏書閣 中心頁",
         "FULLNAME": "mu-yi-hub",
         "RATING": 11,
@@ -900,6 +1086,48 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "藝術紀錄：這些寧靜的日子。",
+        "FULLNAME": "art-for-3519",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "第一號 木易藏書閣的捐贈品",
+        "FULLNAME": "first-mu-yi-donation",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Viken-K的模因標示回收場",
+        "FULLNAME": "viken-k-arts",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-099",
+        "FULLNAME": "scp-zh-099",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "赫勒·富曼的展出：連體舞獅",
+        "FULLNAME": "new-year-lion",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-168",
+        "FULLNAME": "scp-zh-168",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "天殘月部份藏品 (WSGK Q30D75)",
+        "FULLNAME": "collection-of-the-cultural-revolution",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-ZH-251",
         "FULLNAME": "scp-zh-251",
         "RATING": 10,
@@ -970,233 +1198,5 @@
         "FULLNAME": "blue-9102",
         "RATING": 10,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-080",
-        "FULLNAME": "scp-zh-080",
-        "RATING": 10,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-201 - 膨大的飢餓",
-        "FULLNAME": "scp-zh-201",
-        "RATING": 10,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "認識段落寫作",
-        "FULLNAME": "understanding-paragraph",
-        "RATING": 10,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "皇家香港警察隊零號專隊 中心頁",
-        "FULLNAME": "zero-team-hub",
-        "RATING": 10,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "Ctrl Z博士的SCP記錄：SCP-049瘟疫醫生",
-        "FULLNAME": "hiiambangyen",
-        "RATING": 10,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "裂變序言",
-        "FULLNAME": "operation-nucleon-bank-run-1",
-        "RATING": 10,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "Ctrl Z博士的SCP記錄：SCP-087 樓梯間",
-        "FULLNAME": "ismeagainbangyen",
-        "RATING": 10,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "Ctrl Z博士的SCP記錄：SCP-●●|●●●●●|●●|●",
-        "FULLNAME": "yenney",
-        "RATING": 10,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "Ctrl Z博士的SCP記錄：SCP-2295 有著拼布心臟的熊",
-        "FULLNAME": "bangyen2295",
-        "RATING": 10,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-217",
-        "FULLNAME": "scp-zh-217",
-        "RATING": 10,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "項目等級：仙度瑞拉",
-        "FULLNAME": "cinderella",
-        "RATING": 10,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-959 - 桑格拉斯-阿比斯莫式分裂",
-        "FULLNAME": "scp-zh-959",
-        "RATING": 10,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "尋獲物品編號：065",
-        "FULLNAME": "article-number-065",
-        "RATING": 10,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "查看寄件備份。",
-        "FULLNAME": "something-you-cant-forget",
-        "RATING": 10,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-018",
-        "FULLNAME": "scp-zh-018",
-        "RATING": 9,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-ZH-401",
-        "FULLNAME": "scp-zh-401",
-        "RATING": 9,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "白澤重生計劃-2008",
-        "FULLNAME": "2008",
-        "RATING": 9,
-        "COMMENTS": "3"
-    },
-    {
-        "TITLE": "SCP-ZH-127",
-        "FULLNAME": "scp-zh-127",
-        "RATING": 9,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-004",
-        "FULLNAME": "scp-zh-004",
-        "RATING": 9,
-        "COMMENTS": "5"
-    },
-    {
-        "TITLE": "名以為你的遺跡–錯肩",
-        "FULLNAME": "ruins-of-your-memories-1",
-        "RATING": 9,
-        "COMMENTS": "7"
-    },
-    {
-        "TITLE": "SCP-ZH-720",
-        "FULLNAME": "scp-zh-720",
-        "RATING": 9,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "無月之夜",
-        "FULLNAME": "no-moon-night",
-        "RATING": 9,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "NSB-8新進人員教程: 何謂colony",
-        "FULLNAME": "nsb8-teach-colony",
-        "RATING": 9,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "血跡-下",
-        "FULLNAME": "bloodstain-2",
-        "RATING": 9,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "遠東零號專隊卷宗：E-0249",
-        "FULLNAME": "e-0249",
-        "RATING": 9,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "Ctrl Z博士的SCP記錄：SCP-076 亞伯",
-        "FULLNAME": "heyismebangyen",
-        "RATING": 9,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "香港特區異常政治組織資料：茶嶺民生關注組",
-        "FULLNAME": "concern-group-for-cha-ling-people-s-livelihood",
-        "RATING": 9,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-272 - 望地月岩",
-        "FULLNAME": "scp-zh-272",
-        "RATING": 9,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "事件代號：核裂擠兌-狼嚎",
-        "FULLNAME": "blackwolf-may-cry",
-        "RATING": 9,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "跑腿",
-        "FULLNAME": "run-errands",
-        "RATING": 9,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-711",
-        "FULLNAME": "scp-zh-711",
-        "RATING": 9,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "鄉間小徑",
-        "FULLNAME": "dreamcatcher",
-        "RATING": 9,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "調查中，非請勿入",
-        "FULLNAME": "under-investigation-and-keep-out-of-here",
-        "RATING": 9,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "回憶虹彩—參賽訪談：淵夢",
-        "FULLNAME": "memories-in-iris-abyssdream",
-        "RATING": 9,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "Dr.Ray的異常項目分級圖標 - Apollyon",
-        "FULLNAME": "ray-s-logo-apollyon",
-        "RATING": 9,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-655",
-        "FULLNAME": "scp-zh-655",
-        "RATING": 8,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-ZH-953 - 通信池",
-        "FULLNAME": "scp-zh-953",
-        "RATING": 8,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-529",
-        "FULLNAME": "scp-zh-529",
-        "RATING": 8,
-        "COMMENTS": "2"
     }
 ]

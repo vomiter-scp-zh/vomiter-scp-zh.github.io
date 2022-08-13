@@ -46,5 +46,29 @@
         "FULLNAME": "scp-zh-026",
         "RATING": 7,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-ZH-12",
+        "FULLNAME": "site-zh-12",
+        "RATING": 23,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-097",
+        "FULLNAME": "scp-zh-097",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "如何使用異常分級簡表ALT版",
+        "FULLNAME": "how-to-use-acs-alt",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-261",
+        "FULLNAME": "scp-zh-261",
+        "RATING": 10,
+        "COMMENTS": "1"
     }
 ]
