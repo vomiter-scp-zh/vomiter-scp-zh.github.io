@@ -172,5 +172,59 @@
         "FULLNAME": "scp-zh-925",
         "RATING": 12,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "萬華鏡中的貓",
+        "FULLNAME": "cats-in-kaleidoscopes",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "孩子的世界",
+        "FULLNAME": "childhood",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-259",
+        "FULLNAME": "scp-zh-259",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-815",
+        "FULLNAME": "scp-zh-815",
+        "RATING": 35,
+        "COMMENTS": "8"
+    },
+    {
+        "TITLE": "有關批准開發從基準世界連接至異常空間水管之申請",
+        "FULLNAME": "water-pipe",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-913 - 回家月餅",
+        "FULLNAME": "scp-zh-913",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-272 - 望地月岩",
+        "FULLNAME": "scp-zh-272",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "木易藏書閣目錄 木-一一五 《望月箸》",
+        "FULLNAME": "mu-yi-115",
+        "RATING": 16,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-217",
+        "FULLNAME": "scp-zh-217",
+        "RATING": 10,
+        "COMMENTS": "0"
     }
 ]

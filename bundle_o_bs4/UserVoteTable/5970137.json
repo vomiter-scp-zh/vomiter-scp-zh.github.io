@@ -52,5 +52,35 @@
         "FULLNAME": "scp-zh-254",
         "RATING": 11,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-259",
+        "FULLNAME": "scp-zh-259",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-041",
+        "FULLNAME": "scp-zh-041",
+        "RATING": 19,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-564",
+        "FULLNAME": "scp-zh-564",
+        "RATING": 5,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-9288-EX",
+        "FULLNAME": "scp-zh-9288-ex",
+        "RATING": 44,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-258",
+        "FULLNAME": "scp-zh-258",
+        "RATING": 13,
+        "COMMENTS": "0"
     }
 ]

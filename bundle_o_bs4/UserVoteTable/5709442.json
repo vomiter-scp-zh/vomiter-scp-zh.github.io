@@ -10,5 +10,23 @@
         "FULLNAME": "scp-zh-118",
         "RATING": 6,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-087 - 棄稿",
+        "FULLNAME": "scp-zh-087",
+        "RATING": 30,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-998 - 現象學",
+        "FULLNAME": "scp-zh-998",
+        "RATING": 36,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-ZH-81",
+        "FULLNAME": "site-zh-81",
+        "RATING": 18,
+        "COMMENTS": "0"
     }
 ]

@@ -10,5 +10,17 @@
         "FULLNAME": "site-zh-25",
         "RATING": 16,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-041",
+        "FULLNAME": "scp-zh-041",
+        "RATING": 19,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-564",
+        "FULLNAME": "scp-zh-564",
+        "RATING": 5,
+        "COMMENTS": "7"
     }
 ]

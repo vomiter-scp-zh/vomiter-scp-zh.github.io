@@ -28,5 +28,23 @@
         "FULLNAME": "you-need-icecream-in-summer",
         "RATING": 31,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-217",
+        "FULLNAME": "scp-zh-217",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-998 - 現象學",
+        "FULLNAME": "scp-zh-998",
+        "RATING": 36,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-120",
+        "FULLNAME": "scp-zh-120",
+        "RATING": 38,
+        "COMMENTS": "4"
     }
 ]

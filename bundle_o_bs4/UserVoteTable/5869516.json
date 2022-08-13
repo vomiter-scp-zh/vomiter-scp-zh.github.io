@@ -10,5 +10,17 @@
         "FULLNAME": "operation-nucleon-bank-899",
         "RATING": 12,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-100",
+        "FULLNAME": "scp-zh-0100",
+        "RATING": 23,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-9288-EX",
+        "FULLNAME": "scp-zh-9288-ex",
+        "RATING": 44,
+        "COMMENTS": "5"
     }
 ]

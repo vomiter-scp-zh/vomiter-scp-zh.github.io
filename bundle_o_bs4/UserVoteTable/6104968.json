@@ -4,5 +4,17 @@
         "FULLNAME": "a-change",
         "RATING": 13,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-100",
+        "FULLNAME": "scp-zh-100",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "山姆的ZH分部角色紀錄本",
+        "FULLNAME": "doodles-from-sam",
+        "RATING": 24,
+        "COMMENTS": "3"
     }
 ]

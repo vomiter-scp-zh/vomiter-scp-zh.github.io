@@ -94,5 +94,53 @@
         "FULLNAME": "scp-zh-045",
         "RATING": 18,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-036 - 茶癮浣熊",
+        "FULLNAME": "scp-zh-036",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "孩子的世界",
+        "FULLNAME": "childhood",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "一如往常",
+        "FULLNAME": "v",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-070",
+        "FULLNAME": "scp-zh-070",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-043",
+        "FULLNAME": "scp-zh-043",
+        "RATING": 4,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-047",
+        "FULLNAME": "scp-zh-047",
+        "RATING": 12,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-010 - 迷走神經寄生體",
+        "FULLNAME": "scp-zh-010",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-120",
+        "FULLNAME": "scp-zh-120",
+        "RATING": 38,
+        "COMMENTS": "4"
     }
 ]

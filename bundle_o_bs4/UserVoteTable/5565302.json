@@ -154,5 +154,59 @@
         "FULLNAME": "personnel-and-character-dossier-zh",
         "RATING": 16,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-913 - 回家月餅",
+        "FULLNAME": "scp-zh-913",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-217",
+        "FULLNAME": "scp-zh-217",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-087 - 棄稿",
+        "FULLNAME": "scp-zh-087",
+        "RATING": 30,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-070",
+        "FULLNAME": "scp-zh-070",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-998 - 現象學",
+        "FULLNAME": "scp-zh-998",
+        "RATING": 36,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-301",
+        "FULLNAME": "scp-zh-301",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-9288-EX",
+        "FULLNAME": "scp-zh-9288-ex",
+        "RATING": 44,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-120",
+        "FULLNAME": "scp-zh-120",
+        "RATING": 38,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "我在這裡一陣子了",
+        "FULLNAME": "been-a-while",
+        "RATING": 17,
+        "COMMENTS": "1"
     }
 ]

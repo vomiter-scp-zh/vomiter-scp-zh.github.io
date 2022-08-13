@@ -340,5 +340,41 @@
         "FULLNAME": "the-truth-is-usually-invisible",
         "RATING": 12,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-070",
+        "FULLNAME": "scp-zh-070",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-100",
+        "FULLNAME": "scp-zh-0100",
+        "RATING": 23,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "籠中鳥",
+        "FULLNAME": "caged-bird",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-ZH-81",
+        "FULLNAME": "site-zh-81",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-9288-EX",
+        "FULLNAME": "scp-zh-9288-ex",
+        "RATING": 44,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-258",
+        "FULLNAME": "scp-zh-258",
+        "RATING": 13,
+        "COMMENTS": "0"
     }
 ]

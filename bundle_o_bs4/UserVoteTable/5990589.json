@@ -28,5 +28,23 @@
         "FULLNAME": "personnel-and-character-dossier-zh",
         "RATING": 16,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-815",
+        "FULLNAME": "scp-zh-815",
+        "RATING": 35,
+        "COMMENTS": "8"
+    },
+    {
+        "TITLE": "有關批准開發從基準世界連接至異常空間水管之申請",
+        "FULLNAME": "water-pipe",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "我在這裡一陣子了",
+        "FULLNAME": "been-a-while",
+        "RATING": 17,
+        "COMMENTS": "1"
     }
 ]

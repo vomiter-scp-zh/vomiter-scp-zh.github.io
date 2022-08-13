@@ -22,5 +22,23 @@
         "FULLNAME": "laundry-of-miya",
         "RATING": 12,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-998 - 現象學",
+        "FULLNAME": "scp-zh-998",
+        "RATING": 36,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-9288-EX",
+        "FULLNAME": "scp-zh-9288-ex",
+        "RATING": 44,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "核裂擠兌中心頁",
+        "FULLNAME": "operation-nucleon-bank",
+        "RATING": 15,
+        "COMMENTS": "0"
     }
 ]

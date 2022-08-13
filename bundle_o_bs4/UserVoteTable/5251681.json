@@ -40,5 +40,41 @@
         "FULLNAME": "the-bubble-in-the-tide",
         "RATING": 7,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-815",
+        "FULLNAME": "scp-zh-815",
+        "RATING": 35,
+        "COMMENTS": "8"
+    },
+    {
+        "TITLE": "中秋節的過勞站點與NB區研究員與一群異常浣熊",
+        "FULLNAME": "nb",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "安保設施檔案：Site-ZH-50",
+        "FULLNAME": "site-zh-50",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "處銀白之中，於虹光之間",
+        "FULLNAME": "in-the-snow-in-the-iris",
+        "RATING": 20,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "花語：檉柳",
+        "FULLNAME": "tamaricaceae",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-9288-EX",
+        "FULLNAME": "scp-zh-9288-ex",
+        "RATING": 44,
+        "COMMENTS": "5"
     }
 ]

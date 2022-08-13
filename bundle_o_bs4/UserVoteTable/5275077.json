@@ -268,5 +268,47 @@
         "FULLNAME": "bangyen343",
         "RATING": 6,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-093 紅海物件",
+        "FULLNAME": "bangyen093",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-036 - 茶癮浣熊",
+        "FULLNAME": "scp-zh-036",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "萬華鏡中的貓",
+        "FULLNAME": "cats-in-kaleidoscopes",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-259",
+        "FULLNAME": "scp-zh-259",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "洗標：橘8963-許靜池的絲質睡衣",
+        "FULLNAME": "orange-8963",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "第〇二二號 兩儀通",
+        "FULLNAME": "collected-land-no022",
+        "RATING": 14,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "驚蟄",
+        "FULLNAME": "snake-s-wake",
+        "RATING": 11,
+        "COMMENTS": "0"
     }
 ]
