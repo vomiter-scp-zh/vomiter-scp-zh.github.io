@@ -78,6 +78,12 @@
         "COMMENTS": "8"
     },
     {
+        "TITLE": "異常項目紀錄：「防暴警察頭盔」",
+        "FULLNAME": "anomalous-item-hk-police-helmet",
+        "RATING": 35,
+        "COMMENTS": "5"
+    },
+    {
         "TITLE": "你會感到後悔嗎？",
         "FULLNAME": "what-are-you-waiting-for-just-join-goc-dude",
         "RATING": 34,
@@ -336,6 +342,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-ZH-034",
+        "FULLNAME": "scp-zh-034",
+        "RATING": 23,
+        "COMMENTS": "3"
+    },
+    {
         "TITLE": "SCP-ZH-255",
         "FULLNAME": "scp-zh-255",
         "RATING": 22,
@@ -414,6 +426,12 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "SCP-ZH-096 - 紅移破滅",
+        "FULLNAME": "scp-zh-096",
+        "RATING": 22,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "SCP-ZH-610 - 猛爆性繁衍組織瘤",
         "FULLNAME": "scp-zh-610",
         "RATING": 21,
@@ -478,6 +496,12 @@
         "FULLNAME": "canteen-date",
         "RATING": 21,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-032",
+        "FULLNAME": "scp-zh-032",
+        "RATING": 21,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-009",
@@ -594,6 +618,24 @@
         "COMMENTS": "7"
     },
     {
+        "TITLE": "SCP-ZH-037",
+        "FULLNAME": "scp-zh-037",
+        "RATING": 20,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "天亮前的戀愛故事",
+        "FULLNAME": "taisho150-lovestorybeforedawn",
+        "RATING": 20,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-060-J - Re:在音竹宇宙重生的煩人美少女到底是甚麼東西呀?!",
+        "FULLNAME": "scp-zh-060-j",
+        "RATING": 20,
+        "COMMENTS": "10"
+    },
+    {
         "TITLE": "SCP基金會不知道的那些事件",
         "FULLNAME": "ocd-virus01",
         "RATING": 19,
@@ -676,6 +718,18 @@
         "FULLNAME": "scp-zh-903",
         "RATING": 19,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-112 - 祝你生日快樂",
+        "FULLNAME": "scp-zh-112",
+        "RATING": 19,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-128",
+        "FULLNAME": "scp-zh-128",
+        "RATING": 19,
+        "COMMENTS": "3"
     },
     {
         "TITLE": "SCP-ZH-017",
@@ -788,6 +842,18 @@
     {
         "TITLE": "花語：蒲公英",
         "FULLNAME": "taraxacum",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-1000-EX",
+        "FULLNAME": "scp-zh-1000-ex",
+        "RATING": 18,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-243",
+        "FULLNAME": "scp-zh-243",
         "RATING": 18,
         "COMMENTS": "0"
     },
@@ -1132,71 +1198,5 @@
         "FULLNAME": "scp-zh-426",
         "RATING": 16,
         "COMMENTS": "17"
-    },
-    {
-        "TITLE": "GOI萌娘化-下午茶會",
-        "FULLNAME": "goi",
-        "RATING": 16,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "殘影、殘響及殘燭（或稱為██、██及██）",
-        "FULLNAME": "zycie-zhizn-life",
-        "RATING": 16,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "非相關人員禁止閱覽",
-        "FULLNAME": "adult:unrelated-person-do-not-read",
-        "RATING": 16,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "節慶的顏色",
-        "FULLNAME": "festive-colors",
-        "RATING": 16,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-ZH-090 - 毆打皮納塔！",
-        "FULLNAME": "scp-zh-090",
-        "RATING": 16,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "表層變動",
-        "FULLNAME": "one-of-the-secrets",
-        "RATING": 16,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-ZH-204",
-        "FULLNAME": "scp-zh-204",
-        "RATING": 16,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "Dr. Bales的日常小品集錦 二",
-        "FULLNAME": "bales-s-daily-2",
-        "RATING": 16,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "2010年的那幾個實習生",
-        "FULLNAME": "source-of-chaos",
-        "RATING": 16,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "後現代基金會同人戀愛向輕小說",
-        "FULLNAME": "k1s10r0d-april-fool-project-2021",
-        "RATING": 16,
-        "COMMENTS": "5"
-    },
-    {
-        "TITLE": "山姆的ZH分部項目紀錄本",
-        "FULLNAME": "samscript-scp-artwork",
-        "RATING": 16,
-        "COMMENTS": "1"
     }
 ]

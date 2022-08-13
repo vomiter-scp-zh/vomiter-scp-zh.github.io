@@ -346,5 +346,53 @@
         "FULLNAME": "adult:scp-zh-338",
         "RATING": 15,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-614 - 4D粽子",
+        "FULLNAME": "scp-zh-614",
+        "RATING": 11,
+        "COMMENTS": "8"
+    },
+    {
+        "TITLE": "SCP-ZH-620 - 瘟疫燃燒於生命之泉",
+        "FULLNAME": "scp-zh-620",
+        "RATING": 16,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-032",
+        "FULLNAME": "scp-zh-032",
+        "RATING": 21,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-0601-J",
+        "FULLNAME": "scp-zh-0601-j",
+        "RATING": 15,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-096 - 紅移破滅",
+        "FULLNAME": "scp-zh-096",
+        "RATING": 22,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-1000-EX",
+        "FULLNAME": "scp-zh-1000-ex",
+        "RATING": 18,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-128",
+        "FULLNAME": "scp-zh-128",
+        "RATING": 19,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-377 - 海托世的捐血車",
+        "FULLNAME": "scp-zh-377",
+        "RATING": 14,
+        "COMMENTS": "4"
     }
 ]

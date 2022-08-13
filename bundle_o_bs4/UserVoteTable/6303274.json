@@ -256,5 +256,23 @@
         "FULLNAME": "scp-zh-231",
         "RATING": 9,
         "COMMENTS": "9"
+    },
+    {
+        "TITLE": "SCP-ZH-390 - 臺灣寫作測驗",
+        "FULLNAME": "scp-zh-390",
+        "RATING": 9,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-096 - 紅移破滅",
+        "FULLNAME": "scp-zh-096",
+        "RATING": 22,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "異常項目紀錄：「防暴警察頭盔」",
+        "FULLNAME": "anomalous-item-hk-police-helmet",
+        "RATING": 35,
+        "COMMENTS": "5"
     }
 ]

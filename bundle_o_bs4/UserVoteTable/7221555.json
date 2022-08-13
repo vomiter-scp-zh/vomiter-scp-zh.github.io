@@ -34,5 +34,41 @@
         "FULLNAME": "scp-zh-903",
         "RATING": 19,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-614 - 4D粽子",
+        "FULLNAME": "scp-zh-614",
+        "RATING": 11,
+        "COMMENTS": "8"
+    },
+    {
+        "TITLE": "SCP-ZH-032",
+        "FULLNAME": "scp-zh-032",
+        "RATING": 21,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-571 - 不可視的追跡者",
+        "FULLNAME": "scp-zh-571",
+        "RATING": 12,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-112 - 祝你生日快樂",
+        "FULLNAME": "scp-zh-112",
+        "RATING": 19,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-1000-EX",
+        "FULLNAME": "scp-zh-1000-ex",
+        "RATING": 18,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-243",
+        "FULLNAME": "scp-zh-243",
+        "RATING": 18,
+        "COMMENTS": "0"
     }
 ]

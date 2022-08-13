@@ -28,5 +28,17 @@
         "FULLNAME": "the-ss-vs-ss",
         "RATING": 28,
         "COMMENTS": "19"
+    },
+    {
+        "TITLE": "SCP-ZH-096解密",
+        "FULLNAME": "scp-zh-096-declassification",
+        "RATING": 16,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-1000-EX",
+        "FULLNAME": "scp-zh-1000-ex",
+        "RATING": 18,
+        "COMMENTS": "5"
     }
 ]

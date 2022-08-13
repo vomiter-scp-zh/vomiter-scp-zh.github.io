@@ -2728,5 +2728,137 @@
         "FULLNAME": "nsb8-hub",
         "RATING": 13,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "2021 夏季競賽 主題《異聞錄》",
+        "FULLNAME": "summer-contest-2021",
+        "RATING": 13,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-032",
+        "FULLNAME": "scp-zh-032",
+        "RATING": 21,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-571 - 不可視的追跡者",
+        "FULLNAME": "scp-zh-571",
+        "RATING": 12,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-034",
+        "FULLNAME": "scp-zh-034",
+        "RATING": 23,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "0226號病患",
+        "FULLNAME": "patient0226",
+        "RATING": 8,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-037",
+        "FULLNAME": "scp-zh-037",
+        "RATING": 20,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-112 - 祝你生日快樂",
+        "FULLNAME": "scp-zh-112",
+        "RATING": 19,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-684 - Kangic",
+        "FULLNAME": "scp-zh-684",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "探訪安地羅茲路斯",
+        "FULLNAME": "visit-eindeloze-lucht",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-096解密",
+        "FULLNAME": "scp-zh-096-declassification",
+        "RATING": 16,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-339",
+        "FULLNAME": "scp-zh-339",
+        "RATING": 16,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-1000-EX",
+        "FULLNAME": "scp-zh-1000-ex",
+        "RATING": 18,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "中港路上沒有人只有野狼",
+        "FULLNAME": "wolf-125",
+        "RATING": 16,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-409",
+        "FULLNAME": "scp-zh-409",
+        "RATING": 12,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-635",
+        "FULLNAME": "scp-zh-635",
+        "RATING": 7,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-299 - 大者長千里，小者數十分。",
+        "FULLNAME": "scp-zh-299",
+        "RATING": 12,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "異常項目紀錄：「防暴警察頭盔」",
+        "FULLNAME": "anomalous-item-hk-police-helmet",
+        "RATING": 35,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-067 - 藍圖",
+        "FULLNAME": "scp-zh-067",
+        "RATING": 10,
+        "COMMENTS": "9"
+    },
+    {
+        "TITLE": "SCP-ZH-177 - 深井",
+        "FULLNAME": "scp-zh-177",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "69年的不堪回憶",
+        "FULLNAME": "year-69-of-unbearable-memories",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "我的老家有點怪",
+        "FULLNAME": "parawatch-my-hometown-was-a-miracle",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "單行旅程",
+        "FULLNAME": "singlelinetrip",
+        "RATING": 7,
+        "COMMENTS": "0"
     }
 ]

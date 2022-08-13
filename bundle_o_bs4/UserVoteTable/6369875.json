@@ -58,5 +58,107 @@
         "FULLNAME": "scp-zh-270",
         "RATING": 8,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-709",
+        "FULLNAME": "scp-zh-709",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "2021 夏季競賽 主題《異聞錄》",
+        "FULLNAME": "summer-contest-2021",
+        "RATING": 13,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-032",
+        "FULLNAME": "scp-zh-032",
+        "RATING": 21,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-198",
+        "FULLNAME": "scp-zh-198",
+        "RATING": 3,
+        "COMMENTS": "15"
+    },
+    {
+        "TITLE": "親迎輕盈之營火瑩",
+        "FULLNAME": "bt-fly",
+        "RATING": 13,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-034",
+        "FULLNAME": "scp-zh-034",
+        "RATING": 23,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-0601-J",
+        "FULLNAME": "scp-zh-0601-j",
+        "RATING": 15,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-1000-EX",
+        "FULLNAME": "scp-zh-1000-ex",
+        "RATING": 18,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-409",
+        "FULLNAME": "scp-zh-409",
+        "RATING": 12,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-114 - 塞壬渦雷",
+        "FULLNAME": "scp-zh-114",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-067 - 藍圖",
+        "FULLNAME": "scp-zh-067",
+        "RATING": 10,
+        "COMMENTS": "9"
+    },
+    {
+        "TITLE": "燈火記憶",
+        "FULLNAME": "memory-of-light",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-177 - 深井",
+        "FULLNAME": "scp-zh-177",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "奇蹟學煉金術導論：如何把水銀煉成黃金",
+        "FULLNAME": "thaumatalchemy",
+        "RATING": 15,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "我的老家有點怪",
+        "FULLNAME": "parawatch-my-hometown-was-a-miracle",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-243",
+        "FULLNAME": "scp-zh-243",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-092",
+        "FULLNAME": "scp-zh-092",
+        "RATING": -4,
+        "COMMENTS": "4"
     }
 ]

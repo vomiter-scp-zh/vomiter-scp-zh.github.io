@@ -382,5 +382,41 @@
         "FULLNAME": "adult:scp-zh-338",
         "RATING": 15,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-709",
+        "FULLNAME": "scp-zh-709",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-115",
+        "FULLNAME": "scp-zh-115",
+        "RATING": 14,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-037",
+        "FULLNAME": "scp-zh-037",
+        "RATING": 20,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-096 - 紅移破滅",
+        "FULLNAME": "scp-zh-096",
+        "RATING": 22,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-096解密",
+        "FULLNAME": "scp-zh-096-declassification",
+        "RATING": 16,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-243",
+        "FULLNAME": "scp-zh-243",
+        "RATING": 18,
+        "COMMENTS": "0"
     }
 ]

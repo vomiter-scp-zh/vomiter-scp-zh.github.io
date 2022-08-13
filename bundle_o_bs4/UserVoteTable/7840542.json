@@ -154,5 +154,29 @@
         "FULLNAME": "scp-zh-129",
         "RATING": 11,
         "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-112 - 祝你生日快樂",
+        "FULLNAME": "scp-zh-112",
+        "RATING": 19,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-096 - 紅移破滅",
+        "FULLNAME": "scp-zh-096",
+        "RATING": 22,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "異常項目紀錄：「防暴警察頭盔」",
+        "FULLNAME": "anomalous-item-hk-police-helmet",
+        "RATING": 35,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "131和999的相遇",
+        "FULLNAME": "zoelin-131-999",
+        "RATING": 4,
+        "COMMENTS": "1"
     }
 ]

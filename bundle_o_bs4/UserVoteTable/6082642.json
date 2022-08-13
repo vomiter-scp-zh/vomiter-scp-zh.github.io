@@ -310,5 +310,17 @@
         "FULLNAME": "nsb8-hub",
         "RATING": 13,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-410 - 化工廠的鐵桶",
+        "FULLNAME": "scp-zh-410",
+        "RATING": 13,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "基鈴協議服務處 快速資料查詢系統",
+        "FULLNAME": "manual-bt",
+        "RATING": 9,
+        "COMMENTS": "1"
     }
 ]

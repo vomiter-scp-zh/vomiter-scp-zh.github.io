@@ -4,5 +4,11 @@
         "FULLNAME": "groups-of-interest-zh",
         "RATING": 1,
         "COMMENTS": "20"
+    },
+    {
+        "TITLE": "SCP-ZH-032",
+        "FULLNAME": "scp-zh-032",
+        "RATING": 21,
+        "COMMENTS": "0"
     }
 ]

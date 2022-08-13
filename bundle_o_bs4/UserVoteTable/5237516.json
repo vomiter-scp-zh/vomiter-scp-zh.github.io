@@ -292,5 +292,35 @@
         "FULLNAME": "transfer-challenge-zh",
         "RATING": 7,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-571 - 不可視的追跡者",
+        "FULLNAME": "scp-zh-571",
+        "RATING": 12,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "天亮前的戀愛故事",
+        "FULLNAME": "taisho150-lovestorybeforedawn",
+        "RATING": 20,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "中港路上沒有人只有野狼",
+        "FULLNAME": "wolf-125",
+        "RATING": 16,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "Ctrl Z博士的旅行記事本",
+        "FULLNAME": "ctrlztravel",
+        "RATING": 12,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "異常項目紀錄：「防暴警察頭盔」",
+        "FULLNAME": "anomalous-item-hk-police-helmet",
+        "RATING": 35,
+        "COMMENTS": "5"
     }
 ]

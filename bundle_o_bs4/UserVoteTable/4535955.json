@@ -22,5 +22,17 @@
         "FULLNAME": "scp-zh-147",
         "RATING": 18,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Ctrl Z博士的鉛筆塗鴉",
+        "FULLNAME": "ctrlzpencil",
+        "RATING": 16,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Ctrl Z博士的旅行記事本",
+        "FULLNAME": "ctrlztravel",
+        "RATING": 12,
+        "COMMENTS": "5"
     }
 ]
