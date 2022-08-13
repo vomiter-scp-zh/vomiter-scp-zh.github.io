@@ -118,5 +118,23 @@
         "FULLNAME": "wish-you-safe-and-sound",
         "RATING": 23,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "台灣異新報、昭和十年十一月一日",
+        "FULLNAME": "taiwan-newspaper",
+        "RATING": 17,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "假面騎士AD片頭主題曲：夢想與罪惡之間",
+        "FULLNAME": "between-dream-and-sin",
+        "RATING": 13,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "爆旋壽司 青龍舞兮 朱雀飛翔",
+        "FULLNAME": "sushi-dragon-phoenix",
+        "RATING": 13,
+        "COMMENTS": "0"
     }
 ]

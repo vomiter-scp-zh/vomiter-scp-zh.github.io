@@ -112,5 +112,77 @@
         "FULLNAME": "scp-zh-878",
         "RATING": 20,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-647 - 嘴砲老人",
+        "FULLNAME": "scp-zh-647",
+        "RATING": 31,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "節慶的顏色",
+        "FULLNAME": "festive-colors",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-140",
+        "FULLNAME": "scp-zh-140",
+        "RATING": 20,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "銀色之後",
+        "FULLNAME": "behind-the-silver",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-079",
+        "FULLNAME": "scp-zh-079",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "表層變動",
+        "FULLNAME": "one-of-the-secrets",
+        "RATING": 16,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-248 - 尤斯蒂亞症候群",
+        "FULLNAME": "scp-zh-248",
+        "RATING": 21,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-2005-EX",
+        "FULLNAME": "scp-zh-2005-ex",
+        "RATING": 55,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "沒什麼，只是一張老照片",
+        "FULLNAME": "nothing-just-a-old-picture",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "伊伽姊姊去哪了?",
+        "FULLNAME": "zh-248-f004",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "線的另一端",
+        "FULLNAME": "red-red-string",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "洗標：紅1354-深入傳統納餓卡部落",
+        "FULLNAME": "red-1354",
+        "RATING": 17,
+        "COMMENTS": "1"
     }
 ]

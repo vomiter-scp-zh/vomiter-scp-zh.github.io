@@ -1720,5 +1720,35 @@
         "FULLNAME": "wish-you-safe-and-sound",
         "RATING": 23,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "賦其以形",
+        "FULLNAME": "give-it-shape",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "殘燭",
+        "FULLNAME": "candle-in-the-wind",
+        "RATING": 11,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-090 - 毆打皮納塔！",
+        "FULLNAME": "scp-zh-090",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-2005-EX",
+        "FULLNAME": "scp-zh-2005-ex",
+        "RATING": 55,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Dr. Kris的文檔山海－Dr.Apoyn的速寫",
+        "FULLNAME": "k1s10r0d-quick-sketch-of-dr-apoyn",
+        "RATING": 13,
+        "COMMENTS": "2"
     }
 ]

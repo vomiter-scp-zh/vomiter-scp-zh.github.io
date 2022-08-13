@@ -52,5 +52,29 @@
         "FULLNAME": "scp-zh-444",
         "RATING": 17,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "2021冬季競賽 主題《紅》",
+        "FULLNAME": "winter-ace-2021",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-2005-EX",
+        "FULLNAME": "scp-zh-2005-ex",
+        "RATING": 55,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "藝術紀錄：網路紅人。",
+        "FULLNAME": "art-for-zh2005ex",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "洗標：紅1354-深入傳統納餓卡部落",
+        "FULLNAME": "red-1354",
+        "RATING": 17,
+        "COMMENTS": "1"
     }
 ]

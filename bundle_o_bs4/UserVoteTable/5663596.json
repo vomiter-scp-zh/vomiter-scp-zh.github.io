@@ -190,5 +190,17 @@
         "FULLNAME": "it-was-not-my-fault",
         "RATING": 21,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-647 - 嘴砲老人",
+        "FULLNAME": "scp-zh-647",
+        "RATING": 31,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "Dr. Kris的文檔山海－Dr.Apoyn的速寫",
+        "FULLNAME": "k1s10r0d-quick-sketch-of-dr-apoyn",
+        "RATING": 13,
+        "COMMENTS": "2"
     }
 ]

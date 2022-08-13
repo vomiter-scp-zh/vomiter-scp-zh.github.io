@@ -154,5 +154,59 @@
         "FULLNAME": "xmas-dream",
         "RATING": 10,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "ZH，025，1225",
+        "FULLNAME": "zh-025-xmas",
+        "RATING": 18,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "晴雨",
+        "FULLNAME": "sun-shower-metha",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "吊運",
+        "FULLNAME": "lifting",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-647 - 嘴砲老人",
+        "FULLNAME": "scp-zh-647",
+        "RATING": 31,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "穿越時空的稽查，最後目的地是永和豆漿",
+        "FULLNAME": "in-the-maze-of-2020",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "賦其以形",
+        "FULLNAME": "give-it-shape",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "殘燭",
+        "FULLNAME": "candle-in-the-wind",
+        "RATING": 11,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-526",
+        "FULLNAME": "scp-zh-526",
+        "RATING": 18,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-090 - 毆打皮納塔！",
+        "FULLNAME": "scp-zh-090",
+        "RATING": 16,
+        "COMMENTS": "1"
     }
 ]

@@ -1366,5 +1366,65 @@
         "FULLNAME": "christmas-or-halloween",
         "RATING": 17,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "無貌者與貓",
+        "FULLNAME": "the-man-with-out-face",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-647 - 嘴砲老人",
+        "FULLNAME": "scp-zh-647",
+        "RATING": 31,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "雷射雕刻──Site-ZH-12",
+        "FULLNAME": "site-zh-12-made-with-wood",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "賦其以形",
+        "FULLNAME": "give-it-shape",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "假面騎士AD片頭主題曲：夢想與罪惡之間",
+        "FULLNAME": "between-dream-and-sin",
+        "RATING": 13,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "殘燭",
+        "FULLNAME": "candle-in-the-wind",
+        "RATING": 11,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "節慶的顏色",
+        "FULLNAME": "festive-colors",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-090 - 毆打皮納塔！",
+        "FULLNAME": "scp-zh-090",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-248 - 尤斯蒂亞症候群",
+        "FULLNAME": "scp-zh-248",
+        "RATING": 21,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "生醫創作與你：寫給基金會作家的名詞辨析",
+        "FULLNAME": "biomedical-sense-zh",
+        "RATING": 14,
+        "COMMENTS": "1"
     }
 ]

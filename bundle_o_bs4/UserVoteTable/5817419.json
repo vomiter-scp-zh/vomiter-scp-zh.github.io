@@ -832,5 +832,41 @@
         "FULLNAME": "christmas-or-halloween",
         "RATING": 17,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "已廢棄的聖誕提案",
+        "FULLNAME": "hammer-maho-shojo",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "ZH，025，1225",
+        "FULLNAME": "zh-025-xmas",
+        "RATING": 18,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "無貌者與貓",
+        "FULLNAME": "the-man-with-out-face",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-647 - 嘴砲老人",
+        "FULLNAME": "scp-zh-647",
+        "RATING": 31,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "聖夜相守：手工玩偶",
+        "FULLNAME": "handcraft-doll",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "表層變動",
+        "FULLNAME": "one-of-the-secrets",
+        "RATING": 16,
+        "COMMENTS": "2"
     }
 ]

@@ -100,5 +100,23 @@
         "FULLNAME": "scp-zh-024",
         "RATING": 33,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-647 - 嘴砲老人",
+        "FULLNAME": "scp-zh-647",
+        "RATING": 31,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "賦其以形",
+        "FULLNAME": "give-it-shape",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-2005-EX",
+        "FULLNAME": "scp-zh-2005-ex",
+        "RATING": 55,
+        "COMMENTS": "1"
     }
 ]

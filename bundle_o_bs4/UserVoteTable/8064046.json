@@ -106,5 +106,17 @@
         "FULLNAME": "it-was-not-my-fault",
         "RATING": 21,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-140",
+        "FULLNAME": "scp-zh-140",
+        "RATING": 20,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-224",
+        "FULLNAME": "scp-zh-224",
+        "RATING": 8,
+        "COMMENTS": "3"
     }
 ]

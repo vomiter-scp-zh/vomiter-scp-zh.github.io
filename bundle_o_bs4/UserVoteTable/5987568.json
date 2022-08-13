@@ -238,5 +238,59 @@
         "FULLNAME": "christmas-or-halloween",
         "RATING": 17,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "ZH，025，1225",
+        "FULLNAME": "zh-025-xmas",
+        "RATING": 18,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "吊運",
+        "FULLNAME": "lifting",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "聖夜相守時",
+        "FULLNAME": "formytreasure",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-647 - 嘴砲老人",
+        "FULLNAME": "scp-zh-647",
+        "RATING": 31,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "聖夜相守：手工玩偶",
+        "FULLNAME": "handcraft-doll",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "殘影",
+        "FULLNAME": "afterimage",
+        "RATING": 14,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "雷射雕刻──Site-ZH-12",
+        "FULLNAME": "site-zh-12-made-with-wood",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "賦其以形",
+        "FULLNAME": "give-it-shape",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-248 - 尤斯蒂亞症候群",
+        "FULLNAME": "scp-zh-248",
+        "RATING": 21,
+        "COMMENTS": "1"
     }
 ]

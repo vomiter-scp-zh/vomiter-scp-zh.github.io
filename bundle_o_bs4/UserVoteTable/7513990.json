@@ -352,5 +352,23 @@
         "FULLNAME": "daydream-walker",
         "RATING": 7,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-023",
+        "FULLNAME": "scp-zh-023",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-526",
+        "FULLNAME": "scp-zh-526",
+        "RATING": 18,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-2005-EX",
+        "FULLNAME": "scp-zh-2005-ex",
+        "RATING": 55,
+        "COMMENTS": "1"
     }
 ]

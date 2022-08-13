@@ -466,5 +466,17 @@
         "FULLNAME": "raisa-lee-teng-hui",
         "RATING": 17,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "爆旋壽司 青龍舞兮 朱雀飛翔",
+        "FULLNAME": "sushi-dragon-phoenix",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-2005-EX",
+        "FULLNAME": "scp-zh-2005-ex",
+        "RATING": 55,
+        "COMMENTS": "1"
     }
 ]
