@@ -88,5 +88,11 @@
         "FULLNAME": "scp-zh-011",
         "RATING": 8,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-1766-EX",
+        "FULLNAME": "scp-zh-1766-ex",
+        "RATING": 4,
+        "COMMENTS": "1"
     }
 ]

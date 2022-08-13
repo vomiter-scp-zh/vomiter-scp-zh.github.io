@@ -376,5 +376,23 @@
         "FULLNAME": "at-that-day-you-still-wish-me-a-good-dream",
         "RATING": 22,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-113",
+        "FULLNAME": "scp-zh-113",
+        "RATING": 28,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "生者的葬儀",
+        "FULLNAME": "tombstone-for-the-one-you-should-not-forget",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-451 - 反對者與蠕蟲",
+        "FULLNAME": "scp-zh-451",
+        "RATING": 11,
+        "COMMENTS": "7"
     }
 ]

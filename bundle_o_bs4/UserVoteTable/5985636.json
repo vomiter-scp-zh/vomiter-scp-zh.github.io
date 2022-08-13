@@ -22,5 +22,11 @@
         "FULLNAME": "xmas-exercise",
         "RATING": 22,
         "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-113",
+        "FULLNAME": "scp-zh-113",
+        "RATING": 28,
+        "COMMENTS": "2"
     }
 ]

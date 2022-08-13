@@ -280,5 +280,41 @@
         "FULLNAME": "scp-zh-133",
         "RATING": 20,
         "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-292 - 無限的書櫃",
+        "FULLNAME": "scp-zh-292",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "AO-ZH-252 全智教的磨豆機",
+        "FULLNAME": "ao-zh-252",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-717 - 課堂中請勿伸出附肢",
+        "FULLNAME": "scp-zh-717",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-451 - 反對者與蠕蟲",
+        "FULLNAME": "scp-zh-451",
+        "RATING": 11,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-015",
+        "FULLNAME": "scp-zh-015",
+        "RATING": 23,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "中國國安部，不應存在的十九局",
+        "FULLNAME": "19th-bureau-of-mss-of-china",
+        "RATING": 20,
+        "COMMENTS": "16"
     }
 ]

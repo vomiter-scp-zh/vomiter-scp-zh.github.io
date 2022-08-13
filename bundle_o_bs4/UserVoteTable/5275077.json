@@ -478,5 +478,35 @@
         "FULLNAME": "scp-zh-011",
         "RATING": 8,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "濃湯約會",
+        "FULLNAME": "chowder-date",
+        "RATING": 20,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "距離世界末日還有五分鐘",
+        "FULLNAME": "five-minutes-to-end",
+        "RATING": 26,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "拋鈴人中心頁",
+        "FULLNAME": "goi-bt",
+        "RATING": 23,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-015",
+        "FULLNAME": "scp-zh-015",
+        "RATING": 23,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "中國國安部，不應存在的十九局",
+        "FULLNAME": "19th-bureau-of-mss-of-china",
+        "RATING": 20,
+        "COMMENTS": "16"
     }
 ]

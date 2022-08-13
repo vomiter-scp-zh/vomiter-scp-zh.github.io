@@ -118,5 +118,47 @@
         "FULLNAME": "the-art-work-collection-of-wright-wilson",
         "RATING": 14,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "項目擬人化假想",
+        "FULLNAME": "the-meriewanderer-artwork-1",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "麻糬的繁中人員畫作選集·一",
+        "FULLNAME": "the-art-work-collection-of-wright-wilson-2",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "濃湯約會",
+        "FULLNAME": "chowder-date",
+        "RATING": 20,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-014",
+        "FULLNAME": "scp-zh-014",
+        "RATING": 20,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "麻糬的SCP畫作選集二",
+        "FULLNAME": "the-art-work-collection-of-wright-wilson-3",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Dr. Semibreve -前往████的路程",
+        "FULLNAME": "drsemibreve-road-to",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "我們尚未知道的旅程的終點-███/9288 km",
+        "FULLNAME": "artwork-of-9288-ex",
+        "RATING": 20,
+        "COMMENTS": "2"
     }
 ]

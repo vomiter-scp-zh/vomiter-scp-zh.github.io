@@ -316,5 +316,23 @@
         "FULLNAME": "scp-zh-221",
         "RATING": 8,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "趨光",
+        "FULLNAME": "phototaxis",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-451 - 反對者與蠕蟲",
+        "FULLNAME": "scp-zh-451",
+        "RATING": 11,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "中國國安部，不應存在的十九局",
+        "FULLNAME": "19th-bureau-of-mss-of-china",
+        "RATING": 20,
+        "COMMENTS": "16"
     }
 ]

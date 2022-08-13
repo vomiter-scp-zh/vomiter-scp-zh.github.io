@@ -148,5 +148,41 @@
         "FULLNAME": "at-that-day-you-still-wish-me-a-good-dream",
         "RATING": 22,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "濃湯約會",
+        "FULLNAME": "chowder-date",
+        "RATING": 20,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "趨光",
+        "FULLNAME": "phototaxis",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-113",
+        "FULLNAME": "scp-zh-113",
+        "RATING": 28,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "人的悲歡，並不相通",
+        "FULLNAME": "human-sorrows-and-joys",
+        "RATING": 13,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Bright家族",
+        "FULLNAME": "bright-family",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-015",
+        "FULLNAME": "scp-zh-015",
+        "RATING": 23,
+        "COMMENTS": "0"
     }
 ]

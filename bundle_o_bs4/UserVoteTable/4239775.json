@@ -1168,5 +1168,35 @@
         "FULLNAME": "at-that-day-you-still-wish-me-a-good-dream",
         "RATING": 22,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "忠臣最後的歸宿",
+        "FULLNAME": "the-cement",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "逍遙前",
+        "FULLNAME": "after-the-boom",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "過雲雨",
+        "FULLNAME": "overcast",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-960 - 奪舍玉珮",
+        "FULLNAME": "scp-zh-960",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "下雨自助者",
+        "FULLNAME": "laundry-the-gulf",
+        "RATING": 9,
+        "COMMENTS": "1"
     }
 ]

@@ -376,5 +376,29 @@
         "FULLNAME": "eclipse-absence",
         "RATING": 8,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-141 - 放射線症候群治療劑",
+        "FULLNAME": "scp-zh-141",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "濃湯約會",
+        "FULLNAME": "chowder-date",
+        "RATING": 20,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-935-J",
+        "FULLNAME": "scp-zh-935-j",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-042",
+        "FULLNAME": "scp-zh-042",
+        "RATING": 16,
+        "COMMENTS": "1"
     }
 ]

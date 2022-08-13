@@ -70,5 +70,11 @@
         "FULLNAME": "shopping-arcade",
         "RATING": 20,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "拋鈴人中心頁",
+        "FULLNAME": "goi-bt",
+        "RATING": 23,
+        "COMMENTS": "1"
     }
 ]

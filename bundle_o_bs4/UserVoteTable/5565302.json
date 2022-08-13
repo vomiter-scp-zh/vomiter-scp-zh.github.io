@@ -394,5 +394,59 @@
         "FULLNAME": "47",
         "RATING": 13,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-031",
+        "FULLNAME": "scp-zh-031",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-141 - 放射線症候群治療劑",
+        "FULLNAME": "scp-zh-141",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "過雲雨",
+        "FULLNAME": "overcast",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-113",
+        "FULLNAME": "scp-zh-113",
+        "RATING": 28,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-013",
+        "FULLNAME": "scp-zh-013",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-717 - 課堂中請勿伸出附肢",
+        "FULLNAME": "scp-zh-717",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-014",
+        "FULLNAME": "scp-zh-014",
+        "RATING": 20,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-015",
+        "FULLNAME": "scp-zh-015",
+        "RATING": 23,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-040",
+        "FULLNAME": "scp-zh-040",
+        "RATING": 11,
+        "COMMENTS": "1"
     }
 ]
