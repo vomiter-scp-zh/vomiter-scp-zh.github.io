@@ -148,5 +148,23 @@
         "FULLNAME": "sitezh50-icon",
         "RATING": 5,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-445",
+        "FULLNAME": "scp-zh-445",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-166",
+        "FULLNAME": "scp-zh-166",
+        "RATING": 21,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-987 - 一匹駱駝引發的慘案",
+        "FULLNAME": "scp-zh-987",
+        "RATING": 10,
+        "COMMENTS": "9"
     }
 ]

@@ -220,5 +220,17 @@
         "FULLNAME": "year-critical-strike",
         "RATING": 15,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-012",
+        "FULLNAME": "scp-zh-012",
+        "RATING": 19,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "我在萬物之中",
+        "FULLNAME": "arkwork-3999",
+        "RATING": 37,
+        "COMMENTS": "8"
     }
 ]

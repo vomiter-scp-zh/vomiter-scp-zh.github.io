@@ -250,5 +250,71 @@
         "FULLNAME": "grant-request-for-utilization-of-memetic-agent-to-assist-per",
         "RATING": 17,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-747 - 趨凶避凶",
+        "FULLNAME": "scp-zh-747",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "通訊記錄 ZH-747-331",
+        "FULLNAME": "communication-log-zh-747-331",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-166",
+        "FULLNAME": "scp-zh-166",
+        "RATING": 21,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-545 - 我不是恐龍",
+        "FULLNAME": "scp-zh-545",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-019",
+        "FULLNAME": "scp-zh-019",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "解密：SCP-2998",
+        "FULLNAME": "scp-2998-declassification-zh",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Alicia女士",
+        "FULLNAME": "scp-zh-774",
+        "RATING": 31,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-150",
+        "FULLNAME": "scp-zh-150",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-012",
+        "FULLNAME": "scp-zh-012",
+        "RATING": 19,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "我在萬物之中",
+        "FULLNAME": "arkwork-3999",
+        "RATING": 37,
+        "COMMENTS": "8"
+    },
+    {
+        "TITLE": "SCP-ZH-101",
+        "FULLNAME": "scp-zh-101",
+        "RATING": 16,
+        "COMMENTS": "1"
     }
 ]

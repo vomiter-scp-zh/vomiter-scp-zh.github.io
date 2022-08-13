@@ -688,5 +688,53 @@
         "FULLNAME": "color-of-aurora",
         "RATING": 15,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Dr. Bales的日常小品集錦 一",
+        "FULLNAME": "bales-s-daily-1",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "尋獲物品編號：097/洗標：黑0117",
+        "FULLNAME": "article-number-097-black-0117",
+        "RATING": 15,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "從今以後，她將永生",
+        "FULLNAME": "she-lives-in-my-heart",
+        "RATING": 22,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "她一直都在，無須緬懷",
+        "FULLNAME": "she-s-always-here",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-055",
+        "FULLNAME": "scp-zh-055",
+        "RATING": 18,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-976 - 追憶狂妄",
+        "FULLNAME": "scp-zh-976",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "繁字Logo",
+        "FULLNAME": "fan-logo",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-012",
+        "FULLNAME": "scp-zh-012",
+        "RATING": 19,
+        "COMMENTS": "2"
     }
 ]

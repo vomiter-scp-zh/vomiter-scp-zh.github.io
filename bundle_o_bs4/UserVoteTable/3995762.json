@@ -40,5 +40,17 @@
         "FULLNAME": "art-for-3519",
         "RATING": 11,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "繁字Logo",
+        "FULLNAME": "fan-logo",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-066 新概念音響",
+        "FULLNAME": "scp-066-painting",
+        "RATING": 8,
+        "COMMENTS": "0"
     }
 ]

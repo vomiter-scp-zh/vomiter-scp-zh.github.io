@@ -82,5 +82,17 @@
         "FULLNAME": "scp-zh-60053-j",
         "RATING": 43,
         "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-055",
+        "FULLNAME": "scp-zh-055",
+        "RATING": 18,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-520",
+        "FULLNAME": "scp-zh-520",
+        "RATING": 16,
+        "COMMENTS": "2"
     }
 ]
