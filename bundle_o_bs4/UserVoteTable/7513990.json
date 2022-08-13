@@ -868,5 +868,53 @@
         "FULLNAME": "scp-zh-196",
         "RATING": 17,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-801 - 湮滅公分母",
+        "FULLNAME": "scp-zh-801",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "NX-ZH-02：西加走灣群島",
+        "FULLNAME": "nx-zh-02",
+        "RATING": 24,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "牠在看著嗎？",
+        "FULLNAME": "is-it-watching",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-304 - 行進插曲",
+        "FULLNAME": "scp-zh-304",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "海棠依舊",
+        "FULLNAME": "lucid-dreams",
+        "RATING": 22,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-184 - 奔車朽索",
+        "FULLNAME": "scp-zh-184",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-902 - 倒數之中",
+        "FULLNAME": "scp-zh-902",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-941 - 你才沒有在奮鬥",
+        "FULLNAME": "scp-zh-941",
+        "RATING": 1,
+        "COMMENTS": "8"
     }
 ]
