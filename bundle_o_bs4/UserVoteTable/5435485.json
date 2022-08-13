@@ -106,5 +106,29 @@
         "FULLNAME": "site-zh-16",
         "RATING": 14,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-005",
+        "FULLNAME": "scp-zh-005",
+        "RATING": 60,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-105 - 不孝子",
+        "FULLNAME": "scp-zh-105",
+        "RATING": 65,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "NSB-8新進人員教程: 何謂colony",
+        "FULLNAME": "nsb8-teach-colony",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-125",
+        "FULLNAME": "scp-zh-125",
+        "RATING": 22,
+        "COMMENTS": "2"
     }
 ]

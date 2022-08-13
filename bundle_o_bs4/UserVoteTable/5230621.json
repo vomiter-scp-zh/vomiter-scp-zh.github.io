@@ -46,5 +46,23 @@
         "FULLNAME": "scp-zh-310",
         "RATING": 26,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-005",
+        "FULLNAME": "scp-zh-005",
+        "RATING": 60,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-199",
+        "FULLNAME": "scp-zh-199",
+        "RATING": 22,
+        "COMMENTS": "8"
+    },
+    {
+        "TITLE": "SCP-ZH-006",
+        "FULLNAME": "scp-zh-006",
+        "RATING": 10,
+        "COMMENTS": "6"
     }
 ]

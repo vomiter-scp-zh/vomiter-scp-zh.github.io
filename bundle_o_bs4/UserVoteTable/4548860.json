@@ -148,5 +148,47 @@
         "FULLNAME": "scp-zh-310",
         "RATING": 26,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-005",
+        "FULLNAME": "scp-zh-005",
+        "RATING": 60,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-199",
+        "FULLNAME": "scp-zh-199",
+        "RATING": 22,
+        "COMMENTS": "8"
+    },
+    {
+        "TITLE": "SCP-ZH-105 - 不孝子",
+        "FULLNAME": "scp-zh-105",
+        "RATING": 65,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-661",
+        "FULLNAME": "scp-zh-661",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "血跡-上",
+        "FULLNAME": "bloodstain-1",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "血跡-下",
+        "FULLNAME": "bloodstain-2",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-125",
+        "FULLNAME": "scp-zh-125",
+        "RATING": 22,
+        "COMMENTS": "2"
     }
 ]

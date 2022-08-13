@@ -10,5 +10,11 @@
         "FULLNAME": "site-zh-16",
         "RATING": 14,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-005",
+        "FULLNAME": "scp-zh-005",
+        "RATING": 60,
+        "COMMENTS": "0"
     }
 ]

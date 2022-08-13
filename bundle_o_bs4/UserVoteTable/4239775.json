@@ -358,5 +358,23 @@
         "FULLNAME": "scp-zh-310",
         "RATING": 26,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-105 - 不孝子",
+        "FULLNAME": "scp-zh-105",
+        "RATING": 65,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "血跡-下",
+        "FULLNAME": "bloodstain-2",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "洗標：黑0419-Dr.Metha的手帕，薰衣草味",
+        "FULLNAME": "black-0419",
+        "RATING": 11,
+        "COMMENTS": "0"
     }
 ]

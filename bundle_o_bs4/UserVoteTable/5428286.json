@@ -28,5 +28,17 @@
         "FULLNAME": "scp-zh-972",
         "RATING": 8,
         "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-006",
+        "FULLNAME": "scp-zh-006",
+        "RATING": 10,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-105 - 不孝子",
+        "FULLNAME": "scp-zh-105",
+        "RATING": 65,
+        "COMMENTS": "5"
     }
 ]
