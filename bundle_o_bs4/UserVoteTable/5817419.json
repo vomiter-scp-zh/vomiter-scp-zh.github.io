@@ -718,5 +718,41 @@
         "FULLNAME": "scp-zh-007",
         "RATING": 15,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "致我所愛",
+        "FULLNAME": "to-my-love",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "你不應在溫室裏說冷笑話",
+        "FULLNAME": "nopunsinthegreenhouse",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "濃湯約會",
+        "FULLNAME": "chowder-date",
+        "RATING": 20,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "距離世界末日還有五分鐘",
+        "FULLNAME": "five-minutes-to-end",
+        "RATING": 26,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "生者的葬儀",
+        "FULLNAME": "tombstone-for-the-one-you-should-not-forget",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-717 - 課堂中請勿伸出附肢",
+        "FULLNAME": "scp-zh-717",
+        "RATING": 15,
+        "COMMENTS": "0"
     }
 ]

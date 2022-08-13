@@ -76,5 +76,41 @@
         "FULLNAME": "the-song-of-mckao",
         "RATING": 10,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "在那天，妳仍舊向我道了聲晚安",
+        "FULLNAME": "at-that-day-you-still-wish-me-a-good-dream",
+        "RATING": 22,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-011",
+        "FULLNAME": "scp-zh-011",
+        "RATING": 8,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-071 - 翻覆巴士",
+        "FULLNAME": "scp-zh-071",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "趨光",
+        "FULLNAME": "phototaxis",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-013",
+        "FULLNAME": "scp-zh-013",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-014",
+        "FULLNAME": "scp-zh-014",
+        "RATING": 20,
+        "COMMENTS": "4"
     }
 ]

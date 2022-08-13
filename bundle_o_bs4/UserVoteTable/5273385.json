@@ -106,5 +106,11 @@
         "FULLNAME": "practice",
         "RATING": 17,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-628 - 猩猩的雙臂",
+        "FULLNAME": "scp-zh-628",
+        "RATING": 11,
+        "COMMENTS": "1"
     }
 ]

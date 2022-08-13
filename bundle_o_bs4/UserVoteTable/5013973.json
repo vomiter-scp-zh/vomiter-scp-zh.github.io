@@ -268,5 +268,59 @@
         "FULLNAME": "about-scranton-reality-anchors",
         "RATING": 15,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "玩牌的Bright？",
+        "FULLNAME": "aaaa-zh",
+        "RATING": 8,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "菸與線",
+        "FULLNAME": "cigaret-and-thread",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-073 Cain 該隱 & SCP-076 Abel 亞伯",
+        "FULLNAME": "the-cain-from-eternal2018",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "濃湯約會",
+        "FULLNAME": "chowder-date",
+        "RATING": 20,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "趨光",
+        "FULLNAME": "phototaxis",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "距離世界末日還有五分鐘",
+        "FULLNAME": "five-minutes-to-end",
+        "RATING": 26,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-333",
+        "FULLNAME": "adult:scp-zh-333",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "人的悲歡，並不相通",
+        "FULLNAME": "human-sorrows-and-joys",
+        "RATING": 13,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Bright家族",
+        "FULLNAME": "bright-family",
+        "RATING": 10,
+        "COMMENTS": "1"
     }
 ]

@@ -778,5 +778,71 @@
         "FULLNAME": "he-hadnt-faded-away",
         "RATING": 9,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "在那天，妳仍舊向我道了聲晚安",
+        "FULLNAME": "at-that-day-you-still-wish-me-a-good-dream",
+        "RATING": 22,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-011",
+        "FULLNAME": "scp-zh-011",
+        "RATING": 8,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-071 - 翻覆巴士",
+        "FULLNAME": "scp-zh-071",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "過雲雨",
+        "FULLNAME": "overcast",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-008 - 水深勿近",
+        "FULLNAME": "scp-zh-008",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "距離世界末日還有五分鐘",
+        "FULLNAME": "five-minutes-to-end",
+        "RATING": 26,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-113",
+        "FULLNAME": "scp-zh-113",
+        "RATING": 28,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-1766-EX",
+        "FULLNAME": "scp-zh-1766-ex",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "人的悲歡，並不相通",
+        "FULLNAME": "human-sorrows-and-joys",
+        "RATING": 13,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-717 - 課堂中請勿伸出附肢",
+        "FULLNAME": "scp-zh-717",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-014",
+        "FULLNAME": "scp-zh-014",
+        "RATING": 20,
+        "COMMENTS": "4"
     }
 ]

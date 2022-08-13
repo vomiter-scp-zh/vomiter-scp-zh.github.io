@@ -358,5 +358,41 @@
         "FULLNAME": "teeth-checked",
         "RATING": 12,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "在那天，妳仍舊向我道了聲晚安",
+        "FULLNAME": "at-that-day-you-still-wish-me-a-good-dream",
+        "RATING": 22,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-471 - 惡性毒蟲",
+        "FULLNAME": "scp-zh-471",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "缺席者的盛宴",
+        "FULLNAME": "eclipse-absence",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-141 - 放射線症候群治療劑",
+        "FULLNAME": "scp-zh-141",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "濃湯約會",
+        "FULLNAME": "chowder-date",
+        "RATING": 20,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-935-J",
+        "FULLNAME": "scp-zh-935-j",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]

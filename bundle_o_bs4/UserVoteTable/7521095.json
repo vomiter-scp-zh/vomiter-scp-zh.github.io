@@ -52,5 +52,17 @@
         "FULLNAME": "the-collection-of-mck",
         "RATING": 14,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-071 - 翻覆巴士",
+        "FULLNAME": "scp-zh-071",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-113",
+        "FULLNAME": "scp-zh-113",
+        "RATING": 28,
+        "COMMENTS": "2"
     }
 ]

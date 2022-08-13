@@ -532,5 +532,41 @@
         "FULLNAME": "shopping-arcade",
         "RATING": 20,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "在那天，妳仍舊向我道了聲晚安",
+        "FULLNAME": "at-that-day-you-still-wish-me-a-good-dream",
+        "RATING": 22,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "缺席者的盛宴",
+        "FULLNAME": "eclipse-absence",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "蛛網國際安保報告書 CI-S-057：霓虹兔電子遊樂場",
+        "FULLNAME": "cobweb-ci-s-057",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "藝術紀錄：校外教學。",
+        "FULLNAME": "art-for-2316",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "麻糬的繁中人員畫作選集·一",
+        "FULLNAME": "the-art-work-collection-of-wright-wilson-2",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "濃湯約會",
+        "FULLNAME": "chowder-date",
+        "RATING": 20,
+        "COMMENTS": "2"
     }
 ]

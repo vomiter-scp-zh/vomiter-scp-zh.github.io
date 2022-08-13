@@ -634,5 +634,113 @@
         "FULLNAME": "zeroth-impression",
         "RATING": 7,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "在那天，妳仍舊向我道了聲晚安",
+        "FULLNAME": "at-that-day-you-still-wish-me-a-good-dream",
+        "RATING": 22,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-628 - 猩猩的雙臂",
+        "FULLNAME": "scp-zh-628",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-471 - 惡性毒蟲",
+        "FULLNAME": "scp-zh-471",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "缺席者的盛宴",
+        "FULLNAME": "eclipse-absence",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-221 - 晶蘭高中的盲人少年",
+        "FULLNAME": "scp-zh-221",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-071 - 翻覆巴士",
+        "FULLNAME": "scp-zh-071",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-141 - 放射線症候群治療劑",
+        "FULLNAME": "scp-zh-141",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "你不應在溫室裏說冷笑話",
+        "FULLNAME": "nopunsinthegreenhouse",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "逍遙前",
+        "FULLNAME": "after-the-boom",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "濃湯約會",
+        "FULLNAME": "chowder-date",
+        "RATING": 20,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "過雲雨",
+        "FULLNAME": "overcast",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-008 - 水深勿近",
+        "FULLNAME": "scp-zh-008",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "代號：ting129 - 海坊主巨拳",
+        "FULLNAME": "ting129-s-ko-proposal",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "距離世界末日還有五分鐘",
+        "FULLNAME": "five-minutes-to-end",
+        "RATING": 26,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-333",
+        "FULLNAME": "adult:scp-zh-333",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "二人家庭",
+        "FULLNAME": "a-family-of-two",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "人的悲歡，並不相通",
+        "FULLNAME": "human-sorrows-and-joys",
+        "RATING": 13,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-014",
+        "FULLNAME": "scp-zh-014",
+        "RATING": 20,
+        "COMMENTS": "4"
     }
 ]

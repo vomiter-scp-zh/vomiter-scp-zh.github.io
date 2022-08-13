@@ -88,5 +88,17 @@
         "FULLNAME": "shopping-arcade",
         "RATING": 20,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-113",
+        "FULLNAME": "scp-zh-113",
+        "RATING": 28,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-461 - 人們緊抓著冰塊",
+        "FULLNAME": "scp-zh-461",
+        "RATING": 9,
+        "COMMENTS": "1"
     }
 ]

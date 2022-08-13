@@ -136,5 +136,17 @@
         "FULLNAME": "scp-zh-229-ex",
         "RATING": 16,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-333",
+        "FULLNAME": "adult:scp-zh-333",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-113",
+        "FULLNAME": "scp-zh-113",
+        "RATING": 28,
+        "COMMENTS": "2"
     }
 ]

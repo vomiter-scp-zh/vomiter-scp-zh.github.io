@@ -316,5 +316,17 @@
         "FULLNAME": "teeth-checked",
         "RATING": 12,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-221 - 晶蘭高中的盲人少年",
+        "FULLNAME": "scp-zh-221",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "趨光",
+        "FULLNAME": "phototaxis",
+        "RATING": 10,
+        "COMMENTS": "0"
     }
 ]

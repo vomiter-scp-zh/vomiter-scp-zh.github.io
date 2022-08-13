@@ -120,10 +120,22 @@
         "COMMENTS": "9"
     },
     {
+        "TITLE": "SCP-ZH-113",
+        "FULLNAME": "scp-zh-113",
+        "RATING": 28,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "SCP-ZH-310 - 異常蛋白質結構域",
         "FULLNAME": "scp-zh-310",
         "RATING": 26,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "距離世界末日還有五分鐘",
+        "FULLNAME": "five-minutes-to-end",
+        "RATING": 26,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-02",
@@ -240,6 +252,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "在那天，妳仍舊向我道了聲晚安",
+        "FULLNAME": "at-that-day-you-still-wish-me-a-good-dream",
+        "RATING": 22,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-610 - 猛爆性繁衍組織瘤",
         "FULLNAME": "scp-zh-610",
         "RATING": 21,
@@ -340,6 +358,18 @@
         "FULLNAME": "shopping-arcade",
         "RATING": 20,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "濃湯約會",
+        "FULLNAME": "chowder-date",
+        "RATING": 20,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-014",
+        "FULLNAME": "scp-zh-014",
+        "RATING": 20,
+        "COMMENTS": "4"
     },
     {
         "TITLE": "SCP基金會不知道的那些事件",
@@ -822,6 +852,12 @@
         "COMMENTS": "3"
     },
     {
+        "TITLE": "SCP-ZH-717 - 課堂中請勿伸出附肢",
+        "FULLNAME": "scp-zh-717",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-229",
         "FULLNAME": "scp-zh-229",
         "RATING": 14,
@@ -970,6 +1006,18 @@
         "FULLNAME": "the-collection-of-mck",
         "RATING": 14,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "水銀研究員的文檔向量化筆記_第一部分",
+        "FULLNAME": "researcher-hg-s-svg-art-part1",
+        "RATING": 14,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "麻糬的scp畫作選集",
+        "FULLNAME": "the-art-work-collection-of-wright-wilson",
+        "RATING": 14,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-882",
@@ -1134,6 +1182,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "人的悲歡，並不相通",
+        "FULLNAME": "human-sorrows-and-joys",
+        "RATING": 13,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "SCP-ZH-253",
         "FULLNAME": "scp-zh-253",
         "RATING": 12,
@@ -1144,59 +1198,5 @@
         "FULLNAME": "scp-zh-572",
         "RATING": 12,
         "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-ZH-825",
-        "FULLNAME": "scp-zh-825",
-        "RATING": 12,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-583",
-        "FULLNAME": "scp-zh-583",
-        "RATING": 12,
-        "COMMENTS": "6"
-    },
-    {
-        "TITLE": "SCP-ZH-889",
-        "FULLNAME": "scp-zh-889",
-        "RATING": 12,
-        "COMMENTS": "3"
-    },
-    {
-        "TITLE": "Nx-ZH-17",
-        "FULLNAME": "thinking-and-write",
-        "RATING": 12,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "最好的結局",
-        "FULLNAME": "what-do-you-think",
-        "RATING": 12,
-        "COMMENTS": "3"
-    },
-    {
-        "TITLE": "SCP-ZH-511",
-        "FULLNAME": "scp-zh-511",
-        "RATING": 12,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "分廠搬遷（K-05324）",
-        "FULLNAME": "k-05324",
-        "RATING": 12,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "最真實的往往無法看見",
-        "FULLNAME": "the-truth-is-usually-invisible",
-        "RATING": 12,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "熟悉的陌生人們",
-        "FULLNAME": "familiar-strangers",
-        "RATING": 12,
-        "COMMENTS": "0"
     }
 ]
