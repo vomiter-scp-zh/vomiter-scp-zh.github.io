@@ -310,5 +310,155 @@
         "FULLNAME": "red-red-string",
         "RATING": 11,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-404",
+        "FULLNAME": "scp-zh-404",
+        "RATING": 8,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "水族館約會",
+        "FULLNAME": "aquarium-date-art",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-235",
+        "FULLNAME": "adult:scp-zh-235",
+        "RATING": 21,
+        "COMMENTS": "10"
+    },
+    {
+        "TITLE": "SCP-ZH-240",
+        "FULLNAME": "scp-zh-240",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-950 - 綠神經",
+        "FULLNAME": "scp-zh-950",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "食堂約會",
+        "FULLNAME": "canteen-date",
+        "RATING": 21,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "2013年的雙人自拍",
+        "FULLNAME": "selfie-of-metha-and-kris-in-2013",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "魔鳥與魔鳥使",
+        "FULLNAME": "hafune",
+        "RATING": 14,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "雷陣雨",
+        "FULLNAME": "thunderstorm",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-593 - 坡頂",
+        "FULLNAME": "scp-zh-593",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP-ZH記錄-2",
+        "FULLNAME": "escape-chess",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "你會感到後悔嗎？",
+        "FULLNAME": "what-are-you-waiting-for-just-join-goc-dude",
+        "RATING": 34,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-496 - 安全極限距離",
+        "FULLNAME": "scp-zh-496",
+        "RATING": 28,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-322",
+        "FULLNAME": "scp-zh-322",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-835 - 燦藍神化天穹",
+        "FULLNAME": "scp-zh-835",
+        "RATING": 22,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-022-J - 拜託誰來把它填上",
+        "FULLNAME": "scp-zh-022-j",
+        "RATING": 36,
+        "COMMENTS": "19"
+    },
+    {
+        "TITLE": "SCP-ZH-033",
+        "FULLNAME": "scp-zh-033",
+        "RATING": 3,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "霜寒",
+        "FULLNAME": "frozencold",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "愚人節的致命模因",
+        "FULLNAME": "the-bottle-in-april-fools",
+        "RATING": 22,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-00l",
+        "FULLNAME": "scp-zh-00l",
+        "RATING": 12,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-250 - 人造的雪色面具",
+        "FULLNAME": "scp-zh-250",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-873 - 鐵鏽味",
+        "FULLNAME": "scp-zh-873",
+        "RATING": 7,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-833",
+        "FULLNAME": "scp-zh-833",
+        "RATING": 10,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-093",
+        "FULLNAME": "scp-zh-093",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-975 - 基準現實函數：輸入",
+        "FULLNAME": "scp-zh-975",
+        "RATING": 10,
+        "COMMENTS": "6"
     }
 ]

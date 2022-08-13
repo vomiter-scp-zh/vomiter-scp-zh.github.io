@@ -40,5 +40,17 @@
         "FULLNAME": "scp-zh-224",
         "RATING": 8,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-146",
+        "FULLNAME": "scp-zh-146",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-322",
+        "FULLNAME": "scp-zh-322",
+        "RATING": 12,
+        "COMMENTS": "2"
     }
 ]

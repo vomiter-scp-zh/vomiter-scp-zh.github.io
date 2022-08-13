@@ -52,5 +52,23 @@
         "FULLNAME": "scp-zh-2005-ex",
         "RATING": 55,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "辦公室裡的致命模因",
+        "FULLNAME": "the-bottle-in-office",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "牛奶拼圖",
+        "FULLNAME": "milk-puzzle",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-207",
+        "FULLNAME": "scp-zh-207",
+        "RATING": 11,
+        "COMMENTS": "5"
     }
 ]

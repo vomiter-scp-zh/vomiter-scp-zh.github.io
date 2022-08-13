@@ -28,5 +28,11 @@
         "FULLNAME": "scp-zh-090",
         "RATING": 16,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-404",
+        "FULLNAME": "scp-zh-404",
+        "RATING": 8,
+        "COMMENTS": "6"
     }
 ]

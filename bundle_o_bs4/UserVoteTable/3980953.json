@@ -76,5 +76,53 @@
         "FULLNAME": "between-dream-and-sin",
         "RATING": 13,
         "COMMENTS": "7"
+    },
+    {
+        "TITLE": "牛奶拼圖",
+        "FULLNAME": "milk-puzzle",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "你會感到後悔嗎？",
+        "FULLNAME": "what-are-you-waiting-for-just-join-goc-dude",
+        "RATING": 34,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-496 - 安全極限距離",
+        "FULLNAME": "scp-zh-496",
+        "RATING": 28,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-207",
+        "FULLNAME": "scp-zh-207",
+        "RATING": 11,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-022-J - 拜託誰來把它填上",
+        "FULLNAME": "scp-zh-022-j",
+        "RATING": 36,
+        "COMMENTS": "19"
+    },
+    {
+        "TITLE": "霜寒",
+        "FULLNAME": "frozencold",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-00l",
+        "FULLNAME": "scp-zh-00l",
+        "RATING": 12,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "私案：自籌資金",
+        "FULLNAME": "the-plan-of-stonks",
+        "RATING": 10,
+        "COMMENTS": "0"
     }
 ]

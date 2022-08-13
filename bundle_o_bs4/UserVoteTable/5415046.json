@@ -1198,5 +1198,77 @@
         "FULLNAME": "scp-zh-172",
         "RATING": 6,
         "COMMENTS": "9"
+    },
+    {
+        "TITLE": "SCP-ZH-235",
+        "FULLNAME": "adult:scp-zh-235",
+        "RATING": 21,
+        "COMMENTS": "10"
+    },
+    {
+        "TITLE": "SCP-ZH-950 - 綠神經",
+        "FULLNAME": "scp-zh-950",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "2010年的那幾個實習生",
+        "FULLNAME": "source-of-chaos",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "魔鳥與魔鳥使",
+        "FULLNAME": "hafune",
+        "RATING": 14,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-593 - 坡頂",
+        "FULLNAME": "scp-zh-593",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "水俁病.mp3",
+        "FULLNAME": "minamata-disease",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-496 - 安全極限距離",
+        "FULLNAME": "scp-zh-496",
+        "RATING": 28,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-322",
+        "FULLNAME": "scp-zh-322",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-835 - 燦藍神化天穹",
+        "FULLNAME": "scp-zh-835",
+        "RATING": 22,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-00l",
+        "FULLNAME": "scp-zh-00l",
+        "RATING": 12,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-833",
+        "FULLNAME": "scp-zh-833",
+        "RATING": 10,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-093",
+        "FULLNAME": "scp-zh-093",
+        "RATING": 11,
+        "COMMENTS": "1"
     }
 ]

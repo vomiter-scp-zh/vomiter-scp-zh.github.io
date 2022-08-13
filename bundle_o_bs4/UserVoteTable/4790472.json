@@ -52,5 +52,17 @@
         "FULLNAME": "scp-zh-224",
         "RATING": 8,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-496 - 安全極限距離",
+        "FULLNAME": "scp-zh-496",
+        "RATING": 28,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-033",
+        "FULLNAME": "scp-zh-033",
+        "RATING": 3,
+        "COMMENTS": "7"
     }
 ]

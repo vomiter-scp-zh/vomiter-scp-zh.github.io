@@ -484,5 +484,161 @@
         "FULLNAME": "scp-zh-172",
         "RATING": 6,
         "COMMENTS": "9"
+    },
+    {
+        "TITLE": "歸途",
+        "FULLNAME": "backtohome",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "他聲之痕",
+        "FULLNAME": "trace-of-many-voices",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Dr. Bales的日常小品集錦 二",
+        "FULLNAME": "bales-s-daily-2",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-404",
+        "FULLNAME": "scp-zh-404",
+        "RATING": 8,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "Nihilmace與Valmua",
+        "FULLNAME": "k1s10r0d-nihilmace-and-valmua",
+        "RATING": 15,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-980 - 築夢小棧",
+        "FULLNAME": "scp-zh-980",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-950 - 綠神經",
+        "FULLNAME": "scp-zh-950",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Dr. Kris的文檔山海－Dr. Kris的隨手塗鴉",
+        "FULLNAME": "k1s10r0d-kris-doodle",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "2010年的那幾個實習生",
+        "FULLNAME": "source-of-chaos",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "食堂約會",
+        "FULLNAME": "canteen-date",
+        "RATING": 21,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "2013年的雙人自拍",
+        "FULLNAME": "selfie-of-metha-and-kris-in-2013",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP-ZH記錄-1",
+        "FULLNAME": "creepy-tunnel",
+        "RATING": 24,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP-ZH記錄-2",
+        "FULLNAME": "escape-chess",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-835 - 燦藍神化天穹",
+        "FULLNAME": "scp-zh-835",
+        "RATING": 22,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-022-J - 拜託誰來把它填上",
+        "FULLNAME": "scp-zh-022-j",
+        "RATING": 36,
+        "COMMENTS": "19"
+    },
+    {
+        "TITLE": "SCP-ZH-00l",
+        "FULLNAME": "scp-zh-00l",
+        "RATING": 12,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-873 - 鐵鏽味",
+        "FULLNAME": "scp-zh-873",
+        "RATING": 7,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "私案：變節預告",
+        "FULLNAME": "the-plan-before-defection",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-855",
+        "FULLNAME": "scp-zh-855",
+        "RATING": 7,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "特工Σ角色歌：在總和之後",
+        "FULLNAME": "after-sigma",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-093",
+        "FULLNAME": "scp-zh-093",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "私案：自籌資金",
+        "FULLNAME": "the-plan-of-stonks",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "閒暇之餘",
+        "FULLNAME": "maimai-first-time",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-975 - 基準現實函數：輸入",
+        "FULLNAME": "scp-zh-975",
+        "RATING": 10,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "花語：蒲公英",
+        "FULLNAME": "taraxacum",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-440",
+        "FULLNAME": "scp-zh-440",
+        "RATING": 12,
+        "COMMENTS": "6"
     }
 ]

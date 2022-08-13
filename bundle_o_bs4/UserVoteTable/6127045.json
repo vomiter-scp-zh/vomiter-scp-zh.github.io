@@ -76,5 +76,29 @@
         "FULLNAME": "red-1354",
         "RATING": 17,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-404",
+        "FULLNAME": "scp-zh-404",
+        "RATING": 8,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "Nihilmace與Valmua",
+        "FULLNAME": "k1s10r0d-nihilmace-and-valmua",
+        "RATING": 15,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "水族館約會",
+        "FULLNAME": "aquarium-date-art",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-496 - 安全極限距離",
+        "FULLNAME": "scp-zh-496",
+        "RATING": 28,
+        "COMMENTS": "7"
     }
 ]

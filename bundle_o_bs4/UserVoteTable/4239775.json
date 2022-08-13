@@ -1426,5 +1426,77 @@
         "FULLNAME": "biomedical-sense-zh",
         "RATING": 14,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "歸途",
+        "FULLNAME": "backtohome",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "他聲之痕",
+        "FULLNAME": "trace-of-many-voices",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Dr. Bales的日常小品集錦 二",
+        "FULLNAME": "bales-s-daily-2",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-404",
+        "FULLNAME": "scp-zh-404",
+        "RATING": 8,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-235",
+        "FULLNAME": "adult:scp-zh-235",
+        "RATING": 21,
+        "COMMENTS": "10"
+    },
+    {
+        "TITLE": "SCP-ZH-950 - 綠神經",
+        "FULLNAME": "scp-zh-950",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "事件代號：核裂擠兌-外勤研究員 水銀視角",
+        "FULLNAME": "operation-nucleon-bank-hg",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "雷陣雨",
+        "FULLNAME": "thunderstorm",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-593 - 坡頂",
+        "FULLNAME": "scp-zh-593",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-022-J - 拜託誰來把它填上",
+        "FULLNAME": "scp-zh-022-j",
+        "RATING": 36,
+        "COMMENTS": "19"
+    },
+    {
+        "TITLE": "SCP-ZH-022",
+        "FULLNAME": "scp-zh-022",
+        "RATING": 6,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-440",
+        "FULLNAME": "scp-zh-440",
+        "RATING": 12,
+        "COMMENTS": "6"
     }
 ]

@@ -292,5 +292,17 @@
         "FULLNAME": "sushi-dragon-phoenix",
         "RATING": 13,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-950 - 綠神經",
+        "FULLNAME": "scp-zh-950",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-00l",
+        "FULLNAME": "scp-zh-00l",
+        "RATING": 12,
+        "COMMENTS": "5"
     }
 ]

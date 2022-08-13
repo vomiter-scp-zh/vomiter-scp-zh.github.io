@@ -106,5 +106,47 @@
         "FULLNAME": "art-for-zh2005ex",
         "RATING": 15,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-235",
+        "FULLNAME": "adult:scp-zh-235",
+        "RATING": 21,
+        "COMMENTS": "10"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP-ZH記錄-1",
+        "FULLNAME": "creepy-tunnel",
+        "RATING": 24,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-207",
+        "FULLNAME": "scp-zh-207",
+        "RATING": 11,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-022-J - 拜託誰來把它填上",
+        "FULLNAME": "scp-zh-022-j",
+        "RATING": 36,
+        "COMMENTS": "19"
+    },
+    {
+        "TITLE": "2021愚人節主頁",
+        "FULLNAME": "super-cooking-pot",
+        "RATING": 24,
+        "COMMENTS": "10"
+    },
+    {
+        "TITLE": "Valmúa小合集",
+        "FULLNAME": "valmua-compilation",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-975 - 基準現實函數：輸入",
+        "FULLNAME": "scp-zh-975",
+        "RATING": 10,
+        "COMMENTS": "6"
     }
 ]

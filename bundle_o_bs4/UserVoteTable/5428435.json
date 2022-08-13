@@ -358,5 +358,23 @@
         "FULLNAME": "scp-zh-091",
         "RATING": 19,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP-ZH記錄-1",
+        "FULLNAME": "creepy-tunnel",
+        "RATING": 24,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP-ZH記錄-2",
+        "FULLNAME": "escape-chess",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-022-J - 拜託誰來把它填上",
+        "FULLNAME": "scp-zh-022-j",
+        "RATING": 36,
+        "COMMENTS": "19"
     }
 ]
