@@ -22,5 +22,23 @@
         "FULLNAME": "scp-zh-229",
         "RATING": 14,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-018",
+        "FULLNAME": "scp-zh-018",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-954 - 黃色便條紙",
+        "FULLNAME": "scp-zh-954",
+        "RATING": 17,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-572",
+        "FULLNAME": "scp-zh-572",
+        "RATING": 12,
+        "COMMENTS": "2"
     }
 ]

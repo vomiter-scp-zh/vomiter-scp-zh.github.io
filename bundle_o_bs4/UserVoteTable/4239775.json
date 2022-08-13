@@ -46,5 +46,41 @@
         "FULLNAME": "scp-zh-551",
         "RATING": 7,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-122",
+        "FULLNAME": "scp-zh-122",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-954 - 黃色便條紙",
+        "FULLNAME": "scp-zh-954",
+        "RATING": 17,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-349",
+        "FULLNAME": "scp-zh-349",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-421",
+        "FULLNAME": "scp-zh-421",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-977 - 救贖聖經",
+        "FULLNAME": "scp-zh-977",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-117",
+        "FULLNAME": "scp-zh-117",
+        "RATING": 33,
+        "COMMENTS": "1"
     }
 ]

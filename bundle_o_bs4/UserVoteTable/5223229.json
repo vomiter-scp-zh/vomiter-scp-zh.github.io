@@ -40,5 +40,41 @@
         "FULLNAME": "scp-zh-666",
         "RATING": 15,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-018",
+        "FULLNAME": "scp-zh-018",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-122",
+        "FULLNAME": "scp-zh-122",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-555",
+        "FULLNAME": "scp-zh-555",
+        "RATING": 1,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-349",
+        "FULLNAME": "scp-zh-349",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-521",
+        "FULLNAME": "scp-zh-521",
+        "RATING": 3,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-421",
+        "FULLNAME": "scp-zh-421",
+        "RATING": 6,
+        "COMMENTS": "1"
     }
 ]
