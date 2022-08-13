@@ -1060,5 +1060,29 @@
         "FULLNAME": "scp-zh-895",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-403 - 禁臠與終止符",
+        "FULLNAME": "scp-zh-403",
+        "RATING": 15,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-361 - 驚喜X麵",
+        "FULLNAME": "scp-zh-361",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-279 - 愛的形狀",
+        "FULLNAME": "scp-zh-279",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "海棠依舊",
+        "FULLNAME": "lucid-dreams",
+        "RATING": 22,
+        "COMMENTS": "0"
     }
 ]

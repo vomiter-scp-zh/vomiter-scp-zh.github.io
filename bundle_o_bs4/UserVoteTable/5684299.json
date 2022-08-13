@@ -3118,5 +3118,29 @@
         "FULLNAME": "sq-artwork-1b",
         "RATING": 10,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-706 - 少年ㄟ，可不可以陪阿伯找回家的路？",
+        "FULLNAME": "scp-zh-706",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "NX-ZH-02：西加走灣群島",
+        "FULLNAME": "nx-zh-02",
+        "RATING": 24,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-304 - 行進插曲",
+        "FULLNAME": "scp-zh-304",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-184 - 奔車朽索",
+        "FULLNAME": "scp-zh-184",
+        "RATING": 16,
+        "COMMENTS": "1"
     }
 ]

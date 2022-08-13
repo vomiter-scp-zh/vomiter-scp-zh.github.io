@@ -430,5 +430,11 @@
         "FULLNAME": "end-of-heavy-snow",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "希望的顏色",
+        "FULLNAME": "color-of-hope",
+        "RATING": 10,
+        "COMMENTS": "0"
     }
 ]

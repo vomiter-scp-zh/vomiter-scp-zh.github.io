@@ -2002,5 +2002,29 @@
         "FULLNAME": "dormitive-waltz",
         "RATING": 12,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-279 - 愛的形狀",
+        "FULLNAME": "scp-zh-279",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "海棠依舊",
+        "FULLNAME": "lucid-dreams",
+        "RATING": 22,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-184 - 奔車朽索",
+        "FULLNAME": "scp-zh-184",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "假面騎士Theseus：雙軌難題",
+        "FULLNAME": "kamen-rider-theseus-double-tracks-problem",
+        "RATING": 12,
+        "COMMENTS": "0"
     }
 ]

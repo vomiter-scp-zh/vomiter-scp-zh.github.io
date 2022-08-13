@@ -372,6 +372,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "NX-ZH-02：西加走灣群島",
+        "FULLNAME": "nx-zh-02",
+        "RATING": 24,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-ZH-100",
         "FULLNAME": "scp-zh-0100",
         "RATING": 23,
@@ -532,6 +538,12 @@
         "FULLNAME": "scp-zh-106",
         "RATING": 22,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "海棠依舊",
+        "FULLNAME": "lucid-dreams",
+        "RATING": 22,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-610 - 猛爆性繁衍組織瘤",
@@ -894,6 +906,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-ZH-279 - 愛的形狀",
+        "FULLNAME": "scp-zh-279",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-ZH-017",
         "FULLNAME": "scp-zh-017",
         "RATING": 18,
@@ -1180,23 +1198,5 @@
         "FULLNAME": "comic",
         "RATING": 17,
         "COMMENTS": "2"
-    },
-    {
-        "TITLE": "蓬萊島新創民主形式：「創制」首長將於今日解凍",
-        "FULLNAME": "r-sinano-chuo-zhtr-2018-11-19-a222a",
-        "RATING": 17,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "花語：花毛茛",
-        "FULLNAME": "ranunculus",
-        "RATING": 17,
-        "COMMENTS": "3"
-    },
-    {
-        "TITLE": "紀錄及訊息安全管理部門特殊文件－與李總統登輝先生相關的專訪",
-        "FULLNAME": "raisa-lee-teng-hui",
-        "RATING": 17,
-        "COMMENTS": "1"
     }
 ]
