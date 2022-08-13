@@ -58,5 +58,23 @@
         "FULLNAME": "news-site-zh-81-1",
         "RATING": 24,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-603 - 腳踏車上的人",
+        "FULLNAME": "scp-zh-603",
+        "RATING": 30,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-862",
+        "FULLNAME": "scp-zh-862",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "滿洲國異常辦公室隊歌",
+        "FULLNAME": "the-song-of-mckao",
+        "RATING": 10,
+        "COMMENTS": "4"
     }
 ]

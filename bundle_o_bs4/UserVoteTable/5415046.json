@@ -694,5 +694,89 @@
         "FULLNAME": "i-am-very-confused",
         "RATING": 7,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Bright博士教你如何正確擊退敵人",
+        "FULLNAME": "how-to-defeat-those-bad-guys-correctly",
+        "RATING": 24,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-264",
+        "FULLNAME": "scp-zh-264",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-133",
+        "FULLNAME": "scp-zh-133",
+        "RATING": 20,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "卡嚓……卡嚓……",
+        "FULLNAME": "kacha",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-102 - 《彩虹橋》保密條款",
+        "FULLNAME": "scp-zh-102",
+        "RATING": 8,
+        "COMMENTS": "9"
+    },
+    {
+        "TITLE": "SPC-ZH-795",
+        "FULLNAME": "spc-zh-795",
+        "RATING": 13,
+        "COMMENTS": "9"
+    },
+    {
+        "TITLE": "SCP-ZH-222",
+        "FULLNAME": "scp-zh-222",
+        "RATING": 13,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-078",
+        "FULLNAME": "scp-zh-078",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "宿雨",
+        "FULLNAME": "the-rain-fell-overnight",
+        "RATING": 20,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-603 - 腳踏車上的人",
+        "FULLNAME": "scp-zh-603",
+        "RATING": 30,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "成為一個工廠領工",
+        "FULLNAME": "the-foreman",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-007",
+        "FULLNAME": "scp-zh-007",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "滿洲國異常辦公室隊歌",
+        "FULLNAME": "the-song-of-mckao",
+        "RATING": 10,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "繁中站點地下街",
+        "FULLNAME": "shopping-arcade",
+        "RATING": 20,
+        "COMMENTS": "3"
     }
 ]

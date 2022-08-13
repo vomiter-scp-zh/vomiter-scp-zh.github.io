@@ -418,5 +418,119 @@
         "FULLNAME": "practice",
         "RATING": 17,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "闇壽司檔案No.053「紅豆軍艦」",
+        "FULLNAME": "yamizushi-file-053",
+        "RATING": 12,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "3D油飯",
+        "FULLNAME": "sh-3d-glutinous-oil-rice",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-264",
+        "FULLNAME": "scp-zh-264",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "卡嚓……卡嚓……",
+        "FULLNAME": "kacha",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-289",
+        "FULLNAME": "scp-zh-289",
+        "RATING": 14,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-078",
+        "FULLNAME": "scp-zh-078",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "成為一個工廠領工",
+        "FULLNAME": "the-foreman",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-175",
+        "FULLNAME": "scp-zh-175",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-103 相關實驗記錄",
+        "FULLNAME": "scp-zh-103-experiment-log",
+        "RATING": 16,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "巧達Clef!",
+        "FULLNAME": "arkwork-chowderclef",
+        "RATING": 24,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "記憶的洪流",
+        "FULLNAME": "stream-of-memory",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "個人日誌",
+        "FULLNAME": "personal-diary-of-iceberg-and-gears",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "47",
+        "FULLNAME": "47",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "滿洲國異常辦公室隊歌",
+        "FULLNAME": "the-song-of-mckao",
+        "RATING": 10,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "日環蝕與主任與冰淇凌",
+        "FULLNAME": "abyssdream-pic-v",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-700",
+        "FULLNAME": "scp-zh-700",
+        "RATING": 11,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-229-EX",
+        "FULLNAME": "scp-zh-229-ex",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "為何我們不能濫用現實穩定錨？",
+        "FULLNAME": "about-scranton-reality-anchors",
+        "RATING": 15,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "繁中站點地下街",
+        "FULLNAME": "shopping-arcade",
+        "RATING": 20,
+        "COMMENTS": "3"
     }
 ]

@@ -172,5 +172,17 @@
         "FULLNAME": "scp-zh-857",
         "RATING": 12,
         "COMMENTS": "11"
+    },
+    {
+        "TITLE": "SCP-ZH-133",
+        "FULLNAME": "scp-zh-133",
+        "RATING": 20,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-324",
+        "FULLNAME": "scp-zh-324",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]

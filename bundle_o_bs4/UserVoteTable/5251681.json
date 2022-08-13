@@ -184,5 +184,29 @@
         "FULLNAME": "cnblack-s-laboratory",
         "RATING": 15,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-603 - 腳踏車上的人",
+        "FULLNAME": "scp-zh-603",
+        "RATING": 30,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-103 相關實驗記錄",
+        "FULLNAME": "scp-zh-103-experiment-log",
+        "RATING": 16,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "巧達Clef!",
+        "FULLNAME": "arkwork-chowderclef",
+        "RATING": 24,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "繁中站點地下街",
+        "FULLNAME": "shopping-arcade",
+        "RATING": 20,
+        "COMMENTS": "3"
     }
 ]

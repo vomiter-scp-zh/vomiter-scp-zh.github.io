@@ -1042,5 +1042,149 @@
         "FULLNAME": "practice",
         "RATING": 17,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Bright博士教你如何正確擊退敵人",
+        "FULLNAME": "how-to-defeat-those-bad-guys-correctly",
+        "RATING": 24,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Dr.Mei的圖文研究-SCP-035",
+        "FULLNAME": "zh-art-035",
+        "RATING": 6,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-289",
+        "FULLNAME": "scp-zh-289",
+        "RATING": 14,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "新高山計劃、昭和十九年",
+        "FULLNAME": "new-takayama-plan",
+        "RATING": 11,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-078",
+        "FULLNAME": "scp-zh-078",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "宿雨",
+        "FULLNAME": "the-rain-fell-overnight",
+        "RATING": 20,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-603 - 腳踏車上的人",
+        "FULLNAME": "scp-zh-603",
+        "RATING": 30,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-175",
+        "FULLNAME": "scp-zh-175",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "巧達Clef!",
+        "FULLNAME": "arkwork-chowderclef",
+        "RATING": 24,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "微雨",
+        "FULLNAME": "drizzle",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "我的47",
+        "FULLNAME": "my-47-th",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "手裡的重量",
+        "FULLNAME": "the-weight-on-his-hands",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-862",
+        "FULLNAME": "scp-zh-862",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-324",
+        "FULLNAME": "scp-zh-324",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-137",
+        "FULLNAME": "scp-zh-137",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "方圍裡的英雄",
+        "FULLNAME": "the-hero-in-the-cage",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "夏之雪",
+        "FULLNAME": "summersnow",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "節分",
+        "FULLNAME": "setsubun",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "小動物檔案：Amber ！",
+        "FULLNAME": "the-electronic-dog",
+        "RATING": 9,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "為何我們不能濫用現實穩定錨？",
+        "FULLNAME": "about-scranton-reality-anchors",
+        "RATING": 15,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "繁中站點地下街",
+        "FULLNAME": "shopping-arcade",
+        "RATING": 20,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "無處不在，無法忘懷。",
+        "FULLNAME": "he-hadnt-faded-away",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "第零印象",
+        "FULLNAME": "zeroth-impression",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "喵喵爪爪，打打鯊鯊",
+        "FULLNAME": "sh-cat-claw-punch-shark",
+        "RATING": 9,
+        "COMMENTS": "1"
     }
 ]

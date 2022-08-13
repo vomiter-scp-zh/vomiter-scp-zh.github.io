@@ -102,6 +102,12 @@
         "COMMENTS": "4"
     },
     {
+        "TITLE": "SCP-ZH-603 - 腳踏車上的人",
+        "FULLNAME": "scp-zh-603",
+        "RATING": 30,
+        "COMMENTS": "5"
+    },
+    {
         "TITLE": "SCP-ZH-053",
         "FULLNAME": "scp-zh-053",
         "RATING": 29,
@@ -148,6 +154,18 @@
         "FULLNAME": "news-site-zh-81-1",
         "RATING": 24,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "Bright博士教你如何正確擊退敵人",
+        "FULLNAME": "how-to-defeat-those-bad-guys-correctly",
+        "RATING": 24,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "巧達Clef!",
+        "FULLNAME": "arkwork-chowderclef",
+        "RATING": 24,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-100",
@@ -296,6 +314,30 @@
     {
         "TITLE": "SCP-ZH-044",
         "FULLNAME": "scp-zh-044",
+        "RATING": 20,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-133",
+        "FULLNAME": "scp-zh-133",
+        "RATING": 20,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "宿雨",
+        "FULLNAME": "the-rain-fell-overnight",
+        "RATING": 20,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "菇菇基金會",
+        "FULLNAME": "fungi-foundation",
+        "RATING": 20,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "繁中站點地下街",
+        "FULLNAME": "shopping-arcade",
         "RATING": 20,
         "COMMENTS": "3"
     },
@@ -600,6 +642,30 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "「三垣」中心頁",
+        "FULLNAME": "three-enclosures-hub",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-078",
+        "FULLNAME": "scp-zh-078",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-103 相關實驗記錄",
+        "FULLNAME": "scp-zh-103-experiment-log",
+        "RATING": 16,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-229-EX",
+        "FULLNAME": "scp-zh-229-ex",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-ZH-252",
         "FULLNAME": "scp-zh-252",
         "RATING": 15,
@@ -744,6 +810,18 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-ZH-007",
+        "FULLNAME": "scp-zh-007",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "為何我們不能濫用現實穩定錨？",
+        "FULLNAME": "about-scranton-reality-anchors",
+        "RATING": 15,
+        "COMMENTS": "3"
+    },
+    {
         "TITLE": "SCP-ZH-229",
         "FULLNAME": "scp-zh-229",
         "RATING": 14,
@@ -880,6 +958,18 @@
         "FULLNAME": "abyssdream-pic-01",
         "RATING": 14,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-289",
+        "FULLNAME": "scp-zh-289",
+        "RATING": 14,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "《王道異土-偽滿洲國異常辦公室特展》場刊",
+        "FULLNAME": "the-collection-of-mck",
+        "RATING": 14,
+        "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-ZH-882",
@@ -1026,6 +1116,24 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SPC-ZH-795",
+        "FULLNAME": "spc-zh-795",
+        "RATING": 13,
+        "COMMENTS": "9"
+    },
+    {
+        "TITLE": "SCP-ZH-222",
+        "FULLNAME": "scp-zh-222",
+        "RATING": 13,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "47",
+        "FULLNAME": "47",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-253",
         "FULLNAME": "scp-zh-253",
         "RATING": 12,
@@ -1090,113 +1198,5 @@
         "FULLNAME": "familiar-strangers",
         "RATING": 12,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-194 - 義體菌群",
-        "FULLNAME": "scp-zh-194",
-        "RATING": 12,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "洗衣部門",
-        "FULLNAME": "laundry-of-miya",
-        "RATING": 12,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-ZH-899",
-        "FULLNAME": "scp-zh-899",
-        "RATING": 12,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "事件代號：核裂擠兌-SCP-ZH-899視點",
-        "FULLNAME": "operation-nucleon-bank-899",
-        "RATING": 12,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-ZH-925 - 魔術師衣櫃",
-        "FULLNAME": "scp-zh-925",
-        "RATING": 12,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "中秋節的過勞站點與NB區研究員與一群異常浣熊",
-        "FULLNAME": "nb",
-        "RATING": 12,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-047",
-        "FULLNAME": "scp-zh-047",
-        "RATING": 12,
-        "COMMENTS": "3"
-    },
-    {
-        "TITLE": "Site-ZH-81的登艦申請書",
-        "FULLNAME": "boarding",
-        "RATING": 12,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "初次見面",
-        "FULLNAME": "mystery",
-        "RATING": 12,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-ZH-075",
-        "FULLNAME": "scp-zh-075",
-        "RATING": 12,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "餘波",
-        "FULLNAME": "aftermath-zh",
-        "RATING": 12,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "查看影像檔案。",
-        "FULLNAME": "what-is-site-zh12",
-        "RATING": 12,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "藝術紀錄：協和御守。",
-        "FULLNAME": "art-for-zh258",
-        "RATING": 12,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "遠東零號部門卷宗：E-830",
-        "FULLNAME": "e-830",
-        "RATING": 12,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "圓之夢，夢中之黃不是吉祥",
-        "FULLNAME": "no-cooked-yolk-is-life",
-        "RATING": 12,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "尋獲地點補遺：編號001",
-        "FULLNAME": "a-mysterious-road",
-        "RATING": 12,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "弦音未止，餘芳猶存",
-        "FULLNAME": "keepthere-art",
-        "RATING": 12,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "Viken-K的模因標示回收場",
-        "FULLNAME": "viken-k-arts",
-        "RATING": 12,
-        "COMMENTS": "2"
     }
 ]

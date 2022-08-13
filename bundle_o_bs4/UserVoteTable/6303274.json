@@ -106,5 +106,35 @@
         "FULLNAME": "task-forces-complete-list-zh",
         "RATING": 6,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "行動簡報 第130字號",
+        "FULLNAME": "nsb8-130",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-133",
+        "FULLNAME": "scp-zh-133",
+        "RATING": 20,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-603 - 腳踏車上的人",
+        "FULLNAME": "scp-zh-603",
+        "RATING": 30,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-175",
+        "FULLNAME": "scp-zh-175",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-229-EX",
+        "FULLNAME": "scp-zh-229-ex",
+        "RATING": 16,
+        "COMMENTS": "1"
     }
 ]

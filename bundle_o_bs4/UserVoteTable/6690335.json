@@ -130,5 +130,11 @@
         "FULLNAME": "parawatch-shawarma",
         "RATING": 21,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "菇菇基金會",
+        "FULLNAME": "fungi-foundation",
+        "RATING": 20,
+        "COMMENTS": "5"
     }
 ]

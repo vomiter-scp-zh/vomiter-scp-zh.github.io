@@ -310,5 +310,71 @@
         "FULLNAME": "parawatch-shawarma",
         "RATING": 21,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-133",
+        "FULLNAME": "scp-zh-133",
+        "RATING": 20,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "卡嚓……卡嚓……",
+        "FULLNAME": "kacha",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SPC-ZH-795",
+        "FULLNAME": "spc-zh-795",
+        "RATING": 13,
+        "COMMENTS": "9"
+    },
+    {
+        "TITLE": "宿雨",
+        "FULLNAME": "the-rain-fell-overnight",
+        "RATING": 20,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-603 - 腳踏車上的人",
+        "FULLNAME": "scp-zh-603",
+        "RATING": 30,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "47",
+        "FULLNAME": "47",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "微雨",
+        "FULLNAME": "drizzle",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "我的47",
+        "FULLNAME": "my-47-th",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "先是牢騷，接著繼續工作",
+        "FULLNAME": "complain-first-work-second",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "菇菇基金會",
+        "FULLNAME": "fungi-foundation",
+        "RATING": 20,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "第零印象",
+        "FULLNAME": "zeroth-impression",
+        "RATING": 7,
+        "COMMENTS": "1"
     }
 ]

@@ -406,5 +406,17 @@
         "FULLNAME": "news-site-zh-81-1",
         "RATING": 24,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-229-EX",
+        "FULLNAME": "scp-zh-229-ex",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "繁中站點地下街",
+        "FULLNAME": "shopping-arcade",
+        "RATING": 20,
+        "COMMENTS": "3"
     }
 ]

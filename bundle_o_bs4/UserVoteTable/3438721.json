@@ -52,5 +52,29 @@
         "FULLNAME": "collection-of-the-cultural-revolution",
         "RATING": 11,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-264",
+        "FULLNAME": "scp-zh-264",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "新高山計劃、昭和十九年",
+        "FULLNAME": "new-takayama-plan",
+        "RATING": 11,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "蘭時返計劃、昭和十六年",
+        "FULLNAME": "ran-jikan-rupu",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "《王道異土-偽滿洲國異常辦公室特展》場刊",
+        "FULLNAME": "the-collection-of-mck",
+        "RATING": 14,
+        "COMMENTS": "2"
     }
 ]
