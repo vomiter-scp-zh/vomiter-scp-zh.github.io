@@ -16,5 +16,41 @@
         "FULLNAME": "scp-zh-009",
         "RATING": 20,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-020",
+        "FULLNAME": "scp-zh-020",
+        "RATING": 13,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-511",
+        "FULLNAME": "scp-zh-511",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-310 - 異常蛋白質結構域",
+        "FULLNAME": "scp-zh-310",
+        "RATING": 26,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-006",
+        "FULLNAME": "scp-zh-006",
+        "RATING": 10,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-105 - 不孝子",
+        "FULLNAME": "scp-zh-105",
+        "RATING": 65,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-125",
+        "FULLNAME": "scp-zh-125",
+        "RATING": 22,
+        "COMMENTS": "2"
     }
 ]

@@ -34,5 +34,47 @@
         "FULLNAME": "scp-zh-009",
         "RATING": 20,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-118",
+        "FULLNAME": "scp-zh-118",
+        "RATING": 6,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-477 - 不可抗吸引",
+        "FULLNAME": "scp-zh-477",
+        "RATING": 13,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-087-J",
+        "FULLNAME": "scp-zh-087-j",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-888",
+        "FULLNAME": "scp-zh-888",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-823",
+        "FULLNAME": "scp-zh-823",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-511",
+        "FULLNAME": "scp-zh-511",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-199",
+        "FULLNAME": "scp-zh-199",
+        "RATING": 22,
+        "COMMENTS": "8"
     }
 ]

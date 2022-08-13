@@ -22,5 +22,23 @@
         "FULLNAME": "scp-zh-618",
         "RATING": 41,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-888",
+        "FULLNAME": "scp-zh-888",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-020",
+        "FULLNAME": "scp-zh-020",
+        "RATING": 13,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-005",
+        "FULLNAME": "scp-zh-005",
+        "RATING": 60,
+        "COMMENTS": "0"
     }
 ]

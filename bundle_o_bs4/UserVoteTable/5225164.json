@@ -70,5 +70,41 @@
         "FULLNAME": "eco-09",
         "RATING": 8,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "測驗心理諮詢室",
+        "FULLNAME": "counseling-room",
+        "RATING": 2,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "模板指南（通用/翻譯）",
+        "FULLNAME": "template-translation",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "翻譯不只是塊蛋糕",
+        "FULLNAME": "sth-about-translation",
+        "RATING": 11,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-583",
+        "FULLNAME": "scp-zh-583",
+        "RATING": 12,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "挑戰傳統評分方式：關於自訂評分模版",
+        "FULLNAME": "rating-against-traditions",
+        "RATING": 24,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "關於圖片來源與歸屬的注意事項",
+        "FULLNAME": "feitag-give-attribution-for-images",
+        "RATING": 6,
+        "COMMENTS": "0"
     }
 ]

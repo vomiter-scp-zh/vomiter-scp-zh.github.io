@@ -142,5 +142,83 @@
         "FULLNAME": "scp-zh-618",
         "RATING": 41,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "模板指南（通用/翻譯）",
+        "FULLNAME": "template-translation",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "翻譯不只是塊蛋糕",
+        "FULLNAME": "sth-about-translation",
+        "RATING": 11,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-583",
+        "FULLNAME": "scp-zh-583",
+        "RATING": 12,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-477 - 不可抗吸引",
+        "FULLNAME": "scp-zh-477",
+        "RATING": 13,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "Nx-ZH-17",
+        "FULLNAME": "thinking-and-write",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "沒有人會負責善後",
+        "FULLNAME": "nobodyneedshelp",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-972 - 鐵籠",
+        "FULLNAME": "scp-zh-972",
+        "RATING": 8,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-ZH-16",
+        "FULLNAME": "site-zh-16",
+        "RATING": 14,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Site-ZH-02 大廳",
+        "FULLNAME": "site-zh-02-front",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-310 - 異常蛋白質結構域",
+        "FULLNAME": "scp-zh-310",
+        "RATING": 26,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-105 - 不孝子",
+        "FULLNAME": "scp-zh-105",
+        "RATING": 65,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "NSB-8新進人員教程: 何謂colony",
+        "FULLNAME": "nsb8-teach-colony",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-661",
+        "FULLNAME": "scp-zh-661",
+        "RATING": 10,
+        "COMMENTS": "0"
     }
 ]

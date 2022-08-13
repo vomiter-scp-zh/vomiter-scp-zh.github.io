@@ -28,5 +28,41 @@
         "FULLNAME": "scp-zh-618",
         "RATING": 41,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-ZH-02",
+        "FULLNAME": "site-zh-02",
+        "RATING": 25,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-888",
+        "FULLNAME": "scp-zh-888",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-256",
+        "FULLNAME": "scp-zh-256",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-323",
+        "FULLNAME": "scp-zh-323",
+        "RATING": 10,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-310 - 異常蛋白質結構域",
+        "FULLNAME": "scp-zh-310",
+        "RATING": 26,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-105 - 不孝子",
+        "FULLNAME": "scp-zh-105",
+        "RATING": 65,
+        "COMMENTS": "5"
     }
 ]

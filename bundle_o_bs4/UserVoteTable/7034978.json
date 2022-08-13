@@ -28,5 +28,47 @@
         "FULLNAME": "scp-zh-687",
         "RATING": 3,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-ZH-02",
+        "FULLNAME": "site-zh-02",
+        "RATING": 25,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "挑戰傳統評分方式：關於自訂評分模版",
+        "FULLNAME": "rating-against-traditions",
+        "RATING": 24,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-035",
+        "FULLNAME": "scp-zh-035",
+        "RATING": 20,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Site-ZH-02 大廳",
+        "FULLNAME": "site-zh-02-front",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-199",
+        "FULLNAME": "scp-zh-199",
+        "RATING": 22,
+        "COMMENTS": "8"
+    },
+    {
+        "TITLE": "SCP-ZH-105 - 不孝子",
+        "FULLNAME": "scp-zh-105",
+        "RATING": 65,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-125",
+        "FULLNAME": "scp-zh-125",
+        "RATING": 22,
+        "COMMENTS": "2"
     }
 ]

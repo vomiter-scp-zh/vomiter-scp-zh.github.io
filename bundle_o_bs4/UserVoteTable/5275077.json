@@ -142,5 +142,77 @@
         "FULLNAME": "scp-zh-618",
         "RATING": 41,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-118",
+        "FULLNAME": "scp-zh-118",
+        "RATING": 6,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "由來．死亡．加入",
+        "FULLNAME": "from-death-join",
+        "RATING": 5,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-069",
+        "FULLNAME": "scp-zh-069",
+        "RATING": 10,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-087-J",
+        "FULLNAME": "scp-zh-087-j",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-888",
+        "FULLNAME": "scp-zh-888",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-256",
+        "FULLNAME": "scp-zh-256",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-889",
+        "FULLNAME": "scp-zh-889",
+        "RATING": 12,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-020",
+        "FULLNAME": "scp-zh-020",
+        "RATING": 13,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-323",
+        "FULLNAME": "scp-zh-323",
+        "RATING": 10,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "潛在危險無法被文字記錄",
+        "FULLNAME": "disremember",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "木易藏書閣目錄 金-九七八 《敲頭銅碗》",
+        "FULLNAME": "yee",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-199",
+        "FULLNAME": "scp-zh-199",
+        "RATING": 22,
+        "COMMENTS": "8"
     }
 ]

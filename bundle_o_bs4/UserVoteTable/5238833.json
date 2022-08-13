@@ -94,5 +94,131 @@
         "FULLNAME": "scp-zh-406",
         "RATING": 11,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "翻譯不只是塊蛋糕",
+        "FULLNAME": "sth-about-translation",
+        "RATING": 11,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-118",
+        "FULLNAME": "scp-zh-118",
+        "RATING": 6,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-477 - 不可抗吸引",
+        "FULLNAME": "scp-zh-477",
+        "RATING": 13,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-ZH-02",
+        "FULLNAME": "site-zh-02",
+        "RATING": 25,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-888",
+        "FULLNAME": "scp-zh-888",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-256",
+        "FULLNAME": "scp-zh-256",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-889",
+        "FULLNAME": "scp-zh-889",
+        "RATING": 12,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-720",
+        "FULLNAME": "scp-zh-720",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "無月之夜",
+        "FULLNAME": "no-moon-night",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Nx-ZH-17",
+        "FULLNAME": "thinking-and-write",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-020",
+        "FULLNAME": "scp-zh-020",
+        "RATING": 13,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "挑戰傳統評分方式：關於自訂評分模版",
+        "FULLNAME": "rating-against-traditions",
+        "RATING": 24,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "潛在危險無法被文字記錄",
+        "FULLNAME": "disremember",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "最好的結局",
+        "FULLNAME": "what-do-you-think",
+        "RATING": 12,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "沒有人會負責善後",
+        "FULLNAME": "nobodyneedshelp",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "木易藏書閣目錄 金-九七八 《敲頭銅碗》",
+        "FULLNAME": "yee",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Site-ZH-02 大廳",
+        "FULLNAME": "site-zh-02-front",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-310 - 異常蛋白質結構域",
+        "FULLNAME": "scp-zh-310",
+        "RATING": 26,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-006",
+        "FULLNAME": "scp-zh-006",
+        "RATING": 10,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-105 - 不孝子",
+        "FULLNAME": "scp-zh-105",
+        "RATING": 65,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "NSB-8新進人員教程: 何謂colony",
+        "FULLNAME": "nsb8-teach-colony",
+        "RATING": 9,
+        "COMMENTS": "0"
     }
 ]

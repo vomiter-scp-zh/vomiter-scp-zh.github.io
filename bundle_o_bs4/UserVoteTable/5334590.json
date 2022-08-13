@@ -16,5 +16,101 @@
         "FULLNAME": "scp-zh-618",
         "RATING": 41,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "挑戰傳統評分方式：關於自訂評分模版",
+        "FULLNAME": "rating-against-traditions",
+        "RATING": 24,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-323",
+        "FULLNAME": "scp-zh-323",
+        "RATING": 10,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-823",
+        "FULLNAME": "scp-zh-823",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "最好的結局",
+        "FULLNAME": "what-do-you-think",
+        "RATING": 12,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "站點綠化提案",
+        "FULLNAME": "greening",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "首級",
+        "FULLNAME": "head",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-511",
+        "FULLNAME": "scp-zh-511",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-ZH-16",
+        "FULLNAME": "site-zh-16",
+        "RATING": 14,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Site-ZH-02 大廳",
+        "FULLNAME": "site-zh-02-front",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-006",
+        "FULLNAME": "scp-zh-006",
+        "RATING": 10,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-105 - 不孝子",
+        "FULLNAME": "scp-zh-105",
+        "RATING": 65,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "NSB-8新進人員教程: 何謂colony",
+        "FULLNAME": "nsb8-teach-colony",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-661",
+        "FULLNAME": "scp-zh-661",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "血跡-上",
+        "FULLNAME": "bloodstain-1",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "血跡-下",
+        "FULLNAME": "bloodstain-2",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "洗標：黑0419-Dr.Metha的手帕，薰衣草味",
+        "FULLNAME": "black-0419",
+        "RATING": 11,
+        "COMMENTS": "0"
     }
 ]
