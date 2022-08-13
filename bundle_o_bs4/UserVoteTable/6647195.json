@@ -112,5 +112,29 @@
         "FULLNAME": "scp-zh-068",
         "RATING": 2,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-999-J",
+        "FULLNAME": "scp-zh-999-j",
+        "RATING": 4,
+        "COMMENTS": "18"
+    },
+    {
+        "TITLE": "SCP-ZH-999－人們欠他個總統席位",
+        "FULLNAME": "scp-zh-999",
+        "RATING": 54,
+        "COMMENTS": "13"
+    },
+    {
+        "TITLE": "SCP-ZH-340 - 生命之沙，繁星之盒",
+        "FULLNAME": "scp-zh-340",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-062 - 燈猴",
+        "FULLNAME": "scp-zh-062",
+        "RATING": 16,
+        "COMMENTS": "0"
     }
 ]

@@ -196,5 +196,29 @@
         "FULLNAME": "scp-zh-054",
         "RATING": 7,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "項目企劃書 2017-47：《健康的代價》",
+        "FULLNAME": "project-proposal-2017-47-zh",
+        "RATING": 23,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-999-J",
+        "FULLNAME": "scp-zh-999-j",
+        "RATING": 4,
+        "COMMENTS": "18"
+    },
+    {
+        "TITLE": "Unsigned Draft #799 - N/A",
+        "FULLNAME": "scp-zh-799",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-340 - 生命之沙，繁星之盒",
+        "FULLNAME": "scp-zh-340",
+        "RATING": 19,
+        "COMMENTS": "1"
     }
 ]

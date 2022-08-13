@@ -52,5 +52,35 @@
         "FULLNAME": "the-art-work-collection-of-wright-wilson-3",
         "RATING": 9,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-499 - 康乃馨盔甲工藝",
+        "FULLNAME": "scp-zh-499",
+        "RATING": 37,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-560 - 人生的第二春",
+        "FULLNAME": "scp-zh-560",
+        "RATING": 15,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-916 - 夢迴熔爐",
+        "FULLNAME": "scp-zh-916",
+        "RATING": 18,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-999－人們欠他個總統席位",
+        "FULLNAME": "scp-zh-999",
+        "RATING": 54,
+        "COMMENTS": "13"
+    },
+    {
+        "TITLE": "SCP-ZH-059 - 無形的奴隸與反抗",
+        "FULLNAME": "scp-zh-059",
+        "RATING": 19,
+        "COMMENTS": "0"
     }
 ]

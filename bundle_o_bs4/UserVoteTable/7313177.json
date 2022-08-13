@@ -178,5 +178,23 @@
         "FULLNAME": "anomalous-item-hk-police-helmet",
         "RATING": 35,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-110 - 地板破了個洞",
+        "FULLNAME": "scp-zh-110",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-909 - 評分模塊",
+        "FULLNAME": "scp-zh-909",
+        "RATING": 6,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-916 - 夢迴熔爐",
+        "FULLNAME": "scp-zh-916",
+        "RATING": 18,
+        "COMMENTS": "3"
     }
 ]

@@ -436,5 +436,47 @@
         "FULLNAME": "scp-zh-808",
         "RATING": 15,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "方針核許異聞零零零貳－水畔公國",
+        "FULLNAME": "zh-bt-strange-news-0002",
+        "RATING": -1,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "項目企劃書 2017-47：《健康的代價》",
+        "FULLNAME": "project-proposal-2017-47-zh",
+        "RATING": 23,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "事故紀錄458-A",
+        "FULLNAME": "what-the-fuck-is-this-pizza",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-399 - 我們心中的444號視聽教室",
+        "FULLNAME": "scp-zh-399",
+        "RATING": 30,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-999－人們欠他個總統席位",
+        "FULLNAME": "scp-zh-999",
+        "RATING": 54,
+        "COMMENTS": "13"
+    },
+    {
+        "TITLE": "退休生活",
+        "FULLNAME": "retire-from-bistro",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-062 - 燈猴",
+        "FULLNAME": "scp-zh-062",
+        "RATING": 16,
+        "COMMENTS": "0"
     }
 ]

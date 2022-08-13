@@ -16,5 +16,23 @@
         "FULLNAME": "shopping-arcade",
         "RATING": 20,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-909 - 評分模塊",
+        "FULLNAME": "scp-zh-909",
+        "RATING": 6,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-560 - 人生的第二春",
+        "FULLNAME": "scp-zh-560",
+        "RATING": 15,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-999－人們欠他個總統席位",
+        "FULLNAME": "scp-zh-999",
+        "RATING": 54,
+        "COMMENTS": "13"
     }
 ]

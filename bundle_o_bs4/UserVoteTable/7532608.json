@@ -52,5 +52,41 @@
         "FULLNAME": "scp-zh-228",
         "RATING": 25,
         "COMMENTS": "7"
+    },
+    {
+        "TITLE": "量子自殺",
+        "FULLNAME": "quantum-suicide",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "量子永生",
+        "FULLNAME": "quantum-immortality",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-110 - 地板破了個洞",
+        "FULLNAME": "scp-zh-110",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-352 - 絕命六龜葡萄",
+        "FULLNAME": "scp-zh-352",
+        "RATING": 18,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "Ｓ之死",
+        "FULLNAME": "the-death-of-sam-or-semibreve-etc",
+        "RATING": 17,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-701 - 掠食性降雨",
+        "FULLNAME": "scp-zh-701",
+        "RATING": 11,
+        "COMMENTS": "0"
     }
 ]

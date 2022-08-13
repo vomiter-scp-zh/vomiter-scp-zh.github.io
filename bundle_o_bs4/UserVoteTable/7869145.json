@@ -28,5 +28,23 @@
         "FULLNAME": "scp-zh-022-j",
         "RATING": 36,
         "COMMENTS": "19"
+    },
+    {
+        "TITLE": "SCP-ZH-999-J",
+        "FULLNAME": "scp-zh-999-j",
+        "RATING": 4,
+        "COMMENTS": "18"
+    },
+    {
+        "TITLE": "SCP-999-JP - 第九號當以九言述之",
+        "FULLNAME": "scp-999-jp-enneametric",
+        "RATING": 15,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-062 - 燈猴",
+        "FULLNAME": "scp-zh-062",
+        "RATING": 16,
+        "COMMENTS": "0"
     }
 ]

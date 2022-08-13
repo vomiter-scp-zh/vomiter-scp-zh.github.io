@@ -18,6 +18,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-ZH-999－人們欠他個總統席位",
+        "FULLNAME": "scp-zh-999",
+        "RATING": 54,
+        "COMMENTS": "13"
+    },
+    {
         "TITLE": "SCP-ZH-9288-EX",
         "FULLNAME": "scp-zh-9288-ex",
         "RATING": 44,
@@ -54,6 +60,12 @@
         "COMMENTS": "8"
     },
     {
+        "TITLE": "SCP-ZH-499 - 康乃馨盔甲工藝",
+        "FULLNAME": "scp-zh-499",
+        "RATING": 37,
+        "COMMENTS": "3"
+    },
+    {
         "TITLE": "SCP-ZH-998 - 現象學",
         "FULLNAME": "scp-zh-998",
         "RATING": 36,
@@ -88,6 +100,12 @@
         "FULLNAME": "what-are-you-waiting-for-just-join-goc-dude",
         "RATING": 34,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "繁中管理員筆記：2021年回顧",
+        "FULLNAME": "note-for-u-guys-2021",
+        "RATING": 34,
+        "COMMENTS": "4"
     },
     {
         "TITLE": "SCP-ZH-117",
@@ -166,6 +184,12 @@
         "FULLNAME": "scp-zh-603",
         "RATING": 30,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-399 - 我們心中的444號視聽教室",
+        "FULLNAME": "scp-zh-399",
+        "RATING": 30,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-053",
@@ -318,6 +342,12 @@
         "COMMENTS": "3"
     },
     {
+        "TITLE": "SCP-ZH-082 - 小蜜蜂餐車",
+        "FULLNAME": "scp-zh-082",
+        "RATING": 24,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-100",
         "FULLNAME": "scp-zh-0100",
         "RATING": 23,
@@ -356,6 +386,12 @@
     {
         "TITLE": "SCP-ZH-034",
         "FULLNAME": "scp-zh-034",
+        "RATING": 23,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "項目企劃書 2017-47：《健康的代價》",
+        "FULLNAME": "project-proposal-2017-47-zh",
         "RATING": 23,
         "COMMENTS": "3"
     },
@@ -762,6 +798,24 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-ZH-110 - 地板破了個洞",
+        "FULLNAME": "scp-zh-110",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-340 - 生命之沙，繁星之盒",
+        "FULLNAME": "scp-zh-340",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-059 - 無形的奴隸與反抗",
+        "FULLNAME": "scp-zh-059",
+        "RATING": 19,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-017",
         "FULLNAME": "scp-zh-017",
         "RATING": 18,
@@ -898,6 +952,18 @@
         "FULLNAME": "scp-zh-057",
         "RATING": 18,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-352 - 絕命六龜葡萄",
+        "FULLNAME": "scp-zh-352",
+        "RATING": 18,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-916 - 夢迴熔爐",
+        "FULLNAME": "scp-zh-916",
+        "RATING": 18,
+        "COMMENTS": "3"
     },
     {
         "TITLE": "SCP-ZH-954 - 黃色便條紙",
@@ -1086,6 +1152,30 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "Ｓ之死",
+        "FULLNAME": "the-death-of-sam-or-semibreve-etc",
+        "RATING": 17,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "藝術創作：聖誕節雪喵",
+        "FULLNAME": "xmax-x",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "曙光東啟",
+        "FULLNAME": "dawn-of-east",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "退休生活",
+        "FULLNAME": "retire-from-bistro",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-ZH-285 - 致命誘惑",
         "FULLNAME": "scp-zh-285",
         "RATING": 16,
@@ -1106,96 +1196,6 @@
     {
         "TITLE": "Site-ZH-02 大廳",
         "FULLNAME": "site-zh-02-front",
-        "RATING": 16,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-719-J",
-        "FULLNAME": "scp-zh-719-j",
-        "RATING": 16,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "事件代號：核裂擠兌-後勤醫護人員研究員L.What視角",
-        "FULLNAME": "i-m-not-fine",
-        "RATING": 16,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "工作人員及角色檔案-ZH",
-        "FULLNAME": "personnel-and-character-dossier-zh",
-        "RATING": 16,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "木易藏書閣目錄 木-一一五 《望月箸》",
-        "FULLNAME": "mu-yi-115",
-        "RATING": 16,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-ZH-100",
-        "FULLNAME": "scp-zh-100",
-        "RATING": 16,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-ZH-027 - 玉籠包",
-        "FULLNAME": "scp-zh-027",
-        "RATING": 16,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-ZH-216",
-        "FULLNAME": "scp-zh-216",
-        "RATING": 16,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "物理少年",
-        "FULLNAME": "science-confusion-puberty",
-        "RATING": 16,
-        "COMMENTS": "7"
-    },
-    {
-        "TITLE": "SCP-ZH-098 - 「寧靜」",
-        "FULLNAME": "scp-zh-098",
-        "RATING": 16,
-        "COMMENTS": "5"
-    },
-    {
-        "TITLE": "SCP-ZH-051 - 請給我一點溫暖",
-        "FULLNAME": "scp-zh-051",
-        "RATING": 16,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-ZH-109",
-        "FULLNAME": "scp-zh-109",
-        "RATING": 16,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-520",
-        "FULLNAME": "scp-zh-520",
-        "RATING": 16,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "主站博士相關插圖",
-        "FULLNAME": "qmario-artwork-1",
-        "RATING": 16,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-ZH-101",
-        "FULLNAME": "scp-zh-101",
-        "RATING": 16,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "「三垣」中心頁",
-        "FULLNAME": "three-enclosures-hub",
         "RATING": 16,
         "COMMENTS": "0"
     }
