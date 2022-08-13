@@ -40,5 +40,17 @@
         "FULLNAME": "scp-zh-114",
         "RATING": 14,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-048",
+        "FULLNAME": "scp-zh-048",
+        "RATING": 21,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "「轉世計劃」",
+        "FULLNAME": "project-reincarnation",
+        "RATING": 15,
+        "COMMENTS": "1"
     }
 ]

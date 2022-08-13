@@ -862,5 +862,23 @@
         "FULLNAME": "scp-zh-096-declassification",
         "RATING": 16,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "繁廣化工的標誌",
+        "FULLNAME": "fan-guang-chemical-logo",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "跳舞的波蘭牛",
+        "FULLNAME": "polish-dancing-cow",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "某人的夢",
+        "FULLNAME": "benitoite-little-pigeon-halloween",
+        "RATING": 14,
+        "COMMENTS": "0"
     }
 ]

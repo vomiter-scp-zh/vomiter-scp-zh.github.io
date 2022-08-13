@@ -1666,5 +1666,53 @@
         "FULLNAME": "scp-zh-092",
         "RATING": -4,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-969 - 漫長的告別",
+        "FULLNAME": "scp-zh-969",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "What The Fuck",
+        "FULLNAME": "what-the-fuck",
+        "RATING": 24,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "「轉世計劃」",
+        "FULLNAME": "project-reincarnation",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-035收容紀錄",
+        "FULLNAME": "how-did-we-catch-scp-zh-035",
+        "RATING": 7,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-058 - 另一道走廊",
+        "FULLNAME": "scp-zh-058",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "百花魔女的愛之書",
+        "FULLNAME": "snedronningen",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-228 - 翠埔，1947。",
+        "FULLNAME": "scp-zh-228",
+        "RATING": 25,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-ZH-44",
+        "FULLNAME": "site-zh-44",
+        "RATING": 14,
+        "COMMENTS": "5"
     }
 ]

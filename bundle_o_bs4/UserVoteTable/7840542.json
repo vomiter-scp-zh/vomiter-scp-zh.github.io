@@ -178,5 +178,17 @@
         "FULLNAME": "zoelin-131-999",
         "RATING": 4,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-613",
+        "FULLNAME": "scp-zh-613",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-228 - 翠埔，1947。",
+        "FULLNAME": "scp-zh-228",
+        "RATING": 25,
+        "COMMENTS": "7"
     }
 ]

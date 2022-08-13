@@ -358,5 +358,23 @@
         "FULLNAME": "ctrlztravel",
         "RATING": 12,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-402 - 成長",
+        "FULLNAME": "scp-zh-402",
+        "RATING": 16,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-613",
+        "FULLNAME": "scp-zh-613",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-360",
+        "FULLNAME": "scp-zh-360",
+        "RATING": 8,
+        "COMMENTS": "0"
     }
 ]

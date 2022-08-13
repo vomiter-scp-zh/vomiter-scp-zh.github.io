@@ -418,5 +418,17 @@
         "FULLNAME": "midsummer-the-plants-and-you",
         "RATING": 14,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "What The Fuck",
+        "FULLNAME": "what-the-fuck",
+        "RATING": 24,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-613",
+        "FULLNAME": "scp-zh-613",
+        "RATING": 17,
+        "COMMENTS": "1"
     }
 ]

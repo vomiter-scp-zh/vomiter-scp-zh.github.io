@@ -472,5 +472,41 @@
         "FULLNAME": "scp-zh-128",
         "RATING": 19,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-048",
+        "FULLNAME": "scp-zh-048",
+        "RATING": 21,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "V1L3-J實驗產物副本 夜遊賭城指南",
+        "FULLNAME": "adult:v1l3-j-how-to-spend-the-night-in-sin-city",
+        "RATING": 10,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-280 - 欸不是我的東西呢",
+        "FULLNAME": "scp-zh-280",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-769",
+        "FULLNAME": "scp-zh-769",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "代達洛斯計畫",
+        "FULLNAME": "zh-daedalus",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "美好的老日子",
+        "FULLNAME": "the-goodie-old-days",
+        "RATING": 7,
+        "COMMENTS": "0"
     }
 ]

@@ -376,5 +376,53 @@
         "FULLNAME": "scp-zh-177",
         "RATING": 13,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "有人看一下我的畫嗎",
+        "FULLNAME": "can-anyone-explain-it",
+        "RATING": 15,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-969 - 漫長的告別",
+        "FULLNAME": "scp-zh-969",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "What The Fuck",
+        "FULLNAME": "what-the-fuck",
+        "RATING": 24,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-991 - 魅魔後裔",
+        "FULLNAME": "adult:scp-zh-991",
+        "RATING": 12,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "對向列車的狂奔人影",
+        "FULLNAME": "running-shadow-of-the-opposite-train",
+        "RATING": 14,
+        "COMMENTS": "8"
+    },
+    {
+        "TITLE": "SCP-ZH-228 - 翠埔，1947。",
+        "FULLNAME": "scp-zh-228",
+        "RATING": 25,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-808 - 鬼門關",
+        "FULLNAME": "scp-zh-808",
+        "RATING": 15,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-ZH-44",
+        "FULLNAME": "site-zh-44",
+        "RATING": 14,
+        "COMMENTS": "5"
     }
 ]

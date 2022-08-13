@@ -2860,5 +2860,107 @@
         "FULLNAME": "singlelinetrip",
         "RATING": 7,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-038",
+        "FULLNAME": "scp-zh-038",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-402 - 成長",
+        "FULLNAME": "scp-zh-402",
+        "RATING": 16,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-039",
+        "FULLNAME": "scp-zh-039",
+        "RATING": 9,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-969 - 漫長的告別",
+        "FULLNAME": "scp-zh-969",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "What The Fuck",
+        "FULLNAME": "what-the-fuck",
+        "RATING": 24,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-796 - 孤兒",
+        "FULLNAME": "scp-zh-796",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-991 - 魅魔後裔",
+        "FULLNAME": "adult:scp-zh-991",
+        "RATING": 12,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "引號之間",
+        "FULLNAME": "in-the-quotation",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "銀裝素裹",
+        "FULLNAME": "end-of-heavy-snow",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-048",
+        "FULLNAME": "scp-zh-048",
+        "RATING": 21,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-613",
+        "FULLNAME": "scp-zh-613",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "V1L3-J實驗產物副本 夜遊賭城指南",
+        "FULLNAME": "adult:v1l3-j-how-to-spend-the-night-in-sin-city",
+        "RATING": 10,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "一盞茶湯映紅竹",
+        "FULLNAME": "the-green-tea-mirror-the-red-bamboo",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "跳舞的波蘭牛",
+        "FULLNAME": "polish-dancing-cow",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-049 - 超收容",
+        "FULLNAME": "scp-zh-049",
+        "RATING": 8,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-160 - 噤聲",
+        "FULLNAME": "scp-zh-160",
+        "RATING": 11,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-228 - 翠埔，1947。",
+        "FULLNAME": "scp-zh-228",
+        "RATING": 25,
+        "COMMENTS": "7"
     }
 ]

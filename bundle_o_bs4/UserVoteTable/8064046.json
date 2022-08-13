@@ -172,5 +172,29 @@
         "FULLNAME": "scp-zh-060-j",
         "RATING": 20,
         "COMMENTS": "10"
+    },
+    {
+        "TITLE": "SCP-ZH-402 - 成長",
+        "FULLNAME": "scp-zh-402",
+        "RATING": 16,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "What The Fuck",
+        "FULLNAME": "what-the-fuck",
+        "RATING": 24,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-280 - 欸不是我的東西呢",
+        "FULLNAME": "scp-zh-280",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-054",
+        "FULLNAME": "scp-zh-054",
+        "RATING": 7,
+        "COMMENTS": "4"
     }
 ]

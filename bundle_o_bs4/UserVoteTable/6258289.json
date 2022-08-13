@@ -394,5 +394,23 @@
         "FULLNAME": "scp-zh-121",
         "RATING": 2,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-220",
+        "FULLNAME": "scp-zh-220",
+        "RATING": 19,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-048",
+        "FULLNAME": "scp-zh-048",
+        "RATING": 21,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-228 - 翠埔，1947。",
+        "FULLNAME": "scp-zh-228",
+        "RATING": 25,
+        "COMMENTS": "7"
     }
 ]

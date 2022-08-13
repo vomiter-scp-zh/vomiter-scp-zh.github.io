@@ -160,5 +160,77 @@
         "FULLNAME": "scp-zh-092",
         "RATING": -4,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-197",
+        "FULLNAME": "scp-zh-197",
+        "RATING": 9,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-991 - 魅魔後裔",
+        "FULLNAME": "adult:scp-zh-991",
+        "RATING": 12,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-144 - 十二進位法",
+        "FULLNAME": "scp-zh-144",
+        "RATING": 22,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "「轉世計劃」",
+        "FULLNAME": "project-reincarnation",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-776",
+        "FULLNAME": "scp-zh-776",
+        "RATING": 6,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "「我腦中唯一一件事」",
+        "FULLNAME": "the-only-thing-in-my-head",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-057 - 暴躁小行星",
+        "FULLNAME": "scp-zh-057",
+        "RATING": 18,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-054",
+        "FULLNAME": "scp-zh-054",
+        "RATING": 7,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "百花魔女的愛之書",
+        "FULLNAME": "snedronningen",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "代達洛斯計畫",
+        "FULLNAME": "zh-daedalus",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-228 - 翠埔，1947。",
+        "FULLNAME": "scp-zh-228",
+        "RATING": 25,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-ZH-44",
+        "FULLNAME": "site-zh-44",
+        "RATING": 14,
+        "COMMENTS": "5"
     }
 ]

@@ -40,5 +40,17 @@
         "FULLNAME": "scp-zh-1000-ex",
         "RATING": 18,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "What The Fuck",
+        "FULLNAME": "what-the-fuck",
+        "RATING": 24,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-228 - 翠埔，1947。",
+        "FULLNAME": "scp-zh-228",
+        "RATING": 25,
+        "COMMENTS": "7"
     }
 ]

@@ -70,5 +70,65 @@
         "FULLNAME": "wolf-125",
         "RATING": 16,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-220",
+        "FULLNAME": "scp-zh-220",
+        "RATING": 19,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-048",
+        "FULLNAME": "scp-zh-048",
+        "RATING": 21,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-ZH-13",
+        "FULLNAME": "site-zh-13",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "對向列車的狂奔人影",
+        "FULLNAME": "running-shadow-of-the-opposite-train",
+        "RATING": 14,
+        "COMMENTS": "8"
+    },
+    {
+        "TITLE": "某人的夢",
+        "FULLNAME": "benitoite-little-pigeon-halloween",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-049 - 超收容",
+        "FULLNAME": "scp-zh-049",
+        "RATING": 8,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "資本主義、來襲",
+        "FULLNAME": "capitalism-attack",
+        "RATING": 11,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-769",
+        "FULLNAME": "scp-zh-769",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "代達洛斯計畫",
+        "FULLNAME": "zh-daedalus",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-832",
+        "FULLNAME": "scp-zh-832",
+        "RATING": 10,
+        "COMMENTS": "3"
     }
 ]

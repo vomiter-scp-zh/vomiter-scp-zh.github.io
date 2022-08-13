@@ -16,5 +16,17 @@
         "FULLNAME": "to-the-doctor",
         "RATING": 12,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-613",
+        "FULLNAME": "scp-zh-613",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-280 - 欸不是我的東西呢",
+        "FULLNAME": "scp-zh-280",
+        "RATING": 10,
+        "COMMENTS": "2"
     }
 ]
