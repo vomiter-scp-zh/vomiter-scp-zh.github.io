@@ -1,8 +1,32 @@
 [
     {
-        "TITLE": "SCP-ZH-318 - 認同癖",
-        "FULLNAME": "scp-zh-318",
-        "RATING": 1,
+        "TITLE": "SCP-ZH-255",
+        "FULLNAME": "scp-zh-255",
+        "RATING": 22,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-940 - 獵巫",
+        "FULLNAME": "scp-zh-940",
+        "RATING": 7,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-919 - 守門員",
+        "FULLNAME": "scp-zh-919",
+        "RATING": 0,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-431",
+        "FULLNAME": "scp-zh-431",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-229",
+        "FULLNAME": "scp-zh-229",
+        "RATING": 14,
+        "COMMENTS": "3"
     }
 ]
