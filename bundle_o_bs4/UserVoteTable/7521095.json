@@ -40,5 +40,17 @@
         "FULLNAME": "scp-zh-200",
         "RATING": 33,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-175",
+        "FULLNAME": "scp-zh-175",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "《王道異土-偽滿洲國異常辦公室特展》場刊",
+        "FULLNAME": "the-collection-of-mck",
+        "RATING": 14,
+        "COMMENTS": "2"
     }
 ]

@@ -112,5 +112,23 @@
         "FULLNAME": "scp-zh-291",
         "RATING": 1,
         "COMMENTS": "17"
+    },
+    {
+        "TITLE": "SCP-ZH-103 相關實驗記錄",
+        "FULLNAME": "scp-zh-103-experiment-log",
+        "RATING": 16,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-229-EX",
+        "FULLNAME": "scp-zh-229-ex",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "菸與線",
+        "FULLNAME": "cigaret-and-thread",
+        "RATING": 6,
+        "COMMENTS": "2"
     }
 ]

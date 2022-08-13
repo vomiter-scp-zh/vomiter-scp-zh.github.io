@@ -28,5 +28,23 @@
         "FULLNAME": "how-to-defeat-those-bad-guys-correctly",
         "RATING": 24,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "巧達Clef!",
+        "FULLNAME": "arkwork-chowderclef",
+        "RATING": 24,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "記憶的洪流",
+        "FULLNAME": "stream-of-memory",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "個人日誌",
+        "FULLNAME": "personal-diary-of-iceberg-and-gears",
+        "RATING": 11,
+        "COMMENTS": "2"
     }
 ]

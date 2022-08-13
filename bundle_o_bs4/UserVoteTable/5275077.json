@@ -454,5 +454,29 @@
         "FULLNAME": "kacha",
         "RATING": 11,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "成為一個工廠領工",
+        "FULLNAME": "the-foreman",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-405",
+        "FULLNAME": "scp-zh-405",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "小動物檔案：Amber ！",
+        "FULLNAME": "the-electronic-dog",
+        "RATING": 9,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-011",
+        "FULLNAME": "scp-zh-011",
+        "RATING": 8,
+        "COMMENTS": "3"
     }
 ]

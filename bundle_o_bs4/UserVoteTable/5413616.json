@@ -346,5 +346,35 @@
         "FULLNAME": "scp-zh-133",
         "RATING": 20,
         "COMMENTS": "7"
+    },
+    {
+        "TITLE": "47",
+        "FULLNAME": "47",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "牙科定期檢診",
+        "FULLNAME": "teeth-checked",
+        "RATING": 12,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "在那天，妳仍舊向我道了聲晚安",
+        "FULLNAME": "at-that-day-you-still-wish-me-a-good-dream",
+        "RATING": 22,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-471 - 惡性毒蟲",
+        "FULLNAME": "scp-zh-471",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "缺席者的盛宴",
+        "FULLNAME": "eclipse-absence",
+        "RATING": 8,
+        "COMMENTS": "0"
     }
 ]

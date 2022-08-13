@@ -76,5 +76,47 @@
         "FULLNAME": "how-to-defeat-those-bad-guys-correctly",
         "RATING": 24,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "菇菇基金會",
+        "FULLNAME": "fungi-foundation",
+        "RATING": 20,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "繁中站點地下街",
+        "FULLNAME": "shopping-arcade",
+        "RATING": 20,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "玩牌的Bright？",
+        "FULLNAME": "aaaa-zh",
+        "RATING": 8,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "水銀研究員的文檔向量化筆記_第二部分",
+        "FULLNAME": "researcher-hg-s-svg-art-part2",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "隨手畫的SCP-001(守門者)",
+        "FULLNAME": "scp-001-artwork",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1678 UnLondon 鏡像倫敦",
+        "FULLNAME": "the-london-from-eternal2018",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "麻糬的scp畫作選集",
+        "FULLNAME": "the-art-work-collection-of-wright-wilson",
+        "RATING": 14,
+        "COMMENTS": "0"
     }
 ]
