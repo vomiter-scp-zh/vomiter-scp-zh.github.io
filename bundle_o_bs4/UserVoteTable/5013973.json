@@ -334,5 +334,17 @@
         "FULLNAME": "ctf15-21-molly",
         "RATING": 12,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-282",
+        "FULLNAME": "scp-zh-282",
+        "RATING": 19,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "謝幕的顏色",
+        "FULLNAME": "color-of-take-a-bow",
+        "RATING": 15,
+        "COMMENTS": "3"
     }
 ]

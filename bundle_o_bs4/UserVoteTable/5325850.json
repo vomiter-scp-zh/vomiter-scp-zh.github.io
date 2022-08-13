@@ -394,5 +394,35 @@
         "FULLNAME": "scp-zh-451",
         "RATING": 11,
         "COMMENTS": "7"
+    },
+    {
+        "TITLE": "死霧",
+        "FULLNAME": "dead-fog",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "噁心的惡作劇",
+        "FULLNAME": "disgusting-prank",
+        "RATING": 14,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "也許，一個溫暖的午後，在海洋公園啜飲咖啡",
+        "FULLNAME": "maybe-some-coffee-in-the-ocean-park",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "廁所裡的致命模因",
+        "FULLNAME": "the-bottle-in-restroom",
+        "RATING": 31,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "殺人者與被殺的殺人者",
+        "FULLNAME": "artwork-ageantaa1",
+        "RATING": 14,
+        "COMMENTS": "0"
     }
 ]

@@ -100,5 +100,17 @@
         "FULLNAME": "how-to-defeat-those-bad-guys-correctly",
         "RATING": 24,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-282",
+        "FULLNAME": "scp-zh-282",
+        "RATING": 19,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "廁所裡的致命模因",
+        "FULLNAME": "the-bottle-in-restroom",
+        "RATING": 31,
+        "COMMENTS": "7"
     }
 ]

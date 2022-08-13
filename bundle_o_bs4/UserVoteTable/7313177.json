@@ -70,5 +70,11 @@
         "FULLNAME": "fungi-foundation",
         "RATING": 20,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-282",
+        "FULLNAME": "scp-zh-282",
+        "RATING": 19,
+        "COMMENTS": "3"
     }
 ]

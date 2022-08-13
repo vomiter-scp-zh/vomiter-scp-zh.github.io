@@ -448,5 +448,83 @@
         "FULLNAME": "scp-zh-040",
         "RATING": 11,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "死霧",
+        "FULLNAME": "dead-fog",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-046",
+        "FULLNAME": "scp-zh-046",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-111",
+        "FULLNAME": "scp-zh-111",
+        "RATING": 33,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "航海學中心頁",
+        "FULLNAME": "navigation",
+        "RATING": 20,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-444",
+        "FULLNAME": "scp-zh-444",
+        "RATING": 17,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "1935異常博覽會-LOGO",
+        "FULLNAME": "the-taiwan-exposition-1935-logo",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-617 - 西方的勇者",
+        "FULLNAME": "scp-zh-617",
+        "RATING": 13,
+        "COMMENTS": "8"
+    },
+    {
+        "TITLE": "SCP-ZH-831 - 十一年間的孕婦",
+        "FULLNAME": "scp-zh-831",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "藝術@(&ˊ紀█：自我中心。",
+        "FULLNAME": "art-for-zh-111",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "請問有誰能把地下街的換幣機修一下",
+        "FULLNAME": "artwork-shopping-arcade",
+        "RATING": 18,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-426",
+        "FULLNAME": "scp-zh-426",
+        "RATING": 16,
+        "COMMENTS": "17"
+    },
+    {
+        "TITLE": "神異博覽會一九三五",
+        "FULLNAME": "taiwan-miracle-exposition",
+        "RATING": 24,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "殺人者與被殺的殺人者",
+        "FULLNAME": "artwork-ageantaa1",
+        "RATING": 14,
+        "COMMENTS": "0"
     }
 ]

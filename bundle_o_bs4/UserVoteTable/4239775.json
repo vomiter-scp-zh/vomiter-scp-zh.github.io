@@ -1198,5 +1198,83 @@
         "FULLNAME": "laundry-the-gulf",
         "RATING": 9,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "謝幕的顏色",
+        "FULLNAME": "color-of-take-a-bow",
+        "RATING": 15,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "小動物簡介：Surge！",
+        "FULLNAME": "critter-profile-surge",
+        "RATING": 25,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "台灣鐵道飯店的安布羅斯餐廳",
+        "FULLNAME": "ambrose-taiwan-railway-hotel",
+        "RATING": 17,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "航海學中心頁",
+        "FULLNAME": "navigation",
+        "RATING": 20,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "海神悲鳴時",
+        "FULLNAME": "wadatsumi-no-naku-koroni",
+        "RATING": 16,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "無硝的沙場",
+        "FULLNAME": "a-battlefield-without-gunpowder",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "闇壽司檔案No.019「伸卡握法」",
+        "FULLNAME": "yamizushi-file-no019",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "月中秋，秋糜之餅不見欣喜",
+        "FULLNAME": "not-a-mooncake",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "一般與異常探勘講座",
+        "FULLNAME": "how-to-survive-in-the-wild",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Ctrl Z博士從週刊上剪下的四格漫畫",
+        "FULLNAME": "comic",
+        "RATING": 17,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-164",
+        "FULLNAME": "scp-zh-164",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-426",
+        "FULLNAME": "scp-zh-426",
+        "RATING": 16,
+        "COMMENTS": "17"
+    },
+    {
+        "TITLE": "GOI萌娘化-下午茶會",
+        "FULLNAME": "goi",
+        "RATING": 16,
+        "COMMENTS": "2"
     }
 ]

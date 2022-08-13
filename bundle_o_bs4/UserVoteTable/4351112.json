@@ -640,5 +640,29 @@
         "FULLNAME": "ctf15-21-molly",
         "RATING": 12,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "小動物簡介：西瓜！",
+        "FULLNAME": "watermelon",
+        "RATING": 5,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "小動物簡介：Surge！",
+        "FULLNAME": "critter-profile-surge",
+        "RATING": 25,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "台灣鐵道飯店的安布羅斯餐廳",
+        "FULLNAME": "ambrose-taiwan-railway-hotel",
+        "RATING": 17,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-163",
+        "FULLNAME": "scp-zh-163",
+        "RATING": 13,
+        "COMMENTS": "2"
     }
 ]

@@ -334,5 +334,35 @@
         "FULLNAME": "19th-bureau-of-mss-of-china",
         "RATING": 20,
         "COMMENTS": "16"
+    },
+    {
+        "TITLE": "海神悲鳴時",
+        "FULLNAME": "wadatsumi-no-naku-koroni",
+        "RATING": 16,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "矢尖",
+        "FULLNAME": "arrowhead",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "也許，一個溫暖的午後，在海洋公園啜飲咖啡",
+        "FULLNAME": "maybe-some-coffee-in-the-ocean-park",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "紀律嚴明",
+        "FULLNAME": "discipline",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "雨燕",
+        "FULLNAME": "swift",
+        "RATING": 10,
+        "COMMENTS": "2"
     }
 ]

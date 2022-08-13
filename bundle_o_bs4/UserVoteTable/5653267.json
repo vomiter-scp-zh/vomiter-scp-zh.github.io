@@ -490,5 +490,101 @@
         "FULLNAME": "drsemibreve-road-to",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "台灣鐵道飯店的安布羅斯餐廳",
+        "FULLNAME": "ambrose-taiwan-railway-hotel",
+        "RATING": 17,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "逆光的馬爾地夫",
+        "FULLNAME": "backlit-maldives",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "航海學中心頁",
+        "FULLNAME": "navigation",
+        "RATING": 20,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP貼紙收集簿-Safe",
+        "FULLNAME": "sticker",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "1935異常博覽會-LOGO",
+        "FULLNAME": "the-taiwan-exposition-1935-logo",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "布丁的關注組織LOGO頁",
+        "FULLNAME": "pudding-logo",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-617 - 西方的勇者",
+        "FULLNAME": "scp-zh-617",
+        "RATING": 13,
+        "COMMENTS": "8"
+    },
+    {
+        "TITLE": "闇壽司檔案No.019「伸卡握法」",
+        "FULLNAME": "yamizushi-file-no019",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-912 - 看見",
+        "FULLNAME": "scp-zh-912",
+        "RATING": 14,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "雙城作戰中心頁",
+        "FULLNAME": "operation-twin-cities-hub",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "GOI萌娘化-AWCY和GAW",
+        "FULLNAME": "goi-awcy-gaw",
+        "RATING": 16,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "請問有誰能把地下街的換幣機修一下",
+        "FULLNAME": "artwork-shopping-arcade",
+        "RATING": 18,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "亞細亞的孤兒是誰",
+        "FULLNAME": "who-is-the-asian-orphan",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "GOI萌娘化-下午茶會",
+        "FULLNAME": "goi",
+        "RATING": 16,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "神異博覽會一九三五",
+        "FULLNAME": "taiwan-miracle-exposition",
+        "RATING": 24,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "擬態的台灣蜆.html",
+        "FULLNAME": "meretrix-mimicking-cyrenidae",
+        "RATING": 14,
+        "COMMENTS": "4"
     }
 ]

@@ -34,5 +34,17 @@
         "FULLNAME": "she-lives-in-my-heart",
         "RATING": 22,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-617 - 西方的勇者",
+        "FULLNAME": "scp-zh-617",
+        "RATING": 13,
+        "COMMENTS": "8"
+    },
+    {
+        "TITLE": "月中秋，秋糜之餅不見欣喜",
+        "FULLNAME": "not-a-mooncake",
+        "RATING": 16,
+        "COMMENTS": "0"
     }
 ]

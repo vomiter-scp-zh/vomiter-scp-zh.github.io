@@ -130,5 +130,11 @@
         "FULLNAME": "scp-zh-960",
         "RATING": 5,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "小動物簡介：Surge！",
+        "FULLNAME": "critter-profile-surge",
+        "RATING": 25,
+        "COMMENTS": "2"
     }
 ]
