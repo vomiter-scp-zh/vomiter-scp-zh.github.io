@@ -184,5 +184,29 @@
         "FULLNAME": "in-the-maze-of-2020",
         "RATING": 9,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "賦其以形",
+        "FULLNAME": "give-it-shape",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "殘燭",
+        "FULLNAME": "candle-in-the-wind",
+        "RATING": 11,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-526",
+        "FULLNAME": "scp-zh-526",
+        "RATING": 18,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-090 - 毆打皮納塔！",
+        "FULLNAME": "scp-zh-090",
+        "RATING": 16,
+        "COMMENTS": "1"
     }
 ]

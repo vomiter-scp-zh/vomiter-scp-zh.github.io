@@ -292,5 +292,53 @@
         "FULLNAME": "lifting",
         "RATING": 12,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "聖夜相守：手工玩偶",
+        "FULLNAME": "handcraft-doll",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "假面騎士AD片頭主題曲：夢想與罪惡之間",
+        "FULLNAME": "between-dream-and-sin",
+        "RATING": 13,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-2005-EX",
+        "FULLNAME": "scp-zh-2005-ex",
+        "RATING": 55,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-235",
+        "FULLNAME": "adult:scp-zh-235",
+        "RATING": 21,
+        "COMMENTS": "10"
+    },
+    {
+        "TITLE": "2010年的那幾個實習生",
+        "FULLNAME": "source-of-chaos",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "事件代號：核裂擠兌-外勤研究員 水銀視角",
+        "FULLNAME": "operation-nucleon-bank-hg",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "辦公室裡的致命模因",
+        "FULLNAME": "the-bottle-in-office",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP-ZH記錄-1",
+        "FULLNAME": "creepy-tunnel",
+        "RATING": 24,
+        "COMMENTS": "2"
     }
 ]

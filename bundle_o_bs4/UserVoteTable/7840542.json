@@ -106,5 +106,23 @@
         "FULLNAME": "scp-zh-647",
         "RATING": 31,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "賦其以形",
+        "FULLNAME": "give-it-shape",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-2005-EX",
+        "FULLNAME": "scp-zh-2005-ex",
+        "RATING": 55,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP-ZH記錄-1",
+        "FULLNAME": "creepy-tunnel",
+        "RATING": 24,
+        "COMMENTS": "2"
     }
 ]

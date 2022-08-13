@@ -40,5 +40,23 @@
         "FULLNAME": "the-bottle-in-restroom",
         "RATING": 31,
         "COMMENTS": "7"
+    },
+    {
+        "TITLE": "假面騎士AD片頭主題曲：夢想與罪惡之間",
+        "FULLNAME": "between-dream-and-sin",
+        "RATING": 13,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-2005-EX",
+        "FULLNAME": "scp-zh-2005-ex",
+        "RATING": 55,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "辦公室裡的致命模因",
+        "FULLNAME": "the-bottle-in-office",
+        "RATING": 18,
+        "COMMENTS": "2"
     }
 ]

@@ -58,5 +58,11 @@
         "FULLNAME": "scp-zh-912",
         "RATING": 14,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-2005-EX",
+        "FULLNAME": "scp-zh-2005-ex",
+        "RATING": 55,
+        "COMMENTS": "1"
     }
 ]

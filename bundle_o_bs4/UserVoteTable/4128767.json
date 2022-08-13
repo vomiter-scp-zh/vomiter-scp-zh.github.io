@@ -826,5 +826,53 @@
         "FULLNAME": "in-the-maze-of-2020",
         "RATING": 9,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "殘影",
+        "FULLNAME": "afterimage",
+        "RATING": 14,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "雷射雕刻──Site-ZH-12",
+        "FULLNAME": "site-zh-12-made-with-wood",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "假面騎士AD片頭主題曲：夢想與罪惡之間",
+        "FULLNAME": "between-dream-and-sin",
+        "RATING": 13,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "表層變動",
+        "FULLNAME": "one-of-the-secrets",
+        "RATING": 16,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-2005-EX",
+        "FULLNAME": "scp-zh-2005-ex",
+        "RATING": 55,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "沒什麼，只是一張老照片",
+        "FULLNAME": "nothing-just-a-old-picture",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "食堂約會",
+        "FULLNAME": "canteen-date",
+        "RATING": 21,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP-ZH記錄-1",
+        "FULLNAME": "creepy-tunnel",
+        "RATING": 24,
+        "COMMENTS": "2"
     }
 ]

@@ -1714,5 +1714,65 @@
         "FULLNAME": "wish-you-safe-and-sound",
         "RATING": 23,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "賦其以形",
+        "FULLNAME": "give-it-shape",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "殘燭",
+        "FULLNAME": "candle-in-the-wind",
+        "RATING": 11,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-090 - 毆打皮納塔！",
+        "FULLNAME": "scp-zh-090",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-2005-EX",
+        "FULLNAME": "scp-zh-2005-ex",
+        "RATING": 55,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Dr. Kris的文檔山海－Dr.Apoyn的速寫",
+        "FULLNAME": "k1s10r0d-quick-sketch-of-dr-apoyn",
+        "RATING": 13,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-950 - 綠神經",
+        "FULLNAME": "scp-zh-950",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Dr. Kris的文檔山海－Dr. Kris的隨手塗鴉",
+        "FULLNAME": "k1s10r0d-kris-doodle",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "食堂約會",
+        "FULLNAME": "canteen-date",
+        "RATING": 21,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "魔鳥與魔鳥使",
+        "FULLNAME": "hafune",
+        "RATING": 14,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP-ZH記錄-1",
+        "FULLNAME": "creepy-tunnel",
+        "RATING": 24,
+        "COMMENTS": "2"
     }
 ]

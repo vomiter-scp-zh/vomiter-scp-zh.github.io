@@ -442,5 +442,47 @@
         "FULLNAME": "scp-zh-085-svg-art",
         "RATING": 9,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "雷射雕刻──Site-ZH-12",
+        "FULLNAME": "site-zh-12-made-with-wood",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "沒什麼，只是一張老照片",
+        "FULLNAME": "nothing-just-a-old-picture",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "慢性存活",
+        "FULLNAME": "chronic-survival",
+        "RATING": 13,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Dr. Kris的文檔山海－Dr.Apoyn的速寫",
+        "FULLNAME": "k1s10r0d-quick-sketch-of-dr-apoyn",
+        "RATING": 13,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "水族館約會",
+        "FULLNAME": "aquarium-date-art",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "辦公室裡的致命模因",
+        "FULLNAME": "the-bottle-in-office",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "魔鳥與魔鳥使",
+        "FULLNAME": "hafune",
+        "RATING": 14,
+        "COMMENTS": "6"
     }
 ]

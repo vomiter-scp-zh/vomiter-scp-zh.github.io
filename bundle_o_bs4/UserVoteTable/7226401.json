@@ -238,5 +238,41 @@
         "FULLNAME": "scp-zh-647",
         "RATING": 31,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "雷射雕刻──Site-ZH-12",
+        "FULLNAME": "site-zh-12-made-with-wood",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-526",
+        "FULLNAME": "scp-zh-526",
+        "RATING": 18,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-091",
+        "FULLNAME": "scp-zh-091",
+        "RATING": 19,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-2005-EX",
+        "FULLNAME": "scp-zh-2005-ex",
+        "RATING": 55,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "沒什麼，只是一張老照片",
+        "FULLNAME": "nothing-just-a-old-picture",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "藝術紀錄：網路紅人。",
+        "FULLNAME": "art-for-zh2005ex",
+        "RATING": 15,
+        "COMMENTS": "0"
     }
 ]

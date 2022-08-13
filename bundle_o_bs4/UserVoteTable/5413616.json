@@ -646,5 +646,53 @@
         "FULLNAME": "formytreasure",
         "RATING": 17,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "節慶的顏色",
+        "FULLNAME": "festive-colors",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-526",
+        "FULLNAME": "scp-zh-526",
+        "RATING": 18,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-140",
+        "FULLNAME": "scp-zh-140",
+        "RATING": 20,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "洗標：紅1354-深入傳統納餓卡部落",
+        "FULLNAME": "red-1354",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "他聲之痕",
+        "FULLNAME": "trace-of-many-voices",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Dr. Bales的日常小品集錦 二",
+        "FULLNAME": "bales-s-daily-2",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "2010年的那幾個實習生",
+        "FULLNAME": "source-of-chaos",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP-ZH記錄-1",
+        "FULLNAME": "creepy-tunnel",
+        "RATING": 24,
+        "COMMENTS": "2"
     }
 ]

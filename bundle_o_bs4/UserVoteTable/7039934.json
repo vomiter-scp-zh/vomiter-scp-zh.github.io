@@ -46,5 +46,29 @@
         "FULLNAME": "xmas-gift-but-have-no-signature-02",
         "RATING": 8,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "殘燭",
+        "FULLNAME": "candle-in-the-wind",
+        "RATING": 11,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-526",
+        "FULLNAME": "scp-zh-526",
+        "RATING": 18,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "真實",
+        "FULLNAME": "authentic",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-140",
+        "FULLNAME": "scp-zh-140",
+        "RATING": 20,
+        "COMMENTS": "7"
     }
 ]
