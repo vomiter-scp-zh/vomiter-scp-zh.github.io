@@ -34,5 +34,17 @@
         "FULLNAME": "scp-zh-925",
         "RATING": 12,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-998 - 現象學",
+        "FULLNAME": "scp-zh-998",
+        "RATING": 36,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "吹響號角的無名山脈",
+        "FULLNAME": "the-non-names-town",
+        "RATING": 14,
+        "COMMENTS": "3"
     }
 ]

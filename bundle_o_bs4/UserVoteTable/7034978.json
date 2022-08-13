@@ -76,5 +76,35 @@
         "FULLNAME": "scp-zh-254",
         "RATING": 11,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-174",
+        "FULLNAME": "scp-zh-174",
+        "RATING": 22,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-815",
+        "FULLNAME": "scp-zh-815",
+        "RATING": 35,
+        "COMMENTS": "8"
+    },
+    {
+        "TITLE": "SCP-ZH-217",
+        "FULLNAME": "scp-zh-217",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-041",
+        "FULLNAME": "scp-zh-041",
+        "RATING": 19,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-087 - 棄稿",
+        "FULLNAME": "scp-zh-087",
+        "RATING": 30,
+        "COMMENTS": "4"
     }
 ]

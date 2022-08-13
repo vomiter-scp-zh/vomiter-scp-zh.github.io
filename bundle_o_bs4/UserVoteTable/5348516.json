@@ -10,5 +10,35 @@
         "FULLNAME": "scp-zh-515",
         "RATING": 43,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-174",
+        "FULLNAME": "scp-zh-174",
+        "RATING": 22,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-913 - 回家月餅",
+        "FULLNAME": "scp-zh-913",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-087 - 棄稿",
+        "FULLNAME": "scp-zh-087",
+        "RATING": 30,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-100",
+        "FULLNAME": "scp-zh-0100",
+        "RATING": 23,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-998 - 現象學",
+        "FULLNAME": "scp-zh-998",
+        "RATING": 36,
+        "COMMENTS": "7"
     }
 ]

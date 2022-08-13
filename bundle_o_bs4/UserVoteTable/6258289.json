@@ -94,5 +94,47 @@
         "FULLNAME": "you-need-icecream-in-summer",
         "RATING": 31,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-815",
+        "FULLNAME": "scp-zh-815",
+        "RATING": 35,
+        "COMMENTS": "8"
+    },
+    {
+        "TITLE": "SCP-ZH-913 - 回家月餅",
+        "FULLNAME": "scp-zh-913",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "安保設施檔案：Site-ZH-50",
+        "FULLNAME": "site-zh-50",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-100",
+        "FULLNAME": "scp-zh-0100",
+        "RATING": 23,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-998 - 現象學",
+        "FULLNAME": "scp-zh-998",
+        "RATING": 36,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-ZH-81",
+        "FULLNAME": "site-zh-81",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-9288-EX",
+        "FULLNAME": "scp-zh-9288-ex",
+        "RATING": 44,
+        "COMMENTS": "5"
     }
 ]
