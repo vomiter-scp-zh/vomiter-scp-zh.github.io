@@ -82,5 +82,17 @@
         "FULLNAME": "site-zh-50",
         "RATING": 15,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Dr.Ray的異常項目分級圖標",
+        "FULLNAME": "ray-s-logo",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "雕刻作品：聖夜相守",
+        "FULLNAME": "handcrafts",
+        "RATING": 18,
+        "COMMENTS": "2"
     }
 ]

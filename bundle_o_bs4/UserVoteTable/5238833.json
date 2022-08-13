@@ -280,5 +280,59 @@
         "FULLNAME": "doodles-from-sam",
         "RATING": 24,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "聖誕軍演",
+        "FULLNAME": "xmas-exercise",
+        "RATING": 22,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "誰把聖誕樹上的星星拿走了？",
+        "FULLNAME": "star-of-bethlehem",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-026",
+        "FULLNAME": "scp-zh-026",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "鴨鴨的聖誕賀圖",
+        "FULLNAME": "duck-s-xmas",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "提案：聖誕軟暖貂",
+        "FULLNAME": "christmas-marten",
+        "RATING": 14,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-626",
+        "FULLNAME": "scp-zh-626",
+        "RATING": 23,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "遠東零號部門卷宗：E-830",
+        "FULLNAME": "e-830",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "研究員LostWhat角色歌：在碎片裡面",
+        "FULLNAME": "in-the-shard",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-400",
+        "FULLNAME": "scp-zh-400",
+        "RATING": 14,
+        "COMMENTS": "1"
     }
 ]

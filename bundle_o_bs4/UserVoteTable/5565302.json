@@ -208,5 +208,23 @@
         "FULLNAME": "been-a-while",
         "RATING": 17,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-025",
+        "FULLNAME": "scp-zh-025",
+        "RATING": 15,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-216",
+        "FULLNAME": "scp-zh-216",
+        "RATING": 16,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "物理少年",
+        "FULLNAME": "science-confusion-puberty",
+        "RATING": 16,
+        "COMMENTS": "7"
     }
 ]

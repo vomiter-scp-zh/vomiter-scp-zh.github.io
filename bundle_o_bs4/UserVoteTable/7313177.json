@@ -22,5 +22,17 @@
         "FULLNAME": "scp-zh-120",
         "RATING": 38,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-075",
+        "FULLNAME": "scp-zh-075",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-027 - 玉籠包",
+        "FULLNAME": "scp-zh-027",
+        "RATING": 16,
+        "COMMENTS": "2"
     }
 ]

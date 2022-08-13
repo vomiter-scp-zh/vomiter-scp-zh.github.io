@@ -4,5 +4,23 @@
         "FULLNAME": "personnel-and-character-dossier-zh",
         "RATING": 16,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-002 - 台灣獨角獸",
+        "FULLNAME": "scp-zh-002",
+        "RATING": 36,
+        "COMMENTS": "13"
+    },
+    {
+        "TITLE": "沙皇先知協會中心頁",
+        "FULLNAME": "tsars-hub",
+        "RATING": 20,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-600",
+        "FULLNAME": "scp-zh-600",
+        "RATING": 21,
+        "COMMENTS": "0"
     }
 ]

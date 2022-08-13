@@ -172,5 +172,59 @@
         "FULLNAME": "scp-zh-120",
         "RATING": 38,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-027 - 玉籠包",
+        "FULLNAME": "scp-zh-027",
+        "RATING": 16,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "誰把聖誕樹上的星星拿走了？",
+        "FULLNAME": "star-of-bethlehem",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-216",
+        "FULLNAME": "scp-zh-216",
+        "RATING": 16,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "冰箱",
+        "FULLNAME": "fridge",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-ZH-12",
+        "FULLNAME": "site-zh-12",
+        "RATING": 23,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "驟雨",
+        "FULLNAME": "downpour",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "枝葉不再，血花常青",
+        "FULLNAME": "alive-evergreen",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "雕刻作品：聖夜相守",
+        "FULLNAME": "handcrafts",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "物理少年",
+        "FULLNAME": "science-confusion-puberty",
+        "RATING": 16,
+        "COMMENTS": "7"
     }
 ]

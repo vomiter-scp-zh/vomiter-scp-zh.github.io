@@ -46,5 +46,17 @@
         "FULLNAME": "been-a-while",
         "RATING": 17,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-026",
+        "FULLNAME": "scp-zh-026",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-ZH-12",
+        "FULLNAME": "site-zh-12",
+        "RATING": 23,
+        "COMMENTS": "3"
     }
 ]

@@ -46,5 +46,29 @@
         "FULLNAME": "scp-zh-120",
         "RATING": 38,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "鴨鴨的聖誕賀圖",
+        "FULLNAME": "duck-s-xmas",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-216",
+        "FULLNAME": "scp-zh-216",
+        "RATING": 16,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Off Work",
+        "FULLNAME": "pry",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "貓耳日",
+        "FULLNAME": "cat-day",
+        "RATING": 14,
+        "COMMENTS": "0"
     }
 ]

@@ -118,5 +118,89 @@
         "FULLNAME": "scp-zh-120",
         "RATING": 38,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-300",
+        "FULLNAME": "scp-zh-300",
+        "RATING": 15,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "安布羅斯餐廳-崇文館",
+        "FULLNAME": "ambrose-chung-wen-kuan",
+        "RATING": 20,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "查看影像檔案。",
+        "FULLNAME": "what-is-site-zh12",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "查看寄件備份。",
+        "FULLNAME": "something-you-cant-forget",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "提案：聖誕軟暖貂",
+        "FULLNAME": "christmas-marten",
+        "RATING": 14,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "遠東零號部門卷宗：E-830",
+        "FULLNAME": "e-830",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "口述異常史：農間之殘月",
+        "FULLNAME": "the-moon-voice-1",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-400",
+        "FULLNAME": "scp-zh-400",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "聖誕樹梢上的首級",
+        "FULLNAME": "head-on-the-tree",
+        "RATING": 8,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-600",
+        "FULLNAME": "scp-zh-600",
+        "RATING": 21,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "驟雨",
+        "FULLNAME": "downpour",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Off Work",
+        "FULLNAME": "pry",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "弦音未止，餘芳猶存",
+        "FULLNAME": "keepthere-art",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-260",
+        "FULLNAME": "scp-zh-260",
+        "RATING": 9,
+        "COMMENTS": "1"
     }
 ]

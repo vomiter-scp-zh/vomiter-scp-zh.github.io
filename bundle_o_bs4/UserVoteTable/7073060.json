@@ -40,5 +40,29 @@
         "FULLNAME": "operation-nucleon-bank",
         "RATING": 15,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Dr.Ray的異常項目分級圖標",
+        "FULLNAME": "ray-s-logo",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-959 - 桑格拉斯-阿比斯莫式分裂",
+        "FULLNAME": "scp-zh-959",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-002 - 台灣獨角獸",
+        "FULLNAME": "scp-zh-002",
+        "RATING": 36,
+        "COMMENTS": "13"
+    },
+    {
+        "TITLE": "SCP-ZH-626",
+        "FULLNAME": "scp-zh-626",
+        "RATING": 23,
+        "COMMENTS": "0"
     }
 ]

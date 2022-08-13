@@ -700,5 +700,113 @@
         "FULLNAME": "doodles-from-sam",
         "RATING": 24,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "Dr.Ray的異常項目分級圖標",
+        "FULLNAME": "ray-s-logo",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-959 - 桑格拉斯-阿比斯莫式分裂",
+        "FULLNAME": "scp-zh-959",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "沙皇先知協會中心頁",
+        "FULLNAME": "tsars-hub",
+        "RATING": 20,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "安布羅斯餐廳-崇文館",
+        "FULLNAME": "ambrose-chung-wen-kuan",
+        "RATING": 20,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "查看影像檔案。",
+        "FULLNAME": "what-is-site-zh12",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "藝術紀錄：協和御守。",
+        "FULLNAME": "art-for-zh258",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-026",
+        "FULLNAME": "scp-zh-026",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "聖誕帽，這是Dr. Xmas的日子",
+        "FULLNAME": "xina-mas-2019",
+        "RATING": 19,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "查看寄件備份。",
+        "FULLNAME": "something-you-cant-forget",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "提案：聖誕軟暖貂",
+        "FULLNAME": "christmas-marten",
+        "RATING": 14,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-626",
+        "FULLNAME": "scp-zh-626",
+        "RATING": 23,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "聖夜晚餐",
+        "FULLNAME": "so-i-said-that-dinner",
+        "RATING": 21,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-044",
+        "FULLNAME": "scp-zh-044",
+        "RATING": 20,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-400",
+        "FULLNAME": "scp-zh-400",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "冰箱",
+        "FULLNAME": "fridge",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-ZH-12",
+        "FULLNAME": "site-zh-12",
+        "RATING": 23,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-600",
+        "FULLNAME": "scp-zh-600",
+        "RATING": 21,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "藝術紀錄：這些寧靜的日子。",
+        "FULLNAME": "art-for-3519",
+        "RATING": 11,
+        "COMMENTS": "0"
     }
 ]

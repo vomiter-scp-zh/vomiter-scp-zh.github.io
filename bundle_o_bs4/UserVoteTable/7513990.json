@@ -142,5 +142,23 @@
         "FULLNAME": "scp-zh-120",
         "RATING": 38,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-025",
+        "FULLNAME": "scp-zh-025",
+        "RATING": 15,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-600",
+        "FULLNAME": "scp-zh-600",
+        "RATING": 21,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Off Work",
+        "FULLNAME": "pry",
+        "RATING": 18,
+        "COMMENTS": "2"
     }
 ]

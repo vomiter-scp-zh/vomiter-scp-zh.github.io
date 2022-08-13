@@ -40,5 +40,17 @@
         "FULLNAME": "scp-zh-998",
         "RATING": 36,
         "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-075",
+        "FULLNAME": "scp-zh-075",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "安布羅斯餐廳-崇文館",
+        "FULLNAME": "ambrose-chung-wen-kuan",
+        "RATING": 20,
+        "COMMENTS": "2"
     }
 ]

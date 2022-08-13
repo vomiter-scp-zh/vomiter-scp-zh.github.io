@@ -874,5 +874,311 @@
         "FULLNAME": "mystery",
         "RATING": 12,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Dr.Ray的異常項目分級圖標",
+        "FULLNAME": "ray-s-logo",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "回憶虹彩—參賽訪談：淵夢",
+        "FULLNAME": "memories-in-iris-abyssdream",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-642",
+        "FULLNAME": "scp-zh-642",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "貂與浣熊在林地相遇",
+        "FULLNAME": "out-of-cn-77",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-959 - 桑格拉斯-阿比斯莫式分裂",
+        "FULLNAME": "scp-zh-959",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-075",
+        "FULLNAME": "scp-zh-075",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-025",
+        "FULLNAME": "scp-zh-025",
+        "RATING": 15,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "尋獲物品編號：021",
+        "FULLNAME": "ru021",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-027 - 玉籠包",
+        "FULLNAME": "scp-zh-027",
+        "RATING": 16,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "尋獲物品編號：065",
+        "FULLNAME": "article-number-065",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-002 - 台灣獨角獸",
+        "FULLNAME": "scp-zh-002",
+        "RATING": 36,
+        "COMMENTS": "13"
+    },
+    {
+        "TITLE": "餘波",
+        "FULLNAME": "aftermath-zh",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-670 - 明知故犯",
+        "FULLNAME": "scp-zh-670",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-300",
+        "FULLNAME": "scp-zh-300",
+        "RATING": 15,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "聖誕軍演",
+        "FULLNAME": "xmas-exercise",
+        "RATING": 22,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "查看影像檔案。",
+        "FULLNAME": "what-is-site-zh12",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "誰把聖誕樹上的星星拿走了？",
+        "FULLNAME": "star-of-bethlehem",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "藝術紀錄：協和御守。",
+        "FULLNAME": "art-for-zh258",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "冬季賀圖",
+        "FULLNAME": "xmas-zh-2019",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "聖誕帽，這是Dr. Xmas的日子",
+        "FULLNAME": "xina-mas-2019",
+        "RATING": 19,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "查看寄件備份。",
+        "FULLNAME": "something-you-cant-forget",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "鴨鴨的聖誕賀圖",
+        "FULLNAME": "duck-s-xmas",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "提案：聖誕軟暖貂",
+        "FULLNAME": "christmas-marten",
+        "RATING": 14,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-626",
+        "FULLNAME": "scp-zh-626",
+        "RATING": 23,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "安保設施檔案：Site-ZH-31",
+        "FULLNAME": "site-zh-31",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "聖夜晚餐",
+        "FULLNAME": "so-i-said-that-dinner",
+        "RATING": 21,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "遠東零號部門卷宗：E-830",
+        "FULLNAME": "e-830",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "口述異常史：農間之殘月",
+        "FULLNAME": "the-moon-voice-1",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-216",
+        "FULLNAME": "scp-zh-216",
+        "RATING": 16,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-400",
+        "FULLNAME": "scp-zh-400",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "冰箱",
+        "FULLNAME": "fridge",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-ZH-12",
+        "FULLNAME": "site-zh-12",
+        "RATING": 23,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "弦音未止",
+        "FULLNAME": "keepthere",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "聖誕樹梢上的首級",
+        "FULLNAME": "head-on-the-tree",
+        "RATING": 8,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-600",
+        "FULLNAME": "scp-zh-600",
+        "RATING": 21,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "驟雨",
+        "FULLNAME": "downpour",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "藝術紀錄：這些寧靜的日子。",
+        "FULLNAME": "art-for-3519",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "枝葉不再，血花常青",
+        "FULLNAME": "alive-evergreen",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "圓之夢，夢中之黃不是吉祥",
+        "FULLNAME": "no-cooked-yolk-is-life",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "洗標：黑6666-Dr.Semibreve的蛇鱗皮AT4收納袋",
+        "FULLNAME": "black-6666",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "藝術紀錄：賓尼費的最後庇護所。",
+        "FULLNAME": "art-for-zh255",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "藝術紀錄：SCP-ZH-100",
+        "FULLNAME": "art-for-0100",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "尋獲地點補遺：編號001",
+        "FULLNAME": "a-mysterious-road",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "第一號 木易藏書閣的捐贈品",
+        "FULLNAME": "first-mu-yi-donation",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "尋獲地點編號：001",
+        "FULLNAME": "article-number-001",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Off Work",
+        "FULLNAME": "pry",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "弦音未止，餘芳猶存",
+        "FULLNAME": "keepthere-art",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-260",
+        "FULLNAME": "scp-zh-260",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "貓耳日",
+        "FULLNAME": "cat-day",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "雕刻作品：聖夜相守",
+        "FULLNAME": "handcrafts",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "物理少年",
+        "FULLNAME": "science-confusion-puberty",
+        "RATING": 16,
+        "COMMENTS": "7"
     }
 ]

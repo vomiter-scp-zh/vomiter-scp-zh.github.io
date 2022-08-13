@@ -208,5 +208,65 @@
         "FULLNAME": "doodles-from-sam",
         "RATING": 24,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-027 - 玉籠包",
+        "FULLNAME": "scp-zh-027",
+        "RATING": 16,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-670 - 明知故犯",
+        "FULLNAME": "scp-zh-670",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "聖誕軍演",
+        "FULLNAME": "xmas-exercise",
+        "RATING": 22,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-626",
+        "FULLNAME": "scp-zh-626",
+        "RATING": 23,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "聖夜晚餐",
+        "FULLNAME": "so-i-said-that-dinner",
+        "RATING": 21,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-044",
+        "FULLNAME": "scp-zh-044",
+        "RATING": 20,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "研究員LostWhat角色歌：在碎片裡面",
+        "FULLNAME": "in-the-shard",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "弦音未止",
+        "FULLNAME": "keepthere",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "尋獲地點補遺：編號001",
+        "FULLNAME": "a-mysterious-road",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "物理少年",
+        "FULLNAME": "science-confusion-puberty",
+        "RATING": 16,
+        "COMMENTS": "7"
     }
 ]

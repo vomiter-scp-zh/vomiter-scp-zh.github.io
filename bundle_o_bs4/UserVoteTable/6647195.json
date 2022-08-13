@@ -52,5 +52,23 @@
         "FULLNAME": "scp-zh-120",
         "RATING": 38,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "Dr.Ray的異常項目分級圖標",
+        "FULLNAME": "ray-s-logo",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-973 - 如「怨」以償",
+        "FULLNAME": "scp-zh-973",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Dr.Ray的異常項目分級圖標 - Apollyon",
+        "FULLNAME": "ray-s-logo-apollyon",
+        "RATING": 9,
+        "COMMENTS": "0"
     }
 ]

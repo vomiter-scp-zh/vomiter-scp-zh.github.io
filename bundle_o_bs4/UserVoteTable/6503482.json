@@ -52,5 +52,17 @@
         "FULLNAME": "scp-zh-9288-ex",
         "RATING": 44,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-002 - 台灣獨角獸",
+        "FULLNAME": "scp-zh-002",
+        "RATING": 36,
+        "COMMENTS": "13"
+    },
+    {
+        "TITLE": "貓耳日",
+        "FULLNAME": "cat-day",
+        "RATING": 14,
+        "COMMENTS": "0"
     }
 ]

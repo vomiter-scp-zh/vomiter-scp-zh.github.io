@@ -478,5 +478,71 @@
         "FULLNAME": "mystery",
         "RATING": 12,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-973 - 如「怨」以償",
+        "FULLNAME": "scp-zh-973",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-642",
+        "FULLNAME": "scp-zh-642",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-025",
+        "FULLNAME": "scp-zh-025",
+        "RATING": 15,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-670 - 明知故犯",
+        "FULLNAME": "scp-zh-670",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "安布羅斯餐廳-崇文館",
+        "FULLNAME": "ambrose-chung-wen-kuan",
+        "RATING": 20,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "誰把聖誕樹上的星星拿走了？",
+        "FULLNAME": "star-of-bethlehem",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "冬季賀圖",
+        "FULLNAME": "xmas-zh-2019",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-626",
+        "FULLNAME": "scp-zh-626",
+        "RATING": 23,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "第一號 木易藏書閣的捐贈品",
+        "FULLNAME": "first-mu-yi-donation",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-260",
+        "FULLNAME": "scp-zh-260",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "雕刻作品：聖夜相守",
+        "FULLNAME": "handcrafts",
+        "RATING": 18,
+        "COMMENTS": "2"
     }
 ]

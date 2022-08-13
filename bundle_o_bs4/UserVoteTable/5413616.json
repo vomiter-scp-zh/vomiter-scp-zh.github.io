@@ -172,5 +172,95 @@
         "FULLNAME": "doodles-from-sam",
         "RATING": 24,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "Dr.Ray的異常項目分級圖標",
+        "FULLNAME": "ray-s-logo",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-973 - 如「怨」以償",
+        "FULLNAME": "scp-zh-973",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-075",
+        "FULLNAME": "scp-zh-075",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "聖誕軍演",
+        "FULLNAME": "xmas-exercise",
+        "RATING": 22,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "安布羅斯餐廳-崇文館",
+        "FULLNAME": "ambrose-chung-wen-kuan",
+        "RATING": 20,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "聖夜晚餐",
+        "FULLNAME": "so-i-said-that-dinner",
+        "RATING": 21,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-044",
+        "FULLNAME": "scp-zh-044",
+        "RATING": 20,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "口述異常史：農間之殘月",
+        "FULLNAME": "the-moon-voice-1",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-400",
+        "FULLNAME": "scp-zh-400",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "冰箱",
+        "FULLNAME": "fridge",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "弦音未止",
+        "FULLNAME": "keepthere",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "聖誕樹梢上的首級",
+        "FULLNAME": "head-on-the-tree",
+        "RATING": 8,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "弦音未止，餘芳猶存",
+        "FULLNAME": "keepthere-art",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "貓耳日",
+        "FULLNAME": "cat-day",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "雕刻作品：聖夜相守",
+        "FULLNAME": "handcrafts",
+        "RATING": 18,
+        "COMMENTS": "2"
     }
 ]

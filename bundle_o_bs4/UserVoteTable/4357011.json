@@ -136,5 +136,41 @@
         "FULLNAME": "article-number-037",
         "RATING": 11,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Dr.Ray的異常項目分級圖標",
+        "FULLNAME": "ray-s-logo",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "沙皇先知協會中心頁",
+        "FULLNAME": "tsars-hub",
+        "RATING": 20,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-670 - 明知故犯",
+        "FULLNAME": "scp-zh-670",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-300",
+        "FULLNAME": "scp-zh-300",
+        "RATING": 15,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-026",
+        "FULLNAME": "scp-zh-026",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-626",
+        "FULLNAME": "scp-zh-626",
+        "RATING": 23,
+        "COMMENTS": "0"
     }
 ]
