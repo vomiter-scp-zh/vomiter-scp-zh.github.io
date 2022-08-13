@@ -526,5 +526,59 @@
         "FULLNAME": "scp-zh-125",
         "RATING": 22,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-050",
+        "FULLNAME": "scp-zh-050",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "認養海報：Choco！",
+        "FULLNAME": "adoption-poster-choco",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "分廠搬遷（K-05324）",
+        "FULLNAME": "k-05324",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "到職",
+        "FULLNAME": "arrival",
+        "RATING": 17,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-515 - 平安符",
+        "FULLNAME": "scp-zh-515",
+        "RATING": 43,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-194 - 義體菌群",
+        "FULLNAME": "scp-zh-194",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "計劃報告{01-728}",
+        "FULLNAME": "nsb8-01728",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "花語：仙丹花",
+        "FULLNAME": "chinese-ixora",
+        "RATING": 19,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "遠東零號專隊卷宗：E-0249",
+        "FULLNAME": "e-0249",
+        "RATING": 9,
+        "COMMENTS": "0"
     }
 ]

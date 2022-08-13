@@ -214,5 +214,23 @@
         "FULLNAME": "scp-zh-199",
         "RATING": 22,
         "COMMENTS": "8"
+    },
+    {
+        "TITLE": "分廠搬遷（K-05324）",
+        "FULLNAME": "k-05324",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "熟悉的陌生人們",
+        "FULLNAME": "familiar-strangers",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "花語：仙丹花",
+        "FULLNAME": "chinese-ixora",
+        "RATING": 19,
+        "COMMENTS": "0"
     }
 ]

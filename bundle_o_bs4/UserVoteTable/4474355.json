@@ -256,5 +256,59 @@
         "FULLNAME": "black-0419",
         "RATING": 11,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-050",
+        "FULLNAME": "scp-zh-050",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "認養海報：Choco！",
+        "FULLNAME": "adoption-poster-choco",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-077",
+        "FULLNAME": "scp-zh-077",
+        "RATING": 17,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-515 - 平安符",
+        "FULLNAME": "scp-zh-515",
+        "RATING": 43,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "熟悉的陌生人們",
+        "FULLNAME": "familiar-strangers",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-257",
+        "FULLNAME": "scp-zh-257",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-194 - 義體菌群",
+        "FULLNAME": "scp-zh-194",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-080",
+        "FULLNAME": "scp-zh-080",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-719-J",
+        "FULLNAME": "scp-zh-719-j",
+        "RATING": 16,
+        "COMMENTS": "0"
     }
 ]

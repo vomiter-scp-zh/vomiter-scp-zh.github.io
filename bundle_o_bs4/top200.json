@@ -12,6 +12,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-ZH-515 - 平安符",
+        "FULLNAME": "scp-zh-515",
+        "RATING": 43,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "SCP-ZH-618",
         "FULLNAME": "scp-zh-618",
         "RATING": 41,
@@ -96,6 +102,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "花語：仙丹花",
+        "FULLNAME": "chinese-ixora",
+        "RATING": 19,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-017",
         "FULLNAME": "scp-zh-017",
         "RATING": 18,
@@ -112,6 +124,18 @@
         "FULLNAME": "greening",
         "RATING": 17,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-077",
+        "FULLNAME": "scp-zh-077",
+        "RATING": 17,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "到職",
+        "FULLNAME": "arrival",
+        "RATING": 17,
+        "COMMENTS": "5"
     },
     {
         "TITLE": "SCP-ZH-285 - 致命誘惑",
@@ -134,6 +158,12 @@
     {
         "TITLE": "Site-ZH-02 大廳",
         "FULLNAME": "site-zh-02-front",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-719-J",
+        "FULLNAME": "scp-zh-719-j",
         "RATING": 16,
         "COMMENTS": "0"
     },
@@ -172,6 +202,18 @@
         "FULLNAME": "head",
         "RATING": 15,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-050",
+        "FULLNAME": "scp-zh-050",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "認養海報：Choco！",
+        "FULLNAME": "adoption-poster-choco",
+        "RATING": 15,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-229",
@@ -282,6 +324,30 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "分廠搬遷（K-05324）",
+        "FULLNAME": "k-05324",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "最真實的往往無法看見",
+        "FULLNAME": "the-truth-is-usually-invisible",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "熟悉的陌生人們",
+        "FULLNAME": "familiar-strangers",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-194 - 義體菌群",
+        "FULLNAME": "scp-zh-194",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "木易藏書閣 中心頁",
         "FULLNAME": "mu-yi-hub",
         "RATING": 11,
@@ -384,6 +450,24 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "洗標：橘2147-Dr. Bales的實驗衣",
+        "FULLNAME": "orange-2147",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "洗標：藍9102-助理研究員Liesbeth的襯衫",
+        "FULLNAME": "blue-9102",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-080",
+        "FULLNAME": "scp-zh-080",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-018",
         "FULLNAME": "scp-zh-018",
         "RATING": 9,
@@ -440,6 +524,12 @@
     {
         "TITLE": "血跡-下",
         "FULLNAME": "bloodstain-2",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "遠東零號專隊卷宗：E-0249",
+        "FULLNAME": "e-0249",
         "RATING": 9,
         "COMMENTS": "0"
     },
@@ -510,6 +600,18 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-ZH-257",
+        "FULLNAME": "scp-zh-257",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "計劃報告{01-728}",
+        "FULLNAME": "nsb8-01728",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-940 - 獵巫",
         "FULLNAME": "scp-zh-940",
         "RATING": 7,
@@ -538,6 +640,18 @@
         "FULLNAME": "contain-zh",
         "RATING": 7,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "潮間時分",
+        "FULLNAME": "tidal",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "KZ收容突破",
+        "FULLNAME": "kz-containment-breach",
+        "RATING": 7,
+        "COMMENTS": "3"
     },
     {
         "TITLE": "木易藏書閣目錄 雜-五九六 《察何臺的行軍套裝》",
@@ -622,6 +736,12 @@
         "FULLNAME": "the-tales-of-agents",
         "RATING": 6,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "直面恐懼的足跡",
+        "FULLNAME": "courageous-footprints",
+        "RATING": 6,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "小動物簡介：Морь！",

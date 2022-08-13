@@ -172,5 +172,47 @@
         "FULLNAME": "scp-zh-125",
         "RATING": 22,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "認養海報：Choco！",
+        "FULLNAME": "adoption-poster-choco",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "最真實的往往無法看見",
+        "FULLNAME": "the-truth-is-usually-invisible",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "到職",
+        "FULLNAME": "arrival",
+        "RATING": 17,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-515 - 平安符",
+        "FULLNAME": "scp-zh-515",
+        "RATING": 43,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "熟悉的陌生人們",
+        "FULLNAME": "familiar-strangers",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "KZ收容突破",
+        "FULLNAME": "kz-containment-breach",
+        "RATING": 7,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "花語：仙丹花",
+        "FULLNAME": "chinese-ixora",
+        "RATING": 19,
+        "COMMENTS": "0"
     }
 ]

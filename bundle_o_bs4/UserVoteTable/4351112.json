@@ -118,5 +118,29 @@
         "FULLNAME": "site-zh-16",
         "RATING": 14,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-077",
+        "FULLNAME": "scp-zh-077",
+        "RATING": 17,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "熟悉的陌生人們",
+        "FULLNAME": "familiar-strangers",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "花語：仙丹花",
+        "FULLNAME": "chinese-ixora",
+        "RATING": 19,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "遠東零號專隊卷宗：E-0249",
+        "FULLNAME": "e-0249",
+        "RATING": 9,
+        "COMMENTS": "0"
     }
 ]

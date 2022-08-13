@@ -34,5 +34,29 @@
         "FULLNAME": "scp-zh-105",
         "RATING": 65,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-077",
+        "FULLNAME": "scp-zh-077",
+        "RATING": 17,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "計劃報告{01-728}",
+        "FULLNAME": "nsb8-01728",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "花語：仙丹花",
+        "FULLNAME": "chinese-ixora",
+        "RATING": 19,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-719-J",
+        "FULLNAME": "scp-zh-719-j",
+        "RATING": 16,
+        "COMMENTS": "0"
     }
 ]

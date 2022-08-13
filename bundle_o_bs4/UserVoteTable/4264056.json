@@ -112,5 +112,41 @@
         "FULLNAME": "black-0419",
         "RATING": 11,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "認養海報：Choco！",
+        "FULLNAME": "adoption-poster-choco",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "到職",
+        "FULLNAME": "arrival",
+        "RATING": 17,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-515 - 平安符",
+        "FULLNAME": "scp-zh-515",
+        "RATING": 43,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "KZ收容突破",
+        "FULLNAME": "kz-containment-breach",
+        "RATING": 7,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "洗標：藍9102-助理研究員Liesbeth的襯衫",
+        "FULLNAME": "blue-9102",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "計劃報告{01-728}",
+        "FULLNAME": "nsb8-01728",
+        "RATING": 8,
+        "COMMENTS": "0"
     }
 ]
