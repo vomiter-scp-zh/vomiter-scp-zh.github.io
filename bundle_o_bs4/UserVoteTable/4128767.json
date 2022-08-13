@@ -790,5 +790,41 @@
         "FULLNAME": "taiwan-miracle-exposition",
         "RATING": 24,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "花語：花毛茛",
+        "FULLNAME": "ranunculus",
+        "RATING": 17,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "「…妳不應該出現在這裡。」",
+        "FULLNAME": "xina-mas-2020",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "聖夜相守時",
+        "FULLNAME": "formytreasure",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "無貌者與貓",
+        "FULLNAME": "the-man-with-out-face",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "台灣異新報、昭和十年十一月一日",
+        "FULLNAME": "taiwan-newspaper",
+        "RATING": 17,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "穿越時空的稽查，最後目的地是永和豆漿",
+        "FULLNAME": "in-the-maze-of-2020",
+        "RATING": 9,
+        "COMMENTS": "0"
     }
 ]

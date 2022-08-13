@@ -196,5 +196,23 @@
         "FULLNAME": "scp-zh-426",
         "RATING": 16,
         "COMMENTS": "17"
+    },
+    {
+        "TITLE": "SCP-ZH-060",
+        "FULLNAME": "scp-zh-060",
+        "RATING": 21,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "生命燈國際災難救助機構使命宣言",
+        "FULLNAME": "mtf15-21-manifesto",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-647 - 嘴砲老人",
+        "FULLNAME": "scp-zh-647",
+        "RATING": 31,
+        "COMMENTS": "4"
     }
 ]

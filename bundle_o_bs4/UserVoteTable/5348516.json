@@ -76,5 +76,23 @@
         "FULLNAME": "scp-zh-729",
         "RATING": 14,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-060",
+        "FULLNAME": "scp-zh-060",
+        "RATING": 21,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-878",
+        "FULLNAME": "scp-zh-878",
+        "RATING": 20,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "穿越時空的稽查，最後目的地是永和豆漿",
+        "FULLNAME": "in-the-maze-of-2020",
+        "RATING": 9,
+        "COMMENTS": "0"
     }
 ]

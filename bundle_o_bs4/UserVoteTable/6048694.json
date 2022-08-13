@@ -550,5 +550,11 @@
         "FULLNAME": "artwork-ageantaa1",
         "RATING": 14,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-060",
+        "FULLNAME": "scp-zh-060",
+        "RATING": 21,
+        "COMMENTS": "1"
     }
 ]

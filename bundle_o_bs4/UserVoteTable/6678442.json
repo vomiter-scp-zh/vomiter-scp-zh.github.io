@@ -94,5 +94,29 @@
         "FULLNAME": "scp-zh-426",
         "RATING": 16,
         "COMMENTS": "17"
+    },
+    {
+        "TITLE": "SCP-ZH-060",
+        "FULLNAME": "scp-zh-060",
+        "RATING": 21,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "花語：花毛茛",
+        "FULLNAME": "ranunculus",
+        "RATING": 17,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "紀錄及訊息安全管理部門特殊文件－與李總統登輝先生相關的專訪",
+        "FULLNAME": "raisa-lee-teng-hui",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-647 - 嘴砲老人",
+        "FULLNAME": "scp-zh-647",
+        "RATING": 31,
+        "COMMENTS": "4"
     }
 ]

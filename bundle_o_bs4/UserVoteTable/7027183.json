@@ -16,5 +16,11 @@
         "FULLNAME": "the-bottle-in-restroom",
         "RATING": 31,
         "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-060",
+        "FULLNAME": "scp-zh-060",
+        "RATING": 21,
+        "COMMENTS": "1"
     }
 ]

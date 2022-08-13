@@ -178,5 +178,23 @@
         "FULLNAME": "taiwan-miracle-exposition",
         "RATING": 24,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "繁中官方化賀圖",
+        "FULLNAME": "scp",
+        "RATING": 20,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "殺死一隻知更鳥。",
+        "FULLNAME": "it-was-not-my-fault",
+        "RATING": 21,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-647 - 嘴砲老人",
+        "FULLNAME": "scp-zh-647",
+        "RATING": 31,
+        "COMMENTS": "4"
     }
 ]

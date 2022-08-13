@@ -184,5 +184,41 @@
         "FULLNAME": "goi",
         "RATING": 16,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-060",
+        "FULLNAME": "scp-zh-060",
+        "RATING": 21,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "繁中官方化賀圖",
+        "FULLNAME": "scp",
+        "RATING": 20,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-446 - 化蟲",
+        "FULLNAME": "scp-zh-446",
+        "RATING": 27,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Nihilmace給新人的一些創作建議：我該如何讓文章合格？",
+        "FULLNAME": "plz-fuck-off-mary-sue",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "願君安好",
+        "FULLNAME": "wish-you-safe-and-sound",
+        "RATING": 23,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-878",
+        "FULLNAME": "scp-zh-878",
+        "RATING": 20,
+        "COMMENTS": "0"
     }
 ]

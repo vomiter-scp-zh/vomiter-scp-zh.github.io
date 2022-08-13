@@ -334,5 +334,23 @@
         "FULLNAME": "scp-zh-021",
         "RATING": 22,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-060",
+        "FULLNAME": "scp-zh-060",
+        "RATING": 21,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "收容室ZH-S12-E-024實驗紀錄",
+        "FULLNAME": "scp-zh-024",
+        "RATING": 33,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "白日夢遊者",
+        "FULLNAME": "daydream-walker",
+        "RATING": 7,
+        "COMMENTS": "0"
     }
 ]

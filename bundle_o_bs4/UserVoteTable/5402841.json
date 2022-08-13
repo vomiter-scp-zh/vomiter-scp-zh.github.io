@@ -106,5 +106,17 @@
         "FULLNAME": "scp-zh-046",
         "RATING": 18,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-878",
+        "FULLNAME": "scp-zh-878",
+        "RATING": 20,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-647 - 嘴砲老人",
+        "FULLNAME": "scp-zh-647",
+        "RATING": 31,
+        "COMMENTS": "4"
     }
 ]
