@@ -130,5 +130,35 @@
         "FULLNAME": "site-zh-12",
         "RATING": 23,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "已被廢除的國安局第八處 中心頁",
+        "FULLNAME": "old-nsb8-hub",
+        "RATING": 13,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-278 - 你必須信任的門衛",
+        "FULLNAME": "scp-zh-278",
+        "RATING": 14,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "Site-ZH-50 站點標誌",
+        "FULLNAME": "sitezh50-icon",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-445",
+        "FULLNAME": "scp-zh-445",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-166",
+        "FULLNAME": "scp-zh-166",
+        "RATING": 21,
+        "COMMENTS": "2"
     }
 ]

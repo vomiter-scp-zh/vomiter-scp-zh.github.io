@@ -232,5 +232,17 @@
         "FULLNAME": "scp-zh-044",
         "RATING": 20,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "安布羅斯餐廳-伊薩科夫號分店 (節日限定)",
+        "FULLNAME": "ambrose-isakov",
+        "RATING": 28,
+        "COMMENTS": "9"
+    },
+    {
+        "TITLE": "死亡永生挑戰活動",
+        "FULLNAME": "death-eternal-life",
+        "RATING": 2,
+        "COMMENTS": "7"
     }
 ]

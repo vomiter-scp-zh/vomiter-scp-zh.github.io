@@ -64,5 +64,29 @@
         "FULLNAME": "scp-zh-626",
         "RATING": 23,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "行動計劃 第叁捌肆字號",
+        "FULLNAME": "nsb8-384",
+        "RATING": 22,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-202",
+        "FULLNAME": "scp-zh-202",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-747 - 趨凶避凶",
+        "FULLNAME": "scp-zh-747",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-109",
+        "FULLNAME": "scp-zh-109",
+        "RATING": 16,
+        "COMMENTS": "0"
     }
 ]

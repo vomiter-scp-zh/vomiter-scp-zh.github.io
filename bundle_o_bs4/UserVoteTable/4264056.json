@@ -352,5 +352,41 @@
         "FULLNAME": "handcrafts",
         "RATING": 18,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-098 - 「寧靜」",
+        "FULLNAME": "scp-zh-098",
+        "RATING": 16,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-108",
+        "FULLNAME": "scp-zh-108",
+        "RATING": 19,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "不曾停歇",
+        "FULLNAME": "88-step",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "極光的顏色",
+        "FULLNAME": "color-of-aurora",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-261",
+        "FULLNAME": "scp-zh-261",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "從今以後，她將永生",
+        "FULLNAME": "she-lives-in-my-heart",
+        "RATING": 22,
+        "COMMENTS": "5"
     }
 ]

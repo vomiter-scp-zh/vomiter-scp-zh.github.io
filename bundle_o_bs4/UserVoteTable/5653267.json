@@ -154,5 +154,29 @@
         "FULLNAME": "article-number-001",
         "RATING": 9,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-860 - dado的「发」財藥",
+        "FULLNAME": "scp-zh-860",
+        "RATING": 33,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-051 - 請給我一點溫暖",
+        "FULLNAME": "scp-zh-051",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "尋獲物品編號：097/洗標：黑0117",
+        "FULLNAME": "article-number-097-black-0117",
+        "RATING": 15,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "她一直都在，無須緬懷",
+        "FULLNAME": "she-s-always-here",
+        "RATING": 14,
+        "COMMENTS": "0"
     }
 ]

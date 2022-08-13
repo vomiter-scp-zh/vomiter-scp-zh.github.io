@@ -664,5 +664,59 @@
         "FULLNAME": "cat-day",
         "RATING": 14,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-860 - dado的「发」財藥",
+        "FULLNAME": "scp-zh-860",
+        "RATING": 33,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-108",
+        "FULLNAME": "scp-zh-108",
+        "RATING": 19,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "格魯烏-P 個案卷宗 \"夢報機 Телеграф снов\"",
+        "FULLNAME": "dream-messages",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-051 - 請給我一點溫暖",
+        "FULLNAME": "scp-zh-051",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-261",
+        "FULLNAME": "scp-zh-261",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "柔光☆迴返",
+        "FULLNAME": "tina-uni3",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-109",
+        "FULLNAME": "scp-zh-109",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-153",
+        "FULLNAME": "scp-zh-153",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-0404",
+        "FULLNAME": "scp-zh-0404",
+        "RATING": 7,
+        "COMMENTS": "3"
     }
 ]

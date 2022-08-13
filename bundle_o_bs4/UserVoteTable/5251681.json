@@ -112,5 +112,41 @@
         "FULLNAME": "cat-day",
         "RATING": 14,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "安布羅斯餐廳-伊薩科夫號分店 (節日限定)",
+        "FULLNAME": "ambrose-isakov",
+        "RATING": 28,
+        "COMMENTS": "9"
+    },
+    {
+        "TITLE": "行動計劃 第叁捌肆字號",
+        "FULLNAME": "nsb8-384",
+        "RATING": 22,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "刺蝟筆記本：ZH分部動物合輯",
+        "FULLNAME": "hedgehog-note-a",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "行動簡報 第916字號",
+        "FULLNAME": "nsb8-916",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "從今以後，她將永生",
+        "FULLNAME": "she-lives-in-my-heart",
+        "RATING": 22,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-055",
+        "FULLNAME": "scp-zh-055",
+        "RATING": 18,
+        "COMMENTS": "3"
     }
 ]
