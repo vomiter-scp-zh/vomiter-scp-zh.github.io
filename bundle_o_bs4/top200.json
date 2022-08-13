@@ -246,6 +246,12 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "SCP-ZH-228 - 翠埔，1947。",
+        "FULLNAME": "scp-zh-228",
+        "RATING": 25,
+        "COMMENTS": "7"
+    },
+    {
         "TITLE": "SCP-ZH-222-J",
         "FULLNAME": "scp-zh-222-j",
         "RATING": 24,
@@ -436,6 +442,12 @@
         "FULLNAME": "scp-zh-096",
         "RATING": 22,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-144 - 十二進位法",
+        "FULLNAME": "scp-zh-144",
+        "RATING": 22,
+        "COMMENTS": "3"
     },
     {
         "TITLE": "SCP-ZH-610 - 猛爆性繁衍組織瘤",
@@ -750,6 +762,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-ZH-110 - 地板破了個洞",
+        "FULLNAME": "scp-zh-110",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-ZH-017",
         "FULLNAME": "scp-zh-017",
         "RATING": 18,
@@ -874,6 +892,24 @@
         "FULLNAME": "scp-zh-243",
         "RATING": 18,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-052",
+        "FULLNAME": "scp-zh-052",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-057 - 暴躁小行星",
+        "FULLNAME": "scp-zh-057",
+        "RATING": 18,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-352 - 絕命六龜葡萄",
+        "FULLNAME": "scp-zh-352",
+        "RATING": 18,
+        "COMMENTS": "4"
     },
     {
         "TITLE": "SCP-ZH-954 - 黃色便條紙",
@@ -1056,6 +1092,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "Ｓ之死",
+        "FULLNAME": "the-death-of-sam-or-semibreve-etc",
+        "RATING": 17,
+        "COMMENTS": "4"
+    },
+    {
         "TITLE": "SCP-ZH-285 - 致命誘惑",
         "FULLNAME": "scp-zh-285",
         "RATING": 16,
@@ -1156,47 +1198,5 @@
         "FULLNAME": "qmario-artwork-1",
         "RATING": 16,
         "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-ZH-101",
-        "FULLNAME": "scp-zh-101",
-        "RATING": 16,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "「三垣」中心頁",
-        "FULLNAME": "three-enclosures-hub",
-        "RATING": 16,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-078",
-        "FULLNAME": "scp-zh-078",
-        "RATING": 16,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-ZH-103 相關實驗記錄",
-        "FULLNAME": "scp-zh-103-experiment-log",
-        "RATING": 16,
-        "COMMENTS": "3"
-    },
-    {
-        "TITLE": "SCP-ZH-229-EX",
-        "FULLNAME": "scp-zh-229-ex",
-        "RATING": 16,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-ZH-042",
-        "FULLNAME": "scp-zh-042",
-        "RATING": 16,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "海神悲鳴時",
-        "FULLNAME": "wadatsumi-no-naku-koroni",
-        "RATING": 16,
-        "COMMENTS": "3"
     }
 ]

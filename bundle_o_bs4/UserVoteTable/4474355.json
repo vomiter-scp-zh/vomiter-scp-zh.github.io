@@ -1402,5 +1402,71 @@
         "FULLNAME": "what-the-fuck",
         "RATING": 24,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-829",
+        "FULLNAME": "scp-zh-829",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "「轉世計劃」",
+        "FULLNAME": "project-reincarnation",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-776",
+        "FULLNAME": "scp-zh-776",
+        "RATING": 6,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "繁廣化工的標誌",
+        "FULLNAME": "fan-guang-chemical-logo",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "對向列車的狂奔人影",
+        "FULLNAME": "running-shadow-of-the-opposite-train",
+        "RATING": 14,
+        "COMMENTS": "8"
+    },
+    {
+        "TITLE": "SCP-ZH-068",
+        "FULLNAME": "scp-zh-068",
+        "RATING": 2,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "觸不到的你",
+        "FULLNAME": "you",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "十月十七日憶院外友人",
+        "FULLNAME": "17-th-october-a-letter-to-a-friend",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-280 - 欸不是我的東西呢",
+        "FULLNAME": "scp-zh-280",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-160 - 噤聲",
+        "FULLNAME": "scp-zh-160",
+        "RATING": 11,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "Ｓ之死",
+        "FULLNAME": "the-death-of-sam-or-semibreve-etc",
+        "RATING": 17,
+        "COMMENTS": "4"
     }
 ]

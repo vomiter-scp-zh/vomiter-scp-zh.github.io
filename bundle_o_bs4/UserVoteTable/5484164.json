@@ -400,5 +400,29 @@
         "FULLNAME": "adult:scp-zh-991",
         "RATING": 12,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "對向列車的狂奔人影",
+        "FULLNAME": "running-shadow-of-the-opposite-train",
+        "RATING": 14,
+        "COMMENTS": "8"
+    },
+    {
+        "TITLE": "SCP-ZH-228 - 翠埔，1947。",
+        "FULLNAME": "scp-zh-228",
+        "RATING": 25,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-808 - 鬼門關",
+        "FULLNAME": "scp-zh-808",
+        "RATING": 15,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-ZH-44",
+        "FULLNAME": "site-zh-44",
+        "RATING": 14,
+        "COMMENTS": "5"
     }
 ]

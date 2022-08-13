@@ -412,5 +412,35 @@
         "FULLNAME": "what-the-fuck",
         "RATING": 24,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-052",
+        "FULLNAME": "scp-zh-052",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-160 - 噤聲",
+        "FULLNAME": "scp-zh-160",
+        "RATING": 11,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-905 - 愛的相反不是恨",
+        "FULLNAME": "scp-zh-905",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-808 - 鬼門關",
+        "FULLNAME": "scp-zh-808",
+        "RATING": 15,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "方針核許異聞零零零貳－水畔公國",
+        "FULLNAME": "zh-bt-strange-news-0002",
+        "RATING": -1,
+        "COMMENTS": "0"
     }
 ]

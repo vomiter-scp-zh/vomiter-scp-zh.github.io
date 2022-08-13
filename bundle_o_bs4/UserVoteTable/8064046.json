@@ -184,5 +184,17 @@
         "FULLNAME": "what-the-fuck",
         "RATING": 24,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-280 - 欸不是我的東西呢",
+        "FULLNAME": "scp-zh-280",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-054",
+        "FULLNAME": "scp-zh-054",
+        "RATING": 7,
+        "COMMENTS": "4"
     }
 ]

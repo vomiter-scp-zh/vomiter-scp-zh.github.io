@@ -100,5 +100,17 @@
         "FULLNAME": "scp-zh-736",
         "RATING": 31,
         "COMMENTS": "14"
+    },
+    {
+        "TITLE": "SCP-ZH-829",
+        "FULLNAME": "scp-zh-829",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-068",
+        "FULLNAME": "scp-zh-068",
+        "RATING": 2,
+        "COMMENTS": "4"
     }
 ]

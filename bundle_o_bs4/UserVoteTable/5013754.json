@@ -2914,5 +2914,47 @@
         "FULLNAME": "scp-zh-613",
         "RATING": 17,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "V1L3-J實驗產物副本 夜遊賭城指南",
+        "FULLNAME": "adult:v1l3-j-how-to-spend-the-night-in-sin-city",
+        "RATING": 10,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "一盞茶湯映紅竹",
+        "FULLNAME": "the-green-tea-mirror-the-red-bamboo",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "跳舞的波蘭牛",
+        "FULLNAME": "polish-dancing-cow",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-049 - 超收容",
+        "FULLNAME": "scp-zh-049",
+        "RATING": 8,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-160 - 噤聲",
+        "FULLNAME": "scp-zh-160",
+        "RATING": 11,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-228 - 翠埔，1947。",
+        "FULLNAME": "scp-zh-228",
+        "RATING": 25,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-110 - 地板破了個洞",
+        "FULLNAME": "scp-zh-110",
+        "RATING": 19,
+        "COMMENTS": "1"
     }
 ]

@@ -2740,5 +2740,77 @@
         "FULLNAME": "scp-zh-613",
         "RATING": 17,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-ZH-13",
+        "FULLNAME": "site-zh-13",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-776",
+        "FULLNAME": "scp-zh-776",
+        "RATING": 6,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "藝術紀錄：受絞之王的悲劇",
+        "FULLNAME": "art-for-701",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "對向列車的狂奔人影",
+        "FULLNAME": "running-shadow-of-the-opposite-train",
+        "RATING": 14,
+        "COMMENTS": "8"
+    },
+    {
+        "TITLE": "某人的夢",
+        "FULLNAME": "benitoite-little-pigeon-halloween",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "黑暗的房間",
+        "FULLNAME": "dark-room",
+        "RATING": 9,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "資本主義、來襲",
+        "FULLNAME": "capitalism-attack",
+        "RATING": 11,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "泡麵的基金會藝術作品整理頁",
+        "FULLNAME": "paomian-logos-page",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-228 - 翠埔，1947。",
+        "FULLNAME": "scp-zh-228",
+        "RATING": 25,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-ZH-44",
+        "FULLNAME": "site-zh-44",
+        "RATING": 14,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-110 - 地板破了個洞",
+        "FULLNAME": "scp-zh-110",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Ｓ之死",
+        "FULLNAME": "the-death-of-sam-or-semibreve-etc",
+        "RATING": 17,
+        "COMMENTS": "4"
     }
 ]

@@ -40,5 +40,35 @@
         "FULLNAME": "scp-zh-00l",
         "RATING": 12,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-298 - 天空鯨",
+        "FULLNAME": "scp-zh-298",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-052",
+        "FULLNAME": "scp-zh-052",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-058 - 另一道走廊",
+        "FULLNAME": "scp-zh-058",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-054",
+        "FULLNAME": "scp-zh-054",
+        "RATING": 7,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-110 - 地板破了個洞",
+        "FULLNAME": "scp-zh-110",
+        "RATING": 19,
+        "COMMENTS": "1"
     }
 ]
