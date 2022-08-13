@@ -1024,5 +1024,101 @@
         "FULLNAME": "not-a-mooncake",
         "RATING": 16,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "也許，一個溫暖的午後，在海洋公園啜飲咖啡",
+        "FULLNAME": "maybe-some-coffee-in-the-ocean-park",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "一般與異常探勘講座",
+        "FULLNAME": "how-to-survive-in-the-wild",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-912 - 看見",
+        "FULLNAME": "scp-zh-912",
+        "RATING": 14,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "廁所裡的致命模因",
+        "FULLNAME": "the-bottle-in-restroom",
+        "RATING": 31,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "中華人民共和國國家安全部異常十九局 - LOGO",
+        "FULLNAME": "mss-19-logo",
+        "RATING": 10,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "雙城作戰中心頁",
+        "FULLNAME": "operation-twin-cities-hub",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "雨燕",
+        "FULLNAME": "swift",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-426",
+        "FULLNAME": "scp-zh-426",
+        "RATING": 16,
+        "COMMENTS": "17"
+    },
+    {
+        "TITLE": "神異博覽會一九三五",
+        "FULLNAME": "taiwan-miracle-exposition",
+        "RATING": 24,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "那些被當成藥物宰來吃的人們",
+        "FULLNAME": "sh-cannibalism-in-taiwan",
+        "RATING": 12,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-060",
+        "FULLNAME": "scp-zh-060",
+        "RATING": 21,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "收容室ZH-S12-E-024實驗紀錄",
+        "FULLNAME": "scp-zh-024",
+        "RATING": 33,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "終期消毒，熄燈號",
+        "FULLNAME": "mtf15-14-td1",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "紀錄及訊息安全管理部門特殊文件－與李總統登輝先生相關的專訪",
+        "FULLNAME": "raisa-lee-teng-hui",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "蒼白的末期患者",
+        "FULLNAME": "81q5-sadness-pink",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "第八屆世界超衛生大會如期舉行　討論「終年症候群」再擴散問題",
+        "FULLNAME": "r-sinano-chuo-co-jp-2030-5-12-f9r324",
+        "RATING": 14,
+        "COMMENTS": "0"
     }
 ]

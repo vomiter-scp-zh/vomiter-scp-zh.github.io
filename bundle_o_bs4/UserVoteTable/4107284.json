@@ -808,5 +808,29 @@
         "FULLNAME": "terminal-and-initial",
         "RATING": 7,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "收容室ZH-S12-E-024實驗紀錄",
+        "FULLNAME": "scp-zh-024",
+        "RATING": 33,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "殺死一隻知更鳥。",
+        "FULLNAME": "it-was-not-my-fault",
+        "RATING": 21,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "終期消毒，熄燈號",
+        "FULLNAME": "mtf15-14-td1",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "生命燈國際災難救助機構使命宣言",
+        "FULLNAME": "mtf15-21-manifesto",
+        "RATING": 12,
+        "COMMENTS": "2"
     }
 ]

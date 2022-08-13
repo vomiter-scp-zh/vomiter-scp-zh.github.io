@@ -1372,5 +1372,71 @@
         "FULLNAME": "scp-zh-163",
         "RATING": 13,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "一般與異常探勘講座",
+        "FULLNAME": "how-to-survive-in-the-wild",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Ctrl Z博士從週刊上剪下的四格漫畫",
+        "FULLNAME": "comic",
+        "RATING": 17,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "GOI萌娘化-AWCY和GAW",
+        "FULLNAME": "goi-awcy-gaw",
+        "RATING": 16,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "請問有誰能把地下街的換幣機修一下",
+        "FULLNAME": "artwork-shopping-arcade",
+        "RATING": 18,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "GOI萌娘化-下午茶會",
+        "FULLNAME": "goi",
+        "RATING": 16,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "神異博覽會一九三五",
+        "FULLNAME": "taiwan-miracle-exposition",
+        "RATING": 24,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "殺人者與被殺的殺人者",
+        "FULLNAME": "artwork-ageantaa1",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "蓬萊島新創民主形式：「創制」首長將於今日解凍",
+        "FULLNAME": "r-sinano-chuo-zhtr-2018-11-19-a222a",
+        "RATING": 17,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "海水的顏色－黑",
+        "FULLNAME": "color-of-sea-black",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "殺死一隻知更鳥。",
+        "FULLNAME": "it-was-not-my-fault",
+        "RATING": 21,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-446 - 化蟲",
+        "FULLNAME": "scp-zh-446",
+        "RATING": 27,
+        "COMMENTS": "0"
     }
 ]

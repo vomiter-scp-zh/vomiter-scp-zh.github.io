@@ -82,5 +82,29 @@
         "FULLNAME": "scp-zh-717",
         "RATING": 15,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-060",
+        "FULLNAME": "scp-zh-060",
+        "RATING": 21,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "收容室ZH-S12-E-024實驗紀錄",
+        "FULLNAME": "scp-zh-024",
+        "RATING": 33,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-500",
+        "FULLNAME": "scp-zh-500",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-446 - 化蟲",
+        "FULLNAME": "scp-zh-446",
+        "RATING": 27,
+        "COMMENTS": "0"
     }
 ]

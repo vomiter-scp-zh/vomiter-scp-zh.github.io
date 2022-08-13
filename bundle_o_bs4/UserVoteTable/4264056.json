@@ -436,5 +436,35 @@
         "FULLNAME": "ambrose-taiwan-railway-hotel",
         "RATING": 17,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-831 - 十一年間的孕婦",
+        "FULLNAME": "scp-zh-831",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "亞細亞的孤兒是誰",
+        "FULLNAME": "who-is-the-asian-orphan",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "神異博覽會一九三五",
+        "FULLNAME": "taiwan-miracle-exposition",
+        "RATING": 24,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "收容室ZH-S12-E-024實驗紀錄",
+        "FULLNAME": "scp-zh-024",
+        "RATING": 33,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "紀錄及訊息安全管理部門特殊文件－與李總統登輝先生相關的專訪",
+        "FULLNAME": "raisa-lee-teng-hui",
+        "RATING": 17,
+        "COMMENTS": "1"
     }
 ]

@@ -82,5 +82,77 @@
         "FULLNAME": "navigation",
         "RATING": 20,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "神異博覽會一九三五",
+        "FULLNAME": "taiwan-miracle-exposition",
+        "RATING": 24,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "殘影、殘響及殘燭（或稱為██、██及██）",
+        "FULLNAME": "zycie-zhizn-life",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "終期消毒，熄燈號",
+        "FULLNAME": "mtf15-14-td1",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-500",
+        "FULLNAME": "scp-zh-500",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "未署名的聖誕禮物 Site-ZH-02",
+        "FULLNAME": "xmas-gift-but-have-no-signature-02",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-446 - 化蟲",
+        "FULLNAME": "scp-zh-446",
+        "RATING": 27,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Nihilmace給新人的一些創作建議：我該如何讓文章合格？",
+        "FULLNAME": "plz-fuck-off-mary-sue",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "雲湧",
+        "FULLNAME": "cloud-well",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-878",
+        "FULLNAME": "scp-zh-878",
+        "RATING": 20,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-088",
+        "FULLNAME": "scp-zh-088",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "聖誕節前夕",
+        "FULLNAME": "christmas-eve",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "聖誕清夢",
+        "FULLNAME": "xmas-dream",
+        "RATING": 10,
+        "COMMENTS": "1"
     }
 ]

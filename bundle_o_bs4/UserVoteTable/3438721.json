@@ -106,5 +106,29 @@
         "FULLNAME": "1935-overture-night-rain",
         "RATING": 9,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "神異博覽會一九三五",
+        "FULLNAME": "taiwan-miracle-exposition",
+        "RATING": 24,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "那些被當成藥物宰來吃的人們",
+        "FULLNAME": "sh-cannibalism-in-taiwan",
+        "RATING": 12,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-500",
+        "FULLNAME": "scp-zh-500",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "第八屆世界超衛生大會如期舉行　討論「終年症候群」再擴散問題",
+        "FULLNAME": "r-sinano-chuo-co-jp-2030-5-12-f9r324",
+        "RATING": 14,
+        "COMMENTS": "0"
     }
 ]

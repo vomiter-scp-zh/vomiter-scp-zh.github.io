@@ -22,5 +22,11 @@
         "FULLNAME": "new-takayama-plan",
         "RATING": 11,
         "COMMENTS": "6"
+    },
+    {
+        "TITLE": "收容室ZH-S12-E-024實驗紀錄",
+        "FULLNAME": "scp-zh-024",
+        "RATING": 33,
+        "COMMENTS": "0"
     }
 ]

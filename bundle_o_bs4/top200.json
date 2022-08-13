@@ -90,6 +90,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "收容室ZH-S12-E-024實驗紀錄",
+        "FULLNAME": "scp-zh-024",
+        "RATING": 33,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "假如你來到這個宇宙請保持冷靜",
         "FULLNAME": "you-need-icecream-in-summer",
         "RATING": 31,
@@ -100,6 +106,12 @@
         "FULLNAME": "scp-zh-774",
         "RATING": 31,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "廁所裡的致命模因",
+        "FULLNAME": "the-bottle-in-restroom",
+        "RATING": 31,
+        "COMMENTS": "7"
     },
     {
         "TITLE": "SCP-ZH-087 - 棄稿",
@@ -130,6 +142,12 @@
         "FULLNAME": "scp-zh-113",
         "RATING": 28,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-446 - 化蟲",
+        "FULLNAME": "scp-zh-446",
+        "RATING": 27,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-310 - 異常蛋白質結構域",
@@ -192,6 +210,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "神異博覽會一九三五",
+        "FULLNAME": "taiwan-miracle-exposition",
+        "RATING": 24,
+        "COMMENTS": "3"
+    },
+    {
         "TITLE": "SCP-ZH-100",
         "FULLNAME": "scp-zh-0100",
         "RATING": 23,
@@ -218,6 +242,12 @@
     {
         "TITLE": "SCP-ZH-015",
         "FULLNAME": "scp-zh-015",
+        "RATING": 23,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "願君安好",
+        "FULLNAME": "wish-you-safe-and-sound",
         "RATING": 23,
         "COMMENTS": "0"
     },
@@ -324,6 +354,18 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "SCP-ZH-060",
+        "FULLNAME": "scp-zh-060",
+        "RATING": 21,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "殺死一隻知更鳥。",
+        "FULLNAME": "it-was-not-my-fault",
+        "RATING": 21,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "SCP-ZH-009",
         "FULLNAME": "scp-zh-009",
         "RATING": 20,
@@ -416,6 +458,18 @@
     {
         "TITLE": "航海學中心頁",
         "FULLNAME": "navigation",
+        "RATING": 20,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "繁中官方化賀圖",
+        "FULLNAME": "scp",
+        "RATING": 20,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-878",
+        "FULLNAME": "scp-zh-878",
         "RATING": 20,
         "COMMENTS": "0"
     },
@@ -534,6 +588,36 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "一般與異常探勘講座",
+        "FULLNAME": "how-to-survive-in-the-wild",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-831 - 十一年間的孕婦",
+        "FULLNAME": "scp-zh-831",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "請問有誰能把地下街的換幣機修一下",
+        "FULLNAME": "artwork-shopping-arcade",
+        "RATING": 18,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "沙皇先知協會擬人-奇術講解篇",
+        "FULLNAME": "tsars-seers-art-thaumatology",
+        "RATING": 18,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "蒼白的末期患者",
+        "FULLNAME": "81q5-sadness-pink",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-954 - 黃色便條紙",
         "FULLNAME": "scp-zh-954",
         "RATING": 17,
@@ -646,6 +730,36 @@
         "FULLNAME": "scp-zh-444",
         "RATING": 17,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "Ctrl Z博士從週刊上剪下的四格漫畫",
+        "FULLNAME": "comic",
+        "RATING": 17,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "蓬萊島新創民主形式：「創制」首長將於今日解凍",
+        "FULLNAME": "r-sinano-chuo-zhtr-2018-11-19-a222a",
+        "RATING": 17,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "花語：花毛茛",
+        "FULLNAME": "ranunculus",
+        "RATING": 17,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "紀錄及訊息安全管理部門特殊文件－與李總統登輝先生相關的專訪",
+        "FULLNAME": "raisa-lee-teng-hui",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "聖誕與萬聖僅有一線之隔",
+        "FULLNAME": "christmas-or-halloween",
+        "RATING": 17,
+        "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-ZH-285 - 致命誘惑",
@@ -796,6 +910,36 @@
         "FULLNAME": "not-a-mooncake",
         "RATING": 16,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "GOI萌娘化-AWCY和GAW",
+        "FULLNAME": "goi-awcy-gaw",
+        "RATING": 16,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-426",
+        "FULLNAME": "scp-zh-426",
+        "RATING": 16,
+        "COMMENTS": "17"
+    },
+    {
+        "TITLE": "GOI萌娘化-下午茶會",
+        "FULLNAME": "goi",
+        "RATING": 16,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "殘影、殘響及殘燭（或稱為██、██及██）",
+        "FULLNAME": "zycie-zhizn-life",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "非相關人員禁止閱覽",
+        "FULLNAME": "adult:unrelated-person-do-not-read",
+        "RATING": 16,
+        "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-ZH-252",
@@ -1054,149 +1198,5 @@
         "FULLNAME": "cat-day",
         "RATING": 14,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-097",
-        "FULLNAME": "scp-zh-097",
-        "RATING": 14,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-ZH-278 - 你必須信任的門衛",
-        "FULLNAME": "scp-zh-278",
-        "RATING": 14,
-        "COMMENTS": "3"
-    },
-    {
-        "TITLE": "最後一根菸",
-        "FULLNAME": "last-one-cigarette",
-        "RATING": 14,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "洗標：橘3041-Dr. Owen的實驗袍",
-        "FULLNAME": "owens-clothes",
-        "RATING": 14,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "她一直都在，無須緬懷",
-        "FULLNAME": "she-s-always-here",
-        "RATING": 14,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-976 - 追憶狂妄",
-        "FULLNAME": "scp-zh-976",
-        "RATING": 14,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "蛛網起源：那是1993年",
-        "FULLNAME": "1993-cobweb-international",
-        "RATING": 14,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "淵夢的黑白圖集01",
-        "FULLNAME": "abyssdream-pic-01",
-        "RATING": 14,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-289",
-        "FULLNAME": "scp-zh-289",
-        "RATING": 14,
-        "COMMENTS": "4"
-    },
-    {
-        "TITLE": "《王道異土-偽滿洲國異常辦公室特展》場刊",
-        "FULLNAME": "the-collection-of-mck",
-        "RATING": 14,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "水銀研究員的文檔向量化筆記_第一部分",
-        "FULLNAME": "researcher-hg-s-svg-art-part1",
-        "RATING": 14,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "麻糬的scp畫作選集",
-        "FULLNAME": "the-art-work-collection-of-wright-wilson",
-        "RATING": 14,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-729 - 性感鬣蜥",
-        "FULLNAME": "scp-zh-729",
-        "RATING": 14,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "噁心的惡作劇",
-        "FULLNAME": "disgusting-prank",
-        "RATING": 14,
-        "COMMENTS": "7"
-    },
-    {
-        "TITLE": "1935異常博覽會-LOGO",
-        "FULLNAME": "the-taiwan-exposition-1935-logo",
-        "RATING": 14,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-882",
-        "FULLNAME": "scp-zh-882",
-        "RATING": 13,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-ZH-477 - 不可抗吸引",
-        "FULLNAME": "scp-zh-477",
-        "RATING": 13,
-        "COMMENTS": "3"
-    },
-    {
-        "TITLE": "SCP-ZH-020",
-        "FULLNAME": "scp-zh-020",
-        "RATING": 13,
-        "COMMENTS": "5"
-    },
-    {
-        "TITLE": "潛在危險無法被文字記錄",
-        "FULLNAME": "disremember",
-        "RATING": 13,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "沒有人會負責善後",
-        "FULLNAME": "nobodyneedshelp",
-        "RATING": 13,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-ZH-886",
-        "FULLNAME": "scp-zh-886",
-        "RATING": 13,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "香港特區異常選區資料庫：新茶嶺選區",
-        "FULLNAME": "new-cha-ling",
-        "RATING": 13,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "一次興衰",
-        "FULLNAME": "a-change",
-        "RATING": 13,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "遐邇週刊 第011期",
-        "FULLNAME": "the-weekly-011",
-        "RATING": 13,
-        "COMMENTS": "3"
     }
 ]

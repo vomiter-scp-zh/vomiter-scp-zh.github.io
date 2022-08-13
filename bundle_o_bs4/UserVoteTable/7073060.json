@@ -136,5 +136,35 @@
         "FULLNAME": "yamizushi-file-no019",
         "RATING": 13,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-912 - 看見",
+        "FULLNAME": "scp-zh-912",
+        "RATING": 14,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "神異博覽會一九三五",
+        "FULLNAME": "taiwan-miracle-exposition",
+        "RATING": 24,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "收容室ZH-S12-E-024實驗紀錄",
+        "FULLNAME": "scp-zh-024",
+        "RATING": 33,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-500",
+        "FULLNAME": "scp-zh-500",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Nihilmace給新人的一些創作建議：我該如何讓文章合格？",
+        "FULLNAME": "plz-fuck-off-mary-sue",
+        "RATING": 13,
+        "COMMENTS": "0"
     }
 ]

@@ -160,5 +160,35 @@
         "FULLNAME": "artwork-of-9288-ex",
         "RATING": 20,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Ctrl Z博士從週刊上剪下的四格漫畫",
+        "FULLNAME": "comic",
+        "RATING": 17,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "GOI萌娘化-AWCY和GAW",
+        "FULLNAME": "goi-awcy-gaw",
+        "RATING": 16,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "神異博覽會一九三五",
+        "FULLNAME": "taiwan-miracle-exposition",
+        "RATING": 24,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "繁中官方化賀圖",
+        "FULLNAME": "scp",
+        "RATING": 20,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "殺死一隻知更鳥。",
+        "FULLNAME": "it-was-not-my-fault",
+        "RATING": 21,
+        "COMMENTS": "2"
     }
 ]

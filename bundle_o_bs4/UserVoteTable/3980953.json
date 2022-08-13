@@ -34,5 +34,23 @@
         "FULLNAME": "scp-zh-111",
         "RATING": 33,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "廁所裡的致命模因",
+        "FULLNAME": "the-bottle-in-restroom",
+        "RATING": 31,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "Ctrl Z博士從週刊上剪下的四格漫畫",
+        "FULLNAME": "comic",
+        "RATING": 17,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "非相關人員禁止閱覽",
+        "FULLNAME": "adult:unrelated-person-do-not-read",
+        "RATING": 16,
+        "COMMENTS": "2"
     }
 ]

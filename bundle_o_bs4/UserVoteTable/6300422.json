@@ -88,5 +88,11 @@
         "FULLNAME": "sticker",
         "RATING": 12,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "非相關人員禁止閱覽",
+        "FULLNAME": "adult:unrelated-person-do-not-read",
+        "RATING": 16,
+        "COMMENTS": "2"
     }
 ]

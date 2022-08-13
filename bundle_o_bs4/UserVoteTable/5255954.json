@@ -352,5 +352,53 @@
         "FULLNAME": "arrowhead",
         "RATING": 11,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "也許，一個溫暖的午後，在海洋公園啜飲咖啡",
+        "FULLNAME": "maybe-some-coffee-in-the-ocean-park",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "紀律嚴明",
+        "FULLNAME": "discipline",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "雨燕",
+        "FULLNAME": "swift",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "凌雲御風起",
+        "FULLNAME": "rocaf",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "蓬萊島新創民主形式：「創制」首長將於今日解凍",
+        "FULLNAME": "r-sinano-chuo-zhtr-2018-11-19-a222a",
+        "RATING": 17,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "繁中官方化賀圖",
+        "FULLNAME": "scp",
+        "RATING": 20,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-791 - 錢源",
+        "FULLNAME": "scp-zh-791",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "非相關人員禁止閱覽",
+        "FULLNAME": "adult:unrelated-person-do-not-read",
+        "RATING": 16,
+        "COMMENTS": "2"
     }
 ]

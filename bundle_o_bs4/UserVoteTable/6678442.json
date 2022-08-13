@@ -70,5 +70,47 @@
         "FULLNAME": "scp-zh-021",
         "RATING": 22,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "一般與異常探勘講座",
+        "FULLNAME": "how-to-survive-in-the-wild",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-912 - 看見",
+        "FULLNAME": "scp-zh-912",
+        "RATING": 14,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "廁所裡的致命模因",
+        "FULLNAME": "the-bottle-in-restroom",
+        "RATING": 31,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-426",
+        "FULLNAME": "scp-zh-426",
+        "RATING": 16,
+        "COMMENTS": "17"
+    },
+    {
+        "TITLE": "SCP-ZH-060",
+        "FULLNAME": "scp-zh-060",
+        "RATING": 21,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "花語：花毛茛",
+        "FULLNAME": "ranunculus",
+        "RATING": 17,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "紀錄及訊息安全管理部門特殊文件－與李總統登輝先生相關的專訪",
+        "FULLNAME": "raisa-lee-teng-hui",
+        "RATING": 17,
+        "COMMENTS": "1"
     }
 ]

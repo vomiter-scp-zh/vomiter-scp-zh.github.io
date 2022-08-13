@@ -1642,5 +1642,305 @@
         "FULLNAME": "not-a-mooncake",
         "RATING": 16,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "也許，一個溫暖的午後，在海洋公園啜飲咖啡",
+        "FULLNAME": "maybe-some-coffee-in-the-ocean-park",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "一般與異常探勘講座",
+        "FULLNAME": "how-to-survive-in-the-wild",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "廁所裡的致命模因",
+        "FULLNAME": "the-bottle-in-restroom",
+        "RATING": 31,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "Ctrl Z博士從週刊上剪下的四格漫畫",
+        "FULLNAME": "comic",
+        "RATING": 17,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "中華人民共和國國家安全部異常十九局 - LOGO",
+        "FULLNAME": "mss-19-logo",
+        "RATING": 10,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-831 - 十一年間的孕婦",
+        "FULLNAME": "scp-zh-831",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "雙城作戰中心頁",
+        "FULLNAME": "operation-twin-cities-hub",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "紀律嚴明",
+        "FULLNAME": "discipline",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "GOI萌娘化-AWCY和GAW",
+        "FULLNAME": "goi-awcy-gaw",
+        "RATING": 16,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "藝術@(&ˊ紀█：自我中心。",
+        "FULLNAME": "art-for-zh-111",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "雨燕",
+        "FULLNAME": "swift",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "請問有誰能把地下街的換幣機修一下",
+        "FULLNAME": "artwork-shopping-arcade",
+        "RATING": 18,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "亞細亞的孤兒是誰",
+        "FULLNAME": "who-is-the-asian-orphan",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-426",
+        "FULLNAME": "scp-zh-426",
+        "RATING": 16,
+        "COMMENTS": "17"
+    },
+    {
+        "TITLE": "GOI萌娘化-下午茶會",
+        "FULLNAME": "goi",
+        "RATING": 16,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "神異博覽會一九三五",
+        "FULLNAME": "taiwan-miracle-exposition",
+        "RATING": 24,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "擬態的台灣蜆.html",
+        "FULLNAME": "meretrix-mimicking-cyrenidae",
+        "RATING": 14,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "殺人者與被殺的殺人者",
+        "FULLNAME": "artwork-ageantaa1",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "那些被當成藥物宰來吃的人們",
+        "FULLNAME": "sh-cannibalism-in-taiwan",
+        "RATING": 12,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-060",
+        "FULLNAME": "scp-zh-060",
+        "RATING": 21,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "凌雲御風起",
+        "FULLNAME": "rocaf",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "蓬萊島新創民主形式：「創制」首長將於今日解凍",
+        "FULLNAME": "r-sinano-chuo-zhtr-2018-11-19-a222a",
+        "RATING": 17,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "繁中官方化賀圖",
+        "FULLNAME": "scp",
+        "RATING": 20,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "被抹去的血痕",
+        "FULLNAME": "scp-835-jp-uncontained",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "收容室ZH-S12-E-024實驗紀錄",
+        "FULLNAME": "scp-zh-024",
+        "RATING": 33,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "沙皇先知協會擬人-奇術講解篇",
+        "FULLNAME": "tsars-seers-art-thaumatology",
+        "RATING": 18,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "家祖父與西伯利亞抑留連續失蹤事件",
+        "FULLNAME": "grandfather-and-japanese-prisoners-of-war-in-the-soviet-unio",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "殘影、殘響及殘燭（或稱為██、██及██）",
+        "FULLNAME": "zycie-zhizn-life",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "花語：花毛茛",
+        "FULLNAME": "ranunculus",
+        "RATING": 17,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "海水的顏色－黑",
+        "FULLNAME": "color-of-sea-black",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "殺死一隻知更鳥。",
+        "FULLNAME": "it-was-not-my-fault",
+        "RATING": 21,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "拜訪與巧遇",
+        "FULLNAME": "meeting",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Dr. Kris的文檔山海－Dr. Kris的畫集",
+        "FULLNAME": "k1s10r0d-dr-kris-s-sketchbook",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "終期消毒，熄燈號",
+        "FULLNAME": "mtf15-14-td1",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "未署名的聖誕禮物 Site-ZH-02",
+        "FULLNAME": "xmas-gift-but-have-no-signature-02",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "紀錄及訊息安全管理部門特殊文件－與李總統登輝先生相關的專訪",
+        "FULLNAME": "raisa-lee-teng-hui",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-446 - 化蟲",
+        "FULLNAME": "scp-zh-446",
+        "RATING": 27,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "生命燈國際災難救助機構使命宣言",
+        "FULLNAME": "mtf15-21-manifesto",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "蒼白的末期患者",
+        "FULLNAME": "81q5-sadness-pink",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Nihilmace給新人的一些創作建議：我該如何讓文章合格？",
+        "FULLNAME": "plz-fuck-off-mary-sue",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "願君安好",
+        "FULLNAME": "wish-you-safe-and-sound",
+        "RATING": 23,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-791 - 錢源",
+        "FULLNAME": "scp-zh-791",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "第八屆世界超衛生大會如期舉行　討論「終年症候群」再擴散問題",
+        "FULLNAME": "r-sinano-chuo-co-jp-2030-5-12-f9r324",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-878",
+        "FULLNAME": "scp-zh-878",
+        "RATING": 20,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "聖夜相守：咪呀方塊和貝爸饅頭",
+        "FULLNAME": "researcher-hg-s-christmas-3dpaint-art",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "聖誕節前夕",
+        "FULLNAME": "christmas-eve",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "非相關人員禁止閱覽",
+        "FULLNAME": "adult:unrelated-person-do-not-read",
+        "RATING": 16,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "狼頭",
+        "FULLNAME": "hammer",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "聖誕與萬聖僅有一線之隔",
+        "FULLNAME": "christmas-or-halloween",
+        "RATING": 17,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "聖誕清夢",
+        "FULLNAME": "xmas-dream",
+        "RATING": 10,
+        "COMMENTS": "1"
     }
 ]
