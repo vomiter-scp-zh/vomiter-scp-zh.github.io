@@ -46,5 +46,11 @@
         "FULLNAME": "scp-zh-087",
         "RATING": 30,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "What The Fuck",
+        "FULLNAME": "what-the-fuck",
+        "RATING": 24,
+        "COMMENTS": "3"
     }
 ]

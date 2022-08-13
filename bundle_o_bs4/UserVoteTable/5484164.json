@@ -334,5 +334,71 @@
         "FULLNAME": "scp-zh-576",
         "RATING": 11,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-037",
+        "FULLNAME": "scp-zh-037",
+        "RATING": 20,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-112 - 祝你生日快樂",
+        "FULLNAME": "scp-zh-112",
+        "RATING": 19,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-684 - Kangic",
+        "FULLNAME": "scp-zh-684",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-339",
+        "FULLNAME": "scp-zh-339",
+        "RATING": 16,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-1000-EX",
+        "FULLNAME": "scp-zh-1000-ex",
+        "RATING": 18,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "異常項目紀錄：「防暴警察頭盔」",
+        "FULLNAME": "anomalous-item-hk-police-helmet",
+        "RATING": 35,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-177 - 深井",
+        "FULLNAME": "scp-zh-177",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "有人看一下我的畫嗎",
+        "FULLNAME": "can-anyone-explain-it",
+        "RATING": 15,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-969 - 漫長的告別",
+        "FULLNAME": "scp-zh-969",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "What The Fuck",
+        "FULLNAME": "what-the-fuck",
+        "RATING": 24,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-991 - 魅魔後裔",
+        "FULLNAME": "adult:scp-zh-991",
+        "RATING": 12,
+        "COMMENTS": "4"
     }
 ]

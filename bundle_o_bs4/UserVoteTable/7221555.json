@@ -52,5 +52,23 @@
         "FULLNAME": "scp-zh-571",
         "RATING": 12,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-112 - 祝你生日快樂",
+        "FULLNAME": "scp-zh-112",
+        "RATING": 19,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-1000-EX",
+        "FULLNAME": "scp-zh-1000-ex",
+        "RATING": 18,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-243",
+        "FULLNAME": "scp-zh-243",
+        "RATING": 18,
+        "COMMENTS": "0"
     }
 ]

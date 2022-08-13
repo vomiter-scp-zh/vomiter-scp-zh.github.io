@@ -58,5 +58,29 @@
         "FULLNAME": "scp-zh-185",
         "RATING": 19,
         "COMMENTS": "11"
+    },
+    {
+        "TITLE": "SCP-ZH-1000-EX",
+        "FULLNAME": "scp-zh-1000-ex",
+        "RATING": 18,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "中港路上沒有人只有野狼",
+        "FULLNAME": "wolf-125",
+        "RATING": 16,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-220",
+        "FULLNAME": "scp-zh-220",
+        "RATING": 19,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-048",
+        "FULLNAME": "scp-zh-048",
+        "RATING": 21,
+        "COMMENTS": "2"
     }
 ]

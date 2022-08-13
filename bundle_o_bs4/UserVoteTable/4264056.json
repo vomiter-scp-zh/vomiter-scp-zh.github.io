@@ -616,5 +616,29 @@
         "FULLNAME": "scp-zh-620",
         "RATING": 16,
         "COMMENTS": "7"
+    },
+    {
+        "TITLE": "Ctrl Z博士的鉛筆塗鴉",
+        "FULLNAME": "ctrlzpencil",
+        "RATING": 16,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-060-J - Re:在音竹宇宙重生的煩人美少女到底是甚麼東西呀?!",
+        "FULLNAME": "scp-zh-060-j",
+        "RATING": 20,
+        "COMMENTS": "10"
+    },
+    {
+        "TITLE": "SCP-ZH-1000-EX",
+        "FULLNAME": "scp-zh-1000-ex",
+        "RATING": 18,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "異常項目紀錄：「防暴警察頭盔」",
+        "FULLNAME": "anomalous-item-hk-police-helmet",
+        "RATING": 35,
+        "COMMENTS": "5"
     }
 ]

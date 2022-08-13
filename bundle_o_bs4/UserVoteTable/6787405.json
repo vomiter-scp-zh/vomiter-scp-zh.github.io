@@ -244,5 +244,17 @@
         "FULLNAME": "summer-contest-2021",
         "RATING": 13,
         "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-112 - 祝你生日快樂",
+        "FULLNAME": "scp-zh-112",
+        "RATING": 19,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "Ctrl Z博士的鉛筆塗鴉",
+        "FULLNAME": "ctrlzpencil",
+        "RATING": 16,
+        "COMMENTS": "2"
     }
 ]

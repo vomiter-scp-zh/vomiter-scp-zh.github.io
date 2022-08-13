@@ -1624,5 +1624,53 @@
         "FULLNAME": "to-the-doctor",
         "RATING": 12,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-096 - 紅移破滅",
+        "FULLNAME": "scp-zh-096",
+        "RATING": 22,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-060-J - Re:在音竹宇宙重生的煩人美少女到底是甚麼東西呀?!",
+        "FULLNAME": "scp-zh-060-j",
+        "RATING": 20,
+        "COMMENTS": "10"
+    },
+    {
+        "TITLE": "SCP-ZH-1000-EX",
+        "FULLNAME": "scp-zh-1000-ex",
+        "RATING": 18,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "燈火記憶",
+        "FULLNAME": "memory-of-light",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "午後間歇",
+        "FULLNAME": "midsummer-the-plants-and-you",
+        "RATING": 14,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-092",
+        "FULLNAME": "scp-zh-092",
+        "RATING": -4,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-969 - 漫長的告別",
+        "FULLNAME": "scp-zh-969",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "What The Fuck",
+        "FULLNAME": "what-the-fuck",
+        "RATING": 24,
+        "COMMENTS": "3"
     }
 ]
