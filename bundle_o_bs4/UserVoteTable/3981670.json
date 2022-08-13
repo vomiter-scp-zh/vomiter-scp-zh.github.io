@@ -1804,5 +1804,41 @@
         "FULLNAME": "surge-s-proposal-1",
         "RATING": 32,
         "COMMENTS": "11"
+    },
+    {
+        "TITLE": "藝術紀錄：Attempts to Assassinate Thought",
+        "FULLNAME": "art-for-3002",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-527 - 隱形的奇奇摩拉",
+        "FULLNAME": "scp-zh-527",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-410 - 化工廠的鐵桶",
+        "FULLNAME": "scp-zh-410",
+        "RATING": 13,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-032",
+        "FULLNAME": "scp-zh-032",
+        "RATING": 21,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-571 - 不可視的追跡者",
+        "FULLNAME": "scp-zh-571",
+        "RATING": 12,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-034",
+        "FULLNAME": "scp-zh-034",
+        "RATING": 23,
+        "COMMENTS": "3"
     }
 ]

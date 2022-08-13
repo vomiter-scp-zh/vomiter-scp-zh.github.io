@@ -64,5 +64,23 @@
         "FULLNAME": "surge-s-proposal-1",
         "RATING": 32,
         "COMMENTS": "11"
+    },
+    {
+        "TITLE": "SCP-ZH-416",
+        "FULLNAME": "scp-zh-416",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-032",
+        "FULLNAME": "scp-zh-032",
+        "RATING": 21,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-034",
+        "FULLNAME": "scp-zh-034",
+        "RATING": 23,
+        "COMMENTS": "3"
     }
 ]

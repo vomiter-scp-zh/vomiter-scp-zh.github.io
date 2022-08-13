@@ -370,5 +370,23 @@
         "FULLNAME": "scp-zh-022-j",
         "RATING": 36,
         "COMMENTS": "19"
+    },
+    {
+        "TITLE": "SCP-ZH-338 - 沉船裡的手天使",
+        "FULLNAME": "adult:scp-zh-338",
+        "RATING": 15,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-709",
+        "FULLNAME": "scp-zh-709",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-115",
+        "FULLNAME": "scp-zh-115",
+        "RATING": 14,
+        "COMMENTS": "4"
     }
 ]

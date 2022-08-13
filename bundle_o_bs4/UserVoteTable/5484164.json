@@ -316,5 +316,23 @@
         "FULLNAME": "scp-zh-736",
         "RATING": 31,
         "COMMENTS": "14"
+    },
+    {
+        "TITLE": "SCP-ZH-620 - 瘟疫燃燒於生命之泉",
+        "FULLNAME": "scp-zh-620",
+        "RATING": 16,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "2021 夏季競賽 主題《異聞錄》",
+        "FULLNAME": "summer-contest-2021",
+        "RATING": 13,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-576 - 花語",
+        "FULLNAME": "scp-zh-576",
+        "RATING": 11,
+        "COMMENTS": "2"
     }
 ]

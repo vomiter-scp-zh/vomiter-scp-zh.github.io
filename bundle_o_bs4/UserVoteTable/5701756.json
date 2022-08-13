@@ -292,5 +292,83 @@
         "FULLNAME": "the-ss-vs-ss",
         "RATING": 28,
         "COMMENTS": "19"
+    },
+    {
+        "TITLE": "好餓好餓的克里斯博士",
+        "FULLNAME": "the-very-hungry-dr-kris",
+        "RATING": 15,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "萬里長空",
+        "FULLNAME": "talisman",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-206",
+        "FULLNAME": "scp-zh-206",
+        "RATING": 3,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-V1L3-J實驗產物附圖備份",
+        "FULLNAME": "adult:k1s10r0d-art-of-v1l3-j-burning-calories",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "捉雙",
+        "FULLNAME": "face-the-shadows-1",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-988 - 持槍的孩子",
+        "FULLNAME": "scp-zh-988",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "你跟我說真的嗎?",
+        "FULLNAME": "dr-willow",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-032",
+        "FULLNAME": "scp-zh-032",
+        "RATING": 21,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "花語：曇華",
+        "FULLNAME": "flower-language-canna-indica",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-571 - 不可視的追跡者",
+        "FULLNAME": "scp-zh-571",
+        "RATING": 12,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "親迎輕盈之營火瑩",
+        "FULLNAME": "bt-fly",
+        "RATING": 13,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "溫和的人，待在溫和的地方即可",
+        "FULLNAME": "mild-people",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "0226號病患",
+        "FULLNAME": "patient0226",
+        "RATING": 8,
+        "COMMENTS": "4"
     }
 ]

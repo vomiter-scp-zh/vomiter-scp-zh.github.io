@@ -496,5 +496,23 @@
         "FULLNAME": "littlegreatwar2",
         "RATING": 5,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "所有的橋都被燒掉了",
+        "FULLNAME": "all-the-bridges-were-burned",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "山姆的ZH分部項目紀錄本",
+        "FULLNAME": "samscript-scp-artwork",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-338 - 沉船裡的手天使",
+        "FULLNAME": "adult:scp-zh-338",
+        "RATING": 15,
+        "COMMENTS": "4"
     }
 ]

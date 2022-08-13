@@ -280,5 +280,47 @@
         "FULLNAME": "scp-zh-185",
         "RATING": 19,
         "COMMENTS": "11"
+    },
+    {
+        "TITLE": "SCP-ZH-903 - 灶神食譜（零失敗）",
+        "FULLNAME": "scp-zh-903",
+        "RATING": 19,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-527 - 隱形的奇奇摩拉",
+        "FULLNAME": "scp-zh-527",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "萬里長空",
+        "FULLNAME": "talisman",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "2021 夏季競賽 主題《異聞錄》",
+        "FULLNAME": "summer-contest-2021",
+        "RATING": 13,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-032",
+        "FULLNAME": "scp-zh-032",
+        "RATING": 21,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-571 - 不可視的追跡者",
+        "FULLNAME": "scp-zh-571",
+        "RATING": 12,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-034",
+        "FULLNAME": "scp-zh-034",
+        "RATING": 23,
+        "COMMENTS": "3"
     }
 ]

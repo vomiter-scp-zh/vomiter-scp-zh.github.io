@@ -70,5 +70,11 @@
         "FULLNAME": "the-ss-vs-ss",
         "RATING": 28,
         "COMMENTS": "19"
+    },
+    {
+        "TITLE": "SCP-ZH-800",
+        "FULLNAME": "scp-zh-800",
+        "RATING": 8,
+        "COMMENTS": "3"
     }
 ]

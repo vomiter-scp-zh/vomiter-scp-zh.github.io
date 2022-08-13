@@ -1300,5 +1300,113 @@
         "FULLNAME": "scp-zh-736",
         "RATING": 31,
         "COMMENTS": "14"
+    },
+    {
+        "TITLE": "晃動游戲台",
+        "FULLNAME": "shakepinballmachine",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "離群的彗星",
+        "FULLNAME": "leavingcomet",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "伊亞的故事",
+        "FULLNAME": "ea-the-daughter",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "計劃報告{RL-130}",
+        "FULLNAME": "nsb8-rl130",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "萬里長空",
+        "FULLNAME": "talisman",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "遠己中心頁",
+        "FULLNAME": "yuanji-hub",
+        "RATING": 15,
+        "COMMENTS": "9"
+    },
+    {
+        "TITLE": "你是啥物人？",
+        "FULLNAME": "to-the-doctor",
+        "RATING": 12,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-800",
+        "FULLNAME": "scp-zh-800",
+        "RATING": 8,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-1903的插畫",
+        "FULLNAME": "barter1903",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "中華民國國家安全局第八處 中心頁",
+        "FULLNAME": "nsb8-hub",
+        "RATING": 13,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "捉雙",
+        "FULLNAME": "face-the-shadows-1",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-988 - 持槍的孩子",
+        "FULLNAME": "scp-zh-988",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-115",
+        "FULLNAME": "scp-zh-115",
+        "RATING": 14,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-620 - 瘟疫燃燒於生命之泉",
+        "FULLNAME": "scp-zh-620",
+        "RATING": 16,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-576 - 花語",
+        "FULLNAME": "scp-zh-576",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-032",
+        "FULLNAME": "scp-zh-032",
+        "RATING": 21,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-034",
+        "FULLNAME": "scp-zh-034",
+        "RATING": 23,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "0226號病患",
+        "FULLNAME": "patient0226",
+        "RATING": 8,
+        "COMMENTS": "4"
     }
 ]

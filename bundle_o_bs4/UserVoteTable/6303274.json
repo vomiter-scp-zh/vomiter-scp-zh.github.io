@@ -250,5 +250,17 @@
         "FULLNAME": "adult:scp-zh-235",
         "RATING": 21,
         "COMMENTS": "10"
+    },
+    {
+        "TITLE": "SCP-ZH-231",
+        "FULLNAME": "scp-zh-231",
+        "RATING": 9,
+        "COMMENTS": "9"
+    },
+    {
+        "TITLE": "SCP-ZH-390 - 臺灣寫作測驗",
+        "FULLNAME": "scp-zh-390",
+        "RATING": 9,
+        "COMMENTS": "6"
     }
 ]

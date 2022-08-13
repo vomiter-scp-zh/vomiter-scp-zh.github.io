@@ -286,5 +286,17 @@
         "FULLNAME": "why-you-need-pataphysics",
         "RATING": 24,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "挑戰活動 職位交換",
+        "FULLNAME": "transfer-challenge-zh",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-571 - 不可視的追跡者",
+        "FULLNAME": "scp-zh-571",
+        "RATING": 12,
+        "COMMENTS": "5"
     }
 ]

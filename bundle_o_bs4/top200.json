@@ -336,6 +336,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-ZH-034",
+        "FULLNAME": "scp-zh-034",
+        "RATING": 23,
+        "COMMENTS": "3"
+    },
+    {
         "TITLE": "SCP-ZH-255",
         "FULLNAME": "scp-zh-255",
         "RATING": 22,
@@ -478,6 +484,12 @@
         "FULLNAME": "canteen-date",
         "RATING": 21,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-032",
+        "FULLNAME": "scp-zh-032",
+        "RATING": 21,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-009",
@@ -670,6 +682,12 @@
         "FULLNAME": "scp-zh-185",
         "RATING": 19,
         "COMMENTS": "11"
+    },
+    {
+        "TITLE": "SCP-ZH-903 - 灶神食譜（零失敗）",
+        "FULLNAME": "scp-zh-903",
+        "RATING": 19,
+        "COMMENTS": "4"
     },
     {
         "TITLE": "SCP-ZH-017",
@@ -1180,23 +1198,5 @@
         "FULLNAME": "k1s10r0d-april-fool-project-2021",
         "RATING": 16,
         "COMMENTS": "5"
-    },
-    {
-        "TITLE": "SCP-ZH-252",
-        "FULLNAME": "scp-zh-252",
-        "RATING": 15,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-666",
-        "FULLNAME": "scp-zh-666",
-        "RATING": 15,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-ZH-372",
-        "FULLNAME": "scp-zh-372",
-        "RATING": 15,
-        "COMMENTS": "9"
     }
 ]

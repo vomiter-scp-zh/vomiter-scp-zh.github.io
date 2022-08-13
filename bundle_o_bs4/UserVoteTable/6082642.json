@@ -304,5 +304,17 @@
         "FULLNAME": "scp-zh-00l",
         "RATING": 12,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "中華民國國家安全局第八處 中心頁",
+        "FULLNAME": "nsb8-hub",
+        "RATING": 13,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-410 - 化工廠的鐵桶",
+        "FULLNAME": "scp-zh-410",
+        "RATING": 13,
+        "COMMENTS": "5"
     }
 ]

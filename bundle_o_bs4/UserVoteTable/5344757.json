@@ -3598,5 +3598,47 @@
         "FULLNAME": "littlegreatwar2",
         "RATING": 5,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "開幕儀式",
+        "FULLNAME": "black-sheep-rite",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "晃動游戲台",
+        "FULLNAME": "shakepinballmachine",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "離群的彗星",
+        "FULLNAME": "leavingcomet",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "所有的橋都被燒掉了",
+        "FULLNAME": "all-the-bridges-were-burned",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "事件代號：核裂擠兌-主任Semibreve的視角",
+        "FULLNAME": "operation-nucleon-bank-semibreve",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-903 - 灶神食譜（零失敗）",
+        "FULLNAME": "scp-zh-903",
+        "RATING": 19,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "伊亞的故事",
+        "FULLNAME": "ea-the-daughter",
+        "RATING": 8,
+        "COMMENTS": "2"
     }
 ]

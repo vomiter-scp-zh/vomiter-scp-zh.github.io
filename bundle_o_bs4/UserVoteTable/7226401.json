@@ -310,5 +310,47 @@
         "FULLNAME": "polaris",
         "RATING": 17,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-509",
+        "FULLNAME": "scp-zh-509",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "收容奇緣：Sigurrós",
+        "FULLNAME": "sigurros-and-taiwanese-unicorn",
+        "RATING": 13,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "好餓好餓的克里斯博士",
+        "FULLNAME": "the-very-hungry-dr-kris",
+        "RATING": 15,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "山姆的ZH分部項目紀錄本",
+        "FULLNAME": "samscript-scp-artwork",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-338 - 沉船裡的手天使",
+        "FULLNAME": "adult:scp-zh-338",
+        "RATING": 15,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-V1L3-J實驗產物附圖備份",
+        "FULLNAME": "adult:k1s10r0d-art-of-v1l3-j-burning-calories",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-032",
+        "FULLNAME": "scp-zh-032",
+        "RATING": 21,
+        "COMMENTS": "0"
     }
 ]

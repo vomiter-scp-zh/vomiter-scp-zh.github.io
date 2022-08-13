@@ -814,5 +814,65 @@
         "FULLNAME": "the-ss-vs-ss",
         "RATING": 28,
         "COMMENTS": "19"
+    },
+    {
+        "TITLE": "事件代號：核裂擠兌-主任Semibreve的視角",
+        "FULLNAME": "operation-nucleon-bank-semibreve",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-903 - 灶神食譜（零失敗）",
+        "FULLNAME": "scp-zh-903",
+        "RATING": 19,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-509",
+        "FULLNAME": "scp-zh-509",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "砧板上的墨跡",
+        "FULLNAME": "finger-test-warrior",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-369 - dado的中藥粽合特效組",
+        "FULLNAME": "scp-zh-369",
+        "RATING": 4,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-620 - 瘟疫燃燒於生命之泉",
+        "FULLNAME": "scp-zh-620",
+        "RATING": 16,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "你跟我說真的嗎?",
+        "FULLNAME": "dr-willow",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "花語：曇華",
+        "FULLNAME": "flower-language-canna-indica",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "親迎輕盈之營火瑩",
+        "FULLNAME": "bt-fly",
+        "RATING": 13,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-034",
+        "FULLNAME": "scp-zh-034",
+        "RATING": 23,
+        "COMMENTS": "3"
     }
 ]

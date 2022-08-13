@@ -1888,5 +1888,137 @@
         "FULLNAME": "foxhunt",
         "RATING": 12,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "所有的橋都被燒掉了",
+        "FULLNAME": "all-the-bridges-were-burned",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "事件代號：核裂擠兌-主任Semibreve的視角",
+        "FULLNAME": "operation-nucleon-bank-semibreve",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "好餓好餓的克里斯博士",
+        "FULLNAME": "the-very-hungry-dr-kris",
+        "RATING": 15,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "藝術紀錄：Attempts to Assassinate Thought",
+        "FULLNAME": "art-for-3002",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "挑戰活動 職位交換",
+        "FULLNAME": "transfer-challenge-zh",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-527 - 隱形的奇奇摩拉",
+        "FULLNAME": "scp-zh-527",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "萬里長空",
+        "FULLNAME": "talisman",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "你是啥物人？",
+        "FULLNAME": "to-the-doctor",
+        "RATING": 12,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-338 - 沉船裡的手天使",
+        "FULLNAME": "adult:scp-zh-338",
+        "RATING": 15,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "中華民國國家安全局第八處 中心頁",
+        "FULLNAME": "nsb8-hub",
+        "RATING": 13,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-709",
+        "FULLNAME": "scp-zh-709",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "捉雙",
+        "FULLNAME": "face-the-shadows-1",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "那並不是人類",
+        "FULLNAME": "zh-111-egocentric",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-390 - 臺灣寫作測驗",
+        "FULLNAME": "scp-zh-390",
+        "RATING": 9,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-410 - 化工廠的鐵桶",
+        "FULLNAME": "scp-zh-410",
+        "RATING": 13,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "2021 夏季競賽 主題《異聞錄》",
+        "FULLNAME": "summer-contest-2021",
+        "RATING": 13,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-576 - 花語",
+        "FULLNAME": "scp-zh-576",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-032",
+        "FULLNAME": "scp-zh-032",
+        "RATING": 21,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-571 - 不可視的追跡者",
+        "FULLNAME": "scp-zh-571",
+        "RATING": 12,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "親迎輕盈之營火瑩",
+        "FULLNAME": "bt-fly",
+        "RATING": 13,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-034",
+        "FULLNAME": "scp-zh-034",
+        "RATING": 23,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "0226號病患",
+        "FULLNAME": "patient0226",
+        "RATING": 8,
+        "COMMENTS": "4"
     }
 ]
