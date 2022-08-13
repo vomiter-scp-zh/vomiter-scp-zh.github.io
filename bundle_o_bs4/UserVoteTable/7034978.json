@@ -226,5 +226,11 @@
         "FULLNAME": "scp-zh-090",
         "RATING": 16,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-880",
+        "FULLNAME": "scp-zh-880",
+        "RATING": 29,
+        "COMMENTS": "2"
     }
 ]

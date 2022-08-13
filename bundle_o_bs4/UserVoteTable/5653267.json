@@ -766,5 +766,41 @@
         "FULLNAME": "k1s10r0d-april-fool-project-2021",
         "RATING": 16,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-880",
+        "FULLNAME": "scp-zh-880",
+        "RATING": 29,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-185",
+        "FULLNAME": "scp-zh-185",
+        "RATING": 19,
+        "COMMENTS": "11"
+    },
+    {
+        "TITLE": "鎖鏈的音竹",
+        "FULLNAME": "k1s10r0d-chain-sugoi",
+        "RATING": 27,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "好餓好餓的克里斯博士",
+        "FULLNAME": "the-very-hungry-dr-kris",
+        "RATING": 15,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-527 - 隱形的奇奇摩拉",
+        "FULLNAME": "scp-zh-527",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "中華民國國家安全局第八處 中心頁",
+        "FULLNAME": "nsb8-hub",
+        "RATING": 13,
+        "COMMENTS": "3"
     }
 ]

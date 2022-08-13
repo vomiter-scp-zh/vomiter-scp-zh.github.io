@@ -298,5 +298,23 @@
         "FULLNAME": "super-cooking-pot",
         "RATING": 24,
         "COMMENTS": "10"
+    },
+    {
+        "TITLE": "SCP-ZH-185",
+        "FULLNAME": "scp-zh-185",
+        "RATING": 19,
+        "COMMENTS": "11"
+    },
+    {
+        "TITLE": "SCP-ZH-946",
+        "FULLNAME": "scp-zh-946",
+        "RATING": 27,
+        "COMMENTS": "13"
+    },
+    {
+        "TITLE": "SCP-ZH-736 - 你不能再往前了",
+        "FULLNAME": "scp-zh-736",
+        "RATING": 31,
+        "COMMENTS": "14"
     }
 ]

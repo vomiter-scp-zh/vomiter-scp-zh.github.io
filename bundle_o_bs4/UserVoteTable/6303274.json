@@ -250,5 +250,11 @@
         "FULLNAME": "adult:scp-zh-235",
         "RATING": 21,
         "COMMENTS": "10"
+    },
+    {
+        "TITLE": "SCP-ZH-231",
+        "FULLNAME": "scp-zh-231",
+        "RATING": 9,
+        "COMMENTS": "9"
     }
 ]

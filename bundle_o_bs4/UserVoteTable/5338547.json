@@ -142,5 +142,47 @@
         "FULLNAME": "jie-men-convocation",
         "RATING": 6,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-946",
+        "FULLNAME": "scp-zh-946",
+        "RATING": 27,
+        "COMMENTS": "13"
+    },
+    {
+        "TITLE": "遊樂園內的秘密",
+        "FULLNAME": "lxvi-cafe-park",
+        "RATING": 9,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-736 - 你不能再往前了",
+        "FULLNAME": "scp-zh-736",
+        "RATING": 31,
+        "COMMENTS": "14"
+    },
+    {
+        "TITLE": "SCP-ZH-129",
+        "FULLNAME": "scp-zh-129",
+        "RATING": 11,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-782 - 牛角泰森",
+        "FULLNAME": "scp-zh-782",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "你是啥物人？",
+        "FULLNAME": "to-the-doctor",
+        "RATING": 12,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-338 - 沉船裡的手天使",
+        "FULLNAME": "adult:scp-zh-338",
+        "RATING": 15,
+        "COMMENTS": "4"
     }
 ]

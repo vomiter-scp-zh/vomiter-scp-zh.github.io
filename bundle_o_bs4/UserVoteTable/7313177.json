@@ -148,5 +148,23 @@
         "FULLNAME": "scp-zh-975",
         "RATING": 10,
         "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-880",
+        "FULLNAME": "scp-zh-880",
+        "RATING": 29,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-185",
+        "FULLNAME": "scp-zh-185",
+        "RATING": 19,
+        "COMMENTS": "11"
+    },
+    {
+        "TITLE": "SCP-ZH-736 - 你不能再往前了",
+        "FULLNAME": "scp-zh-736",
+        "RATING": 31,
+        "COMMENTS": "14"
     }
 ]

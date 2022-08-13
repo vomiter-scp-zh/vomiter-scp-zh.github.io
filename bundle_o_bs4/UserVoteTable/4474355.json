@@ -1294,5 +1294,41 @@
         "FULLNAME": "scp-zh-00l",
         "RATING": 12,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-185",
+        "FULLNAME": "scp-zh-185",
+        "RATING": 19,
+        "COMMENTS": "11"
+    },
+    {
+        "TITLE": "鎖鏈的音竹",
+        "FULLNAME": "k1s10r0d-chain-sugoi",
+        "RATING": 27,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-946",
+        "FULLNAME": "scp-zh-946",
+        "RATING": 27,
+        "COMMENTS": "13"
+    },
+    {
+        "TITLE": "Surge的提案一",
+        "FULLNAME": "surge-s-proposal-1",
+        "RATING": 32,
+        "COMMENTS": "11"
+    },
+    {
+        "TITLE": "SCP-ZH-416",
+        "FULLNAME": "scp-zh-416",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-369 - dado的中藥粽合特效組",
+        "FULLNAME": "scp-zh-369",
+        "RATING": 4,
+        "COMMENTS": "5"
     }
 ]

@@ -154,5 +154,11 @@
         "FULLNAME": "crown",
         "RATING": 11,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-782 - 牛角泰森",
+        "FULLNAME": "scp-zh-782",
+        "RATING": 8,
+        "COMMENTS": "1"
     }
 ]

@@ -274,5 +274,29 @@
         "FULLNAME": "scp-zh-022-j",
         "RATING": 36,
         "COMMENTS": "19"
+    },
+    {
+        "TITLE": "SCP-ZH-185",
+        "FULLNAME": "scp-zh-185",
+        "RATING": 19,
+        "COMMENTS": "11"
+    },
+    {
+        "TITLE": "SCP-ZH-903 - 灶神食譜（零失敗）",
+        "FULLNAME": "scp-zh-903",
+        "RATING": 19,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-527 - 隱形的奇奇摩拉",
+        "FULLNAME": "scp-zh-527",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "萬里長空",
+        "FULLNAME": "talisman",
+        "RATING": 14,
+        "COMMENTS": "1"
     }
 ]

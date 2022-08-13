@@ -400,5 +400,47 @@
         "FULLNAME": "today-is-just-another-ordinary-day",
         "RATING": 11,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-880",
+        "FULLNAME": "scp-zh-880",
+        "RATING": 29,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Surge的提案一",
+        "FULLNAME": "surge-s-proposal-1",
+        "RATING": 32,
+        "COMMENTS": "11"
+    },
+    {
+        "TITLE": "故事的力量～你為什麼需要超形上學～",
+        "FULLNAME": "why-you-need-pataphysics",
+        "RATING": 24,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-736 - 你不能再往前了",
+        "FULLNAME": "scp-zh-736",
+        "RATING": 31,
+        "COMMENTS": "14"
+    },
+    {
+        "TITLE": "SCP-ZH-129",
+        "FULLNAME": "scp-zh-129",
+        "RATING": 11,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-527 - 隱形的奇奇摩拉",
+        "FULLNAME": "scp-zh-527",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "遠己中心頁",
+        "FULLNAME": "yuanji-hub",
+        "RATING": 15,
+        "COMMENTS": "9"
     }
 ]
