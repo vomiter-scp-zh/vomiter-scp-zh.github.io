@@ -358,5 +358,71 @@
         "FULLNAME": "on-the-tree",
         "RATING": 17,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Dr.Ray的異常項目分級圖標",
+        "FULLNAME": "ray-s-logo",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "回憶虹彩—參賽訪談：淵夢",
+        "FULLNAME": "memories-in-iris-abyssdream",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-075",
+        "FULLNAME": "scp-zh-075",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-027 - 玉籠包",
+        "FULLNAME": "scp-zh-027",
+        "RATING": 16,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "尋獲物品編號：065",
+        "FULLNAME": "article-number-065",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "沙皇先知協會中心頁",
+        "FULLNAME": "tsars-hub",
+        "RATING": 20,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "查看寄件備份。",
+        "FULLNAME": "something-you-cant-forget",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "提案：聖誕軟暖貂",
+        "FULLNAME": "christmas-marten",
+        "RATING": 14,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-626",
+        "FULLNAME": "scp-zh-626",
+        "RATING": 23,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-044",
+        "FULLNAME": "scp-zh-044",
+        "RATING": 20,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-216",
+        "FULLNAME": "scp-zh-216",
+        "RATING": 16,
+        "COMMENTS": "2"
     }
 ]

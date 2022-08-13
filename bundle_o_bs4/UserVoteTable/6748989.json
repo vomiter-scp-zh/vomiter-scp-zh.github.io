@@ -28,5 +28,11 @@
         "FULLNAME": "run-errands",
         "RATING": 9,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "冰箱",
+        "FULLNAME": "fridge",
+        "RATING": 11,
+        "COMMENTS": "0"
     }
 ]

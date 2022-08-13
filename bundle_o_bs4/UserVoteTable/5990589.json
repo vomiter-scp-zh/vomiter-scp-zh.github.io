@@ -40,5 +40,11 @@
         "FULLNAME": "water-pipe",
         "RATING": 8,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-026",
+        "FULLNAME": "scp-zh-026",
+        "RATING": 7,
+        "COMMENTS": "0"
     }
 ]

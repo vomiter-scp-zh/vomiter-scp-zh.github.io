@@ -16,5 +16,23 @@
         "FULLNAME": "zh-logo",
         "RATING": 14,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Dr.Ray的異常項目分級圖標",
+        "FULLNAME": "ray-s-logo",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Dr.Ray的異常項目分級圖標 - Apollyon",
+        "FULLNAME": "ray-s-logo-apollyon",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "藝術紀錄：協和御守。",
+        "FULLNAME": "art-for-zh258",
+        "RATING": 12,
+        "COMMENTS": "0"
     }
 ]

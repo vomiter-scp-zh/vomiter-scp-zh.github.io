@@ -136,5 +136,41 @@
         "FULLNAME": "scp-zh-9288-ex",
         "RATING": 44,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-120",
+        "FULLNAME": "scp-zh-120",
+        "RATING": 38,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-642",
+        "FULLNAME": "scp-zh-642",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-025",
+        "FULLNAME": "scp-zh-025",
+        "RATING": 15,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-300",
+        "FULLNAME": "scp-zh-300",
+        "RATING": 15,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "聖誕軍演",
+        "FULLNAME": "xmas-exercise",
+        "RATING": 22,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-044",
+        "FULLNAME": "scp-zh-044",
+        "RATING": 20,
+        "COMMENTS": "3"
     }
 ]

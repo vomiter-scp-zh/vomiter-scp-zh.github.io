@@ -106,5 +106,23 @@
         "FULLNAME": "scp-zh-087",
         "RATING": 30,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-642",
+        "FULLNAME": "scp-zh-642",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-075",
+        "FULLNAME": "scp-zh-075",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "安保設施檔案：Site-ZH-31",
+        "FULLNAME": "site-zh-31",
+        "RATING": 8,
+        "COMMENTS": "0"
     }
 ]

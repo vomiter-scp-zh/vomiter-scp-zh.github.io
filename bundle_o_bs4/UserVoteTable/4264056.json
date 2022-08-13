@@ -304,5 +304,41 @@
         "FULLNAME": "scp-zh-9288-ex",
         "RATING": 44,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "山姆的ZH分部角色紀錄本",
+        "FULLNAME": "doodles-from-sam",
+        "RATING": 24,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "初次見面",
+        "FULLNAME": "mystery",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "聖誕軍演",
+        "FULLNAME": "xmas-exercise",
+        "RATING": 22,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "聖夜晚餐",
+        "FULLNAME": "so-i-said-that-dinner",
+        "RATING": 21,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "遠東零號部門卷宗：E-830",
+        "FULLNAME": "e-830",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-044",
+        "FULLNAME": "scp-zh-044",
+        "RATING": 20,
+        "COMMENTS": "3"
     }
 ]

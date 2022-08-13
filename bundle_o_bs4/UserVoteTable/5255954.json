@@ -70,5 +70,53 @@
         "FULLNAME": "on-the-tree",
         "RATING": 17,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "尋獲物品編號：037",
+        "FULLNAME": "article-number-037",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-959 - 桑格拉斯-阿比斯莫式分裂",
+        "FULLNAME": "scp-zh-959",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "尋獲物品編號：021",
+        "FULLNAME": "ru021",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "尋獲物品編號：065",
+        "FULLNAME": "article-number-065",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "餘波",
+        "FULLNAME": "aftermath-zh",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "聖誕軍演",
+        "FULLNAME": "xmas-exercise",
+        "RATING": 22,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "安布羅斯餐廳-崇文館",
+        "FULLNAME": "ambrose-chung-wen-kuan",
+        "RATING": 20,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-044",
+        "FULLNAME": "scp-zh-044",
+        "RATING": 20,
+        "COMMENTS": "3"
     }
 ]

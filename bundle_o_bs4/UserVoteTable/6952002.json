@@ -28,5 +28,23 @@
         "FULLNAME": "scp-zh-087",
         "RATING": 30,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "山姆的ZH分部角色紀錄本",
+        "FULLNAME": "doodles-from-sam",
+        "RATING": 24,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-075",
+        "FULLNAME": "scp-zh-075",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "聖誕帽，這是Dr. Xmas的日子",
+        "FULLNAME": "xina-mas-2019",
+        "RATING": 19,
+        "COMMENTS": "0"
     }
 ]

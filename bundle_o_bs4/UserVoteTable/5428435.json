@@ -184,5 +184,47 @@
         "FULLNAME": "on-the-tree",
         "RATING": 17,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-120",
+        "FULLNAME": "scp-zh-120",
+        "RATING": 38,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "山姆的ZH分部角色紀錄本",
+        "FULLNAME": "doodles-from-sam",
+        "RATING": 24,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "Dr.Ray的異常項目分級圖標",
+        "FULLNAME": "ray-s-logo",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-642",
+        "FULLNAME": "scp-zh-642",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "安布羅斯餐廳-崇文館",
+        "FULLNAME": "ambrose-chung-wen-kuan",
+        "RATING": 20,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "聖誕帽，這是Dr. Xmas的日子",
+        "FULLNAME": "xina-mas-2019",
+        "RATING": 19,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "鴨鴨的聖誕賀圖",
+        "FULLNAME": "duck-s-xmas",
+        "RATING": 17,
+        "COMMENTS": "0"
     }
 ]

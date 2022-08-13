@@ -58,5 +58,17 @@
         "FULLNAME": "scp-zh-9288-ex",
         "RATING": 44,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-120",
+        "FULLNAME": "scp-zh-120",
+        "RATING": 38,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-044",
+        "FULLNAME": "scp-zh-044",
+        "RATING": 20,
+        "COMMENTS": "3"
     }
 ]
