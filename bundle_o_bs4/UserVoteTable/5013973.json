@@ -16,5 +16,29 @@
         "FULLNAME": "scp-zh-005",
         "RATING": 60,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-193 - 人與電與鋼之一族",
+        "FULLNAME": "scp-zh-193",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-178 \"3-D\" Specs",
+        "FULLNAME": "bangyen178",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Dr.Ctrl Z的SCP記錄：SCP-408 幻象蝶",
+        "FULLNAME": "bangyen408",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-343 神",
+        "FULLNAME": "bangyen343",
+        "RATING": 6,
+        "COMMENTS": "0"
     }
 ]

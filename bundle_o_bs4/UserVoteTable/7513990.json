@@ -46,5 +46,65 @@
         "FULLNAME": "scp-zh-515",
         "RATING": 43,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "假如你來到這個宇宙請保持冷靜",
+        "FULLNAME": "you-need-icecream-in-summer",
+        "RATING": 31,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-049瘟疫醫生",
+        "FULLNAME": "hiiambangyen",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-076 亞伯",
+        "FULLNAME": "heyismebangyen",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-079舊AI",
+        "FULLNAME": "haidomobangyendasu",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-087 樓梯間",
+        "FULLNAME": "ismeagainbangyen",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-899",
+        "FULLNAME": "scp-zh-899",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP173 雕像/初始之作",
+        "FULLNAME": "bangyensart",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-045",
+        "FULLNAME": "scp-zh-045",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-036 - 茶癮浣熊",
+        "FULLNAME": "scp-zh-036",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "孩子的世界",
+        "FULLNAME": "childhood",
+        "RATING": 14,
+        "COMMENTS": "1"
     }
 ]

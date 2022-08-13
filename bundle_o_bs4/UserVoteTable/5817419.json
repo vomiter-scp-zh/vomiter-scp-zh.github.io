@@ -100,5 +100,65 @@
         "FULLNAME": "chinese-ixora",
         "RATING": 19,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-193 - 人與電與鋼之一族",
+        "FULLNAME": "scp-zh-193",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "工作人員及角色檔案-ZH",
+        "FULLNAME": "personnel-and-character-dossier-zh",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-●●|●●●●●|●●|●",
+        "FULLNAME": "yenney",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-085 手繪的''Cassy''",
+        "FULLNAME": "bangyen085",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-343 神",
+        "FULLNAME": "bangyen343",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-939 引渡他聲",
+        "FULLNAME": "bangyen939",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-1151 掌上笑臉",
+        "FULLNAME": "bangyen1151",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-2295 有著拼布心臟的熊",
+        "FULLNAME": "bangyen2295",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-093 紅海物件",
+        "FULLNAME": "bangyen093",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "孩子的世界",
+        "FULLNAME": "childhood",
+        "RATING": 14,
+        "COMMENTS": "1"
     }
 ]

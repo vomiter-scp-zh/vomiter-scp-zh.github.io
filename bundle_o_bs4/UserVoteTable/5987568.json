@@ -34,5 +34,23 @@
         "FULLNAME": "scp-zh-005",
         "RATING": 60,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "遐邇週刊 第011期",
+        "FULLNAME": "the-weekly-011",
+        "RATING": 13,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "事件代號：核裂擠兌-SCP-ZH-899視點",
+        "FULLNAME": "operation-nucleon-bank-899",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-045",
+        "FULLNAME": "scp-zh-045",
+        "RATING": 18,
+        "COMMENTS": "0"
     }
 ]

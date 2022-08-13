@@ -130,5 +130,77 @@
         "FULLNAME": "e-0249",
         "RATING": 9,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "洗衣部門",
+        "FULLNAME": "laundry-of-miya",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "皇家香港警察隊零號專隊 中心頁",
+        "FULLNAME": "zero-team-hub",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "遐邇週刊 第011期",
+        "FULLNAME": "the-weekly-011",
+        "RATING": 13,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "香港特區異常政治組織資料：茶嶺民生關注組",
+        "FULLNAME": "concern-group-for-cha-ling-people-s-livelihood",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-899",
+        "FULLNAME": "scp-zh-899",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-045",
+        "FULLNAME": "scp-zh-045",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "工作人員及角色檔案-ZH",
+        "FULLNAME": "personnel-and-character-dossier-zh",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "對欲肉教的人類學進路03-案例研究03：香港新茶嶺的盧亭人",
+        "FULLNAME": "sarkic-case-study-03-the-luo-ting-n-a-of-new-cha-ling",
+        "RATING": 19,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "新四山小學訂單（SSPS S56Y76）",
+        "FULLNAME": "mcdssps",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-036 - 茶癮浣熊",
+        "FULLNAME": "scp-zh-036",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "風起",
+        "FULLNAME": "wind-blows",
+        "RATING": 5,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-348",
+        "FULLNAME": "scp-zh-348",
+        "RATING": 5,
+        "COMMENTS": "2"
     }
 ]

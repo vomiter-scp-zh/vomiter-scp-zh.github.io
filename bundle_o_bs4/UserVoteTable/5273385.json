@@ -22,5 +22,47 @@
         "FULLNAME": "arrival",
         "RATING": 17,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "一次興衰",
+        "FULLNAME": "a-change",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "裂變序言",
+        "FULLNAME": "operation-nucleon-bank-run-1",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-899",
+        "FULLNAME": "scp-zh-899",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "事件代號：核裂擠兌-SCP-ZH-899視點",
+        "FULLNAME": "operation-nucleon-bank-899",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "事件代號：核裂擠兌-後勤醫護人員研究員L.What視角",
+        "FULLNAME": "i-m-not-fine",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-193 - 人與電與鋼之一族",
+        "FULLNAME": "scp-zh-193",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "工作人員及角色檔案-ZH",
+        "FULLNAME": "personnel-and-character-dossier-zh",
+        "RATING": 16,
+        "COMMENTS": "0"
     }
 ]

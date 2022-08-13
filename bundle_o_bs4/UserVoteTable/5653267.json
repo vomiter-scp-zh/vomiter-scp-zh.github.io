@@ -22,5 +22,53 @@
         "FULLNAME": "scp-zh-125",
         "RATING": 22,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "洗衣部門",
+        "FULLNAME": "laundry-of-miya",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-610 - 猛爆性繁衍組織瘤",
+        "FULLNAME": "scp-zh-610",
+        "RATING": 21,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "事件代號：核裂擠兌-後勤醫護人員研究員L.What視角",
+        "FULLNAME": "i-m-not-fine",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-045",
+        "FULLNAME": "scp-zh-045",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "工作人員及角色檔案-ZH",
+        "FULLNAME": "personnel-and-character-dossier-zh",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "繁中分部標誌",
+        "FULLNAME": "zh-logo",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-2295 有著拼布心臟的熊",
+        "FULLNAME": "bangyen2295",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "萬華鏡中的貓",
+        "FULLNAME": "cats-in-kaleidoscopes",
+        "RATING": 17,
+        "COMMENTS": "0"
     }
 ]

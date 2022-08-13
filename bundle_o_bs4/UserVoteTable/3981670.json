@@ -256,5 +256,107 @@
         "FULLNAME": "e-0249",
         "RATING": 9,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "洗衣部門",
+        "FULLNAME": "laundry-of-miya",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-610 - 猛爆性繁衍組織瘤",
+        "FULLNAME": "scp-zh-610",
+        "RATING": 21,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "香港特區異常選區資料庫：新茶嶺選區",
+        "FULLNAME": "new-cha-ling",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "認識段落寫作",
+        "FULLNAME": "understanding-paragraph",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "假如你來到這個宇宙請保持冷靜",
+        "FULLNAME": "you-need-icecream-in-summer",
+        "RATING": 31,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "裂變序言",
+        "FULLNAME": "operation-nucleon-bank-run-1",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "香港特區異常政治組織資料：茶嶺民生關注組",
+        "FULLNAME": "concern-group-for-cha-ling-people-s-livelihood",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "事件代號：核裂擠兌-後勤醫護人員研究員L.What視角",
+        "FULLNAME": "i-m-not-fine",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "泡影",
+        "FULLNAME": "the-bubble-in-the-tide",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-193 - 人與電與鋼之一族",
+        "FULLNAME": "scp-zh-193",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "被遺忘的樂園",
+        "FULLNAME": "the-forgotten-playground",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "對欲肉教的人類學進路03-案例研究03：香港新茶嶺的盧亭人",
+        "FULLNAME": "sarkic-case-study-03-the-luo-ting-n-a-of-new-cha-ling",
+        "RATING": 19,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-178 \"3-D\" Specs",
+        "FULLNAME": "bangyen178",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-254",
+        "FULLNAME": "scp-zh-254",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-036 - 茶癮浣熊",
+        "FULLNAME": "scp-zh-036",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "萬華鏡中的貓",
+        "FULLNAME": "cats-in-kaleidoscopes",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "事件代號：核裂擠兌-指揮官Minger的視角",
+        "FULLNAME": "operation-nucleon-bank-minger",
+        "RATING": 7,
+        "COMMENTS": "0"
     }
 ]

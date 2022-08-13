@@ -10,5 +10,11 @@
         "FULLNAME": "scp-zh-005",
         "RATING": 60,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "繁中分部標誌",
+        "FULLNAME": "zh-logo",
+        "RATING": 14,
+        "COMMENTS": "0"
     }
 ]

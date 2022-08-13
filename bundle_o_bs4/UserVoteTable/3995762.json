@@ -10,5 +10,11 @@
         "FULLNAME": "2008",
         "RATING": 9,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "繁中分部標誌",
+        "FULLNAME": "zh-logo",
+        "RATING": 14,
+        "COMMENTS": "0"
     }
 ]

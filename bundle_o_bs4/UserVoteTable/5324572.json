@@ -58,5 +58,41 @@
         "FULLNAME": "scp-zh-194",
         "RATING": 12,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-610 - 猛爆性繁衍組織瘤",
+        "FULLNAME": "scp-zh-610",
+        "RATING": 21,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "認識段落寫作",
+        "FULLNAME": "understanding-paragraph",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-106 恐怖老人",
+        "FULLNAME": "iambangyen",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-999 The Tickle Monster",
+        "FULLNAME": "yenyen",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-1048 Builder Bear",
+        "FULLNAME": "bangyenbangyenyen",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "對欲肉教的人類學進路03-案例研究03：香港新茶嶺的盧亭人",
+        "FULLNAME": "sarkic-case-study-03-the-luo-ting-n-a-of-new-cha-ling",
+        "RATING": 19,
+        "COMMENTS": "0"
     }
 ]

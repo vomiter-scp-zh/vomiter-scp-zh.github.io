@@ -16,5 +16,11 @@
         "FULLNAME": "sth-about-translation",
         "RATING": 11,
         "COMMENTS": "6"
+    },
+    {
+        "TITLE": "洗衣部門",
+        "FULLNAME": "laundry-of-miya",
+        "RATING": 12,
+        "COMMENTS": "2"
     }
 ]

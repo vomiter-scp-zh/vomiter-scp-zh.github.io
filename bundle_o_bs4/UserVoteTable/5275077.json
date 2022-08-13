@@ -232,5 +232,59 @@
         "FULLNAME": "chinese-ixora",
         "RATING": 19,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "皇家香港警察隊零號專隊 中心頁",
+        "FULLNAME": "zero-team-hub",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "香港特區異常政治組織資料：茶嶺民生關注組",
+        "FULLNAME": "concern-group-for-cha-ling-people-s-livelihood",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-045",
+        "FULLNAME": "scp-zh-045",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-925 - 魔術師衣櫃",
+        "FULLNAME": "scp-zh-925",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-085 手繪的''Cassy''",
+        "FULLNAME": "bangyen085",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-343 神",
+        "FULLNAME": "bangyen343",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-093 紅海物件",
+        "FULLNAME": "bangyen093",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-036 - 茶癮浣熊",
+        "FULLNAME": "scp-zh-036",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "萬華鏡中的貓",
+        "FULLNAME": "cats-in-kaleidoscopes",
+        "RATING": 17,
+        "COMMENTS": "0"
     }
 ]
