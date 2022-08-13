@@ -376,5 +376,35 @@
         "FULLNAME": "scp-zh-545",
         "RATING": 17,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-987 - 一匹駱駝引發的慘案",
+        "FULLNAME": "scp-zh-987",
+        "RATING": 10,
+        "COMMENTS": "9"
+    },
+    {
+        "TITLE": "SCP-ZH-520",
+        "FULLNAME": "scp-zh-520",
+        "RATING": 16,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "2020 虹光之間",
+        "FULLNAME": "darkroom-2020",
+        "RATING": 3,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-053",
+        "FULLNAME": "scp-zh-053",
+        "RATING": 29,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "《淺談異常越南船民與近代香港異常社區對此的各界反應。》",
+        "FULLNAME": "report-of-hk-vn-history",
+        "RATING": 10,
+        "COMMENTS": "2"
     }
 ]

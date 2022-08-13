@@ -634,5 +634,35 @@
         "FULLNAME": "sitestuck002",
         "RATING": 9,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-066 新概念音響",
+        "FULLNAME": "scp-066-painting",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "主站博士相關插圖",
+        "FULLNAME": "qmario-artwork-1",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Alicia女士",
+        "FULLNAME": "scp-zh-774",
+        "RATING": 31,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-236",
+        "FULLNAME": "scp-zh-236",
+        "RATING": 11,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "我沒能救到他。",
+        "FULLNAME": "arkwork-zh-200",
+        "RATING": 22,
+        "COMMENTS": "0"
     }
 ]

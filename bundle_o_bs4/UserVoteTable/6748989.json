@@ -34,5 +34,11 @@
         "FULLNAME": "fridge",
         "RATING": 11,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-012",
+        "FULLNAME": "scp-zh-012",
+        "RATING": 19,
+        "COMMENTS": "2"
     }
 ]

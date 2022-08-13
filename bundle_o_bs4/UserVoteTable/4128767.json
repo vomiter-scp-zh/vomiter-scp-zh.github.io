@@ -736,5 +736,23 @@
         "FULLNAME": "fan-logo",
         "RATING": 8,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-012",
+        "FULLNAME": "scp-zh-012",
+        "RATING": 19,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "插圖：逃避",
+        "FULLNAME": "i-should-been-killed",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "香脆夏威夷披薩",
+        "FULLNAME": "sh-crispy-pineapple-pizza",
+        "RATING": 11,
+        "COMMENTS": "0"
     }
 ]

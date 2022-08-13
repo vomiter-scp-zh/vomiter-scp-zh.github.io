@@ -52,5 +52,23 @@
         "FULLNAME": "ambrose-chung-wen-kuan",
         "RATING": 20,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-019",
+        "FULLNAME": "scp-zh-019",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-520",
+        "FULLNAME": "scp-zh-520",
+        "RATING": 16,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-053",
+        "FULLNAME": "scp-zh-053",
+        "RATING": 29,
+        "COMMENTS": "0"
     }
 ]

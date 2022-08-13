@@ -160,5 +160,17 @@
         "FULLNAME": "scp-zh-166",
         "RATING": 21,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-987 - 一匹駱駝引發的慘案",
+        "FULLNAME": "scp-zh-987",
+        "RATING": 10,
+        "COMMENTS": "9"
+    },
+    {
+        "TITLE": "SCP-ZH-857",
+        "FULLNAME": "scp-zh-857",
+        "RATING": 12,
+        "COMMENTS": "11"
     }
 ]

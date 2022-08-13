@@ -82,5 +82,23 @@
         "FULLNAME": "scp-zh-0404",
         "RATING": 7,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-236",
+        "FULLNAME": "scp-zh-236",
+        "RATING": 11,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-200",
+        "FULLNAME": "scp-zh-200",
+        "RATING": 33,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-247 - 讀心血姬",
+        "FULLNAME": "scp-zh-247",
+        "RATING": 11,
+        "COMMENTS": "4"
     }
 ]

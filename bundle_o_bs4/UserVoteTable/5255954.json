@@ -196,5 +196,71 @@
         "FULLNAME": "four-konnies-four-troubles",
         "RATING": 10,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-●●|●●●●●|●●|● 素描",
+        "FULLNAME": "scp-2521-painting",
+        "RATING": 12,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "美麗的蝴蝶仙子Kondraki博士",
+        "FULLNAME": "oh-god-this-is-kondraki",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "他們把人扔進了海裡",
+        "FULLNAME": "they-throw-them-into-the-sea",
+        "RATING": 11,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "主站博士相關插圖",
+        "FULLNAME": "qmario-artwork-1",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "終章：2020年",
+        "FULLNAME": "part0-in-the-end",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "我在萬物之中",
+        "FULLNAME": "arkwork-3999",
+        "RATING": 37,
+        "COMMENTS": "8"
+    },
+    {
+        "TITLE": "SCP-ZH-103 - 易形鴞魔",
+        "FULLNAME": "scp-zh-103",
+        "RATING": 15,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "我沒能救到他。",
+        "FULLNAME": "arkwork-zh-200",
+        "RATING": 22,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-053",
+        "FULLNAME": "scp-zh-053",
+        "RATING": 29,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "清醒夢",
+        "FULLNAME": "lucid-dream",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-480",
+        "FULLNAME": "scp-zh-480",
+        "RATING": 10,
+        "COMMENTS": "1"
     }
 ]

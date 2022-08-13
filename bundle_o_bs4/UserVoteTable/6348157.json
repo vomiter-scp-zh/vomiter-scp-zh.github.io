@@ -88,5 +88,17 @@
         "FULLNAME": "scp-zh-055",
         "RATING": 18,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-520",
+        "FULLNAME": "scp-zh-520",
+        "RATING": 16,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-103 - 易形鴞魔",
+        "FULLNAME": "scp-zh-103",
+        "RATING": 15,
+        "COMMENTS": "2"
     }
 ]

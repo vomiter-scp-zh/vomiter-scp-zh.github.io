@@ -52,5 +52,23 @@
         "FULLNAME": "scp-zh-860",
         "RATING": 33,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-012",
+        "FULLNAME": "scp-zh-012",
+        "RATING": 19,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-200",
+        "FULLNAME": "scp-zh-200",
+        "RATING": 33,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-2588-J",
+        "FULLNAME": "scp-zh-2588-j",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]

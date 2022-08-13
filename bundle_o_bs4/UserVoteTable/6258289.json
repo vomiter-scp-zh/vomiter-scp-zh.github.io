@@ -196,5 +196,17 @@
         "FULLNAME": "scp-zh-976",
         "RATING": 14,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-910 - 科學末日恐慌",
+        "FULLNAME": "scp-zh-910",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-810",
+        "FULLNAME": "scp-zh-810",
+        "RATING": 15,
+        "COMMENTS": "2"
     }
 ]
