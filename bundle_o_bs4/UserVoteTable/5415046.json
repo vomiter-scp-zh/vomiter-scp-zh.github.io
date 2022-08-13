@@ -880,5 +880,149 @@
         "FULLNAME": "scp-zh-717",
         "RATING": 15,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-015",
+        "FULLNAME": "scp-zh-015",
+        "RATING": 23,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-040",
+        "FULLNAME": "scp-zh-040",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "三段論證入職講座",
+        "FULLNAME": "work-as-a-syllogism-member",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "中國國安部，不應存在的十九局",
+        "FULLNAME": "19th-bureau-of-mss-of-china",
+        "RATING": 20,
+        "COMMENTS": "16"
+    },
+    {
+        "TITLE": "《復仇的迴轉之路》第七話「檯面上的迴轉，檯面下的衝撞」",
+        "FULLNAME": "sb-the-road-of-revenge",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "基金會員工排起了隊",
+        "FULLNAME": "self-service-laundry-zh",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "緞帶飄飄，鈴擺噹噹",
+        "FULLNAME": "ctf15-21-molly",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "過去現在、白晝黑夜",
+        "FULLNAME": "2zero2seven",
+        "RATING": 4,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-061",
+        "FULLNAME": "scp-zh-061",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "第〇六六五號",
+        "FULLNAME": "collected-item-no0665",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-282",
+        "FULLNAME": "scp-zh-282",
+        "RATING": 19,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-147",
+        "FULLNAME": "scp-zh-147",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-046",
+        "FULLNAME": "scp-zh-046",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "台灣鐵道飯店的安布羅斯餐廳",
+        "FULLNAME": "ambrose-taiwan-railway-hotel",
+        "RATING": 17,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "逆光的馬爾地夫",
+        "FULLNAME": "backlit-maldives",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "噁心的惡作劇",
+        "FULLNAME": "disgusting-prank",
+        "RATING": 14,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "一九三五序曲 - 夜雨",
+        "FULLNAME": "1935-overture-night-rain",
+        "RATING": 9,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "無硝的沙場",
+        "FULLNAME": "a-battlefield-without-gunpowder",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "哨壘行，又名塔可的紀錄",
+        "FULLNAME": "cacobt",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "迄站與起站",
+        "FULLNAME": "terminal-and-initial",
+        "RATING": 7,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-021 - 你有什麼煩惱嗎？",
+        "FULLNAME": "scp-zh-021",
+        "RATING": 22,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-617 - 西方的勇者",
+        "FULLNAME": "scp-zh-617",
+        "RATING": 13,
+        "COMMENTS": "8"
+    },
+    {
+        "TITLE": "闇壽司檔案No.019「伸卡握法」",
+        "FULLNAME": "yamizushi-file-no019",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "月中秋，秋糜之餅不見欣喜",
+        "FULLNAME": "not-a-mooncake",
+        "RATING": 16,
+        "COMMENTS": "0"
     }
 ]

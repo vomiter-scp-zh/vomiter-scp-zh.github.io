@@ -424,5 +424,17 @@
         "FULLNAME": "five-minutes-to-end",
         "RATING": 26,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "小動物簡介：Surge！",
+        "FULLNAME": "critter-profile-surge",
+        "RATING": 25,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "台灣鐵道飯店的安布羅斯餐廳",
+        "FULLNAME": "ambrose-taiwan-railway-hotel",
+        "RATING": 17,
+        "COMMENTS": "3"
     }
 ]

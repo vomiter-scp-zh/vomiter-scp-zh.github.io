@@ -1192,5 +1192,65 @@
         "FULLNAME": "overcast",
         "RATING": 11,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-960 - 奪舍玉珮",
+        "FULLNAME": "scp-zh-960",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "下雨自助者",
+        "FULLNAME": "laundry-the-gulf",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "謝幕的顏色",
+        "FULLNAME": "color-of-take-a-bow",
+        "RATING": 15,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "小動物簡介：Surge！",
+        "FULLNAME": "critter-profile-surge",
+        "RATING": 25,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "台灣鐵道飯店的安布羅斯餐廳",
+        "FULLNAME": "ambrose-taiwan-railway-hotel",
+        "RATING": 17,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "航海學中心頁",
+        "FULLNAME": "navigation",
+        "RATING": 20,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "海神悲鳴時",
+        "FULLNAME": "wadatsumi-no-naku-koroni",
+        "RATING": 16,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "無硝的沙場",
+        "FULLNAME": "a-battlefield-without-gunpowder",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "闇壽司檔案No.019「伸卡握法」",
+        "FULLNAME": "yamizushi-file-no019",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "月中秋，秋糜之餅不見欣喜",
+        "FULLNAME": "not-a-mooncake",
+        "RATING": 16,
+        "COMMENTS": "0"
     }
 ]

@@ -1258,5 +1258,119 @@
         "FULLNAME": "scp-zh-1766-ex",
         "RATING": 4,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "拋鈴人中心頁",
+        "FULLNAME": "goi-bt",
+        "RATING": 23,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-729 - 性感鬣蜥",
+        "FULLNAME": "scp-zh-729",
+        "RATING": 14,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-282",
+        "FULLNAME": "scp-zh-282",
+        "RATING": 19,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "謝幕的顏色",
+        "FULLNAME": "color-of-take-a-bow",
+        "RATING": 15,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "小動物簡介：Surge！",
+        "FULLNAME": "critter-profile-surge",
+        "RATING": 25,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "台灣鐵道飯店的安布羅斯餐廳",
+        "FULLNAME": "ambrose-taiwan-railway-hotel",
+        "RATING": 17,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "不會微笑的洋娃娃",
+        "FULLNAME": "her-avatar",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "海神悲鳴時",
+        "FULLNAME": "wadatsumi-no-naku-koroni",
+        "RATING": 16,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP貼紙收集簿-Safe",
+        "FULLNAME": "sticker",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP貼紙收集簿-Euclid",
+        "FULLNAME": "sticker2",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP貼紙收集簿-Keter",
+        "FULLNAME": "sticker3",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "噁心的惡作劇",
+        "FULLNAME": "disgusting-prank",
+        "RATING": 14,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "無硝的沙場",
+        "FULLNAME": "a-battlefield-without-gunpowder",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-444",
+        "FULLNAME": "scp-zh-444",
+        "RATING": 17,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-021 - 你有什麼煩惱嗎？",
+        "FULLNAME": "scp-zh-021",
+        "RATING": 22,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "藝術紀錄：雪中送炭。",
+        "FULLNAME": "art-for-2616-jp",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "闇壽司檔案No.019「伸卡握法」",
+        "FULLNAME": "yamizushi-file-no019",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "月中秋，秋糜之餅不見欣喜",
+        "FULLNAME": "not-a-mooncake",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-163",
+        "FULLNAME": "scp-zh-163",
+        "RATING": 13,
+        "COMMENTS": "2"
     }
 ]

@@ -112,5 +112,17 @@
         "FULLNAME": "scp-zh-628",
         "RATING": 11,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-015",
+        "FULLNAME": "scp-zh-015",
+        "RATING": 23,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "無硝的沙場",
+        "FULLNAME": "a-battlefield-without-gunpowder",
+        "RATING": 17,
+        "COMMENTS": "0"
     }
 ]

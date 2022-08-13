@@ -40,5 +40,11 @@
         "FULLNAME": "blue-0428",
         "RATING": 13,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-282",
+        "FULLNAME": "scp-zh-282",
+        "RATING": 19,
+        "COMMENTS": "3"
     }
 ]

@@ -64,5 +64,17 @@
         "FULLNAME": "scp-zh-461",
         "RATING": 9,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-061",
+        "FULLNAME": "scp-zh-061",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "台灣鐵道飯店的安布羅斯餐廳",
+        "FULLNAME": "ambrose-taiwan-railway-hotel",
+        "RATING": 17,
+        "COMMENTS": "3"
     }
 ]

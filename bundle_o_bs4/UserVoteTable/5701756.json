@@ -100,5 +100,11 @@
         "FULLNAME": "how-to-defeat-those-bad-guys-correctly",
         "RATING": 24,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-282",
+        "FULLNAME": "scp-zh-282",
+        "RATING": 19,
+        "COMMENTS": "3"
     }
 ]

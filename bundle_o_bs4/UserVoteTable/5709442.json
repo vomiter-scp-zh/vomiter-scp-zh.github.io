@@ -112,5 +112,29 @@
         "FULLNAME": "scp-zh-014",
         "RATING": 20,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-015",
+        "FULLNAME": "scp-zh-015",
+        "RATING": 23,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "三段論證入職講座",
+        "FULLNAME": "work-as-a-syllogism-member",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-960 - 奪舍玉珮",
+        "FULLNAME": "scp-zh-960",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "小動物簡介：Surge！",
+        "FULLNAME": "critter-profile-surge",
+        "RATING": 25,
+        "COMMENTS": "2"
     }
 ]

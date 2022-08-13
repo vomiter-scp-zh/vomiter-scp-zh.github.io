@@ -82,5 +82,17 @@
         "FULLNAME": "researcher-hg-s-svg-art-part1",
         "RATING": 14,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-015",
+        "FULLNAME": "scp-zh-015",
+        "RATING": 23,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-147",
+        "FULLNAME": "scp-zh-147",
+        "RATING": 18,
+        "COMMENTS": "2"
     }
 ]

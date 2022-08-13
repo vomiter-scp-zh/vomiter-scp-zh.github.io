@@ -94,5 +94,17 @@
         "FULLNAME": "scp-zh-1766-ex",
         "RATING": 4,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "道具部門的茶水間",
+        "FULLNAME": "the-pantry-in-the-props-department",
+        "RATING": -1,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "小動物簡介：Surge！",
+        "FULLNAME": "critter-profile-surge",
+        "RATING": 25,
+        "COMMENTS": "2"
     }
 ]

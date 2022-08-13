@@ -34,5 +34,41 @@
         "FULLNAME": "scp-zh-195",
         "RATING": 9,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-282",
+        "FULLNAME": "scp-zh-282",
+        "RATING": 19,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-111",
+        "FULLNAME": "scp-zh-111",
+        "RATING": 33,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "噁心的惡作劇",
+        "FULLNAME": "disgusting-prank",
+        "RATING": 14,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-444",
+        "FULLNAME": "scp-zh-444",
+        "RATING": 17,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "哨壘行，又名塔可的紀錄",
+        "FULLNAME": "cacobt",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-021 - 你有什麼煩惱嗎？",
+        "FULLNAME": "scp-zh-021",
+        "RATING": 22,
+        "COMMENTS": "1"
     }
 ]

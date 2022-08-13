@@ -394,5 +394,23 @@
         "FULLNAME": "tombstone-for-the-one-you-should-not-forget",
         "RATING": 7,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-451 - 反對者與蠕蟲",
+        "FULLNAME": "scp-zh-451",
+        "RATING": 11,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "死霧",
+        "FULLNAME": "dead-fog",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "噁心的惡作劇",
+        "FULLNAME": "disgusting-prank",
+        "RATING": 14,
+        "COMMENTS": "7"
     }
 ]
