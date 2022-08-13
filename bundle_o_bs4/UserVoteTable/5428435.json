@@ -22,5 +22,17 @@
         "FULLNAME": "scp-zh-020",
         "RATING": 13,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-511",
+        "FULLNAME": "scp-zh-511",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-310 - 異常蛋白質結構域",
+        "FULLNAME": "scp-zh-310",
+        "RATING": 26,
+        "COMMENTS": "2"
     }
 ]

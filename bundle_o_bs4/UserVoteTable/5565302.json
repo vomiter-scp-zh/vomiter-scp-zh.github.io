@@ -82,5 +82,17 @@
         "FULLNAME": "scp-zh-823",
         "RATING": 14,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-886",
+        "FULLNAME": "scp-zh-886",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Site-ZH-02 大廳",
+        "FULLNAME": "site-zh-02-front",
+        "RATING": 16,
+        "COMMENTS": "0"
     }
 ]

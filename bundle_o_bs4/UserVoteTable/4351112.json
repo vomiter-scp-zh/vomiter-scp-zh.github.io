@@ -88,5 +88,35 @@
         "FULLNAME": "greening",
         "RATING": 17,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-886",
+        "FULLNAME": "scp-zh-886",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-972 - 鐵籠",
+        "FULLNAME": "scp-zh-972",
+        "RATING": 8,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "木易藏書閣目錄 金-九七八 《敲頭銅碗》",
+        "FULLNAME": "yee",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-511",
+        "FULLNAME": "scp-zh-511",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-ZH-16",
+        "FULLNAME": "site-zh-16",
+        "RATING": 14,
+        "COMMENTS": "2"
     }
 ]
