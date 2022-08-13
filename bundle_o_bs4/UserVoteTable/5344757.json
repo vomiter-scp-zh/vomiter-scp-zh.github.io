@@ -22,5 +22,83 @@
         "FULLNAME": "scp-zh-229",
         "RATING": 14,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-018",
+        "FULLNAME": "scp-zh-018",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-954 - 黃色便條紙",
+        "FULLNAME": "scp-zh-954",
+        "RATING": 17,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-572",
+        "FULLNAME": "scp-zh-572",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-529",
+        "FULLNAME": "scp-zh-529",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-900 - 石灰渦輪",
+        "FULLNAME": "scp-zh-900",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-178",
+        "FULLNAME": "scp-zh-178",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "夢藝天道行（TV345/7YUT8/5GDL6）",
+        "FULLNAME": "potehi",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-883",
+        "FULLNAME": "scp-zh-883",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-372",
+        "FULLNAME": "scp-zh-372",
+        "RATING": 15,
+        "COMMENTS": "9"
+    },
+    {
+        "TITLE": "SCP-ZH-472-J",
+        "FULLNAME": "scp-zh-472-j",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-222-J",
+        "FULLNAME": "scp-zh-222-j",
+        "RATING": 24,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "木易藏書閣目錄 書-五零三 《王氏易》",
+        "FULLNAME": "wong-magical-book",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-825",
+        "FULLNAME": "scp-zh-825",
+        "RATING": 12,
+        "COMMENTS": "0"
     }
 ]

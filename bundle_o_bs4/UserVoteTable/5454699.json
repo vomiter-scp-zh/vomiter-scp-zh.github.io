@@ -4,5 +4,47 @@
         "FULLNAME": "scp-zh-655",
         "RATING": 8,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-900 - 石灰渦輪",
+        "FULLNAME": "scp-zh-900",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-127",
+        "FULLNAME": "scp-zh-127",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-883",
+        "FULLNAME": "scp-zh-883",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-222-J",
+        "FULLNAME": "scp-zh-222-j",
+        "RATING": 24,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "控制。",
+        "FULLNAME": "secure-zh",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "收容。",
+        "FULLNAME": "contain-zh",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "B3冷凍庫幽靈饕客",
+        "FULLNAME": "site-zh-02-eater",
+        "RATING": 10,
+        "COMMENTS": "0"
     }
 ]

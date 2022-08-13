@@ -4,5 +4,29 @@
         "FULLNAME": "scp-zh-253",
         "RATING": 12,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-977 - 救贖聖經",
+        "FULLNAME": "scp-zh-977",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-117",
+        "FULLNAME": "scp-zh-117",
+        "RATING": 33,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-178",
+        "FULLNAME": "scp-zh-178",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-687",
+        "FULLNAME": "scp-zh-687",
+        "RATING": 3,
+        "COMMENTS": "0"
     }
 ]

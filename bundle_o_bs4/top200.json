@@ -1,15 +1,57 @@
 [
     {
+        "TITLE": "SCP-ZH-618",
+        "FULLNAME": "scp-zh-618",
+        "RATING": 41,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-117",
+        "FULLNAME": "scp-zh-117",
+        "RATING": 33,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-222-J",
+        "FULLNAME": "scp-zh-222-j",
+        "RATING": 24,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-255",
         "FULLNAME": "scp-zh-255",
         "RATING": 22,
         "COMMENTS": "5"
     },
     {
+        "TITLE": "SCP-ZH-587-J",
+        "FULLNAME": "scp-zh-587-j",
+        "RATING": 22,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-009",
+        "FULLNAME": "scp-zh-009",
+        "RATING": 20,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP基金會不知道的那些事件",
+        "FULLNAME": "ocd-virus01",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-ZH-017",
         "FULLNAME": "scp-zh-017",
         "RATING": 18,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-954 - 黃色便條紙",
+        "FULLNAME": "scp-zh-954",
+        "RATING": 17,
+        "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-ZH-252",
@@ -24,10 +66,34 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "SCP-ZH-372",
+        "FULLNAME": "scp-zh-372",
+        "RATING": 15,
+        "COMMENTS": "9"
+    },
+    {
+        "TITLE": "SCP-ZH-582",
+        "FULLNAME": "scp-zh-582",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-229",
         "FULLNAME": "scp-zh-229",
         "RATING": 14,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-089",
+        "FULLNAME": "scp-zh-089",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-882",
+        "FULLNAME": "scp-zh-882",
+        "RATING": 13,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-253",
@@ -36,10 +102,40 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-ZH-572",
+        "FULLNAME": "scp-zh-572",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-825",
+        "FULLNAME": "scp-zh-825",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "木易藏書閣 中心頁",
         "FULLNAME": "mu-yi-hub",
         "RATING": 11,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-178",
+        "FULLNAME": "scp-zh-178",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "永衡教會(舊版) LOGO",
+        "FULLNAME": "valentine-01",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-406",
+        "FULLNAME": "scp-zh-406",
+        "RATING": 11,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-251",
@@ -54,6 +150,60 @@
         "COMMENTS": "6"
     },
     {
+        "TITLE": "SCP-ZH-419",
+        "FULLNAME": "scp-zh-419",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "木易藏書閣目錄 書-五零三 《王氏易》",
+        "FULLNAME": "wong-magical-book",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-510",
+        "FULLNAME": "scp-zh-510",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "B3冷凍庫幽靈饕客",
+        "FULLNAME": "site-zh-02-eater",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-018",
+        "FULLNAME": "scp-zh-018",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-401",
+        "FULLNAME": "scp-zh-401",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "白澤重生計劃-2008",
+        "FULLNAME": "2008",
+        "RATING": 9,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-127",
+        "FULLNAME": "scp-zh-127",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-004",
+        "FULLNAME": "scp-zh-004",
+        "RATING": 9,
+        "COMMENTS": "5"
+    },
+    {
         "TITLE": "SCP-ZH-655",
         "FULLNAME": "scp-zh-655",
         "RATING": 8,
@@ -64,6 +214,48 @@
         "FULLNAME": "scp-zh-953",
         "RATING": 8,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-529",
+        "FULLNAME": "scp-zh-529",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-900 - 石灰渦輪",
+        "FULLNAME": "scp-zh-900",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "夢藝天道行（TV345/7YUT8/5GDL6）",
+        "FULLNAME": "potehi",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "塑身巧抹糕（CA521/9CHI3/5FON7）",
+        "FULLNAME": "chocolatecake",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-883",
+        "FULLNAME": "scp-zh-883",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Eco-09協議",
+        "FULLNAME": "eco-09",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "小動物簡介：Esther！",
+        "FULLNAME": "esther",
+        "RATING": 8,
+        "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-ZH-940 - 獵巫",
@@ -78,6 +270,24 @@
         "COMMENTS": "3"
     },
     {
+        "TITLE": "UIU檔案：1970-005",
+        "FULLNAME": "uiu-1970-005",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-130",
+        "FULLNAME": "scp-zh-130",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "收容。",
+        "FULLNAME": "contain-zh",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "木易藏書閣目錄 雜-五九六 《察何臺的行軍套裝》",
         "FULLNAME": "mu-yi-596",
         "RATING": 6,
@@ -86,6 +296,54 @@
     {
         "TITLE": "SCP-ZH-408",
         "FULLNAME": "scp-zh-408",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-349",
+        "FULLNAME": "scp-zh-349",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-421",
+        "FULLNAME": "scp-zh-421",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-024-ARC",
+        "FULLNAME": "scp-zh-024-arc",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-003",
+        "FULLNAME": "scp-zh-003",
+        "RATING": 6,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "小動物簡介：Doris！",
+        "FULLNAME": "doris",
+        "RATING": 6,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "實驗記錄 ZH-666",
+        "FULLNAME": "zh-666",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "控制。",
+        "FULLNAME": "secure-zh",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "長廊",
+        "FULLNAME": "cdbeta05",
         "RATING": 6,
         "COMMENTS": "1"
     },
@@ -102,10 +360,100 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-ZH-122",
+        "FULLNAME": "scp-zh-122",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-977 - 救贖聖經",
+        "FULLNAME": "scp-zh-977",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-629",
+        "FULLNAME": "scp-zh-629",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-124",
+        "FULLNAME": "scp-zh-124",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "小動物簡介：Sesame&Mochi!",
+        "FULLNAME": "sesame-mochi",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-748",
+        "FULLNAME": "scp-zh-748",
+        "RATING": 5,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-724",
+        "FULLNAME": "scp-zh-724",
+        "RATING": 5,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-064",
+        "FULLNAME": "scp-zh-064",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "組織代號：烏托邦",
+        "FULLNAME": "organization-code-utopia",
+        "RATING": 5,
+        "COMMENTS": "3"
+    },
+    {
         "TITLE": "SCP-ZH-431",
         "FULLNAME": "scp-zh-431",
         "RATING": 4,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-213",
+        "FULLNAME": "scp-zh-213",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-472-J",
+        "FULLNAME": "scp-zh-472-j",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP基金會不知道的那些事件－02",
+        "FULLNAME": "ocd-virus02",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-521",
+        "FULLNAME": "scp-zh-521",
+        "RATING": 3,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-439",
+        "FULLNAME": "scp-zh-439",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-687",
+        "FULLNAME": "scp-zh-687",
+        "RATING": 3,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "關注組織-ZH",
@@ -114,9 +462,21 @@
         "COMMENTS": "20"
     },
     {
+        "TITLE": "SCP-ZH-555",
+        "FULLNAME": "scp-zh-555",
+        "RATING": 1,
+        "COMMENTS": "5"
+    },
+    {
         "TITLE": "SCP-ZH-919 - 守門員",
         "FULLNAME": "scp-zh-919",
         "RATING": 0,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-029",
+        "FULLNAME": "scp-zh-029",
+        "RATING": -1,
+        "COMMENTS": "4"
     }
 ]

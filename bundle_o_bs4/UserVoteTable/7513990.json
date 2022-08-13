@@ -1,8 +1,20 @@
 [
     {
-        "TITLE": "SCP-ZH-941 - 你才沒有在奮鬥",
-        "FULLNAME": "scp-zh-941",
-        "RATING": 1,
-        "COMMENTS": "8"
+        "TITLE": "SCP-ZH-009",
+        "FULLNAME": "scp-zh-009",
+        "RATING": 20,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-406",
+        "FULLNAME": "scp-zh-406",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-618",
+        "FULLNAME": "scp-zh-618",
+        "RATING": 41,
+        "COMMENTS": "0"
     }
 ]
