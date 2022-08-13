@@ -66,10 +66,22 @@
         "COMMENTS": "13"
     },
     {
+        "TITLE": "SCP-ZH-022-J - 拜託誰來把它填上",
+        "FULLNAME": "scp-zh-022-j",
+        "RATING": 36,
+        "COMMENTS": "19"
+    },
+    {
         "TITLE": "SCP-ZH-815",
         "FULLNAME": "scp-zh-815",
         "RATING": 35,
         "COMMENTS": "8"
+    },
+    {
+        "TITLE": "你會感到後悔嗎？",
+        "FULLNAME": "what-are-you-waiting-for-just-join-goc-dude",
+        "RATING": 34,
+        "COMMENTS": "5"
     },
     {
         "TITLE": "SCP-ZH-117",
@@ -102,6 +114,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "Surge的提案一",
+        "FULLNAME": "surge-s-proposal-1",
+        "RATING": 32,
+        "COMMENTS": "11"
+    },
+    {
         "TITLE": "假如你來到這個宇宙請保持冷靜",
         "FULLNAME": "you-need-icecream-in-summer",
         "RATING": 31,
@@ -126,6 +144,12 @@
         "COMMENTS": "4"
     },
     {
+        "TITLE": "SCP-ZH-736 - 你不能再往前了",
+        "FULLNAME": "scp-zh-736",
+        "RATING": 31,
+        "COMMENTS": "14"
+    },
+    {
         "TITLE": "SCP-ZH-087 - 棄稿",
         "FULLNAME": "scp-zh-087",
         "RATING": 30,
@@ -144,6 +168,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-ZH-880",
+        "FULLNAME": "scp-zh-880",
+        "RATING": 29,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "安布羅斯餐廳-伊薩科夫號分店 (節日限定)",
         "FULLNAME": "ambrose-isakov",
         "RATING": 28,
@@ -156,10 +186,34 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "SCP-ZH-496 - 安全極限距離",
+        "FULLNAME": "scp-zh-496",
+        "RATING": 28,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "炙熱的午後時光",
+        "FULLNAME": "the-ss-vs-ss",
+        "RATING": 28,
+        "COMMENTS": "19"
+    },
+    {
         "TITLE": "SCP-ZH-446 - 化蟲",
         "FULLNAME": "scp-zh-446",
         "RATING": 27,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "鎖鏈的音竹",
+        "FULLNAME": "k1s10r0d-chain-sugoi",
+        "RATING": 27,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-946",
+        "FULLNAME": "scp-zh-946",
+        "RATING": 27,
+        "COMMENTS": "13"
     },
     {
         "TITLE": "SCP-ZH-310 - 異常蛋白質結構域",
@@ -232,6 +286,18 @@
         "FULLNAME": "creepy-tunnel",
         "RATING": 24,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "2021愚人節主頁",
+        "FULLNAME": "super-cooking-pot",
+        "RATING": 24,
+        "COMMENTS": "10"
+    },
+    {
+        "TITLE": "故事的力量～你為什麼需要超形上學～",
+        "FULLNAME": "why-you-need-pataphysics",
+        "RATING": 24,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-100",
@@ -334,6 +400,18 @@
         "FULLNAME": "scp-zh-021",
         "RATING": 22,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-835 - 燦藍神化天穹",
+        "FULLNAME": "scp-zh-835",
+        "RATING": 22,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "愚人節的致命模因",
+        "FULLNAME": "the-bottle-in-april-fools",
+        "RATING": 22,
+        "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-ZH-610 - 猛爆性繁衍組織瘤",
@@ -588,6 +666,12 @@
         "COMMENTS": "3"
     },
     {
+        "TITLE": "SCP-ZH-185",
+        "FULLNAME": "scp-zh-185",
+        "RATING": 19,
+        "COMMENTS": "11"
+    },
+    {
         "TITLE": "SCP-ZH-017",
         "FULLNAME": "scp-zh-017",
         "RATING": 18,
@@ -688,6 +772,18 @@
         "FULLNAME": "the-bottle-in-office",
         "RATING": 18,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "牛奶拼圖",
+        "FULLNAME": "milk-puzzle",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "花語：蒲公英",
+        "FULLNAME": "taraxacum",
+        "RATING": 18,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-954 - 黃色便條紙",
@@ -854,6 +950,12 @@
     {
         "TITLE": "SCP-ZH-950 - 綠神經",
         "FULLNAME": "scp-zh-950",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Polaris",
+        "FULLNAME": "polaris",
         "RATING": 17,
         "COMMENTS": "1"
     },
@@ -1074,6 +1176,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "後現代基金會同人戀愛向輕小說",
+        "FULLNAME": "k1s10r0d-april-fool-project-2021",
+        "RATING": 16,
+        "COMMENTS": "5"
+    },
+    {
         "TITLE": "SCP-ZH-252",
         "FULLNAME": "scp-zh-252",
         "RATING": 15,
@@ -1090,113 +1198,5 @@
         "FULLNAME": "scp-zh-372",
         "RATING": 15,
         "COMMENTS": "9"
-    },
-    {
-        "TITLE": "SCP-ZH-582",
-        "FULLNAME": "scp-zh-582",
-        "RATING": 15,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-256",
-        "FULLNAME": "scp-zh-256",
-        "RATING": 15,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "首級",
-        "FULLNAME": "head",
-        "RATING": 15,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-ZH-050",
-        "FULLNAME": "scp-zh-050",
-        "RATING": 15,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "認養海報：Choco！",
-        "FULLNAME": "adoption-poster-choco",
-        "RATING": 15,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-193 - 人與電與鋼之一族",
-        "FULLNAME": "scp-zh-193",
-        "RATING": 15,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-036 - 茶癮浣熊",
-        "FULLNAME": "scp-zh-036",
-        "RATING": 15,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "安保設施檔案：Site-ZH-50",
-        "FULLNAME": "site-zh-50",
-        "RATING": 15,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "關於那個大海怪",
-        "FULLNAME": "about-that-big-guy",
-        "RATING": 15,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "核裂擠兌中心頁",
-        "FULLNAME": "operation-nucleon-bank",
-        "RATING": 15,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-025",
-        "FULLNAME": "scp-zh-025",
-        "RATING": 15,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-ZH-670 - 明知故犯",
-        "FULLNAME": "scp-zh-670",
-        "RATING": 15,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-300",
-        "FULLNAME": "scp-zh-300",
-        "RATING": 15,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "年獸爭奪戰",
-        "FULLNAME": "year-critical-strike",
-        "RATING": 15,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "刺蝟筆記本：ZH分部動物合輯",
-        "FULLNAME": "hedgehog-note-a",
-        "RATING": 15,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "極光的顏色",
-        "FULLNAME": "color-of-aurora",
-        "RATING": 15,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "尋獲物品編號：097/洗標：黑0117",
-        "FULLNAME": "article-number-097-black-0117",
-        "RATING": 15,
-        "COMMENTS": "4"
-    },
-    {
-        "TITLE": "SCP-ZH-747 - 趨凶避凶",
-        "FULLNAME": "scp-zh-747",
-        "RATING": 15,
-        "COMMENTS": "1"
     }
 ]

@@ -232,5 +232,125 @@
         "FULLNAME": "thunderstorm",
         "RATING": 13,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "你會感到後悔嗎？",
+        "FULLNAME": "what-are-you-waiting-for-just-join-goc-dude",
+        "RATING": 34,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-022-J - 拜託誰來把它填上",
+        "FULLNAME": "scp-zh-022-j",
+        "RATING": 36,
+        "COMMENTS": "19"
+    },
+    {
+        "TITLE": "SCP-ZH-033",
+        "FULLNAME": "scp-zh-033",
+        "RATING": 3,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "天穹之下，千鳥四散",
+        "FULLNAME": "flock-shatters-beneath-the-skydome",
+        "RATING": 12,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-066",
+        "FULLNAME": "scp-zh-066",
+        "RATING": 11,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-323 操作實驗 B-01",
+        "FULLNAME": "scp-zh-323-text-b01",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "愚人節的致命模因",
+        "FULLNAME": "the-bottle-in-april-fools",
+        "RATING": 22,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "私案：從容就計",
+        "FULLNAME": "the-plan-of-surprise-attack",
+        "RATING": 3,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-833",
+        "FULLNAME": "scp-zh-833",
+        "RATING": 10,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "私案：就地正法",
+        "FULLNAME": "the-plan-of-execution",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "私案：變節預告",
+        "FULLNAME": "the-plan-before-defection",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "閒暇之餘",
+        "FULLNAME": "maimai-first-time",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "花語：蒲公英",
+        "FULLNAME": "taraxacum",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-880",
+        "FULLNAME": "scp-zh-880",
+        "RATING": 29,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-V1L3-J 實驗產物備份 汞中毒",
+        "FULLNAME": "adult:v1l3-j-mercury-poisoning",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "手繪的Valmúa",
+        "FULLNAME": "k1s10r0d-hand-drawn-valmua",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "鎖鏈的音竹",
+        "FULLNAME": "k1s10r0d-chain-sugoi",
+        "RATING": 27,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-488 - 礦畜",
+        "FULLNAME": "scp-zh-488",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "汞中毒主題曲：沉在名為你的毒",
+        "FULLNAME": "in-your-poisoning",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "炙熱的午後時光",
+        "FULLNAME": "the-ss-vs-ss",
+        "RATING": 28,
+        "COMMENTS": "19"
     }
 ]

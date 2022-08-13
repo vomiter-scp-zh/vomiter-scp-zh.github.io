@@ -58,5 +58,17 @@
         "FULLNAME": "scp-zh-980",
         "RATING": 9,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-880",
+        "FULLNAME": "scp-zh-880",
+        "RATING": 29,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Surge的提案一",
+        "FULLNAME": "surge-s-proposal-1",
+        "RATING": 32,
+        "COMMENTS": "11"
     }
 ]

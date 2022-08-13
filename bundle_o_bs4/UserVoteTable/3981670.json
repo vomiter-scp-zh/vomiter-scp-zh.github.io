@@ -1774,5 +1774,35 @@
         "FULLNAME": "creepy-tunnel",
         "RATING": 24,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-593 - 坡頂",
+        "FULLNAME": "scp-zh-593",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "你會感到後悔嗎？",
+        "FULLNAME": "what-are-you-waiting-for-just-join-goc-dude",
+        "RATING": 34,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-496 - 安全極限距離",
+        "FULLNAME": "scp-zh-496",
+        "RATING": 28,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-ZH-835 - 燦藍神化天穹",
+        "FULLNAME": "scp-zh-835",
+        "RATING": 22,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Surge的提案一",
+        "FULLNAME": "surge-s-proposal-1",
+        "RATING": 32,
+        "COMMENTS": "11"
     }
 ]
