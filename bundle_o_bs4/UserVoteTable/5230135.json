@@ -82,5 +82,29 @@
         "FULLNAME": "scp-zh-105",
         "RATING": 65,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-077",
+        "FULLNAME": "scp-zh-077",
+        "RATING": 17,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "分廠搬遷（K-05324）",
+        "FULLNAME": "k-05324",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "洗標：藍9102-助理研究員Liesbeth的襯衫",
+        "FULLNAME": "blue-9102",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "皇家香港警察隊零號專隊 中心頁",
+        "FULLNAME": "zero-team-hub",
+        "RATING": 10,
+        "COMMENTS": "0"
     }
 ]

@@ -40,5 +40,17 @@
         "FULLNAME": "scp-zh-005",
         "RATING": 60,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-045",
+        "FULLNAME": "scp-zh-045",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "我們成功收容KZ了！",
+        "FULLNAME": "we-finally-contain-kz",
+        "RATING": 6,
+        "COMMENTS": "0"
     }
 ]

@@ -64,5 +64,35 @@
         "FULLNAME": "scp-zh-105",
         "RATING": 65,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "花語：仙丹花",
+        "FULLNAME": "chinese-ixora",
+        "RATING": 19,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-719-J",
+        "FULLNAME": "scp-zh-719-j",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "假如你來到這個宇宙請保持冷靜",
+        "FULLNAME": "you-need-icecream-in-summer",
+        "RATING": 31,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "工作人員及角色檔案-ZH",
+        "FULLNAME": "personnel-and-character-dossier-zh",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-925 - 魔術師衣櫃",
+        "FULLNAME": "scp-zh-925",
+        "RATING": 12,
+        "COMMENTS": "1"
     }
 ]

@@ -16,5 +16,17 @@
         "FULLNAME": "scp-zh-105",
         "RATING": 65,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-077",
+        "FULLNAME": "scp-zh-077",
+        "RATING": 17,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "假如你來到這個宇宙請保持冷靜",
+        "FULLNAME": "you-need-icecream-in-summer",
+        "RATING": 31,
+        "COMMENTS": "1"
     }
 ]

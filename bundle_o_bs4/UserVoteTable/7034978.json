@@ -70,5 +70,11 @@
         "FULLNAME": "scp-zh-125",
         "RATING": 22,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-254",
+        "FULLNAME": "scp-zh-254",
+        "RATING": 11,
+        "COMMENTS": "1"
     }
 ]

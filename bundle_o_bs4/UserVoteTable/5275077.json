@@ -214,5 +214,59 @@
         "FULLNAME": "scp-zh-199",
         "RATING": 22,
         "COMMENTS": "8"
+    },
+    {
+        "TITLE": "分廠搬遷（K-05324）",
+        "FULLNAME": "k-05324",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "熟悉的陌生人們",
+        "FULLNAME": "familiar-strangers",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "花語：仙丹花",
+        "FULLNAME": "chinese-ixora",
+        "RATING": 19,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "皇家香港警察隊零號專隊 中心頁",
+        "FULLNAME": "zero-team-hub",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "香港特區異常政治組織資料：茶嶺民生關注組",
+        "FULLNAME": "concern-group-for-cha-ling-people-s-livelihood",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-045",
+        "FULLNAME": "scp-zh-045",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-925 - 魔術師衣櫃",
+        "FULLNAME": "scp-zh-925",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-085 手繪的''Cassy''",
+        "FULLNAME": "bangyen085",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-343 神",
+        "FULLNAME": "bangyen343",
+        "RATING": 6,
+        "COMMENTS": "0"
     }
 ]

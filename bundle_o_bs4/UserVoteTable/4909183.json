@@ -100,5 +100,59 @@
         "FULLNAME": "scp-zh-125",
         "RATING": 22,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "最真實的往往無法看見",
+        "FULLNAME": "the-truth-is-usually-invisible",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-515 - 平安符",
+        "FULLNAME": "scp-zh-515",
+        "RATING": 43,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-080",
+        "FULLNAME": "scp-zh-080",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-719-J",
+        "FULLNAME": "scp-zh-719-j",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "遐邇週刊 第011期",
+        "FULLNAME": "the-weekly-011",
+        "RATING": 13,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "對欲肉教的人類學進路03-案例研究03：香港新茶嶺的盧亭人",
+        "FULLNAME": "sarkic-case-study-03-the-luo-ting-n-a-of-new-cha-ling",
+        "RATING": 19,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-●●|●●●●●|●●|●",
+        "FULLNAME": "yenney",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-166 少女魅魔",
+        "FULLNAME": "ggbangyen",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-035 Possessive Mask",
+        "FULLNAME": "yoyen",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]

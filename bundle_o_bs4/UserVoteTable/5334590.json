@@ -112,5 +112,137 @@
         "FULLNAME": "black-0419",
         "RATING": 11,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "認養海報：Choco！",
+        "FULLNAME": "adoption-poster-choco",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "到職",
+        "FULLNAME": "arrival",
+        "RATING": 17,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "洗標：橘2147-Dr. Bales的實驗衣",
+        "FULLNAME": "orange-2147",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-719-J",
+        "FULLNAME": "scp-zh-719-j",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "洗衣部門",
+        "FULLNAME": "laundry-of-miya",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-610 - 猛爆性繁衍組織瘤",
+        "FULLNAME": "scp-zh-610",
+        "RATING": 21,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "香港特區異常選區資料庫：新茶嶺選區",
+        "FULLNAME": "new-cha-ling",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-049瘟疫醫生",
+        "FULLNAME": "hiiambangyen",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "裂變序言",
+        "FULLNAME": "operation-nucleon-bank-run-1",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-076 亞伯",
+        "FULLNAME": "heyismebangyen",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-096 羞澀之人",
+        "FULLNAME": "guesswhobangyen",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-899",
+        "FULLNAME": "scp-zh-899",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "事件代號：核裂擠兌-SCP-ZH-899視點",
+        "FULLNAME": "operation-nucleon-bank-899",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-193 - 人與電與鋼之一族",
+        "FULLNAME": "scp-zh-193",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-682 不滅孽蜥",
+        "FULLNAME": "bangyenawman",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-963 不朽",
+        "FULLNAME": "bangbang",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-999 The Tickle Monster",
+        "FULLNAME": "yenyen",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "對欲肉教的人類學進路03-案例研究03：香港新茶嶺的盧亭人",
+        "FULLNAME": "sarkic-case-study-03-the-luo-ting-n-a-of-new-cha-ling",
+        "RATING": 19,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-●●|●●●●●|●●|●",
+        "FULLNAME": "yenney",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-925 - 魔術師衣櫃",
+        "FULLNAME": "scp-zh-925",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-035 Possessive Mask",
+        "FULLNAME": "yoyen",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-254",
+        "FULLNAME": "scp-zh-254",
+        "RATING": 11,
+        "COMMENTS": "1"
     }
 ]
