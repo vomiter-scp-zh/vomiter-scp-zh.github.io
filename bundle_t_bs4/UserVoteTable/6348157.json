@@ -28,5 +28,11 @@
         "FULLNAME": "scp-style-resource",
         "RATING": 31,
         "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-1762 - 龍之歸宿",
+        "FULLNAME": "scp-1762",
+        "RATING": 3,
+        "COMMENTS": "2"
     }
 ]

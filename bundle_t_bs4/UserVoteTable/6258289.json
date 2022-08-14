@@ -40,5 +40,17 @@
         "FULLNAME": "scp-4999",
         "RATING": 12,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1248 - 個性紀錄儀",
+        "FULLNAME": "scp-1248",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3008 - 一間毫無異狀的典型IKEA",
+        "FULLNAME": "scp-3008",
+        "RATING": 9,
+        "COMMENTS": "1"
     }
 ]

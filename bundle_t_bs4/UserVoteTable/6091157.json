@@ -100,5 +100,29 @@
         "FULLNAME": "herman-fuller-hub",
         "RATING": 4,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-001:O5",
+        "FULLNAME": "scp-001-o5",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "如何營造恐怖的氣氛",
+        "FULLNAME": "how-to-be-scary-without-saying-anything",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Eric的日記",
+        "FULLNAME": "erics-journal",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3936 - 一如預期般運作",
+        "FULLNAME": "scp-3936",
+        "RATING": 15,
+        "COMMENTS": "1"
     }
 ]

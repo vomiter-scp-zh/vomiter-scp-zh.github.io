@@ -46,5 +46,35 @@
         "FULLNAME": "scp-087",
         "RATING": 6,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "djkaktus：有關COVID-19",
+        "FULLNAME": "djkaktus-regarding-covid-19",
+        "RATING": 22,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7000-J",
+        "FULLNAME": "scp-7000-j",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "黑白黑白黑白黑白黑白灰",
+        "FULLNAME": "black-white-black-white-black-white-black-white-black-white",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-909 - 善忘先生",
+        "FULLNAME": "scp-909",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-8900-EX",
+        "FULLNAME": "scp-8900-ex",
+        "RATING": 10,
+        "COMMENTS": "0"
     }
 ]

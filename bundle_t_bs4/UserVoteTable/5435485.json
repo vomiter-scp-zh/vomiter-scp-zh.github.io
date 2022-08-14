@@ -298,5 +298,119 @@
         "FULLNAME": "scp-732",
         "RATING": 5,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "ListPages魔法與你",
+        "FULLNAME": "listpages-magic-and-you",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-610 - 憎恨之血肉",
+        "FULLNAME": "scp-610",
+        "RATING": 6,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-5140 - 珠穆朗瑪峰",
+        "FULLNAME": "scp-5140",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-001:O5",
+        "FULLNAME": "scp-001-o5",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-7000-J",
+        "FULLNAME": "scp-7000-j",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-069 - 樂譜",
+        "FULLNAME": "scp-069",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "如何營造恐怖的氣氛",
+        "FULLNAME": "how-to-be-scary-without-saying-anything",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1340-RU",
+        "FULLNAME": "scp-1340-ru",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "黑白黑白黑白黑白黑白灰",
+        "FULLNAME": "black-white-black-white-black-white-black-white-black-white",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2300 - 週期表戈侖",
+        "FULLNAME": "scp-2300",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3936 - 一如預期般運作",
+        "FULLNAME": "scp-3936",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-000",
+        "FULLNAME": "scp-000",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "藝術創作-SCP-2300 週期表戈侖",
+        "FULLNAME": "gengo",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "第五教會 中心頁",
+        "FULLNAME": "fifthist-hub",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-093-回收資料",
+        "FULLNAME": "scp-093-recovered-materials",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2131 - 反教宗",
+        "FULLNAME": "scp-2131",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2719 - 內部",
+        "FULLNAME": "scp-2719",
+        "RATING": 8,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "禪意與數據刪除的藝術",
+        "FULLNAME": "zen-and-the-art-of-data-expunged",
+        "RATING": 3,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-3008 - 一間毫無異狀的典型IKEA",
+        "FULLNAME": "scp-3008",
+        "RATING": 9,
+        "COMMENTS": "1"
     }
 ]

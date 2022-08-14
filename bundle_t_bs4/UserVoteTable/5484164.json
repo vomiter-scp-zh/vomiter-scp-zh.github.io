@@ -16,5 +16,41 @@
         "FULLNAME": "scp-style-resource",
         "RATING": 31,
         "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-610 - 憎恨之血肉",
+        "FULLNAME": "scp-610",
+        "RATING": 6,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-2662 - 去你的克蘇魯",
+        "FULLNAME": "scp-2662",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "djkaktus：有關COVID-19",
+        "FULLNAME": "djkaktus-regarding-covid-19",
+        "RATING": 22,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2845 - 鹿神",
+        "FULLNAME": "scp-2845",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-261 - 泛次元自動販賣機",
+        "FULLNAME": "scp-261",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3936 - 一如預期般運作",
+        "FULLNAME": "scp-3936",
+        "RATING": 15,
+        "COMMENTS": "1"
     }
 ]

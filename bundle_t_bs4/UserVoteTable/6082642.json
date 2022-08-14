@@ -64,5 +64,35 @@
         "FULLNAME": "scp-076-2",
         "RATING": 6,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-001:O5",
+        "FULLNAME": "scp-001-o5",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2845 - 鹿神",
+        "FULLNAME": "scp-2845",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "藝術創作-SCP-2300 週期表戈侖",
+        "FULLNAME": "gengo",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "第五教會 中心頁",
+        "FULLNAME": "fifthist-hub",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Bright博士不再被允許使用時間異常回到過去以致得以殺死希特勒",
+        "FULLNAME": "dr-bright-is-no-longer-allowed-to-use-temporal-anomalies",
+        "RATING": 10,
+        "COMMENTS": "1"
     }
 ]

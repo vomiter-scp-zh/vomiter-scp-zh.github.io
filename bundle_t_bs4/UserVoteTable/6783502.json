@@ -40,5 +40,11 @@
         "FULLNAME": "scp-999",
         "RATING": 11,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-261 - 泛次元自動販賣機",
+        "FULLNAME": "scp-261",
+        "RATING": 4,
+        "COMMENTS": "1"
     }
 ]

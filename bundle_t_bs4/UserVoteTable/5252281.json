@@ -136,5 +136,17 @@
         "FULLNAME": "incident-239-b-clef-kondraki",
         "RATING": 10,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "djkaktus：有關COVID-19",
+        "FULLNAME": "djkaktus-regarding-covid-19",
+        "RATING": 22,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1340-RU",
+        "FULLNAME": "scp-1340-ru",
+        "RATING": 9,
+        "COMMENTS": "1"
     }
 ]

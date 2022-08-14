@@ -298,5 +298,71 @@
         "FULLNAME": "scp-076-2",
         "RATING": 6,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2924 - 漂泊者們",
+        "FULLNAME": "scp-2924",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "djkaktus：有關COVID-19",
+        "FULLNAME": "djkaktus-regarding-covid-19",
+        "RATING": 22,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1983 - 至無處之門",
+        "FULLNAME": "scp-1983",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2845 - 鹿神",
+        "FULLNAME": "scp-2845",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7000-J",
+        "FULLNAME": "scp-7000-j",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1007 - 先生後死",
+        "FULLNAME": "scp-1007",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1340-RU",
+        "FULLNAME": "scp-1340-ru",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Eric的日記",
+        "FULLNAME": "erics-journal",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-093-回收資料",
+        "FULLNAME": "scp-093-recovered-materials",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "藏在我夢底的那 個 東 西",
+        "FULLNAME": "the-thing-at-the-bottom-of-my-dreams",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "記憶刪除手冊指南",
+        "FULLNAME": "amnestic-orientation-manual",
+        "RATING": 9,
+        "COMMENTS": "0"
     }
 ]

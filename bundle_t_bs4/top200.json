@@ -42,6 +42,12 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "djkaktus：有關COVID-19",
+        "FULLNAME": "djkaktus-regarding-covid-19",
+        "RATING": 22,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "●●|●●●●●|●●|●",
         "FULLNAME": "scp-2521",
         "RATING": 21,
@@ -78,8 +84,20 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "藝術創作-SCP-2300 週期表戈侖",
+        "FULLNAME": "gengo",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "更新版記憶消除劑指南",
         "FULLNAME": "updated-amnestics-guide",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3936 - 一如預期般運作",
+        "FULLNAME": "scp-3936",
         "RATING": 15,
         "COMMENTS": "1"
     },
@@ -94,6 +112,12 @@
         "FULLNAME": "scp-404-j",
         "RATING": 14,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1983 - 至無處之門",
+        "FULLNAME": "scp-1983",
+        "RATING": 14,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-002 - 生「活」起居室",
@@ -156,6 +180,18 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-2845 - 鹿神",
+        "FULLNAME": "scp-2845",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2998 - 異常傳播訊號，2485MHz",
+        "FULLNAME": "scp-2998",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "SCP-050 - 致最聰明的人",
         "FULLNAME": "scp-050",
         "RATING": 11,
@@ -214,6 +250,12 @@
         "FULLNAME": "scp-999",
         "RATING": 11,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "逆模因部中心頁",
+        "FULLNAME": "antimemetics-division-hub",
+        "RATING": 11,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "魔法講座",
@@ -302,6 +344,24 @@
     {
         "TITLE": "事故 239-B - Clef-Kondraki",
         "FULLNAME": "incident-239-b-clef-kondraki",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5140 - 珠穆朗瑪峰",
+        "FULLNAME": "scp-5140",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-8900-EX",
+        "FULLNAME": "scp-8900-ex",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Bright博士不再被允許使用時間異常回到過去以致得以殺死希特勒",
+        "FULLNAME": "dr-bright-is-no-longer-allowed-to-use-temporal-anomalies",
         "RATING": 10,
         "COMMENTS": "1"
     },
@@ -422,6 +482,42 @@
     {
         "TITLE": "SCP-2317 - 前往彼界之門",
         "FULLNAME": "scp-2317",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-096 - 羞澀的人",
+        "FULLNAME": "scp-096",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-001:O5",
+        "FULLNAME": "scp-001-o5",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1340-RU",
+        "FULLNAME": "scp-1340-ru",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "黑白黑白黑白黑白黑白灰",
+        "FULLNAME": "black-white-black-white-black-white-black-white-black-white",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3008 - 一間毫無異狀的典型IKEA",
+        "FULLNAME": "scp-3008",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "記憶刪除手冊指南",
+        "FULLNAME": "amnestic-orientation-manual",
         "RATING": 9,
         "COMMENTS": "0"
     },
@@ -576,6 +672,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-2719 - 內部",
+        "FULLNAME": "scp-2719",
+        "RATING": 8,
+        "COMMENTS": "6"
+    },
+    {
         "TITLE": "SCP-240-JP - 零隻蝗蟲",
         "FULLNAME": "scp-240-jp",
         "RATING": 7,
@@ -724,6 +826,30 @@
         "FULLNAME": "yesterday",
         "RATING": 7,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2662 - 去你的克蘇魯",
+        "FULLNAME": "scp-2662",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-426 - 我是一臺烤吐司機",
+        "FULLNAME": "scp-426",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-000",
+        "FULLNAME": "scp-000",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "第五教會 中心頁",
+        "FULLNAME": "fifthist-hub",
+        "RATING": 7,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-007 - 內腹行星",
@@ -978,6 +1104,48 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-610 - 憎恨之血肉",
+        "FULLNAME": "scp-610",
+        "RATING": 6,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "項目企劃書 2018-145：《男人的責任》",
+        "FULLNAME": "project-proposal-2018-145",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-7000-J",
+        "FULLNAME": "scp-7000-j",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Eric的日記",
+        "FULLNAME": "erics-journal",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2300 - 週期表戈侖",
+        "FULLNAME": "scp-2300",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4522 - 八桃村",
+        "FULLNAME": "scp-4522",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3671 - 一個憤怒的麥片盒",
+        "FULLNAME": "scp-3671",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-004 - 穿越銹匙之門",
         "FULLNAME": "scp-004",
         "RATING": 5,
@@ -1030,173 +1198,5 @@
         "FULLNAME": "scp-343",
         "RATING": 5,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-276 - 時之船",
-        "FULLNAME": "scp-276",
-        "RATING": 5,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-280 - 黑暗中的注視者",
-        "FULLNAME": "scp-280",
-        "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-116 - 脆弱男孩",
-        "FULLNAME": "scp-116",
-        "RATING": 5,
-        "COMMENTS": "3"
-    },
-    {
-        "TITLE": "SCP-3856 - 滅世之人，研究員Lloyd",
-        "FULLNAME": "scp-3856",
-        "RATING": 5,
-        "COMMENTS": "4"
-    },
-    {
-        "TITLE": "說謊者的告白",
-        "FULLNAME": "the-liars-confession",
-        "RATING": 5,
-        "COMMENTS": "5"
-    },
-    {
-        "TITLE": "棘刺谷的安布羅斯餐廳",
-        "FULLNAME": "ambrose-thorn-valley",
-        "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "項目企劃書 1994-87：《羅馬法庭的一天》",
-        "FULLNAME": "project-proposal-1994-87-a-day-in-the-roman-court",
-        "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "小動物簡介：Maya！",
-        "FULLNAME": "critter-profile-maya",
-        "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "機動特遣隊-JP",
-        "FULLNAME": "task-forces-jp",
-        "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "漆黑如夜中心頁",
-        "FULLNAME": "black-as-night",
-        "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "RAISA-6147 (有待分配)",
-        "FULLNAME": "raisa-6147",
-        "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "格魯烏-P 個案卷宗 \"毒蠅傘-FLY AGARIC\"",
-        "FULLNAME": "fly-agaric",
-        "RATING": 5,
-        "COMMENTS": "3"
-    },
-    {
-        "TITLE": "我的寶貝壁虎",
-        "FULLNAME": "my-beloved-gecko",
-        "RATING": 5,
-        "COMMENTS": "3"
-    },
-    {
-        "TITLE": "沒有人會陷入麻煩",
-        "FULLNAME": "nobody-in-trouble",
-        "RATING": 5,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "無歇惡夢",
-        "FULLNAME": "restless-dreams",
-        "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "泰語世界線中心頁",
-        "FULLNAME": "th-canon-hub",
-        "RATING": 5,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "小動物簡介：Bakugo！",
-        "FULLNAME": "critter-profile-bakugo",
-        "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-239 - 巫術女孩",
-        "FULLNAME": "scp-239",
-        "RATING": 5,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-4830 - 頭像一個洞",
-        "FULLNAME": "scp-4830",
-        "RATING": 5,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "疏通多元宇宙的廢棄物",
-        "FULLNAME": "lake-ontario-array",
-        "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-4031 - 失憶的救贖",
-        "FULLNAME": "scp-4031",
-        "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "筆記：背叛了所有人的那女子",
-        "FULLNAME": "notiz-sie-die-jeden-verraten-hat",
-        "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-169 - 利維坦",
-        "FULLNAME": "scp-169",
-        "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-1307 - 削人肉鉛筆機",
-        "FULLNAME": "scp-1307",
-        "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "資料庫錯誤？",
-        "FULLNAME": "database-error",
-        "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-50-AE-J",
-        "FULLNAME": "scp-50-ae-j",
-        "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-4145 - 解離夢療法™",
-        "FULLNAME": "scp-4145",
-        "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-352 - 雅加婆婆",
-        "FULLNAME": "scp-352",
-        "RATING": 5,
-        "COMMENTS": "1"
     }
 ]

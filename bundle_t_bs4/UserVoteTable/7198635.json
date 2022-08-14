@@ -22,5 +22,17 @@
         "FULLNAME": "scp-031",
         "RATING": 6,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-610 - 憎恨之血肉",
+        "FULLNAME": "scp-610",
+        "RATING": 6,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-2845 - 鹿神",
+        "FULLNAME": "scp-2845",
+        "RATING": 12,
+        "COMMENTS": "0"
     }
 ]

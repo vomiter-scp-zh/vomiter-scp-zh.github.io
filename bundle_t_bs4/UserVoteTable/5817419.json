@@ -82,5 +82,35 @@
         "FULLNAME": "incident-239-b-clef-kondraki",
         "RATING": 10,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-001:O5",
+        "FULLNAME": "scp-001-o5",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2845 - 鹿神",
+        "FULLNAME": "scp-2845",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1867 - 一位紳士",
+        "FULLNAME": "scp-1867",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Bright博士不再被允許使用時間異常回到過去以致得以殺死希特勒",
+        "FULLNAME": "dr-bright-is-no-longer-allowed-to-use-temporal-anomalies",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2998 - 異常傳播訊號，2485MHz",
+        "FULLNAME": "scp-2998",
+        "RATING": 12,
+        "COMMENTS": "2"
     }
 ]

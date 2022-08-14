@@ -136,5 +136,41 @@
         "FULLNAME": "scp-076-2",
         "RATING": 6,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-091 - 思舊成愁",
+        "FULLNAME": "scp-091",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2845 - 鹿神",
+        "FULLNAME": "scp-2845",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1340-RU",
+        "FULLNAME": "scp-1340-ru",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4522 - 八桃村",
+        "FULLNAME": "scp-4522",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2131 - 反教宗",
+        "FULLNAME": "scp-2131",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "逆模因部中心頁",
+        "FULLNAME": "antimemetics-division-hub",
+        "RATING": 11,
+        "COMMENTS": "1"
     }
 ]

@@ -130,5 +130,29 @@
         "FULLNAME": "scp-882",
         "RATING": 8,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2300 - 週期表戈侖",
+        "FULLNAME": "scp-2300",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-000",
+        "FULLNAME": "scp-000",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "藝術創作-SCP-2300 週期表戈侖",
+        "FULLNAME": "gengo",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-8900-EX",
+        "FULLNAME": "scp-8900-ex",
+        "RATING": 10,
+        "COMMENTS": "0"
     }
 ]

@@ -22,5 +22,17 @@
         "FULLNAME": "ru-situation",
         "RATING": 4,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "djkaktus：有關COVID-19",
+        "FULLNAME": "djkaktus-regarding-covid-19",
+        "RATING": 22,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-096 - 羞澀的人",
+        "FULLNAME": "scp-096",
+        "RATING": 9,
+        "COMMENTS": "0"
     }
 ]

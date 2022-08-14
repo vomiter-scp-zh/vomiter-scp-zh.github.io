@@ -88,5 +88,53 @@
         "FULLNAME": "anomaly-classification-system-guide",
         "RATING": 8,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5140 - 珠穆朗瑪峰",
+        "FULLNAME": "scp-5140",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-1983 - 至無處之門",
+        "FULLNAME": "scp-1983",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-001:O5",
+        "FULLNAME": "scp-001-o5",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3936 - 一如預期般運作",
+        "FULLNAME": "scp-3936",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4046 - 你長大後想成為怎麼樣的人?",
+        "FULLNAME": "scp-4046",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2998 - 異常傳播訊號，2485MHz",
+        "FULLNAME": "scp-2998",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "逆模因部中心頁",
+        "FULLNAME": "antimemetics-division-hub",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "記憶刪除手冊指南",
+        "FULLNAME": "amnestic-orientation-manual",
+        "RATING": 9,
+        "COMMENTS": "0"
     }
 ]

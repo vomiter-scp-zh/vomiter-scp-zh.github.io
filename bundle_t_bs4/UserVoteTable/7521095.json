@@ -10,5 +10,23 @@
         "FULLNAME": "scp-es-138",
         "RATING": 29,
         "COMMENTS": "9"
+    },
+    {
+        "TITLE": "SCP-001:O5",
+        "FULLNAME": "scp-001-o5",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1007 - 先生後死",
+        "FULLNAME": "scp-1007",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-8900-EX",
+        "FULLNAME": "scp-8900-ex",
+        "RATING": 10,
+        "COMMENTS": "0"
     }
 ]

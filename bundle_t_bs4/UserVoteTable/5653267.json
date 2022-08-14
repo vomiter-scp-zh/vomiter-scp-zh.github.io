@@ -124,5 +124,29 @@
         "FULLNAME": "scp-999",
         "RATING": 11,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "項目企劃書 2018-145：《男人的責任》",
+        "FULLNAME": "project-proposal-2018-145",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1983 - 至無處之門",
+        "FULLNAME": "scp-1983",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3936 - 一如預期般運作",
+        "FULLNAME": "scp-3936",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "逆模因部中心頁",
+        "FULLNAME": "antimemetics-division-hub",
+        "RATING": 11,
+        "COMMENTS": "1"
     }
 ]

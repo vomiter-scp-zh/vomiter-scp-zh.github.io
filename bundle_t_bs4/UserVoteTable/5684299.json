@@ -508,5 +508,107 @@
         "FULLNAME": "scp-076-2",
         "RATING": 6,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "項目企劃書 2018-145：《男人的責任》",
+        "FULLNAME": "project-proposal-2018-145",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "803號貨單-令人陶醉的蒸餾酒",
+        "FULLNAME": "manifest-803",
+        "RATING": 5,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "djkaktus：有關COVID-19",
+        "FULLNAME": "djkaktus-regarding-covid-19",
+        "RATING": 22,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2845 - 鹿神",
+        "FULLNAME": "scp-2845",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Eric的日記",
+        "FULLNAME": "erics-journal",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "黑白黑白黑白黑白黑白灰",
+        "FULLNAME": "black-white-black-white-black-white-black-white-black-white",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5983 - 速度與爆炸",
+        "FULLNAME": "scp-5983",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-000",
+        "FULLNAME": "scp-000",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "藝術創作-SCP-2300 週期表戈侖",
+        "FULLNAME": "gengo",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1867 - 一位紳士",
+        "FULLNAME": "scp-1867",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-RO-004",
+        "FULLNAME": "scp-ro-004",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "第五教會 中心頁",
+        "FULLNAME": "fifthist-hub",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4522 - 八桃村",
+        "FULLNAME": "scp-4522",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-8900-EX",
+        "FULLNAME": "scp-8900-ex",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "吾王萬歲",
+        "FULLNAME": "long-live-the-king",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Bright博士不再被允許使用時間異常回到過去以致得以殺死希特勒",
+        "FULLNAME": "dr-bright-is-no-longer-allowed-to-use-temporal-anomalies",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2998 - 異常傳播訊號，2485MHz",
+        "FULLNAME": "scp-2998",
+        "RATING": 12,
+        "COMMENTS": "2"
     }
 ]

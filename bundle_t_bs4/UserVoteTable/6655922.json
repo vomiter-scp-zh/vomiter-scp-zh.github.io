@@ -70,5 +70,11 @@
         "FULLNAME": "scp-999",
         "RATING": 11,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-426 - 我是一臺烤吐司機",
+        "FULLNAME": "scp-426",
+        "RATING": 7,
+        "COMMENTS": "1"
     }
 ]

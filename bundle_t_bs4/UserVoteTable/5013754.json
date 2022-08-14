@@ -874,5 +874,59 @@
         "FULLNAME": "scp-4999",
         "RATING": 12,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "803號貨單-令人陶醉的蒸餾酒",
+        "FULLNAME": "manifest-803",
+        "RATING": 5,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "djkaktus：有關COVID-19",
+        "FULLNAME": "djkaktus-regarding-covid-19",
+        "RATING": 22,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5140 - 珠穆朗瑪峰",
+        "FULLNAME": "scp-5140",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-426 - 我是一臺烤吐司機",
+        "FULLNAME": "scp-426",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1340-RU",
+        "FULLNAME": "scp-1340-ru",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "藝術創作-SCP-2300 週期表戈侖",
+        "FULLNAME": "gengo",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4522 - 八桃村",
+        "FULLNAME": "scp-4522",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Bright博士不再被允許使用時間異常回到過去以致得以殺死希特勒",
+        "FULLNAME": "dr-bright-is-no-longer-allowed-to-use-temporal-anomalies",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "逆模因部中心頁",
+        "FULLNAME": "antimemetics-division-hub",
+        "RATING": 11,
+        "COMMENTS": "1"
     }
 ]

@@ -94,5 +94,29 @@
         "FULLNAME": "incident-239-b-clef-kondraki",
         "RATING": 10,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-610 - 憎恨之血肉",
+        "FULLNAME": "scp-610",
+        "RATING": 6,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-1983 - 至無處之門",
+        "FULLNAME": "scp-1983",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2845 - 鹿神",
+        "FULLNAME": "scp-2845",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2719 - 內部",
+        "FULLNAME": "scp-2719",
+        "RATING": 8,
+        "COMMENTS": "6"
     }
 ]

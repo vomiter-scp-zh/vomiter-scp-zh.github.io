@@ -52,5 +52,23 @@
         "FULLNAME": "incident-239-b-clef-kondraki",
         "RATING": 10,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1983 - 至無處之門",
+        "FULLNAME": "scp-1983",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "分部和企劃列表",
+        "FULLNAME": "branch-list",
+        "RATING": 1,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-2998 - 異常傳播訊號，2485MHz",
+        "FULLNAME": "scp-2998",
+        "RATING": 12,
+        "COMMENTS": "2"
     }
 ]

@@ -52,5 +52,11 @@
         "FULLNAME": "ambrose-restaurant-hub",
         "RATING": 9,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-RO-004",
+        "FULLNAME": "scp-ro-004",
+        "RATING": 3,
+        "COMMENTS": "0"
     }
 ]

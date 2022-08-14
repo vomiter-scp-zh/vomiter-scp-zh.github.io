@@ -10,5 +10,17 @@
         "FULLNAME": "chaos-insurgency-hub",
         "RATING": 8,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-8900-EX",
+        "FULLNAME": "scp-8900-ex",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "記憶刪除手冊指南",
+        "FULLNAME": "amnestic-orientation-manual",
+        "RATING": 9,
+        "COMMENTS": "0"
     }
 ]

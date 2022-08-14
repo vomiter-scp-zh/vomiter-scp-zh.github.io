@@ -334,5 +334,35 @@
         "FULLNAME": "scp-5040",
         "RATING": 5,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-610 - 憎恨之血肉",
+        "FULLNAME": "scp-610",
+        "RATING": 6,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-2874 - Don-Burten爆炸13裝置",
+        "FULLNAME": "scp-2874",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5253 - 原始前寒武紀生物",
+        "FULLNAME": "scp-5253",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3008 - 一間毫無異狀的典型IKEA",
+        "FULLNAME": "scp-3008",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2915 - 急凍鮮肉",
+        "FULLNAME": "scp-2915",
+        "RATING": 3,
+        "COMMENTS": "0"
     }
 ]
