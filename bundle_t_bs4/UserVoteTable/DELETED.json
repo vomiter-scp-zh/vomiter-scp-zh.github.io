@@ -628,5 +628,29 @@
         "FULLNAME": "scp-6482",
         "RATING": 6,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Dr. Palanez的提案",
+        "FULLNAME": "weryllium-proposal",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2026 - 文明漱口水",
+        "FULLNAME": "scp-2026",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-993 - 小丑鮑勃",
+        "FULLNAME": "scp-993",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-089 - 托菲特的魔神像",
+        "FULLNAME": "scp-089",
+        "RATING": 4,
+        "COMMENTS": "2"
     }
 ]

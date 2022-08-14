@@ -454,5 +454,11 @@
         "FULLNAME": "scp-6059",
         "RATING": 18,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4999快速講解",
+        "FULLNAME": "scp-4999-flash-briefing",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]

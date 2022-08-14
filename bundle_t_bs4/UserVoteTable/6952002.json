@@ -664,5 +664,53 @@
         "FULLNAME": "scp-2790",
         "RATING": 8,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "scp 6472 - dado的模因活著劑",
+        "FULLNAME": "scp-6472",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "魟魚王的畫作",
+        "FULLNAME": "mantaking-s-artworks",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3753 - TEA術性擊倒",
+        "FULLNAME": "scp-3753",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4680 - 噢，那些俄國佬…",
+        "FULLNAME": "scp-4680",
+        "RATING": 8,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-303 - 門怪",
+        "FULLNAME": "scp-303",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-233 - 二十三邊多面體",
+        "FULLNAME": "scp-233",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6939 - 我婆要我命- ★☆☆☆☆",
+        "FULLNAME": "scp-6939",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-####",
+        "FULLNAME": "scp-6869",
+        "RATING": 7,
+        "COMMENTS": "1"
     }
 ]

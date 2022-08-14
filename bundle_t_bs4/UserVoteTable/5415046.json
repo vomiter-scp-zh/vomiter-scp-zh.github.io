@@ -676,5 +676,29 @@
         "FULLNAME": "scp-152",
         "RATING": 8,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-221 - 強迫症患者的金鑷子",
+        "FULLNAME": "scp-221",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-228 - 精神疾病診斷工具",
+        "FULLNAME": "scp-228",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-250 - 差不多是隻異特龍",
+        "FULLNAME": "scp-250",
+        "RATING": 1,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-071 - 誘墮變形者",
+        "FULLNAME": "scp-071",
+        "RATING": 2,
+        "COMMENTS": "2"
     }
 ]

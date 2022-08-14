@@ -280,5 +280,23 @@
         "FULLNAME": "scp-6819",
         "RATING": 5,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2026 - 文明漱口水",
+        "FULLNAME": "scp-2026",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-103 - 永不飢餓的人",
+        "FULLNAME": "scp-103",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-843 - 「牛種子」",
+        "FULLNAME": "scp-843",
+        "RATING": 3,
+        "COMMENTS": "0"
     }
 ]

@@ -10,5 +10,11 @@
         "FULLNAME": "what-s-in-a-name",
         "RATING": 5,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3753 - TEA術性擊倒",
+        "FULLNAME": "scp-3753",
+        "RATING": 5,
+        "COMMENTS": "1"
     }
 ]

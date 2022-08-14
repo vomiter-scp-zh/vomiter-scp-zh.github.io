@@ -106,5 +106,11 @@
         "FULLNAME": "scp-6059",
         "RATING": 18,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-####",
+        "FULLNAME": "scp-6869",
+        "RATING": 7,
+        "COMMENTS": "1"
     }
 ]

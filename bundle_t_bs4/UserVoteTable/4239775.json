@@ -718,5 +718,17 @@
         "FULLNAME": "goi-complete-list",
         "RATING": 4,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4680 - 噢，那些俄國佬…",
+        "FULLNAME": "scp-4680",
+        "RATING": 8,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-144 - 圖博天繩",
+        "FULLNAME": "scp-144",
+        "RATING": 6,
+        "COMMENTS": "1"
     }
 ]

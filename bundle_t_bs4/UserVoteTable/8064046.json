@@ -220,5 +220,29 @@
         "FULLNAME": "o5-command-dossier",
         "RATING": 5,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-4999快速講解",
+        "FULLNAME": "scp-4999-flash-briefing",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "賤人",
+        "FULLNAME": "a-bitch",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5145 - 我葬送了太陽",
+        "FULLNAME": "scp-5145",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5145解密",
+        "FULLNAME": "scp-5145-declassification",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]

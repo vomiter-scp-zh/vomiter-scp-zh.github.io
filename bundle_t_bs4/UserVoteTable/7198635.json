@@ -94,5 +94,23 @@
         "FULLNAME": "scp-blank-j",
         "RATING": 6,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-173的重新設計合作中心頁",
+        "FULLNAME": "peanut-gallery",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-418",
+        "FULLNAME": "secure-facility-dossier-site-418",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-336 - 「莉莉絲」",
+        "FULLNAME": "scp-336",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]

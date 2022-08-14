@@ -538,5 +538,29 @@
         "FULLNAME": "scp-5541",
         "RATING": 8,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Dr. Palanez的提案",
+        "FULLNAME": "weryllium-proposal",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "魟魚王的畫作",
+        "FULLNAME": "mantaking-s-artworks",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5145 - 我葬送了太陽",
+        "FULLNAME": "scp-5145",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-089 - 托菲特的魔神像",
+        "FULLNAME": "scp-089",
+        "RATING": 4,
+        "COMMENTS": "2"
     }
 ]

@@ -202,5 +202,35 @@
         "FULLNAME": "scp-230",
         "RATING": 6,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Dr. Palanez的提案",
+        "FULLNAME": "weryllium-proposal",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4680 - 噢，那些俄國佬…",
+        "FULLNAME": "scp-4680",
+        "RATING": 8,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-179 - Sauelsuesor",
+        "FULLNAME": "scp-179",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "與Keter一起快樂度過情人節！！",
+        "FULLNAME": "aorebar0222-3",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "小動物檔案：Genghis！",
+        "FULLNAME": "critter-profile-genghis",
+        "RATING": 7,
+        "COMMENTS": "0"
     }
 ]

@@ -16,5 +16,17 @@
         "FULLNAME": "goc-hub-page",
         "RATING": 5,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-074 - 量子鼠婦",
+        "FULLNAME": "scp-074",
+        "RATING": 4,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-5145解密",
+        "FULLNAME": "scp-5145-declassification",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]

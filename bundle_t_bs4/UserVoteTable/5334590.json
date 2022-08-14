@@ -790,5 +790,23 @@
         "FULLNAME": "scp-5541",
         "RATING": 8,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-057 - 日常試煉",
+        "FULLNAME": "scp-057",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-059 - 放射性礦物",
+        "FULLNAME": "scp-059",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-070 - 鋼鐵之翼",
+        "FULLNAME": "scp-070",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]

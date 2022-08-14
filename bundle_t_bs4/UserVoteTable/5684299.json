@@ -1690,5 +1690,29 @@
         "FULLNAME": "prairia-artworks",
         "RATING": 7,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4680 - 噢，那些俄國佬…",
+        "FULLNAME": "scp-4680",
+        "RATING": 8,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-144 - 圖博天繩",
+        "FULLNAME": "scp-144",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "小動物檔案：Genghis！",
+        "FULLNAME": "critter-profile-genghis",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "昆蟲地獄中心頁",
+        "FULLNAME": "arbh-class-hub",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]
