@@ -202,5 +202,29 @@
         "FULLNAME": "metafiction",
         "RATING": 9,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "S. D. Locke的提案",
+        "FULLNAME": "shaggydredlocks-proposal",
+        "RATING": 21,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "憎恨之紅事件",
+        "FULLNAME": "case-hate-red",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "點子的源頭",
+        "FULLNAME": "the-seed-of-an-idea",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "安布羅斯外西凡尼亞：獻給所有該死的吸血鬼",
+        "FULLNAME": "ambrose-transylvania",
+        "RATING": 10,
+        "COMMENTS": "0"
     }
 ]

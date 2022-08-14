@@ -208,5 +208,71 @@
         "FULLNAME": "scp-1190-ru",
         "RATING": 8,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1058-RU",
+        "FULLNAME": "scp-1058-ru",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2434-JP - 茶壺",
+        "FULLNAME": "scp-2434-jp",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "ukwhatn的SVG藝術作品 - JP",
+        "FULLNAME": "uksvg-jp",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5702 - 'www.wikiflick.███'",
+        "FULLNAME": "scp-5702",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SC嗚喔喔啊啊啊啊啊啊啊啊-JP-J",
+        "FULLNAME": "scpaaaaaaaaaaaaaaaaaa-jp-j",
+        "RATING": 25,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "為你施法",
+        "FULLNAME": "littlewitch",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Mackenzie博士的常見SCP寫作陷阱",
+        "FULLNAME": "mackenzie-pitfalls",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1581-JP - 墓地滿滿都是氣球",
+        "FULLNAME": "scp-1581-jp",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-825-KO",
+        "FULLNAME": "scp-825-ko",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1739 - 舊型的筆記型電腦",
+        "FULLNAME": "scp-1739",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2061-JP - 曉星屋百貨公司冒險譚",
+        "FULLNAME": "scp-2061-jp",
+        "RATING": 9,
+        "COMMENTS": "0"
     }
 ]

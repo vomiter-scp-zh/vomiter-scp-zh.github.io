@@ -64,5 +64,17 @@
         "FULLNAME": "neko-sagashi",
         "RATING": 16,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-1733 - 開季賽",
+        "FULLNAME": "scp-1733",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "點繪的貓",
+        "FULLNAME": "dotdesu",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]

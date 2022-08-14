@@ -190,5 +190,143 @@
         "FULLNAME": "scp-1190-ru",
         "RATING": 8,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Thanatomania 中心頁",
+        "FULLNAME": "thanatomania-hub",
+        "RATING": 12,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-1440 - 來歷不明的老人",
+        "FULLNAME": "scp-1440",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-682-J",
+        "FULLNAME": "scp-682-j",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "放棄死亡",
+        "FULLNAME": "abandoning-death",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5510 - 通用遙控器",
+        "FULLNAME": "scp-5510",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "藍色",
+        "FULLNAME": "blue",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "S. D. Locke的提案",
+        "FULLNAME": "shaggydredlocks-proposal",
+        "RATING": 21,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "ukwhatn的SVG藝術作品 - JP",
+        "FULLNAME": "uksvg-jp",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5702 - 'www.wikiflick.███'",
+        "FULLNAME": "scp-5702",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-178 - 3D眼鏡",
+        "FULLNAME": "scp-178",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5618 - 「死路」",
+        "FULLNAME": "scp-5618",
+        "RATING": 12,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SC嗚喔喔啊啊啊啊啊啊啊啊-JP-J",
+        "FULLNAME": "scpaaaaaaaaaaaaaaaaaa-jp-j",
+        "RATING": 25,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "貓咪",
+        "FULLNAME": "soyu1",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "應用奇蹟學講座逐字稿　講者：████████████教授",
+        "FULLNAME": "goc-supplemental-thaumatology",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "spikebrennan的提案",
+        "FULLNAME": "spikebrennan-s-proposal",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3199 - 人類，被否決者",
+        "FULLNAME": "scp-3199",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2042-JP - 野町特工的花籠翻轉/黑色的操蛇人與狂熱的學園",
+        "FULLNAME": "scp-2042-jp",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-5348 - 安布羅斯媽媽的奶油蘑菇湯",
+        "FULLNAME": "scp-5348",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1739 - 舊型的筆記型電腦",
+        "FULLNAME": "scp-1739",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "安布羅斯外西凡尼亞：獻給所有該死的吸血鬼",
+        "FULLNAME": "ambrose-transylvania",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2747 - 正如其下，其上亦然",
+        "FULLNAME": "scp-2747",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3063 - 蠅",
+        "FULLNAME": "scp-3063",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2061-JP - 曉星屋百貨公司冒險譚",
+        "FULLNAME": "scp-2061-jp",
+        "RATING": 9,
+        "COMMENTS": "0"
     }
 ]

@@ -46,5 +46,11 @@
         "FULLNAME": "unnamed-file",
         "RATING": 14,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5675 - Ce que j'ai fait, ce soir-là",
+        "FULLNAME": "scp-5675",
+        "RATING": 3,
+        "COMMENTS": "0"
     }
 ]

@@ -94,5 +94,71 @@
         "FULLNAME": "neko-sagashi",
         "RATING": 16,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "寂靜森林",
+        "FULLNAME": "silent-forest-ikuragunkan",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1440 - 來歷不明的老人",
+        "FULLNAME": "scp-1440",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "放棄死亡",
+        "FULLNAME": "abandoning-death",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2006 - 太嚇人了",
+        "FULLNAME": "scp-2006",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5510 - 通用遙控器",
+        "FULLNAME": "scp-5510",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "S. D. Locke的提案",
+        "FULLNAME": "shaggydredlocks-proposal",
+        "RATING": 21,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4576 - 會保護你的多刺好夥伴，皮理瑟斯",
+        "FULLNAME": "scp-4576",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SC嗚喔喔啊啊啊啊啊啊啊啊-JP-J",
+        "FULLNAME": "scpaaaaaaaaaaaaaaaaaa-jp-j",
+        "RATING": 25,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "應用奇蹟學講座逐字稿　講者：████████████教授",
+        "FULLNAME": "goc-supplemental-thaumatology",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "spikebrennan的提案",
+        "FULLNAME": "spikebrennan-s-proposal",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "安布羅斯外西凡尼亞：獻給所有該死的吸血鬼",
+        "FULLNAME": "ambrose-transylvania",
+        "RATING": 10,
+        "COMMENTS": "0"
     }
 ]

@@ -34,5 +34,11 @@
         "FULLNAME": "spc-001",
         "RATING": 6,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "S. D. Locke的提案",
+        "FULLNAME": "shaggydredlocks-proposal",
+        "RATING": 21,
+        "COMMENTS": "1"
     }
 ]

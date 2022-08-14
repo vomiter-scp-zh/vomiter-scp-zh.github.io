@@ -232,5 +232,23 @@
         "FULLNAME": "adult:scp-231",
         "RATING": 12,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-2740-JP - 別在意別在意笑",
+        "FULLNAME": "scp-2740-jp",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5618 - 「死路」",
+        "FULLNAME": "scp-5618",
+        "RATING": 12,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SC嗚喔喔啊啊啊啊啊啊啊啊-JP-J",
+        "FULLNAME": "scpaaaaaaaaaaaaaaaaaa-jp-j",
+        "RATING": 25,
+        "COMMENTS": "1"
     }
 ]

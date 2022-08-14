@@ -112,5 +112,23 @@
         "FULLNAME": "scp-5380",
         "RATING": 7,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1440 - 來歷不明的老人",
+        "FULLNAME": "scp-1440",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "我們要去做蜥蜴了",
+        "FULLNAME": "we-re-off-to-be-the-lizard",
+        "RATING": 5,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "憎恨之紅事件",
+        "FULLNAME": "case-hate-red",
+        "RATING": 8,
+        "COMMENTS": "0"
     }
 ]

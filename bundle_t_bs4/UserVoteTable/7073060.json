@@ -94,5 +94,17 @@
         "FULLNAME": "time-travel-ch1",
         "RATING": 4,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-5618 - 「死路」",
+        "FULLNAME": "scp-5618",
+        "RATING": 12,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "安布羅斯外西凡尼亞：獻給所有該死的吸血鬼",
+        "FULLNAME": "ambrose-transylvania",
+        "RATING": 10,
+        "COMMENTS": "0"
     }
 ]

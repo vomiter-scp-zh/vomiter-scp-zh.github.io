@@ -1300,5 +1300,35 @@
         "FULLNAME": "neko-sagashi",
         "RATING": 16,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-2006 - 太嚇人了",
+        "FULLNAME": "scp-2006",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "簡述惡魔學",
+        "FULLNAME": "a-brief-explanation-on-demonics",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5510 - 通用遙控器",
+        "FULLNAME": "scp-5510",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-075 - 腐蝕性蝸牛",
+        "FULLNAME": "scp-075",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "桑名博士的苦難",
+        "FULLNAME": "worldwidekuwana",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]

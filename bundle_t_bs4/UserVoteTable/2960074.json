@@ -4,5 +4,11 @@
         "FULLNAME": "scp-224-jp",
         "RATING": 10,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1410-RU",
+        "FULLNAME": "scp-1410-ru",
+        "RATING": 4,
+        "COMMENTS": "1"
     }
 ]

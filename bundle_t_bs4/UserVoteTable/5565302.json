@@ -502,5 +502,89 @@
         "FULLNAME": "scp-2085-jp",
         "RATING": 9,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "寂靜森林",
+        "FULLNAME": "silent-forest-ikuragunkan",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-166 - 只是個少女蓋亞",
+        "FULLNAME": "scp-166",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-824-KO",
+        "FULLNAME": "scp-824-ko",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5661 - 惡魔與少女",
+        "FULLNAME": "scp-5661",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5510 - 通用遙控器",
+        "FULLNAME": "scp-5510",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "來自Bright的故事 1",
+        "FULLNAME": "tales-from-the-bright-side-chapter-one",
+        "RATING": 5,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "S. D. Locke的提案",
+        "FULLNAME": "shaggydredlocks-proposal",
+        "RATING": 21,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "ukwhatn的SVG藝術作品 - JP",
+        "FULLNAME": "uksvg-jp",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "我們要去做蜥蜴了",
+        "FULLNAME": "we-re-off-to-be-the-lizard",
+        "RATING": 5,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-2788-JP - 第n個死掉的奶奶",
+        "FULLNAME": "scp-2788-jp",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-178 - 3D眼鏡",
+        "FULLNAME": "scp-178",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5618 - 「死路」",
+        "FULLNAME": "scp-5618",
+        "RATING": 12,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SC嗚喔喔啊啊啊啊啊啊啊啊-JP-J",
+        "FULLNAME": "scpaaaaaaaaaaaaaaaaaa-jp-j",
+        "RATING": 25,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "貓咪",
+        "FULLNAME": "soyu1",
+        "RATING": 11,
+        "COMMENTS": "1"
     }
 ]

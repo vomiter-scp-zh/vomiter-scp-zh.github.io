@@ -154,5 +154,23 @@
         "FULLNAME": "scp-1609",
         "RATING": 6,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5510 - 通用遙控器",
+        "FULLNAME": "scp-5510",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "即刻行動",
+        "FULLNAME": "immediate-actions",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3199 - 人類，被否決者",
+        "FULLNAME": "scp-3199",
+        "RATING": 11,
+        "COMMENTS": "1"
     }
 ]

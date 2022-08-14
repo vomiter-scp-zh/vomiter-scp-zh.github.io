@@ -268,5 +268,17 @@
         "FULLNAME": "neko-sagashi",
         "RATING": 16,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "寂靜森林",
+        "FULLNAME": "silent-forest-ikuragunkan",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-824-KO",
+        "FULLNAME": "scp-824-ko",
+        "RATING": 6,
+        "COMMENTS": "0"
     }
 ]

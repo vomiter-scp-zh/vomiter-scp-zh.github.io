@@ -634,5 +634,41 @@
         "FULLNAME": "scp-1559-jp",
         "RATING": 5,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-166 - 只是個少女蓋亞",
+        "FULLNAME": "scp-166",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-1733 - 開季賽",
+        "FULLNAME": "scp-1733",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5510 - 通用遙控器",
+        "FULLNAME": "scp-5510",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "S. D. Locke的提案",
+        "FULLNAME": "shaggydredlocks-proposal",
+        "RATING": 21,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2788-JP - 第n個死掉的奶奶",
+        "FULLNAME": "scp-2788-jp",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5702 - 'www.wikiflick.███'",
+        "FULLNAME": "scp-5702",
+        "RATING": 7,
+        "COMMENTS": "1"
     }
 ]

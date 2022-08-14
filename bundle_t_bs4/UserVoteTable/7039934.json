@@ -52,5 +52,41 @@
         "FULLNAME": "scp-3000",
         "RATING": 18,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-682-J",
+        "FULLNAME": "scp-682-j",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-003 - 生物主機板",
+        "FULLNAME": "scp-003",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SC嗚喔喔啊啊啊啊啊啊啊啊-JP-J",
+        "FULLNAME": "scpaaaaaaaaaaaaaaaaaa-jp-j",
+        "RATING": 25,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-828-KO",
+        "FULLNAME": "scp-828-ko",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-226 - 恐懼拼圖",
+        "FULLNAME": "scp-226",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "spikebrennan的提案",
+        "FULLNAME": "spikebrennan-s-proposal",
+        "RATING": 9,
+        "COMMENTS": "1"
     }
 ]

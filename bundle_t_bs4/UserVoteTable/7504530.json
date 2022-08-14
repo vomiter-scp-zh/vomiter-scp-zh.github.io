@@ -52,5 +52,17 @@
         "FULLNAME": "scp-5000",
         "RATING": 27,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "簡述惡魔學",
+        "FULLNAME": "a-brief-explanation-on-demonics",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "年輕的男人",
+        "FULLNAME": "the-young-man",
+        "RATING": 5,
+        "COMMENTS": "2"
     }
 ]

@@ -274,5 +274,23 @@
         "FULLNAME": "dinodon-s-hand",
         "RATING": 8,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-166 - 只是個少女蓋亞",
+        "FULLNAME": "scp-166",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Mackenzie博士的常見SCP寫作陷阱",
+        "FULLNAME": "mackenzie-pitfalls",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "貓咪",
+        "FULLNAME": "soyu1",
+        "RATING": 11,
+        "COMMENTS": "1"
     }
 ]

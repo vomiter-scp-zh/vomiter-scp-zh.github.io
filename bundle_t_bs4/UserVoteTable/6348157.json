@@ -94,5 +94,83 @@
         "FULLNAME": "gru-p-hub",
         "RATING": 8,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "寂靜森林",
+        "FULLNAME": "silent-forest-ikuragunkan",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "有龍出現的SCP",
+        "FULLNAME": "ouka-artwork-6",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "交媾之血肉",
+        "FULLNAME": "adult:the-flesh-that-mates",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5917 - 多元宇宙地圖",
+        "FULLNAME": "scp-5917",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2788-JP - 第n個死掉的奶奶",
+        "FULLNAME": "scp-2788-jp",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "為你施法",
+        "FULLNAME": "littlewitch",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "點繪的貓",
+        "FULLNAME": "dotdesu",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1581-JP - 墓地滿滿都是氣球",
+        "FULLNAME": "scp-1581-jp",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "憎恨之紅事件",
+        "FULLNAME": "case-hate-red",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "貓咪",
+        "FULLNAME": "soyu1",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2042-JP - 野町特工的花籠翻轉/黑色的操蛇人與狂熱的學園",
+        "FULLNAME": "scp-2042-jp",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-5348 - 安布羅斯媽媽的奶油蘑菇湯",
+        "FULLNAME": "scp-5348",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2061-JP - 曉星屋百貨公司冒險譚",
+        "FULLNAME": "scp-2061-jp",
+        "RATING": 9,
+        "COMMENTS": "0"
     }
 ]

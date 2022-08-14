@@ -36,6 +36,12 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "SC嗚喔喔啊啊啊啊啊啊啊啊-JP-J",
+        "FULLNAME": "scpaaaaaaaaaaaaaaaaaa-jp-j",
+        "RATING": 25,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-682 - 不滅孽蜥",
         "FULLNAME": "scp-682",
         "RATING": 24,
@@ -64,6 +70,12 @@
         "FULLNAME": "scp-2521",
         "RATING": 21,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "S. D. Locke的提案",
+        "FULLNAME": "shaggydredlocks-proposal",
+        "RATING": 21,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "我該怎樣把已發佈的文檔刪除？",
@@ -198,6 +210,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-5510 - 通用遙控器",
+        "FULLNAME": "scp-5510",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-002 - 生「活」起居室",
         "FULLNAME": "scp-002",
         "RATING": 13,
@@ -254,6 +272,12 @@
     {
         "TITLE": "東京事變",
         "FULLNAME": "tokyo-incidents",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "寂靜森林",
+        "FULLNAME": "silent-forest-ikuragunkan",
         "RATING": 13,
         "COMMENTS": "0"
     },
@@ -360,6 +384,24 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "Thanatomania 中心頁",
+        "FULLNAME": "thanatomania-hub",
+        "RATING": 12,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-5618 - 「死路」",
+        "FULLNAME": "scp-5618",
+        "RATING": 12,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-2747 - 正如其下，其上亦然",
+        "FULLNAME": "scp-2747",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-050 - 致最聰明的人",
         "FULLNAME": "scp-050",
         "RATING": 11,
@@ -448,6 +490,30 @@
         "FULLNAME": "taboo",
         "RATING": 11,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "簡述惡魔學",
+        "FULLNAME": "a-brief-explanation-on-demonics",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "為你施法",
+        "FULLNAME": "littlewitch",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "貓咪",
+        "FULLNAME": "soyu1",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3199 - 人類，被否決者",
+        "FULLNAME": "scp-3199",
+        "RATING": 11,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "魔法講座",
@@ -602,6 +668,12 @@
     {
         "TITLE": "SCP-978 - 慾望相機",
         "FULLNAME": "scp-978",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "安布羅斯外西凡尼亞：獻給所有該死的吸血鬼",
+        "FULLNAME": "ambrose-transylvania",
         "RATING": 10,
         "COMMENTS": "0"
     },
@@ -852,6 +924,36 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "放棄死亡",
+        "FULLNAME": "abandoning-death",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2740-JP - 別在意別在意笑",
+        "FULLNAME": "scp-2740-jp",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "應用奇蹟學講座逐字稿　講者：████████████教授",
+        "FULLNAME": "goc-supplemental-thaumatology",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "spikebrennan的提案",
+        "FULLNAME": "spikebrennan-s-proposal",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2061-JP - 曉星屋百貨公司冒險譚",
+        "FULLNAME": "scp-2061-jp",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-048 - 被詛咒的SCP號碼",
         "FULLNAME": "scp-048",
         "RATING": 8,
@@ -1096,107 +1198,5 @@
         "FULLNAME": "koigarezaki-news-20200908",
         "RATING": 8,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "懷抱光環的神格",
-        "FULLNAME": "chopin-godzilla-with-halo",
-        "RATING": 8,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "一封遺書",
-        "FULLNAME": "a-suicide-note",
-        "RATING": 8,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-1380-RU - Vergessenheit，或稱為被遺忘之城",
-        "FULLNAME": "scp-1380-ru",
-        "RATING": 8,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-1190-RU",
-        "FULLNAME": "scp-1190-ru",
-        "RATING": 8,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "赤鏈蛇之手",
-        "FULLNAME": "dinodon-s-hand",
-        "RATING": 8,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "格鲁烏\"P\"部門中心頁",
-        "FULLNAME": "gru-p-hub",
-        "RATING": 8,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-240-JP - 零隻蝗蟲",
-        "FULLNAME": "scp-240-jp",
-        "RATING": 7,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-008 - 殭屍瘟疫",
-        "FULLNAME": "scp-008",
-        "RATING": 7,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-524 - 饕餮兔威爾特",
-        "FULLNAME": "scp-524",
-        "RATING": 7,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SPC-1057-J",
-        "FULLNAME": "spc-1057-j",
-        "RATING": 7,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-408 - 幻象蝶",
-        "FULLNAME": "scp-408",
-        "RATING": 7,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "代表作，又名為：為陳腔濫調辯護的斥責",
-        "FULLNAME": "magnum-opus-or-a-diatribe-in-defence-of-cliche",
-        "RATING": 7,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "有些人生於無盡的光明",
-        "FULLNAME": "endless-light",
-        "RATING": 7,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "Nexus中心頁",
-        "FULLNAME": "nexus-series",
-        "RATING": 7,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "初始之章：第一樂詩",
-        "FULLNAME": "chapter-1-verse-1",
-        "RATING": 7,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "教會聖師中心頁",
-        "FULLNAME": "doctors-of-the-church-hub",
-        "RATING": 7,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "第一號 Ivády 捐贈品",
-        "FULLNAME": "first-ivady-donation",
-        "RATING": 7,
-        "COMMENTS": "1"
     }
 ]
