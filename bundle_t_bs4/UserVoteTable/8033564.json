@@ -244,5 +244,17 @@
         "FULLNAME": "scp-6500",
         "RATING": 24,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-43",
+        "FULLNAME": "secure-facility-dossier-site-43",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2337 - 「斯潘科博士」",
+        "FULLNAME": "scp-2337",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]

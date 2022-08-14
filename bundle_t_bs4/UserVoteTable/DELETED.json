@@ -586,5 +586,23 @@
         "FULLNAME": "scp-6500",
         "RATING": 24,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-3043 - 莫非•勞之……代號3043──代 表 謀 殺！",
+        "FULLNAME": "scp-3043",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6668 - 群襲",
+        "FULLNAME": "scp-6668",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5281-D - 七刻要角",
+        "FULLNAME": "scp-5281",
+        "RATING": 10,
+        "COMMENTS": "0"
     }
 ]

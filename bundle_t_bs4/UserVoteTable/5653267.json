@@ -322,5 +322,11 @@
         "FULLNAME": "scp-6000",
         "RATING": 9,
         "COMMENTS": "10"
+    },
+    {
+        "TITLE": "CCK級「著作權侵權訴訟」場景",
+        "FULLNAME": "cck-class-copyright-infringement-lawsuit-scenario",
+        "RATING": 15,
+        "COMMENTS": "1"
     }
 ]

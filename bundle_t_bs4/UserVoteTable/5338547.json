@@ -28,5 +28,29 @@
         "FULLNAME": "scp-6500",
         "RATING": 24,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "CCK級「著作權侵權訴訟」場景",
+        "FULLNAME": "cck-class-copyright-infringement-lawsuit-scenario",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6777 - 虛擬直播主一富士ばくぅ",
+        "FULLNAME": "scp-6777",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6131 - 遺世孤立",
+        "FULLNAME": "scp-6131",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP社群討論區模擬器",
+        "FULLNAME": "scp-wiki-discussion-page-simulator",
+        "RATING": -3,
+        "COMMENTS": "0"
     }
 ]

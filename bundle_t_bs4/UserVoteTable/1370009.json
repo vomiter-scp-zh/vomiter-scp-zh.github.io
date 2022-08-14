@@ -34,5 +34,11 @@
         "FULLNAME": "scp-6500",
         "RATING": 24,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-4911解密",
+        "FULLNAME": "scp-4911-declassification",
+        "RATING": 6,
+        "COMMENTS": "0"
     }
 ]

@@ -616,5 +616,35 @@
         "FULLNAME": "scp-6101",
         "RATING": 5,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "遺落的插圖：小紅帽",
+        "FULLNAME": "cut-of-little-r",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "鵺-齋宮的藝術創作",
+        "FULLNAME": "nue-artwork-kihaku",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2118 - 已逝孩童",
+        "FULLNAME": "scp-2118",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "馬提內效應",
+        "FULLNAME": "the-martinet-effect",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6668 - 群襲",
+        "FULLNAME": "scp-6668",
+        "RATING": 11,
+        "COMMENTS": "0"
     }
 ]

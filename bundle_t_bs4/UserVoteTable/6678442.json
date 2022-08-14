@@ -166,5 +166,17 @@
         "FULLNAME": "scp-6500",
         "RATING": 24,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "楷模計畫",
+        "FULLNAME": "project-paragon-hub",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "業配，釣魚，發財",
+        "FULLNAME": "sell-clickbait-profit",
+        "RATING": 10,
+        "COMMENTS": "0"
     }
 ]

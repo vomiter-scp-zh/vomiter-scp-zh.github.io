@@ -28,5 +28,17 @@
         "FULLNAME": "scp-6500",
         "RATING": 24,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-6786 - 額外維度",
+        "FULLNAME": "scp-6786",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6668 - 群襲",
+        "FULLNAME": "scp-6668",
+        "RATING": 11,
+        "COMMENTS": "0"
     }
 ]

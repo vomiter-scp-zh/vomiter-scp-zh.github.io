@@ -226,5 +226,11 @@
         "FULLNAME": "unusual-cargo-hub",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "奇蹄病",
+        "FULLNAME": "kitei-disease",
+        "RATING": 4,
+        "COMMENTS": "2"
     }
 ]

@@ -430,5 +430,17 @@
         "FULLNAME": "artwork-unnamed-file",
         "RATING": 4,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "如果他——",
+        "FULLNAME": "aw-1",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2295有著「拼布心臟」的熊",
+        "FULLNAME": "scp-2295-teddybear",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]

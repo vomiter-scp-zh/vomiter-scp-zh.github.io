@@ -400,5 +400,35 @@
         "FULLNAME": "scp-6500",
         "RATING": 24,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-2118 - 已逝孩童",
+        "FULLNAME": "scp-2118",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5956 - THEREISNOCANNON",
+        "FULLNAME": "scp-5956",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6131 - 遺世孤立",
+        "FULLNAME": "scp-6131",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6668 - 群襲",
+        "FULLNAME": "scp-6668",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5281-D - 七刻要角",
+        "FULLNAME": "scp-5281",
+        "RATING": 10,
+        "COMMENTS": "0"
     }
 ]

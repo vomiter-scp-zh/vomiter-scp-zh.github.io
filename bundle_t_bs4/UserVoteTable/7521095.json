@@ -226,5 +226,59 @@
         "FULLNAME": "goc-supplemental-equipment",
         "RATING": 4,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5056實驗與事故報告",
+        "FULLNAME": "scp-5056-tests",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6668 - 群襲",
+        "FULLNAME": "scp-6668",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "從上往下看",
+        "FULLNAME": "deepsea-artwork-01",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-鴨子-J",
+        "FULLNAME": "scp-ducks-j",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "「爸爸」你該死的太晚了",
+        "FULLNAME": "to-my-companion-who-sleeps-eternally-beyond-reach",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5520 - 兔洞異境",
+        "FULLNAME": "scp-5520",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5486 - 不朽連結",
+        "FULLNAME": "scp-5486",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1234-J",
+        "FULLNAME": "scp-1234-j",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-610-L2",
+        "FULLNAME": "scp-610-l2",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]

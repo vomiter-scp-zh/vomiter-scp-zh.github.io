@@ -76,5 +76,29 @@
         "FULLNAME": "scp-5618",
         "RATING": 12,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-6777 - 虛擬直播主一富士ばくぅ",
+        "FULLNAME": "scp-6777",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2118 - 已逝孩童",
+        "FULLNAME": "scp-2118",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4560 - 一切都很好",
+        "FULLNAME": "scp-4560",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6668 - 群襲",
+        "FULLNAME": "scp-6668",
+        "RATING": 11,
+        "COMMENTS": "0"
     }
 ]

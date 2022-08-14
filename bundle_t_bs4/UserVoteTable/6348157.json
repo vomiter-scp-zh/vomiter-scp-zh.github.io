@@ -454,5 +454,149 @@
         "FULLNAME": "artwork-unnamed-file",
         "RATING": 4,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "獵者與獵物",
+        "FULLNAME": "the-hunter-and-the-hunted",
+        "RATING": 2,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-4911解密",
+        "FULLNAME": "scp-4911-declassification",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "楷模計畫",
+        "FULLNAME": "project-paragon-hub",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "遺落的插圖：小紅帽",
+        "FULLNAME": "cut-of-little-r",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "鵺-齋宮的藝術創作",
+        "FULLNAME": "nue-artwork-kihaku",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2700 - 天際能束",
+        "FULLNAME": "scp-2700",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6777 - 虛擬直播主一富士ばくぅ",
+        "FULLNAME": "scp-6777",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "藝術創作 特工・黑陶",
+        "FULLNAME": "rui-take-aw-6",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-272-JP Yuka 的粉絲繪圖",
+        "FULLNAME": "fushimi1",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Black Queen Artwork",
+        "FULLNAME": "phylliidae-bq-artwork",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2118 - 已逝孩童",
+        "FULLNAME": "scp-2118",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3043 - 莫非•勞之……代號3043──代 表 謀 殺！",
+        "FULLNAME": "scp-3043",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5956 - THEREISNOCANNON",
+        "FULLNAME": "scp-5956",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "如果他——",
+        "FULLNAME": "aw-1",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6786 - 額外維度",
+        "FULLNAME": "scp-6786",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6131 - 遺世孤立",
+        "FULLNAME": "scp-6131",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "「祭典、好玩嗎？」",
+        "FULLNAME": "aw-5",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5056 - 永遠手足",
+        "FULLNAME": "scp-5056",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6668 - 群襲",
+        "FULLNAME": "scp-6668",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5281-D - 七刻要角",
+        "FULLNAME": "scp-5281",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-鴨子-J",
+        "FULLNAME": "scp-ducks-j",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "「爸爸」你該死的太晚了",
+        "FULLNAME": "to-my-companion-who-sleeps-eternally-beyond-reach",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4087 - 不在場的刀",
+        "FULLNAME": "scp-4087",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5520 - 兔洞異境",
+        "FULLNAME": "scp-5520",
+        "RATING": 6,
+        "COMMENTS": "0"
     }
 ]

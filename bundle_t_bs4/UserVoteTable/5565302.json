@@ -994,5 +994,17 @@
         "FULLNAME": "scp-1230",
         "RATING": 6,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2200-JP - 龐然熊威立",
+        "FULLNAME": "scp-2200-jp",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "CCK級「著作權侵權訴訟」場景",
+        "FULLNAME": "cck-class-copyright-infringement-lawsuit-scenario",
+        "RATING": 15,
+        "COMMENTS": "1"
     }
 ]

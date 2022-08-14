@@ -210,6 +210,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "CCK級「著作權侵權訴訟」場景",
+        "FULLNAME": "cck-class-copyright-infringement-lawsuit-scenario",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "「老梗項目構思」清單",
         "FULLNAME": "the-big-list-of-overdone-scp-cliches",
         "RATING": 14,
@@ -522,6 +528,12 @@
         "COMMENTS": "5"
     },
     {
+        "TITLE": "SCP-6131 - 遺世孤立",
+        "FULLNAME": "scp-6131",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-050 - 致最聰明的人",
         "FULLNAME": "scp-050",
         "RATING": 11,
@@ -680,6 +692,12 @@
     {
         "TITLE": "不允許Bright博士在基金會做的事",
         "FULLNAME": "adult:the-things-dr-bright-is-not-allowed-to-do-at-the-found",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6668 - 群襲",
+        "FULLNAME": "scp-6668",
         "RATING": 11,
         "COMMENTS": "0"
     },
@@ -930,6 +948,18 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "業配，釣魚，發財",
+        "FULLNAME": "sell-clickbait-profit",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5281-D - 七刻要角",
+        "FULLNAME": "scp-5281",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-682-J James 的塗鴉小冊子",
         "FULLNAME": "scp-682-j-james-coloring-book",
         "RATING": 9,
@@ -1168,35 +1198,5 @@
         "FULLNAME": "rta-s-artwork",
         "RATING": 9,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-2085-JP 博士的 嚇一跳！箱子裡裝的是什麼呢？ 遊戲！",
-        "FULLNAME": "scp-2085-jp",
-        "RATING": 9,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "放棄死亡",
-        "FULLNAME": "abandoning-death",
-        "RATING": 9,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-2740-JP - 別在意別在意笑",
-        "FULLNAME": "scp-2740-jp",
-        "RATING": 9,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "應用奇蹟學講座逐字稿　講者：████████████教授",
-        "FULLNAME": "goc-supplemental-thaumatology",
-        "RATING": 9,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "spikebrennan的提案",
-        "FULLNAME": "spikebrennan-s-proposal",
-        "RATING": 9,
-        "COMMENTS": "1"
     }
 ]

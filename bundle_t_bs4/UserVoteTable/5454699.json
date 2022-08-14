@@ -268,5 +268,17 @@
         "FULLNAME": "scp-3529",
         "RATING": 9,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6131 - 遺世孤立",
+        "FULLNAME": "scp-6131",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6402 - 在蘇俄，笑話反轉你",
+        "FULLNAME": "scp-6402",
+        "RATING": 8,
+        "COMMENTS": "0"
     }
 ]

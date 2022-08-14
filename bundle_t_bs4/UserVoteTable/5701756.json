@@ -154,5 +154,29 @@
         "FULLNAME": "scp-6500",
         "RATING": 24,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "CCK級「著作權侵權訴訟」場景",
+        "FULLNAME": "cck-class-copyright-infringement-lawsuit-scenario",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6402 - 在蘇俄，笑話反轉你",
+        "FULLNAME": "scp-6402",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5281-D - 七刻要角",
+        "FULLNAME": "scp-5281",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5034解密",
+        "FULLNAME": "scp-5034-declassification",
+        "RATING": 6,
+        "COMMENTS": "0"
     }
 ]

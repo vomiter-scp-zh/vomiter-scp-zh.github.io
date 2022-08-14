@@ -670,5 +670,41 @@
         "FULLNAME": "artwork-unnamed-file",
         "RATING": 4,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "CCK級「著作權侵權訴訟」場景",
+        "FULLNAME": "cck-class-copyright-infringement-lawsuit-scenario",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-43",
+        "FULLNAME": "secure-facility-dossier-site-43",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Golem的ACS分級圖標 & 部門Logo頁面",
+        "FULLNAME": "golem-s-icon-page",
+        "RATING": 1,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-鴨子-J",
+        "FULLNAME": "scp-ducks-j",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "基金會紋章",
+        "FULLNAME": "flowering-scp-logo",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-100-VN-J - 真正全能的SCP",
+        "FULLNAME": "scp-100-vn-j",
+        "RATING": 5,
+        "COMMENTS": "1"
     }
 ]

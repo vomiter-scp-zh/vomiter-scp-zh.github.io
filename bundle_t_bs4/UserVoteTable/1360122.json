@@ -34,5 +34,11 @@
         "FULLNAME": "scp-5884",
         "RATING": 5,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP社群討論區模擬器",
+        "FULLNAME": "scp-wiki-discussion-page-simulator",
+        "RATING": -3,
+        "COMMENTS": "0"
     }
 ]

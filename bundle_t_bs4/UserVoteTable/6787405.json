@@ -106,5 +106,11 @@
         "FULLNAME": "scp-6500",
         "RATING": 24,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "楷模計畫",
+        "FULLNAME": "project-paragon-hub",
+        "RATING": 8,
+        "COMMENTS": "1"
     }
 ]
