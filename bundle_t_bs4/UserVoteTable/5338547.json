@@ -112,5 +112,17 @@
         "FULLNAME": "the-bathrooms-wiki",
         "RATING": 7,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-097",
+        "FULLNAME": "scp-097",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7000 - 陰間維加斯講座：莊家會輸",
+        "FULLNAME": "7000contestrounderhouse",
+        "RATING": 9,
+        "COMMENTS": "0"
     }
 ]

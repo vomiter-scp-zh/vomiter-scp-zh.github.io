@@ -1582,5 +1582,47 @@
         "FULLNAME": "7000contestnico",
         "RATING": 7,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5400-J - 超級宇宙無敵機密文章",
+        "FULLNAME": "scp-5400-j",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7000 - 陰間維加斯講座：莊家會輸",
+        "FULLNAME": "7000contestrounderhouse",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7000 - 來星星間找我",
+        "FULLNAME": "7000contestfabledtiefling",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-7000 - 視實是十三",
+        "FULLNAME": "7000contestfishwaltz",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-1545 - 惹人憐愛的駱馬賴瑞",
+        "FULLNAME": "scp-1545",
+        "RATING": 5,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-7000 - 地獄子彈",
+        "FULLNAME": "7000contestweryllium",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7000 - 浮游生物!!!",
+        "FULLNAME": "7000contestellie3",
+        "RATING": 3,
+        "COMMENTS": "0"
     }
 ]

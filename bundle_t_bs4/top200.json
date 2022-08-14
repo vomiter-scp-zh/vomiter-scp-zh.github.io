@@ -54,7 +54,7 @@
         "COMMENTS": "5"
     },
     {
-        "TITLE": "SCP—j",
+        "TITLE": "SCP-____-j",
         "FULLNAME": "scp-j",
         "RATING": 22,
         "COMMENTS": "2"
@@ -1062,6 +1062,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-7000 - 來星星間找我",
+        "FULLNAME": "7000contestfabledtiefling",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-682-J James 的塗鴉小冊子",
         "FULLNAME": "scp-682-j-james-coloring-book",
         "RATING": 9,
@@ -1190,12 +1196,6 @@
     {
         "TITLE": "SCP-001:O5",
         "FULLNAME": "scp-001-o5",
-        "RATING": 9,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-1340-RU",
-        "FULLNAME": "scp-1340-ru",
         "RATING": 9,
         "COMMENTS": "1"
     }

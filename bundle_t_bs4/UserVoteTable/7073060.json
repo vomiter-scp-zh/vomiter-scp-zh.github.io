@@ -1246,5 +1246,47 @@
         "FULLNAME": "7000contestnico",
         "RATING": 7,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-7000 - 愛爾蘭人的幸運",
+        "FULLNAME": "7000contesttstaffor",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7000 - Cimmerian博士差點死掉",
+        "FULLNAME": "7000doctor-cimmerian",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3128 - 讓我們來玩大富翁吧!",
+        "FULLNAME": "scp-3128",
+        "RATING": 2,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-7000 - 陰間維加斯講座：莊家會輸",
+        "FULLNAME": "7000contestrounderhouse",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7000 - 來星星間找我",
+        "FULLNAME": "7000contestfabledtiefling",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-7000 - 視實是十三",
+        "FULLNAME": "7000contestfishwaltz",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-7000 - 懼七症",
+        "FULLNAME": "7000contestyossipossi",
+        "RATING": 7,
+        "COMMENTS": "0"
     }
 ]
