@@ -10,5 +10,17 @@
         "FULLNAME": "scp-173",
         "RATING": 61,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "威脅級別",
+        "FULLNAME": "niveaux-de-menace-des-objets-scp",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-682 - 不滅孽蜥",
+        "FULLNAME": "scp-682",
+        "RATING": 24,
+        "COMMENTS": "1"
     }
 ]

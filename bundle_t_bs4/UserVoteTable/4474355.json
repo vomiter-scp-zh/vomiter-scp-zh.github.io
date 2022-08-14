@@ -46,5 +46,17 @@
         "FULLNAME": "scp-001-ex",
         "RATING": 17,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-682 - 不滅孽蜥",
+        "FULLNAME": "scp-682",
+        "RATING": 24,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "泰語世界線中心頁",
+        "FULLNAME": "th-canon-hub",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]

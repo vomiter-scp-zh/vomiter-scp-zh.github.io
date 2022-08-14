@@ -76,5 +76,35 @@
         "FULLNAME": "scp-666-j",
         "RATING": 9,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "夜何幽，地何寒",
+        "FULLNAME": "world-went-beautiful",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Dr. Gears的人事檔案",
+        "FULLNAME": "dr-gears-s-personnel-file",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "永無長眠的蜥蜴",
+        "FULLNAME": "impossible-to-destroy-reptile",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "教會聖師中心頁",
+        "FULLNAME": "doctors-of-the-church-hub",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3855 - 逆模因地下酒吧",
+        "FULLNAME": "scp-3855",
+        "RATING": 8,
+        "COMMENTS": "1"
     }
 ]

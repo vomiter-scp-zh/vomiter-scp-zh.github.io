@@ -118,5 +118,215 @@
         "FULLNAME": "scp-001-ex",
         "RATING": 17,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "安布羅斯餐廳倫敦店的套餐菜單",
+        "FULLNAME": "ambrose-london-prix-fixe",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "棘刺谷的安布羅斯餐廳",
+        "FULLNAME": "ambrose-thorn-valley",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "項目企劃書 2014-1221：《終於醒來》",
+        "FULLNAME": "project-proposal-2014-1221",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "項目企劃書 1994-87：《羅馬法庭的一天》",
+        "FULLNAME": "project-proposal-1994-87-a-day-in-the-roman-court",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "UTE-1919-Discofather",
+        "FULLNAME": "ute-1919-discofather",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "RAISA-6147 (有待分配)",
+        "FULLNAME": "raisa-6147",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "初始之章：第一樂詩",
+        "FULLNAME": "chapter-1-verse-1",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "派大星開悟了",
+        "FULLNAME": "fifthbobpentapants",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "威脅級別",
+        "FULLNAME": "niveaux-de-menace-des-objets-scp",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "巴黎大屠殺",
+        "FULLNAME": "paris-massacre",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "銀之聲",
+        "FULLNAME": "sounds-of-silver",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "非先知團體 中心頁",
+        "FULLNAME": "non-prophet-organization-hub",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "夜何幽，地何寒",
+        "FULLNAME": "world-went-beautiful",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Dr. Gears的人事檔案",
+        "FULLNAME": "dr-gears-s-personnel-file",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "永無長眠的蜥蜴",
+        "FULLNAME": "impossible-to-destroy-reptile",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "第十六號 Wondertainment 捐贈品",
+        "FULLNAME": "16th-wondertainment-donation",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "第一號 Ivády 捐贈品",
+        "FULLNAME": "first-ivady-donation",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-682 - 不滅孽蜥",
+        "FULLNAME": "scp-682",
+        "RATING": 24,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-745-JP - 日奉 樹",
+        "FULLNAME": "scp-745-jp",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "聖誕快樂",
+        "FULLNAME": "yuletide-joy",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-049-D",
+        "FULLNAME": "scp-049-d",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "格魯烏-P 個案卷宗 \"毒蠅傘-FLY AGARIC\"",
+        "FULLNAME": "fly-agaric",
+        "RATING": 5,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "我的寶貝壁虎",
+        "FULLNAME": "my-beloved-gecko",
+        "RATING": 5,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "華麗一英里上的不端行徑",
+        "FULLNAME": "misconduct-on-the-magnificent-mile",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "沒有人喜歡四面樹敵",
+        "FULLNAME": "nobody-likes-having-enemies",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "野兔 023：柴郡貓",
+        "FULLNAME": "hare-023-the-cheshire-cat",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "沒有人會陷入麻煩",
+        "FULLNAME": "nobody-in-trouble",
+        "RATING": 5,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "西班牙分部關注組織",
+        "FULLNAME": "grupos-de-interes-hispanoparlantes",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "意大利分部設施列表",
+        "FULLNAME": "siti-italiani",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "無歇惡夢",
+        "FULLNAME": "restless-dreams",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "CSS 守則",
+        "FULLNAME": "css-policy",
+        "RATING": 3,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "小動物簡介：Bakugo！",
+        "FULLNAME": "critter-profile-bakugo",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1890 - 家庭相簿",
+        "FULLNAME": "scp-1890",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "屠夫卡爾",
+        "FULLNAME": "carnifex-carl",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4494 - THE SPECTER為正義而戰！",
+        "FULLNAME": "scp-4494",
+        "RATING": 10,
+        "COMMENTS": "0"
     }
 ]

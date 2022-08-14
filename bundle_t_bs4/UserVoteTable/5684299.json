@@ -70,5 +70,83 @@
         "FULLNAME": "ambrose-temecula",
         "RATING": 10,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "安布羅斯餐廳倫敦店的套餐菜單",
+        "FULLNAME": "ambrose-london-prix-fixe",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "機動特遣隊-JP",
+        "FULLNAME": "task-forces-jp",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "漆黑如夜中心頁",
+        "FULLNAME": "black-as-night",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "'暗夜藏品' (Lot C3S81)",
+        "FULLNAME": "night-s-collection",
+        "RATING": 3,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "認養海報：Ol' Shock！",
+        "FULLNAME": "adoption-poster-ol-shock",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "無名勛爵的大魔犬",
+        "FULLNAME": "the-great-shucks-of-the-unnamed-lords",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "RAISA-6147 (有待分配)",
+        "FULLNAME": "raisa-6147",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "宣誓",
+        "FULLNAME": "to-swear-an-oath",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "夜何幽，地何寒",
+        "FULLNAME": "world-went-beautiful",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-745-JP - 日奉 樹",
+        "FULLNAME": "scp-745-jp",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "獻給未知作者的頌歌",
+        "FULLNAME": "ode-to-the-unknown-author",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "泰國分部關注組織",
+        "FULLNAME": "groups-of-interest-th",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "華麗一英里上的不端行徑",
+        "FULLNAME": "misconduct-on-the-magnificent-mile",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]

@@ -12,6 +12,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-682 - 不滅孽蜥",
+        "FULLNAME": "scp-682",
+        "RATING": 24,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP—j",
         "FULLNAME": "scp-j",
         "RATING": 22,
@@ -22,6 +28,12 @@
         "FULLNAME": "scp-2521",
         "RATING": 21,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "我該怎樣把已發佈的文檔刪除？",
+        "FULLNAME": "scp-309-j",
+        "RATING": 19,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "Lily的提案",
@@ -114,6 +126,12 @@
         "COMMENTS": "3"
     },
     {
+        "TITLE": "SCP-4494 - THE SPECTER為正義而戰！",
+        "FULLNAME": "scp-4494",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-682-J James 的塗鴉小冊子",
         "FULLNAME": "scp-682-j-james-coloring-book",
         "RATING": 9,
@@ -124,6 +142,30 @@
         "FULLNAME": "scp-666-j",
         "RATING": 9,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "安布羅斯餐廳倫敦店的套餐菜單",
+        "FULLNAME": "ambrose-london-prix-fixe",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "項目企劃書 2014-1221：《終於醒來》",
+        "FULLNAME": "project-proposal-2014-1221",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "死亡終了中心頁",
+        "FULLNAME": "end-of-death-hub",
+        "RATING": 9,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-745-JP - 日奉 樹",
+        "FULLNAME": "scp-745-jp",
+        "RATING": 9,
+        "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-048 - 被詛咒的SCP號碼",
@@ -140,6 +182,36 @@
     {
         "TITLE": "異常霍亂時期的慾望",
         "FULLNAME": "adult:lust-in-the-time-of-anomalous-cholera",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "派大星開悟了",
+        "FULLNAME": "fifthbobpentapants",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "夜何幽，地何寒",
+        "FULLNAME": "world-went-beautiful",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "永無長眠的蜥蜴",
+        "FULLNAME": "impossible-to-destroy-reptile",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3855 - 逆模因地下酒吧",
+        "FULLNAME": "scp-3855",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "屠夫卡爾",
+        "FULLNAME": "carnifex-carl",
         "RATING": 8,
         "COMMENTS": "1"
     },
@@ -190,6 +262,24 @@
         "FULLNAME": "nexus-series",
         "RATING": 7,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "初始之章：第一樂詩",
+        "FULLNAME": "chapter-1-verse-1",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "教會聖師中心頁",
+        "FULLNAME": "doctors-of-the-church-hub",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "第一號 Ivády 捐贈品",
+        "FULLNAME": "first-ivady-donation",
+        "RATING": 7,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-007 - 內腹行星",
@@ -244,6 +334,54 @@
         "FULLNAME": "deer-college-hub",
         "RATING": 6,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "伴月星恆",
+        "FULLNAME": "the-moons-stellar-companion",
+        "RATING": 6,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "威脅級別",
+        "FULLNAME": "niveaux-de-menace-des-objets-scp",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "噢，我感覺到了，我感覺到了整個宇宙！",
+        "FULLNAME": "oh-i-feel-it-i-feel-the-cosmos",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "聖誕快樂",
+        "FULLNAME": "yuletide-joy",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "第十五號匿名捐贈品",
+        "FULLNAME": "fifteenth-anonymous-donation",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "堅持不懈",
+        "FULLNAME": "holding-on",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "獻給未知作者的頌歌",
+        "FULLNAME": "ode-to-the-unknown-author",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-031 - 何謂愛？",
+        "FULLNAME": "scp-031",
+        "RATING": 6,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-004 - 穿越銹匙之門",
@@ -328,6 +466,78 @@
         "FULLNAME": "the-liars-confession",
         "RATING": 5,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "棘刺谷的安布羅斯餐廳",
+        "FULLNAME": "ambrose-thorn-valley",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "項目企劃書 1994-87：《羅馬法庭的一天》",
+        "FULLNAME": "project-proposal-1994-87-a-day-in-the-roman-court",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "小動物簡介：Maya！",
+        "FULLNAME": "critter-profile-maya",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "機動特遣隊-JP",
+        "FULLNAME": "task-forces-jp",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "漆黑如夜中心頁",
+        "FULLNAME": "black-as-night",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "RAISA-6147 (有待分配)",
+        "FULLNAME": "raisa-6147",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "格魯烏-P 個案卷宗 \"毒蠅傘-FLY AGARIC\"",
+        "FULLNAME": "fly-agaric",
+        "RATING": 5,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "我的寶貝壁虎",
+        "FULLNAME": "my-beloved-gecko",
+        "RATING": 5,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "沒有人會陷入麻煩",
+        "FULLNAME": "nobody-in-trouble",
+        "RATING": 5,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "無歇惡夢",
+        "FULLNAME": "restless-dreams",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "泰語世界線中心頁",
+        "FULLNAME": "th-canon-hub",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "小動物簡介：Bakugo！",
+        "FULLNAME": "critter-profile-bakugo",
+        "RATING": 5,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-005 - 解構鑰匙",
@@ -450,6 +660,144 @@
         "COMMENTS": "3"
     },
     {
+        "TITLE": "小動物簡介：Wobbles！",
+        "FULLNAME": "critter-profile-wobbles",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "小動物簡介：Sampson！",
+        "FULLNAME": "critter-profile-sampson",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "小動物簡介：Ringo！",
+        "FULLNAME": "ringo",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "小動物簡介：Caddy！",
+        "FULLNAME": "critter-profile-caddy",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "認養海報：Ol' Shock！",
+        "FULLNAME": "adoption-poster-ol-shock",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "UTE-1919-Discofather",
+        "FULLNAME": "ute-1919-discofather",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "無名勛爵的大魔犬",
+        "FULLNAME": "the-great-shucks-of-the-unnamed-lords",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "銀河接引中心頁",
+        "FULLNAME": "sky-sermon-hub",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "無人接觸",
+        "FULLNAME": "close-encounter-with-nobody",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "宣誓",
+        "FULLNAME": "to-swear-an-oath",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3465 - 早知如此，何必當初",
+        "FULLNAME": "scp-3465",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "CSS主題製作工具",
+        "FULLNAME": "css-theme-preparation-tool",
+        "RATING": 4,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "Dr. Gears的人事檔案",
+        "FULLNAME": "dr-gears-s-personnel-file",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "第十六號 Wondertainment 捐贈品",
+        "FULLNAME": "16th-wondertainment-donation",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-049-D",
+        "FULLNAME": "scp-049-d",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "異常的詩集",
+        "FULLNAME": "scpoems",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ES-056",
+        "FULLNAME": "scp-es-056",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "華麗一英里上的不端行徑",
+        "FULLNAME": "misconduct-on-the-magnificent-mile",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "我不明白，但我會搞清楚。",
+        "FULLNAME": "coming-out-to-the-woods",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1890 - 家庭相簿",
+        "FULLNAME": "scp-1890",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-009 - 赤冰",
+        "FULLNAME": "scp-009",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "探索紀錄A009-1",
+        "FULLNAME": "exploration-log-a009-1",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Plokamisuchus 的分析",
+        "FULLNAME": "analysis-of-the-plokamisuchus",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "維安權限分級",
         "FULLNAME": "security-clearance-levels",
         "RATING": 3,
@@ -514,6 +862,138 @@
         "FULLNAME": "do-not-collect-200",
         "RATING": 3,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "回收到的媒體：呂墨菲的冷硬派冒險奇譚",
+        "FULLNAME": "recovered-media-the-hard-boiled-adventures-of-murphy-law",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "'暗夜藏品' (Lot C3S81)",
+        "FULLNAME": "night-s-collection",
+        "RATING": 3,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "微波爐",
+        "FULLNAME": "microwave",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "無人業務",
+        "FULLNAME": "nobody-s-business",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Carroll 332 號：告密者之牢",
+        "FULLNAME": "snitchdungeons",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "蛇說神幻經",
+        "FULLNAME": "theology-of-a-snake",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "巴黎大屠殺",
+        "FULLNAME": "paris-massacre",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "銀之聲",
+        "FULLNAME": "sounds-of-silver",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "調查報告：五行虹天目的神話傳說",
+        "FULLNAME": "zetetic-bulletin-wu-xing-iris",
+        "RATING": 3,
+        "COMMENTS": "8"
+    },
+    {
+        "TITLE": "非先知團體 中心頁",
+        "FULLNAME": "non-prophet-organization-hub",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1312 - Site-41",
+        "FULLNAME": "scp-1312",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "DK級 大金剛情景",
+        "FULLNAME": "dk-class-donkey-kong-scenario",
+        "RATING": 3,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "跳入兔洞，穿越蟲洞",
+        "FULLNAME": "down-the-rabbit-wormhole",
+        "RATING": 3,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "泰國分部關注組織",
+        "FULLNAME": "groups-of-interest-th",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Dr. Gerald的人事檔案",
+        "FULLNAME": "dr-gerald-s-personnel-file",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "沒有人喜歡四面樹敵",
+        "FULLNAME": "nobody-likes-having-enemies",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "野兔 023：柴郡貓",
+        "FULLNAME": "hare-023-the-cheshire-cat",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "西班牙分部關注組織",
+        "FULLNAME": "grupos-de-interes-hispanoparlantes",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "意大利分部設施列表",
+        "FULLNAME": "siti-italiani",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4449 - カワモト ダイスケ，又叫做かかしさん，稻草人武士兼傳奇屠妖者",
+        "FULLNAME": "scp-4449",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "CSS 守則",
+        "FULLNAME": "css-policy",
+        "RATING": 3,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "一天，我與伍么陸談話",
+        "FULLNAME": "talked-with-516",
+        "RATING": 3,
+        "COMMENTS": "2"
     },
     {
         "TITLE": "友站翻譯文庫",
@@ -600,6 +1080,48 @@
         "COMMENTS": "3"
     },
     {
+        "TITLE": "UIU檔案：1941-016",
+        "FULLNAME": "uiu-file-1941-016",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "契約談判 (N-01029)",
+        "FULLNAME": "contract-negotiations-01029",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "控制",
+        "FULLNAME": "secure",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "收容",
+        "FULLNAME": "contain",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "保護",
+        "FULLNAME": "protect2",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "第一號 CETRes 捐贈品",
+        "FULLNAME": "1st-cetres-donation",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ES-112",
+        "FULLNAME": "scp-es-112",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "UIU檔案：1952-003",
         "FULLNAME": "uiu-file-1952-003",
         "RATING": 1,
@@ -616,6 +1138,18 @@
         "FULLNAME": "scp-3022",
         "RATING": 1,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-505-KO",
+        "FULLNAME": "scp-505-ko",
+        "RATING": 1,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "恐怖基金會",
+        "FULLNAME": "horror-foundation",
+        "RATING": 1,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "圖像使用政策",
@@ -658,5 +1192,11 @@
         "FULLNAME": "scp-1021",
         "RATING": 0,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "2018社區調查報告",
+        "FULLNAME": "2018-survey-results",
+        "RATING": 0,
+        "COMMENTS": "3"
     }
 ]

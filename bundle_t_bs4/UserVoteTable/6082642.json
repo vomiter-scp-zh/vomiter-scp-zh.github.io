@@ -10,5 +10,17 @@
         "FULLNAME": "updated-amnestics-guide",
         "RATING": 15,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "威脅級別",
+        "FULLNAME": "niveaux-de-menace-des-objets-scp",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-682 - 不滅孽蜥",
+        "FULLNAME": "scp-682",
+        "RATING": 24,
+        "COMMENTS": "1"
     }
 ]

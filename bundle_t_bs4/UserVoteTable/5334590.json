@@ -28,5 +28,29 @@
         "FULLNAME": "updated-amnestics-guide",
         "RATING": 15,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "伴月星恆",
+        "FULLNAME": "the-moons-stellar-companion",
+        "RATING": 6,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "噢，我感覺到了，我感覺到了整個宇宙！",
+        "FULLNAME": "oh-i-feel-it-i-feel-the-cosmos",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "死亡終了中心頁",
+        "FULLNAME": "end-of-death-hub",
+        "RATING": 9,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-682 - 不滅孽蜥",
+        "FULLNAME": "scp-682",
+        "RATING": 24,
+        "COMMENTS": "1"
     }
 ]

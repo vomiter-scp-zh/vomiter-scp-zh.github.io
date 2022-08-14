@@ -10,5 +10,17 @@
         "FULLNAME": "nexus-series",
         "RATING": 7,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "機動特遣隊-JP",
+        "FULLNAME": "task-forces-jp",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "西班牙分部關注組織",
+        "FULLNAME": "grupos-de-interes-hispanoparlantes",
+        "RATING": 3,
+        "COMMENTS": "0"
     }
 ]

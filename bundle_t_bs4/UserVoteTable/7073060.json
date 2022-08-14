@@ -4,5 +4,17 @@
         "FULLNAME": "djkaktus",
         "RATING": 4,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-3855 - 逆模因地下酒吧",
+        "FULLNAME": "scp-3855",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-031 - 何謂愛？",
+        "FULLNAME": "scp-031",
+        "RATING": 6,
+        "COMMENTS": "1"
     }
 ]
