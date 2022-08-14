@@ -148,5 +148,29 @@
         "FULLNAME": "scp-4474",
         "RATING": 5,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2599 - 差強人意",
+        "FULLNAME": "scp-2599",
+        "RATING": 3,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-001-EX-J",
+        "FULLNAME": "scp-001-ex-j",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Scantron的提案",
+        "FULLNAME": "scantron-s-proposal",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1059 - 感染性刪改強迫症",
+        "FULLNAME": "scp-1059",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]

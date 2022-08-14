@@ -130,5 +130,35 @@
         "FULLNAME": "scp-3554",
         "RATING": 2,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "基金會內部部門清單",
+        "FULLNAME": "list-of-foundation-s-internal-departments",
+        "RATING": 12,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-2316 - 校外教學",
+        "FULLNAME": "scp-2316",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2295 - 有著拼布心臟的熊",
+        "FULLNAME": "scp-2295",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Glass博士的心理評估",
+        "FULLNAME": "routine-psychological-evaluations-by-dr-glass",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "我即基金會",
+        "FULLNAME": "i-am-the-organisation",
+        "RATING": 9,
+        "COMMENTS": "3"
     }
 ]

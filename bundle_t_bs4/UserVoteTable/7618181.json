@@ -22,5 +22,17 @@
         "FULLNAME": "scp-701",
         "RATING": 9,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-117 - 多功能瑞士刀",
+        "FULLNAME": "scp-117",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-120 - 傳送池",
+        "FULLNAME": "scp-120",
+        "RATING": 5,
+        "COMMENTS": "1"
     }
 ]

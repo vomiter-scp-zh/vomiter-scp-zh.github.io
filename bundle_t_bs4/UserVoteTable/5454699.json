@@ -130,5 +130,47 @@
         "FULLNAME": "scp-1711-ru",
         "RATING": 7,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-779-KO",
+        "FULLNAME": "scp-779-ko",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5149 - 喬，我們可不是瞎子。",
+        "FULLNAME": "scp-5149",
+        "RATING": 14,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "這裡沒什麼好看的",
+        "FULLNAME": "nothingtoseehere",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "後果：但這是真正發生過的事情",
+        "FULLNAME": "insertjokeinurlhere",
+        "RATING": 10,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-1922-J",
+        "FULLNAME": "scp-1922-j",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "巧達Clef",
+        "FULLNAME": "chowderclef",
+        "RATING": 14,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "相信這只是一場夢而已",
+        "FULLNAME": "my-dream-amadai-001",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]

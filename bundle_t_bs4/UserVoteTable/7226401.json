@@ -154,5 +154,35 @@
         "FULLNAME": "scp-834",
         "RATING": 4,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2295 - 有著拼布心臟的熊",
+        "FULLNAME": "scp-2295",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "工作中禁止約會",
+        "FULLNAME": "no-dating-at-work",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Glass博士的心理評估",
+        "FULLNAME": "routine-psychological-evaluations-by-dr-glass",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-469 - 萬翼天使",
+        "FULLNAME": "scp-469",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-420-J",
+        "FULLNAME": "scp-420-j",
+        "RATING": 12,
+        "COMMENTS": "0"
     }
 ]

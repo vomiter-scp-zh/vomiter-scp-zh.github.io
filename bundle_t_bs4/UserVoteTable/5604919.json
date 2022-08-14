@@ -358,5 +358,47 @@
         "FULLNAME": "scp-1711-ru",
         "RATING": 7,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "基金會內部部門清單",
+        "FULLNAME": "list-of-foundation-s-internal-departments",
+        "RATING": 12,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-2316 - 校外教學",
+        "FULLNAME": "scp-2316",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5149 - 喬，我們可不是瞎子。",
+        "FULLNAME": "scp-5149",
+        "RATING": 14,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "平行宇宙與蒲公英酒",
+        "FULLNAME": "dandelions",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "團體約會",
+        "FULLNAME": "group-date",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "比利時鬆餅約會",
+        "FULLNAME": "waffle-date",
+        "RATING": 5,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "巧達Clef",
+        "FULLNAME": "chowderclef",
+        "RATING": 14,
+        "COMMENTS": "3"
     }
 ]

@@ -160,5 +160,47 @@
         "FULLNAME": "scp-es-119",
         "RATING": 3,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "基金會內部部門清單",
+        "FULLNAME": "list-of-foundation-s-internal-departments",
+        "RATING": 12,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-2295 - 有著拼布心臟的熊",
+        "FULLNAME": "scp-2295",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "瓶中船中心頁",
+        "FULLNAME": "siabhub",
+        "RATING": 13,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "第三次約會",
+        "FULLNAME": "just-fuck-it-up-irl",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "夢見科技 Logo設計歷程",
+        "FULLNAME": "yumemi-technology-com-company-history-logo",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP呆萌塗鴉",
+        "FULLNAME": "scp-silly-doodles",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "巧達Clef",
+        "FULLNAME": "chowderclef",
+        "RATING": 14,
+        "COMMENTS": "3"
     }
 ]

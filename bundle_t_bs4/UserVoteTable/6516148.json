@@ -46,5 +46,23 @@
         "FULLNAME": "scp-1002-ru",
         "RATING": 5,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "俄羅斯分部關注組織",
+        "FULLNAME": "groups-of-interest-of-the-russian-branch",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "國內特別注意區：戀昏崎",
+        "FULLNAME": "kanshin-ryoiki-koigarezaki",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "米津元帥物語",
+        "FULLNAME": "yonedu-gensui",
+        "RATING": 13,
+        "COMMENTS": "1"
     }
 ]

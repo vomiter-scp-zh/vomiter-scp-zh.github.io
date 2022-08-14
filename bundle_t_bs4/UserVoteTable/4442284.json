@@ -784,5 +784,191 @@
         "FULLNAME": "scp-1002-ru",
         "RATING": 5,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4330 - 片刻寂靜",
+        "FULLNAME": "scp-4330",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2316 - 校外教學",
+        "FULLNAME": "scp-2316",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "LaRue 海報 - 砰！",
+        "FULLNAME": "larue-post-bang",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "LaRue 海報 - 南希的鞋子",
+        "FULLNAME": "nancy-shoe",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "幫幫我，我(對我)女兒(的愛)生來太過安靜",
+        "FULLNAME": "the-sky-carries-the-brightness-of-your-smile",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "赫曼·富勒的展出：簡短而銳利的教訓",
+        "FULLNAME": "herman-fuller-presents-furmanism",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4357-J",
+        "FULLNAME": "scp-4357-j",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "與Bright共度的夜晚",
+        "FULLNAME": "an-evening-with-bright",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-001-EX-J",
+        "FULLNAME": "scp-001-ex-j",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-120 - 傳送池",
+        "FULLNAME": "scp-120",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "第三次約會",
+        "FULLNAME": "just-fuck-it-up-irl",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "工作中禁止約會",
+        "FULLNAME": "no-dating-at-work",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Glass博士的心理評估",
+        "FULLNAME": "routine-psychological-evaluations-by-dr-glass",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "咖啡約會",
+        "FULLNAME": "coffee-date",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "團體約會",
+        "FULLNAME": "group-date",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "「就像一場夢一樣……」",
+        "FULLNAME": "i-want-to-dream",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "比利時鬆餅約會",
+        "FULLNAME": "waffle-date",
+        "RATING": 5,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-212 - 改良器",
+        "FULLNAME": "scp-212",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "無色之綠事件",
+        "FULLNAME": "case-colourless-green",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "特工AA的個人日誌",
+        "FULLNAME": "log-of-agent-aa",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-1084-RU",
+        "FULLNAME": "scp-1084-ru",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "事故784：第二部份：協商",
+        "FULLNAME": "784incident2",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "事故784：第五部份：臨界",
+        "FULLNAME": "784incident5",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "小動物簡介：次元毀滅者 ZARGOTH！",
+        "FULLNAME": "critter-profile-zargoth",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1399-RU",
+        "FULLNAME": "scp-1399-ru",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "你最後一個第一天",
+        "FULLNAME": "your-last-first-day",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "事故784：第六部份：脫逃",
+        "FULLNAME": "784incident6",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "事故784：第七部份：結論",
+        "FULLNAME": "784incident7",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP呆萌塗鴉",
+        "FULLNAME": "scp-silly-doodles",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-469 - 萬翼天使",
+        "FULLNAME": "scp-469",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "相信這只是一場夢而已",
+        "FULLNAME": "my-dream-amadai-001",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]

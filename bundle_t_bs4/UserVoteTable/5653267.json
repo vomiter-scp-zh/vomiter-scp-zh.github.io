@@ -184,5 +184,35 @@
         "FULLNAME": "tales-of-mr-collector",
         "RATING": 5,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "基金會內部部門清單",
+        "FULLNAME": "list-of-foundation-s-internal-departments",
+        "RATING": 12,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-5149 - 喬，我們可不是瞎子。",
+        "FULLNAME": "scp-5149",
+        "RATING": 14,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "第二次約會",
+        "FULLNAME": "every-day-of-my-life-you-test-me",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "國內特別注意區：戀昏崎",
+        "FULLNAME": "kanshin-ryoiki-koigarezaki",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "小動物簡介：次元毀滅者 ZARGOTH！",
+        "FULLNAME": "critter-profile-zargoth",
+        "RATING": 12,
+        "COMMENTS": "0"
     }
 ]

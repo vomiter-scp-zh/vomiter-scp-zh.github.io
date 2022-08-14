@@ -682,5 +682,119 @@
         "FULLNAME": "scp-1002-ru",
         "RATING": 5,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3338 - 音樂蝌蚪想當你的室友～",
+        "FULLNAME": "scp-3338",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "基金會內部部門清單",
+        "FULLNAME": "list-of-foundation-s-internal-departments",
+        "RATING": 12,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-2316 - 校外教學",
+        "FULLNAME": "scp-2316",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "仙人掌廣播中心頁",
+        "FULLNAME": "kaktuskast-hub",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "俄羅斯分部關注組織",
+        "FULLNAME": "groups-of-interest-of-the-russian-branch",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "與Bright共度的夜晚",
+        "FULLNAME": "an-evening-with-bright",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "後果：但這是真正發生過的事情",
+        "FULLNAME": "insertjokeinurlhere",
+        "RATING": 10,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "Glass博士的心理評估",
+        "FULLNAME": "routine-psychological-evaluations-by-dr-glass",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "酩酊街之春",
+        "FULLNAME": "no-spring-will-come",
+        "RATING": 3,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "國內特別注意區：戀昏崎",
+        "FULLNAME": "kanshin-ryoiki-koigarezaki",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "夢見科技 Logo設計歷程",
+        "FULLNAME": "yumemi-technology-com-company-history-logo",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1084-RU",
+        "FULLNAME": "scp-1084-ru",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "宛若漆黑洞中之闇",
+        "FULLNAME": "jet-black",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-1922-J",
+        "FULLNAME": "scp-1922-j",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "米津元帥物語",
+        "FULLNAME": "yonedu-gensui",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "機櫃建造 中心頁",
+        "FULLNAME": "making-2000-hub",
+        "RATING": 14,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "小動物簡介：次元毀滅者 ZARGOTH！",
+        "FULLNAME": "critter-profile-zargoth",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-420-J",
+        "FULLNAME": "scp-420-j",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "巧達Clef",
+        "FULLNAME": "chowderclef",
+        "RATING": 14,
+        "COMMENTS": "3"
     }
 ]

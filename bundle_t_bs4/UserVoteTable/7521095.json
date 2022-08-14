@@ -34,5 +34,11 @@
         "FULLNAME": "scp-4190",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Mann博士的提案",
+        "FULLNAME": "dr-manns-proposal",
+        "RATING": 2,
+        "COMMENTS": "0"
     }
 ]

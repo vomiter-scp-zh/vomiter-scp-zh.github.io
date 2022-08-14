@@ -226,5 +226,71 @@
         "FULLNAME": "scp-1711-ru",
         "RATING": 7,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-3338 - 音樂蝌蚪想當你的室友～",
+        "FULLNAME": "scp-3338",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-033 - 丟失的數字",
+        "FULLNAME": "scp-033",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5149 - 喬，我們可不是瞎子。",
+        "FULLNAME": "scp-5149",
+        "RATING": 14,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "愛為何物？",
+        "FULLNAME": "whatislove",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "後果：但這是真正發生過的事情",
+        "FULLNAME": "insertjokeinurlhere",
+        "RATING": 10,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "工作中禁止約會",
+        "FULLNAME": "no-dating-at-work",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Glass博士的心理評估",
+        "FULLNAME": "routine-psychological-evaluations-by-dr-glass",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "我即基金會",
+        "FULLNAME": "i-am-the-organisation",
+        "RATING": 9,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "夢見科技 Logo設計歷程",
+        "FULLNAME": "yumemi-technology-com-company-history-logo",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "米津元帥物語",
+        "FULLNAME": "yonedu-gensui",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP呆萌塗鴉",
+        "FULLNAME": "scp-silly-doodles",
+        "RATING": 6,
+        "COMMENTS": "0"
     }
 ]

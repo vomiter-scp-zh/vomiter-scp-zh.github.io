@@ -142,5 +142,35 @@
         "FULLNAME": "lockdown-procedures",
         "RATING": 7,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2316 - 校外教學",
+        "FULLNAME": "scp-2316",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "與Bright共度的夜晚",
+        "FULLNAME": "an-evening-with-bright",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-001-EX-J",
+        "FULLNAME": "scp-001-ex-j",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "米津元帥物語",
+        "FULLNAME": "yonedu-gensui",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-420-J",
+        "FULLNAME": "scp-420-j",
+        "RATING": 12,
+        "COMMENTS": "0"
     }
 ]

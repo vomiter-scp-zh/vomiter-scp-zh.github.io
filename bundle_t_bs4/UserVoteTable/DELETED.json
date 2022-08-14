@@ -400,5 +400,23 @@
         "FULLNAME": "scp-1799",
         "RATING": 3,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5149 - 喬，我們可不是瞎子。",
+        "FULLNAME": "scp-5149",
+        "RATING": 14,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-3122 - 你已到達目的地",
+        "FULLNAME": "scp-3122",
+        "RATING": 5,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "米津元帥物語",
+        "FULLNAME": "yonedu-gensui",
+        "RATING": 13,
+        "COMMENTS": "1"
     }
 ]

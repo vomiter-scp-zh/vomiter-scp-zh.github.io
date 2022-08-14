@@ -40,5 +40,41 @@
         "FULLNAME": "mr-parker",
         "RATING": 5,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5149 - 喬，我們可不是瞎子。",
+        "FULLNAME": "scp-5149",
+        "RATING": 14,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "與Bright共度的夜晚",
+        "FULLNAME": "an-evening-with-bright",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Code Brown",
+        "FULLNAME": "codebrown",
+        "RATING": 4,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "盲目約會",
+        "FULLNAME": "blinddate",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "我即基金會",
+        "FULLNAME": "i-am-the-organisation",
+        "RATING": 9,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "你最後一個第一天",
+        "FULLNAME": "your-last-first-day",
+        "RATING": 9,
+        "COMMENTS": "0"
     }
 ]
