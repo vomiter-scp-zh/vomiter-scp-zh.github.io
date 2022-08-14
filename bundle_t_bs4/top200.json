@@ -1068,6 +1068,18 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-5400-J - 超級宇宙無敵機密文章",
+        "FULLNAME": "scp-5400-j",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7000 - 陰間維加斯講座：莊家會輸",
+        "FULLNAME": "7000contestrounderhouse",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-682-J James 的塗鴉小冊子",
         "FULLNAME": "scp-682-j-james-coloring-book",
         "RATING": 9,
@@ -1186,17 +1198,5 @@
         "FULLNAME": "scp-2317",
         "RATING": 9,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-096 - 羞澀的人",
-        "FULLNAME": "scp-096",
-        "RATING": 9,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-001:O5",
-        "FULLNAME": "scp-001-o5",
-        "RATING": 9,
-        "COMMENTS": "1"
     }
 ]
