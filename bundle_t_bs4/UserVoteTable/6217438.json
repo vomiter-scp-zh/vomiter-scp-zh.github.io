@@ -46,5 +46,41 @@
         "FULLNAME": "big-dick-chappell",
         "RATING": 9,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "奇妙世界卷宗",
+        "FULLNAME": "wonder-world-dossier",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "各位！Gears絕對不是一個機器人",
+        "FULLNAME": "gears-is-totally-not-a-robot-guys",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-380-KO",
+        "FULLNAME": "scp-380-ko",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "GOI-001：芝加哥鬼靈",
+        "FULLNAME": "chicago-spirit",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1296 - 打來駱馬",
+        "FULLNAME": "scp-1296",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Michaels 博士",
+        "FULLNAME": "scp-4428",
+        "RATING": 11,
+        "COMMENTS": "0"
     }
 ]

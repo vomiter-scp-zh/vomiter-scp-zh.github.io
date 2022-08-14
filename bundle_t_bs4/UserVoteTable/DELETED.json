@@ -214,5 +214,107 @@
         "FULLNAME": "party-of-gods",
         "RATING": 17,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "你的首篇SCP之路：第三章 — 擬出草稿與接受批評",
+        "FULLNAME": "yourjouney-part-3",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-404-J - 群神亂舞",
+        "FULLNAME": "scp-404-j",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Abwesenheit",
+        "FULLNAME": "abwesenheit",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-244-JP - 地藏祭的大鳥居",
+        "FULLNAME": "scp-224-jp",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-137 - 具現化玩具",
+        "FULLNAME": "scp-137",
+        "RATING": 4,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-4893 - 百子蓮",
+        "FULLNAME": "scp-4893",
+        "RATING": 6,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-093 - 紅海物件",
+        "FULLNAME": "scp-093",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-016 - 有感知能力的微生物",
+        "FULLNAME": "scp-016",
+        "RATING": 1,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "歡迎來到 SCP 基金會！",
+        "FULLNAME": "scp-es-138",
+        "RATING": 29,
+        "COMMENTS": "9"
+    },
+    {
+        "TITLE": "Are We Cool Yet? 中心頁",
+        "FULLNAME": "are-we-cool-yet-hub",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "反大麻玩家中心頁",
+        "FULLNAME": "gamers-against-weed-hub",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "我是瑪莉小姐……",
+        "FULLNAME": "atashi-merisa",
+        "RATING": 13,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-1047-J",
+        "FULLNAME": "scp-1047-j",
+        "RATING": 4,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "逃離終點站",
+        "FULLNAME": "escape-from-terminus",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1313 - 解答是隻熊",
+        "FULLNAME": "scp-1313",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1296 - 打來駱馬",
+        "FULLNAME": "scp-1296",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "美食家、青蛙與飛行",
+        "FULLNAME": "foodies-frogs-flying",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]

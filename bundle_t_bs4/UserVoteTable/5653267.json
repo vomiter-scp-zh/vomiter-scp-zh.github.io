@@ -70,5 +70,23 @@
         "FULLNAME": "so-you-want-to-write-a-humanoid-scp-object",
         "RATING": 12,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Clef博士研討會手記，「現實扭曲者與你：當不存在的事物存在時該如何生存。」",
+        "FULLNAME": "clef101",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Are We Cool Yet? 中心頁",
+        "FULLNAME": "are-we-cool-yet-hub",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "國際站至基金會各分站成員有關俄羅斯分站被侵權事宜之公開信（13/11/2019）",
+        "FULLNAME": "scp-int-to-ru",
+        "RATING": 6,
+        "COMMENTS": "0"
     }
 ]

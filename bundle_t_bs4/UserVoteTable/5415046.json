@@ -4,5 +4,59 @@
         "FULLNAME": "party-of-gods",
         "RATING": 17,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-137 - 具現化玩具",
+        "FULLNAME": "scp-137",
+        "RATING": 4,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "週日搞笑漫",
+        "FULLNAME": "sunday-funnies",
+        "RATING": 5,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-093 - 紅海物件",
+        "FULLNAME": "scp-093",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "各位！Gears絕對不是一個機器人",
+        "FULLNAME": "gears-is-totally-not-a-robot-guys",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "發布可愛的東西！",
+        "FULLNAME": "cuteness-on-main",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "我是瑪莉小姐……",
+        "FULLNAME": "atashi-merisa",
+        "RATING": 13,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "媽媽，媽媽，我多麼想你啊",
+        "FULLNAME": "mother-mother-i-miss-you-so",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "逃離終點站",
+        "FULLNAME": "escape-from-terminus",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1296 - 打來駱馬",
+        "FULLNAME": "scp-1296",
+        "RATING": 16,
+        "COMMENTS": "0"
     }
 ]

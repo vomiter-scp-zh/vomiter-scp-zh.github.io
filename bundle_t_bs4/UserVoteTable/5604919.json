@@ -88,5 +88,41 @@
         "FULLNAME": "party-of-gods",
         "RATING": 17,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-371-J",
+        "FULLNAME": "scp-371-j",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-380-KO",
+        "FULLNAME": "scp-380-ko",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "它聞起來很冷",
+        "FULLNAME": "it-smells-cold",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "djkaktus的另一個提案",
+        "FULLNAME": "djkaktus-s-proposal-j",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-914 - 發條裝置",
+        "FULLNAME": "scp-914",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2412 - 先知機械",
+        "FULLNAME": "scp-2412",
+        "RATING": 10,
+        "COMMENTS": "0"
     }
 ]

@@ -52,5 +52,35 @@
         "FULLNAME": "class-d-recruiting",
         "RATING": 13,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-4106 - 愛鳥",
+        "FULLNAME": "scp-4106",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "歡迎來到 SCP 基金會！",
+        "FULLNAME": "scp-es-138",
+        "RATING": 29,
+        "COMMENTS": "9"
+    },
+    {
+        "TITLE": "djkaktus的另一個提案",
+        "FULLNAME": "djkaktus-s-proposal-j",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "傳承熊目",
+        "FULLNAME": "bearitage-collection",
+        "RATING": 7,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-1313 - 解答是隻熊",
+        "FULLNAME": "scp-1313",
+        "RATING": 5,
+        "COMMENTS": "1"
     }
 ]

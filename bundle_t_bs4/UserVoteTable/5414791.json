@@ -88,5 +88,17 @@
         "FULLNAME": "scp-008-j",
         "RATING": 11,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4893 - 百子蓮",
+        "FULLNAME": "scp-4893",
+        "RATING": 6,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "歡迎來到 SCP 基金會！",
+        "FULLNAME": "scp-es-138",
+        "RATING": 29,
+        "COMMENTS": "9"
     }
 ]

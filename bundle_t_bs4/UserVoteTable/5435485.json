@@ -166,5 +166,83 @@
         "FULLNAME": "insufficient-clearance",
         "RATING": 4,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "你的首篇SCP之路：第三章 — 擬出草稿與接受批評",
+        "FULLNAME": "yourjouney-part-3",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "關注組織-JP",
+        "FULLNAME": "groups-of-interest-jp",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-244-JP - 地藏祭的大鳥居",
+        "FULLNAME": "scp-224-jp",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "發布可愛的東西！",
+        "FULLNAME": "cuteness-on-main",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-123-J",
+        "FULLNAME": "scp-123-j",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "我是瑪莉小姐……",
+        "FULLNAME": "atashi-merisa",
+        "RATING": 13,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-2109 - 悲慘意外",
+        "FULLNAME": "scp-2109",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2412 - 先知機械",
+        "FULLNAME": "scp-2412",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "第一九三一六號",
+        "FULLNAME": "collected-item-no19316",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-1313 - 解答是隻熊",
+        "FULLNAME": "scp-1313",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1296 - 打來駱馬",
+        "FULLNAME": "scp-1296",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "普羅米修斯實驗室中心頁",
+        "FULLNAME": "prometheus-labs-hub",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "關於聖索菲亞的摘錄",
+        "FULLNAME": "excerpts-regarding-st-sophia",
+        "RATING": 7,
+        "COMMENTS": "0"
     }
 ]

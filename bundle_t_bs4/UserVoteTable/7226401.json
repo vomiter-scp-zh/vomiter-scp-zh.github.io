@@ -58,5 +58,29 @@
         "FULLNAME": "scp-008-j",
         "RATING": 11,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-371-J",
+        "FULLNAME": "scp-371-j",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "各位！Gears絕對不是一個機器人",
+        "FULLNAME": "gears-is-totally-not-a-robot-guys",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-123-J",
+        "FULLNAME": "scp-123-j",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-066 - Eric的玩具",
+        "FULLNAME": "scp-066",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]

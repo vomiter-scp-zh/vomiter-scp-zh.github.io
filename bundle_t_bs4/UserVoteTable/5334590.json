@@ -64,5 +64,65 @@
         "FULLNAME": "scpdeclassified-pattern-screamers-declassified",
         "RATING": 7,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Abwesenheit",
+        "FULLNAME": "abwesenheit",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-4893 - 百子蓮",
+        "FULLNAME": "scp-4893",
+        "RATING": 6,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "歡迎來到 SCP 基金會！",
+        "FULLNAME": "scp-es-138",
+        "RATING": 29,
+        "COMMENTS": "9"
+    },
+    {
+        "TITLE": "安布羅斯餐廳中心頁",
+        "FULLNAME": "ambrose-restaurant-hub",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "紅鶴們",
+        "FULLNAME": "flamingos",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "我是瑪莉小姐……",
+        "FULLNAME": "atashi-merisa",
+        "RATING": 13,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-914 - 發條裝置",
+        "FULLNAME": "scp-914",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "登仙",
+        "FULLNAME": "la-naissance-d-un-immortel",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1296 - 打來駱馬",
+        "FULLNAME": "scp-1296",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "夢神關注組織中心頁",
+        "FULLNAME": "oneiroi",
+        "RATING": 10,
+        "COMMENTS": "3"
     }
 ]

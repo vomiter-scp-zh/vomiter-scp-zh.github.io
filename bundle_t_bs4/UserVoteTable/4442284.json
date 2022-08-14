@@ -304,5 +304,125 @@
         "FULLNAME": "party-of-gods",
         "RATING": 17,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-371-J",
+        "FULLNAME": "scp-371-j",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4106 - 愛鳥",
+        "FULLNAME": "scp-4106",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "你最後的SCP！",
+        "FULLNAME": "your-very-last-scp",
+        "RATING": 8,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-244-JP - 地藏祭的大鳥居",
+        "FULLNAME": "scp-224-jp",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3816 - 藍光",
+        "FULLNAME": "scp-3816",
+        "RATING": 8,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-4035 - 語言深淵",
+        "FULLNAME": "scp-4035",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4270 - 本傑明·哈里森在橢圓形辦公室里拉屎嗎？",
+        "FULLNAME": "scp-4270",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-011 - 有感知的內戰紀念雕像",
+        "FULLNAME": "scp-011",
+        "RATING": 3,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-093 - 紅海物件",
+        "FULLNAME": "scp-093",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-016 - 有感知能力的微生物",
+        "FULLNAME": "scp-016",
+        "RATING": 1,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "歡迎來到 SCP 基金會！",
+        "FULLNAME": "scp-es-138",
+        "RATING": 29,
+        "COMMENTS": "9"
+    },
+    {
+        "TITLE": "SCP-1112-RU",
+        "FULLNAME": "scp-1112-ru",
+        "RATING": 2,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "紅鶴們",
+        "FULLNAME": "flamingos",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "djkaktus的另一個提案",
+        "FULLNAME": "djkaktus-s-proposal-j",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-1507 - 粉紅火烈鳥",
+        "FULLNAME": "scp-1507",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1047-J",
+        "FULLNAME": "scp-1047-j",
+        "RATING": 4,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-105 - 「Iris」",
+        "FULLNAME": "scp-105",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "俄羅斯分站商標註冊事件事情經過簡介（10/5/2019）",
+        "FULLNAME": "ru-situation",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1296 - 打來駱馬",
+        "FULLNAME": "scp-1296",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Michaels 博士",
+        "FULLNAME": "scp-4428",
+        "RATING": 11,
+        "COMMENTS": "0"
     }
 ]

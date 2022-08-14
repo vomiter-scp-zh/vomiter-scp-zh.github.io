@@ -28,5 +28,23 @@
         "FULLNAME": "database-error",
         "RATING": 5,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "週日搞笑漫",
+        "FULLNAME": "sunday-funnies",
+        "RATING": 5,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-093 - 紅海物件",
+        "FULLNAME": "scp-093",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "傳承熊目",
+        "FULLNAME": "bearitage-collection",
+        "RATING": 7,
+        "COMMENTS": "4"
     }
 ]

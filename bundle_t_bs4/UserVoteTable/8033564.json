@@ -58,5 +58,23 @@
         "FULLNAME": "scp-4517",
         "RATING": 12,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-404-J - 群神亂舞",
+        "FULLNAME": "scp-404-j",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1296 - 打來駱馬",
+        "FULLNAME": "scp-1296",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "普羅米修斯實驗室中心頁",
+        "FULLNAME": "prometheus-labs-hub",
+        "RATING": 8,
+        "COMMENTS": "1"
     }
 ]

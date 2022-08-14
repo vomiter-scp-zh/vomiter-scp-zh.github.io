@@ -10,5 +10,17 @@
         "FULLNAME": "scp-2521",
         "RATING": 21,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-4286 - 這一點也不骨怪",
+        "FULLNAME": "scp-4286",
+        "RATING": 3,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "我是瑪莉小姐……",
+        "FULLNAME": "atashi-merisa",
+        "RATING": 13,
+        "COMMENTS": "5"
     }
 ]

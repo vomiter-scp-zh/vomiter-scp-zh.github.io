@@ -232,5 +232,23 @@
         "FULLNAME": "dclass-search",
         "RATING": 10,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "渾沌反叛軍中心頁",
+        "FULLNAME": "chaos-insurgency-hub",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-093 - 紅海物件",
+        "FULLNAME": "scp-093",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "收容失效：萬聖夜驚魂",
+        "FULLNAME": "the-halloween-breach",
+        "RATING": 5,
+        "COMMENTS": "1"
     }
 ]

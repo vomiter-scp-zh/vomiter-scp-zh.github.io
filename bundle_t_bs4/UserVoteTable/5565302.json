@@ -70,5 +70,35 @@
         "FULLNAME": "party-of-gods",
         "RATING": 17,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3816 - 藍光",
+        "FULLNAME": "scp-3816",
+        "RATING": 8,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-4035 - 語言深淵",
+        "FULLNAME": "scp-4035",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4270 - 本傑明·哈里森在橢圓形辦公室里拉屎嗎？",
+        "FULLNAME": "scp-4270",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-321 - 人之子",
+        "FULLNAME": "scp-321",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Michaels 博士",
+        "FULLNAME": "scp-4428",
+        "RATING": 11,
+        "COMMENTS": "0"
     }
 ]

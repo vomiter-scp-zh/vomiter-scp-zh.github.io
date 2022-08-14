@@ -106,5 +106,35 @@
         "FULLNAME": "dclass-search",
         "RATING": 10,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-371-J",
+        "FULLNAME": "scp-371-j",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "你最後的SCP！",
+        "FULLNAME": "your-very-last-scp",
+        "RATING": 8,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-244-JP - 地藏祭的大鳥居",
+        "FULLNAME": "scp-224-jp",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "歡迎來到 SCP 基金會！",
+        "FULLNAME": "scp-es-138",
+        "RATING": 29,
+        "COMMENTS": "9"
+    },
+    {
+        "TITLE": "反大麻玩家中心頁",
+        "FULLNAME": "gamers-against-weed-hub",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]

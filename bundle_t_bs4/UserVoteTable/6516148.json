@@ -22,5 +22,11 @@
         "FULLNAME": "grupos-de-interes-hispanoparlantes",
         "RATING": 3,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "關注組織-JP",
+        "FULLNAME": "groups-of-interest-jp",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]

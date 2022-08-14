@@ -334,5 +334,11 @@
         "FULLNAME": "party-of-gods",
         "RATING": 17,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-371-J",
+        "FULLNAME": "scp-371-j",
+        "RATING": 9,
+        "COMMENTS": "1"
     }
 ]

@@ -76,5 +76,17 @@
         "FULLNAME": "scp-1154",
         "RATING": 6,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "我是瑪莉小姐……",
+        "FULLNAME": "atashi-merisa",
+        "RATING": 13,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "美食家、青蛙與飛行",
+        "FULLNAME": "foodies-frogs-flying",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]

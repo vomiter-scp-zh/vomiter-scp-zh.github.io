@@ -82,5 +82,29 @@
         "FULLNAME": "the-death-of-alto-clef-etc",
         "RATING": 11,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-404-J - 群神亂舞",
+        "FULLNAME": "scp-404-j",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3816 - 藍光",
+        "FULLNAME": "scp-3816",
+        "RATING": 8,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "各位！Gears絕對不是一個機器人",
+        "FULLNAME": "gears-is-totally-not-a-robot-guys",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "反大麻玩家中心頁",
+        "FULLNAME": "gamers-against-weed-hub",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]

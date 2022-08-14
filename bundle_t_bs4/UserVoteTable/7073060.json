@@ -34,5 +34,23 @@
         "FULLNAME": "scp-4690",
         "RATING": 6,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4106 - 愛鳥",
+        "FULLNAME": "scp-4106",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "聯邦調查局特異事故處",
+        "FULLNAME": "unusual-incidents-unit-hub",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "安布羅斯餐廳中心頁",
+        "FULLNAME": "ambrose-restaurant-hub",
+        "RATING": 9,
+        "COMMENTS": "0"
     }
 ]

@@ -28,5 +28,17 @@
         "FULLNAME": "party-of-gods",
         "RATING": 17,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "紅鶴們",
+        "FULLNAME": "flamingos",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1507 - 粉紅火烈鳥",
+        "FULLNAME": "scp-1507",
+        "RATING": 5,
+        "COMMENTS": "1"
     }
 ]

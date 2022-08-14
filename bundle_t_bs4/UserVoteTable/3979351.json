@@ -610,5 +610,77 @@
         "FULLNAME": "party-of-gods",
         "RATING": 17,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4106 - 愛鳥",
+        "FULLNAME": "scp-4106",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "你的首篇SCP之路：第三章 — 擬出草稿與接受批評",
+        "FULLNAME": "yourjouney-part-3",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "GoI-1995-DE 「奇物室」(Das Wunderkabinett)",
+        "FULLNAME": "goi-1995-de-das-wunderkabinett",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "渾沌反叛軍中心頁",
+        "FULLNAME": "chaos-insurgency-hub",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "7happy7 的 SVG-動畫 畫廊",
+        "FULLNAME": "svg-animation",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "DCD 中心頁",
+        "FULLNAME": "centre-du-dcd",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "你最後的SCP！",
+        "FULLNAME": "your-very-last-scp",
+        "RATING": 8,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-244-JP - 地藏祭的大鳥居",
+        "FULLNAME": "scp-224-jp",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "歡迎來到 SCP 基金會！",
+        "FULLNAME": "scp-es-138",
+        "RATING": 29,
+        "COMMENTS": "9"
+    },
+    {
+        "TITLE": "安布羅斯餐廳中心頁",
+        "FULLNAME": "ambrose-restaurant-hub",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "第一九三一六號",
+        "FULLNAME": "collected-item-no19316",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "普羅米修斯實驗室中心頁",
+        "FULLNAME": "prometheus-labs-hub",
+        "RATING": 8,
+        "COMMENTS": "1"
     }
 ]
