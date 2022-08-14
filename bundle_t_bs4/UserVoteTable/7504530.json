@@ -322,5 +322,95 @@
         "FULLNAME": "transparent",
         "RATING": 8,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "100分ROUNDERHOUSE的100項：絕對主流中SCP作者分享如何使你成功最大化的建議",
+        "FULLNAME": "rounderhouse-100",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "1998年的交通藝術創作",
+        "FULLNAME": "1998-transport-illust",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "發光的東西",
+        "FULLNAME": "something-glowing",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-120",
+        "FULLNAME": "secure-facility-dossier-site-120",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2348 - 天空",
+        "FULLNAME": "scp-2348",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Site-17的陌生人：早川",
+        "FULLNAME": "strangers-of-site-17-part-three",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6630 - 彼方遙火",
+        "FULLNAME": "scp-6630",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6355 - 扼殺禮義之咽喉",
+        "FULLNAME": "scp-6355",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6468 - dado的pvp特製藥水",
+        "FULLNAME": "scp-6468",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6820 - 抹殺嘗試",
+        "FULLNAME": "scp-6820",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "噁心",
+        "FULLNAME": "disgusting",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6643 - 公（？）分母",
+        "FULLNAME": "scp-6643",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "你應該知道卻望名生畏不敢追問的奧秘消解部所有資訊",
+        "FULLNAME": "acroamatic-abatement",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-440 - 沙基生態",
+        "FULLNAME": "scp-440",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "保衛43 中心頁",
+        "FULLNAME": "on-guard-43-hub",
+        "RATING": 9,
+        "COMMENTS": "1"
     }
 ]

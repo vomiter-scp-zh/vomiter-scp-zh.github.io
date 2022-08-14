@@ -880,5 +880,41 @@
         "FULLNAME": "ddd-2034",
         "RATING": 11,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-6630 - 彼方遙火",
+        "FULLNAME": "scp-6630",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-570 - 超自然汽水大戰",
+        "FULLNAME": "scp-570",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6433 - 你想要的一切時光",
+        "FULLNAME": "scp-6433",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4666 - 聖誕老人",
+        "FULLNAME": "scp-4666",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-702 - 行商之所",
+        "FULLNAME": "scp-702",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4666解密",
+        "FULLNAME": "scp-4666-declassification",
+        "RATING": 5,
+        "COMMENTS": "1"
     }
 ]

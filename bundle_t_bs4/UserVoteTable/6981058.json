@@ -4,5 +4,35 @@
         "FULLNAME": "scp-618",
         "RATING": 5,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6665 - 黑條",
+        "FULLNAME": "scp-6665",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "發光的東西",
+        "FULLNAME": "something-glowing",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6630 - 彼方遙火",
+        "FULLNAME": "scp-6630",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6355 - 扼殺禮義之咽喉",
+        "FULLNAME": "scp-6355",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-7K-J - 一擲定生死",
+        "FULLNAME": "scp-7k-j",
+        "RATING": 4,
+        "COMMENTS": "2"
     }
 ]

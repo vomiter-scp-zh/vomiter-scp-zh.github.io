@@ -214,5 +214,35 @@
         "FULLNAME": "ddd-2034",
         "RATING": 11,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "發光的東西",
+        "FULLNAME": "something-glowing",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6630 - 彼方遙火",
+        "FULLNAME": "scp-6630",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "噁心",
+        "FULLNAME": "disgusting",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7K-J - 一擲定生死",
+        "FULLNAME": "scp-7k-j",
+        "RATING": 4,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-4666解密",
+        "FULLNAME": "scp-4666-declassification",
+        "RATING": 5,
+        "COMMENTS": "1"
     }
 ]

@@ -250,5 +250,89 @@
         "FULLNAME": "transparent",
         "RATING": 8,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "DV標準表",
+        "FULLNAME": "standard-form-for-downvotes",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6665 - 黑條",
+        "FULLNAME": "scp-6665",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5524 - 不饜語義",
+        "FULLNAME": "scp-5524",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-120",
+        "FULLNAME": "secure-facility-dossier-site-120",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6355 - 扼殺禮義之咽喉",
+        "FULLNAME": "scp-6355",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6820 - 抹殺嘗試",
+        "FULLNAME": "scp-6820",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3333 - 塔",
+        "FULLNAME": "scp-3333",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "噁心",
+        "FULLNAME": "disgusting",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6643 - 公（？）分母",
+        "FULLNAME": "scp-6643",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "後屎維基",
+        "FULLNAME": "the-bathrooms-wiki",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6599 - HOGSLICE",
+        "FULLNAME": "scp-6599",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4666解密",
+        "FULLNAME": "scp-4666-declassification",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-7000 - 掰掰，謝謝你們的魚啦",
+        "FULLNAME": "7000contestnico",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6902 - 遺失的行李",
+        "FULLNAME": "scp-6902",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]

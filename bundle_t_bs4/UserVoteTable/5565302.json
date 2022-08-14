@@ -1048,5 +1048,41 @@
         "FULLNAME": "rounderhouse-critique-guide",
         "RATING": 18,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-3333 - 塔",
+        "FULLNAME": "scp-3333",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-513 - 牛鈴",
+        "FULLNAME": "scp-513",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-702 - 行商之所",
+        "FULLNAME": "scp-702",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4755 - 當我等全能之時",
+        "FULLNAME": "scp-4755",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2627 - 木板路帝國",
+        "FULLNAME": "scp-2627",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7000 - 經商蜥蜴",
+        "FULLNAME": "7000contestzyn",
+        "RATING": 8,
+        "COMMENTS": "1"
     }
 ]

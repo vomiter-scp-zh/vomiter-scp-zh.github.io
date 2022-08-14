@@ -64,5 +64,47 @@
         "FULLNAME": "rounderhouse-critique-guide",
         "RATING": 18,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-6630 - 彼方遙火",
+        "FULLNAME": "scp-6630",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6355 - 扼殺禮義之咽喉",
+        "FULLNAME": "scp-6355",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6820 - 抹殺嘗試",
+        "FULLNAME": "scp-6820",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-7K-J - 一擲定生死",
+        "FULLNAME": "scp-7k-j",
+        "RATING": 4,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-6433 - 你想要的一切時光",
+        "FULLNAME": "scp-6433",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4755 - 當我等全能之時",
+        "FULLNAME": "scp-4755",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "保衛43 中心頁",
+        "FULLNAME": "on-guard-43-hub",
+        "RATING": 9,
+        "COMMENTS": "1"
     }
 ]

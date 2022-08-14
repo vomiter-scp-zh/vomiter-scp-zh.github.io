@@ -280,5 +280,71 @@
         "FULLNAME": "scp-6513",
         "RATING": 8,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-6630 - 彼方遙火",
+        "FULLNAME": "scp-6630",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6355 - 扼殺禮義之咽喉",
+        "FULLNAME": "scp-6355",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6820 - 抹殺嘗試",
+        "FULLNAME": "scp-6820",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4514 - 殺死你的東西",
+        "FULLNAME": "scp-4514",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3333 - 塔",
+        "FULLNAME": "scp-3333",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6377 - 水平之門",
+        "FULLNAME": "scp-6377",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "人壽保險",
+        "FULLNAME": "life-insurance-policy",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-570 - 超自然汽水大戰",
+        "FULLNAME": "scp-570",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6433 - 你想要的一切時光",
+        "FULLNAME": "scp-6433",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4666 - 聖誕老人",
+        "FULLNAME": "scp-4666",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-702 - 行商之所",
+        "FULLNAME": "scp-702",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]

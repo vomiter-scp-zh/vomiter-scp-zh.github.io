@@ -628,5 +628,23 @@
         "FULLNAME": "scp-6513",
         "RATING": 8,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "DV標準表",
+        "FULLNAME": "standard-form-for-downvotes",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "100分ROUNDERHOUSE的100項：絕對主流中SCP作者分享如何使你成功最大化的建議",
+        "FULLNAME": "rounderhouse-100",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7000 - 掰掰，謝謝你們的魚啦",
+        "FULLNAME": "7000contestnico",
+        "RATING": 7,
+        "COMMENTS": "1"
     }
 ]

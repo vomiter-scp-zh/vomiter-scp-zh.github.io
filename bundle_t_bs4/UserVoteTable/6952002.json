@@ -778,5 +778,47 @@
         "FULLNAME": "scp-5861",
         "RATING": 6,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "DV標準表",
+        "FULLNAME": "standard-form-for-downvotes",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "100分ROUNDERHOUSE的100項：絕對主流中SCP作者分享如何使你成功最大化的建議",
+        "FULLNAME": "rounderhouse-100",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1038-RU - 毋忘吾等",
+        "FULLNAME": "scp-1038-ru",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3333 - 塔",
+        "FULLNAME": "scp-3333",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7K-J - 一擲定生死",
+        "FULLNAME": "scp-7k-j",
+        "RATING": 4,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "後屎維基",
+        "FULLNAME": "the-bathrooms-wiki",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-638 - 1914年芝加哥聯邦準備機構搶案",
+        "FULLNAME": "scp-638",
+        "RATING": 3,
+        "COMMENTS": "0"
     }
 ]

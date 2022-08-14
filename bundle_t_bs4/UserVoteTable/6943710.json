@@ -10,5 +10,23 @@
         "FULLNAME": "scp-6445",
         "RATING": 9,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6820 - 抹殺嘗試",
+        "FULLNAME": "scp-6820",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6377 - 水平之門",
+        "FULLNAME": "scp-6377",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7K-J - 一擲定生死",
+        "FULLNAME": "scp-7k-j",
+        "RATING": 4,
+        "COMMENTS": "2"
     }
 ]

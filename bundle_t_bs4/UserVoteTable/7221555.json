@@ -220,5 +220,29 @@
         "FULLNAME": "scp-506",
         "RATING": 4,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6594 - 生日慶祝會",
+        "FULLNAME": "scp-6594",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-570 - 超自然汽水大戰",
+        "FULLNAME": "scp-570",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-720 - 圓形監獄",
+        "FULLNAME": "scp-720",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2627 - 木板路帝國",
+        "FULLNAME": "scp-2627",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]

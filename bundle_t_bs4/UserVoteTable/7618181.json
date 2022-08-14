@@ -58,5 +58,35 @@
         "FULLNAME": "scp-982",
         "RATING": 3,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "100分ROUNDERHOUSE的100項：絕對主流中SCP作者分享如何使你成功最大化的建議",
+        "FULLNAME": "rounderhouse-100",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6454 - 吃下德州，巴黎的畫",
+        "FULLNAME": "scp-6454",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6781 - Site-7：遺產",
+        "FULLNAME": "scp-6781",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-216 - 保險箱",
+        "FULLNAME": "scp-216",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4666 - 聖誕老人",
+        "FULLNAME": "scp-4666",
+        "RATING": 11,
+        "COMMENTS": "0"
     }
 ]

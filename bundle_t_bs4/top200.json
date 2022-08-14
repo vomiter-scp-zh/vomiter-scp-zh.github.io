@@ -156,6 +156,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-6630 - 彼方遙火",
+        "FULLNAME": "scp-6630",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-1296 - 打來駱馬",
         "FULLNAME": "scp-1296",
         "RATING": 16,
@@ -184,6 +190,12 @@
         "FULLNAME": "esoteric-classes-complete-list",
         "RATING": 16,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3333 - 塔",
+        "FULLNAME": "scp-3333",
+        "RATING": 16,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "更新版記憶消除劑指南",
@@ -294,6 +306,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "100分ROUNDERHOUSE的100項：絕對主流中SCP作者分享如何使你成功最大化的建議",
+        "FULLNAME": "rounderhouse-100",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-002 - 生「活」起居室",
         "FULLNAME": "scp-002",
         "RATING": 13,
@@ -382,6 +400,12 @@
         "FULLNAME": "scp-1045-jp",
         "RATING": 13,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-6355 - 扼殺禮義之咽喉",
+        "FULLNAME": "scp-6355",
+        "RATING": 13,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "dado的中心頁是的",
@@ -738,6 +762,30 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "DV標準表",
+        "FULLNAME": "standard-form-for-downvotes",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6594 - 生日慶祝會",
+        "FULLNAME": "scp-6594",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-6820 - 抹殺嘗試",
+        "FULLNAME": "scp-6820",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4666 - 聖誕老人",
+        "FULLNAME": "scp-4666",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "魔法講座",
         "FULLNAME": "another-goddamn-magic-system",
         "RATING": 10,
@@ -1008,6 +1056,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-6665 - 黑條",
+        "FULLNAME": "scp-6665",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-682-J James 的塗鴉小冊子",
         "FULLNAME": "scp-682-j-james-coloring-book",
         "RATING": 9,
@@ -1144,59 +1198,5 @@
         "FULLNAME": "scp-1340-ru",
         "RATING": 9,
         "COMMENTS": "1"
-    },
-    {
-        "TITLE": "黑白黑白黑白黑白黑白灰",
-        "FULLNAME": "black-white-black-white-black-white-black-white-black-white",
-        "RATING": 9,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-3008 - 一間毫無異狀的典型IKEA",
-        "FULLNAME": "scp-3008",
-        "RATING": 9,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "記憶刪除手冊指南",
-        "FULLNAME": "amnestic-orientation-manual",
-        "RATING": 9,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-145-J",
-        "FULLNAME": "scp-145-j",
-        "RATING": 9,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "我即基金會",
-        "FULLNAME": "i-am-the-organisation",
-        "RATING": 9,
-        "COMMENTS": "3"
-    },
-    {
-        "TITLE": "國內特別注意區：戀昏崎",
-        "FULLNAME": "kanshin-ryoiki-koigarezaki",
-        "RATING": 9,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "你最後一個第一天",
-        "FULLNAME": "your-last-first-day",
-        "RATING": 9,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "UIU職前訓練",
-        "FULLNAME": "uiu-orientation",
-        "RATING": 9,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-2048-JP - 普通的硬幣",
-        "FULLNAME": "scp-2048-jp",
-        "RATING": 9,
-        "COMMENTS": "0"
     }
 ]

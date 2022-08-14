@@ -2884,5 +2884,155 @@
         "FULLNAME": "scp-2711",
         "RATING": 3,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "DV標準表",
+        "FULLNAME": "standard-form-for-downvotes",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "100分ROUNDERHOUSE的100項：絕對主流中SCP作者分享如何使你成功最大化的建議",
+        "FULLNAME": "rounderhouse-100",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6093 - 舌頭懸問",
+        "FULLNAME": "scp-6093",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6594 - 生日慶祝會",
+        "FULLNAME": "scp-6594",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-2481 - 弒殺金烏",
+        "FULLNAME": "scp-2481",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3491 - 無題鶴",
+        "FULLNAME": "scp-3491",
+        "RATING": 2,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-1038-RU - 毋忘吾等",
+        "FULLNAME": "scp-1038-ru",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-167 - 無垠迷宮",
+        "FULLNAME": "scp-167",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3467 - 異常恐鳥",
+        "FULLNAME": "scp-3467",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-849 - 完美的一天",
+        "FULLNAME": "scp-849",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6665 - 黑條",
+        "FULLNAME": "scp-6665",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "你的想像朋友",
+        "FULLNAME": "your-imaginary-friend",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5524 - 不饜語義",
+        "FULLNAME": "scp-5524",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6435 - 囉",
+        "FULLNAME": "scp-6435",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6742 - 「我同基金會」",
+        "FULLNAME": "scp-6742",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5856 - 社會交流",
+        "FULLNAME": "scp-5856",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4096 - 完全顛覆",
+        "FULLNAME": "scp-4096",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "發光的東西",
+        "FULLNAME": "something-glowing",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-120",
+        "FULLNAME": "secure-facility-dossier-site-120",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6558",
+        "FULLNAME": "scp-6558",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "來自非現實的逃亡者",
+        "FULLNAME": "the-castaway-from-unreality",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2348 - 天空",
+        "FULLNAME": "scp-2348",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6454 - 吃下德州，巴黎的畫",
+        "FULLNAME": "scp-6454",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6781 - Site-7：遺產",
+        "FULLNAME": "scp-6781",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6478 - 不是癡呆症 - 是別的東西",
+        "FULLNAME": "scp-6478",
+        "RATING": 6,
+        "COMMENTS": "0"
     }
 ]

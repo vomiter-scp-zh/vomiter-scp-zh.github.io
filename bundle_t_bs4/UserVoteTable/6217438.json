@@ -1228,5 +1228,359 @@
         "FULLNAME": "scp-2711",
         "RATING": 3,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "DV標準表",
+        "FULLNAME": "standard-form-for-downvotes",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "100分ROUNDERHOUSE的100項：絕對主流中SCP作者分享如何使你成功最大化的建議",
+        "FULLNAME": "rounderhouse-100",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6594 - 生日慶祝會",
+        "FULLNAME": "scp-6594",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-2481 - 弒殺金烏",
+        "FULLNAME": "scp-2481",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-849 - 完美的一天",
+        "FULLNAME": "scp-849",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6665 - 黑條",
+        "FULLNAME": "scp-6665",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "你的想像朋友",
+        "FULLNAME": "your-imaginary-friend",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "午後（非現實部講座）",
+        "FULLNAME": "unreality-orientation",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5524 - 不饜語義",
+        "FULLNAME": "scp-5524",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6435 - 囉",
+        "FULLNAME": "scp-6435",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6742 - 「我同基金會」",
+        "FULLNAME": "scp-6742",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5856 - 社會交流",
+        "FULLNAME": "scp-5856",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4096 - 完全顛覆",
+        "FULLNAME": "scp-4096",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "發光的東西",
+        "FULLNAME": "something-glowing",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-120",
+        "FULLNAME": "secure-facility-dossier-site-120",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6558",
+        "FULLNAME": "scp-6558",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "來自非現實的逃亡者",
+        "FULLNAME": "the-castaway-from-unreality",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2348 - 天空",
+        "FULLNAME": "scp-2348",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6454 - 吃下德州，巴黎的畫",
+        "FULLNAME": "scp-6454",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6781 - Site-7：遺產",
+        "FULLNAME": "scp-6781",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6478 - 不是癡呆症 - 是別的東西",
+        "FULLNAME": "scp-6478",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "那不是真的，一直以來都不是，你們這些可悲的蠢貨",
+        "FULLNAME": "its-not-real-it-never-was-you-pathetic-fools",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2020 - 陳腔濫調，對吧?",
+        "FULLNAME": "scp-2020",
+        "RATING": 3,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-460 - 降神會風暴",
+        "FULLNAME": "scp-460",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6630 - 彼方遙火",
+        "FULLNAME": "scp-6630",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-216 - 保險箱",
+        "FULLNAME": "scp-216",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6355 - 扼殺禮義之咽喉",
+        "FULLNAME": "scp-6355",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6468 - dado的pvp特製藥水",
+        "FULLNAME": "scp-6468",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6820 - 抹殺嘗試",
+        "FULLNAME": "scp-6820",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4514 - 殺死你的東西",
+        "FULLNAME": "scp-4514",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3333 - 塔",
+        "FULLNAME": "scp-3333",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6377 - 水平之門",
+        "FULLNAME": "scp-6377",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6342 - 無臉人",
+        "FULLNAME": "scp-6342",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "人壽保險",
+        "FULLNAME": "life-insurance-policy",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "噁心",
+        "FULLNAME": "disgusting",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6643 - 公（？）分母",
+        "FULLNAME": "scp-6643",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6612 - 馬兒笑話",
+        "FULLNAME": "scp-6612",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "你應該知道卻望名生畏不敢追問的奧秘消解部所有資訊",
+        "FULLNAME": "acroamatic-abatement",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "後屎維基",
+        "FULLNAME": "the-bathrooms-wiki",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-570 - 超自然汽水大戰",
+        "FULLNAME": "scp-570",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-377 - 超準幸運餅乾",
+        "FULLNAME": "scp-377",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-513 - 牛鈴",
+        "FULLNAME": "scp-513",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5031 - 不過又一隻殺人怪物罷了",
+        "FULLNAME": "scp-5031",
+        "RATING": 4,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-787 - 未曾存在的飛機",
+        "FULLNAME": "scp-787",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-708 - 大橘堆高機",
+        "FULLNAME": "scp-708",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-638 - 1914年芝加哥聯邦準備機構搶案",
+        "FULLNAME": "scp-638",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-677 - 不可測彈跳桿",
+        "FULLNAME": "scp-677",
+        "RATING": 1,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-636 - 至無處之電梯",
+        "FULLNAME": "scp-636",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "我不識己名",
+        "FULLNAME": "i-don-t-know-my-name",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6433 - 你想要的一切時光",
+        "FULLNAME": "scp-6433",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-720 - 圓形監獄",
+        "FULLNAME": "scp-720",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4666 - 聖誕老人",
+        "FULLNAME": "scp-4666",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-702 - 行商之所",
+        "FULLNAME": "scp-702",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4666解密",
+        "FULLNAME": "scp-4666-declassification",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4755 - 當我等全能之時",
+        "FULLNAME": "scp-4755",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "保衛43 中心頁",
+        "FULLNAME": "on-guard-43-hub",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-7000 - 經商蜥蜴",
+        "FULLNAME": "7000contestzyn",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "あ-N-0064 \"預言獸 件\"銷售目錄",
+        "FULLNAME": "a-n-0064",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7000 - 掰掰，謝謝你們的魚啦",
+        "FULLNAME": "7000contestnico",
+        "RATING": 7,
+        "COMMENTS": "1"
     }
 ]

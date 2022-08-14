@@ -526,5 +526,35 @@
         "FULLNAME": "scp-108",
         "RATING": 5,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "午後（非現實部講座）",
+        "FULLNAME": "unreality-orientation",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "發光的東西",
+        "FULLNAME": "something-glowing",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6820 - 抹殺嘗試",
+        "FULLNAME": "scp-6820",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "人壽保險",
+        "FULLNAME": "life-insurance-policy",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6612 - 馬兒笑話",
+        "FULLNAME": "scp-6612",
+        "RATING": 4,
+        "COMMENTS": "1"
     }
 ]

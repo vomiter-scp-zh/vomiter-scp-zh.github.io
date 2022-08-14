@@ -322,5 +322,17 @@
         "FULLNAME": "i-a-polar-bear-covering-my-nose-in-a-snowstorm",
         "RATING": 11,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6630 - 彼方遙火",
+        "FULLNAME": "scp-6630",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "人壽保險",
+        "FULLNAME": "life-insurance-policy",
+        "RATING": 8,
+        "COMMENTS": "0"
     }
 ]
