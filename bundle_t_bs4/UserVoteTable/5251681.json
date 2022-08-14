@@ -148,5 +148,59 @@
         "FULLNAME": "clef-and-dimitri-hit-the-road",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-V1L3-J",
+        "FULLNAME": "scp-v1l3-j",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "東京事變",
+        "FULLNAME": "tokyo-incidents",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4953 - 漢堡王本人",
+        "FULLNAME": "scp-4953",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-978 - 慾望相機",
+        "FULLNAME": "scp-978",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-132-JP-2 收容用紙",
+        "FULLNAME": "scp-132-jp-animation",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-765 - 鴨塘",
+        "FULLNAME": "scp-765",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-231 - 特殊人員需求",
+        "FULLNAME": "adult:scp-231",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "未命名檔案",
+        "FULLNAME": "unnamed-file",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Meta小說",
+        "FULLNAME": "metafiction",
+        "RATING": 9,
+        "COMMENTS": "0"
     }
 ]

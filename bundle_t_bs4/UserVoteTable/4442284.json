@@ -1210,5 +1210,191 @@
         "FULLNAME": "stormsite19",
         "RATING": 13,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "朝鮮末路",
+        "FULLNAME": "joseon",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "頭條新聞",
+        "FULLNAME": "ripped-from-the-headlines",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "忘念碑",
+        "FULLNAME": "immemorial",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3000 - 阿難陀舍沙",
+        "FULLNAME": "scp-3000",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "東京事變",
+        "FULLNAME": "tokyo-incidents",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "憲章",
+        "FULLNAME": "djinn-tonic",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "關於替常醫學的起源",
+        "FULLNAME": "o-poczatkach-medycyny-altnormalnej",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "鑰匙先生嘆了口氣",
+        "FULLNAME": "mr-key-sighed",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-666½-J",
+        "FULLNAME": "scp-666-and-a-half-j",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "［基於協議4000-Eshu而被限制］",
+        "FULLNAME": "taboo",
+        "RATING": 11,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-1062-JP - 絞（幸）福論",
+        "FULLNAME": "scp-1062-jp",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1073-RU",
+        "FULLNAME": "scp-1073-ru",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "信濃新聞告發 現任知事身陷使用禁止米的疑雲",
+        "FULLNAME": "koigarezaki-news-20200908",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-010-J",
+        "FULLNAME": "scp-010-j",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "灰色的悼文",
+        "FULLNAME": "gray-condolences",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Nx-58",
+        "FULLNAME": "nx-58",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-978 - 慾望相機",
+        "FULLNAME": "scp-978",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "核准應用阻念合金並具備妨礙奇蹟工程作用的新材料之申請",
+        "FULLNAME": "grant-request-for-the-telekinetic-alloy",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2096-JP - 罪惡性假車禍製造者",
+        "FULLNAME": "scp-2096-jp",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2113-JP - 然後閉上了眼睛",
+        "FULLNAME": "scp-2113-jp",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "一封遺書",
+        "FULLNAME": "a-suicide-note",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5380 - 我的世界",
+        "FULLNAME": "scp-5380",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "未命名檔案",
+        "FULLNAME": "unnamed-file",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Meta小說",
+        "FULLNAME": "metafiction",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2828 - 逆模因器官",
+        "FULLNAME": "scp-2828",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "ASP-650-JP",
+        "FULLNAME": "asp-650-jp",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "日本分部理事「鵺」",
+        "FULLNAME": "nue-artwork",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1257-JP - 透潮",
+        "FULLNAME": "scp-1257-jp",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "RTa's Artwork",
+        "FULLNAME": "rta-s-artwork",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2085-JP 博士的 嚇一跳！箱子裡裝的是什麼呢？ 遊戲！",
+        "FULLNAME": "scp-2085-jp",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-127 - 活槍",
+        "FULLNAME": "scp-127",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]

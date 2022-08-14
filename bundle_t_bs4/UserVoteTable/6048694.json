@@ -220,5 +220,53 @@
         "FULLNAME": "star-bound",
         "RATING": 7,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-V1L3-J",
+        "FULLNAME": "scp-v1l3-j",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "憲章",
+        "FULLNAME": "djinn-tonic",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "第一章：時間旅行緒論",
+        "FULLNAME": "time-travel-ch1",
+        "RATING": 4,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "鑰匙先生嘆了口氣",
+        "FULLNAME": "mr-key-sighed",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-132-JP-2 收容用紙",
+        "FULLNAME": "scp-132-jp-animation",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "懷抱光環的神格",
+        "FULLNAME": "chopin-godzilla-with-halo",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1190-RU",
+        "FULLNAME": "scp-1190-ru",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "尋找█貓。",
+        "FULLNAME": "neko-sagashi",
+        "RATING": 16,
+        "COMMENTS": "2"
     }
 ]

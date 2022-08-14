@@ -244,5 +244,35 @@
         "FULLNAME": "stormsite19",
         "RATING": 13,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1280-JP - 休謨空洞",
+        "FULLNAME": "scp-1280-jp",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "一封遺書",
+        "FULLNAME": "a-suicide-note",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "尋找█貓。",
+        "FULLNAME": "neko-sagashi",
+        "RATING": 16,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "黑皇后中心頁",
+        "FULLNAME": "black-queen-hub",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "赤鏈蛇之手",
+        "FULLNAME": "dinodon-s-hand",
+        "RATING": 8,
+        "COMMENTS": "2"
     }
 ]

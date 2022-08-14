@@ -196,5 +196,17 @@
         "FULLNAME": "scp-3999",
         "RATING": 34,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-1380-RU - Vergessenheit，或稱為被遺忘之城",
+        "FULLNAME": "scp-1380-ru",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "赤鏈蛇之手",
+        "FULLNAME": "dinodon-s-hand",
+        "RATING": 8,
+        "COMMENTS": "2"
     }
 ]

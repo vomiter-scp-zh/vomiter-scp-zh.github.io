@@ -142,5 +142,17 @@
         "FULLNAME": "scp-871",
         "RATING": 5,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3000 - 阿難陀舍沙",
+        "FULLNAME": "scp-3000",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-1609 - 椅子的殘骸",
+        "FULLNAME": "scp-1609",
+        "RATING": 6,
+        "COMMENTS": "1"
     }
 ]

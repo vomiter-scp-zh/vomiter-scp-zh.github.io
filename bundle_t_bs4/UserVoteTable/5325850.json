@@ -256,5 +256,35 @@
         "FULLNAME": "scp-4342",
         "RATING": 6,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3000 - 阿難陀舍沙",
+        "FULLNAME": "scp-3000",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-V1L3-J",
+        "FULLNAME": "scp-v1l3-j",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1062-JP - 絞（幸）福論",
+        "FULLNAME": "scp-1062-jp",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3519 - 這些寧靜的日子",
+        "FULLNAME": "scp-3519",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "尋找█貓。",
+        "FULLNAME": "neko-sagashi",
+        "RATING": 16,
+        "COMMENTS": "2"
     }
 ]

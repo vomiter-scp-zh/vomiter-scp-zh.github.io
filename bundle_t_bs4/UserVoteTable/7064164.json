@@ -52,5 +52,17 @@
         "FULLNAME": "scp-006-j",
         "RATING": 7,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "1998年，初夏",
+        "FULLNAME": "early-summer-1998",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-231 - 特殊人員需求",
+        "FULLNAME": "adult:scp-231",
+        "RATING": 12,
+        "COMMENTS": "2"
     }
 ]

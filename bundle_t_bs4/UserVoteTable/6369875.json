@@ -28,5 +28,23 @@
         "FULLNAME": "scp-2911-jp",
         "RATING": 22,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-1062-JP - 絞（幸）福論",
+        "FULLNAME": "scp-1062-jp",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1380-RU - Vergessenheit，或稱為被遺忘之城",
+        "FULLNAME": "scp-1380-ru",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-JP系列",
+        "FULLNAME": "scp-series-jp",
+        "RATING": 1,
+        "COMMENTS": "0"
     }
 ]

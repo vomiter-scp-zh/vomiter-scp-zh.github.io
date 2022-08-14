@@ -34,5 +34,11 @@
         "FULLNAME": "scp-5000",
         "RATING": 27,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-3074 - 卡夫卡停車場",
+        "FULLNAME": "scp-3074",
+        "RATING": 7,
+        "COMMENTS": "1"
     }
 ]

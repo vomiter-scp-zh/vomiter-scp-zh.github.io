@@ -226,5 +226,47 @@
         "FULLNAME": "scp-106",
         "RATING": 13,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "關於替常醫學的起源",
+        "FULLNAME": "o-poczatkach-medycyny-altnormalnej",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-132-JP-2 收容用紙",
+        "FULLNAME": "scp-132-jp-animation",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "懷抱光環的神格",
+        "FULLNAME": "chopin-godzilla-with-halo",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "未命名檔案",
+        "FULLNAME": "unnamed-file",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "日本分部理事「鵺」",
+        "FULLNAME": "nue-artwork",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "尋找█貓。",
+        "FULLNAME": "neko-sagashi",
+        "RATING": 16,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "RTa's Artwork",
+        "FULLNAME": "rta-s-artwork",
+        "RATING": 9,
+        "COMMENTS": "0"
     }
 ]

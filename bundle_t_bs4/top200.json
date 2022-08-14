@@ -78,6 +78,12 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "SCP-3000 - 阿難陀舍沙",
+        "FULLNAME": "scp-3000",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "Lily的提案",
         "FULLNAME": "lily-s-proposal",
         "RATING": 17,
@@ -114,6 +120,12 @@
         "COMMENTS": "3"
     },
     {
+        "TITLE": "尋找█貓。",
+        "FULLNAME": "neko-sagashi",
+        "RATING": 16,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "更新版記憶消除劑指南",
         "FULLNAME": "updated-amnestics-guide",
         "RATING": 15,
@@ -122,6 +134,12 @@
     {
         "TITLE": "SCP-3936 - 一如預期般運作",
         "FULLNAME": "scp-3936",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-132-JP-2 收容用紙",
+        "FULLNAME": "scp-132-jp-animation",
         "RATING": 15,
         "COMMENTS": "1"
     },
@@ -174,6 +192,12 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "未命名檔案",
+        "FULLNAME": "unnamed-file",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-002 - 生「活」起居室",
         "FULLNAME": "scp-002",
         "RATING": 13,
@@ -224,6 +248,12 @@
     {
         "TITLE": "#攻佔Site-19",
         "FULLNAME": "stormsite19",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "東京事變",
+        "FULLNAME": "tokyo-incidents",
         "RATING": 13,
         "COMMENTS": "0"
     },
@@ -318,6 +348,18 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-1062-JP - 絞（幸）福論",
+        "FULLNAME": "scp-1062-jp",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-231 - 特殊人員需求",
+        "FULLNAME": "adult:scp-231",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "SCP-050 - 致最聰明的人",
         "FULLNAME": "scp-050",
         "RATING": 11,
@@ -400,6 +442,12 @@
         "FULLNAME": "date-night",
         "RATING": 11,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "［基於協議4000-Eshu而被限制］",
+        "FULLNAME": "taboo",
+        "RATING": 11,
+        "COMMENTS": "4"
     },
     {
         "TITLE": "魔法講座",
@@ -548,6 +596,12 @@
     {
         "TITLE": "SCP-",
         "FULLNAME": "scp-5251",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-978 - 慾望相機",
+        "FULLNAME": "scp-978",
         "RATING": 10,
         "COMMENTS": "0"
     },
@@ -760,6 +814,42 @@
         "FULLNAME": "scp-2041-jp",
         "RATING": 9,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-V1L3-J",
+        "FULLNAME": "scp-v1l3-j",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "1998年，初夏",
+        "FULLNAME": "early-summer-1998",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Meta小說",
+        "FULLNAME": "metafiction",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "日本分部理事「鵺」",
+        "FULLNAME": "nue-artwork",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "RTa's Artwork",
+        "FULLNAME": "rta-s-artwork",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2085-JP 博士的 嚇一跳！箱子裡裝的是什麼呢？ 遊戲！",
+        "FULLNAME": "scp-2085-jp",
+        "RATING": 9,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-048 - 被詛咒的SCP號碼",
@@ -984,6 +1074,66 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "朝鮮末路",
+        "FULLNAME": "joseon",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "鑰匙先生嘆了口氣",
+        "FULLNAME": "mr-key-sighed",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-666½-J",
+        "FULLNAME": "scp-666-and-a-half-j",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "信濃新聞告發 現任知事身陷使用禁止米的疑雲",
+        "FULLNAME": "koigarezaki-news-20200908",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "懷抱光環的神格",
+        "FULLNAME": "chopin-godzilla-with-halo",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "一封遺書",
+        "FULLNAME": "a-suicide-note",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1380-RU - Vergessenheit，或稱為被遺忘之城",
+        "FULLNAME": "scp-1380-ru",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-1190-RU",
+        "FULLNAME": "scp-1190-ru",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "赤鏈蛇之手",
+        "FULLNAME": "dinodon-s-hand",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "格鲁烏\"P\"部門中心頁",
+        "FULLNAME": "gru-p-hub",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-240-JP - 零隻蝗蟲",
         "FULLNAME": "scp-240-jp",
         "RATING": 7,
@@ -1048,155 +1198,5 @@
         "FULLNAME": "first-ivady-donation",
         "RATING": 7,
         "COMMENTS": "1"
-    },
-    {
-        "TITLE": "家鄉是個充滿蘑菇的地方",
-        "FULLNAME": "home-is-a-place-with-mushrooms",
-        "RATING": 7,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "弄懂模因學",
-        "FULLNAME": "understanding-memetics",
-        "RATING": 7,
-        "COMMENTS": "4"
-    },
-    {
-        "TITLE": "SCP-4923 - corpora arenacea",
-        "FULLNAME": "scp-4923",
-        "RATING": 7,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "相嘯魔解密",
-        "FULLNAME": "scpdeclassified-pattern-screamers-declassified",
-        "RATING": 7,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "你的首篇SCP之路：第二章 — 故事構成與原創性",
-        "FULLNAME": "yourjouney-part-2",
-        "RATING": 7,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-330 - 只能拿兩個",
-        "FULLNAME": "scp-330",
-        "RATING": 7,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "你的首篇SCP之路：第三章 — 擬出草稿與接受批評",
-        "FULLNAME": "yourjouney-part-3",
-        "RATING": 7,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "傳承熊目",
-        "FULLNAME": "bearitage-collection",
-        "RATING": 7,
-        "COMMENTS": "4"
-    },
-    {
-        "TITLE": "SCP-248-J",
-        "FULLNAME": "scp-248-j",
-        "RATING": 7,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "關於聖索菲亞的摘錄",
-        "FULLNAME": "excerpts-regarding-st-sophia",
-        "RATING": 7,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-SPOOKY-J",
-        "FULLNAME": "scp-spooky-j",
-        "RATING": 7,
-        "COMMENTS": "3"
-    },
-    {
-        "TITLE": "理查森島",
-        "FULLNAME": "richardson-island",
-        "RATING": 7,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "格魯烏-P 個案卷宗 \"阿爾瑪 基耶甫西納 ALMA KYIVSHCHYNA\"",
-        "FULLNAME": "alma-kyivshchyna",
-        "RATING": 7,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "Yesterday",
-        "FULLNAME": "yesterday",
-        "RATING": 7,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-2662 - 去你的克蘇魯",
-        "FULLNAME": "scp-2662",
-        "RATING": 7,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-426 - 我是一臺烤吐司機",
-        "FULLNAME": "scp-426",
-        "RATING": 7,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-000",
-        "FULLNAME": "scp-000",
-        "RATING": 7,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "第五教會 中心頁",
-        "FULLNAME": "fifthist-hub",
-        "RATING": 7,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-1254-RU",
-        "FULLNAME": "scp-1254-ru",
-        "RATING": 7,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "Are We Christmas Yet？",
-        "FULLNAME": "are-we-christmas-yet",
-        "RATING": 7,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-1000 - 大腳怪",
-        "FULLNAME": "scp-1000",
-        "RATING": 7,
-        "COMMENTS": "4"
-    },
-    {
-        "TITLE": "序曲：預備鈴",
-        "FULLNAME": "days-gone-by",
-        "RATING": 7,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-4026 - 守護「天使」",
-        "FULLNAME": "scp-4026",
-        "RATING": 7,
-        "COMMENTS": "3"
-    },
-    {
-        "TITLE": "封鎖程序",
-        "FULLNAME": "lockdown-procedures",
-        "RATING": 7,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-1?1!-RU",
-        "FULLNAME": "scp-1711-ru",
-        "RATING": 7,
-        "COMMENTS": "3"
     }
 ]

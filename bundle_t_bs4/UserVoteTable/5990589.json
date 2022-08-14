@@ -154,5 +154,71 @@
         "FULLNAME": "scp-044",
         "RATING": 5,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1476 - 破碎鳥",
+        "FULLNAME": "scp-1476",
+        "RATING": 3,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "忘念碑",
+        "FULLNAME": "immemorial",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3000 - 阿難陀舍沙",
+        "FULLNAME": "scp-3000",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "鑰匙先生嘆了口氣",
+        "FULLNAME": "mr-key-sighed",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "於黑暗中輕拍翅膀",
+        "FULLNAME": "gentle-wings-flutter-quietly-in-the-dark",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-132-JP-2 收容用紙",
+        "FULLNAME": "scp-132-jp-animation",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1942-JP - 龍不死",
+        "FULLNAME": "scp-1942-jp",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "未命名檔案",
+        "FULLNAME": "unnamed-file",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "日本分部理事「鵺」",
+        "FULLNAME": "nue-artwork",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "問答集2：解答你對休謨的疑惑",
+        "FULLNAME": "an-faq-part-two-or-your-hume-questions-answered",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "赤鏈蛇之手",
+        "FULLNAME": "dinodon-s-hand",
+        "RATING": 8,
+        "COMMENTS": "2"
     }
 ]

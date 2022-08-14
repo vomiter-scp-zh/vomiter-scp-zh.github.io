@@ -382,5 +382,125 @@
         "FULLNAME": "stormsite19",
         "RATING": 13,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "朝鮮末路",
+        "FULLNAME": "joseon",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "頭條新聞",
+        "FULLNAME": "ripped-from-the-headlines",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "鑰匙先生嘆了口氣",
+        "FULLNAME": "mr-key-sighed",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1062-JP - 絞（幸）福論",
+        "FULLNAME": "scp-1062-jp",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-010-J",
+        "FULLNAME": "scp-010-j",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "暴牙男孩：一則童話",
+        "FULLNAME": "a-fairy-tale",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-132-JP-2 收容用紙",
+        "FULLNAME": "scp-132-jp-animation",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2113-JP - 然後閉上了眼睛",
+        "FULLNAME": "scp-2113-jp",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1280-JP - 休謨空洞",
+        "FULLNAME": "scp-1280-jp",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "一封遺書",
+        "FULLNAME": "a-suicide-note",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-231 - 特殊人員需求",
+        "FULLNAME": "adult:scp-231",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-5380 - 我的世界",
+        "FULLNAME": "scp-5380",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "未命名檔案",
+        "FULLNAME": "unnamed-file",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Meta小說",
+        "FULLNAME": "metafiction",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "問答集：所以休謨是什麼",
+        "FULLNAME": "and-this-one-explains-humes",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1740 - 樂園門禁",
+        "FULLNAME": "scp-1740",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "尋找█貓。",
+        "FULLNAME": "neko-sagashi",
+        "RATING": 16,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-1257-JP - 透潮",
+        "FULLNAME": "scp-1257-jp",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "RTa's Artwork",
+        "FULLNAME": "rta-s-artwork",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2085-JP 博士的 嚇一跳！箱子裡裝的是什麼呢？ 遊戲！",
+        "FULLNAME": "scp-2085-jp",
+        "RATING": 9,
+        "COMMENTS": "1"
     }
 ]

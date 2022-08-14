@@ -52,5 +52,47 @@
         "FULLNAME": "scp-2911-jp",
         "RATING": 22,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "1998年，初夏",
+        "FULLNAME": "early-summer-1998",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-1710-JP - 新 蕭邦・哥吉拉",
+        "FULLNAME": "scp-1710-jp",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3519 - 這些寧靜的日子",
+        "FULLNAME": "scp-3519",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "尋找█貓。",
+        "FULLNAME": "neko-sagashi",
+        "RATING": 16,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-2085-JP 博士的 嚇一跳！箱子裡裝的是什麼呢？ 遊戲！",
+        "FULLNAME": "scp-2085-jp",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1559-JP - 嵌入虛空",
+        "FULLNAME": "scp-1559-jp",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "格鲁烏\"P\"部門中心頁",
+        "FULLNAME": "gru-p-hub",
+        "RATING": 8,
+        "COMMENTS": "1"
     }
 ]

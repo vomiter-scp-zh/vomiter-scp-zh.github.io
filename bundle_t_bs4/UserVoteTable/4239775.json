@@ -520,5 +520,23 @@
         "FULLNAME": "scp-063-j",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "朝鮮末路",
+        "FULLNAME": "joseon",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-132-JP-2 收容用紙",
+        "FULLNAME": "scp-132-jp-animation",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "無盡月導眾",
+        "FULLNAME": "mujin-getsudo-hub",
+        "RATING": 6,
+        "COMMENTS": "0"
     }
 ]

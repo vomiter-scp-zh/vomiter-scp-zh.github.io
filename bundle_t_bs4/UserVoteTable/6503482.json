@@ -34,5 +34,65 @@
         "FULLNAME": "scp-2911-jp",
         "RATING": 22,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-3000 - 阿難陀舍沙",
+        "FULLNAME": "scp-3000",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "1998年，初夏",
+        "FULLNAME": "early-summer-1998",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-3074 - 卡夫卡停車場",
+        "FULLNAME": "scp-3074",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "未命名檔案",
+        "FULLNAME": "unnamed-file",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Meta小說",
+        "FULLNAME": "metafiction",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2828 - 逆模因器官",
+        "FULLNAME": "scp-2828",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1740 - 樂園門禁",
+        "FULLNAME": "scp-1740",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1184-JP - 多管閒事",
+        "FULLNAME": "scp-1184-jp",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "『安全次元移動裝置』（F3L57/HJ754/3W43G）",
+        "FULLNAME": "safe-dimension",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "尋找█貓。",
+        "FULLNAME": "neko-sagashi",
+        "RATING": 16,
+        "COMMENTS": "2"
     }
 ]

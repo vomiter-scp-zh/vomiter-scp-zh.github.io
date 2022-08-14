@@ -436,5 +436,29 @@
         "FULLNAME": "scp-106",
         "RATING": 13,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-666½-J",
+        "FULLNAME": "scp-666-and-a-half-j",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "［基於協議4000-Eshu而被限制］",
+        "FULLNAME": "taboo",
+        "RATING": 11,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-978 - 慾望相機",
+        "FULLNAME": "scp-978",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1633-JP - 三角座銀河系（M33, NGC598）上的恆星相撞現象",
+        "FULLNAME": "scp-1633-jp",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]

@@ -112,5 +112,23 @@
         "FULLNAME": "stormsite19",
         "RATING": 13,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1476 - 破碎鳥",
+        "FULLNAME": "scp-1476",
+        "RATING": 3,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "地下療法 中心頁",
+        "FULLNAME": "przyczajone-leczenie-hub",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1062-JP - 絞（幸）福論",
+        "FULLNAME": "scp-1062-jp",
+        "RATING": 12,
+        "COMMENTS": "0"
     }
 ]

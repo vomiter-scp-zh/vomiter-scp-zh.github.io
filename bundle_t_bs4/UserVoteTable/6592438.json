@@ -10,5 +10,11 @@
         "FULLNAME": "adult:iteration-f",
         "RATING": 9,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-JP系列",
+        "FULLNAME": "scp-series-jp",
+        "RATING": 1,
+        "COMMENTS": "0"
     }
 ]
