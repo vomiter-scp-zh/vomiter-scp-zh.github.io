@@ -78,6 +78,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-6666 - 惡魔赫克托爾與恐怖緹坦妮雅",
+        "FULLNAME": "scp-6666",
+        "RATING": 20,
+        "COMMENTS": "4"
+    },
+    {
         "TITLE": "我該怎樣把已發佈的文檔刪除？",
         "FULLNAME": "scp-309-j",
         "RATING": 19,
@@ -1192,11 +1198,5 @@
         "FULLNAME": "scp-5034",
         "RATING": 9,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-5929 - 從尿而來",
-        "FULLNAME": "scp-5929",
-        "RATING": 9,
-        "COMMENTS": "1"
     }
 ]

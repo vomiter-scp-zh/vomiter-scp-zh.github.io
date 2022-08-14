@@ -844,5 +844,11 @@
         "FULLNAME": "scp-6000",
         "RATING": 9,
         "COMMENTS": "10"
+    },
+    {
+        "TITLE": "SCP-545-KO",
+        "FULLNAME": "scp-545-ko",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]

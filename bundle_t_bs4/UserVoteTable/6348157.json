@@ -370,5 +370,11 @@
         "FULLNAME": "trigger-yourscp",
         "RATING": 8,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "E班的田中老師",
+        "FULLNAME": "ms-tanaka-redblue",
+        "RATING": 7,
+        "COMMENTS": "0"
     }
 ]

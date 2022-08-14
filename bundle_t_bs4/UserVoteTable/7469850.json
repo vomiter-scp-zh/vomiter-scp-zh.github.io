@@ -394,5 +394,53 @@
         "FULLNAME": "scp-3998",
         "RATING": 7,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-348 - 來自父親的禮物",
+        "FULLNAME": "scp-348",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2677 - 代碼混淆",
+        "FULLNAME": "scp-2677",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2023 - 艾多努斯的賠禮",
+        "FULLNAME": "scp-2023",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6666 - 惡魔赫克托爾與恐怖緹坦妮雅",
+        "FULLNAME": "scp-6666",
+        "RATING": 20,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-345-KO",
+        "FULLNAME": "scp-345-ko",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "E班的田中老師",
+        "FULLNAME": "ms-tanaka-redblue",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-545-KO",
+        "FULLNAME": "scp-545-ko",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3984 - 用棍棒戳死神",
+        "FULLNAME": "scp-3984",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]

@@ -508,5 +508,17 @@
         "FULLNAME": "scp-2003",
         "RATING": 5,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6666 - 惡魔赫克托爾與恐怖緹坦妮雅",
+        "FULLNAME": "scp-6666",
+        "RATING": 20,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-3984 - 用棍棒戳死神",
+        "FULLNAME": "scp-3984",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]

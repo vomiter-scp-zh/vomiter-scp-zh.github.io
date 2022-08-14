@@ -2602,5 +2602,17 @@
         "FULLNAME": "your-circuits-dead-theres-something-wrong",
         "RATING": 9,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-6666 - 惡魔赫克托爾與恐怖緹坦妮雅",
+        "FULLNAME": "scp-6666",
+        "RATING": 20,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "無盡月導眾的LOGO標誌",
+        "FULLNAME": "mujin-getsudo-logo",
+        "RATING": 2,
+        "COMMENTS": "0"
     }
 ]
