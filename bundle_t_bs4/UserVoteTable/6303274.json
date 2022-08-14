@@ -82,5 +82,11 @@
         "FULLNAME": "scp-4444",
         "RATING": 13,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-3908 - SCP-3908",
+        "FULLNAME": "scp-3908",
+        "RATING": 7,
+        "COMMENTS": "1"
     }
 ]

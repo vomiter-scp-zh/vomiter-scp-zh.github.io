@@ -616,5 +616,11 @@
         "FULLNAME": "adult:scp-6969",
         "RATING": 4,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "|| 你可以參觀肥皂王國美術館 ||",
+        "FULLNAME": "princesoap-artworks",
+        "RATING": 3,
+        "COMMENTS": "0"
     }
 ]

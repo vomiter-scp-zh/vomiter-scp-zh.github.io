@@ -484,5 +484,41 @@
         "FULLNAME": "scp-713-ko",
         "RATING": 5,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-061 - 聽覺精神控制",
+        "FULLNAME": "scp-061",
+        "RATING": 1,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3021 - Q=",
+        "FULLNAME": "scp-3021",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3908 - SCP-3908",
+        "FULLNAME": "scp-3908",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-047 - 微生物誘變劑",
+        "FULLNAME": "scp-047",
+        "RATING": 2,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "毀壞假面中心頁",
+        "FULLNAME": "broken-masquerade-hub",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Site-17深井目錄",
+        "FULLNAME": "site-17-hub",
+        "RATING": 7,
+        "COMMENTS": "1"
     }
 ]
