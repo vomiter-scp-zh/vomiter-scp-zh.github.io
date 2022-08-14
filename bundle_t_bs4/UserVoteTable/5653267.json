@@ -10,5 +10,29 @@
         "FULLNAME": "another-goddamn-magic-system",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "倫理委員會職前訓練",
+        "FULLNAME": "ethics-committee-orientation",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Macro 7happy7 提案 基金會之死",
+        "FULLNAME": "macro-7happy7-proposal",
+        "RATING": 28,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "dado的中心頁是的",
+        "FULLNAME": "dado-hub",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "更新版記憶消除劑指南",
+        "FULLNAME": "updated-amnestics-guide",
+        "RATING": 15,
+        "COMMENTS": "1"
     }
 ]

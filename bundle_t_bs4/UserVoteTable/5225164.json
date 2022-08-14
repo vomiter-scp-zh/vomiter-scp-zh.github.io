@@ -28,5 +28,113 @@
         "FULLNAME": "scp-240-jp",
         "RATING": 7,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-020 - 隱形黴菌",
+        "FULLNAME": "scp-020",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-013 - 藍色女士香煙",
+        "FULLNAME": "scp-013",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "機動特遣隊簡要列表",
+        "FULLNAME": "task-forces-complete-list",
+        "RATING": 10,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "多納泰羅的雕刻工具 約1409年",
+        "FULLNAME": "donatello-s-sculpting-tools-circa-1409",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Hk 016 的人事檔案",
+        "FULLNAME": "hk-016",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-050 - 致最聰明的人",
+        "FULLNAME": "scp-050",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-304 - 一個信號",
+        "FULLNAME": "scp-304",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-155 - 神速電腦",
+        "FULLNAME": "scp-155",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "●●|●●●●●|●●|●",
+        "FULLNAME": "scp-2521",
+        "RATING": 21,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "一封附有禮物的信",
+        "FULLNAME": "present-and-letter",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "銜尾蛇",
+        "FULLNAME": "ouroboros",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "The Based God(翻修中)",
+        "FULLNAME": "djkaktus",
+        "RATING": 4,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-276 - 時之船",
+        "FULLNAME": "scp-276",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2984 - 著火的女孩",
+        "FULLNAME": "scp-2984",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-682-J James 的塗鴉小冊子",
+        "FULLNAME": "scp-682-j-james-coloring-book",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "人事主管Bright的人事檔案",
+        "FULLNAME": "dr-bright-s-personnel-file",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "異常霍亂時期的慾望",
+        "FULLNAME": "adult:lust-in-the-time-of-anomalous-cholera",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "特曼庫拉市的安布羅斯餐廳",
+        "FULLNAME": "ambrose-temecula",
+        "RATING": 10,
+        "COMMENTS": "3"
     }
 ]

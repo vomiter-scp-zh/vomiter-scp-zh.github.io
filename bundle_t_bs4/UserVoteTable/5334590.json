@@ -10,5 +10,23 @@
         "FULLNAME": "another-goddamn-magic-system",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "倫理委員會職前訓練",
+        "FULLNAME": "ethics-committee-orientation",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "異常霍亂時期的慾望",
+        "FULLNAME": "adult:lust-in-the-time-of-anomalous-cholera",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "更新版記憶消除劑指南",
+        "FULLNAME": "updated-amnestics-guide",
+        "RATING": 15,
+        "COMMENTS": "1"
     }
 ]

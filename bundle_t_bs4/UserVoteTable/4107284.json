@@ -4,5 +4,65 @@
         "FULLNAME": "scp-173",
         "RATING": 61,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "倫理委員會職前訓練",
+        "FULLNAME": "ethics-committee-orientation",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "機動特遣隊簡要列表",
+        "FULLNAME": "task-forces-complete-list",
+        "RATING": 10,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "Lily的提案",
+        "FULLNAME": "lily-s-proposal",
+        "RATING": 17,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-2851 - 紅",
+        "FULLNAME": "scp-2851",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Macro 7happy7 提案 基金會之死",
+        "FULLNAME": "macro-7happy7-proposal",
+        "RATING": 28,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "djkaktus的提案II",
+        "FULLNAME": "djkaktus-s-proposal-ii",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-963 - 不朽",
+        "FULLNAME": "scp-963",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-076 -「亞伯」",
+        "FULLNAME": "scp-076",
+        "RATING": 10,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "Nexus中心頁",
+        "FULLNAME": "nexus-series",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "The Great Hippo 與 PeppersGhost 的提案",
+        "FULLNAME": "scp-001-ex",
+        "RATING": 17,
+        "COMMENTS": "2"
     }
 ]

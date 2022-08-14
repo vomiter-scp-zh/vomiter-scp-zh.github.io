@@ -4,5 +4,53 @@
         "FULLNAME": "scp-002",
         "RATING": 13,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-013 - 藍色女士香煙",
+        "FULLNAME": "scp-013",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP—j",
+        "FULLNAME": "scp-j",
+        "RATING": 22,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Lily的提案",
+        "FULLNAME": "lily-s-proposal",
+        "RATING": 17,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-048 - 被詛咒的SCP號碼",
+        "FULLNAME": "scp-048",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "dado的中心頁是的",
+        "FULLNAME": "dado-hub",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "有些人生於無盡的光明",
+        "FULLNAME": "endless-light",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "致我的員工",
+        "FULLNAME": "dad-please-it-isnt-funny",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Nexus中心頁",
+        "FULLNAME": "nexus-series",
+        "RATING": 7,
+        "COMMENTS": "2"
     }
 ]

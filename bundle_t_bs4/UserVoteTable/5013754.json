@@ -40,5 +40,83 @@
         "FULLNAME": "another-goddamn-magic-system",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "倫理委員會職前訓練",
+        "FULLNAME": "ethics-committee-orientation",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "機動特遣隊簡要列表",
+        "FULLNAME": "task-forces-complete-list",
+        "RATING": 10,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP—j",
+        "FULLNAME": "scp-j",
+        "RATING": 22,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Lily的提案",
+        "FULLNAME": "lily-s-proposal",
+        "RATING": 17,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Macro 7happy7 提案 基金會之死",
+        "FULLNAME": "macro-7happy7-proposal",
+        "RATING": 28,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-404-JP - Not found",
+        "FULLNAME": "scp-404-jp",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "djkaktus的提案II",
+        "FULLNAME": "djkaktus-s-proposal-ii",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3856 - 滅世之人，研究員Lloyd",
+        "FULLNAME": "scp-3856",
+        "RATING": 5,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "夢神廣播27號站",
+        "FULLNAME": "number-27-oneiroi-station",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "沉眠於眾星之下",
+        "FULLNAME": "sleep-beneath-the-stars",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "更新版記憶消除劑指南",
+        "FULLNAME": "updated-amnestics-guide",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Nexus中心頁",
+        "FULLNAME": "nexus-series",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "The Great Hippo 與 PeppersGhost 的提案",
+        "FULLNAME": "scp-001-ex",
+        "RATING": 17,
+        "COMMENTS": "2"
     }
 ]

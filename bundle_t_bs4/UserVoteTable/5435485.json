@@ -10,5 +10,35 @@
         "FULLNAME": "scp-240-jp",
         "RATING": 7,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP—j",
+        "FULLNAME": "scp-j",
+        "RATING": 22,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "dado的中心頁是的",
+        "FULLNAME": "dado-hub",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1841 - 應見的如此之多，未見的如此之多",
+        "FULLNAME": "scp-1841",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-408 - 幻象蝶",
+        "FULLNAME": "scp-408",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "代表作，又名為：為陳腔濫調辯護的斥責",
+        "FULLNAME": "magnum-opus-or-a-diatribe-in-defence-of-cliche",
+        "RATING": 7,
+        "COMMENTS": "1"
     }
 ]

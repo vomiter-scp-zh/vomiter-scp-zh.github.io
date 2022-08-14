@@ -4,5 +4,77 @@
         "FULLNAME": "lego-minithinkers-8y9d5-2x4h7-s89m2",
         "RATING": 3,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-013 - 藍色女士香煙",
+        "FULLNAME": "scp-013",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP—j",
+        "FULLNAME": "scp-j",
+        "RATING": 22,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-048 - 被詛咒的SCP號碼",
+        "FULLNAME": "scp-048",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1045 - 生命蠟燭",
+        "FULLNAME": "scp-1045",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Macro 7happy7 提案 基金會之死",
+        "FULLNAME": "macro-7happy7-proposal",
+        "RATING": 28,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2984 - 著火的女孩",
+        "FULLNAME": "scp-2984",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "代表作，又名為：為陳腔濫調辯護的斥責",
+        "FULLNAME": "magnum-opus-or-a-diatribe-in-defence-of-cliche",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "關於鹿學院",
+        "FULLNAME": "about-deer",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "馬賽克畫中的蜥蜴",
+        "FULLNAME": "the-lizard-in-the-mosaic",
+        "RATING": 4,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "別想拿200塊",
+        "FULLNAME": "do-not-collect-200",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "卑劣的 P'rantortiz",
+        "FULLNAME": "prantortiz-the-vile",
+        "RATING": 4,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "特曼庫拉市的安布羅斯餐廳",
+        "FULLNAME": "ambrose-temecula",
+        "RATING": 10,
+        "COMMENTS": "3"
     }
 ]

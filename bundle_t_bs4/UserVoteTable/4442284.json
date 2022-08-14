@@ -4,5 +4,131 @@
         "FULLNAME": "scp-004",
         "RATING": 5,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "倫理委員會職前訓練",
+        "FULLNAME": "ethics-committee-orientation",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP—j",
+        "FULLNAME": "scp-j",
+        "RATING": 22,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-524 - 饕餮兔威爾特",
+        "FULLNAME": "scp-524",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "●●|●●●●●|●●|●",
+        "FULLNAME": "scp-2521",
+        "RATING": 21,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-181 - 「幸運兒」",
+        "FULLNAME": "scp-181",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-984 - 公廁",
+        "FULLNAME": "scp-984",
+        "RATING": 2,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-790 - 血？",
+        "FULLNAME": "scp-790",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-390 - 古老致命之光",
+        "FULLNAME": "scp-390",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2172 - 永遠的紅燈",
+        "FULLNAME": "scp-2172",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "dado的中心頁是的",
+        "FULLNAME": "dado-hub",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2984 - 著火的女孩",
+        "FULLNAME": "scp-2984",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-682-J James 的塗鴉小冊子",
+        "FULLNAME": "scp-682-j-james-coloring-book",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-707 - 套娃",
+        "FULLNAME": "scp-707",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-116 - 脆弱男孩",
+        "FULLNAME": "scp-116",
+        "RATING": 5,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-151 - 一幅畫作",
+        "FULLNAME": "scp-151",
+        "RATING": 4,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-1841 - 應見的如此之多，未見的如此之多",
+        "FULLNAME": "scp-1841",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-408 - 幻象蝶",
+        "FULLNAME": "scp-408",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "代表作，又名為：為陳腔濫調辯護的斥責",
+        "FULLNAME": "magnum-opus-or-a-diatribe-in-defence-of-cliche",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "有些人生於無盡的光明",
+        "FULLNAME": "endless-light",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "更新版記憶消除劑指南",
+        "FULLNAME": "updated-amnestics-guide",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "The Great Hippo 與 PeppersGhost 的提案",
+        "FULLNAME": "scp-001-ex",
+        "RATING": 17,
+        "COMMENTS": "2"
     }
 ]

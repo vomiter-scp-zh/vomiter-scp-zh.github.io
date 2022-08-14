@@ -28,5 +28,29 @@
         "FULLNAME": "scp-008",
         "RATING": 7,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Lily的提案",
+        "FULLNAME": "lily-s-proposal",
+        "RATING": 17,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "異常霍亂時期的慾望",
+        "FULLNAME": "adult:lust-in-the-time-of-anomalous-cholera",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "馬賽克畫中的蜥蜴",
+        "FULLNAME": "the-lizard-in-the-mosaic",
+        "RATING": 4,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "有些人生於無盡的光明",
+        "FULLNAME": "endless-light",
+        "RATING": 7,
+        "COMMENTS": "1"
     }
 ]

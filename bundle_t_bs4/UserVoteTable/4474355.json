@@ -4,5 +4,47 @@
         "FULLNAME": "spc-hub",
         "RATING": 3,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-524 - 饕餮兔威爾特",
+        "FULLNAME": "scp-524",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "●●|●●●●●|●●|●",
+        "FULLNAME": "scp-2521",
+        "RATING": 21,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "銜尾蛇",
+        "FULLNAME": "ouroboros",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-063 -「世界上最好用的牙刷」",
+        "FULLNAME": "scp-063",
+        "RATING": 6,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "Macro 7happy7 提案 基金會之死",
+        "FULLNAME": "macro-7happy7-proposal",
+        "RATING": 28,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-073 - 「該隱」",
+        "FULLNAME": "scp-073",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "The Great Hippo 與 PeppersGhost 的提案",
+        "FULLNAME": "scp-001-ex",
+        "RATING": 17,
+        "COMMENTS": "2"
     }
 ]

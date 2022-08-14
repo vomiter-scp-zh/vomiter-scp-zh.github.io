@@ -4,5 +4,35 @@
         "FULLNAME": "scp-173",
         "RATING": 61,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-149 - 血蠅",
+        "FULLNAME": "scp-149",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SPC-1057-J",
+        "FULLNAME": "spc-1057-j",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-312 - 空中水母",
+        "FULLNAME": "scp-312",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-404-JP - Not found",
+        "FULLNAME": "scp-404-jp",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2443 - 齊齊整整一家人",
+        "FULLNAME": "scp-2443",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]

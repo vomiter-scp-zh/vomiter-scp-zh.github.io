@@ -16,5 +16,59 @@
         "FULLNAME": "another-goddamn-magic-system",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Lily的提案",
+        "FULLNAME": "lily-s-proposal",
+        "RATING": 17,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "一封附有禮物的信",
+        "FULLNAME": "present-and-letter",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "威爾遜生物應對組中心頁",
+        "FULLNAME": "wilson-s-wildlife-solutions-hub",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1841 - 應見的如此之多，未見的如此之多",
+        "FULLNAME": "scp-1841",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "代表作，又名為：為陳腔濫調辯護的斥責",
+        "FULLNAME": "magnum-opus-or-a-diatribe-in-defence-of-cliche",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "致我的員工",
+        "FULLNAME": "dad-please-it-isnt-funny",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "偶聞鹿鳴",
+        "FULLNAME": "the-seltzorcism",
+        "RATING": 4,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "鹿學院學生手冊",
+        "FULLNAME": "deer-college-hub",
+        "RATING": 6,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "特曼庫拉市的安布羅斯餐廳",
+        "FULLNAME": "ambrose-temecula",
+        "RATING": 10,
+        "COMMENTS": "3"
     }
 ]

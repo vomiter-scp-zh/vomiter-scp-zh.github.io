@@ -28,5 +28,53 @@
         "FULLNAME": "scp-008",
         "RATING": 7,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "機動特遣隊簡要列表",
+        "FULLNAME": "task-forces-complete-list",
+        "RATING": 10,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP—j",
+        "FULLNAME": "scp-j",
+        "RATING": 22,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SPC-1057-J",
+        "FULLNAME": "spc-1057-j",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Lily的提案",
+        "FULLNAME": "lily-s-proposal",
+        "RATING": 17,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "●●|●●●●●|●●|●",
+        "FULLNAME": "scp-2521",
+        "RATING": 21,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-133 - 便攜洞穴",
+        "FULLNAME": "scp-133",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Macro 7happy7 提案 基金會之死",
+        "FULLNAME": "macro-7happy7-proposal",
+        "RATING": 28,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-666-J",
+        "FULLNAME": "scp-666-j",
+        "RATING": 9,
+        "COMMENTS": "1"
     }
 ]
