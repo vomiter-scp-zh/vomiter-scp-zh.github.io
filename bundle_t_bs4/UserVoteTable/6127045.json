@@ -28,5 +28,29 @@
         "FULLNAME": "scp-049",
         "RATING": 18,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Mackenzie博士的作家觀念指南",
+        "FULLNAME": "mackenzie-stereotypes",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "K級情景總表",
+        "FULLNAME": "k-class-complete-list",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5000 - 為什麼？",
+        "FULLNAME": "scp-5000",
+        "RATING": 27,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-106 - 詭厄老者",
+        "FULLNAME": "scp-106",
+        "RATING": 13,
+        "COMMENTS": "1"
     }
 ]

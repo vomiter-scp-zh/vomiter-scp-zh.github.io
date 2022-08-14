@@ -106,5 +106,29 @@
         "FULLNAME": "scp-420-j",
         "RATING": 12,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "將圈與叉並列",
+        "FULLNAME": "tictactoe",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "王已死",
+        "FULLNAME": "the-king-is-dead",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2911-JP - 美國最漫長的一天",
+        "FULLNAME": "scp-2911-jp",
+        "RATING": 22,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "ОУС：熱線",
+        "FULLNAME": "scp-hotline",
+        "RATING": 8,
+        "COMMENTS": "1"
     }
 ]

@@ -88,5 +88,71 @@
         "FULLNAME": "i-am-the-organisation",
         "RATING": 9,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "洗標：藍-2013 ※俗稱「桑名博士」",
+        "FULLNAME": "blue-2013",
+        "RATING": 16,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "模因及資訊危害部門講座",
+        "FULLNAME": "memetics-and-infohazards-division-orientation",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-1800-RU-J",
+        "FULLNAME": "scp-1800-ru-j",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "內部法庭部門",
+        "FULLNAME": "tribunal",
+        "RATING": 8,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "MTF與維安團隊的基礎設備",
+        "FULLNAME": "vehicle-list",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-5409 - 無法安撫",
+        "FULLNAME": "scp-5409",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5000 - 為什麼？",
+        "FULLNAME": "scp-5000",
+        "RATING": 27,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-2911-JP - 美國最漫長的一天",
+        "FULLNAME": "scp-2911-jp",
+        "RATING": 22,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "The “F” 10月號",
+        "FULLNAME": "the-f",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "ОУС：熱線",
+        "FULLNAME": "scp-hotline",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-044 - 二戰核分子裂變炮",
+        "FULLNAME": "scp-044",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]

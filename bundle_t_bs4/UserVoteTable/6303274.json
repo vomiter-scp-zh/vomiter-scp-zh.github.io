@@ -46,5 +46,17 @@
         "FULLNAME": "scp-024",
         "RATING": 3,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-5000 - 為什麼？",
+        "FULLNAME": "scp-5000",
+        "RATING": 27,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-106 - 詭厄老者",
+        "FULLNAME": "scp-106",
+        "RATING": 13,
+        "COMMENTS": "1"
     }
 ]

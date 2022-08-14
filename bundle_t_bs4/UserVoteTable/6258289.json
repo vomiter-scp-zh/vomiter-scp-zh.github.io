@@ -70,5 +70,35 @@
         "FULLNAME": "scp-1922-j",
         "RATING": 8,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "模因及資訊危害部門講座",
+        "FULLNAME": "memetics-and-infohazards-division-orientation",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-2616-JP - 雪中送炭",
+        "FULLNAME": "scp-2616-jp",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-2144-JP - 嗨！那邊的你！說你呢！別傻看著頁面，你能點一下這裡的連結嗎？",
+        "FULLNAME": "scp-2144-jp",
+        "RATING": 14,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-5000 - 為什麼？",
+        "FULLNAME": "scp-5000",
+        "RATING": 27,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-2911-JP - 美國最漫長的一天",
+        "FULLNAME": "scp-2911-jp",
+        "RATING": 22,
+        "COMMENTS": "2"
     }
 ]

@@ -52,5 +52,29 @@
         "FULLNAME": "parawatch-hub",
         "RATING": 8,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2048-JP - 普通的硬幣",
+        "FULLNAME": "scp-2048-jp",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5000 - 為什麼？",
+        "FULLNAME": "scp-5000",
+        "RATING": 27,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-1645-JP - 祝賀 達成9999天██町零交通死亡紀錄",
+        "FULLNAME": "scp-1645-jp",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2041-JP - 基金會感染病房Q5！蒼白的末期患者與絕望的醫院",
+        "FULLNAME": "scp-2041-jp",
+        "RATING": 9,
+        "COMMENTS": "2"
     }
 ]

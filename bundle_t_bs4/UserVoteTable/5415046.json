@@ -166,5 +166,59 @@
         "FULLNAME": "old-family-recipe",
         "RATING": 6,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2048-JP - 普通的硬幣",
+        "FULLNAME": "scp-2048-jp",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-011-J",
+        "FULLNAME": "scp-011-j",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "於生命的魔掌中",
+        "FULLNAME": "in-the-clutches-of-life",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2911-JP - 美國最漫長的一天",
+        "FULLNAME": "scp-2911-jp",
+        "RATING": 22,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "The “F” 10月號",
+        "FULLNAME": "the-f",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "ОУС：熱線",
+        "FULLNAME": "scp-hotline",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1645-JP - 祝賀 達成9999天██町零交通死亡紀錄",
+        "FULLNAME": "scp-1645-jp",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2041-JP - 基金會感染病房Q5！蒼白的末期患者與絕望的醫院",
+        "FULLNAME": "scp-2041-jp",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-106 - 詭厄老者",
+        "FULLNAME": "scp-106",
+        "RATING": 13,
+        "COMMENTS": "1"
     }
 ]

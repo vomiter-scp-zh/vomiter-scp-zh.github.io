@@ -16,5 +16,17 @@
         "FULLNAME": "scp-1399-ru",
         "RATING": 6,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1052-RU - 具有歷史記憶的劍",
+        "FULLNAME": "scp-1052-ru",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2911-JP - 美國最漫長的一天",
+        "FULLNAME": "scp-2911-jp",
+        "RATING": 22,
+        "COMMENTS": "2"
     }
 ]

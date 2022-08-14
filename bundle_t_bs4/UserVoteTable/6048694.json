@@ -178,5 +178,47 @@
         "FULLNAME": "scp-1638-j",
         "RATING": 6,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "「我不幹了。」",
+        "FULLNAME": "iquit",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SPC-001",
+        "FULLNAME": "spc-001",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-2144-JP - 嗨！那邊的你！說你呢！別傻看著頁面，你能點一下這裡的連結嗎？",
+        "FULLNAME": "scp-2144-jp",
+        "RATING": 14,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-063-J",
+        "FULLNAME": "scp-063-j",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5000 - 為什麼？",
+        "FULLNAME": "scp-5000",
+        "RATING": 27,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "約會之夜",
+        "FULLNAME": "date-night",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "飛向星辰",
+        "FULLNAME": "star-bound",
+        "RATING": 7,
+        "COMMENTS": "0"
     }
 ]

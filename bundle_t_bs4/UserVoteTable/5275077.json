@@ -94,5 +94,23 @@
         "FULLNAME": "scp-882",
         "RATING": 8,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-044 - 二戰核分子裂變炮",
+        "FULLNAME": "scp-044",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "飛向星辰",
+        "FULLNAME": "star-bound",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "#攻佔Site-19",
+        "FULLNAME": "stormsite19",
+        "RATING": 13,
+        "COMMENTS": "0"
     }
 ]

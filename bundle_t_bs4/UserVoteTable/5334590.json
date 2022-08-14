@@ -436,5 +436,89 @@
         "FULLNAME": "critter-profile-zargoth",
         "RATING": 12,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3041 - 紅刀",
+        "FULLNAME": "scp-3041",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "UIU職前訓練",
+        "FULLNAME": "uiu-orientation",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-040 - 變異之子",
+        "FULLNAME": "scp-040",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "K級情景總表",
+        "FULLNAME": "k-class-complete-list",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2616-JP - 雪中送炭",
+        "FULLNAME": "scp-2616-jp",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-5000 - 為什麼？",
+        "FULLNAME": "scp-5000",
+        "RATING": 27,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "奧海",
+        "FULLNAME": "ojai",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2911-JP - 美國最漫長的一天",
+        "FULLNAME": "scp-2911-jp",
+        "RATING": 22,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-",
+        "FULLNAME": "scp-5251",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-106 - 詭厄老者",
+        "FULLNAME": "scp-106",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "約會之夜",
+        "FULLNAME": "date-night",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-871 - 自我複製蛋糕",
+        "FULLNAME": "scp-871",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-052 - 時空穿梭列車",
+        "FULLNAME": "scp-052",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "#攻佔Site-19",
+        "FULLNAME": "stormsite19",
+        "RATING": 13,
+        "COMMENTS": "0"
     }
 ]

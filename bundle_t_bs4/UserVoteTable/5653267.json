@@ -214,5 +214,35 @@
         "FULLNAME": "critter-profile-zargoth",
         "RATING": 12,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Mackenzie博士的作家觀念指南",
+        "FULLNAME": "mackenzie-stereotypes",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "洗標：藍-2013 ※俗稱「桑名博士」",
+        "FULLNAME": "blue-2013",
+        "RATING": 16,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "K級情景總表",
+        "FULLNAME": "k-class-complete-list",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "泛空（中心頁）",
+        "FULLNAME": "white-space-hub",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "#攻佔Site-19",
+        "FULLNAME": "stormsite19",
+        "RATING": 13,
+        "COMMENTS": "0"
     }
 ]

@@ -76,5 +76,35 @@
         "FULLNAME": "your-last-first-day",
         "RATING": 9,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "珍貴的家族時光",
+        "FULLNAME": "serrasbadday",
+        "RATING": 5,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "「我不幹了。」",
+        "FULLNAME": "iquit",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5706 - 無界天際SpeedRun大爆笑！！！（出大事了！）居然色色的！！{不是內容農場！！！}",
+        "FULLNAME": "scp-5706",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5805 - 不能回頭了",
+        "FULLNAME": "scp-5805",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Clef與Dimitri上路了",
+        "FULLNAME": "clef-and-dimitri-hit-the-road",
+        "RATING": 10,
+        "COMMENTS": "0"
     }
 ]

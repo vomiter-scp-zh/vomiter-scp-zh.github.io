@@ -40,5 +40,17 @@
         "FULLNAME": "scp-3300",
         "RATING": 6,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2616-JP - 雪中送炭",
+        "FULLNAME": "scp-2616-jp",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-2911-JP - 美國最漫長的一天",
+        "FULLNAME": "scp-2911-jp",
+        "RATING": 22,
+        "COMMENTS": "2"
     }
 ]

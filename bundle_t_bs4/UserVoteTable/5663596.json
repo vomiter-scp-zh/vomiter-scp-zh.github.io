@@ -46,5 +46,17 @@
         "FULLNAME": "chowderclef",
         "RATING": 14,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "「我不幹了。」",
+        "FULLNAME": "iquit",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "將圈與叉並列",
+        "FULLNAME": "tictactoe",
+        "RATING": 6,
+        "COMMENTS": "0"
     }
 ]

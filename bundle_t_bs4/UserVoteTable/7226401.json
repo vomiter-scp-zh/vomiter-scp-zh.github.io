@@ -184,5 +184,29 @@
         "FULLNAME": "scp-420-j",
         "RATING": 12,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3041 - 紅刀",
+        "FULLNAME": "scp-3041",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-011-J",
+        "FULLNAME": "scp-011-j",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-063-J",
+        "FULLNAME": "scp-063-j",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-871 - 自我複製蛋糕",
+        "FULLNAME": "scp-871",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]

@@ -30,6 +30,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-5000 - 為什麼？",
+        "FULLNAME": "scp-5000",
+        "RATING": 27,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "SCP-682 - 不滅孽蜥",
         "FULLNAME": "scp-682",
         "RATING": 24,
@@ -46,6 +52,12 @@
         "FULLNAME": "djkaktus-regarding-covid-19",
         "RATING": 22,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2911-JP - 美國最漫長的一天",
+        "FULLNAME": "scp-2911-jp",
+        "RATING": 22,
+        "COMMENTS": "2"
     },
     {
         "TITLE": "●●|●●●●●|●●|●",
@@ -94,6 +106,12 @@
         "FULLNAME": "gengo",
         "RATING": 16,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "洗標：藍-2013 ※俗稱「桑名博士」",
+        "FULLNAME": "blue-2013",
+        "RATING": 16,
+        "COMMENTS": "3"
     },
     {
         "TITLE": "更新版記憶消除劑指南",
@@ -150,6 +168,12 @@
         "COMMENTS": "3"
     },
     {
+        "TITLE": "SCP-2144-JP - 嗨！那邊的你！說你呢！別傻看著頁面，你能點一下這裡的連結嗎？",
+        "FULLNAME": "scp-2144-jp",
+        "RATING": 14,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "SCP-002 - 生「活」起居室",
         "FULLNAME": "scp-002",
         "RATING": 13,
@@ -184,6 +208,24 @@
         "FULLNAME": "yonedu-gensui",
         "RATING": 13,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "「我不幹了。」",
+        "FULLNAME": "iquit",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-106 - 詭厄老者",
+        "FULLNAME": "scp-106",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "#攻佔Site-19",
+        "FULLNAME": "stormsite19",
+        "RATING": 13,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "dado的中心頁是的",
@@ -270,6 +312,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-1645-JP - 祝賀 達成9999天██町零交通死亡紀錄",
+        "FULLNAME": "scp-1645-jp",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-050 - 致最聰明的人",
         "FULLNAME": "scp-050",
         "RATING": 11,
@@ -340,6 +388,18 @@
         "FULLNAME": "scp-001-ex-j",
         "RATING": 11,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2616-JP - 雪中送炭",
+        "FULLNAME": "scp-2616-jp",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "約會之夜",
+        "FULLNAME": "date-night",
+        "RATING": 11,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "魔法講座",
@@ -466,6 +526,30 @@
         "FULLNAME": "insertjokeinurlhere",
         "RATING": 10,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-3041 - 紅刀",
+        "FULLNAME": "scp-3041",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Clef與Dimitri上路了",
+        "FULLNAME": "clef-and-dimitri-hit-the-road",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-063-J",
+        "FULLNAME": "scp-063-j",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-",
+        "FULLNAME": "scp-5251",
+        "RATING": 10,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-682-J James 的塗鴉小冊子",
@@ -646,6 +730,36 @@
         "FULLNAME": "your-last-first-day",
         "RATING": 9,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "UIU職前訓練",
+        "FULLNAME": "uiu-orientation",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2048-JP - 普通的硬幣",
+        "FULLNAME": "scp-2048-jp",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "模因及資訊危害部門講座",
+        "FULLNAME": "memetics-and-infohazards-division-orientation",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "K級情景總表",
+        "FULLNAME": "k-class-complete-list",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2041-JP - 基金會感染病房Q5！蒼白的末期患者與絕望的醫院",
+        "FULLNAME": "scp-2041-jp",
+        "RATING": 9,
+        "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-048 - 被詛咒的SCP號碼",
@@ -844,6 +958,30 @@
         "FULLNAME": "scp-1922-j",
         "RATING": 8,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "內部法庭部門",
+        "FULLNAME": "tribunal",
+        "RATING": 8,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "MTF與維安團隊的基礎設備",
+        "FULLNAME": "vehicle-list",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-5409 - 無法安撫",
+        "FULLNAME": "scp-5409",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "ОУС：熱線",
+        "FULLNAME": "scp-hotline",
+        "RATING": 8,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-240-JP - 零隻蝗蟲",
@@ -1060,143 +1198,5 @@
         "FULLNAME": "scp-1711-ru",
         "RATING": 7,
         "COMMENTS": "3"
-    },
-    {
-        "TITLE": "SCP-033 - 丟失的數字",
-        "FULLNAME": "scp-033",
-        "RATING": 7,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "愛為何物？",
-        "FULLNAME": "whatislove",
-        "RATING": 7,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "幫幫我，我(對我)女兒(的愛)生來太過安靜",
-        "FULLNAME": "the-sky-carries-the-brightness-of-your-smile",
-        "RATING": 7,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-4357-J",
-        "FULLNAME": "scp-4357-j",
-        "RATING": 7,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "與Bright共度的夜晚",
-        "FULLNAME": "an-evening-with-bright",
-        "RATING": 7,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "盲目約會",
-        "FULLNAME": "blinddate",
-        "RATING": 7,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "第三次約會",
-        "FULLNAME": "just-fuck-it-up-irl",
-        "RATING": 7,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "夢見科技 Logo設計歷程",
-        "FULLNAME": "yumemi-technology-com-company-history-logo",
-        "RATING": 7,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "宛若漆黑洞中之闇",
-        "FULLNAME": "jet-black",
-        "RATING": 7,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-007 - 內腹行星",
-        "FULLNAME": "scp-007",
-        "RATING": 6,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "高座計劃-1942",
-        "FULLNAME": "project-koza",
-        "RATING": 6,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-020 - 隱形黴菌",
-        "FULLNAME": "scp-020",
-        "RATING": 6,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-063 -「世界上最好用的牙刷」",
-        "FULLNAME": "scp-063",
-        "RATING": 6,
-        "COMMENTS": "4"
-    },
-    {
-        "TITLE": "SCP-390 - 古老致命之光",
-        "FULLNAME": "scp-390",
-        "RATING": 6,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "威爾遜生物應對組中心頁",
-        "FULLNAME": "wilson-s-wildlife-solutions-hub",
-        "RATING": 6,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "人事主管Bright的人事檔案",
-        "FULLNAME": "dr-bright-s-personnel-file",
-        "RATING": 6,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "致我的員工",
-        "FULLNAME": "dad-please-it-isnt-funny",
-        "RATING": 6,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "鹿學院學生手冊",
-        "FULLNAME": "deer-college-hub",
-        "RATING": 6,
-        "COMMENTS": "4"
-    },
-    {
-        "TITLE": "伴月星恆",
-        "FULLNAME": "the-moons-stellar-companion",
-        "RATING": 6,
-        "COMMENTS": "4"
-    },
-    {
-        "TITLE": "威脅級別",
-        "FULLNAME": "niveaux-de-menace-des-objets-scp",
-        "RATING": 6,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "噢，我感覺到了，我感覺到了整個宇宙！",
-        "FULLNAME": "oh-i-feel-it-i-feel-the-cosmos",
-        "RATING": 6,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "聖誕快樂",
-        "FULLNAME": "yuletide-joy",
-        "RATING": 6,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "第十五號匿名捐贈品",
-        "FULLNAME": "fifteenth-anonymous-donation",
-        "RATING": 6,
-        "COMMENTS": "2"
     }
 ]

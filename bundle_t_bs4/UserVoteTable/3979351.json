@@ -748,5 +748,47 @@
         "FULLNAME": "yonedu-gensui",
         "RATING": 13,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "扶桑紀 中心頁",
+        "FULLNAME": "fusouki",
+        "RATING": 6,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "UIU職前訓練",
+        "FULLNAME": "uiu-orientation",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "洗標：藍-2013 ※俗稱「桑名博士」",
+        "FULLNAME": "blue-2013",
+        "RATING": 16,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-1005-RU - 洗錢機",
+        "FULLNAME": "scp-1005-ru",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5000 - 為什麼？",
+        "FULLNAME": "scp-5000",
+        "RATING": 27,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-2911-JP - 美國最漫長的一天",
+        "FULLNAME": "scp-2911-jp",
+        "RATING": 22,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "並未消逝",
+        "FULLNAME": "not-fade-away",
+        "RATING": 5,
+        "COMMENTS": "1"
     }
 ]

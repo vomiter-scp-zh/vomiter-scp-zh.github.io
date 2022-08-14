@@ -418,5 +418,23 @@
         "FULLNAME": "yonedu-gensui",
         "RATING": 13,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3695 - 衝浪板",
+        "FULLNAME": "scp-3695",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2041-JP - 基金會感染病房Q5！蒼白的末期患者與絕望的醫院",
+        "FULLNAME": "scp-2041-jp",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-106 - 詭厄老者",
+        "FULLNAME": "scp-106",
+        "RATING": 13,
+        "COMMENTS": "1"
     }
 ]
