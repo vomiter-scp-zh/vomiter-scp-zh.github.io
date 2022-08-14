@@ -40,5 +40,17 @@
         "FULLNAME": "impossible-to-destroy-reptile",
         "RATING": 8,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4517 - 不是很 𝒩",
+        "FULLNAME": "scp-4517",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "我的頭著火了，我很（不）好",
+        "FULLNAME": "my-head-is-on-fire-and-im-not-ok",
+        "RATING": 8,
+        "COMMENTS": "1"
     }
 ]

@@ -28,5 +28,17 @@
         "FULLNAME": "critter-profile-bakugo",
         "RATING": 5,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "認養海報：Bandit！",
+        "FULLNAME": "adoption-poster-bandit",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "你的首篇SCP之路：第一章 — 引言與點子發想",
+        "FULLNAME": "yourjouney-part-1",
+        "RATING": 9,
+        "COMMENTS": "0"
     }
 ]

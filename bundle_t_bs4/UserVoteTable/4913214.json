@@ -40,5 +40,11 @@
         "FULLNAME": "fly-agaric",
         "RATING": 5,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "Pedantique的提案",
+        "FULLNAME": "pedantique-s-proposal",
+        "RATING": 11,
+        "COMMENTS": "1"
     }
 ]

@@ -76,5 +76,35 @@
         "FULLNAME": "scp-049-d",
         "RATING": 4,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "來自貓宇宙的九條故事",
+        "FULLNAME": "nine-tales-from-the-cativerse",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Pedantique的提案",
+        "FULLNAME": "pedantique-s-proposal",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-200-JP - 會沉的黃色鴨鴨",
+        "FULLNAME": "scp-200-jp",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "版本 F",
+        "FULLNAME": "adult:iteration-f",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "D級人員簡易搜索系統",
+        "FULLNAME": "dclass-search",
+        "RATING": 10,
+        "COMMENTS": "3"
     }
 ]

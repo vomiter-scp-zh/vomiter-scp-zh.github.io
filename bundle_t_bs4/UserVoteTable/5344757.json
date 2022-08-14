@@ -58,5 +58,125 @@
         "FULLNAME": "scp-031",
         "RATING": 6,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4127 - 硬幣正或反",
+        "FULLNAME": "scp-4127",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-169 - 利維坦",
+        "FULLNAME": "scp-169",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1307 - 削人肉鉛筆機",
+        "FULLNAME": "scp-1307",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "弄懂模因學",
+        "FULLNAME": "understanding-memetics",
+        "RATING": 7,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "「老梗項目構思」清單",
+        "FULLNAME": "the-big-list-of-overdone-scp-cliches",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Pedantique的提案",
+        "FULLNAME": "pedantique-s-proposal",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "所以你想寫一個人形SCP項目",
+        "FULLNAME": "so-you-want-to-write-a-humanoid-scp-object",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1322-J",
+        "FULLNAME": "scp-1322-j",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-200-JP - 會沉的黃色鴨鴨",
+        "FULLNAME": "scp-200-jp",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-814 - 純音",
+        "FULLNAME": "scp-814",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "D級人員招募",
+        "FULLNAME": "class-d-recruiting",
+        "RATING": 13,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "我的頭著火了，我很（不）好",
+        "FULLNAME": "my-head-is-on-fire-and-im-not-ok",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "來自 SCP-046-ARC (更為人知的名字是大屌 Richard Chappell) 收容室的智慧小語",
+        "FULLNAME": "big-dick-chappell",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1208 - 鬆餅大師3000",
+        "FULLNAME": "scp-1208",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "專業寫作與你",
+        "FULLNAME": "technical-writing",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-355 - 鋸刃草皮",
+        "FULLNAME": "scp-355",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "D級人員簡易搜索系統",
+        "FULLNAME": "dclass-search",
+        "RATING": 10,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "你的首篇SCP之路：第二章 — 故事構成與原創性",
+        "FULLNAME": "yourjouney-part-2",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-330 - 只能拿兩個",
+        "FULLNAME": "scp-330",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "不是競賽作品，只是篇關於諸神的搞笑文",
+        "FULLNAME": "party-of-gods",
+        "RATING": 17,
+        "COMMENTS": "1"
     }
 ]

@@ -16,5 +16,17 @@
         "FULLNAME": "doctors-of-the-church-hub",
         "RATING": 7,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-50-AE-J",
+        "FULLNAME": "scp-50-ae-j",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-529 - 半貓Josie",
+        "FULLNAME": "scp-529",
+        "RATING": 8,
+        "COMMENTS": "1"
     }
 ]

@@ -154,5 +154,161 @@
         "FULLNAME": "restless-dreams",
         "RATING": 5,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "疏通多元宇宙的廢棄物",
+        "FULLNAME": "lake-ontario-array",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Pedantique的提案",
+        "FULLNAME": "pedantique-s-proposal",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "所以你想寫一個人形SCP項目",
+        "FULLNAME": "so-you-want-to-write-a-humanoid-scp-object",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Kondraki博士的人事檔案",
+        "FULLNAME": "dr-kondraki-s-personnel-file",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4517 - 不是很 𝒩",
+        "FULLNAME": "scp-4517",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1322-J",
+        "FULLNAME": "scp-1322-j",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-200-JP - 會沉的黃色鴨鴨",
+        "FULLNAME": "scp-200-jp",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "D級人員招募",
+        "FULLNAME": "class-d-recruiting",
+        "RATING": 13,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "俄分著作權法相關解釋（20/6/2019）",
+        "FULLNAME": "russian-branch-sub-copyright-law",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "我的頭著火了，我很（不）好",
+        "FULLNAME": "my-head-is-on-fire-and-im-not-ok",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "來自 SCP-046-ARC (更為人知的名字是大屌 Richard Chappell) 收容室的智慧小語",
+        "FULLNAME": "big-dick-chappell",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4311 - 我在乎你。",
+        "FULLNAME": "scp-4311",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "NICO的圖像授權、來源與其他深奧的東西之指南",
+        "FULLNAME": "guia-licencias-de-archivos",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2",
+        "FULLNAME": "scp-2",
+        "RATING": 6,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-4145 - 解離夢療法™",
+        "FULLNAME": "scp-4145",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1408 - 維多利亞時代的記憶重寫器",
+        "FULLNAME": "scp-1408",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "相嘯魔解密",
+        "FULLNAME": "scpdeclassified-pattern-screamers-declassified",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-733 - 一對剪刀",
+        "FULLNAME": "scp-733",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-830 - 漆黑流沙",
+        "FULLNAME": "scp-830",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1208 - 鬆餅大師3000",
+        "FULLNAME": "scp-1208",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "專業寫作與你",
+        "FULLNAME": "technical-writing",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-529 - 半貓Josie",
+        "FULLNAME": "scp-529",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "你的首篇SCP之路：第一章 — 引言與點子發想",
+        "FULLNAME": "yourjouney-part-1",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "你的首篇SCP之路：第二章 — 故事構成與原創性",
+        "FULLNAME": "yourjouney-part-2",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Cool之戰",
+        "FULLNAME": "the-cool-war-hub",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "不是競賽作品，只是篇關於諸神的搞笑文",
+        "FULLNAME": "party-of-gods",
+        "RATING": 17,
+        "COMMENTS": "1"
     }
 ]

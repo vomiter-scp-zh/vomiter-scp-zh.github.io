@@ -58,5 +58,29 @@
         "FULLNAME": "th-canon-hub",
         "RATING": 5,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1154 - 概念之龍",
+        "FULLNAME": "scp-1154",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Pedantique的提案",
+        "FULLNAME": "pedantique-s-proposal",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "所以你想寫一個人形SCP項目",
+        "FULLNAME": "so-you-want-to-write-a-humanoid-scp-object",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "D級人員簡易搜索系統",
+        "FULLNAME": "dclass-search",
+        "RATING": 10,
+        "COMMENTS": "3"
     }
 ]

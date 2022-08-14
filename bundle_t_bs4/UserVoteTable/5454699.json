@@ -40,5 +40,17 @@
         "FULLNAME": "scp-309-j",
         "RATING": 19,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4311 - 我在乎你。",
+        "FULLNAME": "scp-4311",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-500 - 萬靈藥",
+        "FULLNAME": "scp-500",
+        "RATING": 11,
+        "COMMENTS": "0"
     }
 ]

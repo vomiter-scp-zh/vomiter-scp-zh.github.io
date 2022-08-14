@@ -82,5 +82,47 @@
         "FULLNAME": "nobody-in-trouble",
         "RATING": 5,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "赫曼·富勒的展出：高貴的瑪雅",
+        "FULLNAME": "maya-the-magnificent",
+        "RATING": 4,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-4930 - 列儂/麥卡特尼",
+        "FULLNAME": "scp-4930",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "俄分著作權法相關解釋（20/6/2019）",
+        "FULLNAME": "russian-branch-sub-copyright-law",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "你的首篇SCP之路：第一章 — 引言與點子發想",
+        "FULLNAME": "yourjouney-part-1",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "D級人員簡易搜索系統",
+        "FULLNAME": "dclass-search",
+        "RATING": 10,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "星期五展覽會",
+        "FULLNAME": "the-friday-exhibition",
+        "RATING": 2,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Alto Clef之死，死者亦稱Ukulele特工，亦稱亞當‧本‧耶和華，亦稱路西法、謊言之父，亦稱那個混蛋，等等",
+        "FULLNAME": "the-death-of-alto-clef-etc",
+        "RATING": 11,
+        "COMMENTS": "1"
     }
 ]

@@ -46,5 +46,47 @@
         "FULLNAME": "scp-4494",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4127 - 硬幣正或反",
+        "FULLNAME": "scp-4127",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "D級人員招募",
+        "FULLNAME": "class-d-recruiting",
+        "RATING": 13,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "來自 SCP-046-ARC (更為人知的名字是大屌 Richard Chappell) 收容室的智慧小語",
+        "FULLNAME": "big-dick-chappell",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4311 - 我在乎你。",
+        "FULLNAME": "scp-4311",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4145 - 解離夢療法™",
+        "FULLNAME": "scp-4145",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-733 - 一對剪刀",
+        "FULLNAME": "scp-733",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-008-J",
+        "FULLNAME": "scp-008-j",
+        "RATING": 11,
+        "COMMENTS": "0"
     }
 ]

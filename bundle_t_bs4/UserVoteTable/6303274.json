@@ -16,5 +16,11 @@
         "FULLNAME": "scp-001-ex",
         "RATING": 17,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-500 - 萬靈藥",
+        "FULLNAME": "scp-500",
+        "RATING": 11,
+        "COMMENTS": "0"
     }
 ]

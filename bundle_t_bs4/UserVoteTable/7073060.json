@@ -16,5 +16,23 @@
         "FULLNAME": "scp-031",
         "RATING": 6,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4923 - corpora arenacea",
+        "FULLNAME": "scp-4923",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2242 - 一些技術困難",
+        "FULLNAME": "scp-2242",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4690 - 平克頓中尉被該死的蜘蛛生吞了",
+        "FULLNAME": "scp-4690",
+        "RATING": 6,
+        "COMMENTS": "1"
     }
 ]

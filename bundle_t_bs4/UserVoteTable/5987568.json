@@ -10,5 +10,29 @@
         "FULLNAME": "spc-1057-j",
         "RATING": 7,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4127 - 硬幣正或反",
+        "FULLNAME": "scp-4127",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "版本 F",
+        "FULLNAME": "adult:iteration-f",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Alto Clef之死，死者亦稱Ukulele特工，亦稱亞當‧本‧耶和華，亦稱路西法、謊言之父，亦稱那個混蛋，等等",
+        "FULLNAME": "the-death-of-alto-clef-etc",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "不是競賽作品，只是篇關於諸神的搞笑文",
+        "FULLNAME": "party-of-gods",
+        "RATING": 17,
+        "COMMENTS": "1"
     }
 ]

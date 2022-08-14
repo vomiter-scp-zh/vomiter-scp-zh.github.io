@@ -82,5 +82,17 @@
         "FULLNAME": "carnifex-carl",
         "RATING": 8,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "危險：燃火鹿！",
+        "FULLNAME": "peligro-igniciervos",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-2",
+        "FULLNAME": "scp-2",
+        "RATING": 6,
+        "COMMENTS": "4"
     }
 ]

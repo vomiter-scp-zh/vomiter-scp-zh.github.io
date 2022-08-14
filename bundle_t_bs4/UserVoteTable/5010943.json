@@ -244,5 +244,95 @@
         "FULLNAME": "scp-309-j",
         "RATING": 19,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "弄懂模因學",
+        "FULLNAME": "understanding-memetics",
+        "RATING": 7,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "「老梗項目構思」清單",
+        "FULLNAME": "the-big-list-of-overdone-scp-cliches",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Kondraki博士的人事檔案",
+        "FULLNAME": "dr-kondraki-s-personnel-file",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "偽納多克斯的比喻",
+        "FULLNAME": "the-parables-of-pseudo-nadox",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-500 - 萬靈藥",
+        "FULLNAME": "scp-500",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-352 - 雅加婆婆",
+        "FULLNAME": "scp-352",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "相嘯魔解密",
+        "FULLNAME": "scpdeclassified-pattern-screamers-declassified",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4690 - 平克頓中尉被該死的蜘蛛生吞了",
+        "FULLNAME": "scp-4690",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-733 - 一對剪刀",
+        "FULLNAME": "scp-733",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "權限不足",
+        "FULLNAME": "insufficient-clearance",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Clef博士的人事檔案",
+        "FULLNAME": "drclef-member-page",
+        "RATING": 3,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-330 - 只能拿兩個",
+        "FULLNAME": "scp-330",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Alto Clef之死，死者亦稱Ukulele特工，亦稱亞當‧本‧耶和華，亦稱路西法、謊言之父，亦稱那個混蛋，等等",
+        "FULLNAME": "the-death-of-alto-clef-etc",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1096 - 完美硬膠",
+        "FULLNAME": "scp-1096",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "不是競賽作品，只是篇關於諸神的搞笑文",
+        "FULLNAME": "party-of-gods",
+        "RATING": 17,
+        "COMMENTS": "1"
     }
 ]

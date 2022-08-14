@@ -34,5 +34,23 @@
         "FULLNAME": "critter-profile-maya",
         "RATING": 5,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "赫曼·富勒的展出：高貴的瑪雅",
+        "FULLNAME": "maya-the-magnificent",
+        "RATING": 4,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-1322-J",
+        "FULLNAME": "scp-1322-j",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "D級人員招募",
+        "FULLNAME": "class-d-recruiting",
+        "RATING": 13,
+        "COMMENTS": "5"
     }
 ]

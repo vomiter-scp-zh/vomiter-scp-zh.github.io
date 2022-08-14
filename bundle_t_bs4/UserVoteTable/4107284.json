@@ -82,5 +82,17 @@
         "FULLNAME": "th-canon-hub",
         "RATING": 5,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-169 - 利維坦",
+        "FULLNAME": "scp-169",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-200-JP - 會沉的黃色鴨鴨",
+        "FULLNAME": "scp-200-jp",
+        "RATING": 9,
+        "COMMENTS": "1"
     }
 ]

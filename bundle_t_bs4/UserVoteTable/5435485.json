@@ -82,5 +82,89 @@
         "FULLNAME": "scp-4494",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1307 - 削人肉鉛筆機",
+        "FULLNAME": "scp-1307",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Pedantique的提案",
+        "FULLNAME": "pedantique-s-proposal",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4923 - corpora arenacea",
+        "FULLNAME": "scp-4923",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1322-J",
+        "FULLNAME": "scp-1322-j",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-200-JP - 會沉的黃色鴨鴨",
+        "FULLNAME": "scp-200-jp",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "我的頭著火了，我很（不）好",
+        "FULLNAME": "my-head-is-on-fire-and-im-not-ok",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "版本 F",
+        "FULLNAME": "adult:iteration-f",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-4311 - 我在乎你。",
+        "FULLNAME": "scp-4311",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "偽納多克斯的比喻",
+        "FULLNAME": "the-parables-of-pseudo-nadox",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "你的首篇SCP之路：第一章 — 引言與點子發想",
+        "FULLNAME": "yourjouney-part-1",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-008-J",
+        "FULLNAME": "scp-008-j",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "D級人員簡易搜索系統",
+        "FULLNAME": "dclass-search",
+        "RATING": 10,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "你的首篇SCP之路：第二章 — 故事構成與原創性",
+        "FULLNAME": "yourjouney-part-2",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "權限不足",
+        "FULLNAME": "insufficient-clearance",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]

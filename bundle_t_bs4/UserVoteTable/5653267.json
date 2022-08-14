@@ -58,5 +58,17 @@
         "FULLNAME": "scp-4494",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "「老梗項目構思」清單",
+        "FULLNAME": "the-big-list-of-overdone-scp-cliches",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "所以你想寫一個人形SCP項目",
+        "FULLNAME": "so-you-want-to-write-a-humanoid-scp-object",
+        "RATING": 12,
+        "COMMENTS": "1"
     }
 ]

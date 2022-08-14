@@ -112,5 +112,107 @@
         "FULLNAME": "scp-4494",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-239 - 巫術女孩",
+        "FULLNAME": "scp-239",
+        "RATING": 5,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-4830 - 頭像一個洞",
+        "FULLNAME": "scp-4830",
+        "RATING": 5,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-4031 - 失憶的救贖",
+        "FULLNAME": "scp-4031",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4127 - 硬幣正或反",
+        "FULLNAME": "scp-4127",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1154 - 概念之龍",
+        "FULLNAME": "scp-1154",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "「老梗項目構思」清單",
+        "FULLNAME": "the-big-list-of-overdone-scp-cliches",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Pedantique的提案",
+        "FULLNAME": "pedantique-s-proposal",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "一切為真",
+        "FULLNAME": "this-is-the-real-life",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-814 - 純音",
+        "FULLNAME": "scp-814",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1833 - 班級76",
+        "FULLNAME": "scp-1833",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "俄分著作權法相關解釋（20/6/2019）",
+        "FULLNAME": "russian-branch-sub-copyright-law",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "剃刀邊緣的Tim Wilson",
+        "FULLNAME": "tim-wilson-s-close-shave",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1423 - 76年之夏",
+        "FULLNAME": "scp-1423",
+        "RATING": 1,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "危險：燃火鹿！",
+        "FULLNAME": "peligro-igniciervos",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "小動物簡介：Vizzie！",
+        "FULLNAME": "critter-profile-vizzie",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Alto Clef之死，死者亦稱Ukulele特工，亦稱亞當‧本‧耶和華，亦稱路西法、謊言之父，亦稱那個混蛋，等等",
+        "FULLNAME": "the-death-of-alto-clef-etc",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "不是競賽作品，只是篇關於諸神的搞笑文",
+        "FULLNAME": "party-of-gods",
+        "RATING": 17,
+        "COMMENTS": "1"
     }
 ]

@@ -34,5 +34,29 @@
         "FULLNAME": "scp-309-j",
         "RATING": 19,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4517 - 不是很 𝒩",
+        "FULLNAME": "scp-4517",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1322-J",
+        "FULLNAME": "scp-1322-j",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "D級人員招募",
+        "FULLNAME": "class-d-recruiting",
+        "RATING": 13,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-008-J",
+        "FULLNAME": "scp-008-j",
+        "RATING": 11,
+        "COMMENTS": "0"
     }
 ]

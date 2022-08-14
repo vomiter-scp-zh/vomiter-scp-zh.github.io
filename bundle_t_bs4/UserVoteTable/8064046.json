@@ -4,5 +4,17 @@
         "FULLNAME": "scp-963",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "認養海報：Bandit！",
+        "FULLNAME": "adoption-poster-bandit",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "不是競賽作品，只是篇關於諸神的搞笑文",
+        "FULLNAME": "party-of-gods",
+        "RATING": 17,
+        "COMMENTS": "1"
     }
 ]

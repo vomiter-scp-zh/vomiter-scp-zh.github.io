@@ -106,5 +106,71 @@
         "FULLNAME": "scp-3855",
         "RATING": 8,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "偽納多克斯的比喻",
+        "FULLNAME": "the-parables-of-pseudo-nadox",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-500 - 萬靈藥",
+        "FULLNAME": "scp-500",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-352 - 雅加婆婆",
+        "FULLNAME": "scp-352",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "相嘯魔解密",
+        "FULLNAME": "scpdeclassified-pattern-screamers-declassified",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4690 - 平克頓中尉被該死的蜘蛛生吞了",
+        "FULLNAME": "scp-4690",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-733 - 一對剪刀",
+        "FULLNAME": "scp-733",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "不可思議的奧茲瓦爾德鞋",
+        "FULLNAME": "incriveis-sapatos-ozwalds",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-830 - 漆黑流沙",
+        "FULLNAME": "scp-830",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1208 - 鬆餅大師3000",
+        "FULLNAME": "scp-1208",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "專業寫作與你",
+        "FULLNAME": "technical-writing",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "不是競賽作品，只是篇關於諸神的搞笑文",
+        "FULLNAME": "party-of-gods",
+        "RATING": 17,
+        "COMMENTS": "1"
     }
 ]

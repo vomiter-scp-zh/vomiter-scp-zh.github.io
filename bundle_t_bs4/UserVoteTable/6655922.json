@@ -34,5 +34,23 @@
         "FULLNAME": "scp-009",
         "RATING": 4,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-500 - 萬靈藥",
+        "FULLNAME": "scp-500",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-529 - 半貓Josie",
+        "FULLNAME": "scp-529",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-330 - 只能拿兩個",
+        "FULLNAME": "scp-330",
+        "RATING": 7,
+        "COMMENTS": "2"
     }
 ]
