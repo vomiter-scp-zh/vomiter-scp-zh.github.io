@@ -52,5 +52,11 @@
         "FULLNAME": "scp-5259",
         "RATING": 7,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "From what your SCP?",
+        "FULLNAME": "trigger-yourscp",
+        "RATING": 8,
+        "COMMENTS": "1"
     }
 ]

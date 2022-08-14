@@ -412,5 +412,35 @@
         "FULLNAME": "scp-4465",
         "RATING": 5,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-整數",
+        "FULLNAME": "scp-5242",
+        "RATING": 9,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-CC BY-SA 3.0-CO",
+        "FULLNAME": "scp-cc-by-sa-3-0-co",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "晚上八點半不要洗澡",
+        "FULLNAME": "takeabathathalfpasteight",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6999 - 更近我主",
+        "FULLNAME": "scp-6999",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2430-JP - 為迷迭香獻上追憶",
+        "FULLNAME": "scp-2430-jp",
+        "RATING": 11,
+        "COMMENTS": "0"
     }
 ]

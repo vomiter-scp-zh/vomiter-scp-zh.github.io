@@ -322,5 +322,53 @@
         "FULLNAME": "adult:scp-5690",
         "RATING": 9,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4967 - 王者之水",
+        "FULLNAME": "scp-4967",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "ROUNDERHOUSE的提案",
+        "FULLNAME": "rounderhouse-proposal",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "偶像-835協議",
+        "FULLNAME": "artwork-jp-nika-3",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6400 - 外面那裏",
+        "FULLNAME": "scp-6400",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6999 - 更近我主",
+        "FULLNAME": "scp-6999",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6000 - 毒蛇，駝鹿，與流浪者圖書館",
+        "FULLNAME": "scp-6000",
+        "RATING": 9,
+        "COMMENTS": "10"
+    },
+    {
+        "TITLE": "SCP-2430-JP - 為迷迭香獻上追憶",
+        "FULLNAME": "scp-2430-jp",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "From what your SCP?",
+        "FULLNAME": "trigger-yourscp",
+        "RATING": 8,
+        "COMMENTS": "1"
     }
 ]

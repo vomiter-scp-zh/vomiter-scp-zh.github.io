@@ -190,5 +190,23 @@
         "FULLNAME": "nobody-dies",
         "RATING": 4,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3980 - 盲者相領",
+        "FULLNAME": "scp-3980",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1045-JP - 眼鏡太挑剔",
+        "FULLNAME": "scp-1045-jp",
+        "RATING": 13,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "湯姆少校",
+        "FULLNAME": "your-circuits-dead-theres-something-wrong",
+        "RATING": 9,
+        "COMMENTS": "2"
     }
 ]

@@ -220,5 +220,29 @@
         "FULLNAME": "scp-4646",
         "RATING": 6,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1045-JP - 眼鏡太挑剔",
+        "FULLNAME": "scp-1045-jp",
+        "RATING": 13,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "特殊貨物中心頁",
+        "FULLNAME": "unusual-cargo-hub",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1461-JP - 夏告蛙",
+        "FULLNAME": "scp-1461-jp",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "From what your SCP?",
+        "FULLNAME": "trigger-yourscp",
+        "RATING": 8,
+        "COMMENTS": "1"
     }
 ]

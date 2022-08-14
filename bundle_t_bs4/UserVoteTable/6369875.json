@@ -58,5 +58,17 @@
         "FULLNAME": "scp-5004",
         "RATING": 18,
         "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-6000競賽中心頁",
+        "FULLNAME": "scp6000contesthub",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6400 - 外面那裏",
+        "FULLNAME": "scp-6400",
+        "RATING": 10,
+        "COMMENTS": "1"
     }
 ]

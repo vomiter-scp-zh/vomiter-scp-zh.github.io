@@ -16,5 +16,17 @@
         "FULLNAME": "eggplant-election-special",
         "RATING": 6,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "破碎之神教會 中心頁",
+        "FULLNAME": "church-of-the-broken-god-hub",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-CC BY-SA 3.0-CO",
+        "FULLNAME": "scp-cc-by-sa-3-0-co",
+        "RATING": 11,
+        "COMMENTS": "1"
     }
 ]

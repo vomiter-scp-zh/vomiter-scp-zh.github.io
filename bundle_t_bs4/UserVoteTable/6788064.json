@@ -784,5 +784,107 @@
         "FULLNAME": "wowwee-go-kill-ursefl",
         "RATING": 3,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Dandelion",
+        "FULLNAME": "dandelion",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "日本生類創研",
+        "FULLNAME": "artnihonshorui",
+        "RATING": 1,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "尋找的人",
+        "FULLNAME": "ponkans-art",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "神化中心頁",
+        "FULLNAME": "apotheosis-hub",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1045-JP - 眼鏡太挑剔",
+        "FULLNAME": "scp-1045-jp",
+        "RATING": 13,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-5000的藝術創作",
+        "FULLNAME": "cr-0802-artwork-5000",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5000的藝術創作3",
+        "FULLNAME": "cr-0802-artwork-5000-3",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5000的藝術創作4",
+        "FULLNAME": "cr-0802-artwork-5000-4",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "破碎之神教會 中心頁",
+        "FULLNAME": "church-of-the-broken-god-hub",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "在夢中",
+        "FULLNAME": "illust-contest-dreamman",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "晚上八點半不要洗澡",
+        "FULLNAME": "takeabathathalfpasteight",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-374-JP的插圖",
+        "FULLNAME": "moku-moco-illust01",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "某些終結的故事",
+        "FULLNAME": "a-story-of-the-end",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6000 - 毒蛇，駝鹿，與流浪者圖書館",
+        "FULLNAME": "scp-6000",
+        "RATING": 9,
+        "COMMENTS": "10"
+    },
+    {
+        "TITLE": "SCP-2430-JP - 為迷迭香獻上追憶",
+        "FULLNAME": "scp-2430-jp",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "From what your SCP?",
+        "FULLNAME": "trigger-yourscp",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3998 - 編藤女巫仍行走於世",
+        "FULLNAME": "scp-3998",
+        "RATING": 7,
+        "COMMENTS": "0"
     }
 ]

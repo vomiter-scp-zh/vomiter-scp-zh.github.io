@@ -28,5 +28,17 @@
         "FULLNAME": "torasaki",
         "RATING": 4,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3980 - 盲者相領",
+        "FULLNAME": "scp-3980",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3980解密",
+        "FULLNAME": "scp-3980-declassification",
+        "RATING": 3,
+        "COMMENTS": "1"
     }
 ]

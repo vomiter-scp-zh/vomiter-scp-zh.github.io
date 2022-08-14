@@ -136,5 +136,17 @@
         "FULLNAME": "scp-4661",
         "RATING": 5,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "空空的無名墓穴",
+        "FULLNAME": "empty-unmarked-grave",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "基金會部門半完整列表",
+        "FULLNAME": "departments-complete-list",
+        "RATING": 8,
+        "COMMENTS": "1"
     }
 ]

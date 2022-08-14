@@ -220,5 +220,11 @@
         "FULLNAME": "progress-institute-hub",
         "RATING": 11,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "特殊貨物中心頁",
+        "FULLNAME": "unusual-cargo-hub",
+        "RATING": 10,
+        "COMMENTS": "0"
     }
 ]

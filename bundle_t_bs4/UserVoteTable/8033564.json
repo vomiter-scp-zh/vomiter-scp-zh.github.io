@@ -208,5 +208,11 @@
         "FULLNAME": "scp-4661",
         "RATING": 5,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3731 - 常態將受到保護",
+        "FULLNAME": "scp-3731",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]

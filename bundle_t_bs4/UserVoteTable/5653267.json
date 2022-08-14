@@ -310,5 +310,17 @@
         "FULLNAME": "scp-5004",
         "RATING": 18,
         "COMMENTS": "7"
+    },
+    {
+        "TITLE": "破碎之神教會 中心頁",
+        "FULLNAME": "church-of-the-broken-god-hub",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-6000 - 毒蛇，駝鹿，與流浪者圖書館",
+        "FULLNAME": "scp-6000",
+        "RATING": 9,
+        "COMMENTS": "10"
     }
 ]

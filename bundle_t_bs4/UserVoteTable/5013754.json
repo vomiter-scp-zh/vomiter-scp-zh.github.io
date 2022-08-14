@@ -2506,5 +2506,101 @@
         "FULLNAME": "scp-5404-declassification",
         "RATING": 5,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "尋找的人",
+        "FULLNAME": "ponkans-art",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "嗨，小紅光",
+        "FULLNAME": "artwork-3001",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "日本的天空",
+        "FULLNAME": "come-dream",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1045-JP - 眼鏡太挑剔",
+        "FULLNAME": "scp-1045-jp",
+        "RATING": 13,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "特殊貨物中心頁",
+        "FULLNAME": "unusual-cargo-hub",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "我，中心頁（愚人節）",
+        "FULLNAME": "i-hub",
+        "RATING": 5,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "ROUNDERHOUSE的提案",
+        "FULLNAME": "rounderhouse-proposal",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Ihp/Locke 的提案",
+        "FULLNAME": "keter-duty",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-整數解密",
+        "FULLNAME": "scp-5242-declassification",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-CC BY-SA 3.0-CO",
+        "FULLNAME": "scp-cc-by-sa-3-0-co",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-374-JP的插圖",
+        "FULLNAME": "moku-moco-illust01",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "偶像-835協議",
+        "FULLNAME": "artwork-jp-nika-3",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6400 - 外面那裏",
+        "FULLNAME": "scp-6400",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "某些終結的故事",
+        "FULLNAME": "a-story-of-the-end",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2430-JP - 為迷迭香獻上追憶",
+        "FULLNAME": "scp-2430-jp",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "湯姆少校",
+        "FULLNAME": "your-circuits-dead-theres-something-wrong",
+        "RATING": 9,
+        "COMMENTS": "2"
     }
 ]

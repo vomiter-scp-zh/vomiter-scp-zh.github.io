@@ -192,6 +192,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "晚上八點半不要洗澡",
+        "FULLNAME": "takeabathathalfpasteight",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "「老梗項目構思」清單",
         "FULLNAME": "the-big-list-of-overdone-scp-cliches",
         "RATING": 14,
@@ -250,6 +256,12 @@
         "FULLNAME": "scp-5510",
         "RATING": 14,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "ROUNDERHOUSE的提案",
+        "FULLNAME": "rounderhouse-proposal",
+        "RATING": 14,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-002 - 生「活」起居室",
@@ -334,6 +346,12 @@
         "FULLNAME": "scp-4444",
         "RATING": 13,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-1045-JP - 眼鏡太挑剔",
+        "FULLNAME": "scp-1045-jp",
+        "RATING": 13,
+        "COMMENTS": "2"
     },
     {
         "TITLE": "dado的中心頁是的",
@@ -624,6 +642,24 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "真的是SCP-6000競賽啦！",
+        "FULLNAME": "scp6969contesthubgottemlmao",
+        "RATING": 11,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-CC BY-SA 3.0-CO",
+        "FULLNAME": "scp-cc-by-sa-3-0-co",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2430-JP - 為迷迭香獻上追憶",
+        "FULLNAME": "scp-2430-jp",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "魔法講座",
         "FULLNAME": "another-goddamn-magic-system",
         "RATING": 10,
@@ -824,6 +860,30 @@
     {
         "TITLE": "SCP-3309 - 逐漸消逝之際，我等何去何從",
         "FULLNAME": "scp-3309",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "尋找的人",
+        "FULLNAME": "ponkans-art",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "特殊貨物中心頁",
+        "FULLNAME": "unusual-cargo-hub",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "破碎之神教會 中心頁",
+        "FULLNAME": "church-of-the-broken-god-hub",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-6400 - 外面那裏",
+        "FULLNAME": "scp-6400",
         "RATING": 10,
         "COMMENTS": "1"
     },
@@ -1137,66 +1197,6 @@
         "TITLE": "SCP-5929 - 從尿而來",
         "FULLNAME": "scp-5929",
         "RATING": 9,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "與死者並肩奮戰",
-        "FULLNAME": "in-the-trenches-with-the-dead",
-        "RATING": 9,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-5690 - 專業調教女王",
-        "FULLNAME": "adult:scp-5690",
-        "RATING": 9,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-048 - 被詛咒的SCP號碼",
-        "FULLNAME": "scp-048",
-        "RATING": 8,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "djkaktus的提案II",
-        "FULLNAME": "djkaktus-s-proposal-ii",
-        "RATING": 8,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "異常霍亂時期的慾望",
-        "FULLNAME": "adult:lust-in-the-time-of-anomalous-cholera",
-        "RATING": 8,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "派大星開悟了",
-        "FULLNAME": "fifthbobpentapants",
-        "RATING": 8,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "夜何幽，地何寒",
-        "FULLNAME": "world-went-beautiful",
-        "RATING": 8,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "永無長眠的蜥蜴",
-        "FULLNAME": "impossible-to-destroy-reptile",
-        "RATING": 8,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-3855 - 逆模因地下酒吧",
-        "FULLNAME": "scp-3855",
-        "RATING": 8,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "屠夫卡爾",
-        "FULLNAME": "carnifex-carl",
-        "RATING": 8,
         "COMMENTS": "1"
     }
 ]

@@ -136,5 +136,41 @@
         "FULLNAME": "scp-4661",
         "RATING": 5,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-整數解密",
+        "FULLNAME": "scp-5242-declassification",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "真的是SCP-6000競賽啦！",
+        "FULLNAME": "scp6969contesthubgottemlmao",
+        "RATING": 11,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-6400 - 外面那裏",
+        "FULLNAME": "scp-6400",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6999 - 更近我主",
+        "FULLNAME": "scp-6999",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Jack",
+        "FULLNAME": "jack",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1639 - 爵士樂電台",
+        "FULLNAME": "scp-1639",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]

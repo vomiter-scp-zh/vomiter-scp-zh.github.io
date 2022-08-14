@@ -502,5 +502,11 @@
         "FULLNAME": "the-king-company-textile-plant",
         "RATING": 8,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-整數",
+        "FULLNAME": "scp-5242",
+        "RATING": 9,
+        "COMMENTS": "5"
     }
 ]

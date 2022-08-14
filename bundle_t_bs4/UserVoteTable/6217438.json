@@ -448,5 +448,65 @@
         "FULLNAME": "scp-3309-declassification",
         "RATING": 4,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3935解密",
+        "FULLNAME": "scp-3935-declassification",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "基金會部門半完整列表",
+        "FULLNAME": "departments-complete-list",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "ROUNDERHOUSE的提案",
+        "FULLNAME": "rounderhouse-proposal",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4703 - 完全合法",
+        "FULLNAME": "scp-4703",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-整數",
+        "FULLNAME": "scp-5242",
+        "RATING": 9,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "Ihp/Locke 的提案",
+        "FULLNAME": "keter-duty",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-整數解密",
+        "FULLNAME": "scp-5242-declassification",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3005 - 一道死去的光",
+        "FULLNAME": "scp-3005",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6999 - 更近我主",
+        "FULLNAME": "scp-6999",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2003 - 優先選項",
+        "FULLNAME": "scp-2003",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]

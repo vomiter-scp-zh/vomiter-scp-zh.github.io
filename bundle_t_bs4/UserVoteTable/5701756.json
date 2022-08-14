@@ -118,5 +118,11 @@
         "FULLNAME": "adult:scp-5690",
         "RATING": 9,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "ROUNDERHOUSE的提案",
+        "FULLNAME": "rounderhouse-proposal",
+        "RATING": 14,
+        "COMMENTS": "1"
     }
 ]

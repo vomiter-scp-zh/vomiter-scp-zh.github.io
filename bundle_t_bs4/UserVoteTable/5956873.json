@@ -436,5 +436,17 @@
         "FULLNAME": "scp-3939",
         "RATING": 13,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "嗨，小紅光",
+        "FULLNAME": "artwork-3001",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "From what your SCP?",
+        "FULLNAME": "trigger-yourscp",
+        "RATING": 8,
+        "COMMENTS": "1"
     }
 ]

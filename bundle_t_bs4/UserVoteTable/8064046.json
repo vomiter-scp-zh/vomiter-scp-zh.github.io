@@ -136,5 +136,23 @@
         "FULLNAME": "a-cooler-manifesto",
         "RATING": 2,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "ROUNDERHOUSE的提案",
+        "FULLNAME": "rounderhouse-proposal",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-整數",
+        "FULLNAME": "scp-5242",
+        "RATING": 9,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-整數解密",
+        "FULLNAME": "scp-5242-declassification",
+        "RATING": 7,
+        "COMMENTS": "0"
     }
 ]
