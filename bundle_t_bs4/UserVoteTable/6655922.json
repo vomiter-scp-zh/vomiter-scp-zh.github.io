@@ -1,0 +1,20 @@
+[
+    {
+        "TITLE": "SCP-002 - 生「活」起居室",
+        "FULLNAME": "scp-002",
+        "RATING": 13,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "維安權限分級",
+        "FULLNAME": "security-clearance-levels",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "網站守則",
+        "FULLNAME": "site-rules",
+        "RATING": 1,
+        "COMMENTS": "0"
+    }
+]
