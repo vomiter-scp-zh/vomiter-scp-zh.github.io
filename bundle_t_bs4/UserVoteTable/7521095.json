@@ -280,5 +280,23 @@
         "FULLNAME": "scp-610-l2",
         "RATING": 5,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "沒有人喜歡告密者",
+        "FULLNAME": "nobody-likes-a-sneak",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "理想的辦公桌",
+        "FULLNAME": "idealdesk",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6482 - 鬼抓人",
+        "FULLNAME": "scp-6482",
+        "RATING": 6,
+        "COMMENTS": "0"
     }
 ]

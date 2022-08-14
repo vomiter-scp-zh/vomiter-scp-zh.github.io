@@ -136,5 +136,11 @@
         "FULLNAME": "countdown",
         "RATING": 8,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3626 - 不要停止閱讀這份文件",
+        "FULLNAME": "scp-3626",
+        "RATING": 9,
+        "COMMENTS": "0"
     }
 ]

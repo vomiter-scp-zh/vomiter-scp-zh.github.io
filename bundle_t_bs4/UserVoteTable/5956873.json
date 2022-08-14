@@ -472,5 +472,11 @@
         "FULLNAME": "scp-ro-006",
         "RATING": 3,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-143 - 刃木之森",
+        "FULLNAME": "scp-143",
+        "RATING": 7,
+        "COMMENTS": "2"
     }
 ]

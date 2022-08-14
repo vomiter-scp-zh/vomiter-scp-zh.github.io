@@ -442,5 +442,17 @@
         "FULLNAME": "scp-2295-teddybear",
         "RATING": 4,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "理想的辦公桌",
+        "FULLNAME": "idealdesk",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6059 - 你試過在球池裏啓蒙過嗎？",
+        "FULLNAME": "scp-6059",
+        "RATING": 18,
+        "COMMENTS": "0"
     }
 ]

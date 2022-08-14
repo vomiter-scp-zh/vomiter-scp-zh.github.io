@@ -142,5 +142,53 @@
         "FULLNAME": "scp-610-l2",
         "RATING": 5,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "殆瓦中心頁",
+        "FULLNAME": "daevite-hub",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "流涎路：第一節",
+        "FULLNAME": "the-drooling-path-part-1",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-BLANK-J",
+        "FULLNAME": "scp-blank-j",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "墓碑",
+        "FULLNAME": "tombstone",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "無冕的勝者",
+        "FULLNAME": "champions-of-nothing",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6059 - 你試過在球池裏啓蒙過嗎？",
+        "FULLNAME": "scp-6059",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1041 - 多重經歷失調",
+        "FULLNAME": "scp-1041",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6416 - 失位",
+        "FULLNAME": "scp-6416",
+        "RATING": 6,
+        "COMMENTS": "1"
     }
 ]

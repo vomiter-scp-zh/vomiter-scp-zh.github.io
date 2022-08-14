@@ -496,5 +496,47 @@
         "FULLNAME": "scp-5281",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4012 - 勝過指引千萬群星不再舞動",
+        "FULLNAME": "scp-4012",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6130 - 無間生活",
+        "FULLNAME": "scp-6130",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6059 - 你試過在球池裏啓蒙過嗎？",
+        "FULLNAME": "scp-6059",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "溯憶之途",
+        "FULLNAME": "a-trip-down-memory-lane",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6641 - 有了ARM，誰還需要Wake-Up Call",
+        "FULLNAME": "scp-6641",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4773-2 - 和一隻泰迪熊",
+        "FULLNAME": "scp-4773",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5541 - 掩星",
+        "FULLNAME": "scp-5541",
+        "RATING": 8,
+        "COMMENTS": "0"
     }
 ]

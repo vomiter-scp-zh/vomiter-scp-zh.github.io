@@ -178,5 +178,11 @@
         "FULLNAME": "sell-clickbait-profit",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6263 - 現世速報",
+        "FULLNAME": "scp-6263",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]

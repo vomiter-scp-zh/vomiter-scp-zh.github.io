@@ -94,5 +94,101 @@
         "FULLNAME": "goc-supplemental-threat-entities",
         "RATING": 4,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4012 - 勝過指引千萬群星不再舞動",
+        "FULLNAME": "scp-4012",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "殆瓦中心頁",
+        "FULLNAME": "daevite-hub",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "逆模因部時間線",
+        "FULLNAME": "antimemetics-division-timeline",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6130 - 無間生活",
+        "FULLNAME": "scp-6130",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-217 - 發條機械病毒",
+        "FULLNAME": "scp-217",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-229 - 蔓生電纜",
+        "FULLNAME": "scp-229",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "溯憶之途",
+        "FULLNAME": "a-trip-down-memory-lane",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2790 - 我是你值得擁有的烏賊",
+        "FULLNAME": "scp-2790",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-777 - 沙之王國",
+        "FULLNAME": "scp-777",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "萬象之源：第一部分",
+        "FULLNAME": "history-of-the-universe-part-one",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-152 - 終末之書",
+        "FULLNAME": "scp-152",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-204 - 保護者",
+        "FULLNAME": "scp-204",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "名字有什麼差？",
+        "FULLNAME": "what-s-in-a-name",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-230 - 世上最GAY的人",
+        "FULLNAME": "scp-230",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "只是件例行公事",
+        "FULLNAME": "just-a-formality",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "O5指揮部檔案",
+        "FULLNAME": "o5-command-dossier",
+        "RATING": 5,
+        "COMMENTS": "2"
     }
 ]

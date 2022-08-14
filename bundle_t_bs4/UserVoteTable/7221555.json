@@ -130,5 +130,17 @@
         "FULLNAME": "scp-1230",
         "RATING": 6,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2241-JP - 通往幸福人生的明智決定",
+        "FULLNAME": "scp-2241-jp",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-229 - 蔓生電纜",
+        "FULLNAME": "scp-229",
+        "RATING": 6,
+        "COMMENTS": "0"
     }
 ]

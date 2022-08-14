@@ -706,5 +706,17 @@
         "FULLNAME": "scp-100-vn-j",
         "RATING": 5,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-998 - 失聯軍機",
+        "FULLNAME": "scp-998",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "關注組織半完整列表",
+        "FULLNAME": "goi-complete-list",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]

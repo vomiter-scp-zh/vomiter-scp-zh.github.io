@@ -748,5 +748,47 @@
         "FULLNAME": "scp-wiki-discussion-page-simulator",
         "RATING": -3,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4012 - 勝過指引千萬群星不再舞動",
+        "FULLNAME": "scp-4012",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2419 - 狂笑者",
+        "FULLNAME": "scp-2419",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6369 - 老鼠失物協尋服務",
+        "FULLNAME": "scp-6369",
+        "RATING": 10,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-6059 - 你試過在球池裏啓蒙過嗎？",
+        "FULLNAME": "scp-6059",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-152 - 終末之書",
+        "FULLNAME": "scp-152",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6482 - 鬼抓人",
+        "FULLNAME": "scp-6482",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5541 - 掩星",
+        "FULLNAME": "scp-5541",
+        "RATING": 8,
+        "COMMENTS": "0"
     }
 ]

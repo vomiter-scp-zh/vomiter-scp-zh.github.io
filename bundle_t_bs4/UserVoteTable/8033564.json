@@ -256,5 +256,29 @@
         "FULLNAME": "scp-2337",
         "RATING": 5,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6263 - 現世速報",
+        "FULLNAME": "scp-6263",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5416 - 槓桿",
+        "FULLNAME": "scp-5416",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-777 - 沙之王國",
+        "FULLNAME": "scp-777",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6819 - 生物光",
+        "FULLNAME": "scp-6819",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]

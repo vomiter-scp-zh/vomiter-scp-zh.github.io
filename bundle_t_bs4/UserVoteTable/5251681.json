@@ -742,5 +742,41 @@
         "FULLNAME": "scp-610-l1",
         "RATING": 5,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-012-VN - 咎由自取",
+        "FULLNAME": "scp-012-vn",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "告誡 中心頁",
+        "FULLNAME": "admonition-hub",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-BLANK-J",
+        "FULLNAME": "scp-blank-j",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6059 - 你試過在球池裏啓蒙過嗎？",
+        "FULLNAME": "scp-6059",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Prairia的新作品",
+        "FULLNAME": "prairia-artworks",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5541 - 掩星",
+        "FULLNAME": "scp-5541",
+        "RATING": 8,
+        "COMMENTS": "0"
     }
 ]

@@ -82,5 +82,17 @@
         "FULLNAME": "scp-6500",
         "RATING": 24,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-2419 - 狂笑者",
+        "FULLNAME": "scp-2419",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-BLANK-J",
+        "FULLNAME": "scp-blank-j",
+        "RATING": 6,
+        "COMMENTS": "1"
     }
 ]

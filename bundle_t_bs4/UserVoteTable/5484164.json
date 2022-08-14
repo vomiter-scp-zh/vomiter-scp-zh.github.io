@@ -94,5 +94,17 @@
         "FULLNAME": "scp-6500",
         "RATING": 24,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-201 - 空蕩蕩的世界",
+        "FULLNAME": "scp-201",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2419 - 狂笑者",
+        "FULLNAME": "scp-2419",
+        "RATING": 12,
+        "COMMENTS": "0"
     }
 ]

@@ -112,5 +112,11 @@
         "FULLNAME": "project-paragon-hub",
         "RATING": 8,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "關注組織半完整列表",
+        "FULLNAME": "goi-complete-list",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]

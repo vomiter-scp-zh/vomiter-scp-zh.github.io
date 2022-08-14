@@ -126,6 +126,12 @@
         "COMMENTS": "7"
     },
     {
+        "TITLE": "SCP-6059 - 你試過在球池裏啓蒙過嗎？",
+        "FULLNAME": "scp-6059",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "Lily的提案",
         "FULLNAME": "lily-s-proposal",
         "RATING": 17,
@@ -530,6 +536,12 @@
     {
         "TITLE": "SCP-6131 - 遺世孤立",
         "FULLNAME": "scp-6131",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2419 - 狂笑者",
+        "FULLNAME": "scp-2419",
         "RATING": 12,
         "COMMENTS": "0"
     },
@@ -960,6 +972,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-6369 - 老鼠失物協尋服務",
+        "FULLNAME": "scp-6369",
+        "RATING": 10,
+        "COMMENTS": "4"
+    },
+    {
         "TITLE": "SCP-682-J James 的塗鴉小冊子",
         "FULLNAME": "scp-682-j-james-coloring-book",
         "RATING": 9,
@@ -1180,23 +1198,5 @@
         "FULLNAME": "early-summer-1998",
         "RATING": 9,
         "COMMENTS": "2"
-    },
-    {
-        "TITLE": "Meta小說",
-        "FULLNAME": "metafiction",
-        "RATING": 9,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "日本分部理事「鵺」",
-        "FULLNAME": "nue-artwork",
-        "RATING": 9,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "RTa's Artwork",
-        "FULLNAME": "rta-s-artwork",
-        "RATING": 9,
-        "COMMENTS": "0"
     }
 ]

@@ -196,5 +196,29 @@
         "FULLNAME": "scp-5034-declassification",
         "RATING": 6,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "於其影中",
+        "FULLNAME": "in-his-own-image",
+        "RATING": 1,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6416 - 失位",
+        "FULLNAME": "scp-6416",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2790 - 我是你值得擁有的烏賊",
+        "FULLNAME": "scp-2790",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "O5指揮部檔案",
+        "FULLNAME": "o5-command-dossier",
+        "RATING": 5,
+        "COMMENTS": "2"
     }
 ]

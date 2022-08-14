@@ -430,5 +430,47 @@
         "FULLNAME": "scp-5281",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "關注組織半完整列表",
+        "FULLNAME": "goi-complete-list",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4012 - 勝過指引千萬群星不再舞動",
+        "FULLNAME": "scp-4012",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "不復返中心頁",
+        "FULLNAME": "no-return-hub",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6369 - 老鼠失物協尋服務",
+        "FULLNAME": "scp-6369",
+        "RATING": 10,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "告誡 中心頁",
+        "FULLNAME": "admonition-hub",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "墓碑",
+        "FULLNAME": "tombstone",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-999-JP - 我就是第九號的人物",
+        "FULLNAME": "scp-999-jp",
+        "RATING": 5,
+        "COMMENTS": "1"
     }
 ]

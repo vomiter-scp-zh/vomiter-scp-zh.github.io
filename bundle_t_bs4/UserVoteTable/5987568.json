@@ -226,5 +226,17 @@
         "FULLNAME": "scp-6402",
         "RATING": 8,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6369 - 老鼠失物協尋服務",
+        "FULLNAME": "scp-6369",
+        "RATING": 10,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "無冕的勝者",
+        "FULLNAME": "champions-of-nothing",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]
