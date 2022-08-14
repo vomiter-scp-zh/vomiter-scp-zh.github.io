@@ -244,5 +244,47 @@
         "FULLNAME": "in-the-trenches-with-the-dead",
         "RATING": 9,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Mackenzie博士的素描本",
+        "FULLNAME": "dr-mackenzie-s-sketchbook",
+        "RATING": 4,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "N Djamena 的 SCP-076 插圖第1部分",
+        "FULLNAME": "n-djamena-artwork-1",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "羅伯特 · 布馬洛教皇，破碎之神的築神者",
+        "FULLNAME": "n-djamena-artwork-5",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "物理部門外勤手冊摘錄第二部分：裝備與用具",
+        "FULLNAME": "goc-supplemental-equipment",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "受難",
+        "FULLNAME": "aw-3",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-PL-160",
+        "FULLNAME": "scp-pl-160",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3529 - 蛇 = 蛇蛇 =可愛 ^~^",
+        "FULLNAME": "scp-3529",
+        "RATING": 9,
+        "COMMENTS": "1"
     }
 ]

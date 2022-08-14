@@ -82,5 +82,41 @@
         "FULLNAME": "scp-6009",
         "RATING": 12,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "星眼兒童的出遊",
+        "FULLNAME": "nkn-art-01",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4393 - 千鶴之聲",
+        "FULLNAME": "scp-4393",
+        "RATING": 6,
+        "COMMENTS": "10"
+    },
+    {
+        "TITLE": "SCP-5193 - 天國海軍英靈",
+        "FULLNAME": "scp-5193",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-PL-180",
+        "FULLNAME": "scp-pl-180",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "血/腦",
+        "FULLNAME": "blood-brain",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6500 - 無以避免",
+        "FULLNAME": "scp-6500",
+        "RATING": 24,
+        "COMMENTS": "5"
     }
 ]

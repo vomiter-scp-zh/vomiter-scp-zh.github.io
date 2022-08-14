@@ -112,5 +112,23 @@
         "FULLNAME": "church-of-the-broken-god-hub",
         "RATING": 10,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-1245 - 捕鯨船",
+        "FULLNAME": "scp-1245",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "事故紀錄 1245-043",
+        "FULLNAME": "incident-log-1245-043",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1230 - 英雄誕生",
+        "FULLNAME": "scp-1230",
+        "RATING": 6,
+        "COMMENTS": "1"
     }
 ]

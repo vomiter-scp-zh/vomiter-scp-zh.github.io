@@ -520,5 +520,287 @@
         "FULLNAME": "site-17-hub",
         "RATING": 7,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1245 - 捕鯨船",
+        "FULLNAME": "scp-1245",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "事故紀錄 1245-043",
+        "FULLNAME": "incident-log-1245-043",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4911 - 塚",
+        "FULLNAME": "scp-4911",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-229-KO",
+        "FULLNAME": "scp-229-ko",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-PL-248",
+        "FULLNAME": "scp-pl-248",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "不允許Bright博士在基金會做的事",
+        "FULLNAME": "adult:the-things-dr-bright-is-not-allowed-to-do-at-the-found",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-056-UA - 路上有坑",
+        "FULLNAME": "scp-056-ua",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4393 - 千鶴之聲",
+        "FULLNAME": "scp-4393",
+        "RATING": 6,
+        "COMMENTS": "10"
+    },
+    {
+        "TITLE": "SCP-2072-JP – 私刑",
+        "FULLNAME": "scp-2072-jp",
+        "RATING": 10,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-5193 - 天國海軍英靈",
+        "FULLNAME": "scp-5193",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5043 - dado的brainexplsoesenotsrsogsgsdgkpskplsdhpsd …呃，那個 … 讓你的大腦爆炸",
+        "FULLNAME": "scp-5043",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-231-J",
+        "FULLNAME": "scp-231-j",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "全球超自然聯盟檔案",
+        "FULLNAME": "goc-hub-page",
+        "RATING": 5,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-058 - 黯闇之心",
+        "FULLNAME": "scp-058",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3842 - 發光的二極管",
+        "FULLNAME": "scp-3842",
+        "RATING": 4,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "維坎德—尼得科技媒體中心頁",
+        "FULLNAME": "vikander-kneed-technical-media-hub",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5262 - 這就是布列塔尼海灘",
+        "FULLNAME": "scp-5262",
+        "RATING": 2,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-189-KO",
+        "FULLNAME": "scp-189-ko",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6031 - 殺人金屬板",
+        "FULLNAME": "scp-6031",
+        "RATING": 1,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1175 - 牛頭像與禁衛兵",
+        "FULLNAME": "scp-1175",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "物理部門外勤手冊摘錄第二部分：裝備與用具",
+        "FULLNAME": "goc-supplemental-equipment",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "狂野之光",
+        "FULLNAME": "the-wild-light",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6150 - 日出3號",
+        "FULLNAME": "scp-6150",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4853",
+        "FULLNAME": "scp-4853",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "dado的asmr",
+        "FULLNAME": "asmr-by-dado",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Cimmerian-Kaktus提案",
+        "FULLNAME": "cimmerian-kaktus-proposal",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "未曾建立 - 中心頁",
+        "FULLNAME": "unfounded-hub",
+        "RATING": 3,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "月殘",
+        "FULLNAME": "skyisover-thiscruelmoon-weintertwined",
+        "RATING": 2,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "物理部門外勤手冊摘錄第一部分：幹員的手冊",
+        "FULLNAME": "goc-supplemental-basic-guide",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Site-17的陌生人: 105",
+        "FULLNAME": "strangers-of-site-17",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-PL-160",
+        "FULLNAME": "scp-pl-160",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3529 - 蛇 = 蛇蛇 =可愛 ^~^",
+        "FULLNAME": "scp-3529",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6336 - 看到自己眨眼",
+        "FULLNAME": "scp-6336",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1250 - 平行宇宙紀錄",
+        "FULLNAME": "scp-1250",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "實驗日誌-1250",
+        "FULLNAME": "experiment-log-1250",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3997 - 我的終結即是新生",
+        "FULLNAME": "scp-3997",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-PL-180",
+        "FULLNAME": "scp-pl-180",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3644 - 本欄位已被保留，請勿對其進行覆寫",
+        "FULLNAME": "scp-3644",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "scp-3-j",
+        "FULLNAME": "scp-3-j",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1836 - 冰藏的母親",
+        "FULLNAME": "scp-1836",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1230 - 英雄誕生",
+        "FULLNAME": "scp-1230",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "乙太能量與形貌輻射講座逐字稿　講者：████████████教授",
+        "FULLNAME": "goc-supplemental-arad",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "血/腦",
+        "FULLNAME": "blood-brain",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5742 - 牛神Moloch",
+        "FULLNAME": "scp-5742",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "deathbygin的人事檔案",
+        "FULLNAME": "deathbygin",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "物理部門威脅實體資料庫摘錄",
+        "FULLNAME": "goc-supplemental-threat-entities",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6500 - 無以避免",
+        "FULLNAME": "scp-6500",
+        "RATING": 24,
+        "COMMENTS": "5"
     }
 ]

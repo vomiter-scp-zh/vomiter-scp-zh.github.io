@@ -598,5 +598,23 @@
         "FULLNAME": "scp-3908",
         "RATING": 7,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "星眼兒童的出遊",
+        "FULLNAME": "nkn-art-01",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2072-JP – 私刑",
+        "FULLNAME": "scp-2072-jp",
+        "RATING": 10,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-6101 - 最強大的SCP",
+        "FULLNAME": "scp-6101",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]

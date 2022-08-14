@@ -550,5 +550,35 @@
         "FULLNAME": "broken-masquerade-hub",
         "RATING": 4,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "不允許Bright博士在基金會做的事",
+        "FULLNAME": "adult:the-things-dr-bright-is-not-allowed-to-do-at-the-found",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "維坎德—尼得科技媒體中心頁",
+        "FULLNAME": "vikander-kneed-technical-media-hub",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6101 - 最強大的SCP",
+        "FULLNAME": "scp-6101",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3644 - 本欄位已被保留，請勿對其進行覆寫",
+        "FULLNAME": "scp-3644",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6500 - 無以避免",
+        "FULLNAME": "scp-6500",
+        "RATING": 24,
+        "COMMENTS": "5"
     }
 ]

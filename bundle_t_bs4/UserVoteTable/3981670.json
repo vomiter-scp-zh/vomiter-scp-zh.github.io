@@ -1378,5 +1378,17 @@
         "FULLNAME": "progress-institute-hub",
         "RATING": 11,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-229-KO",
+        "FULLNAME": "scp-229-ko",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Cimmerian-Kaktus提案",
+        "FULLNAME": "cimmerian-kaktus-proposal",
+        "RATING": 10,
+        "COMMENTS": "1"
     }
 ]

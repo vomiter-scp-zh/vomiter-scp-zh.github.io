@@ -250,5 +250,23 @@
         "FULLNAME": "scp-6000",
         "RATING": 9,
         "COMMENTS": "10"
+    },
+    {
+        "TITLE": "SCP-189-KO",
+        "FULLNAME": "scp-189-ko",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6101 - 最強大的SCP",
+        "FULLNAME": "scp-6101",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "scp-3-j",
+        "FULLNAME": "scp-3-j",
+        "RATING": 6,
+        "COMMENTS": "0"
     }
 ]

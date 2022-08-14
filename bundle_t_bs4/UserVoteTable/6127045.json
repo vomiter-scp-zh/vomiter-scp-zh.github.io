@@ -118,5 +118,17 @@
         "FULLNAME": "scp-6000",
         "RATING": 9,
         "COMMENTS": "10"
+    },
+    {
+        "TITLE": "夜競賽聲援圖",
+        "FULLNAME": "yoru-contest-fan-art",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "受難",
+        "FULLNAME": "aw-3",
+        "RATING": 2,
+        "COMMENTS": "0"
     }
 ]

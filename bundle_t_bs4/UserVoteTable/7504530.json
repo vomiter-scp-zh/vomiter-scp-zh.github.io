@@ -88,5 +88,11 @@
         "FULLNAME": "site-17-hub",
         "RATING": 7,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "物理部門威脅實體資料庫摘錄",
+        "FULLNAME": "goc-supplemental-threat-entities",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]

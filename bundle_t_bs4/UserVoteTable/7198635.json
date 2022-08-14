@@ -76,5 +76,11 @@
         "FULLNAME": "scp-6666",
         "RATING": 20,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-6500 - 無以避免",
+        "FULLNAME": "scp-6500",
+        "RATING": 24,
+        "COMMENTS": "5"
     }
 ]

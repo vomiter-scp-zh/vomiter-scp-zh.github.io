@@ -562,5 +562,29 @@
         "FULLNAME": "scp-348",
         "RATING": 2,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "夏鳥思想連盟標誌",
+        "FULLNAME": "summer-bird-symbol",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "羅伯特 · 布馬洛教皇，破碎之神的築神者",
+        "FULLNAME": "n-djamena-artwork-5",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6463 - 一個結局",
+        "FULLNAME": "scp-6463",
+        "RATING": 1,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-6500 - 無以避免",
+        "FULLNAME": "scp-6500",
+        "RATING": 24,
+        "COMMENTS": "5"
     }
 ]

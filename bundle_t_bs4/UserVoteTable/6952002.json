@@ -454,5 +454,35 @@
         "FULLNAME": "scp-6000",
         "RATING": 9,
         "COMMENTS": "10"
+    },
+    {
+        "TITLE": "破碎之神的起動",
+        "FULLNAME": "broken-god",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6150 - 日出3號",
+        "FULLNAME": "scp-6150",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Cimmerian-Kaktus提案",
+        "FULLNAME": "cimmerian-kaktus-proposal",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1302-JP - 迴轉。",
+        "FULLNAME": "scp-1302-jp",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "刪除不必要的文件",
+        "FULLNAME": "tanishiart1",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]

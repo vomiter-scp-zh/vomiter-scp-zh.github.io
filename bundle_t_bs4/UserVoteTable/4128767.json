@@ -142,5 +142,11 @@
         "FULLNAME": "scp-4517-declassification",
         "RATING": 6,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-2072-JP – 私刑",
+        "FULLNAME": "scp-2072-jp",
+        "RATING": 10,
+        "COMMENTS": "4"
     }
 ]

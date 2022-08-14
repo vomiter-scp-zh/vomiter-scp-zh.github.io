@@ -48,6 +48,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-6500 - 無以避免",
+        "FULLNAME": "scp-6500",
+        "RATING": 24,
+        "COMMENTS": "5"
+    },
+    {
         "TITLE": "SCP—j",
         "FULLNAME": "scp-j",
         "RATING": 22,
@@ -672,6 +678,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "不允許Bright博士在基金會做的事",
+        "FULLNAME": "adult:the-things-dr-bright-is-not-allowed-to-do-at-the-found",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "魔法講座",
         "FULLNAME": "another-goddamn-magic-system",
         "RATING": 10,
@@ -896,6 +908,24 @@
     {
         "TITLE": "SCP-6400 - 外面那裏",
         "FULLNAME": "scp-6400",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2072-JP – 私刑",
+        "FULLNAME": "scp-2072-jp",
+        "RATING": 10,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "大術士伊仰",
+        "FULLNAME": "n-djamena-artwork-4",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Cimmerian-Kaktus提案",
+        "FULLNAME": "cimmerian-kaktus-proposal",
         "RATING": 10,
         "COMMENTS": "1"
     },
@@ -1168,35 +1198,5 @@
         "FULLNAME": "spikebrennan-s-proposal",
         "RATING": 9,
         "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-2061-JP - 曉星屋百貨公司冒險譚",
-        "FULLNAME": "scp-2061-jp",
-        "RATING": 9,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-5699 - 好好照顧你自己",
-        "FULLNAME": "scp-5699",
-        "RATING": 9,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP的擬人化",
-        "FULLNAME": "personification-of-scp",
-        "RATING": 9,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-4852 - Site-19南遷渡冬去！",
-        "FULLNAME": "scp-4852",
-        "RATING": 9,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "「鵺」",
-        "FULLNAME": "soya-001-nue-artwork",
-        "RATING": 9,
-        "COMMENTS": "2"
     }
 ]

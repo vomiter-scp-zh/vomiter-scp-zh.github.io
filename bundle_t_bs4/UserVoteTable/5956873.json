@@ -448,5 +448,23 @@
         "FULLNAME": "trigger-yourscp",
         "RATING": 8,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "刪除不必要的文件",
+        "FULLNAME": "tanishiart1",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "682與079",
+        "FULLNAME": "tanishiart2",
+        "RATING": 1,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Diving to the SCP-169",
+        "FULLNAME": "diving-to-the-scp-169",
+        "RATING": 1,
+        "COMMENTS": "0"
     }
 ]

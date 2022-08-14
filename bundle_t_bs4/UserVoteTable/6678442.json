@@ -154,5 +154,17 @@
         "FULLNAME": "scp-6666",
         "RATING": 20,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-3997 - 我的終結即是新生",
+        "FULLNAME": "scp-3997",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6500 - 無以避免",
+        "FULLNAME": "scp-6500",
+        "RATING": 24,
+        "COMMENTS": "5"
     }
 ]
