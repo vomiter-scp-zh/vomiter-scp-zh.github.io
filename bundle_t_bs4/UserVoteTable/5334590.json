@@ -808,5 +808,59 @@
         "FULLNAME": "scp-070",
         "RATING": 5,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-114 - 衝突使者",
+        "FULLNAME": "scp-114",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-191 - 半機械女孩",
+        "FULLNAME": "scp-191",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-411 - 自過去的預知",
+        "FULLNAME": "scp-411",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "我，一隻在暴雪中摀住鼻子的北極熊",
+        "FULLNAME": "i-a-polar-bear-covering-my-nose-in-a-snowstorm",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-428 - 人王",
+        "FULLNAME": "scp-428",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-429 - 時鐘機關傳送器",
+        "FULLNAME": "scp-429",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-846 - 機械老兄",
+        "FULLNAME": "scp-846",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-431 - 基德翁博士",
+        "FULLNAME": "scp-431",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-436 - 誤差吊墜",
+        "FULLNAME": "scp-436",
+        "RATING": 3,
+        "COMMENTS": "0"
     }
 ]

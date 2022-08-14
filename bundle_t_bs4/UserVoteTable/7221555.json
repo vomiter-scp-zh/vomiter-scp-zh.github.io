@@ -148,5 +148,65 @@
         "FULLNAME": "scp-172",
         "RATING": 3,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-185 - 無線電收音機",
+        "FULLNAME": "scp-185",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-504 - 暴擊番茄",
+        "FULLNAME": "scp-504",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "日誌084 A4",
+        "FULLNAME": "084-a4",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-416 - 無盡森羅",
+        "FULLNAME": "scp-416",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-428 - 人王",
+        "FULLNAME": "scp-428",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-354 - 深紅血池",
+        "FULLNAME": "scp-354",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-429 - 時鐘機關傳送器",
+        "FULLNAME": "scp-429",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-436 - 誤差吊墜",
+        "FULLNAME": "scp-436",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-100 - 牙買加老喬的垃圾打鐵屋",
+        "FULLNAME": "scp-100",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-104 - 孤單的球",
+        "FULLNAME": "scp-104",
+        "RATING": 3,
+        "COMMENTS": "0"
     }
 ]

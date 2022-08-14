@@ -1714,5 +1714,17 @@
         "FULLNAME": "arbh-class-hub",
         "RATING": 5,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-504 - 暴擊番茄",
+        "FULLNAME": "scp-504",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-346 - 翼手龍「小翼」",
+        "FULLNAME": "scp-346",
+        "RATING": 2,
+        "COMMENTS": "0"
     }
 ]

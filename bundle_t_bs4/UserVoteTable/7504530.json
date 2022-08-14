@@ -232,5 +232,41 @@
         "FULLNAME": "arbh-class-hub",
         "RATING": 5,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "黑條之下：資訊遮蔽的光與影",
+        "FULLNAME": "avoid-the-blackbox",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-918 - 寶寶研磨廠",
+        "FULLNAME": "scp-918",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-100 - 牙買加老喬的垃圾打鐵屋",
+        "FULLNAME": "scp-100",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "新成員指南",
+        "FULLNAME": "guide-for-newcomers",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "閱讀指南",
+        "FULLNAME": "guide-for-reading",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-329 - 癌之庭園",
+        "FULLNAME": "scp-329",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]

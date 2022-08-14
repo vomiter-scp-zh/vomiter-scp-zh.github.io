@@ -244,5 +244,11 @@
         "FULLNAME": "critter-profile-genghis",
         "RATING": 7,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5310解密",
+        "FULLNAME": "scp-5310-declassification",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]

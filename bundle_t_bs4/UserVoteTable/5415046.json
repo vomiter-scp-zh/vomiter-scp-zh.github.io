@@ -700,5 +700,23 @@
         "FULLNAME": "scp-071",
         "RATING": 2,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-185 - 無線電收音機",
+        "FULLNAME": "scp-185",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "基金會設施",
+        "FULLNAME": "secure-facilities-locations",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-427 - 洛夫克拉夫特吊墜盒",
+        "FULLNAME": "scp-427",
+        "RATING": 2,
+        "COMMENTS": "0"
     }
 ]

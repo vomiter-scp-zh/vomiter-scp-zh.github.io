@@ -712,5 +712,23 @@
         "FULLNAME": "scp-6869",
         "RATING": 7,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-504 - 暴擊番茄",
+        "FULLNAME": "scp-504",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-918 - 寶寶研磨廠",
+        "FULLNAME": "scp-918",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-614 - IP位址57.32.███.███",
+        "FULLNAME": "scp-614",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]

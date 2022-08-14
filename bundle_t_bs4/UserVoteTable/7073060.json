@@ -1054,5 +1054,23 @@
         "FULLNAME": "scp-4826",
         "RATING": 2,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5310解密",
+        "FULLNAME": "scp-5310-declassification",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-106",
+        "FULLNAME": "secure-facility-dossier-site-106",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "新成員指南",
+        "FULLNAME": "guide-for-newcomers",
+        "RATING": 6,
+        "COMMENTS": "0"
     }
 ]

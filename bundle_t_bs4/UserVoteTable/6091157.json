@@ -562,5 +562,29 @@
         "FULLNAME": "scp-089",
         "RATING": 4,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-190 - 貴重玩具箱",
+        "FULLNAME": "scp-190",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "黑條之下：資訊遮蔽的光與影",
+        "FULLNAME": "avoid-the-blackbox",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "我，一隻在暴雪中摀住鼻子的北極熊",
+        "FULLNAME": "i-a-polar-bear-covering-my-nose-in-a-snowstorm",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-327 - 人魚",
+        "FULLNAME": "scp-327",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]

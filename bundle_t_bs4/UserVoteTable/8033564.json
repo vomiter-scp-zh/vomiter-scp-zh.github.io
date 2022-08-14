@@ -298,5 +298,23 @@
         "FULLNAME": "scp-843",
         "RATING": 3,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-504 - 暴擊番茄",
+        "FULLNAME": "scp-504",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "黑條之下：資訊遮蔽的光與影",
+        "FULLNAME": "avoid-the-blackbox",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-354 - 深紅血池",
+        "FULLNAME": "scp-354",
+        "RATING": 7,
+        "COMMENTS": "0"
     }
 ]

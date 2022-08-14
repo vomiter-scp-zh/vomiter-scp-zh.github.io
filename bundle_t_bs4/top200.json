@@ -714,6 +714,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "我，一隻在暴雪中摀住鼻子的北極熊",
+        "FULLNAME": "i-a-polar-bear-covering-my-nose-in-a-snowstorm",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "魔法講座",
         "FULLNAME": "another-goddamn-magic-system",
         "RATING": 10,
@@ -978,6 +984,12 @@
         "COMMENTS": "4"
     },
     {
+        "TITLE": "黑條之下：資訊遮蔽的光與影",
+        "FULLNAME": "avoid-the-blackbox",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-682-J James 的塗鴉小冊子",
         "FULLNAME": "scp-682-j-james-coloring-book",
         "RATING": 9,
@@ -1184,18 +1196,6 @@
     {
         "TITLE": "SCP-2041-JP - 基金會感染病房Q5！蒼白的末期患者與絕望的醫院",
         "FULLNAME": "scp-2041-jp",
-        "RATING": 9,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-V1L3-J",
-        "FULLNAME": "scp-v1l3-j",
-        "RATING": 9,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "1998年，初夏",
-        "FULLNAME": "early-summer-1998",
         "RATING": 9,
         "COMMENTS": "2"
     }

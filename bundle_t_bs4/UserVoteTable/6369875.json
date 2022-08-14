@@ -190,5 +190,71 @@
         "FULLNAME": "scp-6416",
         "RATING": 6,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-104 - 孤單的球",
+        "FULLNAME": "scp-104",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-926 - 古琴",
+        "FULLNAME": "scp-926",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-111 - 龍蝸牛™",
+        "FULLNAME": "scp-111",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-115 - 袖珍垃圾車",
+        "FULLNAME": "scp-115",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-718 - 眼球",
+        "FULLNAME": "scp-718",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-847 - 人形模特兒",
+        "FULLNAME": "scp-847",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-129 - 進程性真菌感染症",
+        "FULLNAME": "scp-129",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-614 - IP位址57.32.███.███",
+        "FULLNAME": "scp-614",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-119 - 時波爐",
+        "FULLNAME": "scp-119",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-385 - 個人反重力場產生器",
+        "FULLNAME": "scp-385",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-331 - 「Tumbles」",
+        "FULLNAME": "scp-331",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]

@@ -232,5 +232,23 @@
         "FULLNAME": "critter-profile-genghis",
         "RATING": 7,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-193 - 衛生紙蝸牛",
+        "FULLNAME": "scp-193",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4780 - 縮",
+        "FULLNAME": "scp-4780",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "新成員指南",
+        "FULLNAME": "guide-for-newcomers",
+        "RATING": 6,
+        "COMMENTS": "0"
     }
 ]
