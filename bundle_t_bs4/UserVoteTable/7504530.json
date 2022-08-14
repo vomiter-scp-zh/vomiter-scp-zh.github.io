@@ -64,5 +64,17 @@
         "FULLNAME": "the-young-man",
         "RATING": 5,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-4852 - Site-19南遷渡冬去！",
+        "FULLNAME": "scp-4852",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "機密分級完整列表",
+        "FULLNAME": "esoteric-classes-complete-list",
+        "RATING": 16,
+        "COMMENTS": "1"
     }
 ]

@@ -82,5 +82,23 @@
         "FULLNAME": "shaggydredlocks-proposal",
         "RATING": 21,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5167 - When The Imposter Is Sus",
+        "FULLNAME": "scp-5167",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-3034 - 倒數站",
+        "FULLNAME": "scp-3034",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5034 - 肉天使",
+        "FULLNAME": "scp-5034",
+        "RATING": 9,
+        "COMMENTS": "0"
     }
 ]

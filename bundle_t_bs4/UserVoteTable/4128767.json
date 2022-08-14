@@ -124,5 +124,17 @@
         "FULLNAME": "tohei-automata",
         "RATING": 7,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "未命名藝作",
+        "FULLNAME": "unnamed-artwork",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "想著希望能再聽一次妻子的聲音",
+        "FULLNAME": "lost-hometown",
+        "RATING": 11,
+        "COMMENTS": "0"
     }
 ]

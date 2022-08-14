@@ -172,5 +172,107 @@
         "FULLNAME": "scp-2061-jp",
         "RATING": 9,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "拯救世界的人",
+        "FULLNAME": "help-me",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "關於我為了找狐娘去妖怪保護區結果下場十分慘烈的那件事",
+        "FULLNAME": "news4pamwac-fox",
+        "RATING": 18,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "未命名藝作",
+        "FULLNAME": "unnamed-artwork",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "黑暗之子",
+        "FULLNAME": "artwork-jp-nika-4",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "外星娘的同居日常",
+        "FULLNAME": "das-taegliche-leben-mit-einer-ausserirdischen",
+        "RATING": 10,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "基金會標誌的摺紙書雕",
+        "FULLNAME": "bookart-logo",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "藝術創作：曼哈頓危機",
+        "FULLNAME": "artwork-manhattan",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2639 - 電玩遊戲暴力",
+        "FULLNAME": "scp-2639",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4852 - Site-19南遷渡冬去！",
+        "FULLNAME": "scp-4852",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5167 - When The Imposter Is Sus",
+        "FULLNAME": "scp-5167",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-3034 - 倒數站",
+        "FULLNAME": "scp-3034",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2439 - 編號未分配",
+        "FULLNAME": "scp-2439",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2771 - 過境稅",
+        "FULLNAME": "scp-2771",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "機密分級完整列表",
+        "FULLNAME": "esoteric-classes-complete-list",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "理想",
+        "FULLNAME": "ideals",
+        "RATING": 2,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "「鵺」",
+        "FULLNAME": "soya-001-nue-artwork",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-4116 - 夢之宮殿中的夢魘之王",
+        "FULLNAME": "scp-4116",
+        "RATING": 7,
+        "COMMENTS": "0"
     }
 ]

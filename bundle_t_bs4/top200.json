@@ -96,6 +96,18 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "關於我為了找狐娘去妖怪保護區結果下場十分慘烈的那件事",
+        "FULLNAME": "news4pamwac-fox",
+        "RATING": 18,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-3034 - 倒數站",
+        "FULLNAME": "scp-3034",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "Lily的提案",
         "FULLNAME": "lily-s-proposal",
         "RATING": 17,
@@ -138,6 +150,12 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "機密分級完整列表",
+        "FULLNAME": "esoteric-classes-complete-list",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "更新版記憶消除劑指南",
         "FULLNAME": "updated-amnestics-guide",
         "RATING": 15,
@@ -154,6 +172,18 @@
         "FULLNAME": "scp-132-jp-animation",
         "RATING": 15,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3001 - 紅色現實",
+        "FULLNAME": "scp-3001",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "欲肉教中心頁",
+        "FULLNAME": "sarkicism-hub",
+        "RATING": 15,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "「老梗項目構思」清單",
@@ -282,6 +312,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-4182 - Site-5不存在",
+        "FULLNAME": "scp-4182",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "dado的中心頁是的",
         "FULLNAME": "dado-hub",
         "RATING": 12,
@@ -402,6 +438,24 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-2439 - 編號未分配",
+        "FULLNAME": "scp-2439",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "為確保安全已省略",
+        "FULLNAME": "scp-5404",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "潛力關注組織面試",
+        "FULLNAME": "interviews-with-prospective-groups-of-interest",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-050 - 致最聰明的人",
         "FULLNAME": "scp-050",
         "RATING": 11,
@@ -514,6 +568,24 @@
         "FULLNAME": "scp-3199",
         "RATING": 11,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5167 - When The Imposter Is Sus",
+        "FULLNAME": "scp-5167",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "你的第一篇SCP！",
+        "FULLNAME": "your-very-first-scp",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "想著希望能再聽一次妻子的聲音",
+        "FULLNAME": "lost-hometown",
+        "RATING": 11,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "魔法講座",
@@ -676,6 +748,24 @@
         "FULLNAME": "ambrose-transylvania",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "拯救世界的人",
+        "FULLNAME": "help-me",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "未命名藝作",
+        "FULLNAME": "unnamed-artwork",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "外星娘的同居日常",
+        "FULLNAME": "das-taegliche-leben-mit-einer-ausserirdischen",
+        "RATING": 10,
+        "COMMENTS": "4"
     },
     {
         "TITLE": "SCP-682-J James 的塗鴉小冊子",
@@ -954,6 +1044,36 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-5699 - 好好照顧你自己",
+        "FULLNAME": "scp-5699",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP的擬人化",
+        "FULLNAME": "personification-of-scp",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4852 - Site-19南遷渡冬去！",
+        "FULLNAME": "scp-4852",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "「鵺」",
+        "FULLNAME": "soya-001-nue-artwork",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-5034 - 肉天使",
+        "FULLNAME": "scp-5034",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-048 - 被詛咒的SCP號碼",
         "FULLNAME": "scp-048",
         "RATING": 8,
@@ -1078,125 +1198,5 @@
         "FULLNAME": "scp-882",
         "RATING": 8,
         "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-3125 - 亡命之人",
-        "FULLNAME": "scp-3125",
-        "RATING": 8,
-        "COMMENTS": "3"
-    },
-    {
-        "TITLE": "SCP-3582 - 多元宇宙正在痙攣",
-        "FULLNAME": "scp-3582",
-        "RATING": 8,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-294 - 咖啡機",
-        "FULLNAME": "scp-294",
-        "RATING": 8,
-        "COMMENTS": "3"
-    },
-    {
-        "TITLE": "異視維基中心頁",
-        "FULLNAME": "parawatch-hub",
-        "RATING": 8,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-2719 - 內部",
-        "FULLNAME": "scp-2719",
-        "RATING": 8,
-        "COMMENTS": "6"
-    },
-    {
-        "TITLE": "我們需要談談五十五的事情",
-        "FULLNAME": "we-need-to-talk-about-fifty-five",
-        "RATING": 8,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "10:30 A.M.",
-        "FULLNAME": "10-30-a-m",
-        "RATING": 8,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "殺死682",
-        "FULLNAME": "kill-682",
-        "RATING": 8,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "「蛸葦廢船」藝術創作集",
-        "FULLNAME": "takoashi-haisen-artworks",
-        "RATING": 8,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-2295 - 有著拼布心臟的熊",
-        "FULLNAME": "scp-2295",
-        "RATING": 8,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "第二次約會",
-        "FULLNAME": "every-day-of-my-life-you-test-me",
-        "RATING": 8,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-1922-J",
-        "FULLNAME": "scp-1922-j",
-        "RATING": 8,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "內部法庭部門",
-        "FULLNAME": "tribunal",
-        "RATING": 8,
-        "COMMENTS": "4"
-    },
-    {
-        "TITLE": "MTF與維安團隊的基礎設備",
-        "FULLNAME": "vehicle-list",
-        "RATING": 8,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-5409 - 無法安撫",
-        "FULLNAME": "scp-5409",
-        "RATING": 8,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "ОУС：熱線",
-        "FULLNAME": "scp-hotline",
-        "RATING": 8,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "朝鮮末路",
-        "FULLNAME": "joseon",
-        "RATING": 8,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "鑰匙先生嘆了口氣",
-        "FULLNAME": "mr-key-sighed",
-        "RATING": 8,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-666½-J",
-        "FULLNAME": "scp-666-and-a-half-j",
-        "RATING": 8,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "信濃新聞告發 現任知事身陷使用禁止米的疑雲",
-        "FULLNAME": "koigarezaki-news-20200908",
-        "RATING": 8,
-        "COMMENTS": "0"
     }
 ]

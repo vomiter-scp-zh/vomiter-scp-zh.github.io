@@ -550,5 +550,35 @@
         "FULLNAME": "the-young-man",
         "RATING": 5,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "拯救世界的人",
+        "FULLNAME": "help-me",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "關於我為了找狐娘去妖怪保護區結果下場十分慘烈的那件事",
+        "FULLNAME": "news4pamwac-fox",
+        "RATING": 18,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "有關第一級異災特區內的他次元及空間探索產業",
+        "FULLNAME": "qingtan-what-is-odse",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3034 - 倒數站",
+        "FULLNAME": "scp-3034",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "潛力關注組織面試",
+        "FULLNAME": "interviews-with-prospective-groups-of-interest",
+        "RATING": 12,
+        "COMMENTS": "0"
     }
 ]

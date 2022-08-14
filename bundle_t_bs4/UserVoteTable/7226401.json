@@ -226,5 +226,47 @@
         "FULLNAME": "scpaaaaaaaaaaaaaaaaaa-jp-j",
         "RATING": 25,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "拯救世界的人",
+        "FULLNAME": "help-me",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "亞伯與該隱",
+        "FULLNAME": "artwork-ouka-2",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "藝術創作：SCP-173",
+        "FULLNAME": "ozakitaii-20",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "藝術創作：Bright博士",
+        "FULLNAME": "ozakitaii-19",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-001-J",
+        "FULLNAME": "scp-001-j",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-8851-J",
+        "FULLNAME": "scp-8851-j",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2439 - 編號未分配",
+        "FULLNAME": "scp-2439",
+        "RATING": 12,
+        "COMMENTS": "0"
     }
 ]

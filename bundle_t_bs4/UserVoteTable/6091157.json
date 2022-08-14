@@ -274,5 +274,113 @@
         "FULLNAME": "scp-2061-jp",
         "RATING": 9,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "拯救世界的人",
+        "FULLNAME": "help-me",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Bangja的美食藝術",
+        "FULLNAME": "bangja-art",
+        "RATING": 6,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-5699 - 好好照顧你自己",
+        "FULLNAME": "scp-5699",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP的擬人化",
+        "FULLNAME": "personification-of-scp",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "亞伯與該隱",
+        "FULLNAME": "artwork-ouka-2",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5713 - 神聖的先資",
+        "FULLNAME": "scp-5713",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "缺席",
+        "FULLNAME": "ad-absentia",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3001 - 紅色現實",
+        "FULLNAME": "scp-3001",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "關於我為了找狐娘去妖怪保護區結果下場十分慘烈的那件事",
+        "FULLNAME": "news4pamwac-fox",
+        "RATING": 18,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "未命名藝作",
+        "FULLNAME": "unnamed-artwork",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "融化於紅色的現實",
+        "FULLNAME": "scp-3001-artworks",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4852 - Site-19南遷渡冬去！",
+        "FULLNAME": "scp-4852",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3034 - 倒數站",
+        "FULLNAME": "scp-3034",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "倒數",
+        "FULLNAME": "countdown",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "收容危害控制",
+        "FULLNAME": "containment-hazard-control",
+        "RATING": 3,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-2439 - 編號未分配",
+        "FULLNAME": "scp-2439",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "在霧消散的世界",
+        "FULLNAME": "in-the-world-where-the-fog-has-vanished",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "為確保安全已省略",
+        "FULLNAME": "scp-5404",
+        "RATING": 12,
+        "COMMENTS": "1"
     }
 ]

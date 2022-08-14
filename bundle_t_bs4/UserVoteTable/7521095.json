@@ -64,5 +64,47 @@
         "FULLNAME": "scp-2740-jp",
         "RATING": 9,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3001 - 紅色現實",
+        "FULLNAME": "scp-3001",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP- -J-ID - 懶得取標題",
+        "FULLNAME": "scp-j-id",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "金恩公司紡織廠",
+        "FULLNAME": "the-king-company-textile-plant",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5169 - 吹爆充氣娃娃",
+        "FULLNAME": "adult:scp-5169",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3034 - 倒數站",
+        "FULLNAME": "scp-3034",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "你的第一篇SCP！",
+        "FULLNAME": "your-very-first-scp",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "為確保安全已省略",
+        "FULLNAME": "scp-5404",
+        "RATING": 12,
+        "COMMENTS": "1"
     }
 ]

@@ -160,5 +160,53 @@
         "FULLNAME": "ambrose-transylvania",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5699 - 好好照顧你自己",
+        "FULLNAME": "scp-5699",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5713 - 神聖的先資",
+        "FULLNAME": "scp-5713",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "缺席",
+        "FULLNAME": "ad-absentia",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3034 - 倒數站",
+        "FULLNAME": "scp-3034",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "機密分級完整列表",
+        "FULLNAME": "esoteric-classes-complete-list",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4182 - Site-5不存在",
+        "FULLNAME": "scp-4182",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4182解密",
+        "FULLNAME": "scp-4182-declassification",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2111 - 如果你能讀到這裡……",
+        "FULLNAME": "scp-2111",
+        "RATING": 6,
+        "COMMENTS": "0"
     }
 ]

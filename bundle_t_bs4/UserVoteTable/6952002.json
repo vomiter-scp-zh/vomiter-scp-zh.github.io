@@ -256,5 +256,65 @@
         "FULLNAME": "scp-3199",
         "RATING": 11,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5699 - 好好照顧你自己",
+        "FULLNAME": "scp-5699",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP的擬人化",
+        "FULLNAME": "personification-of-scp",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "欲肉教中心頁",
+        "FULLNAME": "sarkicism-hub",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4852 - Site-19南遷渡冬去！",
+        "FULLNAME": "scp-4852",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "AnAnomalousWriter的壁紙（和其他的東西）",
+        "FULLNAME": "ananomalouswriter-s-wallpaper-place-and-more",
+        "RATING": 4,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "你的第一篇SCP！",
+        "FULLNAME": "your-very-first-scp",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "機密分級完整列表",
+        "FULLNAME": "esoteric-classes-complete-list",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "「鵺」",
+        "FULLNAME": "soya-001-nue-artwork",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-5034 - 肉天使",
+        "FULLNAME": "scp-5034",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "潛力關注組織面試",
+        "FULLNAME": "interviews-with-prospective-groups-of-interest",
+        "RATING": 12,
+        "COMMENTS": "0"
     }
 ]

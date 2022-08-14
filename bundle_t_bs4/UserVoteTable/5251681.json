@@ -226,5 +226,155 @@
         "FULLNAME": "ambrose-transylvania",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Bangja的美食藝術",
+        "FULLNAME": "bangja-art",
+        "RATING": 6,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP的擬人化",
+        "FULLNAME": "personification-of-scp",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5832 - 玷汙",
+        "FULLNAME": "scp-5832",
+        "RATING": 5,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-3001 - 紅色現實",
+        "FULLNAME": "scp-3001",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "關於我為了找狐娘去妖怪保護區結果下場十分慘烈的那件事",
+        "FULLNAME": "news4pamwac-fox",
+        "RATING": 18,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "未命名藝作",
+        "FULLNAME": "unnamed-artwork",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "外星娘的同居日常",
+        "FULLNAME": "das-taegliche-leben-mit-einer-ausserirdischen",
+        "RATING": 10,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-5167 - When The Imposter Is Sus",
+        "FULLNAME": "scp-5167",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-1903 - Jackie的秘密",
+        "FULLNAME": "scp-1903",
+        "RATING": 4,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "AnAnomalousWriter的壁紙（和其他的東西）",
+        "FULLNAME": "ananomalouswriter-s-wallpaper-place-and-more",
+        "RATING": 4,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "你的第一篇SCP！",
+        "FULLNAME": "your-very-first-scp",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Ará Orún",
+        "FULLNAME": "ara-orun",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-PL-156",
+        "FULLNAME": "scp-pl-156",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4182 - Site-5不存在",
+        "FULLNAME": "scp-4182",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4116 - 夢之宮殿中的夢魘之王",
+        "FULLNAME": "scp-4116",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5034 - 肉天使",
+        "FULLNAME": "scp-5034",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "為確保安全已省略",
+        "FULLNAME": "scp-5404",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "想著希望能再聽一次妻子的聲音",
+        "FULLNAME": "lost-hometown",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2358 - 我曾在哪裡見過這個……",
+        "FULLNAME": "scp-2358",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2217 - 鎚與砧",
+        "FULLNAME": "scp-2217",
+        "RATING": 4,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "壞結局",
+        "FULLNAME": "bad-end",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1393-RU",
+        "FULLNAME": "scp-1393-ru",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2881 - 不可攀之樹",
+        "FULLNAME": "scp-2881",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "潛力關注組織面試",
+        "FULLNAME": "interviews-with-prospective-groups-of-interest",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2597 - 負兩公斤",
+        "FULLNAME": "scp-2597",
+        "RATING": 6,
+        "COMMENTS": "1"
     }
 ]

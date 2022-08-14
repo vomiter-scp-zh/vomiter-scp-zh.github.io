@@ -34,5 +34,17 @@
         "FULLNAME": "littlewitch",
         "RATING": 11,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5699 - 好好照顧你自己",
+        "FULLNAME": "scp-5699",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2639 - 電玩遊戲暴力",
+        "FULLNAME": "scp-2639",
+        "RATING": 8,
+        "COMMENTS": "0"
     }
 ]

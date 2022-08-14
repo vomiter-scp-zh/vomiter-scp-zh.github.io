@@ -40,5 +40,59 @@
         "FULLNAME": "scp-2747",
         "RATING": 12,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "缺席",
+        "FULLNAME": "ad-absentia",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "關於我為了找狐娘去妖怪保護區結果下場十分慘烈的那件事",
+        "FULLNAME": "news4pamwac-fox",
+        "RATING": 18,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "外星娘的同居日常",
+        "FULLNAME": "das-taegliche-leben-mit-einer-ausserirdischen",
+        "RATING": 10,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-2639 - 電玩遊戲暴力",
+        "FULLNAME": "scp-2639",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3034 - 倒數站",
+        "FULLNAME": "scp-3034",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "收容危害控制",
+        "FULLNAME": "containment-hazard-control",
+        "RATING": 3,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-2439 - 編號未分配",
+        "FULLNAME": "scp-2439",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4319 - ♡粉粉的少女♡",
+        "FULLNAME": "scp-4319",
+        "RATING": 5,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-2217 - 鎚與砧",
+        "FULLNAME": "scp-2217",
+        "RATING": 4,
+        "COMMENTS": "3"
     }
 ]

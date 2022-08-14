@@ -310,5 +310,29 @@
         "FULLNAME": "shaggydredlocks-proposal",
         "RATING": 21,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3001 - 紅色現實",
+        "FULLNAME": "scp-3001",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SOYA-001在SCP中使用/能夠使用(大概)的SVGLOGO集",
+        "FULLNAME": "soya-001-logo-art-02",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4182 - Site-5不存在",
+        "FULLNAME": "scp-4182",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1393-RU",
+        "FULLNAME": "scp-1393-ru",
+        "RATING": 8,
+        "COMMENTS": "0"
     }
 ]

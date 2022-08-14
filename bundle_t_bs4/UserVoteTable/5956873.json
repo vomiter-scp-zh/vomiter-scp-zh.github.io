@@ -352,5 +352,71 @@
         "FULLNAME": "tribal-the-maybe-there-monsters",
         "RATING": 2,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "拯救世界的人",
+        "FULLNAME": "help-me",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Bangja的美食藝術",
+        "FULLNAME": "bangja-art",
+        "RATING": 6,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP的擬人化",
+        "FULLNAME": "personification-of-scp",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "亞伯與該隱",
+        "FULLNAME": "artwork-ouka-2",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "藝術創作：SCP-173",
+        "FULLNAME": "ozakitaii-20",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "tsucchii0301的SCP桌布",
+        "FULLNAME": "tsucchii0301-wallpapers",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "藝術創作：Bright博士",
+        "FULLNAME": "ozakitaii-19",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "未命名藝作",
+        "FULLNAME": "unnamed-artwork",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "黑暗之子",
+        "FULLNAME": "artwork-jp-nika-4",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "融化於紅色的現實",
+        "FULLNAME": "scp-3001-artworks",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "欲肉教中心頁",
+        "FULLNAME": "sarkicism-hub",
+        "RATING": 15,
+        "COMMENTS": "0"
     }
 ]

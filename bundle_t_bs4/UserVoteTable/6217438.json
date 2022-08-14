@@ -250,5 +250,113 @@
         "FULLNAME": "scpaaaaaaaaaaaaaaaaaa-jp-j",
         "RATING": 25,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ES-125",
+        "FULLNAME": "scp-es-125",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3521 - dado的強力香蕉相等劑",
+        "FULLNAME": "scp-3521",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-1032 - 預知鐘",
+        "FULLNAME": "scp-1032",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2639 - 電玩遊戲暴力",
+        "FULLNAME": "scp-2639",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4852 - Site-19南遷渡冬去！",
+        "FULLNAME": "scp-4852",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5167 - When The Imposter Is Sus",
+        "FULLNAME": "scp-5167",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-3034 - 倒數站",
+        "FULLNAME": "scp-3034",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2439 - 編號未分配",
+        "FULLNAME": "scp-2439",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2771 - 過境稅",
+        "FULLNAME": "scp-2771",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "恢復通行",
+        "FULLNAME": "trafficresumes",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "機密分級完整列表",
+        "FULLNAME": "esoteric-classes-complete-list",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4182 - Site-5不存在",
+        "FULLNAME": "scp-4182",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4182解密",
+        "FULLNAME": "scp-4182-declassification",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5034 - 肉天使",
+        "FULLNAME": "scp-5034",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4473 - 你讓我感覺像",
+        "FULLNAME": "scp-4473",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "為確保安全已省略",
+        "FULLNAME": "scp-5404",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1337 - 便車乘客",
+        "FULLNAME": "scp-1337",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "潛力關注組織面試",
+        "FULLNAME": "interviews-with-prospective-groups-of-interest",
+        "RATING": 12,
+        "COMMENTS": "0"
     }
 ]
