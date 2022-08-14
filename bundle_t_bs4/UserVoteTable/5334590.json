@@ -862,5 +862,23 @@
         "FULLNAME": "scp-436",
         "RATING": 3,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-783 - 以前有個扭曲的人",
+        "FULLNAME": "scp-783",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "透明人",
+        "FULLNAME": "transparent",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "DDD-2034",
+        "FULLNAME": "ddd-2034",
+        "RATING": 11,
+        "COMMENTS": "2"
     }
 ]

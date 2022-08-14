@@ -132,6 +132,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "ROUNDERHOUSE帶你成為王八蛋批評家的非常好官方指南",
+        "FULLNAME": "rounderhouse-critique-guide",
+        "RATING": 18,
+        "COMMENTS": "4"
+    },
+    {
         "TITLE": "Lily的提案",
         "FULLNAME": "lily-s-proposal",
         "RATING": 17,
@@ -720,6 +726,18 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-5883 - 反轉",
+        "FULLNAME": "scp-5883",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "DDD-2034",
+        "FULLNAME": "ddd-2034",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "魔法講座",
         "FULLNAME": "another-goddamn-magic-system",
         "RATING": 10,
@@ -1180,23 +1198,5 @@
         "FULLNAME": "scp-2048-jp",
         "RATING": 9,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "模因及資訊危害部門講座",
-        "FULLNAME": "memetics-and-infohazards-division-orientation",
-        "RATING": 9,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "K級情景總表",
-        "FULLNAME": "k-class-complete-list",
-        "RATING": 9,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-2041-JP - 基金會感染病房Q5！蒼白的末期患者與絕望的醫院",
-        "FULLNAME": "scp-2041-jp",
-        "RATING": 9,
-        "COMMENTS": "2"
     }
 ]

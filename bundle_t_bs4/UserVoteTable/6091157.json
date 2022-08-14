@@ -586,5 +586,47 @@
         "FULLNAME": "scp-327",
         "RATING": 4,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "寫作指南",
+        "FULLNAME": "guide-for-writing",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3373 - 我們所處的整個宇宙都處於熱稠密狀態",
+        "FULLNAME": "scp-3373",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5763 - 我夢見了我是一隻蝴蝶",
+        "FULLNAME": "scp-5763",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "驕傲至上之所",
+        "FULLNAME": "pride-of-place",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6287 - 活小鎮",
+        "FULLNAME": "scp-6287",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "ROUNDERHOUSE帶你成為王八蛋批評家的非常好官方指南",
+        "FULLNAME": "rounderhouse-critique-guide",
+        "RATING": 18,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-6513 - 趾醬",
+        "FULLNAME": "scp-6513",
+        "RATING": 8,
+        "COMMENTS": "2"
     }
 ]

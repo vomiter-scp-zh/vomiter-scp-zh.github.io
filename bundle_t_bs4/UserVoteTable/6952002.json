@@ -730,5 +730,53 @@
         "FULLNAME": "scp-614",
         "RATING": 4,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "奇蹟術式講座逐字稿　講者：████████████教授",
+        "FULLNAME": "goc-supplemental-thaumworkings",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5763 - 我夢見了我是一隻蝴蝶",
+        "FULLNAME": "scp-5763",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5883 - 反轉",
+        "FULLNAME": "scp-5883",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-914 實驗記錄指導",
+        "FULLNAME": "scp-914-experiment-log-guidelines",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "DDD-2034",
+        "FULLNAME": "ddd-2034",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-6287 - 活小鎮",
+        "FULLNAME": "scp-6287",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "ROUNDERHOUSE帶你成為王八蛋批評家的非常好官方指南",
+        "FULLNAME": "rounderhouse-critique-guide",
+        "RATING": 18,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-5861 - 狐",
+        "FULLNAME": "scp-5861",
+        "RATING": 6,
+        "COMMENTS": "1"
     }
 ]

@@ -496,5 +496,23 @@
         "FULLNAME": "scp-354",
         "RATING": 7,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-931 - 俳句碗",
+        "FULLNAME": "scp-931",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-372-JP - 火燙的拉麵",
+        "FULLNAME": "scp-372-jp",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "透明人",
+        "FULLNAME": "transparent",
+        "RATING": 8,
+        "COMMENTS": "0"
     }
 ]

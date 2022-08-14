@@ -244,5 +244,11 @@
         "FULLNAME": "scp-5145-declassification",
         "RATING": 5,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "透明人",
+        "FULLNAME": "transparent",
+        "RATING": 8,
+        "COMMENTS": "0"
     }
 ]

@@ -1072,5 +1072,95 @@
         "FULLNAME": "guide-for-newcomers",
         "RATING": 6,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-喵-J",
+        "FULLNAME": "scp-meow-j",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "寫作指南",
+        "FULLNAME": "guide-for-writing",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "時空站點Site-01（RCT-Δt中心）",
+        "FULLNAME": "welcome-to-delta-t",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "基金會部門",
+        "FULLNAME": "departments",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "非現實部中心頁",
+        "FULLNAME": "unreality-hub",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-618 - 所剩不多",
+        "FULLNAME": "scp-618",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6208 - 她曾名喚失憶症",
+        "FULLNAME": "scp-6208",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5763 - 我夢見了我是一隻蝴蝶",
+        "FULLNAME": "scp-5763",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5883 - 反轉",
+        "FULLNAME": "scp-5883",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6802 - 湯桶狗",
+        "FULLNAME": "scp-6802",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6383 - 正牌的異常",
+        "FULLNAME": "scp-6383",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "驕傲至上之所",
+        "FULLNAME": "pride-of-place",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "ROUNDERHOUSE帶你成為王八蛋批評家的非常好官方指南",
+        "FULLNAME": "rounderhouse-critique-guide",
+        "RATING": 18,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-6513 - 趾醬",
+        "FULLNAME": "scp-6513",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-5861 - 狐",
+        "FULLNAME": "scp-5861",
+        "RATING": 6,
+        "COMMENTS": "1"
     }
 ]

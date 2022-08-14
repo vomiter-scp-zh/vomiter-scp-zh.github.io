@@ -304,5 +304,35 @@
         "FULLNAME": "i-a-polar-bear-covering-my-nose-in-a-snowstorm",
         "RATING": 11,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-108 - 異空間鼻腔",
+        "FULLNAME": "scp-108",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-618 - 所剩不多",
+        "FULLNAME": "scp-618",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6337 - 晚餐派對",
+        "FULLNAME": "scp-6337",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6287 - 活小鎮",
+        "FULLNAME": "scp-6287",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "ROUNDERHOUSE帶你成為王八蛋批評家的非常好官方指南",
+        "FULLNAME": "rounderhouse-critique-guide",
+        "RATING": 18,
+        "COMMENTS": "4"
     }
 ]

@@ -268,5 +268,59 @@
         "FULLNAME": "scp-329",
         "RATING": 5,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-401 - 人掌樹",
+        "FULLNAME": "scp-401",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "奇蹟術式講座逐字稿　講者：████████████教授",
+        "FULLNAME": "goc-supplemental-thaumworkings",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-108 - 異空間鼻腔",
+        "FULLNAME": "scp-108",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-525 - 眼蛛",
+        "FULLNAME": "scp-525",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-150 - 忒修斯之船",
+        "FULLNAME": "scp-150",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "非現實部中心頁",
+        "FULLNAME": "unreality-hub",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "交叉超連結指南",
+        "FULLNAME": "crosslinks-guide",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-914 實驗記錄指導",
+        "FULLNAME": "scp-914-experiment-log-guidelines",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "透明人",
+        "FULLNAME": "transparent",
+        "RATING": 8,
+        "COMMENTS": "0"
     }
 ]

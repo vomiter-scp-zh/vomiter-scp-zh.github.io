@@ -208,5 +208,17 @@
         "FULLNAME": "scp-104",
         "RATING": 3,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-637 - 傳染性家貓",
+        "FULLNAME": "scp-637",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-506 - 超快速生長植物",
+        "FULLNAME": "scp-506",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]

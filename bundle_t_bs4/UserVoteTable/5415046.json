@@ -718,5 +718,59 @@
         "FULLNAME": "scp-427",
         "RATING": 2,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-517 - 奶奶都知道",
+        "FULLNAME": "scp-517",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-536 - 物理法則測試室",
+        "FULLNAME": "scp-536",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-559 - 生日時間！",
+        "FULLNAME": "scp-559",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-457 - 盛燃者",
+        "FULLNAME": "scp-457",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-525 - 眼蛛",
+        "FULLNAME": "scp-525",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-461 - ZICU-TV",
+        "FULLNAME": "scp-461",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-205 - 照影詭燈",
+        "FULLNAME": "scp-205",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-150 - 忒修斯之船",
+        "FULLNAME": "scp-150",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-931 - 俳句碗",
+        "FULLNAME": "scp-931",
+        "RATING": 6,
+        "COMMENTS": "0"
     }
 ]

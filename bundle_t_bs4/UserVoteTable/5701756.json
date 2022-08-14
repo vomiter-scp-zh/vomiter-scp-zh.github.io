@@ -250,5 +250,35 @@
         "FULLNAME": "guide-for-newcomers",
         "RATING": 6,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "奇蹟術式講座逐字稿　講者：████████████教授",
+        "FULLNAME": "goc-supplemental-thaumworkings",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6337 - 晚餐派對",
+        "FULLNAME": "scp-6337",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5883 - 反轉",
+        "FULLNAME": "scp-5883",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "DDD-2034",
+        "FULLNAME": "ddd-2034",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-6513 - 趾醬",
+        "FULLNAME": "scp-6513",
+        "RATING": 8,
+        "COMMENTS": "2"
     }
 ]

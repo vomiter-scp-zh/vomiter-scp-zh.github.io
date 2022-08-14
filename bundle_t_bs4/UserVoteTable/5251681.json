@@ -796,5 +796,29 @@
         "FULLNAME": "scp-5310",
         "RATING": 6,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "奇蹟術式講座逐字稿　講者：████████████教授",
+        "FULLNAME": "goc-supplemental-thaumworkings",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-559 - 生日時間！",
+        "FULLNAME": "scp-559",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "透明人",
+        "FULLNAME": "transparent",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "ROUNDERHOUSE帶你成為王八蛋批評家的非常好官方指南",
+        "FULLNAME": "rounderhouse-critique-guide",
+        "RATING": 18,
+        "COMMENTS": "4"
     }
 ]

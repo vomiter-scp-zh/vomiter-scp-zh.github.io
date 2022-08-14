@@ -16,5 +16,23 @@
         "FULLNAME": "departments-complete-list",
         "RATING": 8,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "交叉超連結指南",
+        "FULLNAME": "crosslinks-guide",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "透明人",
+        "FULLNAME": "transparent",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "ROUNDERHOUSE帶你成為王八蛋批評家的非常好官方指南",
+        "FULLNAME": "rounderhouse-critique-guide",
+        "RATING": 18,
+        "COMMENTS": "4"
     }
 ]

@@ -64,5 +64,59 @@
         "FULLNAME": "i-a-polar-bear-covering-my-nose-in-a-snowstorm",
         "RATING": 11,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-761 - 稍微沒那麼危險的彈簧床",
+        "FULLNAME": "scp-761",
+        "RATING": 5,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-387 - 活體樂高",
+        "FULLNAME": "scp-387",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6802 - 湯桶狗",
+        "FULLNAME": "scp-6802",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-407 - 創世之歌",
+        "FULLNAME": "scp-407",
+        "RATING": 2,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "實驗日誌407",
+        "FULLNAME": "407",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "ROUNDERHOUSE帶你成為王八蛋批評家的非常好官方指南",
+        "FULLNAME": "rounderhouse-critique-guide",
+        "RATING": 18,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "Glassautomaton的作者頁",
+        "FULLNAME": "glassautomaton-s-author-page",
+        "RATING": 4,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-5861 - 狐",
+        "FULLNAME": "scp-5861",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2711 - 定海神針 如意金箍棒",
+        "FULLNAME": "scp-2711",
+        "RATING": 3,
+        "COMMENTS": "1"
     }
 ]
