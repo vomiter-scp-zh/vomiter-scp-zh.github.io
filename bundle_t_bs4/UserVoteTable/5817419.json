@@ -40,5 +40,47 @@
         "FULLNAME": "scp-1507",
         "RATING": 5,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP格式資源",
+        "FULLNAME": "scp-style-resource",
+        "RATING": 31,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "異常分類系統（ACS）指南頁",
+        "FULLNAME": "anomaly-classification-system-guide",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "理查森島",
+        "FULLNAME": "richardson-island",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Dr Clef的提案 - 神國的守門者",
+        "FULLNAME": "dr-clef-s-proposal",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3125 - 亡命之人",
+        "FULLNAME": "scp-3125",
+        "RATING": 8,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "實驗紀錄-914 中心頁",
+        "FULLNAME": "experiment-log-914-hub",
+        "RATING": 4,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "事故 239-B - Clef-Kondraki",
+        "FULLNAME": "incident-239-b-clef-kondraki",
+        "RATING": 10,
+        "COMMENTS": "1"
     }
 ]

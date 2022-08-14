@@ -124,5 +124,41 @@
         "FULLNAME": "scp-2412",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-055 - 未知",
+        "FULLNAME": "scp-055",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "基金會在夜谷",
+        "FULLNAME": "fondation-a-valnuit",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3999 - 我為一切及我之事所包圍",
+        "FULLNAME": "scp-3999",
+        "RATING": 34,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "異視維基中心頁",
+        "FULLNAME": "parawatch-hub",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5998 - 人類，揚升",
+        "FULLNAME": "scp-5998",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-087 - 樓梯間",
+        "FULLNAME": "scp-087",
+        "RATING": 6,
+        "COMMENTS": "1"
     }
 ]

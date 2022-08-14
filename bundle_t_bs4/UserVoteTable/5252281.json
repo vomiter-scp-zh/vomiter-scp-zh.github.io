@@ -100,5 +100,41 @@
         "FULLNAME": "oneiroi",
         "RATING": 10,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "如何搞好安全措施",
+        "FULLNAME": "doing-the-safety-dance",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4041 - 霸王龍的騙局",
+        "FULLNAME": "scp-4041",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP格式資源",
+        "FULLNAME": "scp-style-resource",
+        "RATING": 31,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-3965 - 燭龍",
+        "FULLNAME": "scp-3965",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Dr Clef的提案 - 神國的守門者",
+        "FULLNAME": "dr-clef-s-proposal",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "事故 239-B - Clef-Kondraki",
+        "FULLNAME": "incident-239-b-clef-kondraki",
+        "RATING": 10,
+        "COMMENTS": "1"
     }
 ]

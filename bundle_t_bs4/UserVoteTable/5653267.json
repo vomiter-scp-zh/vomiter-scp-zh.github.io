@@ -88,5 +88,41 @@
         "FULLNAME": "scp-int-to-ru",
         "RATING": 6,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP格式資源",
+        "FULLNAME": "scp-style-resource",
+        "RATING": 31,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-2000 - 機械降神",
+        "FULLNAME": "scp-2000",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3999 - 我為一切及我之事所包圍",
+        "FULLNAME": "scp-3999",
+        "RATING": 34,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-4999 - 守望我等之人",
+        "FULLNAME": "scp-4999",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "異視維基中心頁",
+        "FULLNAME": "parawatch-hub",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-999 - 癢癢怪",
+        "FULLNAME": "scp-999",
+        "RATING": 11,
+        "COMMENTS": "0"
     }
 ]

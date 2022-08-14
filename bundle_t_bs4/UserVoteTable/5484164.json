@@ -10,5 +10,11 @@
         "FULLNAME": "scp-682",
         "RATING": 24,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP格式資源",
+        "FULLNAME": "scp-style-resource",
+        "RATING": 31,
+        "COMMENTS": "6"
     }
 ]

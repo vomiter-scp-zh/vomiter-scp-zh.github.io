@@ -28,5 +28,29 @@
         "FULLNAME": "scp-4428",
         "RATING": 11,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP格式資源",
+        "FULLNAME": "scp-style-resource",
+        "RATING": 31,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-701 - 受絞之王的悲劇",
+        "FULLNAME": "scp-701",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "進階排版與你",
+        "FULLNAME": "advanced-formatting-and-you",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "異視維基中心頁",
+        "FULLNAME": "parawatch-hub",
+        "RATING": 8,
+        "COMMENTS": "0"
     }
 ]

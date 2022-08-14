@@ -316,5 +316,23 @@
         "FULLNAME": "foodies-frogs-flying",
         "RATING": 5,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4041 - 霸王龍的騙局",
+        "FULLNAME": "scp-4041",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4574 - 石器時代的武器虎",
+        "FULLNAME": "scp-4574",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5040 - 血の涙 (血之淚)",
+        "FULLNAME": "scp-5040",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]

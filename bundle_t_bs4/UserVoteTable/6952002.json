@@ -106,5 +106,11 @@
         "FULLNAME": "gamers-against-weed-hub",
         "RATING": 4,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-882 - 一台機器",
+        "FULLNAME": "scp-882",
+        "RATING": 8,
+        "COMMENTS": "1"
     }
 ]

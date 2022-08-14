@@ -52,5 +52,23 @@
         "FULLNAME": "collected-item-no19316",
         "RATING": 6,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP格式資源",
+        "FULLNAME": "scp-style-resource",
+        "RATING": 31,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-098 - 解剖蟹",
+        "FULLNAME": "scp-098",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-017 - 影人",
+        "FULLNAME": "scp-017",
+        "RATING": 6,
+        "COMMENTS": "0"
     }
 ]

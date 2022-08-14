@@ -64,5 +64,29 @@
         "FULLNAME": "oneiroi",
         "RATING": 10,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP格式資源",
+        "FULLNAME": "scp-style-resource",
+        "RATING": 31,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-2000 - 機械降神",
+        "FULLNAME": "scp-2000",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3125 - 亡命之人",
+        "FULLNAME": "scp-3125",
+        "RATING": 8,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-3999 - 我為一切及我之事所包圍",
+        "FULLNAME": "scp-3999",
+        "RATING": 34,
+        "COMMENTS": "2"
     }
 ]

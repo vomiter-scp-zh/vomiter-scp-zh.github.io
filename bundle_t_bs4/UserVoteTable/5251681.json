@@ -46,5 +46,23 @@
         "FULLNAME": "bearitage-collection",
         "RATING": 7,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP格式資源",
+        "FULLNAME": "scp-style-resource",
+        "RATING": 31,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-3999 - 我為一切及我之事所包圍",
+        "FULLNAME": "scp-3999",
+        "RATING": 34,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-018 - 超級彈力球",
+        "FULLNAME": "scp-018",
+        "RATING": 3,
+        "COMMENTS": "0"
     }
 ]

@@ -82,5 +82,23 @@
         "FULLNAME": "scp-1313",
         "RATING": 5,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP格式資源",
+        "FULLNAME": "scp-style-resource",
+        "RATING": 31,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-3999 - 我為一切及我之事所包圍",
+        "FULLNAME": "scp-3999",
+        "RATING": 34,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "赫曼•富勒的不安馬戲團中心",
+        "FULLNAME": "herman-fuller-hub",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]

@@ -28,5 +28,17 @@
         "FULLNAME": "scp-int-to-ru",
         "RATING": 6,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2000 - 機械降神",
+        "FULLNAME": "scp-2000",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4574 - 石器時代的武器虎",
+        "FULLNAME": "scp-4574",
+        "RATING": 6,
+        "COMMENTS": "0"
     }
 ]

@@ -10,5 +10,11 @@
         "FULLNAME": "scp-001-ex",
         "RATING": 17,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-701 - 受絞之王的悲劇",
+        "FULLNAME": "scp-701",
+        "RATING": 9,
+        "COMMENTS": "2"
     }
 ]

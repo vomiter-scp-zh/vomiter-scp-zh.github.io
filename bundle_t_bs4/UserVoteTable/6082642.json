@@ -46,5 +46,23 @@
         "FULLNAME": "scp-2412",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP格式資源",
+        "FULLNAME": "scp-style-resource",
+        "RATING": 31,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-3999 - 我為一切及我之事所包圍",
+        "FULLNAME": "scp-3999",
+        "RATING": 34,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "機動特遣隊Omega-7事故紀錄",
+        "FULLNAME": "scp-076-2",
+        "RATING": 6,
+        "COMMENTS": "0"
     }
 ]

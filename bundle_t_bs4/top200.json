@@ -6,6 +6,18 @@
         "COMMENTS": "3"
     },
     {
+        "TITLE": "SCP-3999 - 我為一切及我之事所包圍",
+        "FULLNAME": "scp-3999",
+        "RATING": 34,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP格式資源",
+        "FULLNAME": "scp-style-resource",
+        "RATING": 31,
+        "COMMENTS": "6"
+    },
+    {
         "TITLE": "歡迎來到 SCP 基金會！",
         "FULLNAME": "scp-es-138",
         "RATING": 29,
@@ -126,6 +138,24 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-055 - 未知",
+        "FULLNAME": "scp-055",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Dr Clef的提案 - 神國的守門者",
+        "FULLNAME": "dr-clef-s-proposal",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4999 - 守望我等之人",
+        "FULLNAME": "scp-4999",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-050 - 致最聰明的人",
         "FULLNAME": "scp-050",
         "RATING": 11,
@@ -170,6 +200,18 @@
     {
         "TITLE": "Michaels 博士",
         "FULLNAME": "scp-4428",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "如何搞好安全措施",
+        "FULLNAME": "doing-the-safety-dance",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-999 - 癢癢怪",
+        "FULLNAME": "scp-999",
         "RATING": 11,
         "COMMENTS": "0"
     },
@@ -250,6 +292,18 @@
         "FULLNAME": "oneiroi",
         "RATING": 10,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-2000 - 機械降神",
+        "FULLNAME": "scp-2000",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "事故 239-B - Clef-Kondraki",
+        "FULLNAME": "incident-239-b-clef-kondraki",
+        "RATING": 10,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-682-J James 的塗鴉小冊子",
@@ -356,6 +410,18 @@
     {
         "TITLE": "安布羅斯餐廳中心頁",
         "FULLNAME": "ambrose-restaurant-hub",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-701 - 受絞之王的悲劇",
+        "FULLNAME": "scp-701",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-2317 - 前往彼界之門",
+        "FULLNAME": "scp-2317",
         "RATING": 9,
         "COMMENTS": "0"
     },
@@ -472,6 +538,42 @@
         "FULLNAME": "prometheus-labs-hub",
         "RATING": 8,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "異常分類系統（ACS）指南頁",
+        "FULLNAME": "anomaly-classification-system-guide",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-882 - 一台機器",
+        "FULLNAME": "scp-882",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3125 - 亡命之人",
+        "FULLNAME": "scp-3125",
+        "RATING": 8,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-3582 - 多元宇宙正在痙攣",
+        "FULLNAME": "scp-3582",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-294 - 咖啡機",
+        "FULLNAME": "scp-294",
+        "RATING": 8,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "異視維基中心頁",
+        "FULLNAME": "parawatch-hub",
+        "RATING": 8,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-240-JP - 零隻蝗蟲",
@@ -598,6 +700,30 @@
         "FULLNAME": "excerpts-regarding-st-sophia",
         "RATING": 7,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-SPOOKY-J",
+        "FULLNAME": "scp-spooky-j",
+        "RATING": 7,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "理查森島",
+        "FULLNAME": "richardson-island",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "格魯烏-P 個案卷宗 \"阿爾瑪 基耶甫西納 ALMA KYIVSHCHYNA\"",
+        "FULLNAME": "alma-kyivshchyna",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Yesterday",
+        "FULLNAME": "yesterday",
+        "RATING": 7,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-007 - 內腹行星",
@@ -814,6 +940,42 @@
         "FULLNAME": "collected-item-no19316",
         "RATING": 6,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-4041 - 霸王龍的騙局",
+        "FULLNAME": "scp-4041",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "茄子報選舉特刊",
+        "FULLNAME": "eggplant-election-special",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-017 - 影人",
+        "FULLNAME": "scp-017",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4574 - 石器時代的武器虎",
+        "FULLNAME": "scp-4574",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-087 - 樓梯間",
+        "FULLNAME": "scp-087",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "機動特遣隊Omega-7事故紀錄",
+        "FULLNAME": "scp-076-2",
+        "RATING": 6,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-004 - 穿越銹匙之門",
@@ -1036,167 +1198,5 @@
         "FULLNAME": "scp-352",
         "RATING": 5,
         "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP維基上的用戶工具",
-        "FULLNAME": "usertools",
-        "RATING": 5,
-        "COMMENTS": "3"
-    },
-    {
-        "TITLE": "關注組織-JP",
-        "FULLNAME": "groups-of-interest-jp",
-        "RATING": 5,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "Nx-07",
-        "FULLNAME": "nx-07",
-        "RATING": 5,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "週日搞笑漫",
-        "FULLNAME": "sunday-funnies",
-        "RATING": 5,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "發布可愛的東西！",
-        "FULLNAME": "cuteness-on-main",
-        "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-380-KO",
-        "FULLNAME": "scp-380-ko",
-        "RATING": 5,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "GOI-001：芝加哥鬼靈",
-        "FULLNAME": "chicago-spirit",
-        "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-1507 - 粉紅火烈鳥",
-        "FULLNAME": "scp-1507",
-        "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "收容失效：萬聖夜驚魂",
-        "FULLNAME": "the-halloween-breach",
-        "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-105 - 「Iris」",
-        "FULLNAME": "scp-105",
-        "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-1313 - 解答是隻熊",
-        "FULLNAME": "scp-1313",
-        "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "美食家、青蛙與飛行",
-        "FULLNAME": "foodies-frogs-flying",
-        "RATING": 5,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-005 - 解構鑰匙",
-        "FULLNAME": "scp-005",
-        "RATING": 4,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-012 - 樂譜",
-        "FULLNAME": "scp-012",
-        "RATING": 4,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-021 - 紋身之龍",
-        "FULLNAME": "scp-021",
-        "RATING": 4,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "一封附有禮物的信",
-        "FULLNAME": "present-and-letter",
-        "RATING": 4,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "銜尾蛇",
-        "FULLNAME": "ouroboros",
-        "RATING": 4,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "The Based God(翻修中)",
-        "FULLNAME": "djkaktus",
-        "RATING": 4,
-        "COMMENTS": "3"
-    },
-    {
-        "TITLE": "SCP-2172 - 永遠的紅燈",
-        "FULLNAME": "scp-2172",
-        "RATING": 4,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-2984 - 著火的女孩",
-        "FULLNAME": "scp-2984",
-        "RATING": 4,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-4148 - 太空瓢蟲",
-        "FULLNAME": "scp-4148",
-        "RATING": 4,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-901-TH",
-        "FULLNAME": "scp-901-th",
-        "RATING": 4,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-151 - 一幅畫作",
-        "FULLNAME": "scp-151",
-        "RATING": 4,
-        "COMMENTS": "3"
-    },
-    {
-        "TITLE": "如何認養一隻蝴蝶錦鯉",
-        "FULLNAME": "how-to-adopt-a-butterfly-koi",
-        "RATING": 4,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "關於鹿學院",
-        "FULLNAME": "about-deer",
-        "RATING": 4,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-2443 - 齊齊整整一家人",
-        "FULLNAME": "scp-2443",
-        "RATING": 4,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-990 - 夢行兆示者",
-        "FULLNAME": "scp-990",
-        "RATING": 4,
-        "COMMENTS": "3"
     }
 ]

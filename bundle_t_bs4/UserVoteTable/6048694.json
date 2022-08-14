@@ -34,5 +34,17 @@
         "FULLNAME": "scp-1047-j",
         "RATING": 4,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-4999 - 守望我等之人",
+        "FULLNAME": "scp-4999",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-087 - 樓梯間",
+        "FULLNAME": "scp-087",
+        "RATING": 6,
+        "COMMENTS": "1"
     }
 ]

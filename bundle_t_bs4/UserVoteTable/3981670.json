@@ -448,5 +448,173 @@
         "FULLNAME": "oneiroi",
         "RATING": 10,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-4041 - 霸王龍的騙局",
+        "FULLNAME": "scp-4041",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "茄子報選舉特刊",
+        "FULLNAME": "eggplant-election-special",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-882 - 一台機器",
+        "FULLNAME": "scp-882",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "赫勒·富曼的展出：瑪納斯寬的魚人",
+        "FULLNAME": "the-fishman-of-manasquan",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "理查森島",
+        "FULLNAME": "richardson-island",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2000 - 機械降神",
+        "FULLNAME": "scp-2000",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3528 - 女巫狩獵者",
+        "FULLNAME": "scp-3528",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4726 - 宅 宅 奶",
+        "FULLNAME": "scp-4726",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Dr Clef的提案 - 神國的守門者",
+        "FULLNAME": "dr-clef-s-proposal",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Yesterday",
+        "FULLNAME": "yesterday",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4574 - 石器時代的武器虎",
+        "FULLNAME": "scp-4574",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3582 - 多元宇宙正在痙攣",
+        "FULLNAME": "scp-3582",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3999 - 我為一切及我之事所包圍",
+        "FULLNAME": "scp-3999",
+        "RATING": 34,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-2317 - 前往彼界之門",
+        "FULLNAME": "scp-2317",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4999 - 守望我等之人",
+        "FULLNAME": "scp-4999",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-093「碧藍」測試",
+        "FULLNAME": "scp-093-blue-test",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-087 - 樓梯間",
+        "FULLNAME": "scp-087",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-093「殷紅」測試",
+        "FULLNAME": "scp-093-red-test",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "文件087-I",
+        "FULLNAME": "document-087-i",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "赫曼•富勒的不安馬戲團中心",
+        "FULLNAME": "herman-fuller-hub",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "XXV號部門 中心頁",
+        "FULLNAME": "abteilung-xxv-hub",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "文件087-II",
+        "FULLNAME": "document-087-ii",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-729 - 大理石浴",
+        "FULLNAME": "scp-729",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-381 - 火焰合唱",
+        "FULLNAME": "scp-381",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-999 - 癢癢怪",
+        "FULLNAME": "scp-999",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-409 - 瘟晶",
+        "FULLNAME": "scp-409",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "機動特遣隊Omega-7事故紀錄",
+        "FULLNAME": "scp-076-2",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-072 - 床腳",
+        "FULLNAME": "scp-072",
+        "RATING": 4,
+        "COMMENTS": "1"
     }
 ]

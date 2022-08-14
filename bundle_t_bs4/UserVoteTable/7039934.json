@@ -22,5 +22,23 @@
         "FULLNAME": "atashi-merisa",
         "RATING": 13,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP格式資源",
+        "FULLNAME": "scp-style-resource",
+        "RATING": 31,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-4999 - 守望我等之人",
+        "FULLNAME": "scp-4999",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "事故 239-B - Clef-Kondraki",
+        "FULLNAME": "incident-239-b-clef-kondraki",
+        "RATING": 10,
+        "COMMENTS": "1"
     }
 ]

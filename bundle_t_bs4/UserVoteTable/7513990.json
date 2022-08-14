@@ -100,5 +100,17 @@
         "FULLNAME": "scp-2412",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-701 - 受絞之王的悲劇",
+        "FULLNAME": "scp-701",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-4083 - 湖濱景觀公寓",
+        "FULLNAME": "scp-4083",
+        "RATING": 2,
+        "COMMENTS": "5"
     }
 ]

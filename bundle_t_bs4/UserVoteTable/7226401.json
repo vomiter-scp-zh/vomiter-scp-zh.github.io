@@ -82,5 +82,29 @@
         "FULLNAME": "scp-066",
         "RATING": 4,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-SPOOKY-J",
+        "FULLNAME": "scp-spooky-j",
+        "RATING": 7,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-294 - 咖啡機",
+        "FULLNAME": "scp-294",
+        "RATING": 8,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-4999 - 守望我等之人",
+        "FULLNAME": "scp-4999",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-999 - 癢癢怪",
+        "FULLNAME": "scp-999",
+        "RATING": 11,
+        "COMMENTS": "0"
     }
 ]

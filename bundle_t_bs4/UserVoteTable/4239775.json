@@ -400,5 +400,41 @@
         "FULLNAME": "excerpts-regarding-st-sophia",
         "RATING": 7,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "如何搞好安全措施",
+        "FULLNAME": "doing-the-safety-dance",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP格式資源",
+        "FULLNAME": "scp-style-resource",
+        "RATING": 31,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-055 - 未知",
+        "FULLNAME": "scp-055",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-701 - 受絞之王的悲劇",
+        "FULLNAME": "scp-701",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-2000 - 機械降神",
+        "FULLNAME": "scp-2000",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "格魯烏-P 個案卷宗 \"阿爾瑪 基耶甫西納 ALMA KYIVSHCHYNA\"",
+        "FULLNAME": "alma-kyivshchyna",
+        "RATING": 7,
+        "COMMENTS": "0"
     }
 ]

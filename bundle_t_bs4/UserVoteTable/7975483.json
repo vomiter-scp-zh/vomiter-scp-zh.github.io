@@ -22,5 +22,11 @@
         "FULLNAME": "translation-reservation",
         "RATING": 1,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-062 - 「量子」電腦",
+        "FULLNAME": "scp-062",
+        "RATING": 3,
+        "COMMENTS": "1"
     }
 ]

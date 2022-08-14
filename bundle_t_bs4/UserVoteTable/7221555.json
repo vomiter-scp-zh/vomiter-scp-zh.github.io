@@ -16,5 +16,11 @@
         "FULLNAME": "ambrose-restaurant-hub",
         "RATING": 9,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-294 - 咖啡機",
+        "FULLNAME": "scp-294",
+        "RATING": 8,
+        "COMMENTS": "3"
     }
 ]

@@ -16,5 +16,29 @@
         "FULLNAME": "niveaux-de-menace-des-objets-scp",
         "RATING": 6,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-055 - 未知",
+        "FULLNAME": "scp-055",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-062 - 「量子」電腦",
+        "FULLNAME": "scp-062",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-294 - 咖啡機",
+        "FULLNAME": "scp-294",
+        "RATING": 8,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-999 - 癢癢怪",
+        "FULLNAME": "scp-999",
+        "RATING": 11,
+        "COMMENTS": "0"
     }
 ]
