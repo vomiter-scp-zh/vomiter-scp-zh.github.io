@@ -418,5 +418,131 @@
         "FULLNAME": "scp-5190",
         "RATING": 10,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "「無」競賽聲援圖",
+        "FULLNAME": "mu-contest-fan-art",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "「惡」競賽聲援圖",
+        "FULLNAME": "vice-contest-fan-art",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "槍之形",
+        "FULLNAME": "the-shape-of-a-gun",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5929 - 從尿而來",
+        "FULLNAME": "scp-5929",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5884 - 存活",
+        "FULLNAME": "scp-5884",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "門前的狼群",
+        "FULLNAME": "the-wolves-at-the-door",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3939 - 編號保留；有待研究人員",
+        "FULLNAME": "scp-3939",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3790解密",
+        "FULLNAME": "scp-3790-declassification",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "一個能幫助那些懶骨頭們更新人事頁的超簡易工具",
+        "FULLNAME": "author-page-tool",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "佔位符的人事檔案",
+        "FULLNAME": "placeholder-mcd-s-authorpage",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "13173",
+        "FULLNAME": "luvle-s-comic",
+        "RATING": 5,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "蟬與音樂家",
+        "FULLNAME": "geroe",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-329-J",
+        "FULLNAME": "scp-329-j",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "我們是Keter！",
+        "FULLNAME": "aorebar0222",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "與死者並肩奮戰",
+        "FULLNAME": "in-the-trenches-with-the-dead",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "在紅色果實的樹下",
+        "FULLNAME": "apple-babies",
+        "RATING": 1,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4646 - 為了世界的終末而替我大聲歌頌",
+        "FULLNAME": "scp-4646",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5764 - 這裏什麼都沒有。",
+        "FULLNAME": "scp-5764",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-4465 - 人不能獨自而活",
+        "FULLNAME": "scp-4465",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5690 - 專業調教女王",
+        "FULLNAME": "adult:scp-5690",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "美好的夢境。",
+        "FULLNAME": "aorebar0222-2",
+        "RATING": 6,
+        "COMMENTS": "0"
     }
 ]

@@ -208,5 +208,17 @@
         "FULLNAME": "scp-5404",
         "RATING": 12,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-329-J",
+        "FULLNAME": "scp-329-j",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4646 - 為了世界的終末而替我大聲歌頌",
+        "FULLNAME": "scp-4646",
+        "RATING": 6,
+        "COMMENTS": "0"
     }
 ]

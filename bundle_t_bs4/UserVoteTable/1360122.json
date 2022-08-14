@@ -22,5 +22,17 @@
         "FULLNAME": "goc-supplemental-thaumatology",
         "RATING": 9,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3396 - 至高天境寄生體",
+        "FULLNAME": "scp-3396",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5884 - 存活",
+        "FULLNAME": "scp-5884",
+        "RATING": 5,
+        "COMMENTS": "1"
     }
 ]

@@ -112,5 +112,29 @@
         "FULLNAME": "scp-3002",
         "RATING": 12,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3790解密",
+        "FULLNAME": "scp-3790-declassification",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5002 - 收容間殺人事件",
+        "FULLNAME": "scp-5002",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "是的",
+        "FULLNAME": "no",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4661 - 罪惡城市",
+        "FULLNAME": "scp-4661",
+        "RATING": 5,
+        "COMMENTS": "1"
     }
 ]

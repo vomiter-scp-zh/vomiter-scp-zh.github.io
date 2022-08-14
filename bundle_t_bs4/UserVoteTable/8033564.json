@@ -178,5 +178,35 @@
         "FULLNAME": "scp-2597",
         "RATING": 6,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3396 - 至高天境寄生體",
+        "FULLNAME": "scp-3396",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5929 - 從尿而來",
+        "FULLNAME": "scp-5929",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "佔位符的人事檔案",
+        "FULLNAME": "placeholder-mcd-s-authorpage",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4444 - 布希大戰高爾",
+        "FULLNAME": "scp-4444",
+        "RATING": 13,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-4661 - 罪惡城市",
+        "FULLNAME": "scp-4661",
+        "RATING": 5,
+        "COMMENTS": "1"
     }
 ]

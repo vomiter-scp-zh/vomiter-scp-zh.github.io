@@ -106,5 +106,35 @@
         "FULLNAME": "clef-excerpts",
         "RATING": 12,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3939 - 編號保留；有待研究人員",
+        "FULLNAME": "scp-3939",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "愚人博物館",
+        "FULLNAME": "museum-of-idiots",
+        "RATING": 2,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-5690 - 專業調教女王",
+        "FULLNAME": "adult:scp-5690",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3309 - 逐漸消逝之際，我等何去何從",
+        "FULLNAME": "scp-3309",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "一份更酷的宣言",
+        "FULLNAME": "a-cooler-manifesto",
+        "RATING": 2,
+        "COMMENTS": "0"
     }
 ]

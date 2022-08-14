@@ -688,5 +688,101 @@
         "FULLNAME": "scp-5190",
         "RATING": 10,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "「惡」競賽聲援圖",
+        "FULLNAME": "vice-contest-fan-art",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "分級委員會備忘錄",
+        "FULLNAME": "classification-committee-memo",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-5884 - 存活",
+        "FULLNAME": "scp-5884",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3270 - 一幅使你成為毛迷的繪畫",
+        "FULLNAME": "scp-3270",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5259 - 第13海兵隊遠征部隊的准下士鰭暴",
+        "FULLNAME": "scp-5259",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-007-J",
+        "FULLNAME": "scp-007-j",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "蟬與音樂家",
+        "FULLNAME": "geroe",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-329-J",
+        "FULLNAME": "scp-329-j",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-970-EX",
+        "FULLNAME": "scp-970-ex",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "我們是Keter！",
+        "FULLNAME": "aorebar0222",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-027-PT",
+        "FULLNAME": "scp-027-pt",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "“老師”",
+        "FULLNAME": "teacher",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5764 - 這裏什麼都沒有。",
+        "FULLNAME": "scp-5764",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "好運眷顧",
+        "FULLNAME": "fortune-favors-hub",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "美好的夢境。",
+        "FULLNAME": "aorebar0222-2",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "哇塞，弄死你自己吧",
+        "FULLNAME": "wowwee-go-kill-ursefl",
+        "RATING": 3,
+        "COMMENTS": "0"
     }
 ]

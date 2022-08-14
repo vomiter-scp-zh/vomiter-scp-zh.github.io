@@ -1402,5 +1402,77 @@
         "FULLNAME": "silverbullet",
         "RATING": 4,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-045 - 大氣轉換儀",
+        "FULLNAME": "scp-045",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "「無」競賽聲援圖",
+        "FULLNAME": "mu-contest-fan-art",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "分級委員會備忘錄",
+        "FULLNAME": "classification-committee-memo",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "槍之形",
+        "FULLNAME": "the-shape-of-a-gun",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3939 - 編號保留；有待研究人員",
+        "FULLNAME": "scp-3939",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "佔位符的人事檔案",
+        "FULLNAME": "placeholder-mcd-s-authorpage",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "進步研究院",
+        "FULLNAME": "progress-institute-hub",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-4444 - 布希大戰高爾",
+        "FULLNAME": "scp-4444",
+        "RATING": 13,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "“老師”",
+        "FULLNAME": "teacher",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5004 - 狂妄之徒",
+        "FULLNAME": "scp-5004",
+        "RATING": 18,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-5764 - 這裏什麼都沒有。",
+        "FULLNAME": "scp-5764",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "美好的夢境。",
+        "FULLNAME": "aorebar0222-2",
+        "RATING": 6,
+        "COMMENTS": "0"
     }
 ]

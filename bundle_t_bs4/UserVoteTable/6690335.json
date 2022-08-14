@@ -106,5 +106,11 @@
         "FULLNAME": "sarkicism-hub",
         "RATING": 15,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5404解密",
+        "FULLNAME": "scp-5404-declassification",
+        "RATING": 5,
+        "COMMENTS": "1"
     }
 ]

@@ -1810,5 +1810,101 @@
         "FULLNAME": "clef-excerpts",
         "RATING": 12,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "「無」競賽聲援圖",
+        "FULLNAME": "mu-contest-fan-art",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "「惡」競賽聲援圖",
+        "FULLNAME": "vice-contest-fan-art",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "分級委員會備忘錄",
+        "FULLNAME": "classification-committee-memo",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "門前的狼群",
+        "FULLNAME": "the-wolves-at-the-door",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-049-PT",
+        "FULLNAME": "scp-049-pt",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1258 - 大師之道",
+        "FULLNAME": "scp-1258",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1381 - 貓櫃",
+        "FULLNAME": "scp-1381",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-329-J",
+        "FULLNAME": "scp-329-j",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1420 - 韃靼蛋",
+        "FULLNAME": "scp-1420",
+        "RATING": 2,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-5002 - 收容間殺人事件",
+        "FULLNAME": "scp-5002",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-970-EX",
+        "FULLNAME": "scp-970-ex",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-027-PT",
+        "FULLNAME": "scp-027-pt",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "與死者並肩奮戰",
+        "FULLNAME": "in-the-trenches-with-the-dead",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3309 - 逐漸消逝之際，我等何去何從",
+        "FULLNAME": "scp-3309",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "美好的夢境。",
+        "FULLNAME": "aorebar0222-2",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "咔嚓咔嚓剪",
+        "FULLNAME": "snip-snip-snip",
+        "RATING": 2,
+        "COMMENTS": "0"
     }
 ]

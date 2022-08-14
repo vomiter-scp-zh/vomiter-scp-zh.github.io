@@ -10,5 +10,17 @@
         "FULLNAME": "scp-es-138",
         "RATING": 29,
         "COMMENTS": "9"
+    },
+    {
+        "TITLE": "SCP-5004 - 狂妄之徒",
+        "FULLNAME": "scp-5004",
+        "RATING": 18,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-4661 - 罪惡城市",
+        "FULLNAME": "scp-4661",
+        "RATING": 5,
+        "COMMENTS": "1"
     }
 ]

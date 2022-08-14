@@ -394,5 +394,23 @@
         "FULLNAME": "scp-5190",
         "RATING": 10,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4517解密",
+        "FULLNAME": "scp-4517-declassification",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-5004 - 狂妄之徒",
+        "FULLNAME": "scp-5004",
+        "RATING": 18,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-4465 - 人不能獨自而活",
+        "FULLNAME": "scp-4465",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]

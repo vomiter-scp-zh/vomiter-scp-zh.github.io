@@ -274,5 +274,83 @@
         "FULLNAME": "rat-s-nest-hub",
         "RATING": 8,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-3396 - 至高天境寄生體",
+        "FULLNAME": "scp-3396",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "分級委員會備忘錄",
+        "FULLNAME": "classification-committee-memo",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-3939 - 編號保留；有待研究人員",
+        "FULLNAME": "scp-3939",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "一個能幫助那些懶骨頭們更新人事頁的超簡易工具",
+        "FULLNAME": "author-page-tool",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-329-J",
+        "FULLNAME": "scp-329-j",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3400 - 鯨類感染",
+        "FULLNAME": "scp-3400",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4444 - 布希大戰高爾",
+        "FULLNAME": "scp-4444",
+        "RATING": 13,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "與死者並肩奮戰",
+        "FULLNAME": "in-the-trenches-with-the-dead",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5004 - 狂妄之徒",
+        "FULLNAME": "scp-5004",
+        "RATING": 18,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-4646 - 為了世界的終末而替我大聲歌頌",
+        "FULLNAME": "scp-4646",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5690 - 專業調教女王",
+        "FULLNAME": "adult:scp-5690",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3309 - 逐漸消逝之際，我等何去何從",
+        "FULLNAME": "scp-3309",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3309解密",
+        "FULLNAME": "scp-3309-declassification",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]

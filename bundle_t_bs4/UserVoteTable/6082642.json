@@ -220,5 +220,17 @@
         "FULLNAME": "scp-2747",
         "RATING": 12,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4444 - 布希大戰高爾",
+        "FULLNAME": "scp-4444",
+        "RATING": 13,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-3309 - 逐漸消逝之際，我等何去何從",
+        "FULLNAME": "scp-3309",
+        "RATING": 10,
+        "COMMENTS": "1"
     }
 ]

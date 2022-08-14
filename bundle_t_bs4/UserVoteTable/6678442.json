@@ -106,5 +106,35 @@
         "FULLNAME": "rat-s-nest-hub",
         "RATING": 8,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-5609 - 光蟲",
+        "FULLNAME": "scp-5609",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5929 - 從尿而來",
+        "FULLNAME": "scp-5929",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4444 - 布希大戰高爾",
+        "FULLNAME": "scp-4444",
+        "RATING": 13,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-5004 - 狂妄之徒",
+        "FULLNAME": "scp-5004",
+        "RATING": 18,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "SCP-4661 - 罪惡城市",
+        "FULLNAME": "scp-4661",
+        "RATING": 5,
+        "COMMENTS": "1"
     }
 ]

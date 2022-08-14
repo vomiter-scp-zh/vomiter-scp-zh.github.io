@@ -706,5 +706,17 @@
         "FULLNAME": "rat-s-nest-hub",
         "RATING": 8,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-045 - 大氣轉換儀",
+        "FULLNAME": "scp-045",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5690 - 專業調教女王",
+        "FULLNAME": "adult:scp-5690",
+        "RATING": 9,
+        "COMMENTS": "1"
     }
 ]

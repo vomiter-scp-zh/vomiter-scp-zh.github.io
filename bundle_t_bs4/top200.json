@@ -108,6 +108,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-5004 - 狂妄之徒",
+        "FULLNAME": "scp-5004",
+        "RATING": 18,
+        "COMMENTS": "7"
+    },
+    {
         "TITLE": "Lily的提案",
         "FULLNAME": "lily-s-proposal",
         "RATING": 17,
@@ -316,6 +322,18 @@
         "FULLNAME": "scp-4182",
         "RATING": 13,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3939 - 編號保留；有待研究人員",
+        "FULLNAME": "scp-3939",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4444 - 布希大戰高爾",
+        "FULLNAME": "scp-4444",
+        "RATING": 13,
+        "COMMENTS": "4"
     },
     {
         "TITLE": "dado的中心頁是的",
@@ -600,6 +618,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "進步研究院",
+        "FULLNAME": "progress-institute-hub",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "魔法講座",
         "FULLNAME": "another-goddamn-magic-system",
         "RATING": 10,
@@ -782,6 +806,24 @@
     {
         "TITLE": "SCP-5190 - 暴雪中的足跡",
         "FULLNAME": "scp-5190",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "分級委員會備忘錄",
+        "FULLNAME": "classification-committee-memo",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-329-J",
+        "FULLNAME": "scp-329-j",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3309 - 逐漸消逝之際，我等何去何從",
+        "FULLNAME": "scp-3309",
         "RATING": 10,
         "COMMENTS": "1"
     },
@@ -1092,6 +1134,24 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-5929 - 從尿而來",
+        "FULLNAME": "scp-5929",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "與死者並肩奮戰",
+        "FULLNAME": "in-the-trenches-with-the-dead",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5690 - 專業調教女王",
+        "FULLNAME": "adult:scp-5690",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-048 - 被詛咒的SCP號碼",
         "FULLNAME": "scp-048",
         "RATING": 8,
@@ -1138,65 +1198,5 @@
         "FULLNAME": "carnifex-carl",
         "RATING": 8,
         "COMMENTS": "1"
-    },
-    {
-        "TITLE": "來自貓宇宙的九條故事",
-        "FULLNAME": "nine-tales-from-the-cativerse",
-        "RATING": 8,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "我的頭著火了，我很（不）好",
-        "FULLNAME": "my-head-is-on-fire-and-im-not-ok",
-        "RATING": 8,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-4311 - 我在乎你。",
-        "FULLNAME": "scp-4311",
-        "RATING": 8,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "偽納多克斯的比喻",
-        "FULLNAME": "the-parables-of-pseudo-nadox",
-        "RATING": 8,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-1208 - 鬆餅大師3000",
-        "FULLNAME": "scp-1208",
-        "RATING": 8,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-529 - 半貓Josie",
-        "FULLNAME": "scp-529",
-        "RATING": 8,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-4106 - 愛鳥",
-        "FULLNAME": "scp-4106",
-        "RATING": 8,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "渾沌反叛軍中心頁",
-        "FULLNAME": "chaos-insurgency-hub",
-        "RATING": 8,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "你最後的SCP！",
-        "FULLNAME": "your-very-last-scp",
-        "RATING": 8,
-        "COMMENTS": "5"
-    },
-    {
-        "TITLE": "SCP-3816 - 藍光",
-        "FULLNAME": "scp-3816",
-        "RATING": 8,
-        "COMMENTS": "3"
     }
 ]

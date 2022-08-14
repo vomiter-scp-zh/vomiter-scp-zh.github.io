@@ -418,5 +418,23 @@
         "FULLNAME": "sarkicism-hub",
         "RATING": 15,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3396 - 至高天境寄生體",
+        "FULLNAME": "scp-3396",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "分級委員會備忘錄",
+        "FULLNAME": "classification-committee-memo",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-3939 - 編號保留；有待研究人員",
+        "FULLNAME": "scp-3939",
+        "RATING": 13,
+        "COMMENTS": "1"
     }
 ]

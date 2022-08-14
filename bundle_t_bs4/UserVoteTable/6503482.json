@@ -214,5 +214,65 @@
         "FULLNAME": "scp-3002",
         "RATING": 12,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5609 - 光蟲",
+        "FULLNAME": "scp-5609",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "分級委員會備忘錄",
+        "FULLNAME": "classification-committee-memo",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-3939 - 編號保留；有待研究人員",
+        "FULLNAME": "scp-3939",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-049-PT",
+        "FULLNAME": "scp-049-pt",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5259 - 第13海兵隊遠征部隊的准下士鰭暴",
+        "FULLNAME": "scp-5259",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-006-CU-EX",
+        "FULLNAME": "scp-006-cu-ex",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4444 - 布希大戰高爾",
+        "FULLNAME": "scp-4444",
+        "RATING": 13,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "與死者並肩奮戰",
+        "FULLNAME": "in-the-trenches-with-the-dead",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "“老師”",
+        "FULLNAME": "teacher",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3133 - 郵件致O5-05",
+        "FULLNAME": "scp-3133",
+        "RATING": 8,
+        "COMMENTS": "0"
     }
 ]

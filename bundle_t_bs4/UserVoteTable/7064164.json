@@ -76,5 +76,17 @@
         "FULLNAME": "scp-3034",
         "RATING": 18,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3133 - 郵件致O5-05",
+        "FULLNAME": "scp-3133",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5004 - 狂妄之徒",
+        "FULLNAME": "scp-5004",
+        "RATING": 18,
+        "COMMENTS": "7"
     }
 ]

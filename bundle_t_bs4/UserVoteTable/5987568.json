@@ -166,5 +166,29 @@
         "FULLNAME": "scp-3002",
         "RATING": 12,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3939 - 編號保留；有待研究人員",
+        "FULLNAME": "scp-3939",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "寄給 SCP 基金會的六封信（以及一封家書）",
+        "FULLNAME": "six-letters-addressed",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5004 - 狂妄之徒",
+        "FULLNAME": "scp-5004",
+        "RATING": 18,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "無人死亡",
+        "FULLNAME": "nobody-dies",
+        "RATING": 4,
+        "COMMENTS": "1"
     }
 ]

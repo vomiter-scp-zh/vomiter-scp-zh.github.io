@@ -2452,5 +2452,59 @@
         "FULLNAME": "scp-5190",
         "RATING": 10,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5929 - 從尿而來",
+        "FULLNAME": "scp-5929",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3939 - 編號保留；有待研究人員",
+        "FULLNAME": "scp-3939",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-049-PT",
+        "FULLNAME": "scp-049-pt",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "蟬與音樂家",
+        "FULLNAME": "geroe",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5002 - 收容間殺人事件",
+        "FULLNAME": "scp-5002",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4517解密",
+        "FULLNAME": "scp-4517-declassification",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "世界末日",
+        "FULLNAME": "19still-end0305",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "“老師”",
+        "FULLNAME": "teacher",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5404解密",
+        "FULLNAME": "scp-5404-declassification",
+        "RATING": 5,
+        "COMMENTS": "1"
     }
 ]

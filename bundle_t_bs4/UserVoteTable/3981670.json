@@ -1360,5 +1360,23 @@
         "FULLNAME": "scp-1393-ru",
         "RATING": 8,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-049-PT",
+        "FULLNAME": "scp-049-pt",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "13173",
+        "FULLNAME": "luvle-s-comic",
+        "RATING": 5,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "進步研究院",
+        "FULLNAME": "progress-institute-hub",
+        "RATING": 11,
+        "COMMENTS": "2"
     }
 ]
