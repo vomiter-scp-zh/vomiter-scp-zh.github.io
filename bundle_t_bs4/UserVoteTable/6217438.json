@@ -520,5 +520,29 @@
         "FULLNAME": "scp-3984",
         "RATING": 4,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3797 - 過去及未來之械",
+        "FULLNAME": "scp-3797",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6009 - 發電廠",
+        "FULLNAME": "scp-6009",
+        "RATING": 12,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-6969 - 性愛梗",
+        "FULLNAME": "adult:scp-6969",
+        "RATING": 4,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "fishingenthusiast（以前是 plaguebearer） 從SCP基金會凱旋而歸",
+        "FULLNAME": "fishingenthusiast-authorpage",
+        "RATING": 2,
+        "COMMENTS": "0"
     }
 ]

@@ -5602,5 +5602,47 @@
         "FULLNAME": "scp-545-ko",
         "RATING": 4,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3797 - 過去及未來之械",
+        "FULLNAME": "scp-3797",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6009 - 發電廠",
+        "FULLNAME": "scp-6009",
+        "RATING": 12,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "請來尋找我",
+        "FULLNAME": "461-jp-pleasefindme",
+        "RATING": 1,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6333 - 蝴蝶效應",
+        "FULLNAME": "scp-6333",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "解密臨床語氣",
+        "FULLNAME": "clinical-tone-declassified",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-PL-166",
+        "FULLNAME": "scp-pl-166",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-713-KO",
+        "FULLNAME": "scp-713-ko",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]

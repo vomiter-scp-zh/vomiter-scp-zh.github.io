@@ -382,5 +382,11 @@
         "FULLNAME": "ms-tanaka-redblue",
         "RATING": 7,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-JP Girls",
+        "FULLNAME": "scp-jp-girls",
+        "RATING": 2,
+        "COMMENTS": "0"
     }
 ]

@@ -2026,5 +2026,29 @@
         "FULLNAME": "scp-3984",
         "RATING": 4,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6009 - 發電廠",
+        "FULLNAME": "scp-6009",
+        "RATING": 12,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-JP Girls",
+        "FULLNAME": "scp-jp-girls",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-PL-166",
+        "FULLNAME": "scp-pl-166",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-713-KO",
+        "FULLNAME": "scp-713-ko",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]
