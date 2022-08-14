@@ -130,5 +130,41 @@
         "FULLNAME": "antimemetics-division-hub",
         "RATING": 11,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "我們需要談談五十五的事情",
+        "FULLNAME": "we-need-to-talk-about-fifty-five",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-049 - 瘟疫醫生",
+        "FULLNAME": "scp-049",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-579 - 數據刪除",
+        "FULLNAME": "scp-579",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-1000 - 大腳怪",
+        "FULLNAME": "scp-1000",
+        "RATING": 7,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-5553 - 狂人社群媒體",
+        "FULLNAME": "scp-5553",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "「蛸葦廢船」藝術創作集",
+        "FULLNAME": "takoashi-haisen-artworks",
+        "RATING": 8,
+        "COMMENTS": "0"
     }
 ]

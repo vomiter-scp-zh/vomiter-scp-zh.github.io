@@ -148,5 +148,41 @@
         "FULLNAME": "antimemetics-division-hub",
         "RATING": 11,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "劑量學",
+        "FULLNAME": "posology",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "阿卡迪亞 說明手冊",
+        "FULLNAME": "arcadia-hub",
+        "RATING": 6,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-4080 - 聚光之下",
+        "FULLNAME": "scp-4080",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SPC中心頁 2.0",
+        "FULLNAME": "spc-hub-2",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-173-D",
+        "FULLNAME": "scp-173-d",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "收藏家先生的故事大全",
+        "FULLNAME": "tales-of-mr-collector",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]

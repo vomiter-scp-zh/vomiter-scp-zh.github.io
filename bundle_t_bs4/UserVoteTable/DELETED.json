@@ -364,5 +364,41 @@
         "FULLNAME": "scp-2915",
         "RATING": 3,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1000 - 大腳怪",
+        "FULLNAME": "scp-1000",
+        "RATING": 7,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-4080 - 聚光之下",
+        "FULLNAME": "scp-4080",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4026 - 守護「天使」",
+        "FULLNAME": "scp-4026",
+        "RATING": 7,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-3874 - 六百死一生",
+        "FULLNAME": "scp-3874",
+        "RATING": 4,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-2949 - 肉眼可見的電視貓貓大遷徙",
+        "FULLNAME": "scp-2949",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1799 - 歡笑先生",
+        "FULLNAME": "scp-1799",
+        "RATING": 3,
+        "COMMENTS": "1"
     }
 ]

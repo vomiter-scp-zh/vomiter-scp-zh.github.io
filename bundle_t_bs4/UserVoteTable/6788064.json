@@ -178,5 +178,53 @@
         "FULLNAME": "gengo",
         "RATING": 16,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "咔嚓",
+        "FULLNAME": "crunch",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "我們需要談談五十五的事情",
+        "FULLNAME": "we-need-to-talk-about-fifty-five",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "劑量學",
+        "FULLNAME": "posology",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Are We Christmas Yet？",
+        "FULLNAME": "are-we-christmas-yet",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "項目計劃書 2018-019：安全劇院",
+        "FULLNAME": "project-proposal-2018-019",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-579 - 數據刪除",
+        "FULLNAME": "scp-579",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "難以忘懷，那便是你",
+        "FULLNAME": "unforgettable-that-s-what-you-are",
+        "RATING": 4,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-1?1!-RU",
+        "FULLNAME": "scp-1711-ru",
+        "RATING": 7,
+        "COMMENTS": "3"
     }
 ]

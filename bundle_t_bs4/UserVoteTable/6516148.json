@@ -34,5 +34,17 @@
         "FULLNAME": "abteilung-xxv-hub",
         "RATING": 4,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "阿卡迪亞 說明手冊",
+        "FULLNAME": "arcadia-hub",
+        "RATING": 6,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-1002-RU - \"真理\"廣播電台",
+        "FULLNAME": "scp-1002-ru",
+        "RATING": 5,
+        "COMMENTS": "1"
     }
 ]

@@ -412,5 +412,71 @@
         "FULLNAME": "scp-3008",
         "RATING": 9,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "咔嚓",
+        "FULLNAME": "crunch",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "173",
+        "FULLNAME": "173",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "殺死682",
+        "FULLNAME": "kill-682",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-579 - 數據刪除",
+        "FULLNAME": "scp-579",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "阿卡迪亞 說明手冊",
+        "FULLNAME": "arcadia-hub",
+        "RATING": 6,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-2365 - 寰宇之厭傾諸君",
+        "FULLNAME": "scp-2365",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4080 - 聚光之下",
+        "FULLNAME": "scp-4080",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4756 - 重生之人。",
+        "FULLNAME": "scp-4756",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4026 - 守護「天使」",
+        "FULLNAME": "scp-4026",
+        "RATING": 7,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-2351 - 野鵝子追逐戰",
+        "FULLNAME": "scp-2351",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SPC中心頁 2.0",
+        "FULLNAME": "spc-hub-2",
+        "RATING": 4,
+        "COMMENTS": "1"
     }
 ]

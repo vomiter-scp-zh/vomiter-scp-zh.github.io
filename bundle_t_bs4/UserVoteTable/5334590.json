@@ -364,5 +364,41 @@
         "FULLNAME": "amnestic-orientation-manual",
         "RATING": 9,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "我們需要談談五十五的事情",
+        "FULLNAME": "we-need-to-talk-about-fifty-five",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Are We Christmas Yet？",
+        "FULLNAME": "are-we-christmas-yet",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "逆模因學入門",
+        "FULLNAME": "introductory-antimemetics",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-049 - 瘟疫醫生",
+        "FULLNAME": "scp-049",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-579 - 數據刪除",
+        "FULLNAME": "scp-579",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-2395 - $585.98",
+        "FULLNAME": "scp-2395",
+        "RATING": 6,
+        "COMMENTS": "2"
     }
 ]

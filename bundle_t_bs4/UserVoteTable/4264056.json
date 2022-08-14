@@ -46,5 +46,11 @@
         "FULLNAME": "scp-style-resource",
         "RATING": 31,
         "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-1000 - 大腳怪",
+        "FULLNAME": "scp-1000",
+        "RATING": 7,
+        "COMMENTS": "4"
     }
 ]

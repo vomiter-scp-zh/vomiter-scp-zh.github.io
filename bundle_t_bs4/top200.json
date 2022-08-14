@@ -60,6 +60,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-049 - 瘟疫醫生",
+        "FULLNAME": "scp-049",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "Lily的提案",
         "FULLNAME": "lily-s-proposal",
         "RATING": 17,
@@ -366,6 +372,18 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "劑量學",
+        "FULLNAME": "posology",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4190 - 遲延兩萬哩",
+        "FULLNAME": "scp-4190",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-682-J James 的塗鴉小冊子",
         "FULLNAME": "scp-682-j-james-coloring-book",
         "RATING": 9,
@@ -522,6 +540,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-145-J",
+        "FULLNAME": "scp-145-j",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-048 - 被詛咒的SCP號碼",
         "FULLNAME": "scp-048",
         "RATING": 8,
@@ -676,6 +700,30 @@
         "FULLNAME": "scp-2719",
         "RATING": 8,
         "COMMENTS": "6"
+    },
+    {
+        "TITLE": "我們需要談談五十五的事情",
+        "FULLNAME": "we-need-to-talk-about-fifty-five",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "10:30 A.M.",
+        "FULLNAME": "10-30-a-m",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "殺死682",
+        "FULLNAME": "kill-682",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "「蛸葦廢船」藝術創作集",
+        "FULLNAME": "takoashi-haisen-artworks",
+        "RATING": 8,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-240-JP - 零隻蝗蟲",
@@ -850,6 +898,48 @@
         "FULLNAME": "fifthist-hub",
         "RATING": 7,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1254-RU",
+        "FULLNAME": "scp-1254-ru",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Are We Christmas Yet？",
+        "FULLNAME": "are-we-christmas-yet",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1000 - 大腳怪",
+        "FULLNAME": "scp-1000",
+        "RATING": 7,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "序曲：預備鈴",
+        "FULLNAME": "days-gone-by",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4026 - 守護「天使」",
+        "FULLNAME": "scp-4026",
+        "RATING": 7,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "封鎖程序",
+        "FULLNAME": "lockdown-procedures",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1?1!-RU",
+        "FULLNAME": "scp-1711-ru",
+        "RATING": 7,
+        "COMMENTS": "3"
     },
     {
         "TITLE": "SCP-007 - 內腹行星",
@@ -1108,95 +1198,5 @@
         "FULLNAME": "scp-610",
         "RATING": 6,
         "COMMENTS": "3"
-    },
-    {
-        "TITLE": "項目企劃書 2018-145：《男人的責任》",
-        "FULLNAME": "project-proposal-2018-145",
-        "RATING": 6,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-7000-J",
-        "FULLNAME": "scp-7000-j",
-        "RATING": 6,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "Eric的日記",
-        "FULLNAME": "erics-journal",
-        "RATING": 6,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-2300 - 週期表戈侖",
-        "FULLNAME": "scp-2300",
-        "RATING": 6,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-4522 - 八桃村",
-        "FULLNAME": "scp-4522",
-        "RATING": 6,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-3671 - 一個憤怒的麥片盒",
-        "FULLNAME": "scp-3671",
-        "RATING": 6,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-004 - 穿越銹匙之門",
-        "FULLNAME": "scp-004",
-        "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-006 - 青春湧泉",
-        "FULLNAME": "scp-006",
-        "RATING": 5,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-013 - 藍色女士香煙",
-        "FULLNAME": "scp-013",
-        "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "多納泰羅的雕刻工具 約1409年",
-        "FULLNAME": "donatello-s-sculpting-tools-circa-1409",
-        "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-155 - 神速電腦",
-        "FULLNAME": "scp-155",
-        "RATING": 5,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-181 - 「幸運兒」",
-        "FULLNAME": "scp-181",
-        "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-2851 - 紅",
-        "FULLNAME": "scp-2851",
-        "RATING": 5,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-1004 - 工廠黃片",
-        "FULLNAME": "adult:scp-1004",
-        "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-343 - \"上帝\"",
-        "FULLNAME": "scp-343",
-        "RATING": 5,
-        "COMMENTS": "0"
     }
 ]

@@ -670,5 +670,119 @@
         "FULLNAME": "scp-2915",
         "RATING": 3,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "我們需要談談五十五的事情",
+        "FULLNAME": "we-need-to-talk-about-fifty-five",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "戰爭之聲",
+        "FULLNAME": "audio-of-war",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "10:30 A.M.",
+        "FULLNAME": "10-30-a-m",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "別忘記",
+        "FULLNAME": "don-t-forget",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1254-RU",
+        "FULLNAME": "scp-1254-ru",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "殺死682",
+        "FULLNAME": "kill-682",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "復歸本源",
+        "FULLNAME": "the-original",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Are We Christmas Yet？",
+        "FULLNAME": "are-we-christmas-yet",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2395 - $585.98",
+        "FULLNAME": "scp-2395",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "「蛸葦廢船」藝術創作集",
+        "FULLNAME": "takoashi-haisen-artworks",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4026 - 守護「天使」",
+        "FULLNAME": "scp-4026",
+        "RATING": 7,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-913 - 飢餓先生",
+        "FULLNAME": "scp-913",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4190 - 遲延兩萬哩",
+        "FULLNAME": "scp-4190",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-032 -兄弟們的新娘",
+        "FULLNAME": "scp-032",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2949 - 肉眼可見的電視貓貓大遷徙",
+        "FULLNAME": "scp-2949",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "封鎖程序",
+        "FULLNAME": "lockdown-procedures",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1?1!-RU",
+        "FULLNAME": "scp-1711-ru",
+        "RATING": 7,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-1200-RU",
+        "FULLNAME": "scp-1200-ru",
+        "RATING": 4,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-1002-RU - \"真理\"廣播電台",
+        "FULLNAME": "scp-1002-ru",
+        "RATING": 5,
+        "COMMENTS": "1"
     }
 ]

@@ -442,5 +442,29 @@
         "FULLNAME": "scp-1983",
         "RATING": 14,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "我們需要談談五十五的事情",
+        "FULLNAME": "we-need-to-talk-about-fifty-five",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "戰爭之聲",
+        "FULLNAME": "audio-of-war",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "殺死682",
+        "FULLNAME": "kill-682",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1000 - 大腳怪",
+        "FULLNAME": "scp-1000",
+        "RATING": 7,
+        "COMMENTS": "4"
     }
 ]

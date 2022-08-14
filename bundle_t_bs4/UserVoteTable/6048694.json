@@ -76,5 +76,35 @@
         "FULLNAME": "scp-8900-ex",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "咔嚓",
+        "FULLNAME": "crunch",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "10:30 A.M.",
+        "FULLNAME": "10-30-a-m",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "173",
+        "FULLNAME": "173",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "別忘記",
+        "FULLNAME": "don-t-forget",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "9. 笨拙先生",
+        "FULLNAME": "9-mr-clumsy",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]

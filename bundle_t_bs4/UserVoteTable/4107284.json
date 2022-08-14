@@ -172,5 +172,53 @@
         "FULLNAME": "antimemetics-division-hub",
         "RATING": 11,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1254-RU",
+        "FULLNAME": "scp-1254-ru",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-145-J",
+        "FULLNAME": "scp-145-j",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "劑量學",
+        "FULLNAME": "posology",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "逆模因學入門",
+        "FULLNAME": "introductory-antimemetics",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-579 - 數據刪除",
+        "FULLNAME": "scp-579",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-5553 - 狂人社群媒體",
+        "FULLNAME": "scp-5553",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "「蛸葦廢船」藝術創作集",
+        "FULLNAME": "takoashi-haisen-artworks",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "難以忘懷，那便是你",
+        "FULLNAME": "unforgettable-that-s-what-you-are",
+        "RATING": 4,
+        "COMMENTS": "2"
     }
 ]

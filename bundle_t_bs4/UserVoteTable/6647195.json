@@ -10,5 +10,17 @@
         "FULLNAME": "scp-701",
         "RATING": 9,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-011-DE",
+        "FULLNAME": "scp-011-de",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-600-KO",
+        "FULLNAME": "scp-600-ko",
+        "RATING": 4,
+        "COMMENTS": "2"
     }
 ]

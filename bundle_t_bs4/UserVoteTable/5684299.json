@@ -610,5 +610,77 @@
         "FULLNAME": "scp-2998",
         "RATING": 12,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "10:30 A.M.",
+        "FULLNAME": "10-30-a-m",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "173",
+        "FULLNAME": "173",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "別忘記",
+        "FULLNAME": "don-t-forget",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "項目計劃書 2018-019：安全劇院",
+        "FULLNAME": "project-proposal-2018-019",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "阿卡迪亞 說明手冊",
+        "FULLNAME": "arcadia-hub",
+        "RATING": 6,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-600-KO",
+        "FULLNAME": "scp-600-ko",
+        "RATING": 4,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "「蛸葦廢船」藝術創作集",
+        "FULLNAME": "takoashi-haisen-artworks",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3874 - 六百死一生",
+        "FULLNAME": "scp-3874",
+        "RATING": 4,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Carroll 155 號：五之心",
+        "FULLNAME": "the-five-mind",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1?1!-RU",
+        "FULLNAME": "scp-1711-ru",
+        "RATING": 7,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-1200-RU",
+        "FULLNAME": "scp-1200-ru",
+        "RATING": 4,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-1002-RU - \"真理\"廣播電台",
+        "FULLNAME": "scp-1002-ru",
+        "RATING": 5,
+        "COMMENTS": "1"
     }
 ]

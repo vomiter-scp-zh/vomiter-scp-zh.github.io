@@ -928,5 +928,125 @@
         "FULLNAME": "antimemetics-division-hub",
         "RATING": 11,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "10:30 A.M.",
+        "FULLNAME": "10-30-a-m",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-145-J",
+        "FULLNAME": "scp-145-j",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "殺死682",
+        "FULLNAME": "kill-682",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Are We Christmas Yet？",
+        "FULLNAME": "are-we-christmas-yet",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-049 - 瘟疫醫生",
+        "FULLNAME": "scp-049",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-1000 - 大腳怪",
+        "FULLNAME": "scp-1000",
+        "RATING": 7,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-600-KO",
+        "FULLNAME": "scp-600-ko",
+        "RATING": 4,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "遠災謠",
+        "FULLNAME": "ballad-for-a-faraway-disaster",
+        "RATING": 4,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "收藏家先生的故事大全",
+        "FULLNAME": "tales-of-mr-collector",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "16. 魚先生",
+        "FULLNAME": "mr-fish",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "1. 無頭先生",
+        "FULLNAME": "1-mr-headless",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "4. 謊言先生",
+        "FULLNAME": "4-mr-lie",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "中場休息2",
+        "FULLNAME": "interval-2",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "中場休息1",
+        "FULLNAME": "interval-1",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4190 - 遲延兩萬哩",
+        "FULLNAME": "scp-4190",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "9. 笨拙先生",
+        "FULLNAME": "9-mr-clumsy",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "6. 條紋先生",
+        "FULLNAME": "6-mr-stripes",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "7. ██先生",
+        "FULLNAME": "ohhello",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1799 - 歡笑先生",
+        "FULLNAME": "scp-1799",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-917 - 月亮先生",
+        "FULLNAME": "scp-917",
+        "RATING": 2,
+        "COMMENTS": "1"
     }
 ]

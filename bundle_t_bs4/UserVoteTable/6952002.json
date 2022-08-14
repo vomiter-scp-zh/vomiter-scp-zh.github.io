@@ -142,5 +142,23 @@
         "FULLNAME": "scp-3008",
         "RATING": 9,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1000 - 大腳怪",
+        "FULLNAME": "scp-1000",
+        "RATING": 7,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-2395 - $585.98",
+        "FULLNAME": "scp-2395",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-173-D",
+        "FULLNAME": "scp-173-d",
+        "RATING": 5,
+        "COMMENTS": "1"
     }
 ]

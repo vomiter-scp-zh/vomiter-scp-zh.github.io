@@ -76,5 +76,11 @@
         "FULLNAME": "scp-096",
         "RATING": 9,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1002-RU - \"真理\"廣播電台",
+        "FULLNAME": "scp-1002-ru",
+        "RATING": 5,
+        "COMMENTS": "1"
     }
 ]

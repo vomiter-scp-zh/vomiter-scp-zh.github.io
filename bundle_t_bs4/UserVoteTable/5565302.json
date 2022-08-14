@@ -220,5 +220,47 @@
         "FULLNAME": "scp-3671",
         "RATING": 6,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "咔嚓",
+        "FULLNAME": "crunch",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "殺死682",
+        "FULLNAME": "kill-682",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "序曲：預備鈴",
+        "FULLNAME": "days-gone-by",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4474 - 史提夫與01些神",
+        "FULLNAME": "scp-4474",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4026 - 守護「天使」",
+        "FULLNAME": "scp-4026",
+        "RATING": 7,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-342 - 車票之旅",
+        "FULLNAME": "scp-342",
+        "RATING": 2,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-5290 - 多重稜鏡",
+        "FULLNAME": "scp-5290",
+        "RATING": 3,
+        "COMMENTS": "1"
     }
 ]

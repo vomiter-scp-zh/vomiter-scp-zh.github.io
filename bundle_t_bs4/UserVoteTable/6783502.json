@@ -46,5 +46,11 @@
         "FULLNAME": "scp-261",
         "RATING": 4,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2416 - 小丑已死",
+        "FULLNAME": "scp-2416",
+        "RATING": 3,
+        "COMMENTS": "0"
     }
 ]

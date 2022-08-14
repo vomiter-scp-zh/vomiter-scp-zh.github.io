@@ -124,5 +124,11 @@
         "FULLNAME": "scp-3936",
         "RATING": 15,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3554 - 四號罐頭廠",
+        "FULLNAME": "scp-3554",
+        "RATING": 2,
+        "COMMENTS": "2"
     }
 ]

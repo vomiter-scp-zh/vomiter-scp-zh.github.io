@@ -70,5 +70,29 @@
         "FULLNAME": "scp-2243",
         "RATING": 3,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-145-J",
+        "FULLNAME": "scp-145-j",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "復歸本源",
+        "FULLNAME": "the-original",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "追思",
+        "FULLNAME": "remembrance",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "序曲：預備鈴",
+        "FULLNAME": "days-gone-by",
+        "RATING": 7,
+        "COMMENTS": "0"
     }
 ]

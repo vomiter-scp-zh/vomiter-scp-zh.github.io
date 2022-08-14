@@ -1036,5 +1036,11 @@
         "FULLNAME": "scp-3999",
         "RATING": 34,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-4190 - 遲延兩萬哩",
+        "FULLNAME": "scp-4190",
+        "RATING": 10,
+        "COMMENTS": "0"
     }
 ]

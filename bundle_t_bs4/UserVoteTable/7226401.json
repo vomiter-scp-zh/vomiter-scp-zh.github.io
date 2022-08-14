@@ -136,5 +136,23 @@
         "FULLNAME": "scp-8900-ex",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-458 - 無限披薩盒",
+        "FULLNAME": "scp-458",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-145-J",
+        "FULLNAME": "scp-145-j",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-834 - 標記筆",
+        "FULLNAME": "scp-834",
+        "RATING": 4,
+        "COMMENTS": "1"
     }
 ]
