@@ -100,5 +100,11 @@
         "FULLNAME": "scp-711",
         "RATING": 3,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5190 - 暴雪中的足跡",
+        "FULLNAME": "scp-5190",
+        "RATING": 10,
+        "COMMENTS": "1"
     }
 ]

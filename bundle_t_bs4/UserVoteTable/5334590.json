@@ -688,5 +688,23 @@
         "FULLNAME": "lost-hometown",
         "RATING": 11,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1752 - 救命專線",
+        "FULLNAME": "scp-1752",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-999-J",
+        "FULLNAME": "scp-999-j",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "鼠巢 中心頁",
+        "FULLNAME": "rat-s-nest-hub",
+        "RATING": 8,
+        "COMMENTS": "4"
     }
 ]

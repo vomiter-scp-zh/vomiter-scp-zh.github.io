@@ -456,6 +456,18 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "摘錄自Alto Clef〈如何在現實不存在時求生〉",
+        "FULLNAME": "clef-excerpts",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3002 - 活埋想法的嘗試",
+        "FULLNAME": "scp-3002",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-050 - 致最聰明的人",
         "FULLNAME": "scp-050",
         "RATING": 11,
@@ -766,6 +778,12 @@
         "FULLNAME": "das-taegliche-leben-mit-einer-ausserirdischen",
         "RATING": 10,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-5190 - 暴雪中的足跡",
+        "FULLNAME": "scp-5190",
+        "RATING": 10,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-682-J James 的塗鴉小冊子",
@@ -1180,23 +1198,5 @@
         "FULLNAME": "scp-3816",
         "RATING": 8,
         "COMMENTS": "3"
-    },
-    {
-        "TITLE": "普羅米修斯實驗室中心頁",
-        "FULLNAME": "prometheus-labs-hub",
-        "RATING": 8,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "異常分類系統（ACS）指南頁",
-        "FULLNAME": "anomaly-classification-system-guide",
-        "RATING": 8,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-882 - 一台機器",
-        "FULLNAME": "scp-882",
-        "RATING": 8,
-        "COMMENTS": "1"
     }
 ]

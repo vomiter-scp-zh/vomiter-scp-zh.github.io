@@ -682,5 +682,29 @@
         "FULLNAME": "lost-hometown",
         "RATING": 11,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "摘錄自Alto Clef〈如何在現實不存在時求生〉",
+        "FULLNAME": "clef-excerpts",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3002 - 活埋想法的嘗試",
+        "FULLNAME": "scp-3002",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5190 - 暴雪中的足跡",
+        "FULLNAME": "scp-5190",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3790 - 反常部",
+        "FULLNAME": "scp-3790",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]
