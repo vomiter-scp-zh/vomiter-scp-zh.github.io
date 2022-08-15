@@ -244,5 +244,11 @@
         "FULLNAME": "scp-2627",
         "RATING": 5,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-3008 - 一間毫無異狀的典型IKEA",
+        "FULLNAME": "scp-3008",
+        "RATING": 10,
+        "COMMENTS": "1"
     }
 ]

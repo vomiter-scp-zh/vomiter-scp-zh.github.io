@@ -1098,6 +1098,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-3008 - 一間毫無異狀的典型IKEA",
+        "FULLNAME": "scp-3008",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-682-J James 的塗鴉小冊子",
         "FULLNAME": "scp-682-j-james-coloring-book",
         "RATING": 9,
@@ -1190,12 +1196,6 @@
     {
         "TITLE": "7happy7 的 SVG-動畫 畫廊",
         "FULLNAME": "svg-animation",
-        "RATING": 9,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-093 - 紅海物件",
-        "FULLNAME": "scp-093",
         "RATING": 9,
         "COMMENTS": "1"
     }
