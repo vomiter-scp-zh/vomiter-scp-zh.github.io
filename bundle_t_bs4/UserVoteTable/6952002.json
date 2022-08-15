@@ -844,5 +844,11 @@
         "FULLNAME": "7000contestnico",
         "RATING": 10,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6161 - 糕點刀",
+        "FULLNAME": "scp-6161",
+        "RATING": 3,
+        "COMMENTS": "2"
     }
 ]
