@@ -250,5 +250,11 @@
         "FULLNAME": "scp-3008",
         "RATING": 10,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-982 - 芝加哥迴圈",
+        "FULLNAME": "scp-982",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]
