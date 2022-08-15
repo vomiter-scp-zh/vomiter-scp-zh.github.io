@@ -1086,6 +1086,12 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "SCP-7000 - 經商蜥蜴",
+        "FULLNAME": "7000contestzyn",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-682-J James 的塗鴉小冊子",
         "FULLNAME": "scp-682-j-james-coloring-book",
         "RATING": 9,
@@ -1192,11 +1198,5 @@
         "FULLNAME": "ambrose-restaurant-hub",
         "RATING": 9,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-701 - 受絞之王的悲劇",
-        "FULLNAME": "scp-701",
-        "RATING": 9,
-        "COMMENTS": "2"
     }
 ]
