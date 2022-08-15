@@ -408,6 +408,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-7000 - 來星星間找我",
+        "FULLNAME": "7000contestfabledtiefling",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "dado的中心頁是的",
         "FULLNAME": "dado-hub",
         "RATING": 12,
@@ -574,12 +580,6 @@
         "FULLNAME": "scp-2419",
         "RATING": 12,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-7000 - 來星星間找我",
-        "FULLNAME": "7000contestfabledtiefling",
-        "RATING": 12,
-        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-050 - 致最聰明的人",
@@ -1080,6 +1080,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-7000 - 視實是十三",
+        "FULLNAME": "7000contestfishwaltz",
+        "RATING": 10,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "SCP-682-J James 的塗鴉小冊子",
         "FULLNAME": "scp-682-j-james-coloring-book",
         "RATING": 9,
@@ -1192,11 +1198,5 @@
         "FULLNAME": "scp-701",
         "RATING": 9,
         "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-2317 - 前往彼界之門",
-        "FULLNAME": "scp-2317",
-        "RATING": 9,
-        "COMMENTS": "0"
     }
 ]
