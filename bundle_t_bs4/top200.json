@@ -792,6 +792,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-7000 - 陰間維加斯講座：莊家會輸",
+        "FULLNAME": "7000contestrounderhouse",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "魔法講座",
         "FULLNAME": "another-goddamn-magic-system",
         "RATING": 10,
@@ -1070,12 +1076,6 @@
     {
         "TITLE": "SCP-5400-J - 超級宇宙無敵機密文章",
         "FULLNAME": "scp-5400-j",
-        "RATING": 10,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-7000 - 陰間維加斯講座：莊家會輸",
-        "FULLNAME": "7000contestrounderhouse",
         "RATING": 10,
         "COMMENTS": "0"
     },
