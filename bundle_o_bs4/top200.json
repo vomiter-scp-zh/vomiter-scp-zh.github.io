@@ -1080,6 +1080,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-ZH-184 - 奔車朽索",
+        "FULLNAME": "scp-zh-184",
+        "RATING": 18,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-ZH-954 - 黃色便條紙",
         "FULLNAME": "scp-zh-954",
         "RATING": 17,
@@ -1192,11 +1198,5 @@
         "FULLNAME": "scp-zh-444",
         "RATING": 17,
         "COMMENTS": "3"
-    },
-    {
-        "TITLE": "Ctrl Z博士從週刊上剪下的四格漫畫",
-        "FULLNAME": "comic",
-        "RATING": 17,
-        "COMMENTS": "2"
     }
 ]
