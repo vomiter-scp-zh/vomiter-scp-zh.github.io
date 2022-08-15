@@ -1092,6 +1092,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-7000 - 掰掰，謝謝你們的魚啦",
+        "FULLNAME": "7000contestnico",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-682-J James 的塗鴉小冊子",
         "FULLNAME": "scp-682-j-james-coloring-book",
         "RATING": 9,
@@ -1192,11 +1198,5 @@
         "FULLNAME": "scp-093",
         "RATING": 9,
         "COMMENTS": "1"
-    },
-    {
-        "TITLE": "安布羅斯餐廳中心頁",
-        "FULLNAME": "ambrose-restaurant-hub",
-        "RATING": 9,
-        "COMMENTS": "0"
     }
 ]
