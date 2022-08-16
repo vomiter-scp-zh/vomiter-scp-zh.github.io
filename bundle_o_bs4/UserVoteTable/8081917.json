@@ -28,5 +28,11 @@
         "FULLNAME": "scp-zh-941",
         "RATING": 2,
         "COMMENTS": "8"
+    },
+    {
+        "TITLE": "貓耳日",
+        "FULLNAME": "/cat-day",
+        "RATING": 15,
+        "COMMENTS": "0"
     }
 ]
