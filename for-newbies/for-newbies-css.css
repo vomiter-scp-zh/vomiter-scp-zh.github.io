@@ -1,3 +1,7 @@
+div{
+    display:none;
+}
+
 .sheet{
     margin:auto;
     max-width: 800px;
