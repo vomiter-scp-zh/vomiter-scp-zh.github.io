@@ -6,10 +6,20 @@ function start_table(area,data){
     var total=data.length;
     total_show=Math.min(total,limit);
     var in_table="";
+    in_table='<tr class="TOPROW"></tr>'
     for(i=0;i<total_show;i++){
-        in_table=`${in_table}<tr class='NAIVE'></tr>`;
+        in_table=`${in_table}<tr class='NAIVE ENTRY'></tr>`;
     }
     document.querySelector(`${area} .to_write table`).innerHTML=in_table;
+}
+
+function make_top_row(area){
+    toprow=document.querySelector(`${area} .TOPROW`);
+    tdtitles=['條目標題','評分','評論數'];
+    tdtitles=tdtitles.join('</td><td>');
+    tdtitles=`<td>${tdtitles}</td>`;
+    toprow.innerHTML=tdtitles;
+
 }
 
 function tr_listing(area){
@@ -49,12 +59,12 @@ function tr_listing(area){
 function td_organ(item,tr_ele){
     a_part=`<a target="_blank" href='http://scp-zh-tr.wikidot.com/${item['FULLNAME']}'>${item['TITLE']}</a>`;
     r_part=`${item['RATING']}`;
-    c_part=`dummy`;
+    c_part=`${item['COMMENTS']}`;
     tr_ele.innerHTML=`<td>${a_part}</td><td>${r_part}</td><td>${c_part}</td>`;
 }
 
 function td_listing(area,data){
-    q=document.querySelectorAll(`${area} tr`)
+    q=document.querySelectorAll(`${area} tr.ENTRY`)
     for(i=0;i<q.length;i++){
         item=data[i];
         tr=q[i];
@@ -63,8 +73,8 @@ function td_listing(area,data){
 }
 
 function add_page_changer(){
-    area=this.parentNode.parentNode.id
-    page_targets=document.querySelectorAll(`#${area} .page_button`);
+    area=`#${this.parentNode.parentNode.id}`
+    page_targets=document.querySelectorAll(`${area} .page_button`);
     no=this.children[1].innerHTML;
     for(i=0;i<page_targets.length;i++){
     page_targets[i].classList.remove('current');
@@ -73,12 +83,12 @@ function add_page_changer(){
     }
 
 }
-    this.classList.add('current');
-    all_tr=document.querySelectorAll(`#${area} tr`);
+
+    all_tr=document.querySelectorAll(`${area} tr.ENTRY`);
     for (i=0;i<all_tr.length;i++){
         all_tr[i].classList.remove('showing');
     }
-    to_show=document.querySelectorAll(`#${area} .page${no}`);
+    to_show=document.querySelectorAll(`${area} .page${no}`);
     for(i=0;i<to_show.length;i++){
         to_show[i].classList.add('showing');
     }
@@ -90,17 +100,41 @@ function getready(area){
     for(i=0;i<trs.length;i++){
         trs[i].classList.add('showing');
     }
-    p1b=document.querySelector(`${area} .page_button`);
-    if(p1b){
-        p1b.classList.add('current');
+
+    page_targets=document.querySelectorAll(`${area} .page_button`);
+    no='1';
+    for(i=0;i<page_targets.length;i++){
+    page_targets[i].classList.remove('current');
+    if(page_targets[i].children[1].innerHTML==no){
+        page_targets[i].classList.add('current')
     }
+}
+
+
     page_targets=document.querySelectorAll(`${area} .page_button`);
     for(i=0;i<page_targets.length;i++){
         page_targets[i].addEventListener("click",add_page_changer);
     }
 }
 
-start_table('#original_area',Myjson);
-tr_listing('#original_area');
-td_listing('#original_area',Myjson);
-getready('#original_area');
+fetch('https://vomiter-scp-zh.github.io/bundle_o_bs4/top200.json')
+.then(function(response){return response.json();})
+.then(function(tth){
+    herearea='#original_area';
+    start_table(herearea,tth);
+    make_top_row(herearea);
+tr_listing(herearea);
+td_listing(herearea,tth);
+getready(herearea);
+})
+
+fetch('https://vomiter-scp-zh.github.io/bundle_t_bs4/top200.json')
+.then(function(response){return response.json();})
+.then(function(tth){
+    herearea='#translation_area';
+    start_table(herearea,tth);
+    make_top_row(herearea);
+tr_listing(herearea);
+td_listing(herearea,tth);
+getready(herearea);
+})
