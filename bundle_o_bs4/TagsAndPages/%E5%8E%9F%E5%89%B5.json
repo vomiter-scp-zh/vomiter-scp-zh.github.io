@@ -6335,7 +6335,7 @@
     {
         "TITLE": "SCP-ZH-909 - 評分模塊",
         "FULLNAME": "scp-zh-909",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "4"
     },
     {
@@ -7264,7 +7264,7 @@
     },
     {
         "TITLE": "惡意行為",
-        "FULLNAME": "/malicious-behavior",
+        "FULLNAME": "malicious-behavior",
         "RATING": 12,
         "COMMENTS": "2"
     },
@@ -7450,8 +7450,8 @@
     },
     {
         "TITLE": "SCP-ZH-941 - 你才沒有在奮鬥",
-        "FULLNAME": "scp-zh-941",
-        "RATING": 1,
+        "FULLNAME": "/scp-zh-941",
+        "RATING": 2,
         "COMMENTS": "8"
     },
     {
