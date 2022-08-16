@@ -1,5 +1,8 @@
 [
     {
+        "TAGNAME": "資源"
+    },
+    {
         "TITLE": "維安權限分級",
         "FULLNAME": "security-clearance-levels",
         "RATING": 3,

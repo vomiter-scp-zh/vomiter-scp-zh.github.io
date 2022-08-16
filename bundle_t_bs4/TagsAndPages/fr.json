@@ -1,5 +1,8 @@
 [
     {
+        "TAGNAME": "fr"
+    },
+    {
         "TITLE": "威脅級別",
         "FULLNAME": "niveaux-de-menace-des-objets-scp",
         "RATING": 6,
