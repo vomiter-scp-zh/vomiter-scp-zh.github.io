@@ -1,0 +1,71 @@
+[
+    {
+        "TAGNAME": "衣物"
+    },
+    {
+        "TITLE": "SCP-380-KO",
+        "FULLNAME": "scp-380-ko",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-025 - 破爛的衣櫃",
+        "FULLNAME": "scp-025",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-035 - 佔據面具",
+        "FULLNAME": "scp-035",
+        "RATING": 4,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-178 - 3D眼鏡",
+        "FULLNAME": "scp-178",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-558 - 奇怪的隱形眼鏡",
+        "FULLNAME": "scp-558",
+        "RATING": 1,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-072-TH - 城堡守衛",
+        "FULLNAME": "scp-072-th",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-180 - 竊取身分的帽子",
+        "FULLNAME": "scp-180",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-385 - 個人反重力場產生器",
+        "FULLNAME": "scp-385",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-619 - 好運牛仔褲",
+        "FULLNAME": "scp-619",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6902 - 遺失的行李",
+        "FULLNAME": "scp-6902",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1545 - 惹人憐愛的駱馬賴瑞",
+        "FULLNAME": "scp-1545",
+        "RATING": 5,
+        "COMMENTS": "2"
+    }
+]

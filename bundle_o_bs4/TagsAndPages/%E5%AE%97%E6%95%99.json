@@ -1,0 +1,41 @@
+[
+    {
+        "TAGNAME": "宗教"
+    },
+    {
+        "TITLE": "SCP-ZH-174",
+        "FULLNAME": "scp-zh-174",
+        "RATING": 22,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-085",
+        "FULLNAME": "scp-zh-085",
+        "RATING": 6,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-066",
+        "FULLNAME": "scp-zh-066",
+        "RATING": 11,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-613",
+        "FULLNAME": "scp-zh-613",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-062 - 燈猴",
+        "FULLNAME": "scp-zh-062",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-830 - 奇蹟",
+        "FULLNAME": "scp-zh-830",
+        "RATING": 9,
+        "COMMENTS": "1"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "TAGNAME": "收藏家故事"
+    },
+    {
+        "TITLE": "收藏家先生的故事大全",
+        "FULLNAME": "tales-of-mr-collector",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "16. 魚先生",
+        "FULLNAME": "mr-fish",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "1. 無頭先生",
+        "FULLNAME": "1-mr-headless",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "4. 謊言先生",
+        "FULLNAME": "4-mr-lie",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "中場休息2",
+        "FULLNAME": "interval-2",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "中場休息1",
+        "FULLNAME": "interval-1",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "9. 笨拙先生",
+        "FULLNAME": "9-mr-clumsy",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "6. 條紋先生",
+        "FULLNAME": "6-mr-stripes",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "7. ██先生",
+        "FULLNAME": "ohhello",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "3. 金錢先生",
+        "FULLNAME": "3-mr-money",
+        "RATING": 2,
+        "COMMENTS": "0"
+    }
+]

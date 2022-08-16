@@ -1,0 +1,65 @@
+[
+    {
+        "TAGNAME": "詩歌"
+    },
+    {
+        "TITLE": "宣誓",
+        "FULLNAME": "to-swear-an-oath",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "控制",
+        "FULLNAME": "secure",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "收容",
+        "FULLNAME": "contain",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "保護",
+        "FULLNAME": "protect2",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "異常的詩集",
+        "FULLNAME": "scpoems",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "一天，我與伍么陸談話",
+        "FULLNAME": "talked-with-516",
+        "RATING": 3,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "青銅碑上歌（約見於晋永康元年）",
+        "FULLNAME": "poem-found-on-a-bronze-tablet",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "媽媽，媽媽，我多麼想你啊",
+        "FULLNAME": "mother-mother-i-miss-you-so",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "收容失效：萬聖夜驚魂",
+        "FULLNAME": "the-halloween-breach",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "遠災謠",
+        "FULLNAME": "ballad-for-a-faraway-disaster",
+        "RATING": 4,
+        "COMMENTS": "3"
+    }
+]

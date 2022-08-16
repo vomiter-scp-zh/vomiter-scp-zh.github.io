@@ -1,0 +1,83 @@
+[
+    {
+        "TAGNAME": "安布羅斯餐廳"
+    },
+    {
+        "TITLE": "SCP-ZH-256",
+        "FULLNAME": "scp-zh-256",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "為不懂 CSS 的人所寫的說明：如何修改安布羅斯 GOI 格式的代碼",
+        "FULLNAME": "how-to-modify-the-css-of-ambrose-goi-format",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "關於那個大海怪",
+        "FULLNAME": "about-that-big-guy",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "安布羅斯餐廳-崇文館",
+        "FULLNAME": "ambrose-chung-wen-kuan",
+        "RATING": 20,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "安布羅斯餐廳-伊薩科夫號分店 (節日限定)",
+        "FULLNAME": "ambrose-isakov",
+        "RATING": 28,
+        "COMMENTS": "9"
+    },
+    {
+        "TITLE": "SCP-ZH-055",
+        "FULLNAME": "scp-zh-055",
+        "RATING": 18,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "香脆夏威夷披薩",
+        "FULLNAME": "sh-crispy-pineapple-pizza",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "3D油飯",
+        "FULLNAME": "sh-3d-glutinous-oil-rice",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "異常蕈類資料單-漁民香菇",
+        "FULLNAME": "pzga-data-fish",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "台灣鐵道飯店的安布羅斯餐廳",
+        "FULLNAME": "ambrose-taiwan-railway-hotel",
+        "RATING": 17,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "GOI萌娘化-下午茶會",
+        "FULLNAME": "goi",
+        "RATING": 16,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "爆旋壽司 青龍舞兮 朱雀飛翔",
+        "FULLNAME": "sushi-dragon-phoenix",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-361 - 驚喜X麵",
+        "FULLNAME": "scp-zh-361",
+        "RATING": 16,
+        "COMMENTS": "0"
+    }
+]

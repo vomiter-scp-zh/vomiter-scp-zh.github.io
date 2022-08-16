@@ -26,14 +26,14 @@
     {
         "TITLE": "NX-ZH-02：西加走灣群島",
         "FULLNAME": "nx-zh-02",
-        "RATING": 21,
-        "COMMENTS": null
+        "RATING": 24,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-403 - 禁臠與終止符",
         "FULLNAME": "scp-zh-403",
-        "RATING": 14,
-        "COMMENTS": null
+        "RATING": 15,
+        "COMMENTS": "4"
     },
     {
         "TITLE": "SCP-ZH-587-J",
@@ -45,19 +45,19 @@
         "TITLE": "SCP-ZH-105 - 不孝子",
         "FULLNAME": "scp-zh-105",
         "RATING": 65,
-        "COMMENTS": null
+        "COMMENTS": "5"
     },
     {
-        "TITLE": "SCP-ZH-051",
+        "TITLE": "SCP-ZH-051 - 請給我一點溫暖",
         "FULLNAME": "scp-zh-051",
-        "RATING": 15,
+        "RATING": 16,
         "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
         "FULLNAME": "scp-zh-2005-ex",
         "RATING": 55,
-        "COMMENTS": null
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-416",
@@ -98,19 +98,31 @@
     {
         "TITLE": "SCP-ZH-279 - 愛的形狀",
         "FULLNAME": "scp-zh-279",
-        "RATING": 17,
-        "COMMENTS": null
+        "RATING": 19,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "愛是犧牲奉獻",
         "FULLNAME": "love-is-sacrifice",
-        "RATING": 5,
-        "COMMENTS": null
+        "RATING": 6,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-184 - 奔車朽索",
         "FULLNAME": "scp-zh-184",
-        "RATING": 14,
-        "COMMENTS": null
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "假面騎士Theseus：雙軌難題",
+        "FULLNAME": "kamen-rider-theseus-double-tracks-problem",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-119 - 懲罰之火不降於我",
+        "FULLNAME": "scp-zh-119",
+        "RATING": 13,
+        "COMMENTS": "0"
     }
 ]

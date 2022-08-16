@@ -1,8 +1,8 @@
 [
     {
-        "TITLE": "SCP-ZH-919",
+        "TITLE": "SCP-ZH-919 - 守門員",
         "FULLNAME": "scp-zh-919",
-        "RATING": 1,
+        "RATING": 0,
         "COMMENTS": "3"
     },
     {
@@ -15,7 +15,7 @@
         "TITLE": "SCP-ZH-105 - 不孝子",
         "FULLNAME": "scp-zh-105",
         "RATING": 65,
-        "COMMENTS": null
+        "COMMENTS": "5"
     },
     {
         "TITLE": "SCP-ZH-077",
@@ -26,7 +26,7 @@
     {
         "TITLE": "假如你來到這個宇宙請保持冷靜",
         "FULLNAME": "you-need-icecream-in-summer",
-        "RATING": 30,
+        "RATING": 31,
         "COMMENTS": "1"
     },
     {
@@ -39,7 +39,7 @@
         "TITLE": "SCP-ZH-815",
         "FULLNAME": "scp-zh-815",
         "RATING": 35,
-        "COMMENTS": null
+        "COMMENTS": "8"
     },
     {
         "TITLE": "SCP-ZH-087 - 棄稿",
@@ -57,13 +57,13 @@
         "TITLE": "SCP-ZH-9288-EX",
         "FULLNAME": "scp-zh-9288-ex",
         "RATING": 44,
-        "COMMENTS": null
+        "COMMENTS": "5"
     },
     {
         "TITLE": "SCP-ZH-120",
         "FULLNAME": "scp-zh-120",
         "RATING": 38,
-        "COMMENTS": null
+        "COMMENTS": "4"
     },
     {
         "TITLE": "SCP-ZH-044",
@@ -80,7 +80,7 @@
     {
         "TITLE": "SCP-ZH-60053-J - HONK",
         "FULLNAME": "scp-zh-60053-j",
-        "RATING": 42,
+        "RATING": 43,
         "COMMENTS": "7"
     },
     {
@@ -110,7 +110,7 @@
     {
         "TITLE": "SCP-ZH-291 - 謎之外星血晶螳螂蔓",
         "FULLNAME": "scp-zh-291",
-        "RATING": 2,
+        "RATING": 1,
         "COMMENTS": "17"
     },
     {
@@ -246,7 +246,7 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-ZH-791",
+        "TITLE": "SCP-ZH-791 - 錢源",
         "FULLNAME": "scp-zh-791",
         "RATING": 9,
         "COMMENTS": "0"
@@ -356,7 +356,7 @@
     {
         "TITLE": "SCP-ZH-526",
         "FULLNAME": "scp-zh-526",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "1"
     },
     {
@@ -404,14 +404,14 @@
     {
         "TITLE": "SCP-ZH-248 - 尤斯蒂亞症候群",
         "FULLNAME": "scp-zh-248",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
         "FULLNAME": "scp-zh-2005-ex",
         "RATING": 55,
-        "COMMENTS": null
+        "COMMENTS": "1"
     },
     {
         "TITLE": "伊伽姊姊去哪了?",
@@ -510,7 +510,7 @@
         "COMMENTS": "3"
     },
     {
-        "TITLE": "SCP-ZH-980",
+        "TITLE": "SCP-ZH-980 - 築夢小棧",
         "FULLNAME": "scp-zh-980",
         "RATING": 9,
         "COMMENTS": "2"
@@ -567,7 +567,7 @@
         "TITLE": "SCP-ZH-022-J - 拜託誰來把它填上",
         "FULLNAME": "scp-zh-022-j",
         "RATING": 36,
-        "COMMENTS": null
+        "COMMENTS": "19"
     },
     {
         "TITLE": "SCP-ZH-00l",
@@ -590,7 +590,7 @@
     {
         "TITLE": "SCP-ZH-855",
         "FULLNAME": "scp-zh-855",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "4"
     },
     {
@@ -668,7 +668,7 @@
     {
         "TITLE": "鎖鏈的音竹",
         "FULLNAME": "k1s10r0d-chain-sugoi",
-        "RATING": 26,
+        "RATING": 27,
         "COMMENTS": "6"
     },
     {
@@ -678,7 +678,7 @@
         "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-ZH-488",
+        "TITLE": "SCP-ZH-488 - 礦畜",
         "FULLNAME": "scp-zh-488",
         "RATING": 9,
         "COMMENTS": "0"
@@ -704,7 +704,7 @@
     {
         "TITLE": "Surge的提案一",
         "FULLNAME": "surge-s-proposal-1",
-        "RATING": 31,
+        "RATING": 32,
         "COMMENTS": "11"
     },
     {
@@ -750,7 +750,7 @@
         "COMMENTS": "2"
     },
     {
-        "TITLE": "SCP-ZH-903",
+        "TITLE": "SCP-ZH-903 - 灶神食譜（零失敗）",
         "FULLNAME": "scp-zh-903",
         "RATING": 19,
         "COMMENTS": "4"
@@ -816,7 +816,7 @@
         "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-ZH-527",
+        "TITLE": "SCP-ZH-527 - 隱形的奇奇摩拉",
         "FULLNAME": "scp-zh-527",
         "RATING": 14,
         "COMMENTS": "1"

@@ -2,8 +2,8 @@
     {
         "TITLE": "SCP-ZH-361 - 驚喜X麵",
         "FULLNAME": "scp-zh-361",
-        "RATING": 14,
-        "COMMENTS": null
+        "RATING": 15,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "汽水的藝作頁2",
@@ -68,13 +68,13 @@
     {
         "TITLE": "NX-ZH-02：西加走灣群島",
         "FULLNAME": "nx-zh-02",
-        "RATING": 21,
-        "COMMENTS": null
+        "RATING": 24,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-706 - 少年ㄟ，可不可以陪阿伯找回家的路？",
         "FULLNAME": "scp-zh-706",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "0"
     },
     {
@@ -98,20 +98,20 @@
     {
         "TITLE": "SCP-ZH-403 - 禁臠與終止符",
         "FULLNAME": "scp-zh-403",
-        "RATING": 14,
-        "COMMENTS": null
+        "RATING": 15,
+        "COMMENTS": "4"
     },
     {
         "TITLE": "SCP-ZH-005",
         "FULLNAME": "scp-zh-005",
-        "RATING": 59,
-        "COMMENTS": null
+        "RATING": 60,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-105 - 不孝子",
         "FULLNAME": "scp-zh-105",
         "RATING": 65,
-        "COMMENTS": null
+        "COMMENTS": "5"
     },
     {
         "TITLE": "SCP-ZH-860 - dado的「发」財藥",
@@ -122,7 +122,7 @@
     {
         "TITLE": "SCP-ZH-60053-J - HONK",
         "FULLNAME": "scp-zh-60053-j",
-        "RATING": 42,
+        "RATING": 43,
         "COMMENTS": "7"
     },
     {
@@ -135,13 +135,13 @@
         "TITLE": "SCP-ZH-022-J - 拜託誰來把它填上",
         "FULLNAME": "scp-zh-022-j",
         "RATING": 36,
-        "COMMENTS": null
+        "COMMENTS": "19"
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
         "FULLNAME": "scp-zh-999",
         "RATING": 54,
-        "COMMENTS": null
+        "COMMENTS": "13"
     },
     {
         "TITLE": "SCP-ZH-922 - 馬蘭姑娘",
@@ -159,18 +159,24 @@
         "TITLE": "完美犯X的入職",
         "FULLNAME": "interview-of-x",
         "RATING": 8,
-        "COMMENTS": null
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-279 - 愛的形狀",
         "FULLNAME": "scp-zh-279",
-        "RATING": 17,
-        "COMMENTS": null
+        "RATING": 19,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-532 - 簡單人生身心診所",
         "FULLNAME": "scp-zh-532",
-        "RATING": 12,
-        "COMMENTS": null
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-119 - 懲罰之火不降於我",
+        "FULLNAME": "scp-zh-119",
+        "RATING": 13,
+        "COMMENTS": "0"
     }
 ]

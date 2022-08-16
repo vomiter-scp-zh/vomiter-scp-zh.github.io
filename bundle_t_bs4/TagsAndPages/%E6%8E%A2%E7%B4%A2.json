@@ -1,0 +1,71 @@
+[
+    {
+        "TAGNAME": "探索"
+    },
+    {
+        "TITLE": "探索紀錄A009-1",
+        "FULLNAME": "exploration-log-a009-1",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-093「碧藍」測試",
+        "FULLNAME": "scp-093-blue-test",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-093「翠綠」測試",
+        "FULLNAME": "scp-093-green-test",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-093「紫羅蘭」測試",
+        "FULLNAME": "scp-093-violet-test",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-093「金黃」測試",
+        "FULLNAME": "scp-093-yellow-test",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-093「殷紅」測試",
+        "FULLNAME": "scp-093-red-test",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "文件087-I",
+        "FULLNAME": "document-087-i",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "文件087-II",
+        "FULLNAME": "document-087-ii",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "文件087-III",
+        "FULLNAME": "document-087-iii",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-610-L1",
+        "FULLNAME": "scp-610-l1",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-610-L2",
+        "FULLNAME": "scp-610-l2",
+        "RATING": 5,
+        "COMMENTS": "0"
+    }
+]

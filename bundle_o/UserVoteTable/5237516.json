@@ -20,7 +20,7 @@
     {
         "TITLE": "假如你來到這個宇宙請保持冷靜",
         "FULLNAME": "you-need-icecream-in-summer",
-        "RATING": 30,
+        "RATING": 31,
         "COMMENTS": "1"
     },
     {
@@ -50,7 +50,7 @@
     {
         "TITLE": "SCP-ZH-041",
         "FULLNAME": "scp-zh-041",
-        "RATING": 18,
+        "RATING": 19,
         "COMMENTS": "4"
     },
     {
@@ -117,7 +117,7 @@
         "TITLE": "SCP-ZH-120",
         "FULLNAME": "scp-zh-120",
         "RATING": 38,
-        "COMMENTS": null
+        "COMMENTS": "4"
     },
     {
         "TITLE": "SCP-ZH-300",
@@ -230,19 +230,19 @@
     {
         "TITLE": "我在萬物之中",
         "FULLNAME": "arkwork-3999",
-        "RATING": 36,
-        "COMMENTS": null
+        "RATING": 37,
+        "COMMENTS": "8"
     },
     {
         "TITLE": "SCP-ZH-200",
         "FULLNAME": "scp-zh-200",
         "RATING": 33,
-        "COMMENTS": null
+        "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-ZH-247",
+        "TITLE": "SCP-ZH-247 - 讀心血姬",
         "FULLNAME": "scp-zh-247",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "4"
     },
     {
@@ -260,13 +260,13 @@
     {
         "TITLE": "SCP-ZH-113",
         "FULLNAME": "scp-zh-113",
-        "RATING": 27,
+        "RATING": 28,
         "COMMENTS": "2"
     },
     {
         "TITLE": "道具部門的茶水間",
         "FULLNAME": "the-pantry-in-the-props-department",
-        "RATING": 0,
+        "RATING": -1,
         "COMMENTS": "4"
     },
     {
@@ -279,7 +279,7 @@
         "TITLE": "SCP-ZH-2005-EX",
         "FULLNAME": "scp-zh-2005-ex",
         "RATING": 55,
-        "COMMENTS": null
+        "COMMENTS": "1"
     },
     {
         "TITLE": "故事的力量～你為什麼需要超形上學～",
@@ -370,5 +370,11 @@
         "FULLNAME": "electronic-stary",
         "RATING": 15,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-318 - 認同癖",
+        "FULLNAME": "scp-zh-318",
+        "RATING": 1,
+        "COMMENTS": "4"
     }
 ]

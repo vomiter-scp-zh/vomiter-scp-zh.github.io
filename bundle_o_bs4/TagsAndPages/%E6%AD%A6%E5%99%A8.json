@@ -1,0 +1,59 @@
+[
+    {
+        "TAGNAME": "武器"
+    },
+    {
+        "TITLE": "SCP-ZH-255",
+        "FULLNAME": "scp-zh-255",
+        "RATING": 22,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-118",
+        "FULLNAME": "scp-zh-118",
+        "RATING": 6,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-153",
+        "FULLNAME": "scp-zh-153",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-647 - 嘴砲老人",
+        "FULLNAME": "scp-zh-647",
+        "RATING": 32,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-988 - 持槍的孩子",
+        "FULLNAME": "scp-zh-988",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-205",
+        "FULLNAME": "scp-zh-205",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-829",
+        "FULLNAME": "scp-zh-829",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-776",
+        "FULLNAME": "scp-zh-776",
+        "RATING": 6,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-385 - 子母巡弋飛彈MSC-7「獌束」",
+        "FULLNAME": "scp-zh-385",
+        "RATING": 10,
+        "COMMENTS": "1"
+    }
+]

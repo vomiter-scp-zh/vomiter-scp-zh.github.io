@@ -1,0 +1,44 @@
+[
+    {
+        "TITLE": "版本 F",
+        "FULLNAME": "adult:iteration-f",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "為確保安全已省略",
+        "FULLNAME": "scp-5404",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "真的是SCP-6000競賽啦！",
+        "FULLNAME": "scp6969contesthubgottemlmao",
+        "RATING": 11,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "晚上八點半不要洗澡",
+        "FULLNAME": "takeabathathalfpasteight",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6009 - 發電廠",
+        "FULLNAME": "scp-6009",
+        "RATING": 12,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-6500 - 無以避免",
+        "FULLNAME": "scp-6500",
+        "RATING": 24,
+        "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-4911解密",
+        "FULLNAME": "scp-4911-declassification",
+        "RATING": 6,
+        "COMMENTS": "0"
+    }
+]

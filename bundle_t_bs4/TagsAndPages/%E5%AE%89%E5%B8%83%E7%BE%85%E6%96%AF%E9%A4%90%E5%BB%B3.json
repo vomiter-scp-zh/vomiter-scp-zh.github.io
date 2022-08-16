@@ -1,0 +1,59 @@
+[
+    {
+        "TAGNAME": "安布羅斯餐廳"
+    },
+    {
+        "TITLE": "特曼庫拉市的安布羅斯餐廳",
+        "FULLNAME": "ambrose-temecula",
+        "RATING": 10,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "安布羅斯餐廳倫敦店的套餐菜單",
+        "FULLNAME": "ambrose-london-prix-fixe",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "棘刺谷的安布羅斯餐廳",
+        "FULLNAME": "ambrose-thorn-valley",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "屠夫卡爾",
+        "FULLNAME": "carnifex-carl",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "安布羅斯餐廳中心頁",
+        "FULLNAME": "ambrose-restaurant-hub",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "安布羅斯餐廳舊金山分店",
+        "FULLNAME": "ambrose-sanfran",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "哦，我不會擔心 Flaky-Os",
+        "FULLNAME": "oh-i-wouldn-t-worry-about-flaky-os",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5348 - 安布羅斯媽媽的奶油蘑菇湯",
+        "FULLNAME": "scp-5348",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "安布羅斯外西凡尼亞：獻給所有該死的吸血鬼",
+        "FULLNAME": "ambrose-transylvania",
+        "RATING": 10,
+        "COMMENTS": "0"
+    }
+]

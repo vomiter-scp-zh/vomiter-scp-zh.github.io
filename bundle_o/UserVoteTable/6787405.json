@@ -14,8 +14,8 @@
     {
         "TITLE": "NX-ZH-02：西加走灣群島",
         "FULLNAME": "nx-zh-02",
-        "RATING": 21,
-        "COMMENTS": null
+        "RATING": 24,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "模板指南（通用/翻譯）",
@@ -39,7 +39,7 @@
         "TITLE": "SCP-ZH-111",
         "FULLNAME": "scp-zh-111",
         "RATING": 33,
-        "COMMENTS": null
+        "COMMENTS": "0"
     },
     {
         "TITLE": "海神悲鳴時",
@@ -54,7 +54,7 @@
         "COMMENTS": "7"
     },
     {
-        "TITLE": "SCP-ZH-831",
+        "TITLE": "SCP-ZH-831 - 十一年間的孕婦",
         "FULLNAME": "scp-zh-831",
         "RATING": 18,
         "COMMENTS": "0"
@@ -177,7 +177,7 @@
         "TITLE": "SCP-ZH-022-J - 拜託誰來把它填上",
         "FULLNAME": "scp-zh-022-j",
         "RATING": 36,
-        "COMMENTS": null
+        "COMMENTS": "19"
     },
     {
         "TITLE": "SCP-ZH-033",
@@ -218,13 +218,13 @@
     {
         "TITLE": "鎖鏈的音竹",
         "FULLNAME": "k1s10r0d-chain-sugoi",
-        "RATING": 26,
+        "RATING": 27,
         "COMMENTS": "6"
     },
     {
         "TITLE": "Surge的提案一",
         "FULLNAME": "surge-s-proposal-1",
-        "RATING": 31,
+        "RATING": 32,
         "COMMENTS": "11"
     },
     {

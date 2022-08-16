@@ -1,0 +1,59 @@
+[
+    {
+        "TAGNAME": "機器人"
+    },
+    {
+        "TITLE": "SCP-2412 - 先知機械",
+        "FULLNAME": "scp-2412",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-212 - 改良器",
+        "FULLNAME": "scp-212",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-629 - 黃銅先生",
+        "FULLNAME": "scp-629",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1370 - 惱人機器",
+        "FULLNAME": "scp-1370",
+        "RATING": 1,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-2217 - 鎚與砧",
+        "FULLNAME": "scp-2217",
+        "RATING": 4,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-172 - 齒輪人",
+        "FULLNAME": "scp-172",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-846 - 機械老兄",
+        "FULLNAME": "scp-846",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-100 - 牙買加老喬的垃圾打鐵屋",
+        "FULLNAME": "scp-100",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-206 - 旅行者",
+        "FULLNAME": "scp-206",
+        "RATING": 3,
+        "COMMENTS": "0"
+    }
+]

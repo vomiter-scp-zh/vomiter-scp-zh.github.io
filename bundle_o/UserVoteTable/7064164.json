@@ -93,12 +93,12 @@
         "TITLE": "SCP-ZH-801 - 湮滅公分母",
         "FULLNAME": "scp-zh-801",
         "RATING": 10,
-        "COMMENTS": null
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-706 - 少年ㄟ，可不可以陪阿伯找回家的路？",
         "FULLNAME": "scp-zh-706",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "0"
     },
     {
@@ -134,8 +134,8 @@
     {
         "TITLE": "SCP-ZH-005",
         "FULLNAME": "scp-zh-005",
-        "RATING": 59,
-        "COMMENTS": null
+        "RATING": 60,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "洗標：藍9102-助理研究員Liesbeth的襯衫",
@@ -189,13 +189,13 @@
         "TITLE": "SCP-ZH-2005-EX",
         "FULLNAME": "scp-zh-2005-ex",
         "RATING": 55,
-        "COMMENTS": null
+        "COMMENTS": "1"
     },
     {
         "TITLE": "你會感到後悔嗎？",
         "FULLNAME": "what-are-you-waiting-for-just-join-goc-dude",
         "RATING": 34,
-        "COMMENTS": null
+        "COMMENTS": "5"
     },
     {
         "TITLE": "炙熱的午後時光",
@@ -320,7 +320,7 @@
     {
         "TITLE": "SCP-ZH-399 - 我們心中的444號視聽教室",
         "FULLNAME": "scp-zh-399",
-        "RATING": 29,
+        "RATING": 30,
         "COMMENTS": "0"
     },
     {
@@ -375,7 +375,7 @@
         "TITLE": "SCP-ZH-499 - 康乃馨盔甲工藝",
         "FULLNAME": "scp-zh-499",
         "RATING": 37,
-        "COMMENTS": null
+        "COMMENTS": "3"
     },
     {
         "TITLE": "SCP-ZH-909 - 評分模塊",
@@ -398,7 +398,7 @@
     {
         "TITLE": "《沈溺在名為下層敘事的星點寒雨》—— 或許你無法愛上你所創造的我，那也請你不要討厭這個世界，好嗎？",
         "FULLNAME": "in-the-cold-and-rain-the-love-story",
-        "RATING": 12,
+        "RATING": 14,
         "COMMENTS": "0"
     },
     {
@@ -423,7 +423,7 @@
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
         "FULLNAME": "scp-zh-999",
         "RATING": 54,
-        "COMMENTS": null
+        "COMMENTS": "13"
     },
     {
         "TITLE": "退休生活",
@@ -524,7 +524,7 @@
     {
         "TITLE": "兒童走失處理紀錄",
         "FULLNAME": "snowcatflyhighhigh",
-        "RATING": 26,
+        "RATING": 27,
         "COMMENTS": "3"
     },
     {
@@ -717,78 +717,90 @@
         "TITLE": "極限刻度",
         "FULLNAME": "limit-scale",
         "RATING": 8,
-        "COMMENTS": null
+        "COMMENTS": "0"
     },
     {
         "TITLE": "牠在看著嗎？",
         "FULLNAME": "is-it-watching",
-        "RATING": 8,
-        "COMMENTS": null
+        "RATING": 9,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "交會，然後漸行漸遠",
         "FULLNAME": "go-to-sus-hi-po",
-        "RATING": 8,
-        "COMMENTS": null
+        "RATING": 9,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "無心之言",
         "FULLNAME": "heartless-speaking",
         "RATING": 7,
-        "COMMENTS": null
+        "COMMENTS": "1"
     },
     {
         "TITLE": "他們曾經非人，一如往常，未必如此",
         "FULLNAME": "zh-defying-angel-daily01",
         "RATING": 12,
-        "COMMENTS": null
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-279 - 愛的形狀",
         "FULLNAME": "scp-zh-279",
-        "RATING": 17,
-        "COMMENTS": null
+        "RATING": 19,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-361 - 驚喜X麵",
         "FULLNAME": "scp-zh-361",
-        "RATING": 14,
-        "COMMENTS": null
+        "RATING": 15,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-304 - 行進插曲",
         "FULLNAME": "scp-zh-304",
-        "RATING": 8,
-        "COMMENTS": null
+        "RATING": 9,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "愛是犧牲奉獻",
         "FULLNAME": "love-is-sacrifice",
-        "RATING": 5,
-        "COMMENTS": null
+        "RATING": 6,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "海棠依舊",
         "FULLNAME": "lucid-dreams",
-        "RATING": 13,
-        "COMMENTS": null
+        "RATING": 19,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-902 - 倒數之中",
         "FULLNAME": "scp-zh-902",
-        "RATING": 8,
-        "COMMENTS": null
+        "RATING": 11,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-532 - 簡單人生身心診所",
         "FULLNAME": "scp-zh-532",
-        "RATING": 12,
-        "COMMENTS": null
+        "RATING": 13,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-119 - 懲罰之火不降於我",
         "FULLNAME": "scp-zh-119",
-        "RATING": 10,
-        "COMMENTS": null
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "假面騎士Theseus：雙軌難題",
+        "FULLNAME": "kamen-rider-theseus-double-tracks-problem",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "距離世界末日還有五分鐘",
+        "FULLNAME": "five-minutes-to-end",
+        "RATING": 26,
+        "COMMENTS": "0"
     }
 ]

@@ -1,0 +1,41 @@
+[
+    {
+        "TAGNAME": "creepypasta"
+    },
+    {
+        "TITLE": "Abwesenheit",
+        "FULLNAME": "abwesenheit",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "呆若木雞",
+        "FULLNAME": "scared-stiff",
+        "RATING": 4,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "它聞起來很冷",
+        "FULLNAME": "it-smells-cold",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "逃離終點站",
+        "FULLNAME": "escape-from-terminus",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "暴牙男孩：一則童話",
+        "FULLNAME": "a-fairy-tale",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "晚上八點半不要洗澡",
+        "FULLNAME": "takeabathathalfpasteight",
+        "RATING": 15,
+        "COMMENTS": "0"
+    }
+]

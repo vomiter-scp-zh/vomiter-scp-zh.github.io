@@ -1,0 +1,26 @@
+[
+    {
+        "TITLE": "機動特遣隊簡要列表",
+        "FULLNAME": "task-forces-complete-list",
+        "RATING": 10,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-944 - 鏡子迷宮",
+        "FULLNAME": "scp-944",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-312 - 空中水母",
+        "FULLNAME": "scp-312",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4148 - 太空瓢蟲",
+        "FULLNAME": "scp-4148",
+        "RATING": 4,
+        "COMMENTS": "0"
+    }
+]

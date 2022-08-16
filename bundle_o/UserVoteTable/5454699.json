@@ -48,7 +48,7 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-ZH-900",
+        "TITLE": "SCP-ZH-900 - 石灰渦輪",
         "FULLNAME": "scp-zh-900",
         "RATING": 8,
         "COMMENTS": "1"
@@ -152,8 +152,8 @@
     {
         "TITLE": "SCP-ZH-005",
         "FULLNAME": "scp-zh-005",
-        "RATING": 59,
-        "COMMENTS": null
+        "RATING": 60,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-006",
@@ -165,7 +165,7 @@
         "TITLE": "SCP-ZH-105 - 不孝子",
         "FULLNAME": "scp-zh-105",
         "RATING": 65,
-        "COMMENTS": null
+        "COMMENTS": "5"
     },
     {
         "TITLE": "SCP-ZH-125",
@@ -200,7 +200,7 @@
     {
         "TITLE": "假如你來到這個宇宙請保持冷靜",
         "FULLNAME": "you-need-icecream-in-summer",
-        "RATING": 30,
+        "RATING": 31,
         "COMMENTS": "1"
     },
     {
@@ -321,7 +321,7 @@
         "TITLE": "SCP-ZH-120",
         "FULLNAME": "scp-zh-120",
         "RATING": 38,
-        "COMMENTS": null
+        "COMMENTS": "4"
     },
     {
         "TITLE": "山姆的ZH分部角色紀錄本",
@@ -342,7 +342,7 @@
         "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-ZH-973",
+        "TITLE": "SCP-ZH-973 - 如「怨」以償",
         "FULLNAME": "scp-zh-973",
         "RATING": 8,
         "COMMENTS": "0"
@@ -354,7 +354,7 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-ZH-959",
+        "TITLE": "SCP-ZH-959 - 桑格拉斯-阿比斯莫式分裂",
         "FULLNAME": "scp-zh-959",
         "RATING": 10,
         "COMMENTS": "2"
@@ -362,14 +362,14 @@
     {
         "TITLE": "SCP-ZH-027 - 玉籠包",
         "FULLNAME": "scp-zh-027",
-        "RATING": 15,
+        "RATING": 16,
         "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-ZH-002 - 台灣獨角獸",
         "FULLNAME": "scp-zh-002",
         "RATING": 36,
-        "COMMENTS": null
+        "COMMENTS": "13"
     },
     {
         "TITLE": "誰把聖誕樹上的星星拿走了？",
@@ -416,7 +416,7 @@
     {
         "TITLE": "SCP-ZH-60053-J - HONK",
         "FULLNAME": "scp-zh-60053-j",
-        "RATING": 42,
+        "RATING": 43,
         "COMMENTS": "7"
     },
     {
@@ -450,9 +450,9 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-ZH-051",
+        "TITLE": "SCP-ZH-051 - 請給我一點溫暖",
         "FULLNAME": "scp-zh-051",
-        "RATING": 15,
+        "RATING": 16,
         "COMMENTS": "1"
     },
     {
@@ -546,7 +546,7 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-ZH-976",
+        "TITLE": "SCP-ZH-976 - 追憶狂妄",
         "FULLNAME": "scp-zh-976",
         "RATING": 14,
         "COMMENTS": "1"
@@ -564,7 +564,7 @@
         "COMMENTS": "2"
     },
     {
-        "TITLE": "SCP-ZH-987",
+        "TITLE": "SCP-ZH-987 - 一匹駱駝引發的慘案",
         "FULLNAME": "scp-zh-987",
         "RATING": 10,
         "COMMENTS": "9"
@@ -602,8 +602,8 @@
     {
         "TITLE": "我在萬物之中",
         "FULLNAME": "arkwork-3999",
-        "RATING": 36,
-        "COMMENTS": null
+        "RATING": 37,
+        "COMMENTS": "8"
     },
     {
         "TITLE": "SCP-ZH-101",
@@ -621,7 +621,7 @@
         "TITLE": "SCP-ZH-200",
         "FULLNAME": "scp-zh-200",
         "RATING": 33,
-        "COMMENTS": null
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-103 - 易形鴞魔",
@@ -666,7 +666,7 @@
         "COMMENTS": "2"
     },
     {
-        "TITLE": "SCP-ZH-910",
+        "TITLE": "SCP-ZH-910 - 科學末日恐慌",
         "FULLNAME": "scp-zh-910",
         "RATING": 7,
         "COMMENTS": "0"
@@ -920,7 +920,7 @@
     {
         "TITLE": "距離世界末日還有五分鐘",
         "FULLNAME": "five-minutes-to-end",
-        "RATING": 24,
+        "RATING": 26,
         "COMMENTS": "0"
     },
     {
@@ -936,13 +936,13 @@
         "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-ZH-461",
+        "TITLE": "SCP-ZH-461 - 人們緊抓著冰塊",
         "FULLNAME": "scp-zh-461",
         "RATING": 9,
         "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-ZH-451",
+        "TITLE": "SCP-ZH-451 - 反對者與蠕蟲",
         "FULLNAME": "scp-zh-451",
         "RATING": 11,
         "COMMENTS": "7"
@@ -1032,9 +1032,9 @@
         "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-ZH-617",
+        "TITLE": "SCP-ZH-617 - 西方的勇者",
         "FULLNAME": "scp-zh-617",
-        "RATING": 11,
+        "RATING": 13,
         "COMMENTS": "8"
     },
     {
@@ -1256,7 +1256,7 @@
     {
         "TITLE": "SCP-ZH-526",
         "FULLNAME": "scp-zh-526",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "1"
     },
     {
@@ -1298,14 +1298,14 @@
     {
         "TITLE": "SCP-ZH-248 - 尤斯蒂亞症候群",
         "FULLNAME": "scp-zh-248",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
         "FULLNAME": "scp-zh-2005-ex",
         "RATING": 55,
-        "COMMENTS": null
+        "COMMENTS": "1"
     },
     {
         "TITLE": "伊伽姊姊去哪了?",
@@ -1425,7 +1425,7 @@
         "TITLE": "你會感到後悔嗎？",
         "FULLNAME": "what-are-you-waiting-for-just-join-goc-dude",
         "RATING": 34,
-        "COMMENTS": null
+        "COMMENTS": "5"
     },
     {
         "TITLE": "手繪SCP",
@@ -1437,7 +1437,7 @@
         "TITLE": "SCP-ZH-022-J - 拜託誰來把它填上",
         "FULLNAME": "scp-zh-022-j",
         "RATING": 36,
-        "COMMENTS": null
+        "COMMENTS": "19"
     },
     {
         "TITLE": "SCP-ZH-022",
@@ -1496,7 +1496,7 @@
     {
         "TITLE": "SCP-ZH-855",
         "FULLNAME": "scp-zh-855",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "4"
     },
     {
@@ -1526,7 +1526,7 @@
     {
         "TITLE": "鎖鏈的音竹",
         "FULLNAME": "k1s10r0d-chain-sugoi",
-        "RATING": 26,
+        "RATING": 27,
         "COMMENTS": "6"
     },
     {
@@ -1544,7 +1544,7 @@
     {
         "TITLE": "Surge的提案一",
         "FULLNAME": "surge-s-proposal-1",
-        "RATING": 31,
+        "RATING": 32,
         "COMMENTS": "11"
     },
     {
@@ -1584,7 +1584,7 @@
         "COMMENTS": "2"
     },
     {
-        "TITLE": "SCP-ZH-903",
+        "TITLE": "SCP-ZH-903 - 灶神食譜（零失敗）",
         "FULLNAME": "scp-zh-903",
         "RATING": 19,
         "COMMENTS": "4"
@@ -1626,7 +1626,7 @@
         "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-ZH-527",
+        "TITLE": "SCP-ZH-527 - 隱形的奇奇摩拉",
         "FULLNAME": "scp-zh-527",
         "RATING": 14,
         "COMMENTS": "1"
@@ -1770,9 +1770,9 @@
         "COMMENTS": "6"
     },
     {
-        "TITLE": "SCP-ZH-114",
+        "TITLE": "SCP-ZH-114 - 塞壬渦雷",
         "FULLNAME": "scp-zh-114",
-        "RATING": 12,
+        "RATING": 14,
         "COMMENTS": "0"
     },
     {
@@ -1890,7 +1890,7 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-ZH-676",
+        "TITLE": "SCP-ZH-676 - 站內有鼠",
         "FULLNAME": "scp-zh-676",
         "RATING": 8,
         "COMMENTS": "0"
@@ -1938,7 +1938,7 @@
         "COMMENTS": "4"
     },
     {
-        "TITLE": "SCP-ZH-905",
+        "TITLE": "SCP-ZH-905 - 愛的相反不是恨",
         "FULLNAME": "scp-zh-905",
         "RATING": 6,
         "COMMENTS": "0"
@@ -2072,7 +2072,7 @@
     {
         "TITLE": "SCP-ZH-399 - 我們心中的444號視聽教室",
         "FULLNAME": "scp-zh-399",
-        "RATING": 29,
+        "RATING": 30,
         "COMMENTS": "0"
     },
     {
@@ -2115,7 +2115,7 @@
         "TITLE": "繁中管理員筆記：2021年回顧",
         "FULLNAME": "note-for-u-guys-2021",
         "RATING": 34,
-        "COMMENTS": null
+        "COMMENTS": "4"
     },
     {
         "TITLE": "「給我一束鮮花吧。」",
@@ -2127,7 +2127,7 @@
         "TITLE": "SCP-ZH-499 - 康乃馨盔甲工藝",
         "FULLNAME": "scp-zh-499",
         "RATING": 37,
-        "COMMENTS": null
+        "COMMENTS": "3"
     },
     {
         "TITLE": "洗標：藍4215 - 錢了特工的特工服",
@@ -2198,7 +2198,7 @@
     {
         "TITLE": "《沈溺在名為下層敘事的星點寒雨》—— 或許你無法愛上你所創造的我，那也請你不要討厭這個世界，好嗎？",
         "FULLNAME": "in-the-cold-and-rain-the-love-story",
-        "RATING": 12,
+        "RATING": 14,
         "COMMENTS": "0"
     },
     {
@@ -2229,7 +2229,7 @@
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
         "FULLNAME": "scp-zh-999",
         "RATING": 54,
-        "COMMENTS": null
+        "COMMENTS": "13"
     },
     {
         "TITLE": "退休生活",
@@ -2396,7 +2396,7 @@
     {
         "TITLE": "兒童走失處理紀錄",
         "FULLNAME": "snowcatflyhighhigh",
-        "RATING": 26,
+        "RATING": 27,
         "COMMENTS": "3"
     },
     {
@@ -2710,5 +2710,35 @@
         "FULLNAME": "scp-zh-165",
         "RATING": 6,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-266",
+        "FULLNAME": "scp-zh-266",
+        "RATING": 12,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-038",
+        "FULLNAME": "scp-zh-038",
+        "RATING": 15,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "老貓遊記，零",
+        "FULLNAME": "old-cat-travel-1",
+        "RATING": 8,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "理解不能的裂縫之中",
+        "FULLNAME": "888father",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-804",
+        "FULLNAME": "scp-zh-804",
+        "RATING": 9,
+        "COMMENTS": "3"
     }
 ]

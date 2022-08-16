@@ -1,0 +1,44 @@
+[
+    {
+        "TITLE": "SCP-007 - 內腹行星",
+        "FULLNAME": "scp-007",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-008 - 殭屍瘟疫",
+        "FULLNAME": "scp-008",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-063 -「世界上最好用的牙刷」",
+        "FULLNAME": "scp-063",
+        "RATING": 6,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-707 - 套娃",
+        "FULLNAME": "scp-707",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "安布羅斯餐廳倫敦店的套餐菜單",
+        "FULLNAME": "ambrose-london-prix-fixe",
+        "RATING": 9,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "CCK級「著作權侵權訴訟」場景",
+        "FULLNAME": "cck-class-copyright-infringement-lawsuit-scenario",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-2026 - 文明漱口水",
+        "FULLNAME": "scp-2026",
+        "RATING": 6,
+        "COMMENTS": "0"
+    }
+]

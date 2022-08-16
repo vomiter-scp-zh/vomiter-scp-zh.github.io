@@ -50,14 +50,14 @@
     {
         "TITLE": "SCP-ZH-399 - 我們心中的444號視聽教室",
         "FULLNAME": "scp-zh-399",
-        "RATING": 29,
+        "RATING": 30,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
         "FULLNAME": "scp-zh-999",
         "RATING": 54,
-        "COMMENTS": null
+        "COMMENTS": "13"
     },
     {
         "TITLE": "k1s10r0d的提案 - IMMOLARI",
@@ -87,6 +87,84 @@
         "TITLE": "歡迎，敬啟者",
         "FULLNAME": "multiversal-valentine",
         "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-617 - 西方的勇者",
+        "FULLNAME": "scp-zh-617",
+        "RATING": 13,
+        "COMMENTS": "8"
+    },
+    {
+        "TITLE": "NX-ZH-02：西加走灣群島",
+        "FULLNAME": "nx-zh-02",
+        "RATING": 24,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "《沈溺在名為下層敘事的星點寒雨》—— 或許你無法愛上你所創造的我，那也請你不要討厭這個世界，好嗎？",
+        "FULLNAME": "in-the-cold-and-rain-the-love-story",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-60053-J - HONK",
+        "FULLNAME": "scp-zh-60053-j",
+        "RATING": 43,
+        "COMMENTS": "7"
+    },
+    {
+        "TITLE": "維安事故ZH-330-2",
+        "FULLNAME": "incident-zh-330-2",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-005",
+        "FULLNAME": "scp-zh-005",
+        "RATING": 60,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "假面騎士Theseus：雙軌難題",
+        "FULLNAME": "kamen-rider-theseus-double-tracks-problem",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "假如你來到這個宇宙請保持冷靜",
+        "FULLNAME": "you-need-icecream-in-summer",
+        "RATING": 31,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "鎖鏈的音竹",
+        "FULLNAME": "k1s10r0d-chain-sugoi",
+        "RATING": 27,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "Surge的提案一",
+        "FULLNAME": "surge-s-proposal-1",
+        "RATING": 32,
+        "COMMENTS": "11"
+    },
+    {
+        "TITLE": "兒童走失處理紀錄",
+        "FULLNAME": "snowcatflyhighhigh",
+        "RATING": 27,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "愛是犧牲奉獻",
+        "FULLNAME": "love-is-sacrifice",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "海棠依舊",
+        "FULLNAME": "lucid-dreams",
+        "RATING": 19,
         "COMMENTS": "0"
     }
 ]

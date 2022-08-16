@@ -2,8 +2,8 @@
     {
         "TITLE": "SCP-ZH-361 - 驚喜X麵",
         "FULLNAME": "scp-zh-361",
-        "RATING": 14,
-        "COMMENTS": null
+        "RATING": 15,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-255",
@@ -68,7 +68,7 @@
     {
         "TITLE": "SCP-ZH-182 - 引誘墜樓的耳語",
         "FULLNAME": "scp-zh-182",
-        "RATING": 1,
+        "RATING": 0,
         "COMMENTS": "6"
     },
     {
@@ -86,14 +86,14 @@
     {
         "TITLE": "SCP-ZH-706 - 少年ㄟ，可不可以陪阿伯找回家的路？",
         "FULLNAME": "scp-zh-706",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-005",
         "FULLNAME": "scp-zh-005",
-        "RATING": 59,
-        "COMMENTS": null
+        "RATING": 60,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-006",
@@ -128,11 +128,11 @@
     {
         "TITLE": "SCP-ZH-60053-J - HONK",
         "FULLNAME": "scp-zh-60053-j",
-        "RATING": 42,
+        "RATING": 43,
         "COMMENTS": "7"
     },
     {
-        "TITLE": "SCP-ZH-976",
+        "TITLE": "SCP-ZH-976 - 追憶狂妄",
         "FULLNAME": "scp-zh-976",
         "RATING": 14,
         "COMMENTS": "1"
@@ -224,7 +224,7 @@
     {
         "TITLE": "Surge的提案一",
         "FULLNAME": "surge-s-proposal-1",
-        "RATING": 31,
+        "RATING": 32,
         "COMMENTS": "11"
     },
     {
@@ -356,13 +356,25 @@
     {
         "TITLE": "SCP-ZH-279 - 愛的形狀",
         "FULLNAME": "scp-zh-279",
-        "RATING": 17,
-        "COMMENTS": null
+        "RATING": 19,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-941 - 你才沒有在奮鬥",
         "FULLNAME": "scp-zh-941",
-        "RATING": 0,
-        "COMMENTS": null
+        "RATING": 1,
+        "COMMENTS": "8"
+    },
+    {
+        "TITLE": "SCP-ZH-318 - 認同癖",
+        "FULLNAME": "scp-zh-318",
+        "RATING": 1,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-403 - 禁臠與終止符",
+        "FULLNAME": "scp-zh-403",
+        "RATING": 15,
+        "COMMENTS": "4"
     }
 ]
