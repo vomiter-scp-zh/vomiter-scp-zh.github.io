@@ -1,0 +1,32 @@
+[
+    {
+        "TITLE": "威脅級別",
+        "FULLNAME": "niveaux-de-menace-des-objets-scp",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "DCD 中心頁",
+        "FULLNAME": "centre-du-dcd",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "登仙",
+        "FULLNAME": "la-naissance-d-un-immortel",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "基金會在夜谷",
+        "FULLNAME": "fondation-a-valnuit",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "憲章",
+        "FULLNAME": "djinn-tonic",
+        "RATING": 6,
+        "COMMENTS": "0"
+    }
+]

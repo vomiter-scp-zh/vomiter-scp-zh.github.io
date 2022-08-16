@@ -1,0 +1,44 @@
+[
+    {
+        "TITLE": "異常的詩集",
+        "FULLNAME": "scpoems",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-066 - Eric的玩具",
+        "FULLNAME": "scp-066",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Eric的日記",
+        "FULLNAME": "erics-journal",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4046 - 你長大後想成為怎麼樣的人?",
+        "FULLNAME": "scp-4046",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1248 - 個性紀錄儀",
+        "FULLNAME": "scp-1248",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-168 - 感知計算機",
+        "FULLNAME": "scp-168",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-683 - 冰箱畫作",
+        "FULLNAME": "scp-683",
+        "RATING": 3,
+        "COMMENTS": "2"
+    }
+]

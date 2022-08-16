@@ -1,0 +1,38 @@
+[
+    {
+        "TITLE": "SCP-901-TH",
+        "FULLNAME": "scp-901-th",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "微波爐",
+        "FULLNAME": "microwave",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "泰國分部關注組織",
+        "FULLNAME": "groups-of-interest-th",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "泰語世界線中心頁",
+        "FULLNAME": "th-canon-hub",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "恐怖基金會",
+        "FULLNAME": "horror-foundation",
+        "RATING": 1,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-072-TH - 城堡守衛",
+        "FULLNAME": "scp-072-th",
+        "RATING": 2,
+        "COMMENTS": "0"
+    }
+]

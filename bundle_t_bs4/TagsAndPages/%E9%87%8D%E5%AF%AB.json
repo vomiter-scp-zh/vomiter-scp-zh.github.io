@@ -1,0 +1,428 @@
+[
+    {
+        "TITLE": "SCP-006 - 青春湧泉",
+        "FULLNAME": "scp-006",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-181 - 「幸運兒」",
+        "FULLNAME": "scp-181",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-133 - 便攜洞穴",
+        "FULLNAME": "scp-133",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-076 -「亞伯」",
+        "FULLNAME": "scp-076",
+        "RATING": 10,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "Nexus中心頁",
+        "FULLNAME": "nexus-series",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-031 - 何謂愛？",
+        "FULLNAME": "scp-031",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-814 - 純音",
+        "FULLNAME": "scp-814",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-093 - 紅海物件",
+        "FULLNAME": "scp-093",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1507 - 粉紅火烈鳥",
+        "FULLNAME": "scp-1507",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-105 - 「Iris」",
+        "FULLNAME": "scp-105",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-066 - Eric的玩具",
+        "FULLNAME": "scp-066",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "夢神關注組織中心頁",
+        "FULLNAME": "oneiroi",
+        "RATING": 10,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-1037 - 機械",
+        "FULLNAME": "scp-1037",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-062 - 「量子」電腦",
+        "FULLNAME": "scp-062",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-148 - 「阻念」合金",
+        "FULLNAME": "scp-148",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-326 - 中國農夫",
+        "FULLNAME": "scp-326",
+        "RATING": 1,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1057 - 空虛的鯊意",
+        "FULLNAME": "scp-1057",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-099 - 肖像",
+        "FULLNAME": "scp-099",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-037 - 白矮星",
+        "FULLNAME": "scp-037",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1070 - 再教育軟件",
+        "FULLNAME": "scp-1070",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-049 - 瘟疫醫生",
+        "FULLNAME": "scp-049",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-579 - 數據刪除",
+        "FULLNAME": "scp-579",
+        "RATING": 6,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "序曲：預備鈴",
+        "FULLNAME": "days-gone-by",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-342 - 車票之旅",
+        "FULLNAME": "scp-342",
+        "RATING": 2,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-894 - 不見，不聞，不言",
+        "FULLNAME": "scp-894",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-040 - 變異之子",
+        "FULLNAME": "scp-040",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-039 - 長鼻工程師",
+        "FULLNAME": "scp-039",
+        "RATING": 1,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-042 - 曾為天馬",
+        "FULLNAME": "scp-042",
+        "RATING": 1,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-864 - 快速洗衣盤",
+        "FULLNAME": "scp-864",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-629 - 黃銅先生",
+        "FULLNAME": "scp-629",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-166 - 只是個少女蓋亞",
+        "FULLNAME": "scp-166",
+        "RATING": 7,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-075 - 腐蝕性蝸牛",
+        "FULLNAME": "scp-075",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-003 - 生物主機板",
+        "FULLNAME": "scp-003",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-1032 - 預知鐘",
+        "FULLNAME": "scp-1032",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-045 - 大氣轉換儀",
+        "FULLNAME": "scp-045",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1712 - 一件 1959 年 8 月 11 日的異常事件",
+        "FULLNAME": "scp-1712",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-054 - 水妖精",
+        "FULLNAME": "scp-054",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-113 - 性別轉換器",
+        "FULLNAME": "scp-113",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ihp/Locke 的提案",
+        "FULLNAME": "keter-duty",
+        "RATING": 8,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-669 - 教學示意圖",
+        "FULLNAME": "scp-669",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "毀壞假面中心頁",
+        "FULLNAME": "broken-masquerade-hub",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6150 - 日出3號",
+        "FULLNAME": "scp-6150",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1207 - 非鏡",
+        "FULLNAME": "scp-1207",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-900 - 太陽之城",
+        "FULLNAME": "scp-900",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "萬象之源：第一部分",
+        "FULLNAME": "history-of-the-universe-part-one",
+        "RATING": 7,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-353 - 「傳病者」",
+        "FULLNAME": "scp-353",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-250 - 差不多是隻異特龍",
+        "FULLNAME": "scp-250",
+        "RATING": 1,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-059 - 放射性礦物",
+        "FULLNAME": "scp-059",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-177 - 將死",
+        "FULLNAME": "scp-177",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-103 - 永不飢餓的人",
+        "FULLNAME": "scp-103",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-086 - ［刪減內容］博士的辦公室",
+        "FULLNAME": "scp-086",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-094 - 小型事件視界",
+        "FULLNAME": "scp-094",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-336 - 「莉莉絲」",
+        "FULLNAME": "scp-336",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-077 - 腐敗頭骨",
+        "FULLNAME": "scp-077",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-275 - 鐵布衫",
+        "FULLNAME": "scp-275",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-263 - 「真金火煉大挑戰」",
+        "FULLNAME": "scp-263",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-114 - 衝突使者",
+        "FULLNAME": "scp-114",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-190 - 貴重玩具箱",
+        "FULLNAME": "scp-190",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "基金會設施",
+        "FULLNAME": "secure-facilities-locations",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-327 - 人魚",
+        "FULLNAME": "scp-327",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-847 - 人形模特兒",
+        "FULLNAME": "scp-847",
+        "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-129 - 進程性真菌感染症",
+        "FULLNAME": "scp-129",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-761 - 稍微沒那麼危險的彈簧床",
+        "FULLNAME": "scp-761",
+        "RATING": 5,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-213 - 反物質寄生蟲",
+        "FULLNAME": "scp-213",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-150 - 忒修斯之船",
+        "FULLNAME": "scp-150",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-134 - 星眸之子",
+        "FULLNAME": "scp-134",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-557- 古代收容站點",
+        "FULLNAME": "scp-557",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-396 - 然後突然地，椅子",
+        "FULLNAME": "scp-396",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-787 - 未曾存在的飛機",
+        "FULLNAME": "scp-787",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-122 - 再無怪物",
+        "FULLNAME": "scp-122",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SPC-3008",
+        "FULLNAME": "spc-3008",
+        "RATING": 4,
+        "COMMENTS": "0"
+    }
+]

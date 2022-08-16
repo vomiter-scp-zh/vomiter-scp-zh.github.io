@@ -1,0 +1,32 @@
+[
+    {
+        "TITLE": "SCP-3000競賽",
+        "FULLNAME": "scp3000contesthub",
+        "RATING": 1,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4000競賽",
+        "FULLNAME": "scp4000contesthub",
+        "RATING": 1,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5000競賽",
+        "FULLNAME": "scp5000contesthub",
+        "RATING": 2,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6000競賽中心頁",
+        "FULLNAME": "scp6000contesthub",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-7000競賽中心頁",
+        "FULLNAME": "scp7000contesthub",
+        "RATING": 4,
+        "COMMENTS": "0"
+    }
+]

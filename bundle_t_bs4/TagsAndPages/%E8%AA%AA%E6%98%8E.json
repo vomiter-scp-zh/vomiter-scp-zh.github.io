@@ -1,0 +1,44 @@
+[
+    {
+        "TITLE": "魔法講座",
+        "FULLNAME": "another-goddamn-magic-system",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "倫理委員會職前訓練",
+        "FULLNAME": "ethics-committee-orientation",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Clef博士研討會手記，「現實扭曲者與你：當不存在的事物存在時該如何生存。」",
+        "FULLNAME": "clef101",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "10:30 A.M.",
+        "FULLNAME": "10-30-a-m",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "UIU職前訓練",
+        "FULLNAME": "uiu-orientation",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "靈活對待",
+        "FULLNAME": "flexibility",
+        "RATING": 1,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "午後（非現實部講座）",
+        "FULLNAME": "unreality-orientation",
+        "RATING": 7,
+        "COMMENTS": "0"
+    }
+]
