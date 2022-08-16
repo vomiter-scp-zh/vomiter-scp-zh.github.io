@@ -3037,8 +3037,8 @@
     },
     {
         "TITLE": "惡意行為",
-        "FULLNAME": "malicious-behavior",
-        "RATING": 11,
+        "FULLNAME": "/malicious-behavior",
+        "RATING": 12,
         "COMMENTS": "2"
     },
     {
@@ -3152,7 +3152,7 @@
     {
         "TITLE": "假面騎士Theseus：雙軌難題",
         "FULLNAME": "kamen-rider-theseus-double-tracks-problem",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "0"
     }
 ]
