@@ -1092,6 +1092,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "到職",
+        "FULLNAME": "/arrival",
+        "RATING": 18,
+        "COMMENTS": "5"
+    },
+    {
         "TITLE": "SCP-ZH-954 - 黃色便條紙",
         "FULLNAME": "scp-zh-954",
         "RATING": 17,
@@ -1108,12 +1114,6 @@
         "FULLNAME": "scp-zh-077",
         "RATING": 17,
         "COMMENTS": "3"
-    },
-    {
-        "TITLE": "到職",
-        "FULLNAME": "arrival",
-        "RATING": 17,
-        "COMMENTS": "5"
     },
     {
         "TITLE": "SCP-ZH-913 - 回家月餅",
