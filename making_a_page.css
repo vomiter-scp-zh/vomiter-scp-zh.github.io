@@ -1,7 +1,9 @@
 body{
     background:transparent;
     font-family: verdana,arial,helvetica,sans-serif;
-}
+    font-size: 0.80em;    
+    color: #333;
+  }
 
 a {
     color: #b01;
