@@ -5393,7 +5393,7 @@
     {
         "TITLE": "SCP-614 - IP位址57.32.███.███",
         "FULLNAME": "scp-614",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "0"
     },
     {
@@ -6299,7 +6299,7 @@
     {
         "TITLE": "SCP-7000 - 不凋",
         "FULLNAME": "7000contestdysadune",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "0"
     },
     {
@@ -6322,8 +6322,8 @@
     },
     {
         "TITLE": "SCP-7000 - 殊途同歸羅馬",
-        "FULLNAME": "/7000contestesoterica",
-        "RATING": 3,
+        "FULLNAME": "7000contestesoterica",
+        "RATING": 5,
         "COMMENTS": "0"
     }
 ]
