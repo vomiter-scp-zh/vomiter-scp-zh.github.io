@@ -43,6 +43,19 @@ a {
     font-weight: bold;
   }
 
+  .content-panel {
+    border: solid 1px #888880;
+    border-radius: 10px;
+    background-color: #999990;
+    margin: 10px 0 15px;
+    box-shadow: 3px 3px 6px #bbb;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.5), inset 0 1px rgba(255, 255, 255, 0.3), inset 0 10px rgba(255, 255, 255, 0.2), inset 0 10px 20px rgba(255, 255, 255, 0.25), inset 0 -15px 30px rgba(0, 0, 0, 0.1);
+  }
+   
+  .content-panel.standalone {
+    background: #fcfdfb;
+  }
+
 .content-panel{
     padding: 1em;
 }
