@@ -145,7 +145,7 @@ td_listing(herearea,tth);
 getready(herearea);
 })
 
-fetch('https://vomiter-scp-zh.github.io/bundle_t_bs4/top200.json')
+fetch('https://vomiter-scp-zh.github.io/bundle_t_bs4/top200.json',INIT)
 .then(function(response){return response.json();})
 .then(function(tth){
     herearea='#translation_area';
