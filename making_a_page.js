@@ -125,7 +125,7 @@ function getready(area){
         page_targets[i].addEventListener("click",add_page_changer);
     }
 
-    tbp=document.querySelectorAll('to_be_panel');
+    tbp=document.querySelectorAll('.to_be_panel');
     for(i=0;i<tbp.length;i++){
         tbp[i].classList.add('content-panel');
         tbp[i].classList.add('standalone');
