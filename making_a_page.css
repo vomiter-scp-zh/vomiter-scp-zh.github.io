@@ -1,5 +1,13 @@
 @import url('https://scp-zh-tr.wdfiles.com/local--code/component%3Atheme-new/1');
 
+body{
+    font-family: verdana,arial,helvetica,sans-serif;
+}
+
+.content-panel{
+    padding: 1em;
+}
+
 .content-panel .content-type-title {
     font-size: 120%;
     font-weight: bold;
@@ -56,6 +64,9 @@ tr.TOPROW{
     display: none;
 }
 
+.page_button{
+    display: inline-block;
+}
 
 .pager .current .pre-current {
 display: inherit;

@@ -79,10 +79,14 @@ function add_page_changer(){
     for(i=0;i<page_targets.length;i++){
     page_targets[i].classList.remove('current');
     if(page_targets[i].children[1].innerHTML==no){
-        page_targets[i].classList.add('current')
+        page_targets[i].classList.add('current');
     }
 
 }
+    pager_str=document.querySelectorAll(`${area} .pager-no`);
+    for(i=0;i<pager_str.length;i++){
+    pager_str[i].innerHTML=`第 ${no} 頁`;
+    }
 
     all_tr=document.querySelectorAll(`${area} tr.ENTRY`);
     for (i=0;i<all_tr.length;i++){
@@ -109,6 +113,10 @@ function getready(area){
         page_targets[i].classList.add('current')
     }
 }
+    pager_str=document.querySelectorAll(`${area} .pager-no`);
+    for(i=0;i<pager_str.length;i++){
+    pager_str[i].innerHTML=`第 ${no} 頁`;
+    }
 
 
     page_targets=document.querySelectorAll(`${area} .page_button`);
