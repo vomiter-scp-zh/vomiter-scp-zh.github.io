@@ -100,6 +100,14 @@ function add_page_changer(){
 
 
 function getready(area){
+    tbp=document.querySelectorAll('to_be_panel');
+    for(i=0;i<tbp.length;i++){
+        tbp[i].classList.add('content-panel');
+        tbp[i].classList.add('standalone');
+        tbp[i].classList.add('content-row');
+        tbp[i].classList.remove('to_be_panel');
+    }
+
     trs=document.querySelectorAll(`${area} tr.page1`);
     for(i=0;i<trs.length;i++){
         trs[i].classList.add('showing');
