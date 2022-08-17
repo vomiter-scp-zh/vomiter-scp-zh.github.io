@@ -1984,5 +1984,11 @@
         "FULLNAME": "scp-zh-096",
         "RATING": 23,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-2005-EX",
+        "FULLNAME": "/scp-zh-2005-ex",
+        "RATING": 55,
+        "COMMENTS": "1"
     }
 ]
