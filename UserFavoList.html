@@ -65,8 +65,15 @@
     
     })
     .catch(function(error){
-        to_write=document.querySelector('#translation_area .to_write')
-        to_write.innerHTML='您還未有評分紀錄'
+        to_write=document.querySelector('#translation_area .to_write');
+        to_write.innerHTML='您還未有評分紀錄';
+        tbp=document.querySelectorAll('.to_be_panel');
+    for(i=0;i<tbp.length;i++){
+        tbp[i].classList.add('content-panel');
+        tbp[i].classList.add('standalone');
+        tbp[i].classList.add('content-row');
+        tbp[i].classList.remove('to_be_panel');
+    }
     })
     </script>
     
