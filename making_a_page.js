@@ -94,10 +94,11 @@ function pb_wrapper(str){
 
 dot_span="<span class='dot'>...</span>"
 pager_no='<span class="pager-no"></span>'
+next_page='<span class="NEXT"></span>'
 
 function add_page_changer(){
     var area=`#${this.parentNode.parentNode.id}`
-    var page_targets=document.querySelectorAll(`${area} .page_button`);
+    var page_targets=document.querySelectorAll(`${area} .page_button:not(.NEXT)`);
     var no=this.children[1].innerHTML;
     for(i=0;i<page_targets.length;i++){
     page_targets[i].classList.remove('current');
@@ -119,24 +120,31 @@ function add_page_changer(){
     var ifdot=document.querySelectorAll(`${area} .dot`);
     if(ifdot){
         var MaxInd=document.querySelector(`${area} .pager>.page_button:nth-last-child(2)>span`).innerHTML;
+        var nno=Number(no);
         if(no>3&&no<MaxInd-2){
-            var nno=Number(no);
-            var new_pager=`${pager_no}${pb_wrapper('1')}${dot_span}${pb_wrapper(`${nno-1}`)}${pb_wrapper(`${nno}`)}${pb_wrapper(`${nno+1}`)}${dot_span}${pb_wrapper(MaxInd)}`
-            var pager=document.querySelectorAll(`${area} .pager`);
-            for(i=0;i<pager.length;i++){
-            pager[i].innerHTML=new_pager;
-            for(i=0;i<page_targets.length;i++){
-                page_targets[i].addEventListener("click",add_page_changer);
-            }
-        
-            }
+            var new_pager=`${pager_no}${pb_wrapper('1')}${dot_span}${pb_wrapper(`${nno-1}`)}${pb_wrapper(`${nno}`)}${pb_wrapper(`${nno+1}`)}${dot_span}${pb_wrapper(MaxInd)}${next_page}`
+        }
+        else if(no==3){
+            var new_pager=`${pager_no}${pb_wrapper('1')}${pb_wrapper(`${nno-1}`)}${pb_wrapper(`${nno}`)}${pb_wrapper(`${nno+1}`)}${dot_span}${pb_wrapper(MaxInd)}${next_page}`
+        }
+        else if(no==MaxInd-2){
+            var new_pager=`${pager_no}${pb_wrapper('1')}${dot_span}${pb_wrapper(`${nno-1}`)}${pb_wrapper(`${nno}`)}${pb_wrapper(`${nno+1}`)}${pb_wrapper(MaxInd)}${next_page}`
+        }
 
+
+        var pager=document.querySelectorAll(`${area} .pager`);
+        for(i=0;i<pager.length;i++){
+        pager[i].innerHTML=new_pager;
+        for(i=0;i<page_targets.length;i++){
+            page_targets[i].addEventListener("click",add_page_changer);
+        }
+    
         }
 
     }
 
     var pager_pointer=document.querySelectorAll(`${area} .pager-no`);
-    for(i=0;i<pager_str.length;i++){
+    for(i=0;i<pager_pointer.length;i++){
     pager_pointer[i].innerHTML=`第 ${no} 頁`;
     }
 
@@ -164,7 +172,7 @@ function getready(area){
     }
 
 
-    page_targets=document.querySelectorAll(`${area} .page_button`);
+    page_targets=document.querySelectorAll(`${area} .page_button:not(.NEXT)`);
     for(i=0;i<page_targets.length;i++){
         page_targets[i].addEventListener("click",add_page_changer);
     }
