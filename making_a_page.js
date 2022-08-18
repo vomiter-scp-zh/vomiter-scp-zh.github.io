@@ -128,7 +128,7 @@ function add_page_changer(){
 
 
         var pager=document.querySelectorAll(`${area} .pager`);
-        alert(pager);
+        alert(pager.length);
         for(i=0;i<pager.length;i++){
         pager[i].innerHTML=new_pager;
         page_targets=document.querySelectorAll(`${area} .page_button:not(.NEXT)`);
