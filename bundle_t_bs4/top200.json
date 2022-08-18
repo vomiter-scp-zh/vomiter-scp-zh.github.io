@@ -138,6 +138,12 @@
         "COMMENTS": "4"
     },
     {
+        "TITLE": "SCP-6630 - 彼方遙火",
+        "FULLNAME": "scp-6630",
+        "RATING": 18,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "Lily的提案",
         "FULLNAME": "lily-s-proposal",
         "RATING": 17,
@@ -152,12 +158,6 @@
     {
         "TITLE": "不是競賽作品，只是篇關於諸神的搞笑文",
         "FULLNAME": "party-of-gods",
-        "RATING": 17,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-6630 - 彼方遙火",
-        "FULLNAME": "scp-6630",
         "RATING": 17,
         "COMMENTS": "1"
     },
