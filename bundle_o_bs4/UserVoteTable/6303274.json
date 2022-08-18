@@ -286,5 +286,17 @@
         "FULLNAME": "scp-zh-082",
         "RATING": 24,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-717 - 課堂中請勿伸出附肢",
+        "FULLNAME": "/scp-zh-717",
+        "RATING": 16,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-706 - 少年ㄟ，可不可以陪阿伯找回家的路？",
+        "FULLNAME": "/scp-zh-706",
+        "RATING": 13,
+        "COMMENTS": "0"
     }
 ]
