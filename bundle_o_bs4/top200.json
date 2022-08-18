@@ -108,6 +108,12 @@
         "COMMENTS": "4"
     },
     {
+        "TITLE": "SCP-ZH-200",
+        "FULLNAME": "scp-zh-200",
+        "RATING": 34,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-ZH-117",
         "FULLNAME": "scp-zh-117",
         "RATING": 33,
@@ -118,12 +124,6 @@
         "FULLNAME": "scp-zh-860",
         "RATING": 33,
         "COMMENTS": "3"
-    },
-    {
-        "TITLE": "SCP-ZH-200",
-        "FULLNAME": "scp-zh-200",
-        "RATING": 33,
-        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-111",
