@@ -582,6 +582,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-6820 - 抹殺嘗試",
+        "FULLNAME": "scp-6820",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-050 - 致最聰明的人",
         "FULLNAME": "scp-050",
         "RATING": 11,
@@ -778,12 +784,6 @@
         "FULLNAME": "scp-6594",
         "RATING": 11,
         "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-6820 - 抹殺嘗試",
-        "FULLNAME": "scp-6820",
-        "RATING": 11,
-        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-4666 - 聖誕老人",
