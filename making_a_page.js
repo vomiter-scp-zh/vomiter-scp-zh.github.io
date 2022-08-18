@@ -58,7 +58,7 @@ function tr_listing(area,perpage){
             }
             pager_str=`${pager_str}<span class="page_button"><a href="javascript:void(0);"><span class="target">${i+1}</span></a><span class="pre-current">${i+1}</span></span>`;
         }
-        pager_str=`${pager_str}<span class='dot'>...</dot>`;
+        pager_str=`${pager_str}<span class='dot'>...</span>`;
         for(i=page_ind-3;i<page_ind;i++){
             if (i==0){
                 pager_str='<span class="pager-no"></span>';
