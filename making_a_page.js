@@ -133,7 +133,7 @@ function getready(area){
 }
 
 function jointfunc(area,data,limit,perpage){
-    start_table(area,tth,limit);
+    start_table(area,data,limit);
     make_top_row(area);
 tr_listing(area,perpage);
 td_listing(area,data);
