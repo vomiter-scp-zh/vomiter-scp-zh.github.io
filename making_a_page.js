@@ -97,9 +97,9 @@ pager_no='<span class="pager-no"></span>'
 next_page='<span class="NEXT"></span>'
 
 function add_page_changer(){
-    var area=`#${this.parentNode.parentNode.id}`
-    var page_targets=document.querySelectorAll(`${area} .page_button:not(.NEXT)`);
+    var area=`#${this.parentNode.parentNode.id}`;
     var no=this.children[1].innerHTML;
+    var page_targets=document.querySelectorAll(`${area} .page_button:not(.NEXT)`);
 
 
     var all_tr=document.querySelectorAll(`${area} tr.ENTRY`);
@@ -128,6 +128,7 @@ function add_page_changer(){
         var pager=document.querySelectorAll(`${area} .pager`);
         for(i=0;i<pager.length;i++){
         pager[i].innerHTML=new_pager;
+        page_targets=document.querySelectorAll(`${area} .page_button:not(.NEXT)`);
         for(i=0;i<page_targets.length;i++){
             page_targets[i].addEventListener("click",add_page_changer);
         }
@@ -143,7 +144,6 @@ function add_page_changer(){
         }
     
     }
-    
 
     var pager_pointer=document.querySelectorAll(`${area} .pager-no`);
     for(i=0;i<pager_pointer.length;i++){
