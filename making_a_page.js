@@ -100,13 +100,6 @@ function add_page_changer(){
     var area=`#${this.parentNode.parentNode.id}`
     var page_targets=document.querySelectorAll(`${area} .page_button:not(.NEXT)`);
     var no=this.children[1].innerHTML;
-    for(i=0;i<page_targets.length;i++){
-    page_targets[i].classList.remove('current');
-    if(page_targets[i].children[1].innerHTML==no){
-        page_targets[i].classList.add('current');
-    }
-
-}
 
 
     var all_tr=document.querySelectorAll(`${area} tr.ENTRY`);
@@ -117,8 +110,8 @@ function add_page_changer(){
     for(i=0;i<to_show.length;i++){
         to_show[i].classList.add('showing');
     }
-    var ifdot=document.querySelectorAll(`${area} .dot`);
-    if(ifdot){
+    var ifdot=document.querySelector(`${area} .dot`);
+    if(ifdot!==null){
         var MaxInd=document.querySelector(`${area} .pager>.page_button:nth-last-child(2)>span`).innerHTML;
         var nno=Number(no);
         if(no>3&&no<MaxInd-2){
@@ -142,6 +135,15 @@ function add_page_changer(){
         }
 
     }
+
+    for(i=0;i<page_targets.length;i++){
+        page_targets[i].classList.remove('current');
+        if(page_targets[i].children[1].innerHTML==no){
+            page_targets[i].classList.add('current');
+        }
+    
+    }
+    
 
     var pager_pointer=document.querySelectorAll(`${area} .pager-no`);
     for(i=0;i<pager_pointer.length;i++){
