@@ -11,8 +11,8 @@ function start_table(area,data,limit){
 }
 
 function make_top_row(area){
-    toprow=document.querySelector(`${area} .TOPROW`);
-    tdtitles=['條目標題','評分','評論數'];
+    var toprow=document.querySelector(`${area} .TOPROW`);
+    var tdtitles=['條目標題','評分','評論數'];
     tdtitles=tdtitles.join('</td><td>');
     tdtitles=`<td>${tdtitles}</td>`;
     toprow.innerHTML=tdtitles;
@@ -20,13 +20,11 @@ function make_top_row(area){
 }
 
 
-var current_page='1';
-
 function tr_listing(area,perpage){
-    k=document.querySelectorAll(`${area} tr.NAIVE`).length;
-    p=document.querySelectorAll(`${area} .pager`);
-    page_ind=1;
-    pager_str='';
+    var k=document.querySelectorAll(`${area} tr.NAIVE`).length;
+    var p=document.querySelectorAll(`${area} .pager`);
+    var page_ind=1;
+    var pager_str='';
     while(k>perpage){
         q=document.querySelectorAll(`${area} tr.NAIVE`);
         for(i=0;i<perpage;i++){
@@ -67,7 +65,7 @@ function tr_listing(area,perpage){
         }
         
     }
-
+    pager_str=`${pager_str}<span class='dummy'></span>`;
     for(i=0;i<p.length;i++){
         p[i].innerHTML=pager_str;
     }
@@ -75,14 +73,14 @@ function tr_listing(area,perpage){
 }
 
 function td_organ(item,tr_ele){
-    a_part=`<a target="_blank" href='http://scp-zh-tr.wikidot.com/${item['FULLNAME']}'>${item['TITLE']}</a>`;
-    r_part=`${item['RATING']}`;
-    c_part=`${item['COMMENTS']}`;
+    var a_part=`<a target="_blank" href='http://scp-zh-tr.wikidot.com/${item['FULLNAME']}'>${item['TITLE']}</a>`;
+    var r_part=`${item['RATING']}`;
+    var c_part=`${item['COMMENTS']}`;
     tr_ele.innerHTML=`<td>${a_part}</td><td>${r_part}</td><td>${c_part}</td>`;
 }
 
 function td_listing(area,data){
-    q=document.querySelectorAll(`${area} tr.ENTRY`)
+    var q=document.querySelectorAll(`${area} tr.ENTRY`)
     for(i=0;i<q.length;i++){
         item=data[i];
         tr=q[i];
@@ -90,10 +88,17 @@ function td_listing(area,data){
     }
 }
 
+function pb_wrapper(str){
+    return `<span class="page_button"><a href="javascript:void(0);"><span class="target">${str}</span></a><span class="pre-current">${str}</span></span>`
+}
+
+dot_span="<span class='dot'>...</span>"
+pager_no='<span class="pager-no"></span>'
+
 function add_page_changer(){
-    area=`#${this.parentNode.parentNode.id}`
-    page_targets=document.querySelectorAll(`${area} .page_button`);
-    no=this.children[1].innerHTML;
+    var area=`#${this.parentNode.parentNode.id}`
+    var page_targets=document.querySelectorAll(`${area} .page_button`);
+    var no=this.children[1].innerHTML;
     for(i=0;i<page_targets.length;i++){
     page_targets[i].classList.remove('current');
     if(page_targets[i].children[1].innerHTML==no){
@@ -101,19 +106,36 @@ function add_page_changer(){
     }
 
 }
-    pager_str=document.querySelectorAll(`${area} .pager-no`);
-    for(i=0;i<pager_str.length;i++){
-    pager_str[i].innerHTML=`第 ${no} 頁`;
-    }
 
-    all_tr=document.querySelectorAll(`${area} tr.ENTRY`);
+
+    var all_tr=document.querySelectorAll(`${area} tr.ENTRY`);
     for (i=0;i<all_tr.length;i++){
         all_tr[i].classList.remove('showing');
     }
-    to_show=document.querySelectorAll(`${area} .page${no}`);
+    var to_show=document.querySelectorAll(`${area} .page${no}`);
     for(i=0;i<to_show.length;i++){
         to_show[i].classList.add('showing');
     }
+    var ifdot=document.querySelectorAll(`${area} .dot`);
+    if(ifdot){
+        var MaxInd=document.querySelector(`${area} .pager>.page_button:nth-last-child(2)>span`).innerHTML;
+        if(no>3||no<MaxInd-2){
+            var nno=Number(no);
+            var new_pager=`${pager_no}${pb_wrapper('1')}${dot_span}${pb_wrapper(`${nno-1}`)}${pb_wrapper(`${nno}`)}${pb_wrapper(`${nno+1}`)}${dot_span}${pb_wrapper(MaxInd)}`
+            var pager=document.querySelectorAll(`${area} .pager`);
+            for(i=0;i<pager.length;i++){
+            pager[i].innerHTML=new_pager;
+            }
+
+        }
+
+    }
+
+    var pager_pointer=document.querySelectorAll(`${area} .pager-no`);
+    for(i=0;i<pager_str.length;i++){
+    pager_pointer[i].innerHTML=`第 ${no} 頁`;
+    }
+
 }
 
 
