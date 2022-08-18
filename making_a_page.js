@@ -138,6 +138,13 @@ function jointfunc(area,data,limit,perpage){
 tr_listing(area,perpage);
 td_listing(area,data);
 getready(area);
+if(data.length<perpage){
+    to_del=document.querySelectorAll(`${area} .pager`)
+    for(i=0;i<to_del.length;i++){
+        to_del[i].remove();
+    }
+
+}
 
 }
 
