@@ -6371,7 +6371,7 @@
     {
         "TITLE": "SCP-3270 - 一幅使你成為毛迷的繪畫",
         "FULLNAME": "scp-3270",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0"
     },
     {
@@ -10985,6 +10985,12 @@
     {
         "TITLE": "SCP-7000 - 殊途同歸羅馬",
         "FULLNAME": "7000contestesoterica",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7000 - 船。",
+        "FULLNAME": "7000contestaismlt",
         "RATING": 6,
         "COMMENTS": "0"
     }
