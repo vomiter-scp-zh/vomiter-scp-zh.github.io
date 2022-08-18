@@ -1,0 +1,48 @@
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maxium-scale=1.0, minimum-scale=1.0, user-scalable=yes"/>
+    
+    <meta http-equiv="cache-control" content="no-cache">
+    <meta http-equiv="pragma" content="no-cache"> 
+    <meta http-equiv="expires" content="0"> 
+    
+    <link rel="stylesheet" href="making_a_page.css">
+    </head>
+    
+    <h1>喜歡的原創作品列表</h1>
+    <div class="to_be_panel">
+    <div id="original_area">
+        <div class="pager"></div>
+        <div class="to_write"></div>
+        <div class="pager"></div>
+    </div>
+    </div>
+    <div style="height:3em;">　　　　</div>
+    
+    <h1>喜歡的翻譯作品列表</h1>
+    <div class="to_be_panel">
+    <div id="translation_area">
+        <div class="pager"></div>
+        <div class="to_write"></div>
+        <div class="pager"></div>
+    </div>
+    </div>
+    
+    
+    <script type="text/javascript" src="making_a_page.js" charset="utf-8"></script>
+    
+    <script>
+    fetch('bundle_o_bs4/top200.json',INIT)
+    .then(function(response){return response.json();})
+    .then(function(tth){
+        herearea='#original_area';
+        jointfunc(herearea,tth,20000,20);
+    
+    })
+    fetch('bundle_t_bs4/top200.json',INIT)
+    .then(function(response){return response.json();})
+    .then(function(tth){
+        herearea='#translation_area';
+        jointfunc(herearea,tth,20000,20);
+    })
+    </script>
+    

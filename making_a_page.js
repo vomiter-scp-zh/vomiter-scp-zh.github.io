@@ -149,18 +149,3 @@ var INIT={
     method:'GET',
     headers:HEADERS
 };
-
-fetch('https://vomiter-scp-zh.github.io/bundle_o_bs4/top200.json',INIT)
-.then(function(response){return response.json();})
-.then(function(tth){
-    herearea='#original_area';
-    jointfunc(herearea,tth,200,20);
-
-})
-
-fetch('https://vomiter-scp-zh.github.io/bundle_t_bs4/top200.json',INIT)
-.then(function(response){return response.json();})
-.then(function(tth){
-    herearea='#translation_area';
-    jointfunc(herearea,tth,200,20);
-})
