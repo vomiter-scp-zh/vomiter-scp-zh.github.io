@@ -1,7 +1,4 @@
-var perpage=20;
-var limit=200;
-
-function start_table(area,data){
+function start_table(area,data,limit){
     document.querySelector(`${area} .to_write`).innerHTML=`<table style="width: 100%;"></table>`;
     var total=data.length;
     total_show=Math.min(total,limit);
@@ -22,7 +19,7 @@ function make_top_row(area){
 
 }
 
-function tr_listing(area){
+function tr_listing(area,perpage){
     k=document.querySelectorAll(`${area} tr.NAIVE`).length;
     p=document.querySelectorAll(`${area} .pager`);
     page_ind=1;
@@ -135,6 +132,15 @@ function getready(area){
 
 }
 
+function jointfunc(area,data,limit,perpage){
+    start_table(area,tth,limit);
+    make_top_row(area);
+tr_listing(area,perpage);
+td_listing(area,data);
+getready(area);
+
+}
+
 
 var HEADERS=new Headers();
 HEADERS.append('Pragma','No-Cache');
@@ -148,20 +154,13 @@ fetch('https://vomiter-scp-zh.github.io/bundle_o_bs4/top200.json',INIT)
 .then(function(response){return response.json();})
 .then(function(tth){
     herearea='#original_area';
-    start_table(herearea,tth);
-    make_top_row(herearea);
-tr_listing(herearea);
-td_listing(herearea,tth);
-getready(herearea);
+    jointfunc(herearea,tth,200,20);
+
 })
 
 fetch('https://vomiter-scp-zh.github.io/bundle_t_bs4/top200.json',INIT)
 .then(function(response){return response.json();})
 .then(function(tth){
     herearea='#translation_area';
-    start_table(herearea,tth);
-    make_top_row(herearea);
-tr_listing(herearea);
-td_listing(herearea,tth);
-getready(herearea);
+    jointfunc(herearea,tth,200,20);
 })
