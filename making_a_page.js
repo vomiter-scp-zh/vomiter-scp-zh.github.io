@@ -21,7 +21,7 @@ function make_top_row(area){
 
 dot_span="<span class='dot'>...</span>"
 pager_no='<span class="pager-no"></span>'
-next_page='<span class="NEXT"></span>'
+next_page='<span class="NEXT page_button"><a href="javascript:void(0);"><span class="target">下一頁</span></a></span>'
 
 
 function pb_wrapper(str){
@@ -94,10 +94,9 @@ function td_listing(area,data){
 
 
 
-function add_page_changer(){
-    var area=`#${this.parentNode.parentNode.id}`;
-    var no=this.children[1].innerHTML;
+function add_page_changer(area,no){
     var page_targets=document.querySelectorAll(`${area} .page_button:not(.NEXT)`);
+    var pager_next=document.querySelectorAll(`${area} .page_button.NEXT`);
 
     var all_tr=document.querySelectorAll(`${area} tr.ENTRY`);
     for (i=0;i<all_tr.length;i++){
@@ -131,10 +130,14 @@ function add_page_changer(){
         var pager=document.querySelectorAll(`${area} .pager`);
         for(i=0;i<pager.length;i++){
         pager[i].innerHTML=new_pager;
-        page_targets=document.querySelectorAll(`${area} .page_button:not(.NEXT)`);    
         }
+        page_targets=document.querySelectorAll(`${area} .page_button:not(.NEXT)`);
+        pager_next=document.querySelectorAll(`${area} .page_button.NEXT`);
         for(i=0;i<page_targets.length;i++){
-            page_targets[i].addEventListener("click",add_page_changer);
+            page_targets[i].addEventListener("click",to_certain_page);
+        }
+        for(i=0;i<pager_next;i++){
+            pager_next[i].addEventListener('click',to_next_page)
         }
 
 
@@ -154,6 +157,19 @@ function add_page_changer(){
     }
 
 }
+
+function to_certain_page(){
+    var area=`#${this.parentNode.parentNode.id}`;
+    var no=this.children[1].innerHTML;
+    add_page_changer(area,no);
+}
+
+function to_next_page(){
+    var area=`#${this.parentNode.parentNode.id}`;
+    var no=document.querySelector(`${area} .current .pre-current`).innerHTML;
+    add_page_changer(area,no);
+}
+
 
 
 function getready(area){
@@ -179,8 +195,16 @@ function getready(area){
 
     page_targets=document.querySelectorAll(`${area} .page_button:not(.NEXT)`);
     for(i=0;i<page_targets.length;i++){
-        page_targets[i].addEventListener("click",add_page_changer);
+        page_targets[i].addEventListener("click",to_certain_page);
     }
+
+    var pager_next=document.querySelectorAll(`${area} .page_button.NEXT`);
+    for(i=0;i<pager_next;i++){
+        pager_next[i].addEventListener('click',to_next_page)
+    }
+
+
+
 
     var tbp=document.querySelectorAll('.to_be_panel');
     for(i=0;i<tbp.length;i++){
