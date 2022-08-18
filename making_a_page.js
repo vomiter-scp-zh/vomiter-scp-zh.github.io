@@ -167,6 +167,7 @@ function to_certain_page(){
 function to_next_page(){
     var area=`#${this.parentNode.parentNode.id}`;
     var no=document.querySelector(`${area} .current .pre-current`).innerHTML;
+    no=`${Number(no)+1}`
     add_page_changer(area,no);
 }
 
