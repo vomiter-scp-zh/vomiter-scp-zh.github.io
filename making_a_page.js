@@ -131,12 +131,12 @@ function add_page_changer(){
         alert(pager.length);
         for(i=0;i<pager.length;i++){
         pager[i].innerHTML=new_pager;
-        page_targets=document.querySelectorAll(`${area} .page_button:not(.NEXT)`);
+        page_targets=document.querySelectorAll(`${area} .page_button:not(.NEXT)`);    
+        }
         for(i=0;i<page_targets.length;i++){
             page_targets[i].addEventListener("click",add_page_changer);
         }
-    
-        }
+
 
     }
 
