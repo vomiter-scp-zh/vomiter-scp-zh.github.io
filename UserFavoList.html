@@ -31,18 +31,38 @@
     <script type="text/javascript" src="making_a_page.js" charset="utf-8"></script>
     
     <script>
-    fetch('bundle_o_bs4/top200.json',INIT)
-    .then(function(response){return response.json();})
+    fetch(`bundle_o_bs4/UserVoteTable/${user_id}.json`,INIT)
+    .then(function(response){
+        if(response.ok){
+        return response.json();}
+        throw '404';
+    
+    })
     .then(function(tth){
         herearea='#original_area';
         jointfunc(herearea,tth,20000,20);
     
     })
-    fetch('bundle_t_bs4/top200.json',INIT)
-    .then(function(response){return response.json();})
+    .catch(function(error){
+        to_write=document.querySelector('#original_area .to_write')
+        to_write.innerHTML='您還未有評分紀錄'
+    })
+
+    fetch(`bundle_t_bs4/UserVoteTable/${user_id}.json`,INIT)
+    .then(function(response){
+        if(response.ok){
+        return response.json();}
+        throw '404';
+    
+    })
     .then(function(tth){
         herearea='#translation_area';
         jointfunc(herearea,tth,20000,20);
+    
+    })
+    .catch(function(error){
+        to_write=document.querySelector('#translation_area .to_write')
+        to_write.innerHTML='您還未有評分紀錄'
     })
     </script>
     
