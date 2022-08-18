@@ -136,8 +136,8 @@ function add_page_changer(area,no){
         for(i=0;i<page_targets.length;i++){
             page_targets[i].addEventListener("click",to_certain_page);
         }
-        for(i=0;i<pager_next;i++){
-            pager_next[i].addEventListener('click',to_next_page)
+        for(i=0;i<pager_next.length;i++){
+            pager_next[i].addEventListener('click',to_next_page);
         }
 
 
