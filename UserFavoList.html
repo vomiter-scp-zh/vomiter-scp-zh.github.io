@@ -31,7 +31,9 @@
     <script type="text/javascript" src="making_a_page.js" charset="utf-8"></script>
     
     <script>
-        var user_id=3733731;
+    let user_id=window.location.search;
+    user_id=user_id.substring(1,user_id.length);
+    
     
     fetch(`bundle_o_bs4/UserVoteTable/${user_id}.json`,INIT)
     .then(function(response){
