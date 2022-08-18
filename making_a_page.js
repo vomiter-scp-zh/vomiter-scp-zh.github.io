@@ -101,7 +101,6 @@ function add_page_changer(){
     var no=this.children[1].innerHTML;
     var page_targets=document.querySelectorAll(`${area} .page_button:not(.NEXT)`);
 
-
     var all_tr=document.querySelectorAll(`${area} tr.ENTRY`);
     for (i=0;i<all_tr.length;i++){
         all_tr[i].classList.remove('showing');
@@ -123,9 +122,13 @@ function add_page_changer(){
         else if(no==MaxInd-2){
             var new_pager=`${pager_no}${pb_wrapper('1')}${dot_span}${pb_wrapper(`${nno-1}`)}${pb_wrapper(`${nno}`)}${pb_wrapper(`${nno+1}`)}${pb_wrapper(MaxInd)}${next_page}`
         }
+        else{
+            var new_pager=`${pager_no}${pb_wrapper('1')}${pb_wrapper('2')}${pb_wrapper('3')}${dot_span}${pb_wrapper(MaxInd-2)}${pb_wrapper(MaxInd-1)}${pb_wrapper(MaxInd)}${next_page}`
+        }
 
 
         var pager=document.querySelectorAll(`${area} .pager`);
+        alert(pager);
         for(i=0;i<pager.length;i++){
         pager[i].innerHTML=new_pager;
         page_targets=document.querySelectorAll(`${area} .page_button:not(.NEXT)`);
