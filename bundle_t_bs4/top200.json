@@ -312,6 +312,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-6355 - 扼殺禮義之咽喉",
+        "FULLNAME": "scp-6355",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-002 - 生「活」起居室",
         "FULLNAME": "scp-002",
         "RATING": 13,
@@ -400,12 +406,6 @@
         "FULLNAME": "scp-1045-jp",
         "RATING": 13,
         "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-6355 - 扼殺禮義之咽喉",
-        "FULLNAME": "scp-6355",
-        "RATING": 13,
-        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-7000 - 來星星間找我",
