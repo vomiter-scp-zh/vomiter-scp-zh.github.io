@@ -19,6 +19,9 @@ function make_top_row(area){
 
 }
 
+
+var current_page='1';
+
 function tr_listing(area,perpage){
     k=document.querySelectorAll(`${area} tr.NAIVE`).length;
     p=document.querySelectorAll(`${area} .pager`);
@@ -31,10 +34,6 @@ function tr_listing(area,perpage){
             q[i].classList.remove(`NAIVE`);
         }
         k=document.querySelectorAll(`${area} tr.NAIVE`).length;
-        if (page_ind==1){
-            pager_str='<span class="pager-no"></span>';
-        }
-        pager_str=`${pager_str}<span class="page_button"><a href="javascript:void(0);"><span class="target">${page_ind}</span></a><span class="pre-current">${page_ind}</span></span>`;
         page_ind+=1;
     }
     q=document.querySelectorAll(`${area} tr.NAIVE`);
@@ -42,11 +41,33 @@ function tr_listing(area,perpage){
         q[i].classList.add(`page${page_ind}`);
         q[i].classList.remove(`NAIVE`);
     }
-    if (page_ind==1){
-        pager_str='<span class="pager-no"></span>';
+
+    if(page_ind<=10&&page_ind>1){
+        for(i=0;i<page_ind;i++){
+            if (i==0){
+                pager_str='<span class="pager-no"></span>';
+            }
+            pager_str=`${pager_str}<span class="page_button"><a href="javascript:void(0);"><span class="target">${i+1}</span></a><span class="pre-current">${i+1}</span></span>`;
+            
+        }
     }
-    pager_str=`${pager_str}<span class="page_button"><a href="javascript:void(0);"><span class="target">${page_ind}</span></a><span class="pre-current">${page_ind}</span></span>`;
-    page_ind+=1;
+    else if(page_ind>10){
+        for(i=0;i<3;i++){
+            if (i==0){
+                pager_str='<span class="pager-no"></span>';
+            }
+            pager_str=`${pager_str}<span class="page_button"><a href="javascript:void(0);"><span class="target">${i+1}</span></a><span class="pre-current">${i+1}</span></span>`;
+        }
+        pager_str=`${pager_str}<span class='dot'>...</dot>`;
+        for(i=page_ind-3;i<page_ind;i++){
+            if (i==0){
+                pager_str='<span class="pager-no"></span>';
+            }
+            pager_str=`${pager_str}<span class="page_button"><a href="javascript:void(0);"><span class="target">${i+1}</span></a><span class="pre-current">${i+1}</span></span>`;
+        }
+        
+    }
+
     for(i=0;i<p.length;i++){
         p[i].innerHTML=pager_str;
     }
