@@ -190,7 +190,7 @@ function getready(area){
         trs[i].classList.add('showing');
     }
 
-    var page_targets=document.querySelectorAll(`${area} .page_button`);
+    var page_targets=document.querySelectorAll(`${area} .page_button:not(.NEXT)`);
     no='1';
     for(i=0;i<page_targets.length;i++){
     page_targets[i].classList.remove('current');
