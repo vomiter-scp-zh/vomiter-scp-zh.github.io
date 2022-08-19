@@ -289,6 +289,7 @@ function getready(area){
 }
 
 function jointfunc(area,data,limit,perpage){
+    data.prototype.reverse();
     start_table(area,data,limit);
     make_top_row(area);
 tr_listing(area,perpage);
