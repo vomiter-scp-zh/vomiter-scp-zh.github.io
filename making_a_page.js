@@ -27,7 +27,7 @@ next_page=`<span class="NEXT PN_button page_button">
 <span class="target">下一頁</span>
 </a>
 </span>`;
-previous_page=`<span class="PREVIOUS PN_button page_button">
+previous_page=`<span class="PREVIOUS HIDE_PN PN_button page_button">
 <a href="javascript:void(0);">
 <span class="target">上一頁</span>
 </a>
@@ -126,6 +126,7 @@ function td_listing(area,data){
 function add_page_changer(area,no){
     var page_targets=document.querySelectorAll(`${area} .page_button:not(.PN_button)`);
     var pager_next=document.querySelectorAll(`${area} .page_button.NEXT`);
+    var pager_previous=document.querySelectorAll(`${area} .PREVIOUS`);
     var MaxInd=document.querySelector(`${area} .pager>.page_button:nth-last-child(2)>span`).innerHTML;
 
 
@@ -174,13 +175,19 @@ function add_page_changer(area,no){
         for(i=0;i<pager.length;i++){
         pager[i].innerHTML=new_pager;
         }
+
         page_targets=document.querySelectorAll(`${area} .page_button:not(.PN_button)`);
         pager_next=document.querySelectorAll(`${area} .page_button.NEXT`);
+        pager_previous=document.querySelectorAll(`${area} .PREVIOUS`);
+        
         for(i=0;i<page_targets.length;i++){
             page_targets[i].addEventListener("click",to_certain_page);
         }
         for(i=0;i<pager_next.length;i++){
             pager_next[i].addEventListener('click',to_next_page);
+        }
+        for(i=0;i<pager_previous.length;i++){
+            pager_previous[i].addEventListener('click',to_previous_page);
         }
     }
 
@@ -196,6 +203,22 @@ function add_page_changer(area,no){
             pager_next[i].classList.remove('HIDE_PN');
         }    
     }
+
+    if (no=='1'){
+        pager_previous=document.querySelectorAll(`${area} .page_button.PREVIOUS`);
+        for(i=0;i<pager_previous.length;i++){
+            pager_previous[i].classList.add('HIDE_PN');
+        }
+    }
+    else{
+        pager_previous=document.querySelectorAll(`${area} .page_button.PREVIOUS`);
+        for(i=0;i<pager_previous.length;i++){
+            pager_previous[i].classList.remove('HIDE_PN');
+        }    
+
+    }
+
+
     for(i=0;i<page_targets.length;i++){
         page_targets[i].classList.remove('current');
         if(page_targets[i].children[1].innerHTML==no){
@@ -224,6 +247,12 @@ function to_next_page(){
     add_page_changer(area,no);
 }
 
+function to_previous_page(){
+    var area=`#${this.parentNode.parentNode.id}`;
+    var no=document.querySelector(`${area} .current .pre-current`).innerHTML;
+    no=`${Number(no)-1}`
+    add_page_changer(area,no);
+}
 
 
 function getready(area){
@@ -260,6 +289,11 @@ function getready(area){
     var pager_next=document.querySelectorAll(`${area} .page_button.NEXT`);
     for(i=0;i<pager_next.length;i++){
         pager_next[i].addEventListener('click',to_next_page);
+    }
+
+    var pager_previous=document.querySelectorAll(`${area} .page_button.PREVIOUS`);
+    for(i=0;i<pager_previous.length;i++){
+        pager_previous[i].addEventListener('click',to_previous_page);
     }
 
     var tbp=document.querySelectorAll('.to_be_panel');
