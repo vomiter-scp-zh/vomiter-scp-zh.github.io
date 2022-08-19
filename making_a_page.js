@@ -169,7 +169,7 @@ function add_page_changer(area,no){
             ${dot_span}`
         }
 
-        new_pager=`$${pager_no}${previous_page}${pb_wrapper('1')}{new_pager}${pb_wrapper(MaxInd)}${next_page}`
+        new_pager=`$${pager_no}${previous_page}${pb_wrapper('1')}${new_pager}${pb_wrapper(MaxInd)}${next_page}`
         var pager=document.querySelectorAll(`${area} .pager`);
         for(i=0;i<pager.length;i++){
         pager[i].innerHTML=new_pager;
