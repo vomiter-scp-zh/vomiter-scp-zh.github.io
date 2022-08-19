@@ -66,36 +66,19 @@ function tr_listing(area,perpage){
 
     if(page_ind<=10&&page_ind>1){
         for(i=0;i<page_ind;i++){
-            if (i==0){
-                pager_str=`<span class="pager-no"></span>${previous_page}`;
-            }
-            pager_str=`${pager_str}<span class="page_button">
-            <a href="javascript:void(0);">
-            <span class="target">${i+1}</span>
-            </a>
-            <span class="pre-current">${i+1}</span>
-            </span>`;
+            pager_str=`${pager_str}${pb_wrapper(i+1)}`;
             
         }
     }
     else if(page_ind>10){
         for(i=0;i<3;i++){
-            if (i==0){
-                pager_str=`<span class="pager-no"></span>${previous_page}`;
-            }
-            pager_str=`${pager_str}
-            <span class="page_button">
-            <a href="javascript:void(0);">
-            <span class="target">${i+1}</span>
-            </a>
-            <span class="pre-current">${i+1}</span>
-            </span>`;
+            pager_str=`${pager_str}${pb_wrapper(i+1)}`;
         }
-        pager_str=`${pager_str}${dot_span}${pb_wrapper(page_ind)}${next_page}`;
+        pager_str=`${pager_str}${dot_span}${pb_wrapper(page_ind)}`;
         
         
     }
-    pager_str=`${pager_str}`;
+    pager_str=`${pager_no}${previous_page}${pager_str}${next_page}`;
     for(i=0;i<p.length;i++){
         p[i].innerHTML=pager_str;
     }
@@ -170,7 +153,7 @@ function add_page_changer(area,no){
             ${dot_span}`
         }
 
-        new_pager=`$${pager_no}${previous_page}${pb_wrapper('1')}${new_pager}${pb_wrapper(MaxInd)}${next_page}`
+        new_pager=`${pager_no}${previous_page}${pb_wrapper('1')}${new_pager}${pb_wrapper(MaxInd)}${next_page}`
         var pager=document.querySelectorAll(`${area} .pager`);
         for(i=0;i<pager.length;i++){
         pager[i].innerHTML=new_pager;
