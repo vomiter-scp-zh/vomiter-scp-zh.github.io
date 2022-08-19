@@ -3109,8 +3109,20 @@
     },
     {
         "TITLE": "SCP-6377 - 水平之門",
-        "FULLNAME": "/scp-6377",
+        "FULLNAME": "scp-6377",
         "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6342 - 無臉人",
+        "FULLNAME": "scp-6342",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "人壽保險",
+        "FULLNAME": "/life-insurance-policy",
+        "RATING": 9,
         "COMMENTS": "0"
     }
 ]
