@@ -378,6 +378,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-ZH-096 - 紅移破滅",
+        "FULLNAME": "scp-zh-096",
+        "RATING": 24,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "SCP-ZH-100",
         "FULLNAME": "scp-zh-0100",
         "RATING": 23,
@@ -430,12 +436,6 @@
         "FULLNAME": "the-time-foundation-disappeared",
         "RATING": 23,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-096 - 紅移破滅",
-        "FULLNAME": "scp-zh-096",
-        "RATING": 23,
-        "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-ZH-255",
