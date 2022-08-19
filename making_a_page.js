@@ -22,11 +22,16 @@ function make_top_row(area){
 
 dot_span="<span class='dot'>...</span>";
 pager_no='<span class="pager-no"></span>';
-next_page=`<span class="NEXT page_button">
+next_page=`<span class="NEXT PN_button page_button">
 <a href="javascript:void(0);">
 <span class="target">下一頁</span>
 </a>
 </span>`;
+previous_page=`<span class="PREVIOUS PN_button page_button">
+<a href="javascript:void(0);">
+<span class="target">下一頁</span>
+</a>
+</span>`
 
 
 function pb_wrapper(str){
@@ -119,7 +124,7 @@ function td_listing(area,data){
 
 
 function add_page_changer(area,no){
-    var page_targets=document.querySelectorAll(`${area} .page_button:not(.NEXT)`);
+    var page_targets=document.querySelectorAll(`${area} .page_button:not(.PN_button)`);
     var pager_next=document.querySelectorAll(`${area} .page_button.NEXT`);
     var MaxInd=document.querySelector(`${area} .pager>.page_button:nth-last-child(2)>span`).innerHTML;
 
@@ -170,7 +175,7 @@ function add_page_changer(area,no){
         for(i=0;i<pager.length;i++){
         pager[i].innerHTML=new_pager;
         }
-        page_targets=document.querySelectorAll(`${area} .page_button:not(.NEXT)`);
+        page_targets=document.querySelectorAll(`${area} .page_button:not(.PN_button)`);
         pager_next=document.querySelectorAll(`${area} .page_button.NEXT`);
         for(i=0;i<page_targets.length;i++){
             page_targets[i].addEventListener("click",to_certain_page);
@@ -183,13 +188,13 @@ function add_page_changer(area,no){
     if (no==MaxInd){
         pager_next=document.querySelectorAll(`${area} .page_button.NEXT`);
         for(i=0;i<pager_next.length;i++){
-            pager_next[i].classList.add('HIDE_NEXT');
+            pager_next[i].classList.add('HIDE_PN');
         }
     }
     else{
         pager_next=document.querySelectorAll(`${area} .page_button.NEXT`);
         for(i=0;i<pager_next.length;i++){
-            pager_next[i].classList.remove('HIDE_NEXT');
+            pager_next[i].classList.remove('HIDE_PN');
         }    
     }
     for(i=0;i<page_targets.length;i++){
@@ -229,7 +234,7 @@ function getready(area){
         trs[i].classList.add('showing');
     }
 
-    var page_targets=document.querySelectorAll(`${area} .page_button:not(.NEXT)`);
+    var page_targets=document.querySelectorAll(`${area} .page_button:not(.PN_button)`);
     no='1';
     for(i=0;i<page_targets.length;i++){
     page_targets[i].classList.remove('current');
@@ -243,7 +248,7 @@ function getready(area){
     }
 
 
-    page_targets=document.querySelectorAll(`${area} .page_button:not(.NEXT)`);
+    page_targets=document.querySelectorAll(`${area} .page_button:not(.PN_button)`);
     for(i=0;i<page_targets.length;i++){
         page_targets[i].addEventListener("click",to_certain_page);
     }
