@@ -69,7 +69,7 @@ function tr_listing(area,perpage){
         
         
     }
-    pager_str=`${pager_str}<span class='dummy'></span>`;
+    pager_str=`${pager_str}${next_page}`;
     for(i=0;i<p.length;i++){
         p[i].innerHTML=pager_str;
     }
@@ -139,10 +139,20 @@ function add_page_changer(area,no){
         for(i=0;i<pager_next.length;i++){
             pager_next[i].addEventListener('click',to_next_page);
         }
-
-
     }
 
+    if (no==MaxInd){
+        pager_next=document.querySelectorAll(`${area} .page_button.NEXT`);
+        for(i=0;i<pager_next.length;i++){
+            pager_next[i].classList.add('HIDE_NEXT');
+        }
+    }
+    else{
+        pager_next=document.querySelectorAll(`${area} .page_button.NEXT`);
+        for(i=0;i<pager_next.length;i++){
+            pager_next[i].classList.remove('HIDE_NEXT');
+        }    
+    }
     for(i=0;i<page_targets.length;i++){
         page_targets[i].classList.remove('current');
         if(page_targets[i].children[1].innerHTML==no){

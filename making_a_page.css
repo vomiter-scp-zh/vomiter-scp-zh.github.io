@@ -149,3 +149,7 @@ text-decoration: none;
 .pager .target>a>div{
 display: inline-block;
 }
+
+.NEXT.HIDE_NEXT{
+    display: none;
+}
