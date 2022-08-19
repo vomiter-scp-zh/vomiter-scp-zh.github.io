@@ -97,6 +97,8 @@ function td_listing(area,data){
 function add_page_changer(area,no){
     var page_targets=document.querySelectorAll(`${area} .page_button:not(.NEXT)`);
     var pager_next=document.querySelectorAll(`${area} .page_button.NEXT`);
+    var MaxInd=document.querySelector(`${area} .pager>.page_button:nth-last-child(2)>span`).innerHTML;
+
 
     var all_tr=document.querySelectorAll(`${area} tr.ENTRY`);
     for (i=0;i<all_tr.length;i++){
@@ -108,7 +110,6 @@ function add_page_changer(area,no){
     }
     var ifdot=document.querySelector(`${area} .dot`);
     if(ifdot!==null){
-        var MaxInd=document.querySelector(`${area} .pager>.page_button:nth-last-child(2)>span`).innerHTML;
         var nno=Number(no);
         if(no>3&&no<MaxInd-2){
             var new_pager=`${pager_no}${pb_wrapper('1')}${dot_span}${pb_wrapper(`${nno-1}`)}${pb_wrapper(`${nno}`)}${pb_wrapper(`${nno+1}`)}${dot_span}${pb_wrapper(MaxInd)}${next_page}`
