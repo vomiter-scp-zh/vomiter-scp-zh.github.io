@@ -162,6 +162,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-3333 - 塔",
+        "FULLNAME": "/scp-3333",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-1296 - 打來駱馬",
         "FULLNAME": "scp-1296",
         "RATING": 16,
@@ -190,12 +196,6 @@
         "FULLNAME": "esoteric-classes-complete-list",
         "RATING": 16,
         "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-3333 - 塔",
-        "FULLNAME": "scp-3333",
-        "RATING": 16,
-        "COMMENTS": "0"
     },
     {
         "TITLE": "更新版記憶消除劑指南",
