@@ -253,8 +253,10 @@ function getready(area){
         pager_next[i].addEventListener('click',to_next_page)
     }
 
-
-
+    var pager_next=document.querySelectorAll(`${area} .page_button.NEXT`);
+    for(i=0;i<pager_next.length;i++){
+        pager_next[i].addEventListener('click',to_next_page);
+    }
 
     var tbp=document.querySelectorAll('.to_be_panel');
     for(i=0;i<tbp.length;i++){
