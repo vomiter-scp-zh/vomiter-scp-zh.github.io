@@ -1,5 +1,6 @@
 function start_table(area,data,limit){
-    document.querySelector(`${area} .to_write`).innerHTML=`<table style="width: 100%;"></table>`;
+    document.querySelector(`${area} .to_write`).innerHTML=
+    `<table style="width: 100%;"></table>`;
     var total=data.length;
     total_show=Math.min(total,limit);
     var in_table="";
@@ -19,13 +20,22 @@ function make_top_row(area){
 
 }
 
-dot_span="<span class='dot'>...</span>"
-pager_no='<span class="pager-no"></span>'
-next_page='<span class="NEXT page_button"><a href="javascript:void(0);"><span class="target">下一頁</span></a></span>'
+dot_span="<span class='dot'>...</span>";
+pager_no='<span class="pager-no"></span>';
+next_page=`<span class="NEXT page_button">
+<a href="javascript:void(0);">
+<span class="target">下一頁</span>
+</a>
+</span>`;
 
 
 function pb_wrapper(str){
-    return `<span class="page_button"><a href="javascript:void(0);"><span class="target">${str}</span></a><span class="pre-current">${str}</span></span>`
+    return `<span class="page_button">
+    <a href="javascript:void(0);">
+    <span class="target">${str}</span>
+    </a>
+    <span class="pre-current">${str}</span>
+    </span>`
 }
 
 
@@ -54,7 +64,12 @@ function tr_listing(area,perpage){
             if (i==0){
                 pager_str='<span class="pager-no"></span>';
             }
-            pager_str=`${pager_str}<span class="page_button"><a href="javascript:void(0);"><span class="target">${i+1}</span></a><span class="pre-current">${i+1}</span></span>`;
+            pager_str=`${pager_str}<span class="page_button">
+            <a href="javascript:void(0);">
+            <span class="target">${i+1}</span>
+            </a>
+            <span class="pre-current">${i+1}</span>
+            </span>`;
             
         }
     }
@@ -63,7 +78,13 @@ function tr_listing(area,perpage){
             if (i==0){
                 pager_str='<span class="pager-no"></span>';
             }
-            pager_str=`${pager_str}<span class="page_button"><a href="javascript:void(0);"><span class="target">${i+1}</span></a><span class="pre-current">${i+1}</span></span>`;
+            pager_str=`${pager_str}
+            <span class="page_button">
+            <a href="javascript:void(0);">
+            <span class="target">${i+1}</span>
+            </a>
+            <span class="pre-current">${i+1}</span>
+            </span>`;
         }
         pager_str=`${pager_str}${dot_span}${pb_wrapper(page_ind)}`;
         
@@ -77,7 +98,10 @@ function tr_listing(area,perpage){
 }
 
 function td_organ(item,tr_ele){
-    var a_part=`<a target="_blank" href='http://scp-zh-tr.wikidot.com/${item['FULLNAME']}'>${item['TITLE']}</a>`;
+    var a_part=`<a target="_blank"
+     href='http://scp-zh-tr.wikidot.com/${item['FULLNAME']}'>
+     ${item['TITLE']}
+     </a>`;
     var r_part=`${item['RATING']}`;
     var c_part=`${item['COMMENTS']}`;
     tr_ele.innerHTML=`<td>${a_part}</td><td>${r_part}</td><td>${c_part}</td>`;
@@ -112,19 +136,33 @@ function add_page_changer(area,no){
     if(ifdot!==null){
         var nno=Number(no);
         if(no>3&&no<MaxInd-2){
-            var new_pager=`${pager_no}${pb_wrapper('1')}${dot_span}${pb_wrapper(`${nno-1}`)}${pb_wrapper(`${nno}`)}${pb_wrapper(`${nno+1}`)}${dot_span}${pb_wrapper(MaxInd)}${next_page}`
+            var new_pager=`${pager_no}${pb_wrapper('1')}
+            ${dot_span}
+            ${pb_wrapper(`${nno-1}`)}${pb_wrapper(`${nno}`)}${pb_wrapper(`${nno+1}`)}
+            ${dot_span}
+            ${pb_wrapper(MaxInd)}${next_page}`
         }
         else if(no==3){
-            var new_pager=`${pager_no}${pb_wrapper('1')}${pb_wrapper(`${nno-1}`)}${pb_wrapper(`${nno}`)}${pb_wrapper(`${nno+1}`)}${dot_span}${pb_wrapper(MaxInd)}${next_page}`
+            var new_pager=`${pager_no}${pb_wrapper('1')}
+            ${pb_wrapper(`${nno-1}`)}${pb_wrapper(`${nno}`)}${pb_wrapper(`${nno+1}`)}
+            ${dot_span}
+            ${pb_wrapper(MaxInd)}${next_page}`
         }
         else if(no==MaxInd-2){
-            var new_pager=`${pager_no}${pb_wrapper('1')}${dot_span}${pb_wrapper(`${nno-1}`)}${pb_wrapper(`${nno}`)}${pb_wrapper(`${nno+1}`)}${pb_wrapper(MaxInd)}${next_page}`
+            var new_pager=`${pager_no}${pb_wrapper('1')}
+            ${dot_span}
+            ${pb_wrapper(`${nno-1}`)}${pb_wrapper(`${nno}`)}${pb_wrapper(`${nno+1}`)}
+            ${pb_wrapper(MaxInd)}${next_page}`
         }
         else if(no==MaxInd||no==MaxInd-1){
-            var new_pager=`${pager_no}${pb_wrapper('1')}${dot_span}${pb_wrapper(MaxInd-2)}${pb_wrapper(MaxInd-1)}${pb_wrapper(MaxInd)}${next_page}`
+            var new_pager=`${pager_no}${pb_wrapper('1')}
+            ${dot_span}
+            ${pb_wrapper(MaxInd-2)}${pb_wrapper(MaxInd-1)}${pb_wrapper(MaxInd)}${next_page}`
         }
         else{
-            var new_pager=`${pager_no}${pb_wrapper('1')}${pb_wrapper('2')}${pb_wrapper('3')}${dot_span}${pb_wrapper(MaxInd)}${next_page}`
+            var new_pager=`${pager_no}${pb_wrapper('1')}${pb_wrapper('2')}${pb_wrapper('3')}
+            ${dot_span}
+            ${pb_wrapper(MaxInd)}${next_page}`
         }
 
 
