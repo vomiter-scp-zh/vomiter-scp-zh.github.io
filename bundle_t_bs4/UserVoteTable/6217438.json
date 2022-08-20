@@ -500,7 +500,7 @@
     {
         "TITLE": "SCP-6999 - 更近我主",
         "FULLNAME": "scp-6999",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "1"
     },
     {
@@ -1639,20 +1639,20 @@
     },
     {
         "TITLE": "SCP-7000 - 殊途同歸羅馬",
-        "FULLNAME": "7000contestesoterica",
-        "RATING": 6,
+        "FULLNAME": "/7000contestesoterica",
+        "RATING": 7,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-7000 - 船。",
         "FULLNAME": "7000contestaismlt",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-7000 - 輸家",
-        "FULLNAME": "7000contestharryblank",
-        "RATING": 7,
+        "FULLNAME": "/7000contestharryblank",
+        "RATING": 8,
         "COMMENTS": "0"
     }
 ]

@@ -1304,13 +1304,13 @@
     {
         "TITLE": "SCP-7000 - 船。",
         "FULLNAME": "7000contestaismlt",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-7000 - 輸家",
-        "FULLNAME": "7000contestharryblank",
-        "RATING": 7,
+        "FULLNAME": "/7000contestharryblank",
+        "RATING": 8,
         "COMMENTS": "0"
     }
 ]
