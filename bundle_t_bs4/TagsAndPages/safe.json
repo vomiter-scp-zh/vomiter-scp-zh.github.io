@@ -2197,5 +2197,11 @@
         "FULLNAME": "scp-6161",
         "RATING": 5,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-877-KO",
+        "FULLNAME": "scp-877-ko",
+        "RATING": 2,
+        "COMMENTS": "0"
     }
 ]

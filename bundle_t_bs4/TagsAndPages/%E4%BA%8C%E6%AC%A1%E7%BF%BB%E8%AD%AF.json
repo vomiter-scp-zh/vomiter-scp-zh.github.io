@@ -445,5 +445,11 @@
         "FULLNAME": "scp-012-vn",
         "RATING": 6,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-877-KO",
+        "FULLNAME": "scp-877-ko",
+        "RATING": 2,
+        "COMMENTS": "0"
     }
 ]
