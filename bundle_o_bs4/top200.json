@@ -384,6 +384,12 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "SCP-ZH-174",
+        "FULLNAME": "/scp-zh-174",
+        "RATING": 24,
+        "COMMENTS": "4"
+    },
+    {
         "TITLE": "SCP-ZH-100",
         "FULLNAME": "scp-zh-0100",
         "RATING": 23,
@@ -466,12 +472,6 @@
         "FULLNAME": "scp-zh-125",
         "RATING": 22,
         "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-ZH-174",
-        "FULLNAME": "scp-zh-174",
-        "RATING": 22,
-        "COMMENTS": "4"
     },
     {
         "TITLE": "聖誕軍演",
