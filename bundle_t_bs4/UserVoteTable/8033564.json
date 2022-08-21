@@ -802,5 +802,11 @@
         "FULLNAME": "scp-5417",
         "RATING": 3,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-877-KO",
+        "FULLNAME": "scp-877-ko",
+        "RATING": 4,
+        "COMMENTS": "0"
     }
 ]
