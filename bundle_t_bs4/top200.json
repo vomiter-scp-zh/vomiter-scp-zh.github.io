@@ -1110,6 +1110,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-整數",
+        "FULLNAME": "scp-5242",
+        "RATING": 10,
+        "COMMENTS": "5"
+    },
+    {
         "TITLE": "SCP-682-J James 的塗鴉小冊子",
         "FULLNAME": "scp-682-j-james-coloring-book",
         "RATING": 9,
@@ -1192,11 +1198,5 @@
         "FULLNAME": "yourjouney-part-1",
         "RATING": 9,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-371-J",
-        "FULLNAME": "scp-371-j",
-        "RATING": 9,
-        "COMMENTS": "1"
     }
 ]

@@ -3358,5 +3358,11 @@
         "FULLNAME": "scp-6287",
         "RATING": 8,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-整數",
+        "FULLNAME": "scp-5242",
+        "RATING": 10,
+        "COMMENTS": "5"
     }
 ]
