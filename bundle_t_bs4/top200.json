@@ -1104,6 +1104,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-7000 - 輸家",
+        "FULLNAME": "/7000contestharryblank",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-682-J James 的塗鴉小冊子",
         "FULLNAME": "scp-682-j-james-coloring-book",
         "RATING": 9,
@@ -1190,12 +1196,6 @@
     {
         "TITLE": "SCP-371-J",
         "FULLNAME": "scp-371-j",
-        "RATING": 9,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "7happy7 的 SVG-動畫 畫廊",
-        "FULLNAME": "svg-animation",
         "RATING": 9,
         "COMMENTS": "1"
     }
