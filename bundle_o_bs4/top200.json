@@ -756,6 +756,12 @@
         "COMMENTS": "10"
     },
     {
+        "TITLE": "SCP-ZH-340 - 生命之沙，繁星之盒",
+        "FULLNAME": "scp-zh-340",
+        "RATING": 20,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP基金會不知道的那些事件",
         "FULLNAME": "ocd-virus01",
         "RATING": 19,
@@ -860,12 +866,6 @@
     {
         "TITLE": "SCP-ZH-110 - 地板破了個洞",
         "FULLNAME": "scp-zh-110",
-        "RATING": 19,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-ZH-340 - 生命之沙，繁星之盒",
-        "FULLNAME": "scp-zh-340",
         "RATING": 19,
         "COMMENTS": "1"
     },
