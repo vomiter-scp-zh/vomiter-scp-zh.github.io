@@ -43,5 +43,11 @@
         "FULLNAME": "scp-5709",
         "RATING": 3,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-PL-167",
+        "FULLNAME": "scp-pl-167",
+        "RATING": 3,
+        "COMMENTS": "1"
     }
 ]
