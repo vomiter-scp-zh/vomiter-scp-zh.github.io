@@ -612,12 +612,6 @@
         "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-500 - 萬靈藥",
-        "FULLNAME": "scp-500",
-        "RATING": 11,
-        "COMMENTS": "0"
-    },
-    {
         "TITLE": "SCP-008-J",
         "FULLNAME": "scp-008-j",
         "RATING": 11,
@@ -800,6 +794,12 @@
     {
         "TITLE": "SCP-7000 - 輸家",
         "FULLNAME": "7000contestharryblank",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-500 - 萬靈藥",
+        "FULLNAME": "scp-500",
         "RATING": 11,
         "COMMENTS": "0"
     },
