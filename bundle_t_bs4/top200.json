@@ -798,6 +798,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-7000 - 輸家",
+        "FULLNAME": "/7000contestharryblank",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "魔法講座",
         "FULLNAME": "another-goddamn-magic-system",
         "RATING": 10,
@@ -1102,12 +1108,6 @@
         "FULLNAME": "scp-3008",
         "RATING": 10,
         "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-7000 - 輸家",
-        "FULLNAME": "7000contestharryblank",
-        "RATING": 10,
-        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-整數",
