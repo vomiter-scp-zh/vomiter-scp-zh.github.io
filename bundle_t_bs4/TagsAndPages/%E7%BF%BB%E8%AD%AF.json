@@ -11009,13 +11009,13 @@
     {
         "TITLE": "SCP-877-KO - ██藏██體",
         "FULLNAME": "scp-877-ko",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-6938 - Alex Thorley得到一匹禮物馬",
-        "FULLNAME": "scp-6938",
-        "RATING": 1,
+        "FULLNAME": "/scp-6938",
+        "RATING": 2,
         "COMMENTS": "0"
     }
 ]
