@@ -946,5 +946,11 @@
         "FULLNAME": "scp-zh-318",
         "RATING": 0,
         "COMMENTS": "8"
+    },
+    {
+        "TITLE": "SCP-ZH-115",
+        "FULLNAME": "scp-zh-115",
+        "RATING": 15,
+        "COMMENTS": "4"
     }
 ]
