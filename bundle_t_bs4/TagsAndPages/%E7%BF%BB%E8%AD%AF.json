@@ -11128,14 +11128,14 @@
     },
     {
         "TITLE": "蛙",
-        "FULLNAME": "/frog",
+        "FULLNAME": "frog",
         "RATING": 4,
         "COMMENTS": "1"
     },
     {
         "TITLE": "共異迴歷 中心頁",
-        "FULLNAME": "kyouikaireki-hub",
-        "RATING": 3,
+        "FULLNAME": "/kyouikaireki-hub",
+        "RATING": 6,
         "COMMENTS": "0"
     }
 ]
