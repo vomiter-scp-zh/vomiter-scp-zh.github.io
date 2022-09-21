@@ -13,14 +13,14 @@
     },
     {
         "TITLE": "SCP-____-j",
-        "FULLNAME": "scp-j",
-        "RATING": 22,
+        "FULLNAME": "/scp-j",
+        "RATING": 25,
         "COMMENTS": "2"
     },
     {
         "TITLE": "dado的中心頁是的",
-        "FULLNAME": "dado-hub",
-        "RATING": 12,
+        "FULLNAME": "/dado-hub",
+        "RATING": 13,
         "COMMENTS": "1"
     },
     {
@@ -115,7 +115,7 @@
     },
     {
         "TITLE": "我的頭著火了，我很（不）好",
-        "FULLNAME": "/my-head-is-on-fire-and-im-not-ok",
+        "FULLNAME": "my-head-is-on-fire-and-im-not-ok",
         "RATING": 9,
         "COMMENTS": "1"
     },
@@ -805,7 +805,7 @@
     },
     {
         "TITLE": "SCP-5618 - 「死路」",
-        "FULLNAME": "/scp-5618",
+        "FULLNAME": "scp-5618",
         "RATING": 13,
         "COMMENTS": "3"
     },
@@ -919,7 +919,7 @@
     },
     {
         "TITLE": "SCP-2639 - 電玩遊戲暴力",
-        "FULLNAME": "/scp-2639",
+        "FULLNAME": "scp-2639",
         "RATING": 9,
         "COMMENTS": "0"
     },
@@ -985,7 +985,7 @@
     },
     {
         "TITLE": "SCP-4182 - Site-5不存在",
-        "FULLNAME": "/scp-4182",
+        "FULLNAME": "scp-4182",
         "RATING": 14,
         "COMMENTS": "0"
     },
@@ -1183,7 +1183,7 @@
     },
     {
         "TITLE": "代號：████ ███ — 真相",
-        "FULLNAME": "/code-name-the-truth",
+        "FULLNAME": "code-name-the-truth",
         "RATING": 3,
         "COMMENTS": "0"
     },
@@ -1465,7 +1465,7 @@
     },
     {
         "TITLE": "SCP-3005 - 一道死去的光",
-        "FULLNAME": "/scp-3005",
+        "FULLNAME": "scp-3005",
         "RATING": 6,
         "COMMENTS": "0"
     },
@@ -1867,7 +1867,7 @@
     },
     {
         "TITLE": "SCP-2419 - 狂笑者",
-        "FULLNAME": "/scp-2419",
+        "FULLNAME": "scp-2419",
         "RATING": 13,
         "COMMENTS": "0"
     },
@@ -2131,7 +2131,7 @@
     },
     {
         "TITLE": "維安設施檔案：Site-418",
-        "FULLNAME": "/secure-facility-dossier-site-418",
+        "FULLNAME": "secure-facility-dossier-site-418",
         "RATING": 8,
         "COMMENTS": "0"
     },
@@ -2749,8 +2749,8 @@
     },
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
-        "FULLNAME": "scp-6820",
-        "RATING": 12,
+        "FULLNAME": "/scp-6820",
+        "RATING": 13,
         "COMMENTS": "1"
     },
     {
@@ -2784,8 +2784,8 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 經商蜥蜴",
-        "FULLNAME": "7000contestzyn",
+        "TITLE": "SCP-7333 - 經商蜥蜴",
+        "FULLNAME": "scp-7333",
         "RATING": 10,
         "COMMENTS": "1"
     },
@@ -2802,8 +2802,8 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - Cimmerian博士差點死掉",
-        "FULLNAME": "7000doctor-cimmerian",
+        "TITLE": "SCP-7700 - Cimmerian博士差點死掉",
+        "FULLNAME": "scp-7700",
         "RATING": 4,
         "COMMENTS": "1"
     },
@@ -2820,27 +2820,27 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 陰間維加斯講座：莊家會輸",
-        "FULLNAME": "7000contestrounderhouse",
+        "TITLE": "SCP-7666 - 陰間維加斯講座：莊家會輸",
+        "FULLNAME": "scp-7666",
         "RATING": 11,
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 來星星間找我",
-        "FULLNAME": "7000contestfabledtiefling",
+        "TITLE": "SCP-7999 - 來星星間找我",
+        "FULLNAME": "scp-7999",
         "RATING": 13,
         "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-7000 - 視實是十三",
-        "FULLNAME": "7000contestfishwaltz",
-        "RATING": 10,
+        "TITLE": "SCP-7013 - 視實是十三",
+        "FULLNAME": "/scp-7013",
+        "RATING": 12,
         "COMMENTS": "2"
     },
     {
-        "TITLE": "SCP-7000 - 懼七症",
-        "FULLNAME": "7000contestyossipossi",
-        "RATING": 7,
+        "TITLE": "SCP-7777 - 懼七症",
+        "FULLNAME": "/scp-7777",
+        "RATING": 9,
         "COMMENTS": "0"
     },
     {
@@ -2856,8 +2856,8 @@
         "COMMENTS": "4"
     },
     {
-        "TITLE": "SCP-7000 - 浮游生物!!!",
-        "FULLNAME": "7000contestellie3",
+        "TITLE": "SCP-7300 - 浮游生物!!!",
+        "FULLNAME": "scp-7300",
         "RATING": 5,
         "COMMENTS": "0"
     },
@@ -2868,9 +2868,9 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 不凋",
-        "FULLNAME": "7000contestdysadune",
-        "RATING": 10,
+        "TITLE": "SCP-7070 - 不凋",
+        "FULLNAME": "/scp-7070",
+        "RATING": 11,
         "COMMENTS": "0"
     },
     {
@@ -2886,21 +2886,51 @@
         "COMMENTS": "2"
     },
     {
-        "TITLE": "SCP-7000 - 殊途同歸羅馬",
-        "FULLNAME": "7000contestesoterica",
-        "RATING": 8,
+        "TITLE": "SCP-7009 - 殊途同歸羅馬",
+        "FULLNAME": "/scp-7009",
+        "RATING": 9,
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 船。",
-        "FULLNAME": "7000contestaismlt",
+        "TITLE": "SCP-7200 - 船。",
+        "FULLNAME": "scp-7200",
         "RATING": 7,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-7000 - 輸家",
-        "FULLNAME": "7000contestharryblank",
-        "RATING": 11,
+        "FULLNAME": "/scp-7000",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6765 - 惡魔奧吉爾與瑪利德拉格血之王座",
+        "FULLNAME": "/scp-6765",
+        "RATING": 8,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "女孩之夜：開始換裝",
+        "FULLNAME": "/dressing-up",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "女孩之夜：喝個爛醉",
+        "FULLNAME": "/getting-drunk",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "女孩之夜：大吵大鬧",
+        "FULLNAME": "/raising-hell",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "蛙",
+        "FULLNAME": "/frog",
+        "RATING": 3,
+        "COMMENTS": "1"
     }
 ]

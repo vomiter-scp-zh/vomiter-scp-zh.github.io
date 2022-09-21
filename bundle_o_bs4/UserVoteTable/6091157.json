@@ -31,7 +31,7 @@
     },
     {
         "TITLE": "SCP-ZH-127",
-        "FULLNAME": "/scp-zh-127",
+        "FULLNAME": "scp-zh-127",
         "RATING": 12,
         "COMMENTS": "0"
     },
@@ -127,7 +127,7 @@
     },
     {
         "TITLE": "SCP-ZH-006",
-        "FULLNAME": "/scp-zh-006",
+        "FULLNAME": "scp-zh-006",
         "RATING": 11,
         "COMMENTS": "6"
     },
@@ -181,7 +181,7 @@
     },
     {
         "TITLE": "洗標：橘2147-Dr. Bales的實驗衣",
-        "FULLNAME": "/orange-2147",
+        "FULLNAME": "orange-2147",
         "RATING": 11,
         "COMMENTS": "0"
     },
@@ -337,7 +337,7 @@
     },
     {
         "TITLE": "Valentine的Logo頁",
-        "FULLNAME": "/valentine-logo",
+        "FULLNAME": "valentine-logo",
         "RATING": 22,
         "COMMENTS": "1"
     },
@@ -703,7 +703,7 @@
     },
     {
         "TITLE": "SCP-ZH-289",
-        "FULLNAME": "/scp-zh-289",
+        "FULLNAME": "scp-zh-289",
         "RATING": 15,
         "COMMENTS": "4"
     },
@@ -925,7 +925,7 @@
     },
     {
         "TITLE": "廁所裡的致命模因",
-        "FULLNAME": "/the-bottle-in-restroom",
+        "FULLNAME": "the-bottle-in-restroom",
         "RATING": 32,
         "COMMENTS": "7"
     },
@@ -1219,7 +1219,7 @@
     },
     {
         "TITLE": "SCP-ZH-526",
-        "FULLNAME": "/scp-zh-526",
+        "FULLNAME": "scp-zh-526",
         "RATING": 19,
         "COMMENTS": "1"
     },
@@ -1267,7 +1267,7 @@
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "/scp-zh-2005-ex",
+        "FULLNAME": "scp-zh-2005-ex",
         "RATING": 56,
         "COMMENTS": "1"
     },
@@ -1387,7 +1387,7 @@
     },
     {
         "TITLE": "SCP-ZH-496 - 安全極限距離",
-        "FULLNAME": "/scp-zh-496",
+        "FULLNAME": "scp-zh-496",
         "RATING": 29,
         "COMMENTS": "7"
     },
@@ -2341,7 +2341,7 @@
     },
     {
         "TITLE": "SCP-ZH-382 - 犧牲品",
-        "FULLNAME": "/scp-zh-382",
+        "FULLNAME": "scp-zh-382",
         "RATING": 13,
         "COMMENTS": "0"
     },
@@ -2353,7 +2353,7 @@
     },
     {
         "TITLE": "SCP-ZH-182 - 引誘墜樓的耳語",
-        "FULLNAME": "/scp-zh-182",
+        "FULLNAME": "scp-zh-182",
         "RATING": 1,
         "COMMENTS": "6"
     },
@@ -2365,7 +2365,7 @@
     },
     {
         "TITLE": "你知道嗎",
-        "FULLNAME": "/do-you-know-i-love-you",
+        "FULLNAME": "do-you-know-i-love-you",
         "RATING": 14,
         "COMMENTS": "1"
     },
@@ -2419,49 +2419,49 @@
     },
     {
         "TITLE": "摯寐溶解",
-        "FULLNAME": "/dreams-always-dissolve",
+        "FULLNAME": "dreams-always-dissolve",
         "RATING": 17,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-134 - 群",
-        "FULLNAME": "/scp-zh-134",
+        "FULLNAME": "scp-zh-134",
         "RATING": 13,
         "COMMENTS": "0"
     },
     {
         "TITLE": "無序夢囈",
-        "FULLNAME": "/disorder-flapdoodle",
+        "FULLNAME": "disorder-flapdoodle",
         "RATING": 18,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-750 - 神說：「要有油。」就有了油。",
-        "FULLNAME": "/scp-zh-750",
+        "FULLNAME": "scp-zh-750",
         "RATING": 29,
         "COMMENTS": "4"
     },
     {
         "TITLE": "SCP-ZH-441 - 只能以這種方式錯誤地惦記被碾壓而亡的屍體",
-        "FULLNAME": "/scp-zh-441",
+        "FULLNAME": "scp-zh-441",
         "RATING": 16,
         "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-180 - 安 妮 :-)",
-        "FULLNAME": "/scp-zh-180",
+        "FULLNAME": "scp-zh-180",
         "RATING": 20,
         "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-ZH-583-J - 哪來的猴子.SCiP",
-        "FULLNAME": "/scp-zh-583-j",
+        "FULLNAME": "scp-zh-583-j",
         "RATING": 13,
         "COMMENTS": "4"
     },
     {
         "TITLE": "摯寐迸裂",
-        "FULLNAME": "/dreams-always-explode",
+        "FULLNAME": "dreams-always-explode",
         "RATING": 13,
         "COMMENTS": "0"
     }

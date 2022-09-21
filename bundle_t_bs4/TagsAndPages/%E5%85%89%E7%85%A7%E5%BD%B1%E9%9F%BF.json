@@ -94,7 +94,7 @@
     },
     {
         "TITLE": "SCP-3005 - 一道死去的光",
-        "FULLNAME": "/scp-3005",
+        "FULLNAME": "scp-3005",
         "RATING": 6,
         "COMMENTS": "0"
     },
@@ -154,8 +154,8 @@
     },
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
-        "FULLNAME": "scp-6820",
-        "RATING": 12,
+        "FULLNAME": "/scp-6820",
+        "RATING": 13,
         "COMMENTS": "1"
     },
     {

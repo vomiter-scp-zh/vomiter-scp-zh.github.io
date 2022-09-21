@@ -153,15 +153,21 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 不幸峽谷",
-        "FULLNAME": "7000contestgrigorikarpinvivarium",
-        "RATING": 4,
+        "TITLE": "SCP-7007 - 不幸峽谷",
+        "FULLNAME": "/scp-7007",
+        "RATING": 5,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-814 - 純音",
         "FULLNAME": "scp-814",
         "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-159 - 完美封鎖",
+        "FULLNAME": "/scp-159",
+        "RATING": 1,
         "COMMENTS": "0"
     }
 ]

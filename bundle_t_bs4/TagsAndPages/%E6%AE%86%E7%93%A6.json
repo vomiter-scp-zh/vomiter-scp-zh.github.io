@@ -40,7 +40,7 @@
     },
     {
         "TITLE": "SCP-4012 - 勝過指引千萬群星不再舞動",
-        "FULLNAME": "/scp-4012",
+        "FULLNAME": "scp-4012",
         "RATING": 7,
         "COMMENTS": "0"
     },
@@ -59,6 +59,12 @@
     {
         "TITLE": "SCP-570 - 超自然汽水大戰",
         "FULLNAME": "scp-570",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6765 - 惡魔奧吉爾與瑪利德拉格血之王座",
+        "FULLNAME": "/scp-6765",
         "RATING": 8,
         "COMMENTS": "0"
     }

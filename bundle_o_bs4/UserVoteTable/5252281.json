@@ -7,7 +7,7 @@
     },
     {
         "TITLE": "SCP-ZH-017",
-        "FULLNAME": "/scp-zh-017",
+        "FULLNAME": "scp-zh-017",
         "RATING": 19,
         "COMMENTS": "1"
     },
@@ -223,7 +223,7 @@
     },
     {
         "TITLE": "安保設施檔案：Site-ZH-50",
-        "FULLNAME": "/site-zh-50",
+        "FULLNAME": "site-zh-50",
         "RATING": 16,
         "COMMENTS": "1"
     },
@@ -247,7 +247,7 @@
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-81",
-        "FULLNAME": "/site-zh-81",
+        "FULLNAME": "site-zh-81",
         "RATING": 19,
         "COMMENTS": "0"
     },
@@ -259,7 +259,7 @@
     },
     {
         "TITLE": "SCP-ZH-120",
-        "FULLNAME": "/scp-zh-120",
+        "FULLNAME": "scp-zh-120",
         "RATING": 39,
         "COMMENTS": "4"
     },
@@ -271,13 +271,13 @@
     },
     {
         "TITLE": "山姆的ZH分部角色紀錄本",
-        "FULLNAME": "/doodles-from-sam",
+        "FULLNAME": "doodles-from-sam",
         "RATING": 25,
         "COMMENTS": "3"
     },
     {
         "TITLE": "核裂擠兌中心頁",
-        "FULLNAME": "/operation-nucleon-bank",
+        "FULLNAME": "operation-nucleon-bank",
         "RATING": 16,
         "COMMENTS": "0"
     },
@@ -505,7 +505,7 @@
     },
     {
         "TITLE": "觀測者並未存在",
-        "FULLNAME": "/tina-uni1",
+        "FULLNAME": "tina-uni1",
         "RATING": 10,
         "COMMENTS": "0"
     },
@@ -601,7 +601,7 @@
     },
     {
         "TITLE": "航海學中心頁",
-        "FULLNAME": "/navigation",
+        "FULLNAME": "navigation",
         "RATING": 21,
         "COMMENTS": "0"
     },

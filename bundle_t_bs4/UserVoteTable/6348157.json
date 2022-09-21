@@ -1,8 +1,8 @@
 [
     {
         "TITLE": "SCP-____-j",
-        "FULLNAME": "scp-j",
-        "RATING": 22,
+        "FULLNAME": "/scp-j",
+        "RATING": 25,
         "COMMENTS": "2"
     },
     {
@@ -217,7 +217,7 @@
     },
     {
         "TITLE": "SCP-2639 - 電玩遊戲暴力",
-        "FULLNAME": "/scp-2639",
+        "FULLNAME": "scp-2639",
         "RATING": 9,
         "COMMENTS": "0"
     },
@@ -313,7 +313,7 @@
     },
     {
         "TITLE": "SCP-5764 - 這裏什麼都沒有。",
-        "FULLNAME": "/scp-5764",
+        "FULLNAME": "scp-5764",
         "RATING": 8,
         "COMMENTS": "2"
     },

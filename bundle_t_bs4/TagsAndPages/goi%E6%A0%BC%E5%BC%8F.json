@@ -274,7 +274,7 @@
     },
     {
         "TITLE": "我的頭著火了，我很（不）好",
-        "FULLNAME": "/my-head-is-on-fire-and-im-not-ok",
+        "FULLNAME": "my-head-is-on-fire-and-im-not-ok",
         "RATING": 9,
         "COMMENTS": "1"
     },
@@ -484,8 +484,8 @@
     },
     {
         "TITLE": "あ-N-0064 \"預言獸 件\"銷售目錄",
-        "FULLNAME": "a-n-0064",
-        "RATING": 3,
+        "FULLNAME": "/a-n-0064",
+        "RATING": 4,
         "COMMENTS": "0"
     },
     {

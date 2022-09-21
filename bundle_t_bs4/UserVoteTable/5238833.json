@@ -37,8 +37,8 @@
     },
     {
         "TITLE": "SCP-____-j",
-        "FULLNAME": "scp-j",
-        "RATING": 22,
+        "FULLNAME": "/scp-j",
+        "RATING": 25,
         "COMMENTS": "2"
     },
     {
@@ -55,8 +55,8 @@
     },
     {
         "TITLE": "●●|●●●●●|●●|●",
-        "FULLNAME": "scp-2521",
-        "RATING": 21,
+        "FULLNAME": "/scp-2521",
+        "RATING": 22,
         "COMMENTS": "3"
     },
     {
@@ -115,7 +115,7 @@
     },
     {
         "TITLE": "SCP-500 - 萬靈藥",
-        "FULLNAME": "/scp-500",
+        "FULLNAME": "scp-500",
         "RATING": 12,
         "COMMENTS": "0"
     },

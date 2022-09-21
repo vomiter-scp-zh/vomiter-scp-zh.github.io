@@ -259,7 +259,7 @@
     },
     {
         "TITLE": "SCP-3005 - 一道死去的光",
-        "FULLNAME": "/scp-3005",
+        "FULLNAME": "scp-3005",
         "RATING": 6,
         "COMMENTS": "0"
     },
@@ -985,7 +985,7 @@
     },
     {
         "TITLE": "貓咪的擬人化圖輯",
-        "FULLNAME": "/fushimi3",
+        "FULLNAME": "fushimi3",
         "RATING": 6,
         "COMMENTS": "1"
     },
@@ -1093,7 +1093,7 @@
     },
     {
         "TITLE": "SCP-6008 - 諾亞方舟",
-        "FULLNAME": "/scp-6008",
+        "FULLNAME": "scp-6008",
         "RATING": 5,
         "COMMENTS": "0"
     },
@@ -1195,7 +1195,7 @@
     },
     {
         "TITLE": "SCP-320 - 希格斯場加速度操縱子",
-        "FULLNAME": "/scp-320",
+        "FULLNAME": "scp-320",
         "RATING": 3,
         "COMMENTS": "0"
     },
@@ -1231,7 +1231,7 @@
     },
     {
         "TITLE": "SCP-4012 - 勝過指引千萬群星不再舞動",
-        "FULLNAME": "/scp-4012",
+        "FULLNAME": "scp-4012",
         "RATING": 7,
         "COMMENTS": "0"
     },
@@ -1243,7 +1243,7 @@
     },
     {
         "TITLE": "SCP-2419 - 狂笑者",
-        "FULLNAME": "/scp-2419",
+        "FULLNAME": "scp-2419",
         "RATING": 13,
         "COMMENTS": "0"
     },
@@ -1399,7 +1399,7 @@
     },
     {
         "TITLE": "SCP-6263 - 現世速報",
-        "FULLNAME": "/scp-6263",
+        "FULLNAME": "scp-6263",
         "RATING": 6,
         "COMMENTS": "0"
     },
@@ -1693,7 +1693,7 @@
     },
     {
         "TITLE": "維安設施檔案：Site-418",
-        "FULLNAME": "/secure-facility-dossier-site-418",
+        "FULLNAME": "secure-facility-dossier-site-418",
         "RATING": 8,
         "COMMENTS": "0"
     },
@@ -1993,7 +1993,7 @@
     },
     {
         "TITLE": "SCP-090 - 末數方塊",
-        "FULLNAME": "/scp-090",
+        "FULLNAME": "scp-090",
         "RATING": -1,
         "COMMENTS": "0"
     },
@@ -2521,7 +2521,7 @@
     },
     {
         "TITLE": "SCP-539 - 完全分心盤",
-        "FULLNAME": "/scp-539",
+        "FULLNAME": "scp-539",
         "RATING": 3,
         "COMMENTS": "0"
     },
@@ -2701,7 +2701,7 @@
     },
     {
         "TITLE": "時空站點Site-01（RCT-Δt中心）",
-        "FULLNAME": "/welcome-to-delta-t",
+        "FULLNAME": "welcome-to-delta-t",
         "RATING": 8,
         "COMMENTS": "0"
     },
@@ -2774,7 +2774,7 @@
     {
         "TITLE": "SCP-5763 - 我夢見了我是一隻蝴蝶",
         "FULLNAME": "scp-5763",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0"
     },
     {
@@ -3091,8 +3091,8 @@
     },
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
-        "FULLNAME": "scp-6820",
-        "RATING": 12,
+        "FULLNAME": "/scp-6820",
+        "RATING": 13,
         "COMMENTS": "1"
     },
     {
@@ -3165,6 +3165,30 @@
         "TITLE": "SCP-7000競賽中心頁",
         "FULLNAME": "scp7000contesthub",
         "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-440 - 沙基生態",
+        "FULLNAME": "/scp-440",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-333 - 交響曲中的城市",
+        "FULLNAME": "/scp-333",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-396 - 然後突然地，椅子",
+        "FULLNAME": "/scp-396",
+        "RATING": 4,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "後屎維基",
+        "FULLNAME": "/the-bathrooms-wiki",
+        "RATING": 8,
         "COMMENTS": "0"
     }
 ]

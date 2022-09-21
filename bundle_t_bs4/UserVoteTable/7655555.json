@@ -43,7 +43,7 @@
     },
     {
         "TITLE": "SCP-2419 - 狂笑者",
-        "FULLNAME": "/scp-2419",
+        "FULLNAME": "scp-2419",
         "RATING": 13,
         "COMMENTS": "0"
     },
@@ -79,8 +79,8 @@
     },
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
-        "FULLNAME": "scp-6820",
-        "RATING": 12,
+        "FULLNAME": "/scp-6820",
+        "RATING": 13,
         "COMMENTS": "1"
     },
     {
@@ -108,8 +108,8 @@
         "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-7000 - 來星星間找我",
-        "FULLNAME": "7000contestfabledtiefling",
+        "TITLE": "SCP-7999 - 來星星間找我",
+        "FULLNAME": "scp-7999",
         "RATING": 13,
         "COMMENTS": "1"
     }

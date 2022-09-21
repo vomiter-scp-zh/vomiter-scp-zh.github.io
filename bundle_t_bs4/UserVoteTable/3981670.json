@@ -13,8 +13,8 @@
     },
     {
         "TITLE": "SCP-2165 - 不可寬恕",
-        "FULLNAME": "scp-2165",
-        "RATING": 2,
+        "FULLNAME": "/scp-2165",
+        "RATING": 3,
         "COMMENTS": "0"
     },
     {
@@ -211,7 +211,7 @@
     },
     {
         "TITLE": "我的頭著火了，我很（不）好",
-        "FULLNAME": "/my-head-is-on-fire-and-im-not-ok",
+        "FULLNAME": "my-head-is-on-fire-and-im-not-ok",
         "RATING": 9,
         "COMMENTS": "1"
     },
@@ -427,7 +427,7 @@
     },
     {
         "TITLE": "SCP-105 - 「Iris」",
-        "FULLNAME": "/scp-105",
+        "FULLNAME": "scp-105",
         "RATING": 6,
         "COMMENTS": "1"
     },
@@ -835,7 +835,7 @@
     },
     {
         "TITLE": "SCP-3671 - 一個憤怒的麥片盒",
-        "FULLNAME": "/scp-3671",
+        "FULLNAME": "scp-3671",
         "RATING": 7,
         "COMMENTS": "0"
     },
@@ -1093,7 +1093,7 @@
     },
     {
         "TITLE": "Glass博士的心理評估",
-        "FULLNAME": "/routine-psychological-evaluations-by-dr-glass",
+        "FULLNAME": "routine-psychological-evaluations-by-dr-glass",
         "RATING": 13,
         "COMMENTS": "0"
     },

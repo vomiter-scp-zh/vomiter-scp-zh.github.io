@@ -7,8 +7,8 @@
     },
     {
         "TITLE": "SCP-____-j",
-        "FULLNAME": "scp-j",
-        "RATING": 22,
+        "FULLNAME": "/scp-j",
+        "RATING": 25,
         "COMMENTS": "2"
     },
     {
@@ -19,8 +19,8 @@
     },
     {
         "TITLE": "●●|●●●●●|●●|●",
-        "FULLNAME": "scp-2521",
-        "RATING": 21,
+        "FULLNAME": "/scp-2521",
+        "RATING": 22,
         "COMMENTS": "3"
     },
     {
@@ -517,7 +517,7 @@
     },
     {
         "TITLE": "貓咪的擬人化圖輯",
-        "FULLNAME": "/fushimi3",
+        "FULLNAME": "fushimi3",
         "RATING": 6,
         "COMMENTS": "1"
     },
@@ -601,7 +601,7 @@
     },
     {
         "TITLE": "SCP-2419 - 狂笑者",
-        "FULLNAME": "/scp-2419",
+        "FULLNAME": "scp-2419",
         "RATING": 13,
         "COMMENTS": "0"
     },
@@ -740,7 +740,7 @@
     {
         "TITLE": "SCP-5763 - 我夢見了我是一隻蝴蝶",
         "FULLNAME": "scp-5763",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0"
     },
     {
@@ -811,8 +811,8 @@
     },
     {
         "TITLE": "後屎維基",
-        "FULLNAME": "the-bathrooms-wiki",
-        "RATING": 7,
+        "FULLNAME": "/the-bathrooms-wiki",
+        "RATING": 8,
         "COMMENTS": "0"
     },
     {
@@ -822,14 +822,14 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 陰間維加斯講座：莊家會輸",
-        "FULLNAME": "7000contestrounderhouse",
+        "TITLE": "SCP-7666 - 陰間維加斯講座：莊家會輸",
+        "FULLNAME": "scp-7666",
         "RATING": 11,
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 來星星間找我",
-        "FULLNAME": "7000contestfabledtiefling",
+        "TITLE": "SCP-7999 - 來星星間找我",
+        "FULLNAME": "scp-7999",
         "RATING": 13,
         "COMMENTS": "1"
     },
@@ -840,8 +840,8 @@
         "COMMENTS": "4"
     },
     {
-        "TITLE": "SCP-7000 - 掰掰，謝謝你們的魚啦",
-        "FULLNAME": "7000contestnico",
+        "TITLE": "SCP-7726 - 掰掰，謝謝你們的魚啦",
+        "FULLNAME": "scp-7726",
         "RATING": 10,
         "COMMENTS": "1"
     },
@@ -853,26 +853,32 @@
     },
     {
         "TITLE": "SCP-7000 - 輸家",
-        "FULLNAME": "7000contestharryblank",
-        "RATING": 11,
-        "COMMENTS": "0"
+        "FULLNAME": "/scp-7000",
+        "RATING": 17,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-6938 - Alex Thorley得到一匹禮物馬",
-        "FULLNAME": "scp-6938",
-        "RATING": 4,
+        "FULLNAME": "/scp-6938",
+        "RATING": 5,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-5417 - 歡迎回家",
-        "FULLNAME": "scp-5417",
-        "RATING": 4,
+        "FULLNAME": "/scp-5417",
+        "RATING": 5,
         "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-877-KO - ██藏██體",
         "FULLNAME": "scp-877-ko",
         "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "吞噬者",
+        "FULLNAME": "/the-devourer",
+        "RATING": 3,
         "COMMENTS": "0"
     }
 ]

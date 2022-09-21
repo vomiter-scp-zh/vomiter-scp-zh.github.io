@@ -70,7 +70,7 @@
     },
     {
         "TITLE": "Glass博士的心理評估",
-        "FULLNAME": "/routine-psychological-evaluations-by-dr-glass",
+        "FULLNAME": "routine-psychological-evaluations-by-dr-glass",
         "RATING": 13,
         "COMMENTS": "0"
     },
@@ -112,7 +112,7 @@
     },
     {
         "TITLE": "SCP-666½-J",
-        "FULLNAME": "/scp-666-and-a-half-j",
+        "FULLNAME": "scp-666-and-a-half-j",
         "RATING": 9,
         "COMMENTS": "1"
     },
@@ -198,6 +198,12 @@
         "TITLE": "如果他——",
         "FULLNAME": "aw-1",
         "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7001 - Site-19",
+        "FULLNAME": "/scp-7001",
+        "RATING": 6,
         "COMMENTS": "0"
     }
 ]

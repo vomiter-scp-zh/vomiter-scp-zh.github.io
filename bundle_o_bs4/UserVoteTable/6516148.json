@@ -43,7 +43,7 @@
     },
     {
         "TITLE": "核裂擠兌中心頁",
-        "FULLNAME": "/operation-nucleon-bank",
+        "FULLNAME": "operation-nucleon-bank",
         "RATING": 16,
         "COMMENTS": "0"
     },
@@ -91,7 +91,7 @@
     },
     {
         "TITLE": "航海學中心頁",
-        "FULLNAME": "/navigation",
+        "FULLNAME": "navigation",
         "RATING": 21,
         "COMMENTS": "0"
     },

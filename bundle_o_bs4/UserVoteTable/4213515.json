@@ -25,7 +25,7 @@
     },
     {
         "TITLE": "SCP-ZH-017",
-        "FULLNAME": "/scp-zh-017",
+        "FULLNAME": "scp-zh-017",
         "RATING": 19,
         "COMMENTS": "1"
     },
@@ -271,7 +271,7 @@
     },
     {
         "TITLE": "站點綠化提案",
-        "FULLNAME": "/greening",
+        "FULLNAME": "greening",
         "RATING": 18,
         "COMMENTS": "1"
     },
@@ -295,7 +295,7 @@
     },
     {
         "TITLE": "首級",
-        "FULLNAME": "/head",
+        "FULLNAME": "head",
         "RATING": 16,
         "COMMENTS": "1"
     },
@@ -361,7 +361,7 @@
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-81",
-        "FULLNAME": "/site-zh-81",
+        "FULLNAME": "site-zh-81",
         "RATING": 19,
         "COMMENTS": "0"
     },
@@ -577,7 +577,7 @@
     },
     {
         "TITLE": "安塔雷斯運動宣導",
-        "FULLNAME": "/propaganda-of-the-antares-movement",
+        "FULLNAME": "propaganda-of-the-antares-movement",
         "RATING": 11,
         "COMMENTS": "0"
     }

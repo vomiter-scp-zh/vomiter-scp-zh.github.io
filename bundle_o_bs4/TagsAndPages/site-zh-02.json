@@ -52,7 +52,7 @@
     },
     {
         "TITLE": "SCP-ZH-127",
-        "FULLNAME": "/scp-zh-127",
+        "FULLNAME": "scp-zh-127",
         "RATING": 12,
         "COMMENTS": "0"
     },
@@ -148,13 +148,13 @@
     },
     {
         "TITLE": "站點綠化提案",
-        "FULLNAME": "/greening",
+        "FULLNAME": "greening",
         "RATING": 18,
         "COMMENTS": "1"
     },
     {
         "TITLE": "首級",
-        "FULLNAME": "/head",
+        "FULLNAME": "head",
         "RATING": 16,
         "COMMENTS": "1"
     },
@@ -202,7 +202,7 @@
     },
     {
         "TITLE": "山姆的ZH分部角色紀錄本",
-        "FULLNAME": "/doodles-from-sam",
+        "FULLNAME": "doodles-from-sam",
         "RATING": 25,
         "COMMENTS": "3"
     },

@@ -25,8 +25,8 @@
     },
     {
         "TITLE": "dado的中心頁是的",
-        "FULLNAME": "dado-hub",
-        "RATING": 12,
+        "FULLNAME": "/dado-hub",
+        "RATING": 13,
         "COMMENTS": "1"
     },
     {
@@ -151,7 +151,7 @@
     },
     {
         "TITLE": "Glass博士的心理評估",
-        "FULLNAME": "/routine-psychological-evaluations-by-dr-glass",
+        "FULLNAME": "routine-psychological-evaluations-by-dr-glass",
         "RATING": 13,
         "COMMENTS": "0"
     },
@@ -499,7 +499,7 @@
     },
     {
         "TITLE": "SCP-4012 - 勝過指引千萬群星不再舞動",
-        "FULLNAME": "/scp-4012",
+        "FULLNAME": "scp-4012",
         "RATING": 7,
         "COMMENTS": "0"
     },
@@ -602,7 +602,7 @@
     {
         "TITLE": "SCP-5763 - 我夢見了我是一隻蝴蝶",
         "FULLNAME": "scp-5763",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0"
     },
     {
@@ -642,8 +642,8 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 掰掰，謝謝你們的魚啦",
-        "FULLNAME": "7000contestnico",
+        "TITLE": "SCP-7726 - 掰掰，謝謝你們的魚啦",
+        "FULLNAME": "scp-7726",
         "RATING": 10,
         "COMMENTS": "1"
     }

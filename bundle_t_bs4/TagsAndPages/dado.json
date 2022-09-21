@@ -4,8 +4,8 @@
     },
     {
         "TITLE": "dado的中心頁是的",
-        "FULLNAME": "dado-hub",
-        "RATING": 12,
+        "FULLNAME": "/dado-hub",
+        "RATING": 13,
         "COMMENTS": "1"
     },
     {
@@ -66,6 +66,12 @@
         "TITLE": "SCP-6468 - dado的pvp特製藥水",
         "FULLNAME": "scp-6468",
         "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4176 - 稅金",
+        "FULLNAME": "/scp-4176",
+        "RATING": 2,
         "COMMENTS": "0"
     }
 ]

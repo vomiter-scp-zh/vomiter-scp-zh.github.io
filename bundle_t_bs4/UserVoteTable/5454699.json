@@ -13,8 +13,8 @@
     },
     {
         "TITLE": "SCP-____-j",
-        "FULLNAME": "scp-j",
-        "RATING": 22,
+        "FULLNAME": "/scp-j",
+        "RATING": 25,
         "COMMENTS": "2"
     },
     {
@@ -49,7 +49,7 @@
     },
     {
         "TITLE": "SCP-500 - 萬靈藥",
-        "FULLNAME": "/scp-500",
+        "FULLNAME": "scp-500",
         "RATING": 12,
         "COMMENTS": "0"
     },
@@ -175,7 +175,7 @@
     },
     {
         "TITLE": "UIU職前訓練",
-        "FULLNAME": "/uiu-orientation",
+        "FULLNAME": "uiu-orientation",
         "RATING": 10,
         "COMMENTS": "0"
     },
@@ -301,7 +301,7 @@
     },
     {
         "TITLE": "SCP-6263 - 現世速報",
-        "FULLNAME": "/scp-6263",
+        "FULLNAME": "scp-6263",
         "RATING": 6,
         "COMMENTS": "0"
     },
@@ -336,8 +336,8 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 掰掰，謝謝你們的魚啦",
-        "FULLNAME": "7000contestnico",
+        "TITLE": "SCP-7726 - 掰掰，謝謝你們的魚啦",
+        "FULLNAME": "scp-7726",
         "RATING": 10,
         "COMMENTS": "1"
     }

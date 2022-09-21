@@ -94,7 +94,7 @@
     },
     {
         "TITLE": "SCP-666½-J",
-        "FULLNAME": "/scp-666-and-a-half-j",
+        "FULLNAME": "scp-666-and-a-half-j",
         "RATING": 9,
         "COMMENTS": "1"
     },
@@ -136,7 +136,7 @@
     },
     {
         "TITLE": "SCP-5618 - 「死路」",
-        "FULLNAME": "/scp-5618",
+        "FULLNAME": "scp-5618",
         "RATING": 13,
         "COMMENTS": "3"
     },
@@ -274,26 +274,32 @@
     },
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
-        "FULLNAME": "scp-6820",
-        "RATING": 12,
+        "FULLNAME": "/scp-6820",
+        "RATING": 13,
         "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-7000 - 不凋",
-        "FULLNAME": "7000contestdysadune",
-        "RATING": 10,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-7000 - 輸家",
-        "FULLNAME": "7000contestharryblank",
+        "TITLE": "SCP-7070 - 不凋",
+        "FULLNAME": "/scp-7070",
         "RATING": 11,
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-5417 - 歡迎回家",
-        "FULLNAME": "scp-5417",
-        "RATING": 4,
+        "TITLE": "SCP-7000 - 輸家",
+        "FULLNAME": "/scp-7000",
+        "RATING": 17,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-5417 - 歡迎回家",
+        "FULLNAME": "/scp-5417",
+        "RATING": 5,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Daveyoufool的提案",
+        "FULLNAME": "/daveyoufool-proposal",
+        "RATING": 1,
+        "COMMENTS": "0"
     }
 ]

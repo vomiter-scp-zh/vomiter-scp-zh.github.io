@@ -13,8 +13,8 @@
     },
     {
         "TITLE": "SCP-____-j",
-        "FULLNAME": "scp-j",
-        "RATING": 22,
+        "FULLNAME": "/scp-j",
+        "RATING": 25,
         "COMMENTS": "2"
     },
     {
@@ -439,7 +439,7 @@
     },
     {
         "TITLE": "SCP-666½-J",
-        "FULLNAME": "/scp-666-and-a-half-j",
+        "FULLNAME": "scp-666-and-a-half-j",
         "RATING": 9,
         "COMMENTS": "1"
     },
@@ -619,7 +619,7 @@
     },
     {
         "TITLE": "SCP-6263 - 現世速報",
-        "FULLNAME": "/scp-6263",
+        "FULLNAME": "scp-6263",
         "RATING": 6,
         "COMMENTS": "0"
     },

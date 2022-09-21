@@ -31,7 +31,7 @@
     },
     {
         "TITLE": "SCP-ZH-017",
-        "FULLNAME": "/scp-zh-017",
+        "FULLNAME": "scp-zh-017",
         "RATING": 19,
         "COMMENTS": "1"
     },
@@ -145,7 +145,7 @@
     },
     {
         "TITLE": "SCP-ZH-127",
-        "FULLNAME": "/scp-zh-127",
+        "FULLNAME": "scp-zh-127",
         "RATING": 12,
         "COMMENTS": "0"
     },
@@ -325,7 +325,7 @@
     },
     {
         "TITLE": "站點綠化提案",
-        "FULLNAME": "/greening",
+        "FULLNAME": "greening",
         "RATING": 18,
         "COMMENTS": "1"
     },
@@ -343,7 +343,7 @@
     },
     {
         "TITLE": "首級",
-        "FULLNAME": "/head",
+        "FULLNAME": "head",
         "RATING": 16,
         "COMMENTS": "1"
     },
@@ -649,7 +649,7 @@
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-81",
-        "FULLNAME": "/site-zh-81",
+        "FULLNAME": "site-zh-81",
         "RATING": 19,
         "COMMENTS": "0"
     },
@@ -661,7 +661,7 @@
     },
     {
         "TITLE": "Valentine的Logo頁",
-        "FULLNAME": "/valentine-logo",
+        "FULLNAME": "valentine-logo",
         "RATING": 22,
         "COMMENTS": "1"
     },
@@ -697,7 +697,7 @@
     },
     {
         "TITLE": "山姆的ZH分部角色紀錄本",
-        "FULLNAME": "/doodles-from-sam",
+        "FULLNAME": "doodles-from-sam",
         "RATING": 25,
         "COMMENTS": "3"
     },
@@ -907,7 +907,7 @@
     },
     {
         "TITLE": "觀測者並未存在",
-        "FULLNAME": "/tina-uni1",
+        "FULLNAME": "tina-uni1",
         "RATING": 10,
         "COMMENTS": "0"
     },
@@ -985,7 +985,7 @@
     },
     {
         "TITLE": "賓主盡歡",
-        "FULLNAME": "/fools-wine",
+        "FULLNAME": "fools-wine",
         "RATING": 11,
         "COMMENTS": "1"
     },
@@ -1225,7 +1225,7 @@
     },
     {
         "TITLE": "航海學中心頁",
-        "FULLNAME": "/navigation",
+        "FULLNAME": "navigation",
         "RATING": 21,
         "COMMENTS": "0"
     },
@@ -2083,7 +2083,7 @@
     },
     {
         "TITLE": "2022夏季競賽 主題《X》",
-        "FULLNAME": "/summer-contest-2022",
+        "FULLNAME": "summer-contest-2022",
         "RATING": 11,
         "COMMENTS": "0"
     },
@@ -2095,37 +2095,37 @@
     },
     {
         "TITLE": "完美犯X的入職",
-        "FULLNAME": "/interview-of-x",
+        "FULLNAME": "interview-of-x",
         "RATING": 11,
         "COMMENTS": "0"
     },
     {
         "TITLE": "特殊配備「九轉盔」實驗紀聞：赤嵐四向",
-        "FULLNAME": "/helms-of-nine-iterations-in-red-storm-quadrants",
+        "FULLNAME": "helms-of-nine-iterations-in-red-storm-quadrants",
         "RATING": 10,
         "COMMENTS": "1"
     },
     {
         "TITLE": "我的贖罪",
-        "FULLNAME": "/my-atonement",
+        "FULLNAME": "my-atonement",
         "RATING": 8,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-750 - 神說：「要有油。」就有了油。",
-        "FULLNAME": "/scp-zh-750",
+        "FULLNAME": "scp-zh-750",
         "RATING": 29,
         "COMMENTS": "4"
     },
     {
         "TITLE": "SCP-ZH-173 - BLACK-GROUND: The Prologue",
-        "FULLNAME": "/scp-zh-173",
+        "FULLNAME": "scp-zh-173",
         "RATING": 15,
         "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-ZH-583-J - 哪來的猴子.SCiP",
-        "FULLNAME": "/scp-zh-583-j",
+        "FULLNAME": "scp-zh-583-j",
         "RATING": 13,
         "COMMENTS": "4"
     }

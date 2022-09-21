@@ -58,7 +58,7 @@
     },
     {
         "TITLE": "SCP-105 - 「Iris」",
-        "FULLNAME": "/scp-105",
+        "FULLNAME": "scp-105",
         "RATING": 6,
         "COMMENTS": "1"
     },
@@ -406,8 +406,8 @@
     },
     {
         "TITLE": "SCP-396 - 然後突然地，椅子",
-        "FULLNAME": "scp-396",
-        "RATING": 3,
+        "FULLNAME": "/scp-396",
+        "RATING": 4,
         "COMMENTS": "1"
     },
     {
@@ -426,6 +426,12 @@
         "TITLE": "SPC-3008",
         "FULLNAME": "spc-3008",
         "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-039-長鼻工程師",
+        "FULLNAME": "/scp-039",
+        "RATING": 2,
         "COMMENTS": "0"
     }
 ]

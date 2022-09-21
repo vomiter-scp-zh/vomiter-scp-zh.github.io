@@ -16,7 +16,7 @@
     },
     {
         "TITLE": "SCP-105 - 「Iris」",
-        "FULLNAME": "/scp-105",
+        "FULLNAME": "scp-105",
         "RATING": 6,
         "COMMENTS": "1"
     },
@@ -115,5 +115,11 @@
         "FULLNAME": "scp-6454",
         "RATING": 6,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4335 - 坩堝中的宇宙",
+        "FULLNAME": "/scp-4335",
+        "RATING": 3,
+        "COMMENTS": "2"
     }
 ]

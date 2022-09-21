@@ -64,7 +64,7 @@
     },
     {
         "TITLE": "代號：████ ███ — 真相",
-        "FULLNAME": "/code-name-the-truth",
+        "FULLNAME": "code-name-the-truth",
         "RATING": 3,
         "COMMENTS": "0"
     },
@@ -99,9 +99,21 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 不凋",
-        "FULLNAME": "7000contestdysadune",
-        "RATING": 10,
+        "TITLE": "SCP-7070 - 不凋",
+        "FULLNAME": "/scp-7070",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7001 - Site-19",
+        "FULLNAME": "/scp-7001",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Daveyoufool的提案",
+        "FULLNAME": "/daveyoufool-proposal",
+        "RATING": 1,
         "COMMENTS": "0"
     }
 ]

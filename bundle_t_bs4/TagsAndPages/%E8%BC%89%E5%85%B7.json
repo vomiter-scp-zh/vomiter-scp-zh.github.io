@@ -28,7 +28,7 @@
     },
     {
         "TITLE": "SCP-455 - 貨船",
-        "FULLNAME": "/scp-455",
+        "FULLNAME": "scp-455",
         "RATING": 3,
         "COMMENTS": "1"
     },
@@ -106,7 +106,7 @@
     },
     {
         "TITLE": "SCP-6008 - 諾亞方舟",
-        "FULLNAME": "/scp-6008",
+        "FULLNAME": "scp-6008",
         "RATING": 5,
         "COMMENTS": "0"
     },
@@ -156,6 +156,12 @@
         "TITLE": "SCP-097",
         "FULLNAME": "scp-097",
         "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7025 - 你將死於公車",
+        "FULLNAME": "/scp-7025",
+        "RATING": 6,
         "COMMENTS": "0"
     }
 ]

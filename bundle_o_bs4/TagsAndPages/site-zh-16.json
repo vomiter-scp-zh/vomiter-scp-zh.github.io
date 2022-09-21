@@ -88,7 +88,7 @@
     },
     {
         "TITLE": "洗標：橘2147-Dr. Bales的實驗衣",
-        "FULLNAME": "/orange-2147",
+        "FULLNAME": "orange-2147",
         "RATING": 11,
         "COMMENTS": "0"
     },
@@ -196,7 +196,7 @@
     },
     {
         "TITLE": "山姆的ZH分部角色紀錄本",
-        "FULLNAME": "/doodles-from-sam",
+        "FULLNAME": "doodles-from-sam",
         "RATING": 25,
         "COMMENTS": "3"
     },
@@ -448,7 +448,7 @@
     },
     {
         "TITLE": "SCP-ZH-526",
-        "FULLNAME": "/scp-zh-526",
+        "FULLNAME": "scp-zh-526",
         "RATING": 19,
         "COMMENTS": "1"
     },
@@ -718,25 +718,25 @@
     },
     {
         "TITLE": "不可亂碰管線",
-        "FULLNAME": "/ching-sus",
+        "FULLNAME": "ching-sus",
         "RATING": 8,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-447 - 舶來品般的鐘錶",
-        "FULLNAME": "/scp-zh-447",
+        "FULLNAME": "scp-zh-447",
         "RATING": 8,
         "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-ZH-750 - 神說：「要有油。」就有了油。",
-        "FULLNAME": "/scp-zh-750",
+        "FULLNAME": "scp-zh-750",
         "RATING": 29,
         "COMMENTS": "4"
     },
     {
         "TITLE": "SCP-ZH-583-J - 哪來的猴子.SCiP",
-        "FULLNAME": "/scp-zh-583-j",
+        "FULLNAME": "scp-zh-583-j",
         "RATING": 13,
         "COMMENTS": "4"
     }

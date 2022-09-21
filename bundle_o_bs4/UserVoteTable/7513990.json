@@ -31,7 +31,7 @@
     },
     {
         "TITLE": "SCP-ZH-006",
-        "FULLNAME": "/scp-zh-006",
+        "FULLNAME": "scp-zh-006",
         "RATING": 11,
         "COMMENTS": "6"
     },
@@ -139,13 +139,13 @@
     },
     {
         "TITLE": "SCP-ZH-120",
-        "FULLNAME": "/scp-zh-120",
+        "FULLNAME": "scp-zh-120",
         "RATING": 39,
         "COMMENTS": "4"
     },
     {
         "TITLE": "SCP-ZH-025",
-        "FULLNAME": "/scp-zh-025",
+        "FULLNAME": "scp-zh-025",
         "RATING": 16,
         "COMMENTS": "2"
     },
@@ -361,19 +361,19 @@
     },
     {
         "TITLE": "SCP-ZH-526",
-        "FULLNAME": "/scp-zh-526",
+        "FULLNAME": "scp-zh-526",
         "RATING": 19,
         "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "/scp-zh-2005-ex",
+        "FULLNAME": "scp-zh-2005-ex",
         "RATING": 56,
         "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-496 - 安全極限距離",
-        "FULLNAME": "/scp-zh-496",
+        "FULLNAME": "scp-zh-496",
         "RATING": 29,
         "COMMENTS": "7"
     },
@@ -391,7 +391,7 @@
     },
     {
         "TITLE": "SCP-ZH-00l",
-        "FULLNAME": "/scp-zh-00l",
+        "FULLNAME": "scp-zh-00l",
         "RATING": 13,
         "COMMENTS": "5"
     },
@@ -847,13 +847,13 @@
     },
     {
         "TITLE": "SCP-ZH-182 - 引誘墜樓的耳語",
-        "FULLNAME": "/scp-zh-182",
+        "FULLNAME": "scp-zh-182",
         "RATING": 1,
         "COMMENTS": "6"
     },
     {
         "TITLE": "你知道嗎",
-        "FULLNAME": "/do-you-know-i-love-you",
+        "FULLNAME": "do-you-know-i-love-you",
         "RATING": 14,
         "COMMENTS": "1"
     },
@@ -901,7 +901,7 @@
     },
     {
         "TITLE": "SCP-ZH-184 - 奔車朽索",
-        "FULLNAME": "/scp-zh-184",
+        "FULLNAME": "scp-zh-184",
         "RATING": 22,
         "COMMENTS": "1"
     },
@@ -913,7 +913,7 @@
     },
     {
         "TITLE": "SCP-ZH-941 - 你才沒有在奮鬥",
-        "FULLNAME": "/scp-zh-941",
+        "FULLNAME": "scp-zh-941",
         "RATING": 1,
         "COMMENTS": "8"
     },
@@ -931,13 +931,13 @@
     },
     {
         "TITLE": "SCP-ZH-750 - 神說：「要有油。」就有了油。",
-        "FULLNAME": "/scp-zh-750",
+        "FULLNAME": "scp-zh-750",
         "RATING": 29,
         "COMMENTS": "4"
     },
     {
         "TITLE": "SCP-ZH-180 - 安 妮 :-)",
-        "FULLNAME": "/scp-zh-180",
+        "FULLNAME": "scp-zh-180",
         "RATING": 20,
         "COMMENTS": "2"
     }

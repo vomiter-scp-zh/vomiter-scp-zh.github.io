@@ -34,7 +34,7 @@
     },
     {
         "TITLE": "SCP-ZH-025",
-        "FULLNAME": "/scp-zh-025",
+        "FULLNAME": "scp-zh-025",
         "RATING": 16,
         "COMMENTS": "2"
     },
@@ -220,7 +220,7 @@
     },
     {
         "TITLE": "SCP-ZH-134 - 群",
-        "FULLNAME": "/scp-zh-134",
+        "FULLNAME": "scp-zh-134",
         "RATING": 13,
         "COMMENTS": "0"
     }

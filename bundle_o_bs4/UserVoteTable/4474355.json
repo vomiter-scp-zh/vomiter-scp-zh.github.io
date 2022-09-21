@@ -445,7 +445,7 @@
     },
     {
         "TITLE": "安保設施檔案：Site-ZH-50",
-        "FULLNAME": "/site-zh-50",
+        "FULLNAME": "site-zh-50",
         "RATING": 16,
         "COMMENTS": "1"
     },
@@ -511,7 +511,7 @@
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-81",
-        "FULLNAME": "/site-zh-81",
+        "FULLNAME": "site-zh-81",
         "RATING": 19,
         "COMMENTS": "0"
     },
@@ -523,7 +523,7 @@
     },
     {
         "TITLE": "Valentine的Logo頁",
-        "FULLNAME": "/valentine-logo",
+        "FULLNAME": "valentine-logo",
         "RATING": 22,
         "COMMENTS": "1"
     },
@@ -559,7 +559,7 @@
     },
     {
         "TITLE": "SCP-ZH-120",
-        "FULLNAME": "/scp-zh-120",
+        "FULLNAME": "scp-zh-120",
         "RATING": 39,
         "COMMENTS": "4"
     },
@@ -577,7 +577,7 @@
     },
     {
         "TITLE": "SCP-ZH-025",
-        "FULLNAME": "/scp-zh-025",
+        "FULLNAME": "scp-zh-025",
         "RATING": 16,
         "COMMENTS": "2"
     },
@@ -1273,7 +1273,7 @@
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "/scp-zh-2005-ex",
+        "FULLNAME": "scp-zh-2005-ex",
         "RATING": 56,
         "COMMENTS": "1"
     },
@@ -1291,7 +1291,7 @@
     },
     {
         "TITLE": "SCP-ZH-00l",
-        "FULLNAME": "/scp-zh-00l",
+        "FULLNAME": "scp-zh-00l",
         "RATING": 13,
         "COMMENTS": "5"
     },

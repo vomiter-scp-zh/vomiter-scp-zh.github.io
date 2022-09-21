@@ -61,7 +61,7 @@
     },
     {
         "TITLE": "Ctrl Z博士的SCP記錄：SCP-2295 有著拼布心臟的熊",
-        "FULLNAME": "/bangyen2295",
+        "FULLNAME": "bangyen2295",
         "RATING": 11,
         "COMMENTS": "0"
     },
@@ -85,7 +85,7 @@
     },
     {
         "TITLE": "安保設施檔案：Site-ZH-50",
-        "FULLNAME": "/site-zh-50",
+        "FULLNAME": "site-zh-50",
         "RATING": 16,
         "COMMENTS": "1"
     },
@@ -121,7 +121,7 @@
     },
     {
         "TITLE": "核裂擠兌中心頁",
-        "FULLNAME": "/operation-nucleon-bank",
+        "FULLNAME": "operation-nucleon-bank",
         "RATING": 16,
         "COMMENTS": "0"
     },
@@ -505,7 +505,7 @@
     },
     {
         "TITLE": "航海學中心頁",
-        "FULLNAME": "/navigation",
+        "FULLNAME": "navigation",
         "RATING": 21,
         "COMMENTS": "0"
     },
@@ -721,7 +721,7 @@
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "/scp-zh-2005-ex",
+        "FULLNAME": "scp-zh-2005-ex",
         "RATING": 56,
         "COMMENTS": "1"
     },

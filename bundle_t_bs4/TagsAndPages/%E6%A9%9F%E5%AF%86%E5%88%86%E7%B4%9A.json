@@ -16,8 +16,8 @@
     },
     {
         "TITLE": "SCP-2165 - 不可寬恕",
-        "FULLNAME": "scp-2165",
-        "RATING": 2,
+        "FULLNAME": "/scp-2165",
+        "RATING": 3,
         "COMMENTS": "0"
     },
     {
@@ -160,7 +160,7 @@
     },
     {
         "TITLE": "SCP-5618 - 「死路」",
-        "FULLNAME": "/scp-5618",
+        "FULLNAME": "scp-5618",
         "RATING": 13,
         "COMMENTS": "3"
     },
@@ -256,7 +256,7 @@
     },
     {
         "TITLE": "SCP-3005 - 一道死去的光",
-        "FULLNAME": "/scp-3005",
+        "FULLNAME": "scp-3005",
         "RATING": 6,
         "COMMENTS": "0"
     },
@@ -376,7 +376,7 @@
     },
     {
         "TITLE": "SCP-6263 - 現世速報",
-        "FULLNAME": "/scp-6263",
+        "FULLNAME": "scp-6263",
         "RATING": 6,
         "COMMENTS": "0"
     },
@@ -514,8 +514,8 @@
     },
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
-        "FULLNAME": "scp-6820",
-        "RATING": 12,
+        "FULLNAME": "/scp-6820",
+        "RATING": 13,
         "COMMENTS": "1"
     },
     {
@@ -537,21 +537,27 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 視實是十三",
-        "FULLNAME": "7000contestfishwaltz",
-        "RATING": 10,
+        "TITLE": "SCP-7013 - 視實是十三",
+        "FULLNAME": "/scp-7013",
+        "RATING": 12,
         "COMMENTS": "2"
     },
     {
-        "TITLE": "SCP-7000 - 不凋",
-        "FULLNAME": "7000contestdysadune",
-        "RATING": 10,
+        "TITLE": "SCP-7070 - 不凋",
+        "FULLNAME": "/scp-7070",
+        "RATING": 11,
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 殊途同歸羅馬",
-        "FULLNAME": "7000contestesoterica",
-        "RATING": 8,
+        "TITLE": "SCP-7009 - 殊途同歸羅馬",
+        "FULLNAME": "/scp-7009",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7008 - 一朵塑膠玫瑰",
+        "FULLNAME": "/scp-7008",
+        "RATING": 6,
         "COMMENTS": "0"
     }
 ]

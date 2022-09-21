@@ -52,7 +52,7 @@
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "/scp-zh-2005-ex",
+        "FULLNAME": "scp-zh-2005-ex",
         "RATING": 56,
         "COMMENTS": "1"
     },
@@ -172,19 +172,19 @@
     },
     {
         "TITLE": "SCP-ZH-403 - 禁臠與終止符",
-        "FULLNAME": "/scp-zh-403",
+        "FULLNAME": "scp-zh-403",
         "RATING": 16,
         "COMMENTS": "4"
     },
     {
         "TITLE": "SCP-ZH-134 - 群",
-        "FULLNAME": "/scp-zh-134",
+        "FULLNAME": "scp-zh-134",
         "RATING": 13,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-912-J - 大忌",
-        "FULLNAME": "/scp-zh-912-j",
+        "FULLNAME": "scp-zh-912-j",
         "RATING": 18,
         "COMMENTS": "6"
     }

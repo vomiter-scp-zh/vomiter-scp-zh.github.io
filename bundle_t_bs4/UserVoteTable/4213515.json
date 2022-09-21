@@ -31,8 +31,8 @@
     },
     {
         "TITLE": "●●|●●●●●|●●|●",
-        "FULLNAME": "scp-2521",
-        "RATING": 21,
+        "FULLNAME": "/scp-2521",
+        "RATING": 22,
         "COMMENTS": "3"
     },
     {
@@ -55,8 +55,8 @@
     },
     {
         "TITLE": "dado的中心頁是的",
-        "FULLNAME": "dado-hub",
-        "RATING": 12,
+        "FULLNAME": "/dado-hub",
+        "RATING": 13,
         "COMMENTS": "1"
     },
     {
@@ -895,7 +895,7 @@
     },
     {
         "TITLE": "我的頭著火了，我很（不）好",
-        "FULLNAME": "/my-head-is-on-fire-and-im-not-ok",
+        "FULLNAME": "my-head-is-on-fire-and-im-not-ok",
         "RATING": 9,
         "COMMENTS": "1"
     },
@@ -931,7 +931,7 @@
     },
     {
         "TITLE": "SCP-500 - 萬靈藥",
-        "FULLNAME": "/scp-500",
+        "FULLNAME": "scp-500",
         "RATING": 12,
         "COMMENTS": "0"
     },

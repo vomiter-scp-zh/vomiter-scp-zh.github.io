@@ -171,9 +171,15 @@
         "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-7000 - 掰掰，謝謝你們的魚啦",
-        "FULLNAME": "7000contestnico",
+        "TITLE": "SCP-7726 - 掰掰，謝謝你們的魚啦",
+        "FULLNAME": "scp-7726",
         "RATING": 10,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4176 - 稅金",
+        "FULLNAME": "/scp-4176",
+        "RATING": 2,
+        "COMMENTS": "0"
     }
 ]

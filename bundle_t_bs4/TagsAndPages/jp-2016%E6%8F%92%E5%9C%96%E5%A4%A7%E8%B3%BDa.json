@@ -67,5 +67,11 @@
         "FULLNAME": "classd",
         "RATING": 1,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "吞噬者",
+        "FULLNAME": "/the-devourer",
+        "RATING": 3,
+        "COMMENTS": "0"
     }
 ]

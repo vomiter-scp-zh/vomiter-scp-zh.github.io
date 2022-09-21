@@ -13,20 +13,44 @@
     },
     {
         "TITLE": "SCP-5618 - 「死路」",
-        "FULLNAME": "/scp-5618",
+        "FULLNAME": "scp-5618",
         "RATING": 13,
         "COMMENTS": "3"
     },
     {
         "TITLE": "SCP-5764 - 這裏什麼都沒有。",
-        "FULLNAME": "/scp-5764",
+        "FULLNAME": "scp-5764",
         "RATING": 8,
         "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-6263 - 現世速報",
-        "FULLNAME": "/scp-6263",
+        "FULLNAME": "scp-6263",
         "RATING": 6,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7000 - 輸家",
+        "FULLNAME": "/scp-7000",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-7001 - Site-19",
+        "FULLNAME": "/scp-7001",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "蛙",
+        "FULLNAME": "/frog",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-____-j",
+        "FULLNAME": "/scp-j",
+        "RATING": 25,
+        "COMMENTS": "2"
     }
 ]

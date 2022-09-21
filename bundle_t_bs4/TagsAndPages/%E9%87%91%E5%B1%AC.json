@@ -70,7 +70,7 @@
     },
     {
         "TITLE": "SCP-455 - 貨船",
-        "FULLNAME": "/scp-455",
+        "FULLNAME": "scp-455",
         "RATING": 3,
         "COMMENTS": "1"
     },
@@ -274,8 +274,8 @@
     },
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
-        "FULLNAME": "scp-6820",
-        "RATING": 12,
+        "FULLNAME": "/scp-6820",
+        "RATING": 13,
         "COMMENTS": "1"
     },
     {

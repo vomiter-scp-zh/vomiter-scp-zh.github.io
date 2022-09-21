@@ -67,8 +67,8 @@
     },
     {
         "TITLE": "●●|●●●●●|●●|●",
-        "FULLNAME": "scp-2521",
-        "RATING": 21,
+        "FULLNAME": "/scp-2521",
+        "RATING": 22,
         "COMMENTS": "3"
     },
     {
@@ -151,8 +151,8 @@
     },
     {
         "TITLE": "dado的中心頁是的",
-        "FULLNAME": "dado-hub",
-        "RATING": 12,
+        "FULLNAME": "/dado-hub",
+        "RATING": 13,
         "COMMENTS": "1"
     },
     {
@@ -757,7 +757,7 @@
     },
     {
         "TITLE": "UIU職前訓練",
-        "FULLNAME": "/uiu-orientation",
+        "FULLNAME": "uiu-orientation",
         "RATING": 10,
         "COMMENTS": "0"
     },

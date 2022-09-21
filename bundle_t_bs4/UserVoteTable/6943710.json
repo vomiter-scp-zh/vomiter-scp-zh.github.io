@@ -13,8 +13,8 @@
     },
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
-        "FULLNAME": "scp-6820",
-        "RATING": 12,
+        "FULLNAME": "/scp-6820",
+        "RATING": 13,
         "COMMENTS": "1"
     },
     {
@@ -30,15 +30,21 @@
         "COMMENTS": "2"
     },
     {
-        "TITLE": "SCP-7000 - 視實是十三",
-        "FULLNAME": "7000contestfishwaltz",
-        "RATING": 10,
+        "TITLE": "SCP-7013 - 視實是十三",
+        "FULLNAME": "/scp-7013",
+        "RATING": 12,
         "COMMENTS": "2"
     },
     {
         "TITLE": "非現實部中心頁",
         "FULLNAME": "unreality-hub",
         "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "あ-N-0064 \"預言獸 件\"銷售目錄",
+        "FULLNAME": "/a-n-0064",
+        "RATING": 4,
         "COMMENTS": "0"
     }
 ]

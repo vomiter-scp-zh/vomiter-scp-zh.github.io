@@ -64,7 +64,7 @@
     },
     {
         "TITLE": "SCP-666½-J",
-        "FULLNAME": "/scp-666-and-a-half-j",
+        "FULLNAME": "scp-666-and-a-half-j",
         "RATING": 9,
         "COMMENTS": "1"
     },
@@ -161,7 +161,13 @@
     {
         "TITLE": "SCP-5763 - 我夢見了我是一隻蝴蝶",
         "FULLNAME": "scp-5763",
-        "RATING": 7,
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-067-EX",
+        "FULLNAME": "/scp-067-ex",
+        "RATING": 3,
         "COMMENTS": "0"
     }
 ]

@@ -46,7 +46,7 @@
     },
     {
         "TITLE": "SCP-2639 - 電玩遊戲暴力",
-        "FULLNAME": "/scp-2639",
+        "FULLNAME": "scp-2639",
         "RATING": 9,
         "COMMENTS": "0"
     },
@@ -97,5 +97,11 @@
         "FULLNAME": "scp-3491",
         "RATING": 2,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-159 - 完美封鎖",
+        "FULLNAME": "/scp-159",
+        "RATING": 1,
+        "COMMENTS": "0"
     }
 ]

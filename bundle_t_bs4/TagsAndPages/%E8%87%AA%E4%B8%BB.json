@@ -106,7 +106,7 @@
     },
     {
         "TITLE": "SCP-3671 - 一個憤怒的麥片盒",
-        "FULLNAME": "/scp-3671",
+        "FULLNAME": "scp-3671",
         "RATING": 7,
         "COMMENTS": "0"
     },
@@ -328,7 +328,7 @@
     },
     {
         "TITLE": "SCP-090 - 末數方塊",
-        "FULLNAME": "/scp-090",
+        "FULLNAME": "scp-090",
         "RATING": -1,
         "COMMENTS": "0"
     },
@@ -441,8 +441,8 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 船。",
-        "FULLNAME": "7000contestaismlt",
+        "TITLE": "SCP-7200 - 船。",
+        "FULLNAME": "scp-7200",
         "RATING": 7,
         "COMMENTS": "0"
     }

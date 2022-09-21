@@ -124,13 +124,13 @@
     },
     {
         "TITLE": "SCP-6008 - 諾亞方舟",
-        "FULLNAME": "/scp-6008",
+        "FULLNAME": "scp-6008",
         "RATING": 5,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-2419 - 狂笑者",
-        "FULLNAME": "/scp-2419",
+        "FULLNAME": "scp-2419",
         "RATING": 13,
         "COMMENTS": "0"
     },
@@ -167,7 +167,7 @@
     {
         "TITLE": "SCP-5763 - 我夢見了我是一隻蝴蝶",
         "FULLNAME": "scp-5763",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0"
     },
     {
@@ -184,14 +184,20 @@
     },
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
-        "FULLNAME": "scp-6820",
-        "RATING": 12,
+        "FULLNAME": "/scp-6820",
+        "RATING": 13,
         "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-7000 - 不凋",
-        "FULLNAME": "7000contestdysadune",
-        "RATING": 10,
+        "TITLE": "SCP-7070 - 不凋",
+        "FULLNAME": "/scp-7070",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7001 - Site-19",
+        "FULLNAME": "/scp-7001",
+        "RATING": 6,
         "COMMENTS": "0"
     }
 ]

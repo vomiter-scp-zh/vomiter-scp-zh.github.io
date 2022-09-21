@@ -217,7 +217,7 @@
     },
     {
         "TITLE": "SCP-3671 - 一個憤怒的麥片盒",
-        "FULLNAME": "/scp-3671",
+        "FULLNAME": "scp-3671",
         "RATING": 7,
         "COMMENTS": "0"
     },
@@ -571,7 +571,7 @@
     },
     {
         "TITLE": "SCP-5618 - 「死路」",
-        "FULLNAME": "/scp-5618",
+        "FULLNAME": "scp-5618",
         "RATING": 13,
         "COMMENTS": "3"
     },
@@ -643,7 +643,7 @@
     },
     {
         "TITLE": "SCP-4182 - Site-5不存在",
-        "FULLNAME": "/scp-4182",
+        "FULLNAME": "scp-4182",
         "RATING": 14,
         "COMMENTS": "0"
     },
@@ -1016,7 +1016,7 @@
     {
         "TITLE": "SCP-5763 - 我夢見了我是一隻蝴蝶",
         "FULLNAME": "scp-5763",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0"
     },
     {
@@ -1080,8 +1080,8 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 經商蜥蜴",
-        "FULLNAME": "7000contestzyn",
+        "TITLE": "SCP-7333 - 經商蜥蜴",
+        "FULLNAME": "scp-7333",
         "RATING": 10,
         "COMMENTS": "1"
     }

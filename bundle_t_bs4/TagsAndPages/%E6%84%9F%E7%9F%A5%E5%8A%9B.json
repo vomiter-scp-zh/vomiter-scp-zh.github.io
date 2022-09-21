@@ -22,8 +22,8 @@
     },
     {
         "TITLE": "●●|●●●●●|●●|●",
-        "FULLNAME": "scp-2521",
-        "RATING": 21,
+        "FULLNAME": "/scp-2521",
+        "RATING": 22,
         "COMMENTS": "3"
     },
     {
@@ -202,7 +202,7 @@
     },
     {
         "TITLE": "SCP-105 - 「Iris」",
-        "FULLNAME": "/scp-105",
+        "FULLNAME": "scp-105",
         "RATING": 6,
         "COMMENTS": "1"
     },
@@ -376,7 +376,7 @@
     },
     {
         "TITLE": "SCP-3671 - 一個憤怒的麥片盒",
-        "FULLNAME": "/scp-3671",
+        "FULLNAME": "scp-3671",
         "RATING": 7,
         "COMMENTS": "0"
     },
@@ -592,7 +592,7 @@
     },
     {
         "TITLE": "SCP-1440 - 來歷不明的老人",
-        "FULLNAME": "/scp-1440",
+        "FULLNAME": "scp-1440",
         "RATING": 8,
         "COMMENTS": "1"
     },
@@ -796,7 +796,7 @@
     },
     {
         "TITLE": "SCP-5764 - 這裏什麼都沒有。",
-        "FULLNAME": "/scp-5764",
+        "FULLNAME": "scp-5764",
         "RATING": 8,
         "COMMENTS": "2"
     },
@@ -1000,7 +1000,7 @@
     },
     {
         "TITLE": "SCP-6008 - 諾亞方舟",
-        "FULLNAME": "/scp-6008",
+        "FULLNAME": "scp-6008",
         "RATING": 5,
         "COMMENTS": "0"
     },
@@ -1012,7 +1012,7 @@
     },
     {
         "TITLE": "SCP-2419 - 狂笑者",
-        "FULLNAME": "/scp-2419",
+        "FULLNAME": "scp-2419",
         "RATING": 13,
         "COMMENTS": "0"
     },
@@ -1162,7 +1162,7 @@
     },
     {
         "TITLE": "SCP-090 - 末數方塊",
-        "FULLNAME": "/scp-090",
+        "FULLNAME": "scp-090",
         "RATING": -1,
         "COMMENTS": "0"
     },
@@ -1318,8 +1318,8 @@
     },
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
-        "FULLNAME": "scp-6820",
-        "RATING": 12,
+        "FULLNAME": "/scp-6820",
+        "RATING": 13,
         "COMMENTS": "1"
     },
     {
@@ -1377,26 +1377,26 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 經商蜥蜴",
-        "FULLNAME": "7000contestzyn",
+        "TITLE": "SCP-7333 - 經商蜥蜴",
+        "FULLNAME": "scp-7333",
         "RATING": 10,
         "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-7000 - 愛爾蘭人的幸運",
-        "FULLNAME": "7000contesttstaffor",
+        "TITLE": "SCP-7500 - 愛爾蘭人的幸運",
+        "FULLNAME": "scp-7500",
         "RATING": 5,
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - Cimmerian博士差點死掉",
-        "FULLNAME": "7000doctor-cimmerian",
+        "TITLE": "SCP-7700 - Cimmerian博士差點死掉",
+        "FULLNAME": "scp-7700",
         "RATING": 4,
         "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-7000 - 來星星間找我",
-        "FULLNAME": "7000contestfabledtiefling",
+        "TITLE": "SCP-7999 - 來星星間找我",
+        "FULLNAME": "scp-7999",
         "RATING": 13,
         "COMMENTS": "1"
     },
@@ -1407,8 +1407,8 @@
         "COMMENTS": "4"
     },
     {
-        "TITLE": "SCP-7000 - 浮游生物!!!",
-        "FULLNAME": "7000contestellie3",
+        "TITLE": "SCP-7300 - 浮游生物!!!",
+        "FULLNAME": "scp-7300",
         "RATING": 5,
         "COMMENTS": "0"
     },
@@ -1416,6 +1416,24 @@
         "TITLE": "SCP-060 - 煉獄骷髏",
         "FULLNAME": "scp-060",
         "RATING": 1,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4335 - 坩堝中的宇宙",
+        "FULLNAME": "/scp-4335",
+        "RATING": 3,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-039-長鼻工程師",
+        "FULLNAME": "/scp-039",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6765 - 惡魔奧吉爾與瑪利德拉格血之王座",
+        "FULLNAME": "/scp-6765",
+        "RATING": 8,
         "COMMENTS": "0"
     }
 ]

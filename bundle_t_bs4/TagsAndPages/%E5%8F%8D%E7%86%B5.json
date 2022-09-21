@@ -154,7 +154,7 @@
     },
     {
         "TITLE": "SCP-3671 - 一個憤怒的麥片盒",
-        "FULLNAME": "/scp-3671",
+        "FULLNAME": "scp-3671",
         "RATING": 7,
         "COMMENTS": "0"
     },
@@ -250,7 +250,7 @@
     },
     {
         "TITLE": "SCP-666½-J",
-        "FULLNAME": "/scp-666-and-a-half-j",
+        "FULLNAME": "scp-666-and-a-half-j",
         "RATING": 9,
         "COMMENTS": "1"
     },
@@ -460,7 +460,7 @@
     },
     {
         "TITLE": "SCP-539 - 完全分心盤",
-        "FULLNAME": "/scp-539",
+        "FULLNAME": "scp-539",
         "RATING": 3,
         "COMMENTS": "0"
     },
@@ -505,5 +505,11 @@
         "FULLNAME": "scp-5861",
         "RATING": 6,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-7008 - 一朵塑膠玫瑰",
+        "FULLNAME": "/scp-7008",
+        "RATING": 6,
+        "COMMENTS": "0"
     }
 ]

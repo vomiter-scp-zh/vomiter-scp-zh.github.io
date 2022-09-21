@@ -13,7 +13,7 @@
     },
     {
         "TITLE": "山姆的ZH分部角色紀錄本",
-        "FULLNAME": "/doodles-from-sam",
+        "FULLNAME": "doodles-from-sam",
         "RATING": 25,
         "COMMENTS": "3"
     },
@@ -85,7 +85,7 @@
     },
     {
         "TITLE": "廁所裡的致命模因",
-        "FULLNAME": "/the-bottle-in-restroom",
+        "FULLNAME": "the-bottle-in-restroom",
         "RATING": 32,
         "COMMENTS": "7"
     },
@@ -223,7 +223,7 @@
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "/scp-zh-2005-ex",
+        "FULLNAME": "scp-zh-2005-ex",
         "RATING": 56,
         "COMMENTS": "1"
     },
@@ -511,7 +511,7 @@
     },
     {
         "TITLE": "SCP-ZH-180 - 安 妮 :-)",
-        "FULLNAME": "/scp-zh-180",
+        "FULLNAME": "scp-zh-180",
         "RATING": 20,
         "COMMENTS": "2"
     }

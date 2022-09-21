@@ -103,7 +103,7 @@
     },
     {
         "TITLE": "站點綠化提案",
-        "FULLNAME": "/greening",
+        "FULLNAME": "greening",
         "RATING": 18,
         "COMMENTS": "1"
     },
@@ -121,7 +121,7 @@
     },
     {
         "TITLE": "首級",
-        "FULLNAME": "/head",
+        "FULLNAME": "head",
         "RATING": 16,
         "COMMENTS": "1"
     },
@@ -247,7 +247,7 @@
     },
     {
         "TITLE": "認識段落寫作",
-        "FULLNAME": "/understanding-paragraph",
+        "FULLNAME": "understanding-paragraph",
         "RATING": 11,
         "COMMENTS": "0"
     },

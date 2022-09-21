@@ -31,8 +31,8 @@
     },
     {
         "TITLE": "後屎維基",
-        "FULLNAME": "the-bathrooms-wiki",
-        "RATING": 7,
+        "FULLNAME": "/the-bathrooms-wiki",
+        "RATING": 8,
         "COMMENTS": "0"
     },
     {
@@ -48,9 +48,15 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 不凋",
-        "FULLNAME": "7000contestdysadune",
-        "RATING": 10,
+        "TITLE": "SCP-7070 - 不凋",
+        "FULLNAME": "/scp-7070",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5763 - 我夢見了我是一隻蝴蝶",
+        "FULLNAME": "scp-5763",
+        "RATING": 8,
         "COMMENTS": "0"
     }
 ]

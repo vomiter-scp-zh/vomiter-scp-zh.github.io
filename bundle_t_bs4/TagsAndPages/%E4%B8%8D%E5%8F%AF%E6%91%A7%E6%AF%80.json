@@ -112,7 +112,7 @@
     },
     {
         "TITLE": "SCP-1440 - 來歷不明的老人",
-        "FULLNAME": "/scp-1440",
+        "FULLNAME": "scp-1440",
         "RATING": 8,
         "COMMENTS": "1"
     },
@@ -190,7 +190,7 @@
     },
     {
         "TITLE": "SCP-090 - 末數方塊",
-        "FULLNAME": "/scp-090",
+        "FULLNAME": "scp-090",
         "RATING": -1,
         "COMMENTS": "0"
     },
@@ -214,8 +214,8 @@
     },
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
-        "FULLNAME": "scp-6820",
-        "RATING": 12,
+        "FULLNAME": "/scp-6820",
+        "RATING": 13,
         "COMMENTS": "1"
     },
     {
@@ -231,15 +231,21 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - Cimmerian博士差點死掉",
-        "FULLNAME": "7000doctor-cimmerian",
+        "TITLE": "SCP-7700 - Cimmerian博士差點死掉",
+        "FULLNAME": "scp-7700",
         "RATING": 4,
         "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-5417 - 歡迎回家",
-        "FULLNAME": "scp-5417",
-        "RATING": 4,
+        "FULLNAME": "/scp-5417",
+        "RATING": 5,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-159 - 完美封鎖",
+        "FULLNAME": "/scp-159",
+        "RATING": 1,
+        "COMMENTS": "0"
     }
 ]

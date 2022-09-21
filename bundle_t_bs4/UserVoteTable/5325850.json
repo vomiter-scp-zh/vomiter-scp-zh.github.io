@@ -13,8 +13,8 @@
     },
     {
         "TITLE": "dado的中心頁是的",
-        "FULLNAME": "dado-hub",
-        "RATING": 12,
+        "FULLNAME": "/dado-hub",
+        "RATING": 13,
         "COMMENTS": "1"
     },
     {
@@ -49,7 +49,7 @@
     },
     {
         "TITLE": "我的頭著火了，我很（不）好",
-        "FULLNAME": "/my-head-is-on-fire-and-im-not-ok",
+        "FULLNAME": "my-head-is-on-fire-and-im-not-ok",
         "RATING": 9,
         "COMMENTS": "1"
     },
@@ -325,7 +325,7 @@
     },
     {
         "TITLE": "SCP-4182 - Site-5不存在",
-        "FULLNAME": "/scp-4182",
+        "FULLNAME": "scp-4182",
         "RATING": 14,
         "COMMENTS": "0"
     },
@@ -349,7 +349,7 @@
     },
     {
         "TITLE": "SCP-2419 - 狂笑者",
-        "FULLNAME": "/scp-2419",
+        "FULLNAME": "scp-2419",
         "RATING": 13,
         "COMMENTS": "0"
     },

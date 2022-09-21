@@ -127,7 +127,7 @@
     },
     {
         "TITLE": "我的頭著火了，我很（不）好",
-        "FULLNAME": "/my-head-is-on-fire-and-im-not-ok",
+        "FULLNAME": "my-head-is-on-fire-and-im-not-ok",
         "RATING": 9,
         "COMMENTS": "1"
     },
@@ -1255,7 +1255,7 @@
     },
     {
         "TITLE": "SCP-3671 - 一個憤怒的麥片盒",
-        "FULLNAME": "/scp-3671",
+        "FULLNAME": "scp-3671",
         "RATING": 7,
         "COMMENTS": "0"
     },
@@ -1837,7 +1837,7 @@
     },
     {
         "TITLE": "SCP-455 - 貨船",
-        "FULLNAME": "/scp-455",
+        "FULLNAME": "scp-455",
         "RATING": 3,
         "COMMENTS": "1"
     },
@@ -2059,7 +2059,7 @@
     },
     {
         "TITLE": "Glass博士的心理評估",
-        "FULLNAME": "/routine-psychological-evaluations-by-dr-glass",
+        "FULLNAME": "routine-psychological-evaluations-by-dr-glass",
         "RATING": 13,
         "COMMENTS": "0"
     },
@@ -2299,7 +2299,7 @@
     },
     {
         "TITLE": "UIU職前訓練",
-        "FULLNAME": "/uiu-orientation",
+        "FULLNAME": "uiu-orientation",
         "RATING": 10,
         "COMMENTS": "0"
     },
@@ -2869,7 +2869,7 @@
     },
     {
         "TITLE": "SCP-666½-J",
-        "FULLNAME": "/scp-666-and-a-half-j",
+        "FULLNAME": "scp-666-and-a-half-j",
         "RATING": 9,
         "COMMENTS": "1"
     },
@@ -3253,7 +3253,7 @@
     },
     {
         "TITLE": "SCP-1440 - 來歷不明的老人",
-        "FULLNAME": "/scp-1440",
+        "FULLNAME": "scp-1440",
         "RATING": 8,
         "COMMENTS": "1"
     },
@@ -3457,7 +3457,7 @@
     },
     {
         "TITLE": "SCP-5618 - 「死路」",
-        "FULLNAME": "/scp-5618",
+        "FULLNAME": "scp-5618",
         "RATING": 13,
         "COMMENTS": "3"
     },
@@ -3793,7 +3793,7 @@
     },
     {
         "TITLE": "SCP-2639 - 電玩遊戲暴力",
-        "FULLNAME": "/scp-2639",
+        "FULLNAME": "scp-2639",
         "RATING": 9,
         "COMMENTS": "0"
     },
@@ -3913,7 +3913,7 @@
     },
     {
         "TITLE": "SCP-4182 - Site-5不存在",
-        "FULLNAME": "/scp-4182",
+        "FULLNAME": "scp-4182",
         "RATING": 14,
         "COMMENTS": "0"
     },
@@ -4207,7 +4207,7 @@
     },
     {
         "TITLE": "代號：████ ███ — 真相",
-        "FULLNAME": "/code-name-the-truth",
+        "FULLNAME": "code-name-the-truth",
         "RATING": 3,
         "COMMENTS": "0"
     },
@@ -4435,7 +4435,7 @@
     },
     {
         "TITLE": "SCP-5764 - 這裏什麼都沒有。",
-        "FULLNAME": "/scp-5764",
+        "FULLNAME": "scp-5764",
         "RATING": 8,
         "COMMENTS": "2"
     },

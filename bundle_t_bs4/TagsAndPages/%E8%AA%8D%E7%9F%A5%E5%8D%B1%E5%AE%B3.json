@@ -184,7 +184,7 @@
     },
     {
         "TITLE": "SCP-455 - 貨船",
-        "FULLNAME": "/scp-455",
+        "FULLNAME": "scp-455",
         "RATING": 3,
         "COMMENTS": "1"
     },
@@ -334,7 +334,7 @@
     },
     {
         "TITLE": "SCP-4182 - Site-5不存在",
-        "FULLNAME": "/scp-4182",
+        "FULLNAME": "scp-4182",
         "RATING": 14,
         "COMMENTS": "0"
     },
@@ -618,6 +618,30 @@
         "TITLE": "SCP-708 - 大橘堆高機",
         "FULLNAME": "scp-708",
         "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7001 - Site-19",
+        "FULLNAME": "/scp-7001",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4335 - 坩堝中的宇宙",
+        "FULLNAME": "/scp-4335",
+        "RATING": 3,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "Daveyoufool的提案",
+        "FULLNAME": "/daveyoufool-proposal",
+        "RATING": 1,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6765 - 惡魔奧吉爾與瑪利德拉格血之王座",
+        "FULLNAME": "/scp-6765",
+        "RATING": 8,
         "COMMENTS": "0"
     }
 ]

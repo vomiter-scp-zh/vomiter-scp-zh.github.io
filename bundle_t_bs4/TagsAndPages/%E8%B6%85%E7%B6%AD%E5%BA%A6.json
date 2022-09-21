@@ -202,7 +202,7 @@
     },
     {
         "TITLE": "SCP-2639 - 電玩遊戲暴力",
-        "FULLNAME": "/scp-2639",
+        "FULLNAME": "scp-2639",
         "RATING": 9,
         "COMMENTS": "0"
     },
@@ -316,7 +316,7 @@
     },
     {
         "TITLE": "SCP-4012 - 勝過指引千萬群星不再舞動",
-        "FULLNAME": "/scp-4012",
+        "FULLNAME": "scp-4012",
         "RATING": 7,
         "COMMENTS": "0"
     },
@@ -423,14 +423,14 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 陰間維加斯講座：莊家會輸",
-        "FULLNAME": "7000contestrounderhouse",
+        "TITLE": "SCP-7666 - 陰間維加斯講座：莊家會輸",
+        "FULLNAME": "scp-7666",
         "RATING": 11,
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 地獄子彈",
-        "FULLNAME": "7000contestweryllium",
+        "TITLE": "SCP-7290 - 地獄子彈",
+        "FULLNAME": "scp-7290",
         "RATING": 3,
         "COMMENTS": "0"
     }

@@ -94,13 +94,13 @@
     },
     {
         "TITLE": "SCP-6263 - 現世速報",
-        "FULLNAME": "/scp-6263",
+        "FULLNAME": "scp-6263",
         "RATING": 6,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-539 - 完全分心盤",
-        "FULLNAME": "/scp-539",
+        "FULLNAME": "scp-539",
         "RATING": 3,
         "COMMENTS": "0"
     },
@@ -117,45 +117,57 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 經商蜥蜴",
-        "FULLNAME": "7000contestzyn",
+        "TITLE": "SCP-7333 - 經商蜥蜴",
+        "FULLNAME": "scp-7333",
         "RATING": 10,
         "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-7000 - 愛爾蘭人的幸運",
-        "FULLNAME": "7000contesttstaffor",
+        "TITLE": "SCP-7500 - 愛爾蘭人的幸運",
+        "FULLNAME": "scp-7500",
         "RATING": 5,
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - Cimmerian博士差點死掉",
-        "FULLNAME": "7000doctor-cimmerian",
+        "TITLE": "SCP-7700 - Cimmerian博士差點死掉",
+        "FULLNAME": "scp-7700",
         "RATING": 4,
         "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-7000 - 視實是十三",
-        "FULLNAME": "7000contestfishwaltz",
-        "RATING": 10,
+        "TITLE": "SCP-7013 - 視實是十三",
+        "FULLNAME": "/scp-7013",
+        "RATING": 12,
         "COMMENTS": "2"
     },
     {
-        "TITLE": "SCP-7000 - 懼七症",
-        "FULLNAME": "7000contestyossipossi",
-        "RATING": 7,
+        "TITLE": "SCP-7777 - 懼七症",
+        "FULLNAME": "/scp-7777",
+        "RATING": 9,
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 殊途同歸羅馬",
-        "FULLNAME": "7000contestesoterica",
-        "RATING": 8,
+        "TITLE": "SCP-7009 - 殊途同歸羅馬",
+        "FULLNAME": "/scp-7009",
+        "RATING": 9,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-7000 - 輸家",
-        "FULLNAME": "7000contestharryblank",
-        "RATING": 11,
+        "FULLNAME": "/scp-7000",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-7001 - Site-19",
+        "FULLNAME": "/scp-7001",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7025 - 你將死於公車",
+        "FULLNAME": "/scp-7025",
+        "RATING": 6,
         "COMMENTS": "0"
     }
 ]

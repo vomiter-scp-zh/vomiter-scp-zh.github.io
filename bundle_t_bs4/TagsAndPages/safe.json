@@ -268,7 +268,7 @@
     },
     {
         "TITLE": "SCP-500 - 萬靈藥",
-        "FULLNAME": "/scp-500",
+        "FULLNAME": "scp-500",
         "RATING": 12,
         "COMMENTS": "0"
     },
@@ -364,7 +364,7 @@
     },
     {
         "TITLE": "SCP-105 - 「Iris」",
-        "FULLNAME": "/scp-105",
+        "FULLNAME": "scp-105",
         "RATING": 6,
         "COMMENTS": "1"
     },
@@ -634,7 +634,7 @@
     },
     {
         "TITLE": "SCP-3671 - 一個憤怒的麥片盒",
-        "FULLNAME": "/scp-3671",
+        "FULLNAME": "scp-3671",
         "RATING": 7,
         "COMMENTS": "0"
     },
@@ -1330,7 +1330,7 @@
     },
     {
         "TITLE": "SCP-5764 - 這裏什麼都沒有。",
-        "FULLNAME": "/scp-5764",
+        "FULLNAME": "scp-5764",
         "RATING": 8,
         "COMMENTS": "2"
     },
@@ -2157,8 +2157,8 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 掰掰，謝謝你們的魚啦",
-        "FULLNAME": "7000contestnico",
+        "TITLE": "SCP-7726 - 掰掰，謝謝你們的魚啦",
+        "FULLNAME": "scp-7726",
         "RATING": 10,
         "COMMENTS": "1"
     },
@@ -2181,15 +2181,15 @@
         "COMMENTS": "4"
     },
     {
-        "TITLE": "SCP-7000 - 浮游生物!!!",
-        "FULLNAME": "7000contestellie3",
+        "TITLE": "SCP-7300 - 浮游生物!!!",
+        "FULLNAME": "scp-7300",
         "RATING": 5,
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 不幸峽谷",
-        "FULLNAME": "7000contestgrigorikarpinvivarium",
-        "RATING": 4,
+        "TITLE": "SCP-7007 - 不幸峽谷",
+        "FULLNAME": "/scp-7007",
+        "RATING": 5,
         "COMMENTS": "0"
     },
     {
@@ -2202,6 +2202,12 @@
         "TITLE": "SCP-877-KO - ██藏██體",
         "FULLNAME": "scp-877-ko",
         "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-159 - 完美封鎖",
+        "FULLNAME": "/scp-159",
+        "RATING": 1,
         "COMMENTS": "0"
     }
 ]

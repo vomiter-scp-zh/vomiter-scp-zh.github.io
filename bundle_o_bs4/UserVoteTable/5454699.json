@@ -13,7 +13,7 @@
     },
     {
         "TITLE": "SCP-ZH-127",
-        "FULLNAME": "/scp-zh-127",
+        "FULLNAME": "scp-zh-127",
         "RATING": 12,
         "COMMENTS": "0"
     },
@@ -85,13 +85,13 @@
     },
     {
         "TITLE": "站點綠化提案",
-        "FULLNAME": "/greening",
+        "FULLNAME": "greening",
         "RATING": 18,
         "COMMENTS": "1"
     },
     {
         "TITLE": "首級",
-        "FULLNAME": "/head",
+        "FULLNAME": "head",
         "RATING": 16,
         "COMMENTS": "1"
     },
@@ -103,7 +103,7 @@
     },
     {
         "TITLE": "SCP-ZH-006",
-        "FULLNAME": "/scp-zh-006",
+        "FULLNAME": "scp-zh-006",
         "RATING": 11,
         "COMMENTS": "6"
     },
@@ -127,7 +127,7 @@
     },
     {
         "TITLE": "洗標：橘2147-Dr. Bales的實驗衣",
-        "FULLNAME": "/orange-2147",
+        "FULLNAME": "orange-2147",
         "RATING": 11,
         "COMMENTS": "0"
     },
@@ -253,7 +253,7 @@
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-81",
-        "FULLNAME": "/site-zh-81",
+        "FULLNAME": "site-zh-81",
         "RATING": 19,
         "COMMENTS": "0"
     },
@@ -265,25 +265,25 @@
     },
     {
         "TITLE": "Valentine的Logo頁",
-        "FULLNAME": "/valentine-logo",
+        "FULLNAME": "valentine-logo",
         "RATING": 22,
         "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-120",
-        "FULLNAME": "/scp-zh-120",
+        "FULLNAME": "scp-zh-120",
         "RATING": 39,
         "COMMENTS": "4"
     },
     {
         "TITLE": "山姆的ZH分部角色紀錄本",
-        "FULLNAME": "/doodles-from-sam",
+        "FULLNAME": "doodles-from-sam",
         "RATING": 25,
         "COMMENTS": "3"
     },
     {
         "TITLE": "核裂擠兌中心頁",
-        "FULLNAME": "/operation-nucleon-bank",
+        "FULLNAME": "operation-nucleon-bank",
         "RATING": 16,
         "COMMENTS": "0"
     },
@@ -955,7 +955,7 @@
     },
     {
         "TITLE": "航海學中心頁",
-        "FULLNAME": "/navigation",
+        "FULLNAME": "navigation",
         "RATING": 21,
         "COMMENTS": "0"
     },
@@ -1015,7 +1015,7 @@
     },
     {
         "TITLE": "廁所裡的致命模因",
-        "FULLNAME": "/the-bottle-in-restroom",
+        "FULLNAME": "the-bottle-in-restroom",
         "RATING": 32,
         "COMMENTS": "7"
     },
@@ -1213,7 +1213,7 @@
     },
     {
         "TITLE": "SCP-ZH-526",
-        "FULLNAME": "/scp-zh-526",
+        "FULLNAME": "scp-zh-526",
         "RATING": 19,
         "COMMENTS": "1"
     },
@@ -1261,7 +1261,7 @@
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "/scp-zh-2005-ex",
+        "FULLNAME": "scp-zh-2005-ex",
         "RATING": 56,
         "COMMENTS": "1"
     },
@@ -1429,7 +1429,7 @@
     },
     {
         "TITLE": "SCP-ZH-00l",
-        "FULLNAME": "/scp-zh-00l",
+        "FULLNAME": "scp-zh-00l",
         "RATING": 13,
         "COMMENTS": "5"
     },
@@ -2773,13 +2773,13 @@
     },
     {
         "TITLE": "汽水的藝作頁2",
-        "FULLNAME": "/lillianasoda-artworks2",
+        "FULLNAME": "lillianasoda-artworks2",
         "RATING": 14,
         "COMMENTS": "0"
     },
     {
         "TITLE": "2022夏季競賽 主題《X》",
-        "FULLNAME": "/summer-contest-2022",
+        "FULLNAME": "summer-contest-2022",
         "RATING": 11,
         "COMMENTS": "0"
     },
@@ -2797,13 +2797,13 @@
     },
     {
         "TITLE": "SCP-ZH-188 - 五月廿五，忌殺生",
-        "FULLNAME": "/scp-zh-188",
+        "FULLNAME": "scp-zh-188",
         "RATING": 12,
         "COMMENTS": "0"
     },
     {
         "TITLE": "背面的電話亭",
-        "FULLNAME": "/phone-booth5",
+        "FULLNAME": "phone-booth5",
         "RATING": 17,
         "COMMENTS": "0"
     }

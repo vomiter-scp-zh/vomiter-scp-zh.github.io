@@ -34,8 +34,8 @@
     },
     {
         "TITLE": "dado的中心頁是的",
-        "FULLNAME": "dado-hub",
-        "RATING": 12,
+        "FULLNAME": "/dado-hub",
+        "RATING": 13,
         "COMMENTS": "1"
     },
     {
@@ -562,7 +562,7 @@
     },
     {
         "TITLE": "維安設施檔案：Site-418",
-        "FULLNAME": "/secure-facility-dossier-site-418",
+        "FULLNAME": "secure-facility-dossier-site-418",
         "RATING": 8,
         "COMMENTS": "0"
     },
@@ -586,7 +586,7 @@
     },
     {
         "TITLE": "時空站點Site-01（RCT-Δt中心）",
-        "FULLNAME": "/welcome-to-delta-t",
+        "FULLNAME": "welcome-to-delta-t",
         "RATING": 8,
         "COMMENTS": "0"
     },

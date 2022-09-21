@@ -694,7 +694,7 @@
     },
     {
         "TITLE": "SCP-455 - 貨船",
-        "FULLNAME": "/scp-455",
+        "FULLNAME": "scp-455",
         "RATING": 3,
         "COMMENTS": "1"
     },
@@ -1018,7 +1018,7 @@
     },
     {
         "TITLE": "SCP-2639 - 電玩遊戲暴力",
-        "FULLNAME": "/scp-2639",
+        "FULLNAME": "scp-2639",
         "RATING": 9,
         "COMMENTS": "0"
     },
@@ -1336,7 +1336,7 @@
     },
     {
         "TITLE": "SCP-320 - 希格斯場加速度操縱子",
-        "FULLNAME": "/scp-320",
+        "FULLNAME": "scp-320",
         "RATING": 3,
         "COMMENTS": "0"
     },
@@ -1354,13 +1354,13 @@
     },
     {
         "TITLE": "SCP-4012 - 勝過指引千萬群星不再舞動",
-        "FULLNAME": "/scp-4012",
+        "FULLNAME": "scp-4012",
         "RATING": 7,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-2419 - 狂笑者",
-        "FULLNAME": "/scp-2419",
+        "FULLNAME": "scp-2419",
         "RATING": 13,
         "COMMENTS": "0"
     },
@@ -1810,7 +1810,7 @@
     },
     {
         "TITLE": "SCP-539 - 完全分心盤",
-        "FULLNAME": "/scp-539",
+        "FULLNAME": "scp-539",
         "RATING": 3,
         "COMMENTS": "0"
     },
@@ -2020,14 +2020,14 @@
     },
     {
         "TITLE": "SCP-440 - 沙基生態",
-        "FULLNAME": "scp-440",
-        "RATING": 3,
+        "FULLNAME": "/scp-440",
+        "RATING": 4,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-333 - 交響曲中的城市",
-        "FULLNAME": "scp-333",
-        "RATING": 2,
+        "FULLNAME": "/scp-333",
+        "RATING": 3,
         "COMMENTS": "0"
     },
     {
@@ -2067,8 +2067,8 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 經商蜥蜴",
-        "FULLNAME": "7000contestzyn",
+        "TITLE": "SCP-7333 - 經商蜥蜴",
+        "FULLNAME": "scp-7333",
         "RATING": 10,
         "COMMENTS": "1"
     },
@@ -2079,8 +2079,8 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - Cimmerian博士差點死掉",
-        "FULLNAME": "7000doctor-cimmerian",
+        "TITLE": "SCP-7700 - Cimmerian博士差點死掉",
+        "FULLNAME": "scp-7700",
         "RATING": 4,
         "COMMENTS": "1"
     },
@@ -2091,8 +2091,8 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 來星星間找我",
-        "FULLNAME": "7000contestfabledtiefling",
+        "TITLE": "SCP-7999 - 來星星間找我",
+        "FULLNAME": "scp-7999",
         "RATING": 13,
         "COMMENTS": "1"
     },
@@ -2122,8 +2122,26 @@
     },
     {
         "TITLE": "SCP-7000 - 輸家",
-        "FULLNAME": "7000contestharryblank",
-        "RATING": 11,
+        "FULLNAME": "/scp-7000",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-067-EX",
+        "FULLNAME": "/scp-067-ex",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-039-長鼻工程師",
+        "FULLNAME": "/scp-039",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7025 - 你將死於公車",
+        "FULLNAME": "/scp-7025",
+        "RATING": 6,
         "COMMENTS": "0"
     }
 ]

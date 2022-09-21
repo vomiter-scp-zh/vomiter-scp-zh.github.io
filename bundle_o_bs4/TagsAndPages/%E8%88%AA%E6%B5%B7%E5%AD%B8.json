@@ -40,7 +40,7 @@
     },
     {
         "TITLE": "航海學中心頁",
-        "FULLNAME": "/navigation",
+        "FULLNAME": "navigation",
         "RATING": 21,
         "COMMENTS": "0"
     },
@@ -154,7 +154,7 @@
     },
     {
         "TITLE": "完美犯X的入職",
-        "FULLNAME": "/interview-of-x",
+        "FULLNAME": "interview-of-x",
         "RATING": 11,
         "COMMENTS": "0"
     }

@@ -283,8 +283,8 @@
     },
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
-        "FULLNAME": "scp-6820",
-        "RATING": 12,
+        "FULLNAME": "/scp-6820",
+        "RATING": 13,
         "COMMENTS": "1"
     },
     {
@@ -307,8 +307,8 @@
     },
     {
         "TITLE": "後屎維基",
-        "FULLNAME": "the-bathrooms-wiki",
-        "RATING": 7,
+        "FULLNAME": "/the-bathrooms-wiki",
+        "RATING": 8,
         "COMMENTS": "0"
     },
     {
@@ -324,8 +324,8 @@
         "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-7000 - 掰掰，謝謝你們的魚啦",
-        "FULLNAME": "7000contestnico",
+        "TITLE": "SCP-7726 - 掰掰，謝謝你們的魚啦",
+        "FULLNAME": "scp-7726",
         "RATING": 10,
         "COMMENTS": "1"
     },
@@ -339,6 +339,24 @@
         "TITLE": "SCP-5400-J - 超級宇宙無敵機密文章",
         "FULLNAME": "scp-5400-j",
         "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7777 - 懼七症",
+        "FULLNAME": "/scp-7777",
+        "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7000 - 輸家",
+        "FULLNAME": "/scp-7000",
+        "RATING": 17,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "光反應",
+        "FULLNAME": "/light-dependent-reactions",
+        "RATING": 3,
         "COMMENTS": "0"
     }
 ]

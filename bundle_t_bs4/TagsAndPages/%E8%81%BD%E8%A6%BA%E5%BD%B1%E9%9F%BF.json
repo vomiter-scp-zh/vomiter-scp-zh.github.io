@@ -251,7 +251,7 @@
     {
         "TITLE": "SCP-5763 - 我夢見了我是一隻蝴蝶",
         "FULLNAME": "scp-5763",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0"
     },
     {
@@ -264,6 +264,18 @@
         "TITLE": "SCP-513 - 牛鈴",
         "FULLNAME": "scp-513",
         "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Daveyoufool的提案",
+        "FULLNAME": "/daveyoufool-proposal",
+        "RATING": 1,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6765 - 惡魔奧吉爾與瑪利德拉格血之王座",
+        "FULLNAME": "/scp-6765",
+        "RATING": 8,
         "COMMENTS": "0"
     }
 ]

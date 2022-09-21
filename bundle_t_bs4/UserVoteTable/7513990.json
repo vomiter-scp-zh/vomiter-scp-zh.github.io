@@ -7,14 +7,14 @@
     },
     {
         "TITLE": "SCP-____-j",
-        "FULLNAME": "scp-j",
-        "RATING": 22,
+        "FULLNAME": "/scp-j",
+        "RATING": 25,
         "COMMENTS": "2"
     },
     {
         "TITLE": "●●|●●●●●|●●|●",
-        "FULLNAME": "scp-2521",
-        "RATING": 21,
+        "FULLNAME": "/scp-2521",
+        "RATING": 22,
         "COMMENTS": "3"
     },
     {
@@ -342,8 +342,8 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 愛爾蘭人的幸運",
-        "FULLNAME": "7000contesttstaffor",
+        "TITLE": "SCP-7500 - 愛爾蘭人的幸運",
+        "FULLNAME": "scp-7500",
         "RATING": 5,
         "COMMENTS": "0"
     },
@@ -355,7 +355,7 @@
     },
     {
         "TITLE": "SCP-320 - 希格斯場加速度操縱子",
-        "FULLNAME": "/scp-320",
+        "FULLNAME": "scp-320",
         "RATING": 3,
         "COMMENTS": "0"
     }

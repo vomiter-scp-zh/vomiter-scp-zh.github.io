@@ -250,7 +250,7 @@
     },
     {
         "TITLE": "SCP-6008 - 諾亞方舟",
-        "FULLNAME": "/scp-6008",
+        "FULLNAME": "scp-6008",
         "RATING": 5,
         "COMMENTS": "0"
     },
@@ -270,6 +270,12 @@
         "TITLE": "SCP-570 - 超自然汽水大戰",
         "FULLNAME": "scp-570",
         "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "女孩之夜：大吵大鬧",
+        "FULLNAME": "/raising-hell",
+        "RATING": 4,
         "COMMENTS": "0"
     }
 ]

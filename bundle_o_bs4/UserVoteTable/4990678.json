@@ -55,7 +55,7 @@
     },
     {
         "TITLE": "SCP-ZH-017",
-        "FULLNAME": "/scp-zh-017",
+        "FULLNAME": "scp-zh-017",
         "RATING": 19,
         "COMMENTS": "1"
     },
@@ -211,7 +211,7 @@
     },
     {
         "TITLE": "SCP-ZH-127",
-        "FULLNAME": "/scp-zh-127",
+        "FULLNAME": "scp-zh-127",
         "RATING": 12,
         "COMMENTS": "0"
     },
@@ -475,7 +475,7 @@
     },
     {
         "TITLE": "站點綠化提案",
-        "FULLNAME": "/greening",
+        "FULLNAME": "greening",
         "RATING": 18,
         "COMMENTS": "1"
     },
@@ -493,7 +493,7 @@
     },
     {
         "TITLE": "首級",
-        "FULLNAME": "/head",
+        "FULLNAME": "head",
         "RATING": 16,
         "COMMENTS": "1"
     },
@@ -679,7 +679,7 @@
     },
     {
         "TITLE": "認識段落寫作",
-        "FULLNAME": "/understanding-paragraph",
+        "FULLNAME": "understanding-paragraph",
         "RATING": 11,
         "COMMENTS": "0"
     },
@@ -925,13 +925,13 @@
     },
     {
         "TITLE": "Ctrl Z博士的SCP記錄：SCP-2295 有著拼布心臟的熊",
-        "FULLNAME": "/bangyen2295",
+        "FULLNAME": "bangyen2295",
         "RATING": 11,
         "COMMENTS": "0"
     },
     {
         "TITLE": "Ctrl Z博士的SCP記錄：SCP-093 紅海物件",
-        "FULLNAME": "/bangyen093",
+        "FULLNAME": "bangyen093",
         "RATING": 8,
         "COMMENTS": "0"
     },
@@ -1093,7 +1093,7 @@
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-81",
-        "FULLNAME": "/site-zh-81",
+        "FULLNAME": "site-zh-81",
         "RATING": 19,
         "COMMENTS": "0"
     },
@@ -1129,13 +1129,13 @@
     },
     {
         "TITLE": "山姆的ZH分部角色紀錄本",
-        "FULLNAME": "/doodles-from-sam",
+        "FULLNAME": "doodles-from-sam",
         "RATING": 25,
         "COMMENTS": "3"
     },
     {
         "TITLE": "核裂擠兌中心頁",
-        "FULLNAME": "/operation-nucleon-bank",
+        "FULLNAME": "operation-nucleon-bank",
         "RATING": 16,
         "COMMENTS": "0"
     },
@@ -1171,7 +1171,7 @@
     },
     {
         "TITLE": "SCP-ZH-025",
-        "FULLNAME": "/scp-zh-025",
+        "FULLNAME": "scp-zh-025",
         "RATING": 16,
         "COMMENTS": "2"
     },
@@ -1663,7 +1663,7 @@
     },
     {
         "TITLE": "賓主盡歡",
-        "FULLNAME": "/fools-wine",
+        "FULLNAME": "fools-wine",
         "RATING": 11,
         "COMMENTS": "1"
     },
@@ -2431,7 +2431,7 @@
     },
     {
         "TITLE": "航海學中心頁",
-        "FULLNAME": "/navigation",
+        "FULLNAME": "navigation",
         "RATING": 21,
         "COMMENTS": "0"
     },
@@ -2545,7 +2545,7 @@
     },
     {
         "TITLE": "廁所裡的致命模因",
-        "FULLNAME": "/the-bottle-in-restroom",
+        "FULLNAME": "the-bottle-in-restroom",
         "RATING": 32,
         "COMMENTS": "7"
     },
@@ -3001,7 +3001,7 @@
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "/scp-zh-2005-ex",
+        "FULLNAME": "scp-zh-2005-ex",
         "RATING": 56,
         "COMMENTS": "1"
     },
@@ -3181,7 +3181,7 @@
     },
     {
         "TITLE": "SCP-ZH-496 - 安全極限距離",
-        "FULLNAME": "/scp-zh-496",
+        "FULLNAME": "scp-zh-496",
         "RATING": 29,
         "COMMENTS": "7"
     },
@@ -3247,7 +3247,7 @@
     },
     {
         "TITLE": "SCP-ZH-00l",
-        "FULLNAME": "/scp-zh-00l",
+        "FULLNAME": "scp-zh-00l",
         "RATING": 13,
         "COMMENTS": "5"
     },
@@ -4681,7 +4681,7 @@
     },
     {
         "TITLE": "SCP-ZH-382 - 犧牲品",
-        "FULLNAME": "/scp-zh-382",
+        "FULLNAME": "scp-zh-382",
         "RATING": 13,
         "COMMENTS": "0"
     },
@@ -4705,7 +4705,7 @@
     },
     {
         "TITLE": "刺蝟筆記本：ZH分部人物合輯（ZH-12站篇）",
-        "FULLNAME": "/hedgehog-note-site-zh-12",
+        "FULLNAME": "hedgehog-note-site-zh-12",
         "RATING": 14,
         "COMMENTS": "0"
     },
@@ -4747,7 +4747,7 @@
     },
     {
         "TITLE": "安塔雷斯運動宣導",
-        "FULLNAME": "/propaganda-of-the-antares-movement",
+        "FULLNAME": "propaganda-of-the-antares-movement",
         "RATING": 11,
         "COMMENTS": "0"
     },
@@ -4843,7 +4843,7 @@
     },
     {
         "TITLE": "汽水的藝作頁2",
-        "FULLNAME": "/lillianasoda-artworks2",
+        "FULLNAME": "lillianasoda-artworks2",
         "RATING": 14,
         "COMMENTS": "0"
     },
@@ -4873,7 +4873,7 @@
     },
     {
         "TITLE": "SCP-ZH-403 - 禁臠與終止符",
-        "FULLNAME": "/scp-zh-403",
+        "FULLNAME": "scp-zh-403",
         "RATING": 16,
         "COMMENTS": "4"
     },
@@ -4897,7 +4897,7 @@
     },
     {
         "TITLE": "SCP-ZH-279 - 愛的形狀",
-        "FULLNAME": "/scp-zh-279",
+        "FULLNAME": "scp-zh-279",
         "RATING": 20,
         "COMMENTS": "1"
     },
@@ -4915,7 +4915,7 @@
     },
     {
         "TITLE": "SCP-ZH-184 - 奔車朽索",
-        "FULLNAME": "/scp-zh-184",
+        "FULLNAME": "scp-zh-184",
         "RATING": 22,
         "COMMENTS": "1"
     },
@@ -4933,7 +4933,7 @@
     },
     {
         "TITLE": "SCP-ZH-941 - 你才沒有在奮鬥",
-        "FULLNAME": "/scp-zh-941",
+        "FULLNAME": "scp-zh-941",
         "RATING": 1,
         "COMMENTS": "8"
     },
@@ -4951,85 +4951,85 @@
     },
     {
         "TITLE": "摯寐溶解",
-        "FULLNAME": "/dreams-always-dissolve",
+        "FULLNAME": "dreams-always-dissolve",
         "RATING": 17,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-134 - 群",
-        "FULLNAME": "/scp-zh-134",
+        "FULLNAME": "scp-zh-134",
         "RATING": 13,
         "COMMENTS": "0"
     },
     {
         "TITLE": "D-10201",
-        "FULLNAME": "/d-10201",
+        "FULLNAME": "d-10201",
         "RATING": 15,
         "COMMENTS": "1"
     },
     {
         "TITLE": "無序夢囈",
-        "FULLNAME": "/disorder-flapdoodle",
+        "FULLNAME": "disorder-flapdoodle",
         "RATING": 18,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-188 - 五月廿五，忌殺生",
-        "FULLNAME": "/scp-zh-188",
+        "FULLNAME": "scp-zh-188",
         "RATING": 12,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-750 - 神說：「要有油。」就有了油。",
-        "FULLNAME": "/scp-zh-750",
+        "FULLNAME": "scp-zh-750",
         "RATING": 29,
         "COMMENTS": "4"
     },
     {
         "TITLE": "SCP-ZH-441 - 只能以這種方式錯誤地惦記被碾壓而亡的屍體",
-        "FULLNAME": "/scp-zh-441",
+        "FULLNAME": "scp-zh-441",
         "RATING": 16,
         "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-029 - 矇眼射飛鏢",
-        "FULLNAME": "/scp-zh-029",
+        "FULLNAME": "scp-zh-029",
         "RATING": 10,
         "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-912-J - 大忌",
-        "FULLNAME": "/scp-zh-912-j",
+        "FULLNAME": "scp-zh-912-j",
         "RATING": 18,
         "COMMENTS": "6"
     },
     {
         "TITLE": "背面的電話亭",
-        "FULLNAME": "/phone-booth5",
+        "FULLNAME": "phone-booth5",
         "RATING": 17,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-180 - 安 妮 :-)",
-        "FULLNAME": "/scp-zh-180",
+        "FULLNAME": "scp-zh-180",
         "RATING": 20,
         "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-ZH-583-J - 哪來的猴子.SCiP",
-        "FULLNAME": "/scp-zh-583-j",
+        "FULLNAME": "scp-zh-583-j",
         "RATING": 13,
         "COMMENTS": "4"
     },
     {
         "TITLE": "摯寐迸裂",
-        "FULLNAME": "/dreams-always-explode",
+        "FULLNAME": "dreams-always-explode",
         "RATING": 13,
         "COMMENTS": "0"
     },
     {
         "TITLE": "Negative",
-        "FULLNAME": "/negative",
+        "FULLNAME": "negative",
         "RATING": 3,
         "COMMENTS": "0"
     }

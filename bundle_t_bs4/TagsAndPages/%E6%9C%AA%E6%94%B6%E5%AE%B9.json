@@ -10,14 +10,14 @@
     },
     {
         "TITLE": "●●|●●●●●|●●|●",
-        "FULLNAME": "scp-2521",
-        "RATING": 21,
+        "FULLNAME": "/scp-2521",
+        "RATING": 22,
         "COMMENTS": "3"
     },
     {
         "TITLE": "SCP-2165 - 不可寬恕",
-        "FULLNAME": "scp-2165",
-        "RATING": 2,
+        "FULLNAME": "/scp-2165",
+        "RATING": 3,
         "COMMENTS": "0"
     },
     {
@@ -172,7 +172,7 @@
     },
     {
         "TITLE": "SCP-1440 - 來歷不明的老人",
-        "FULLNAME": "/scp-1440",
+        "FULLNAME": "scp-1440",
         "RATING": 8,
         "COMMENTS": "1"
     },
@@ -256,7 +256,7 @@
     },
     {
         "TITLE": "SCP-3005 - 一道死去的光",
-        "FULLNAME": "/scp-3005",
+        "FULLNAME": "scp-3005",
         "RATING": 6,
         "COMMENTS": "0"
     },
@@ -388,8 +388,8 @@
     },
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
-        "FULLNAME": "scp-6820",
-        "RATING": 12,
+        "FULLNAME": "/scp-6820",
+        "RATING": 13,
         "COMMENTS": "1"
     },
     {
@@ -406,8 +406,8 @@
     },
     {
         "TITLE": "SCP-396 - 然後突然地，椅子",
-        "FULLNAME": "scp-396",
-        "RATING": 3,
+        "FULLNAME": "/scp-396",
+        "RATING": 4,
         "COMMENTS": "1"
     },
     {
@@ -423,9 +423,15 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 地獄子彈",
-        "FULLNAME": "7000contestweryllium",
+        "TITLE": "SCP-7290 - 地獄子彈",
+        "FULLNAME": "scp-7290",
         "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7025 - 你將死於公車",
+        "FULLNAME": "/scp-7025",
+        "RATING": 6,
         "COMMENTS": "0"
     }
 ]

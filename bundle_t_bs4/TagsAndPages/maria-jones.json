@@ -31,5 +31,11 @@
         "FULLNAME": "maria-jones-this-is-your-life",
         "RATING": 3,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7001 - Site-19",
+        "FULLNAME": "/scp-7001",
+        "RATING": 6,
+        "COMMENTS": "0"
     }
 ]

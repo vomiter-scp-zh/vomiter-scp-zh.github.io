@@ -16,7 +16,7 @@
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "/scp-zh-2005-ex",
+        "FULLNAME": "scp-zh-2005-ex",
         "RATING": 56,
         "COMMENTS": "1"
     },
@@ -46,7 +46,7 @@
     },
     {
         "TITLE": "SCP-ZH-403 - 禁臠與終止符",
-        "FULLNAME": "/scp-zh-403",
+        "FULLNAME": "scp-zh-403",
         "RATING": 16,
         "COMMENTS": "4"
     }

@@ -37,7 +37,7 @@
     },
     {
         "TITLE": "安保設施檔案：Site-ZH-50",
-        "FULLNAME": "/site-zh-50",
+        "FULLNAME": "site-zh-50",
         "RATING": 16,
         "COMMENTS": "1"
     },
@@ -55,13 +55,13 @@
     },
     {
         "TITLE": "山姆的ZH分部角色紀錄本",
-        "FULLNAME": "/doodles-from-sam",
+        "FULLNAME": "doodles-from-sam",
         "RATING": 25,
         "COMMENTS": "3"
     },
     {
         "TITLE": "核裂擠兌中心頁",
-        "FULLNAME": "/operation-nucleon-bank",
+        "FULLNAME": "operation-nucleon-bank",
         "RATING": 16,
         "COMMENTS": "0"
     },
@@ -301,7 +301,7 @@
     },
     {
         "TITLE": "SCP-ZH-00l",
-        "FULLNAME": "/scp-zh-00l",
+        "FULLNAME": "scp-zh-00l",
         "RATING": 13,
         "COMMENTS": "5"
     },

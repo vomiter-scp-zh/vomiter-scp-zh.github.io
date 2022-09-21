@@ -61,5 +61,17 @@
         "FULLNAME": "adult:the-things-dr-bright-is-not-allowed-to-do-at-the-found",
         "RATING": 11,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7001 - Site-19",
+        "FULLNAME": "/scp-7001",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "全新把戲（或：青年文化殺了我的狗",
+        "FULLNAME": "/new-tricks",
+        "RATING": 2,
+        "COMMENTS": "0"
     }
 ]

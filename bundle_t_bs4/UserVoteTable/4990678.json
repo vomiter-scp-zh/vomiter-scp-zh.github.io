@@ -133,8 +133,8 @@
     },
     {
         "TITLE": "SCP-____-j",
-        "FULLNAME": "scp-j",
-        "RATING": 22,
+        "FULLNAME": "/scp-j",
+        "RATING": 25,
         "COMMENTS": "2"
     },
     {
@@ -193,8 +193,8 @@
     },
     {
         "TITLE": "●●|●●●●●|●●|●",
-        "FULLNAME": "scp-2521",
-        "RATING": 21,
+        "FULLNAME": "/scp-2521",
+        "RATING": 22,
         "COMMENTS": "3"
     },
     {
@@ -217,8 +217,8 @@
     },
     {
         "TITLE": "SCP-2165 - 不可寬恕",
-        "FULLNAME": "scp-2165",
-        "RATING": 2,
+        "FULLNAME": "/scp-2165",
+        "RATING": 3,
         "COMMENTS": "0"
     },
     {
@@ -319,8 +319,8 @@
     },
     {
         "TITLE": "dado的中心頁是的",
-        "FULLNAME": "dado-hub",
-        "RATING": 12,
+        "FULLNAME": "/dado-hub",
+        "RATING": 13,
         "COMMENTS": "1"
     },
     {
@@ -1321,7 +1321,7 @@
     },
     {
         "TITLE": "我的頭著火了，我很（不）好",
-        "FULLNAME": "/my-head-is-on-fire-and-im-not-ok",
+        "FULLNAME": "my-head-is-on-fire-and-im-not-ok",
         "RATING": 9,
         "COMMENTS": "1"
     },
@@ -1417,7 +1417,7 @@
     },
     {
         "TITLE": "SCP-500 - 萬靈藥",
-        "FULLNAME": "/scp-500",
+        "FULLNAME": "scp-500",
         "RATING": 12,
         "COMMENTS": "0"
     },
@@ -1873,7 +1873,7 @@
     },
     {
         "TITLE": "SCP-105 - 「Iris」",
-        "FULLNAME": "/scp-105",
+        "FULLNAME": "scp-105",
         "RATING": 6,
         "COMMENTS": "1"
     },
@@ -2671,7 +2671,7 @@
     },
     {
         "TITLE": "SCP-3671 - 一個憤怒的麥片盒",
-        "FULLNAME": "/scp-3671",
+        "FULLNAME": "scp-3671",
         "RATING": 7,
         "COMMENTS": "0"
     },
@@ -3085,7 +3085,7 @@
     },
     {
         "TITLE": "SCP-455 - 貨船",
-        "FULLNAME": "/scp-455",
+        "FULLNAME": "scp-455",
         "RATING": 3,
         "COMMENTS": "1"
     },
@@ -3265,7 +3265,7 @@
     },
     {
         "TITLE": "Glass博士的心理評估",
-        "FULLNAME": "/routine-psychological-evaluations-by-dr-glass",
+        "FULLNAME": "routine-psychological-evaluations-by-dr-glass",
         "RATING": 13,
         "COMMENTS": "0"
     },
@@ -4243,7 +4243,7 @@
     },
     {
         "TITLE": "SCP-1440 - 來歷不明的老人",
-        "FULLNAME": "/scp-1440",
+        "FULLNAME": "scp-1440",
         "RATING": 8,
         "COMMENTS": "1"
     },
@@ -4417,7 +4417,7 @@
     },
     {
         "TITLE": "SCP-5618 - 「死路」",
-        "FULLNAME": "/scp-5618",
+        "FULLNAME": "scp-5618",
         "RATING": 13,
         "COMMENTS": "3"
     },
@@ -4777,7 +4777,7 @@
     },
     {
         "TITLE": "SCP-2639 - 電玩遊戲暴力",
-        "FULLNAME": "/scp-2639",
+        "FULLNAME": "scp-2639",
         "RATING": 9,
         "COMMENTS": "0"
     },
@@ -4879,7 +4879,7 @@
     },
     {
         "TITLE": "SCP-4182 - Site-5不存在",
-        "FULLNAME": "/scp-4182",
+        "FULLNAME": "scp-4182",
         "RATING": 14,
         "COMMENTS": "0"
     },
@@ -5221,7 +5221,7 @@
     },
     {
         "TITLE": "SCP-5764 - 這裏什麼都沒有。",
-        "FULLNAME": "/scp-5764",
+        "FULLNAME": "scp-5764",
         "RATING": 8,
         "COMMENTS": "2"
     },
@@ -5437,7 +5437,7 @@
     },
     {
         "TITLE": "SCP-3005 - 一道死去的光",
-        "FULLNAME": "/scp-3005",
+        "FULLNAME": "scp-3005",
         "RATING": 6,
         "COMMENTS": "0"
     },
@@ -6073,7 +6073,7 @@
     },
     {
         "TITLE": "SCP-6008 - 諾亞方舟",
-        "FULLNAME": "/scp-6008",
+        "FULLNAME": "scp-6008",
         "RATING": 5,
         "COMMENTS": "0"
     },
@@ -6157,7 +6157,7 @@
     },
     {
         "TITLE": "SCP-320 - 希格斯場加速度操縱子",
-        "FULLNAME": "/scp-320",
+        "FULLNAME": "scp-320",
         "RATING": 3,
         "COMMENTS": "0"
     },
@@ -6193,7 +6193,7 @@
     },
     {
         "TITLE": "SCP-2419 - 狂笑者",
-        "FULLNAME": "/scp-2419",
+        "FULLNAME": "scp-2419",
         "RATING": 13,
         "COMMENTS": "0"
     },
@@ -6979,7 +6979,7 @@
     },
     {
         "TITLE": "SCP-539 - 完全分心盤",
-        "FULLNAME": "/scp-539",
+        "FULLNAME": "scp-539",
         "RATING": 3,
         "COMMENTS": "0"
     },
@@ -7291,14 +7291,14 @@
     },
     {
         "TITLE": "SCP-333 - 交響曲中的城市",
-        "FULLNAME": "scp-333",
-        "RATING": 2,
+        "FULLNAME": "/scp-333",
+        "RATING": 3,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-396 - 然後突然地，椅子",
-        "FULLNAME": "scp-396",
-        "RATING": 3,
+        "FULLNAME": "/scp-396",
+        "RATING": 4,
         "COMMENTS": "1"
     },
     {
@@ -7338,8 +7338,8 @@
         "COMMENTS": "2"
     },
     {
-        "TITLE": "SCP-7000 - 來星星間找我",
-        "FULLNAME": "7000contestfabledtiefling",
+        "TITLE": "SCP-7999 - 來星星間找我",
+        "FULLNAME": "scp-7999",
         "RATING": 13,
         "COMMENTS": "1"
     },
@@ -7350,8 +7350,8 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 船。",
-        "FULLNAME": "7000contestaismlt",
+        "TITLE": "SCP-7200 - 船。",
+        "FULLNAME": "scp-7200",
         "RATING": 7,
         "COMMENTS": "0"
     },
@@ -7359,6 +7359,60 @@
         "TITLE": "SCP-877-KO - ██藏██體",
         "FULLNAME": "scp-877-ko",
         "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "吞噬者",
+        "FULLNAME": "/the-devourer",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "「夏之王」",
+        "FULLNAME": "/amesukisate",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "那名少女",
+        "FULLNAME": "/amesukisateno2",
+        "RATING": 1,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "全新把戲（或：青年文化殺了我的狗",
+        "FULLNAME": "/new-tricks",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6765 - 惡魔奧吉爾與瑪利德拉格血之王座",
+        "FULLNAME": "/scp-6765",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7025 - 你將死於公車",
+        "FULLNAME": "/scp-7025",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "女孩之夜：開始換裝",
+        "FULLNAME": "/dressing-up",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "女孩之夜：喝個爛醉",
+        "FULLNAME": "/getting-drunk",
+        "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "女孩之夜：大吵大鬧",
+        "FULLNAME": "/raising-hell",
+        "RATING": 4,
         "COMMENTS": "0"
     }
 ]

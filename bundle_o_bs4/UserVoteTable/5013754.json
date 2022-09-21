@@ -49,7 +49,7 @@
     },
     {
         "TITLE": "SCP-ZH-017",
-        "FULLNAME": "/scp-zh-017",
+        "FULLNAME": "scp-zh-017",
         "RATING": 19,
         "COMMENTS": "1"
     },
@@ -223,7 +223,7 @@
     },
     {
         "TITLE": "SCP-ZH-127",
-        "FULLNAME": "/scp-zh-127",
+        "FULLNAME": "scp-zh-127",
         "RATING": 12,
         "COMMENTS": "0"
     },
@@ -451,7 +451,7 @@
     },
     {
         "TITLE": "站點綠化提案",
-        "FULLNAME": "/greening",
+        "FULLNAME": "greening",
         "RATING": 18,
         "COMMENTS": "1"
     },
@@ -469,7 +469,7 @@
     },
     {
         "TITLE": "首級",
-        "FULLNAME": "/head",
+        "FULLNAME": "head",
         "RATING": 16,
         "COMMENTS": "1"
     },
@@ -847,7 +847,7 @@
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-81",
-        "FULLNAME": "/site-zh-81",
+        "FULLNAME": "site-zh-81",
         "RATING": 19,
         "COMMENTS": "0"
     },
@@ -865,7 +865,7 @@
     },
     {
         "TITLE": "Valentine的Logo頁",
-        "FULLNAME": "/valentine-logo",
+        "FULLNAME": "valentine-logo",
         "RATING": 22,
         "COMMENTS": "1"
     },
@@ -901,7 +901,7 @@
     },
     {
         "TITLE": "SCP-ZH-120",
-        "FULLNAME": "/scp-zh-120",
+        "FULLNAME": "scp-zh-120",
         "RATING": 39,
         "COMMENTS": "4"
     },
@@ -931,13 +931,13 @@
     },
     {
         "TITLE": "山姆的ZH分部角色紀錄本",
-        "FULLNAME": "/doodles-from-sam",
+        "FULLNAME": "doodles-from-sam",
         "RATING": 25,
         "COMMENTS": "3"
     },
     {
         "TITLE": "核裂擠兌中心頁",
-        "FULLNAME": "/operation-nucleon-bank",
+        "FULLNAME": "operation-nucleon-bank",
         "RATING": 16,
         "COMMENTS": "0"
     },
@@ -1171,7 +1171,7 @@
     },
     {
         "TITLE": "觀測者並未存在",
-        "FULLNAME": "/tina-uni1",
+        "FULLNAME": "tina-uni1",
         "RATING": 10,
         "COMMENTS": "0"
     },
@@ -1873,7 +1873,7 @@
     },
     {
         "TITLE": "航海學中心頁",
-        "FULLNAME": "/navigation",
+        "FULLNAME": "navigation",
         "RATING": 21,
         "COMMENTS": "0"
     },
@@ -1993,7 +1993,7 @@
     },
     {
         "TITLE": "廁所裡的致命模因",
-        "FULLNAME": "/the-bottle-in-restroom",
+        "FULLNAME": "the-bottle-in-restroom",
         "RATING": 32,
         "COMMENTS": "7"
     },
@@ -2437,7 +2437,7 @@
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "/scp-zh-2005-ex",
+        "FULLNAME": "scp-zh-2005-ex",
         "RATING": 56,
         "COMMENTS": "1"
     },
@@ -3343,7 +3343,7 @@
     },
     {
         "TITLE": "刺蝟筆記本：ZH分部人物合輯（ZH-12站篇）",
-        "FULLNAME": "/hedgehog-note-site-zh-12",
+        "FULLNAME": "hedgehog-note-site-zh-12",
         "RATING": 14,
         "COMMENTS": "0"
     },
@@ -3445,7 +3445,7 @@
     },
     {
         "TITLE": "汽水的藝作頁2",
-        "FULLNAME": "/lillianasoda-artworks2",
+        "FULLNAME": "lillianasoda-artworks2",
         "RATING": 14,
         "COMMENTS": "0"
     },
@@ -3457,7 +3457,7 @@
     },
     {
         "TITLE": "2022夏季競賽 主題《X》",
-        "FULLNAME": "/summer-contest-2022",
+        "FULLNAME": "summer-contest-2022",
         "RATING": 11,
         "COMMENTS": "0"
     },
@@ -3469,7 +3469,7 @@
     },
     {
         "TITLE": "SCP-ZH-403 - 禁臠與終止符",
-        "FULLNAME": "/scp-zh-403",
+        "FULLNAME": "scp-zh-403",
         "RATING": 16,
         "COMMENTS": "4"
     },
@@ -3493,7 +3493,7 @@
     },
     {
         "TITLE": "完美犯X的入職",
-        "FULLNAME": "/interview-of-x",
+        "FULLNAME": "interview-of-x",
         "RATING": 11,
         "COMMENTS": "0"
     },
@@ -3505,7 +3505,7 @@
     },
     {
         "TITLE": "SCP-ZH-279 - 愛的形狀",
-        "FULLNAME": "/scp-zh-279",
+        "FULLNAME": "scp-zh-279",
         "RATING": 20,
         "COMMENTS": "1"
     },
@@ -3523,7 +3523,7 @@
     },
     {
         "TITLE": "SCP-ZH-184 - 奔車朽索",
-        "FULLNAME": "/scp-zh-184",
+        "FULLNAME": "scp-zh-184",
         "RATING": 22,
         "COMMENTS": "1"
     },
@@ -3553,7 +3553,7 @@
     },
     {
         "TITLE": "摯寐溶解",
-        "FULLNAME": "/dreams-always-dissolve",
+        "FULLNAME": "dreams-always-dissolve",
         "RATING": 17,
         "COMMENTS": "0"
     },
@@ -3565,67 +3565,67 @@
     },
     {
         "TITLE": "D-10201",
-        "FULLNAME": "/d-10201",
+        "FULLNAME": "d-10201",
         "RATING": 15,
         "COMMENTS": "1"
     },
     {
         "TITLE": "無序夢囈",
-        "FULLNAME": "/disorder-flapdoodle",
+        "FULLNAME": "disorder-flapdoodle",
         "RATING": 18,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-750 - 神說：「要有油。」就有了油。",
-        "FULLNAME": "/scp-zh-750",
+        "FULLNAME": "scp-zh-750",
         "RATING": 29,
         "COMMENTS": "4"
     },
     {
         "TITLE": "SCP-ZH-441 - 只能以這種方式錯誤地惦記被碾壓而亡的屍體",
-        "FULLNAME": "/scp-zh-441",
+        "FULLNAME": "scp-zh-441",
         "RATING": 16,
         "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-029 - 矇眼射飛鏢",
-        "FULLNAME": "/scp-zh-029",
+        "FULLNAME": "scp-zh-029",
         "RATING": 10,
         "COMMENTS": "1"
     },
     {
         "TITLE": "木易百載：福爾摩沙近代史展",
-        "FULLNAME": "/mu-yi-exhibition-2022",
+        "FULLNAME": "mu-yi-exhibition-2022",
         "RATING": 13,
         "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-912-J - 大忌",
-        "FULLNAME": "/scp-zh-912-j",
+        "FULLNAME": "scp-zh-912-j",
         "RATING": 18,
         "COMMENTS": "6"
     },
     {
         "TITLE": "背面的電話亭",
-        "FULLNAME": "/phone-booth5",
+        "FULLNAME": "phone-booth5",
         "RATING": 17,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-173 - BLACK-GROUND: The Prologue",
-        "FULLNAME": "/scp-zh-173",
+        "FULLNAME": "scp-zh-173",
         "RATING": 15,
         "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-ZH-824 - 最沉重的繪圖筆",
-        "FULLNAME": "/scp-zh-824",
+        "FULLNAME": "scp-zh-824",
         "RATING": 11,
         "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-180 - 安 妮 :-)",
-        "FULLNAME": "/scp-zh-180",
+        "FULLNAME": "scp-zh-180",
         "RATING": 20,
         "COMMENTS": "2"
     }

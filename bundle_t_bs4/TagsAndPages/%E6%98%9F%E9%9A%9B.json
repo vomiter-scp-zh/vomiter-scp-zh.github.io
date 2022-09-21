@@ -88,13 +88,13 @@
     },
     {
         "TITLE": "SCP-6008 - 諾亞方舟",
-        "FULLNAME": "/scp-6008",
+        "FULLNAME": "scp-6008",
         "RATING": 5,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-4012 - 勝過指引千萬群星不再舞動",
-        "FULLNAME": "/scp-4012",
+        "FULLNAME": "scp-4012",
         "RATING": 7,
         "COMMENTS": "0"
     },
@@ -129,21 +129,27 @@
         "COMMENTS": "5"
     },
     {
-        "TITLE": "SCP-7000 - 來星星間找我",
-        "FULLNAME": "7000contestfabledtiefling",
+        "TITLE": "SCP-7999 - 來星星間找我",
+        "FULLNAME": "scp-7999",
         "RATING": 13,
         "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-7000 - 不凋",
-        "FULLNAME": "7000contestdysadune",
-        "RATING": 10,
+        "TITLE": "SCP-7070 - 不凋",
+        "FULLNAME": "/scp-7070",
+        "RATING": 11,
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 殊途同歸羅馬",
-        "FULLNAME": "7000contestesoterica",
-        "RATING": 8,
+        "TITLE": "SCP-7009 - 殊途同歸羅馬",
+        "FULLNAME": "/scp-7009",
+        "RATING": 9,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4335 - 坩堝中的宇宙",
+        "FULLNAME": "/scp-4335",
+        "RATING": 3,
+        "COMMENTS": "2"
     }
 ]

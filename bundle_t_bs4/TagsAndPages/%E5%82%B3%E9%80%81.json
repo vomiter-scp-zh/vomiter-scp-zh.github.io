@@ -4,8 +4,8 @@
     },
     {
         "TITLE": "●●|●●●●●|●●|●",
-        "FULLNAME": "scp-2521",
-        "RATING": 21,
+        "FULLNAME": "/scp-2521",
+        "RATING": 22,
         "COMMENTS": "3"
     },
     {
@@ -274,8 +274,8 @@
     },
     {
         "TITLE": "SCP-396 - 然後突然地，椅子",
-        "FULLNAME": "scp-396",
-        "RATING": 3,
+        "FULLNAME": "/scp-396",
+        "RATING": 4,
         "COMMENTS": "1"
     },
     {
@@ -300,6 +300,12 @@
         "TITLE": "SCP-6902 - 遺失的行李",
         "FULLNAME": "scp-6902",
         "RATING": 4,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7001 - Site-19",
+        "FULLNAME": "/scp-7001",
+        "RATING": 6,
         "COMMENTS": "0"
     }
 ]

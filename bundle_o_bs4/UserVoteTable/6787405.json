@@ -31,7 +31,7 @@
     },
     {
         "TITLE": "廁所裡的致命模因",
-        "FULLNAME": "/the-bottle-in-restroom",
+        "FULLNAME": "the-bottle-in-restroom",
         "RATING": 32,
         "COMMENTS": "7"
     },
@@ -175,7 +175,7 @@
     },
     {
         "TITLE": "SCP-ZH-00l",
-        "FULLNAME": "/scp-zh-00l",
+        "FULLNAME": "scp-zh-00l",
         "RATING": 13,
         "COMMENTS": "5"
     },
@@ -289,7 +289,7 @@
     },
     {
         "TITLE": "SCP-ZH-173 - BLACK-GROUND: The Prologue",
-        "FULLNAME": "/scp-zh-173",
+        "FULLNAME": "scp-zh-173",
         "RATING": 15,
         "COMMENTS": "2"
     }

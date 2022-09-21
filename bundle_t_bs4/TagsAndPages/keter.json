@@ -10,8 +10,8 @@
     },
     {
         "TITLE": "●●|●●●●●|●●|●",
-        "FULLNAME": "scp-2521",
-        "RATING": 21,
+        "FULLNAME": "/scp-2521",
+        "RATING": 22,
         "COMMENTS": "3"
     },
     {
@@ -388,7 +388,7 @@
     },
     {
         "TITLE": "SCP-666½-J",
-        "FULLNAME": "/scp-666-and-a-half-j",
+        "FULLNAME": "scp-666-and-a-half-j",
         "RATING": 9,
         "COMMENTS": "1"
     },
@@ -442,7 +442,7 @@
     },
     {
         "TITLE": "SCP-1440 - 來歷不明的老人",
-        "FULLNAME": "/scp-1440",
+        "FULLNAME": "scp-1440",
         "RATING": 8,
         "COMMENTS": "1"
     },
@@ -544,7 +544,7 @@
     },
     {
         "TITLE": "SCP-4182 - Site-5不存在",
-        "FULLNAME": "/scp-4182",
+        "FULLNAME": "scp-4182",
         "RATING": 14,
         "COMMENTS": "0"
     },
@@ -838,7 +838,7 @@
     },
     {
         "TITLE": "SCP-090 - 末數方塊",
-        "FULLNAME": "/scp-090",
+        "FULLNAME": "scp-090",
         "RATING": -1,
         "COMMENTS": "0"
     },
@@ -934,8 +934,8 @@
     },
     {
         "TITLE": "SCP-396 - 然後突然地，椅子",
-        "FULLNAME": "scp-396",
-        "RATING": 3,
+        "FULLNAME": "/scp-396",
+        "RATING": 4,
         "COMMENTS": "1"
     },
     {
@@ -963,20 +963,20 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 陰間維加斯講座：莊家會輸",
-        "FULLNAME": "7000contestrounderhouse",
+        "TITLE": "SCP-7666 - 陰間維加斯講座：莊家會輸",
+        "FULLNAME": "scp-7666",
         "RATING": 11,
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 懼七症",
-        "FULLNAME": "7000contestyossipossi",
-        "RATING": 7,
+        "TITLE": "SCP-7777 - 懼七症",
+        "FULLNAME": "/scp-7777",
+        "RATING": 9,
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 地獄子彈",
-        "FULLNAME": "7000contestweryllium",
+        "TITLE": "SCP-7290 - 地獄子彈",
+        "FULLNAME": "scp-7290",
         "RATING": 3,
         "COMMENTS": "0"
     },
@@ -987,15 +987,39 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 船。",
-        "FULLNAME": "7000contestaismlt",
+        "TITLE": "SCP-7200 - 船。",
+        "FULLNAME": "scp-7200",
         "RATING": 7,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-5417 - 歡迎回家",
-        "FULLNAME": "scp-5417",
-        "RATING": 4,
+        "FULLNAME": "/scp-5417",
+        "RATING": 5,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-7001 - Site-19",
+        "FULLNAME": "/scp-7001",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4176 - 稅金",
+        "FULLNAME": "/scp-4176",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4335 - 坩堝中的宇宙",
+        "FULLNAME": "/scp-4335",
+        "RATING": 3,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-6765 - 惡魔奧吉爾與瑪利德拉格血之王座",
+        "FULLNAME": "/scp-6765",
+        "RATING": 8,
+        "COMMENTS": "0"
     }
 ]

@@ -130,7 +130,7 @@
     },
     {
         "TITLE": "SCP-105 - 「Iris」",
-        "FULLNAME": "/scp-105",
+        "FULLNAME": "scp-105",
         "RATING": 6,
         "COMMENTS": "1"
     },
@@ -370,7 +370,7 @@
     },
     {
         "TITLE": "SCP-6008 - 諾亞方舟",
-        "FULLNAME": "/scp-6008",
+        "FULLNAME": "scp-6008",
         "RATING": 5,
         "COMMENTS": "0"
     },
@@ -538,8 +538,8 @@
     },
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
-        "FULLNAME": "scp-6820",
-        "RATING": 12,
+        "FULLNAME": "/scp-6820",
+        "RATING": 13,
         "COMMENTS": "1"
     },
     {
@@ -550,8 +550,8 @@
     },
     {
         "TITLE": "後屎維基",
-        "FULLNAME": "the-bathrooms-wiki",
-        "RATING": 7,
+        "FULLNAME": "/the-bathrooms-wiki",
+        "RATING": 8,
         "COMMENTS": "0"
     },
     {
@@ -567,21 +567,21 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 視實是十三",
-        "FULLNAME": "7000contestfishwaltz",
-        "RATING": 10,
+        "TITLE": "SCP-7013 - 視實是十三",
+        "FULLNAME": "/scp-7013",
+        "RATING": 12,
         "COMMENTS": "2"
     },
     {
-        "TITLE": "SCP-7000 - 不凋",
-        "FULLNAME": "7000contestdysadune",
-        "RATING": 10,
+        "TITLE": "SCP-7070 - 不凋",
+        "FULLNAME": "/scp-7070",
+        "RATING": 11,
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-7000 - 不幸峽谷",
-        "FULLNAME": "7000contestgrigorikarpinvivarium",
-        "RATING": 4,
+        "TITLE": "SCP-7007 - 不幸峽谷",
+        "FULLNAME": "/scp-7007",
+        "RATING": 5,
         "COMMENTS": "0"
     },
     {
@@ -591,15 +591,27 @@
         "COMMENTS": "2"
     },
     {
-        "TITLE": "SCP-7000 - 船。",
-        "FULLNAME": "7000contestaismlt",
+        "TITLE": "SCP-7200 - 船。",
+        "FULLNAME": "scp-7200",
         "RATING": 7,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-6938 - Alex Thorley得到一匹禮物馬",
-        "FULLNAME": "scp-6938",
-        "RATING": 4,
+        "FULLNAME": "/scp-6938",
+        "RATING": 5,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4176 - 稅金",
+        "FULLNAME": "/scp-4176",
+        "RATING": 2,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "全新把戲（或：青年文化殺了我的狗",
+        "FULLNAME": "/new-tricks",
+        "RATING": 2,
         "COMMENTS": "0"
     }
 ]

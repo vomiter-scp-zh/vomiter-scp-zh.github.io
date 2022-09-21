@@ -61,7 +61,7 @@
     },
     {
         "TITLE": "SCP-ZH-120",
-        "FULLNAME": "/scp-zh-120",
+        "FULLNAME": "scp-zh-120",
         "RATING": 39,
         "COMMENTS": "4"
     },
@@ -361,7 +361,7 @@
     },
     {
         "TITLE": "SCP-ZH-526",
-        "FULLNAME": "/scp-zh-526",
+        "FULLNAME": "scp-zh-526",
         "RATING": 19,
         "COMMENTS": "1"
     },
@@ -415,7 +415,7 @@
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "/scp-zh-2005-ex",
+        "FULLNAME": "scp-zh-2005-ex",
         "RATING": 56,
         "COMMENTS": "1"
     },
@@ -577,7 +577,7 @@
     },
     {
         "TITLE": "SCP-ZH-00l",
-        "FULLNAME": "/scp-zh-00l",
+        "FULLNAME": "scp-zh-00l",
         "RATING": 13,
         "COMMENTS": "5"
     },
@@ -883,7 +883,7 @@
     },
     {
         "TITLE": "不可亂碰管線",
-        "FULLNAME": "/ching-sus",
+        "FULLNAME": "ching-sus",
         "RATING": 8,
         "COMMENTS": "0"
     }

@@ -97,7 +97,7 @@
     },
     {
         "TITLE": "站點綠化提案",
-        "FULLNAME": "/greening",
+        "FULLNAME": "greening",
         "RATING": 18,
         "COMMENTS": "1"
     },
@@ -115,7 +115,7 @@
     },
     {
         "TITLE": "首級",
-        "FULLNAME": "/head",
+        "FULLNAME": "head",
         "RATING": 16,
         "COMMENTS": "1"
     },
@@ -271,7 +271,7 @@
     },
     {
         "TITLE": "認識段落寫作",
-        "FULLNAME": "/understanding-paragraph",
+        "FULLNAME": "understanding-paragraph",
         "RATING": 11,
         "COMMENTS": "0"
     },
@@ -385,7 +385,7 @@
     },
     {
         "TITLE": "安保設施檔案：Site-ZH-50",
-        "FULLNAME": "/site-zh-50",
+        "FULLNAME": "site-zh-50",
         "RATING": 16,
         "COMMENTS": "1"
     },
@@ -445,7 +445,7 @@
     },
     {
         "TITLE": "Valentine的Logo頁",
-        "FULLNAME": "/valentine-logo",
+        "FULLNAME": "valentine-logo",
         "RATING": 22,
         "COMMENTS": "1"
     },
@@ -463,7 +463,7 @@
     },
     {
         "TITLE": "SCP-ZH-120",
-        "FULLNAME": "/scp-zh-120",
+        "FULLNAME": "scp-zh-120",
         "RATING": 39,
         "COMMENTS": "4"
     },
@@ -487,13 +487,13 @@
     },
     {
         "TITLE": "山姆的ZH分部角色紀錄本",
-        "FULLNAME": "/doodles-from-sam",
+        "FULLNAME": "doodles-from-sam",
         "RATING": 25,
         "COMMENTS": "3"
     },
     {
         "TITLE": "核裂擠兌中心頁",
-        "FULLNAME": "/operation-nucleon-bank",
+        "FULLNAME": "operation-nucleon-bank",
         "RATING": 16,
         "COMMENTS": "0"
     },
@@ -907,7 +907,7 @@
     },
     {
         "TITLE": "觀測者並未存在",
-        "FULLNAME": "/tina-uni1",
+        "FULLNAME": "tina-uni1",
         "RATING": 10,
         "COMMENTS": "0"
     },
@@ -1063,7 +1063,7 @@
     },
     {
         "TITLE": "賓主盡歡",
-        "FULLNAME": "/fools-wine",
+        "FULLNAME": "fools-wine",
         "RATING": 11,
         "COMMENTS": "1"
     },
@@ -1567,7 +1567,7 @@
     },
     {
         "TITLE": "航海學中心頁",
-        "FULLNAME": "/navigation",
+        "FULLNAME": "navigation",
         "RATING": 21,
         "COMMENTS": "0"
     },
@@ -1645,7 +1645,7 @@
     },
     {
         "TITLE": "廁所裡的致命模因",
-        "FULLNAME": "/the-bottle-in-restroom",
+        "FULLNAME": "the-bottle-in-restroom",
         "RATING": 32,
         "COMMENTS": "7"
     },
@@ -1735,7 +1735,7 @@
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "/scp-zh-2005-ex",
+        "FULLNAME": "scp-zh-2005-ex",
         "RATING": 56,
         "COMMENTS": "1"
     },
@@ -1789,7 +1789,7 @@
     },
     {
         "TITLE": "SCP-ZH-496 - 安全極限距離",
-        "FULLNAME": "/scp-zh-496",
+        "FULLNAME": "scp-zh-496",
         "RATING": 29,
         "COMMENTS": "7"
     },

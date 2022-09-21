@@ -37,5 +37,11 @@
         "FULLNAME": "scp-970-ex",
         "RATING": 7,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-067-EX",
+        "FULLNAME": "/scp-067-ex",
+        "RATING": 3,
+        "COMMENTS": "0"
     }
 ]

@@ -489,8 +489,8 @@
         "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-7000 - 經商蜥蜴",
-        "FULLNAME": "7000contestzyn",
+        "TITLE": "SCP-7333 - 經商蜥蜴",
+        "FULLNAME": "scp-7333",
         "RATING": 10,
         "COMMENTS": "1"
     },
@@ -498,6 +498,12 @@
         "TITLE": "SCP-6238 - Scronkle",
         "FULLNAME": "scp-6238",
         "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-039-長鼻工程師",
+        "FULLNAME": "/scp-039",
+        "RATING": 2,
         "COMMENTS": "0"
     }
 ]

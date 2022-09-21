@@ -40,7 +40,7 @@
     },
     {
         "TITLE": "SCP-2639 - 電玩遊戲暴力",
-        "FULLNAME": "/scp-2639",
+        "FULLNAME": "scp-2639",
         "RATING": 9,
         "COMMENTS": "0"
     },
@@ -87,9 +87,15 @@
         "COMMENTS": "2"
     },
     {
-        "TITLE": "SCP-7000 - 不幸峽谷",
-        "FULLNAME": "7000contestgrigorikarpinvivarium",
-        "RATING": 4,
+        "TITLE": "SCP-7007 - 不幸峽谷",
+        "FULLNAME": "/scp-7007",
+        "RATING": 5,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-4335 - 坩堝中的宇宙",
+        "FULLNAME": "/scp-4335",
+        "RATING": 3,
+        "COMMENTS": "2"
     }
 ]

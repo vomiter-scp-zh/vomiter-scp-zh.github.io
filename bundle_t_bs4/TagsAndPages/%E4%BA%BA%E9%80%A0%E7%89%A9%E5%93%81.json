@@ -292,7 +292,7 @@
     },
     {
         "TITLE": "SCP-090 - 末數方塊",
-        "FULLNAME": "/scp-090",
+        "FULLNAME": "scp-090",
         "RATING": -1,
         "COMMENTS": "0"
     },
@@ -310,7 +310,7 @@
     },
     {
         "TITLE": "SCP-539 - 完全分心盤",
-        "FULLNAME": "/scp-539",
+        "FULLNAME": "scp-539",
         "RATING": 3,
         "COMMENTS": "0"
     },
@@ -360,6 +360,18 @@
         "TITLE": "SCP-6433 - 你想要的一切時光",
         "FULLNAME": "scp-6433",
         "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7008 - 一朵塑膠玫瑰",
+        "FULLNAME": "/scp-7008",
+        "RATING": 6,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6765 - 惡魔奧吉爾與瑪利德拉格血之王座",
+        "FULLNAME": "/scp-6765",
+        "RATING": 8,
         "COMMENTS": "0"
     }
 ]

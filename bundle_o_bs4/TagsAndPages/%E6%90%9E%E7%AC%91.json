@@ -88,7 +88,7 @@
     },
     {
         "TITLE": "SCP-ZH-00l",
-        "FULLNAME": "/scp-zh-00l",
+        "FULLNAME": "scp-zh-00l",
         "RATING": 13,
         "COMMENTS": "5"
     },
@@ -142,13 +142,13 @@
     },
     {
         "TITLE": "SCP-ZH-912-J - 大忌",
-        "FULLNAME": "/scp-zh-912-j",
+        "FULLNAME": "scp-zh-912-j",
         "RATING": 18,
         "COMMENTS": "6"
     },
     {
         "TITLE": "SCP-ZH-583-J - 哪來的猴子.SCiP",
-        "FULLNAME": "/scp-zh-583-j",
+        "FULLNAME": "scp-zh-583-j",
         "RATING": 13,
         "COMMENTS": "4"
     }

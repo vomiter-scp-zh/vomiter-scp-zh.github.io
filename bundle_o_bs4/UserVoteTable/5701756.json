@@ -109,7 +109,7 @@
     },
     {
         "TITLE": "廁所裡的致命模因",
-        "FULLNAME": "/the-bottle-in-restroom",
+        "FULLNAME": "the-bottle-in-restroom",
         "RATING": 32,
         "COMMENTS": "7"
     },
@@ -181,7 +181,7 @@
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "/scp-zh-2005-ex",
+        "FULLNAME": "scp-zh-2005-ex",
         "RATING": 56,
         "COMMENTS": "1"
     },
@@ -1111,7 +1111,7 @@
     },
     {
         "TITLE": "你知道嗎",
-        "FULLNAME": "/do-you-know-i-love-you",
+        "FULLNAME": "do-you-know-i-love-you",
         "RATING": 14,
         "COMMENTS": "1"
     },
@@ -1189,7 +1189,7 @@
     },
     {
         "TITLE": "SCP-ZH-403 - 禁臠與終止符",
-        "FULLNAME": "/scp-zh-403",
+        "FULLNAME": "scp-zh-403",
         "RATING": 16,
         "COMMENTS": "4"
     },
@@ -1225,7 +1225,7 @@
     },
     {
         "TITLE": "完美犯X的入職",
-        "FULLNAME": "/interview-of-x",
+        "FULLNAME": "interview-of-x",
         "RATING": 11,
         "COMMENTS": "0"
     },
@@ -1237,7 +1237,7 @@
     },
     {
         "TITLE": "SCP-ZH-279 - 愛的形狀",
-        "FULLNAME": "/scp-zh-279",
+        "FULLNAME": "scp-zh-279",
         "RATING": 20,
         "COMMENTS": "1"
     },
@@ -1261,7 +1261,7 @@
     },
     {
         "TITLE": "SCP-ZH-184 - 奔車朽索",
-        "FULLNAME": "/scp-zh-184",
+        "FULLNAME": "scp-zh-184",
         "RATING": 22,
         "COMMENTS": "1"
     },
@@ -1279,85 +1279,85 @@
     },
     {
         "TITLE": "摯寐溶解",
-        "FULLNAME": "/dreams-always-dissolve",
+        "FULLNAME": "dreams-always-dissolve",
         "RATING": 17,
         "COMMENTS": "0"
     },
     {
         "TITLE": "特殊配備「九轉盔」實驗紀聞：赤嵐四向",
-        "FULLNAME": "/helms-of-nine-iterations-in-red-storm-quadrants",
+        "FULLNAME": "helms-of-nine-iterations-in-red-storm-quadrants",
         "RATING": 10,
         "COMMENTS": "1"
     },
     {
         "TITLE": "不可亂碰管線",
-        "FULLNAME": "/ching-sus",
+        "FULLNAME": "ching-sus",
         "RATING": 8,
         "COMMENTS": "0"
     },
     {
         "TITLE": "D-10201",
-        "FULLNAME": "/d-10201",
+        "FULLNAME": "d-10201",
         "RATING": 15,
         "COMMENTS": "1"
     },
     {
         "TITLE": "無序夢囈",
-        "FULLNAME": "/disorder-flapdoodle",
+        "FULLNAME": "disorder-flapdoodle",
         "RATING": 18,
         "COMMENTS": "0"
     },
     {
         "TITLE": "我的贖罪",
-        "FULLNAME": "/my-atonement",
+        "FULLNAME": "my-atonement",
         "RATING": 8,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-188 - 五月廿五，忌殺生",
-        "FULLNAME": "/scp-zh-188",
+        "FULLNAME": "scp-zh-188",
         "RATING": 12,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-447 - 舶來品般的鐘錶",
-        "FULLNAME": "/scp-zh-447",
+        "FULLNAME": "scp-zh-447",
         "RATING": 8,
         "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-ZH-750 - 神說：「要有油。」就有了油。",
-        "FULLNAME": "/scp-zh-750",
+        "FULLNAME": "scp-zh-750",
         "RATING": 29,
         "COMMENTS": "4"
     },
     {
         "TITLE": "寐側擴張",
-        "FULLNAME": "/extension-of-dream",
+        "FULLNAME": "extension-of-dream",
         "RATING": 11,
         "COMMENTS": "2"
     },
     {
         "TITLE": "愛已淌血不止",
-        "FULLNAME": "/zh-love-is-bleeding",
+        "FULLNAME": "zh-love-is-bleeding",
         "RATING": 6,
         "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-912-J - 大忌",
-        "FULLNAME": "/scp-zh-912-j",
+        "FULLNAME": "scp-zh-912-j",
         "RATING": 18,
         "COMMENTS": "6"
     },
     {
         "TITLE": "背面的電話亭",
-        "FULLNAME": "/phone-booth5",
+        "FULLNAME": "phone-booth5",
         "RATING": 17,
         "COMMENTS": "0"
     },
     {
         "TITLE": "摯寐迸裂",
-        "FULLNAME": "/dreams-always-explode",
+        "FULLNAME": "dreams-always-explode",
         "RATING": 13,
         "COMMENTS": "0"
     }

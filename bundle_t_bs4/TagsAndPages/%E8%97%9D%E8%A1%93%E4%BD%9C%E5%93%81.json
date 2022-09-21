@@ -706,7 +706,7 @@
     },
     {
         "TITLE": "貓咪的擬人化圖輯",
-        "FULLNAME": "/fushimi3",
+        "FULLNAME": "fushimi3",
         "RATING": 6,
         "COMMENTS": "1"
     },
@@ -906,6 +906,24 @@
         "TITLE": "1998年的交通藝術創作",
         "FULLNAME": "1998-transport-illust",
         "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "吞噬者",
+        "FULLNAME": "/the-devourer",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "「夏之王」",
+        "FULLNAME": "/amesukisate",
+        "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "那名少女",
+        "FULLNAME": "/amesukisateno2",
+        "RATING": 1,
         "COMMENTS": "0"
     }
 ]

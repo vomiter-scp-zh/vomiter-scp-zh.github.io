@@ -61,7 +61,7 @@
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "/scp-zh-2005-ex",
+        "FULLNAME": "scp-zh-2005-ex",
         "RATING": 56,
         "COMMENTS": "1"
     },
@@ -229,13 +229,13 @@
     },
     {
         "TITLE": "2022夏季競賽 主題《X》",
-        "FULLNAME": "/summer-contest-2022",
+        "FULLNAME": "summer-contest-2022",
         "RATING": 11,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-403 - 禁臠與終止符",
-        "FULLNAME": "/scp-zh-403",
+        "FULLNAME": "scp-zh-403",
         "RATING": 16,
         "COMMENTS": "4"
     },
@@ -253,7 +253,7 @@
     },
     {
         "TITLE": "SCP-ZH-279 - 愛的形狀",
-        "FULLNAME": "/scp-zh-279",
+        "FULLNAME": "scp-zh-279",
         "RATING": 20,
         "COMMENTS": "1"
     },
@@ -265,7 +265,7 @@
     },
     {
         "TITLE": "摯寐溶解",
-        "FULLNAME": "/dreams-always-dissolve",
+        "FULLNAME": "dreams-always-dissolve",
         "RATING": 17,
         "COMMENTS": "0"
     },
@@ -283,37 +283,37 @@
     },
     {
         "TITLE": "SCP-ZH-750 - 神說：「要有油。」就有了油。",
-        "FULLNAME": "/scp-zh-750",
+        "FULLNAME": "scp-zh-750",
         "RATING": 29,
         "COMMENTS": "4"
     },
     {
         "TITLE": "SCP-ZH-441 - 只能以這種方式錯誤地惦記被碾壓而亡的屍體",
-        "FULLNAME": "/scp-zh-441",
+        "FULLNAME": "scp-zh-441",
         "RATING": 16,
         "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-173 - BLACK-GROUND: The Prologue",
-        "FULLNAME": "/scp-zh-173",
+        "FULLNAME": "scp-zh-173",
         "RATING": 15,
         "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-ZH-180 - 安 妮 :-)",
-        "FULLNAME": "/scp-zh-180",
+        "FULLNAME": "scp-zh-180",
         "RATING": 20,
         "COMMENTS": "2"
     },
     {
         "TITLE": "廁所裡的致命模因",
-        "FULLNAME": "/the-bottle-in-restroom",
+        "FULLNAME": "the-bottle-in-restroom",
         "RATING": 32,
         "COMMENTS": "7"
     },
     {
         "TITLE": "SCP-ZH-496 - 安全極限距離",
-        "FULLNAME": "/scp-zh-496",
+        "FULLNAME": "scp-zh-496",
         "RATING": 29,
         "COMMENTS": "7"
     }

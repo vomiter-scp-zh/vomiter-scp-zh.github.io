@@ -16,7 +16,7 @@
     },
     {
         "TITLE": "SCP-ZH-006",
-        "FULLNAME": "/scp-zh-006",
+        "FULLNAME": "scp-zh-006",
         "RATING": 11,
         "COMMENTS": "6"
     },
@@ -148,7 +148,7 @@
     },
     {
         "TITLE": "SCP-ZH-750 - 神說：「要有油。」就有了油。",
-        "FULLNAME": "/scp-zh-750",
+        "FULLNAME": "scp-zh-750",
         "RATING": 29,
         "COMMENTS": "4"
     }

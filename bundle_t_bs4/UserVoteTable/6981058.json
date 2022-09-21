@@ -34,5 +34,11 @@
         "FULLNAME": "scp-7k-j",
         "RATING": 5,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-7001 - Site-19",
+        "FULLNAME": "/scp-7001",
+        "RATING": 6,
+        "COMMENTS": "0"
     }
 ]

@@ -22,7 +22,7 @@
     },
     {
         "TITLE": "SCP-ZH-017",
-        "FULLNAME": "/scp-zh-017",
+        "FULLNAME": "scp-zh-017",
         "RATING": 19,
         "COMMENTS": "1"
     },
@@ -130,7 +130,7 @@
     },
     {
         "TITLE": "SCP-ZH-127",
-        "FULLNAME": "/scp-zh-127",
+        "FULLNAME": "scp-zh-127",
         "RATING": 12,
         "COMMENTS": "0"
     },
@@ -232,7 +232,7 @@
     },
     {
         "TITLE": "SCP-ZH-006",
-        "FULLNAME": "/scp-zh-006",
+        "FULLNAME": "scp-zh-006",
         "RATING": 11,
         "COMMENTS": "6"
     },
@@ -346,7 +346,7 @@
     },
     {
         "TITLE": "SCP-ZH-120",
-        "FULLNAME": "/scp-zh-120",
+        "FULLNAME": "scp-zh-120",
         "RATING": 39,
         "COMMENTS": "4"
     },
@@ -634,7 +634,7 @@
     },
     {
         "TITLE": "SCP-ZH-526",
-        "FULLNAME": "/scp-zh-526",
+        "FULLNAME": "scp-zh-526",
         "RATING": 19,
         "COMMENTS": "1"
     },
@@ -1012,7 +1012,7 @@
     },
     {
         "TITLE": "SCP-ZH-382 - 犧牲品",
-        "FULLNAME": "/scp-zh-382",
+        "FULLNAME": "scp-zh-382",
         "RATING": 13,
         "COMMENTS": "0"
     },
@@ -1048,19 +1048,19 @@
     },
     {
         "TITLE": "SCP-ZH-941 - 你才沒有在奮鬥",
-        "FULLNAME": "/scp-zh-941",
+        "FULLNAME": "scp-zh-941",
         "RATING": 1,
         "COMMENTS": "8"
     },
     {
         "TITLE": "SCP-ZH-029 - 矇眼射飛鏢",
-        "FULLNAME": "/scp-zh-029",
+        "FULLNAME": "scp-zh-029",
         "RATING": 10,
         "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-820 - 忌妒麻仔台",
-        "FULLNAME": "/scp-zh-820",
+        "FULLNAME": "scp-zh-820",
         "RATING": 4,
         "COMMENTS": "1"
     }

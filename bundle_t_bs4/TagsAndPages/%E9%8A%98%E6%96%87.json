@@ -58,7 +58,7 @@
     },
     {
         "TITLE": "SCP-3671 - 一個憤怒的麥片盒",
-        "FULLNAME": "/scp-3671",
+        "FULLNAME": "scp-3671",
         "RATING": 7,
         "COMMENTS": "0"
     },
@@ -175,5 +175,35 @@
         "FULLNAME": "scp-449",
         "RATING": 2,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-2711 - 定海神針 如意金箍棒",
+        "FULLNAME": "scp-2711",
+        "RATING": 3,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-6765 - 惡魔奧吉爾與瑪利德拉格血之王座",
+        "FULLNAME": "/scp-6765",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-1021 - 出口",
+        "FULLNAME": "scp-1021",
+        "RATING": 0,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-073 - 「該隱」",
+        "FULLNAME": "scp-073",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-076 -「亞伯」",
+        "FULLNAME": "scp-076",
+        "RATING": 10,
+        "COMMENTS": "3"
     }
 ]
