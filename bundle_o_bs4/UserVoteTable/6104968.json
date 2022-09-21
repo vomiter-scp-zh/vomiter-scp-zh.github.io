@@ -295,8 +295,8 @@
     },
     {
         "TITLE": "莉亞",
-        "FULLNAME": "riariaria2",
-        "RATING": 15,
+        "FULLNAME": "/riariaria2",
+        "RATING": 16,
         "COMMENTS": "5"
     },
     {
@@ -349,8 +349,8 @@
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
-        "FULLNAME": "scp-zh-999",
-        "RATING": 54,
+        "FULLNAME": "/scp-zh-999",
+        "RATING": 56,
         "COMMENTS": "13"
     },
     {
@@ -367,8 +367,8 @@
     },
     {
         "TITLE": "SCP-ZH-517 - One More Time, One More Chance",
-        "FULLNAME": "scp-zh-517",
-        "RATING": 19,
+        "FULLNAME": "/scp-zh-517",
+        "RATING": 21,
         "COMMENTS": "1"
     },
     {
@@ -508,5 +508,11 @@
         "FULLNAME": "incident-zh-330-2",
         "RATING": 11,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-180 - 安 妮 :-)",
+        "FULLNAME": "/scp-zh-180",
+        "RATING": 20,
+        "COMMENTS": "2"
     }
 ]

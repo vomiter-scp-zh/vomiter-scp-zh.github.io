@@ -82,8 +82,8 @@
     },
     {
         "TITLE": "SCP-ZH-063 - 歡 笑 不 再",
-        "FULLNAME": "scp-zh-063",
-        "RATING": 17,
+        "FULLNAME": "/scp-zh-063",
+        "RATING": 18,
         "COMMENTS": "0"
     },
     {
@@ -106,8 +106,14 @@
     },
     {
         "TITLE": "SCP-ZH-382 - 犧牲品",
-        "FULLNAME": "scp-zh-382",
-        "RATING": 12,
+        "FULLNAME": "/scp-zh-382",
+        "RATING": 13,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-180 - 安 妮 :-)",
+        "FULLNAME": "/scp-zh-180",
+        "RATING": 20,
+        "COMMENTS": "2"
     }
 ]

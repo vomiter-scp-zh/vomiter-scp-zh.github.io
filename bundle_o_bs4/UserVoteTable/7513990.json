@@ -583,8 +583,8 @@
     },
     {
         "TITLE": "SCP-ZH-999-J - 工",
-        "FULLNAME": "scp-zh-999-j",
-        "RATING": 4,
+        "FULLNAME": "/scp-zh-999-j",
+        "RATING": 5,
         "COMMENTS": "18"
     },
     {
@@ -607,8 +607,8 @@
     },
     {
         "TITLE": "SCP-ZH-909 - 評分模塊",
-        "FULLNAME": "scp-zh-909",
-        "RATING": 7,
+        "FULLNAME": "/scp-zh-909",
+        "RATING": 8,
         "COMMENTS": "4"
     },
     {
@@ -625,8 +625,8 @@
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
-        "FULLNAME": "scp-zh-999",
-        "RATING": 54,
+        "FULLNAME": "/scp-zh-999",
+        "RATING": 56,
         "COMMENTS": "13"
     },
     {
@@ -655,8 +655,8 @@
     },
     {
         "TITLE": "SCP-ZH-063 - 歡 笑 不 再",
-        "FULLNAME": "scp-zh-063",
-        "RATING": 17,
+        "FULLNAME": "/scp-zh-063",
+        "RATING": 18,
         "COMMENTS": "0"
     },
     {
@@ -673,8 +673,8 @@
     },
     {
         "TITLE": "k1s10r0d的提案 - IMMOLARI",
-        "FULLNAME": "k1s10r0d-s-proposal",
-        "RATING": 34,
+        "FULLNAME": "/k1s10r0d-s-proposal",
+        "RATING": 35,
         "COMMENTS": "3"
     },
     {
@@ -685,8 +685,8 @@
     },
     {
         "TITLE": "SCP-ZH-517 - One More Time, One More Chance",
-        "FULLNAME": "scp-zh-517",
-        "RATING": 19,
+        "FULLNAME": "/scp-zh-517",
+        "RATING": 21,
         "COMMENTS": "1"
     },
     {
@@ -793,8 +793,8 @@
     },
     {
         "TITLE": "SCP-ZH-106-「逆模因」",
-        "FULLNAME": "scp-zh-106",
-        "RATING": 22,
+        "FULLNAME": "/scp-zh-106",
+        "RATING": 23,
         "COMMENTS": "4"
     },
     {
@@ -817,8 +817,8 @@
     },
     {
         "TITLE": "SCP-ZH-255 - 孤獨險",
-        "FULLNAME": "scp-zh-225",
-        "RATING": 18,
+        "FULLNAME": "/scp-zh-225",
+        "RATING": 19,
         "COMMENTS": "0"
     },
     {
@@ -847,14 +847,14 @@
     },
     {
         "TITLE": "SCP-ZH-182 - 引誘墜樓的耳語",
-        "FULLNAME": "scp-zh-182",
-        "RATING": 0,
+        "FULLNAME": "/scp-zh-182",
+        "RATING": 1,
         "COMMENTS": "6"
     },
     {
         "TITLE": "你知道嗎",
-        "FULLNAME": "do-you-know-i-love-you",
-        "RATING": 13,
+        "FULLNAME": "/do-you-know-i-love-you",
+        "RATING": 14,
         "COMMENTS": "1"
     },
     {
@@ -901,8 +901,8 @@
     },
     {
         "TITLE": "SCP-ZH-184 - 奔車朽索",
-        "FULLNAME": "scp-zh-184",
-        "RATING": 19,
+        "FULLNAME": "/scp-zh-184",
+        "RATING": 22,
         "COMMENTS": "1"
     },
     {
@@ -913,8 +913,8 @@
     },
     {
         "TITLE": "SCP-ZH-941 - 你才沒有在奮鬥",
-        "FULLNAME": "scp-zh-941",
-        "RATING": 2,
+        "FULLNAME": "/scp-zh-941",
+        "RATING": 1,
         "COMMENTS": "8"
     },
     {
@@ -928,5 +928,17 @@
         "FULLNAME": "scp-zh-987",
         "RATING": 11,
         "COMMENTS": "9"
+    },
+    {
+        "TITLE": "SCP-ZH-750 - 神說：「要有油。」就有了油。",
+        "FULLNAME": "/scp-zh-750",
+        "RATING": 29,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-180 - 安 妮 :-)",
+        "FULLNAME": "/scp-zh-180",
+        "RATING": 20,
+        "COMMENTS": "2"
     }
 ]

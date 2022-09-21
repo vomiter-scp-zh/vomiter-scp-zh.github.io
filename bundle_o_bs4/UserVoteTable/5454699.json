@@ -1687,8 +1687,8 @@
     },
     {
         "TITLE": "SCP-ZH-060-J - Re:在音竹宇宙重生的煩人美少女到底是甚麼東西呀?!",
-        "FULLNAME": "scp-zh-060-j",
-        "RATING": 20,
+        "FULLNAME": "/scp-zh-060-j",
+        "RATING": 21,
         "COMMENTS": "10"
     },
     {
@@ -1741,8 +1741,8 @@
     },
     {
         "TITLE": "SCP-ZH-128",
-        "FULLNAME": "scp-zh-128",
-        "RATING": 19,
+        "FULLNAME": "/scp-zh-128",
+        "RATING": 20,
         "COMMENTS": "3"
     },
     {
@@ -2047,8 +2047,8 @@
     },
     {
         "TITLE": "SCP-ZH-352 - 絕命六龜葡萄",
-        "FULLNAME": "scp-zh-352",
-        "RATING": 18,
+        "FULLNAME": "/scp-zh-352",
+        "RATING": 17,
         "COMMENTS": "4"
     },
     {
@@ -2077,8 +2077,8 @@
     },
     {
         "TITLE": "莉亞",
-        "FULLNAME": "riariaria2",
-        "RATING": 15,
+        "FULLNAME": "/riariaria2",
+        "RATING": 16,
         "COMMENTS": "5"
     },
     {
@@ -2245,8 +2245,8 @@
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
-        "FULLNAME": "scp-zh-999",
-        "RATING": 54,
+        "FULLNAME": "/scp-zh-999",
+        "RATING": 56,
         "COMMENTS": "13"
     },
     {
@@ -2287,8 +2287,8 @@
     },
     {
         "TITLE": "SCP-ZH-063 - 歡 笑 不 再",
-        "FULLNAME": "scp-zh-063",
-        "RATING": 17,
+        "FULLNAME": "/scp-zh-063",
+        "RATING": 18,
         "COMMENTS": "0"
     },
     {
@@ -2317,8 +2317,8 @@
     },
     {
         "TITLE": "k1s10r0d的提案 - IMMOLARI",
-        "FULLNAME": "k1s10r0d-s-proposal",
-        "RATING": 34,
+        "FULLNAME": "/k1s10r0d-s-proposal",
+        "RATING": 35,
         "COMMENTS": "3"
     },
     {
@@ -2341,8 +2341,8 @@
     },
     {
         "TITLE": "SCP-ZH-517 - One More Time, One More Chance",
-        "FULLNAME": "scp-zh-517",
-        "RATING": 19,
+        "FULLNAME": "/scp-zh-517",
+        "RATING": 21,
         "COMMENTS": "1"
     },
     {
@@ -2641,8 +2641,8 @@
     },
     {
         "TITLE": "假面騎士Theseus：一意孤行",
-        "FULLNAME": "kamen-rider-theseus-alone-in-the-dark",
-        "RATING": 12,
+        "FULLNAME": "/kamen-rider-theseus-alone-in-the-dark",
+        "RATING": 13,
         "COMMENTS": "1"
     },
     {
@@ -2773,14 +2773,14 @@
     },
     {
         "TITLE": "汽水的藝作頁2",
-        "FULLNAME": "lillianasoda-artworks2",
-        "RATING": 13,
+        "FULLNAME": "/lillianasoda-artworks2",
+        "RATING": 14,
         "COMMENTS": "0"
     },
     {
         "TITLE": "2022夏季競賽 主題《X》",
-        "FULLNAME": "summer-contest-2022",
-        "RATING": 10,
+        "FULLNAME": "/summer-contest-2022",
+        "RATING": 11,
         "COMMENTS": "0"
     },
     {
@@ -2793,6 +2793,18 @@
         "TITLE": "事件代號：核裂擠兌-指揮官Minger的視角",
         "FULLNAME": "operation-nucleon-bank-minger",
         "RATING": 9,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-188 - 五月廿五，忌殺生",
+        "FULLNAME": "/scp-zh-188",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "背面的電話亭",
+        "FULLNAME": "/phone-booth5",
+        "RATING": 17,
         "COMMENTS": "0"
     }
 ]

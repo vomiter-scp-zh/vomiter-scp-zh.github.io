@@ -634,8 +634,8 @@
     },
     {
         "TITLE": "SCP-ZH-352 - 絕命六龜葡萄",
-        "FULLNAME": "scp-zh-352",
-        "RATING": 18,
+        "FULLNAME": "/scp-zh-352",
+        "RATING": 17,
         "COMMENTS": "4"
     },
     {
@@ -754,8 +754,8 @@
     },
     {
         "TITLE": "SCP-ZH-255 - 孤獨險",
-        "FULLNAME": "scp-zh-225",
-        "RATING": 18,
+        "FULLNAME": "/scp-zh-225",
+        "RATING": 19,
         "COMMENTS": "0"
     },
     {
@@ -799,5 +799,35 @@
         "FULLNAME": "scp-zh-299",
         "RATING": 12,
         "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-134 - 群",
+        "FULLNAME": "/scp-zh-134",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-188 - 五月廿五，忌殺生",
+        "FULLNAME": "/scp-zh-188",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-447 - 舶來品般的鐘錶",
+        "FULLNAME": "/scp-zh-447",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-750 - 神說：「要有油。」就有了油。",
+        "FULLNAME": "/scp-zh-750",
+        "RATING": 29,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-824 - 最沉重的繪圖筆",
+        "FULLNAME": "/scp-zh-824",
+        "RATING": 11,
+        "COMMENTS": "1"
     }
 ]

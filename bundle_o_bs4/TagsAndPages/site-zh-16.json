@@ -580,8 +580,8 @@
     },
     {
         "TITLE": "SCP-ZH-060-J - Re:在音竹宇宙重生的煩人美少女到底是甚麼東西呀?!",
-        "FULLNAME": "scp-zh-060-j",
-        "RATING": 20,
+        "FULLNAME": "/scp-zh-060-j",
+        "RATING": 21,
         "COMMENTS": "10"
     },
     {
@@ -598,8 +598,8 @@
     },
     {
         "TITLE": "SCP-ZH-092",
-        "FULLNAME": "scp-zh-092",
-        "RATING": -4,
+        "FULLNAME": "/scp-zh-092",
+        "RATING": -3,
         "COMMENTS": "4"
     },
     {
@@ -682,8 +682,8 @@
     },
     {
         "TITLE": "假面騎士Theseus：一意孤行",
-        "FULLNAME": "kamen-rider-theseus-alone-in-the-dark",
-        "RATING": 12,
+        "FULLNAME": "/kamen-rider-theseus-alone-in-the-dark",
+        "RATING": 13,
         "COMMENTS": "1"
     },
     {
@@ -715,5 +715,29 @@
         "FULLNAME": "scp-zh-083",
         "RATING": 8,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "不可亂碰管線",
+        "FULLNAME": "/ching-sus",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-447 - 舶來品般的鐘錶",
+        "FULLNAME": "/scp-zh-447",
+        "RATING": 8,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-750 - 神說：「要有油。」就有了油。",
+        "FULLNAME": "/scp-zh-750",
+        "RATING": 29,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-583-J - 哪來的猴子.SCiP",
+        "FULLNAME": "/scp-zh-583-j",
+        "RATING": 13,
+        "COMMENTS": "4"
     }
 ]

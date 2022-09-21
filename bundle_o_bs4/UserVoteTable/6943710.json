@@ -37,8 +37,8 @@
     },
     {
         "TITLE": "SCP-ZH-063 - 歡 笑 不 再",
-        "FULLNAME": "scp-zh-063",
-        "RATING": 17,
+        "FULLNAME": "/scp-zh-063",
+        "RATING": 18,
         "COMMENTS": "0"
     },
     {
@@ -127,8 +127,8 @@
     },
     {
         "TITLE": "汽水的藝作頁2",
-        "FULLNAME": "lillianasoda-artworks2",
-        "RATING": 13,
+        "FULLNAME": "/lillianasoda-artworks2",
+        "RATING": 14,
         "COMMENTS": "0"
     },
     {
@@ -151,8 +151,8 @@
     },
     {
         "TITLE": "SCP-ZH-403 - 禁臠與終止符",
-        "FULLNAME": "scp-zh-403",
-        "RATING": 15,
+        "FULLNAME": "/scp-zh-403",
+        "RATING": 16,
         "COMMENTS": "4"
     },
     {
@@ -193,8 +193,14 @@
     },
     {
         "TITLE": "SCP-ZH-138 - 本文件的存儲位址有誤，已由非現實部門編輯",
-        "FULLNAME": "scp-zh-138",
-        "RATING": 1,
+        "FULLNAME": "/scp-zh-138",
+        "RATING": 2,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-173 - BLACK-GROUND: The Prologue",
+        "FULLNAME": "/scp-zh-173",
+        "RATING": 15,
         "COMMENTS": "2"
     }
 ]

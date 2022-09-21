@@ -85,8 +85,8 @@
     },
     {
         "TITLE": "SCP-ZH-403 - 禁臠與終止符",
-        "FULLNAME": "scp-zh-403",
-        "RATING": 15,
+        "FULLNAME": "/scp-zh-403",
+        "RATING": 16,
         "COMMENTS": "4"
     },
     {
@@ -97,8 +97,8 @@
     },
     {
         "TITLE": "SCP-ZH-279 - 愛的形狀",
-        "FULLNAME": "scp-zh-279",
-        "RATING": 19,
+        "FULLNAME": "/scp-zh-279",
+        "RATING": 20,
         "COMMENTS": "1"
     },
     {
@@ -115,8 +115,8 @@
     },
     {
         "TITLE": "SCP-ZH-184 - 奔車朽索",
-        "FULLNAME": "scp-zh-184",
-        "RATING": 19,
+        "FULLNAME": "/scp-zh-184",
+        "RATING": 22,
         "COMMENTS": "1"
     },
     {
@@ -130,5 +130,47 @@
         "FULLNAME": "kamen-rider-theseus-double-tracks-problem",
         "RATING": 14,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "無序夢囈",
+        "FULLNAME": "/disorder-flapdoodle",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-188 - 五月廿五，忌殺生",
+        "FULLNAME": "/scp-zh-188",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-750 - 神說：「要有油。」就有了油。",
+        "FULLNAME": "/scp-zh-750",
+        "RATING": 29,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-029 - 矇眼射飛鏢",
+        "FULLNAME": "/scp-zh-029",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-912-J - 大忌",
+        "FULLNAME": "/scp-zh-912-j",
+        "RATING": 18,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "背面的電話亭",
+        "FULLNAME": "/phone-booth5",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-824 - 最沉重的繪圖筆",
+        "FULLNAME": "/scp-zh-824",
+        "RATING": 11,
+        "COMMENTS": "1"
     }
 ]

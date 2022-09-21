@@ -112,8 +112,8 @@
     },
     {
         "TITLE": "SCP-ZH-060-J - Re:在音竹宇宙重生的煩人美少女到底是甚麼東西呀?!",
-        "FULLNAME": "scp-zh-060-j",
-        "RATING": 20,
+        "FULLNAME": "/scp-zh-060-j",
+        "RATING": 21,
         "COMMENTS": "10"
     },
     {
@@ -136,8 +136,8 @@
     },
     {
         "TITLE": "假面騎士Theseus：一意孤行",
-        "FULLNAME": "kamen-rider-theseus-alone-in-the-dark",
-        "RATING": 12,
+        "FULLNAME": "/kamen-rider-theseus-alone-in-the-dark",
+        "RATING": 13,
         "COMMENTS": "1"
     },
     {
@@ -145,5 +145,11 @@
         "FULLNAME": "kamen-rider-theseus-double-tracks-problem",
         "RATING": 14,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-583-J - 哪來的猴子.SCiP",
+        "FULLNAME": "/scp-zh-583-j",
+        "RATING": 13,
+        "COMMENTS": "4"
     }
 ]

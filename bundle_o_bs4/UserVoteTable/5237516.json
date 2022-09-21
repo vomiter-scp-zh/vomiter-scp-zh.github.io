@@ -375,12 +375,30 @@
         "TITLE": "SCP-ZH-318 - 認同癖",
         "FULLNAME": "scp-zh-318",
         "RATING": 0,
-        "COMMENTS": "8"
+        "COMMENTS": "9"
     },
     {
         "TITLE": "摯寐溶解",
-        "FULLNAME": "dreams-always-dissolve",
-        "RATING": 13,
+        "FULLNAME": "/dreams-always-dissolve",
+        "RATING": 17,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "寐側擴張",
+        "FULLNAME": "/extension-of-dream",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-912-J - 大忌",
+        "FULLNAME": "/scp-zh-912-j",
+        "RATING": 18,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-824 - 最沉重的繪圖筆",
+        "FULLNAME": "/scp-zh-824",
+        "RATING": 11,
+        "COMMENTS": "1"
     }
 ]

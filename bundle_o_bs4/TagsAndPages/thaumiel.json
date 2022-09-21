@@ -34,8 +34,8 @@
     },
     {
         "TITLE": "SCP-ZH-909 - 評分模塊",
-        "FULLNAME": "scp-zh-909",
-        "RATING": 7,
+        "FULLNAME": "/scp-zh-909",
+        "RATING": 8,
         "COMMENTS": "4"
     },
     {
@@ -46,8 +46,8 @@
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
-        "FULLNAME": "scp-zh-999",
-        "RATING": 54,
+        "FULLNAME": "/scp-zh-999",
+        "RATING": 56,
         "COMMENTS": "13"
     },
     {
@@ -58,14 +58,14 @@
     },
     {
         "TITLE": "SCP-ZH-279 - 愛的形狀",
-        "FULLNAME": "scp-zh-279",
-        "RATING": 19,
+        "FULLNAME": "/scp-zh-279",
+        "RATING": 20,
         "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-138 - 本文件的存儲位址有誤，已由非現實部門編輯",
-        "FULLNAME": "scp-zh-138",
-        "RATING": 1,
+        "FULLNAME": "/scp-zh-138",
+        "RATING": 2,
         "COMMENTS": "2"
     }
 ]

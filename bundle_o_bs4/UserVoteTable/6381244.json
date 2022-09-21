@@ -25,8 +25,8 @@
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
-        "FULLNAME": "scp-zh-999",
-        "RATING": 54,
+        "FULLNAME": "/scp-zh-999",
+        "RATING": 56,
         "COMMENTS": "13"
     },
     {
@@ -43,8 +43,8 @@
     },
     {
         "TITLE": "SCP-ZH-255 - 孤獨險",
-        "FULLNAME": "scp-zh-225",
-        "RATING": 18,
+        "FULLNAME": "/scp-zh-225",
+        "RATING": 19,
         "COMMENTS": "0"
     },
     {
@@ -64,5 +64,11 @@
         "FULLNAME": "who-is-the-asian-orphan",
         "RATING": 14,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-583-J - 哪來的猴子.SCiP",
+        "FULLNAME": "/scp-zh-583-j",
+        "RATING": 13,
+        "COMMENTS": "4"
     }
 ]

@@ -535,8 +535,8 @@
     },
     {
         "TITLE": "SCP-ZH-060-J - Re:在音竹宇宙重生的煩人美少女到底是甚麼東西呀?!",
-        "FULLNAME": "scp-zh-060-j",
-        "RATING": 20,
+        "FULLNAME": "/scp-zh-060-j",
+        "RATING": 21,
         "COMMENTS": "10"
     },
     {
@@ -637,8 +637,8 @@
     },
     {
         "TITLE": "SCP-ZH-352 - 絕命六龜葡萄",
-        "FULLNAME": "scp-zh-352",
-        "RATING": 18,
+        "FULLNAME": "/scp-zh-352",
+        "RATING": 17,
         "COMMENTS": "4"
     },
     {
@@ -673,8 +673,8 @@
     },
     {
         "TITLE": "莉亞",
-        "FULLNAME": "riariaria2",
-        "RATING": 15,
+        "FULLNAME": "/riariaria2",
+        "RATING": 16,
         "COMMENTS": "5"
     },
     {
@@ -697,8 +697,8 @@
     },
     {
         "TITLE": "「SCP-ZH-999」 ：《工》",
-        "FULLNAME": "zh999-contest",
-        "RATING": 12,
+        "FULLNAME": "/zh999-contest",
+        "RATING": 13,
         "COMMENTS": "0"
     },
     {
@@ -709,8 +709,8 @@
     },
     {
         "TITLE": "SCP-ZH-999-J - 工",
-        "FULLNAME": "scp-zh-999-j",
-        "RATING": 4,
+        "FULLNAME": "/scp-zh-999-j",
+        "RATING": 5,
         "COMMENTS": "18"
     },
     {
@@ -769,8 +769,8 @@
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
-        "FULLNAME": "scp-zh-999",
-        "RATING": 54,
+        "FULLNAME": "/scp-zh-999",
+        "RATING": 56,
         "COMMENTS": "13"
     },
     {
@@ -799,8 +799,8 @@
     },
     {
         "TITLE": "k1s10r0d的提案 - IMMOLARI",
-        "FULLNAME": "k1s10r0d-s-proposal",
-        "RATING": 34,
+        "FULLNAME": "/k1s10r0d-s-proposal",
+        "RATING": 35,
         "COMMENTS": "3"
     },
     {
@@ -811,8 +811,8 @@
     },
     {
         "TITLE": "SCP-ZH-517 - One More Time, One More Chance",
-        "FULLNAME": "scp-zh-517",
-        "RATING": 19,
+        "FULLNAME": "/scp-zh-517",
+        "RATING": 21,
         "COMMENTS": "1"
     },
     {
@@ -907,8 +907,8 @@
     },
     {
         "TITLE": "SCP-ZH-106-「逆模因」",
-        "FULLNAME": "scp-zh-106",
-        "RATING": 22,
+        "FULLNAME": "/scp-zh-106",
+        "RATING": 23,
         "COMMENTS": "4"
     },
     {
@@ -961,8 +961,8 @@
     },
     {
         "TITLE": "命懸一鴨，逃出生天",
-        "FULLNAME": "among-in-the-duck",
-        "RATING": 15,
+        "FULLNAME": "/among-in-the-duck",
+        "RATING": 16,
         "COMMENTS": "6"
     },
     {
@@ -1015,14 +1015,14 @@
     },
     {
         "TITLE": "刺蝟筆記本：ZH分部人物合輯（ZH-12站篇）",
-        "FULLNAME": "hedgehog-note-site-zh-12",
-        "RATING": 13,
+        "FULLNAME": "/hedgehog-note-site-zh-12",
+        "RATING": 14,
         "COMMENTS": "0"
     },
     {
         "TITLE": "你知道嗎",
-        "FULLNAME": "do-you-know-i-love-you",
-        "RATING": 13,
+        "FULLNAME": "/do-you-know-i-love-you",
+        "RATING": 14,
         "COMMENTS": "1"
     },
     {
@@ -1063,8 +1063,8 @@
     },
     {
         "TITLE": "SCP-ZH-403 - 禁臠與終止符",
-        "FULLNAME": "scp-zh-403",
-        "RATING": 15,
+        "FULLNAME": "/scp-zh-403",
+        "RATING": 16,
         "COMMENTS": "4"
     },
     {
@@ -1075,8 +1075,8 @@
     },
     {
         "TITLE": "SCP-ZH-279 - 愛的形狀",
-        "FULLNAME": "scp-zh-279",
-        "RATING": 19,
+        "FULLNAME": "/scp-zh-279",
+        "RATING": 20,
         "COMMENTS": "1"
     },
     {
@@ -1084,5 +1084,41 @@
         "FULLNAME": "lucid-dreams",
         "RATING": 23,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "D-10201",
+        "FULLNAME": "/d-10201",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "無序夢囈",
+        "FULLNAME": "/disorder-flapdoodle",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-750 - 神說：「要有油。」就有了油。",
+        "FULLNAME": "/scp-zh-750",
+        "RATING": 29,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-441 - 只能以這種方式錯誤地惦記被碾壓而亡的屍體",
+        "FULLNAME": "/scp-zh-441",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-029 - 矇眼射飛鏢",
+        "FULLNAME": "/scp-zh-029",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-912-J - 大忌",
+        "FULLNAME": "/scp-zh-912-j",
+        "RATING": 18,
+        "COMMENTS": "6"
     }
 ]

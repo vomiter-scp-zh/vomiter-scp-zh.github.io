@@ -208,14 +208,20 @@
     },
     {
         "TITLE": "SCP-ZH-063 - 歡 笑 不 再",
-        "FULLNAME": "scp-zh-063",
-        "RATING": 17,
+        "FULLNAME": "/scp-zh-063",
+        "RATING": 18,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-126 - 「羊」芋片袋",
         "FULLNAME": "scp-zh-126",
         "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-134 - 群",
+        "FULLNAME": "/scp-zh-134",
+        "RATING": 13,
         "COMMENTS": "0"
     }
 ]

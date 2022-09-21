@@ -208,8 +208,8 @@
     },
     {
         "TITLE": "SCP-ZH-776",
-        "FULLNAME": "scp-zh-776",
-        "RATING": 6,
+        "FULLNAME": "/scp-zh-776",
+        "RATING": 7,
         "COMMENTS": "6"
     },
     {
@@ -217,5 +217,11 @@
         "FULLNAME": "scp-zh-065",
         "RATING": 9,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-824 - 最沉重的繪圖筆",
+        "FULLNAME": "/scp-zh-824",
+        "RATING": 11,
+        "COMMENTS": "1"
     }
 ]

@@ -10,8 +10,8 @@
     },
     {
         "TITLE": "k1s10r0d的提案 - IMMOLARI",
-        "FULLNAME": "k1s10r0d-s-proposal",
-        "RATING": 34,
+        "FULLNAME": "/k1s10r0d-s-proposal",
+        "RATING": 35,
         "COMMENTS": "3"
     },
     {
@@ -19,5 +19,11 @@
         "FULLNAME": "scp-zh-599",
         "RATING": 16,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-173 - BLACK-GROUND: The Prologue",
+        "FULLNAME": "/scp-zh-173",
+        "RATING": 15,
+        "COMMENTS": "2"
     }
 ]

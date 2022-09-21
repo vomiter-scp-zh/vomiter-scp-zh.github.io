@@ -106,8 +106,8 @@
     },
     {
         "TITLE": "SCP-ZH-092",
-        "FULLNAME": "scp-zh-092",
-        "RATING": -4,
+        "FULLNAME": "/scp-zh-092",
+        "RATING": -3,
         "COMMENTS": "4"
     },
     {
@@ -124,8 +124,8 @@
     },
     {
         "TITLE": "SCP-ZH-776",
-        "FULLNAME": "scp-zh-776",
-        "RATING": 6,
+        "FULLNAME": "/scp-zh-776",
+        "RATING": 7,
         "COMMENTS": "6"
     },
     {
@@ -172,8 +172,20 @@
     },
     {
         "TITLE": "SCP-ZH-403 - 禁臠與終止符",
-        "FULLNAME": "scp-zh-403",
-        "RATING": 15,
+        "FULLNAME": "/scp-zh-403",
+        "RATING": 16,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-134 - 群",
+        "FULLNAME": "/scp-zh-134",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-912-J - 大忌",
+        "FULLNAME": "/scp-zh-912-j",
+        "RATING": 18,
+        "COMMENTS": "6"
     }
 ]

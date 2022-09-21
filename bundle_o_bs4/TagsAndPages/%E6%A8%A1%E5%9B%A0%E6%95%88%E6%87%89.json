@@ -106,8 +106,8 @@
     },
     {
         "TITLE": "SCP-ZH-352 - 絕命六龜葡萄",
-        "FULLNAME": "scp-zh-352",
-        "RATING": 18,
+        "FULLNAME": "/scp-zh-352",
+        "RATING": 17,
         "COMMENTS": "4"
     },
     {
@@ -142,8 +142,14 @@
     },
     {
         "TITLE": "SCP-ZH-184 - 奔車朽索",
-        "FULLNAME": "scp-zh-184",
-        "RATING": 19,
+        "FULLNAME": "/scp-zh-184",
+        "RATING": 22,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-912-J - 大忌",
+        "FULLNAME": "/scp-zh-912-j",
+        "RATING": 18,
+        "COMMENTS": "6"
     }
 ]

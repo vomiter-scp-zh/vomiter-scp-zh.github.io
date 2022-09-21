@@ -208,8 +208,8 @@
     },
     {
         "TITLE": "中華民國國家安全局第八處 中心頁",
-        "FULLNAME": "nsb8-hub",
-        "RATING": 13,
+        "FULLNAME": "/nsb8-hub",
+        "RATING": 14,
         "COMMENTS": "3"
     },
     {
@@ -319,5 +319,11 @@
         "FULLNAME": "heartless-speaking",
         "RATING": 7,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Negative",
+        "FULLNAME": "/negative",
+        "RATING": 3,
+        "COMMENTS": "0"
     }
 ]

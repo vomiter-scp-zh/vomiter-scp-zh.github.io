@@ -853,8 +853,8 @@
     },
     {
         "TITLE": "SCP-ZH-060-J - Re:在音竹宇宙重生的煩人美少女到底是甚麼東西呀?!",
-        "FULLNAME": "scp-zh-060-j",
-        "RATING": 20,
+        "FULLNAME": "/scp-zh-060-j",
+        "RATING": 21,
         "COMMENTS": "10"
     },
     {
@@ -879,6 +879,12 @@
         "TITLE": "某人的夢",
         "FULLNAME": "benitoite-little-pigeon-halloween",
         "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "不可亂碰管線",
+        "FULLNAME": "/ching-sus",
+        "RATING": 8,
         "COMMENTS": "0"
     }
 ]

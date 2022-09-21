@@ -1756,8 +1756,8 @@
     },
     {
         "TITLE": "萬里長空",
-        "FULLNAME": "talisman",
-        "RATING": 14,
+        "FULLNAME": "/talisman",
+        "RATING": 15,
         "COMMENTS": "1"
     },
     {
@@ -2302,8 +2302,8 @@
     },
     {
         "TITLE": "假面騎士Theseus：一意孤行",
-        "FULLNAME": "kamen-rider-theseus-alone-in-the-dark",
-        "RATING": 12,
+        "FULLNAME": "/kamen-rider-theseus-alone-in-the-dark",
+        "RATING": 13,
         "COMMENTS": "1"
     },
     {
@@ -2332,8 +2332,8 @@
     },
     {
         "TITLE": "命懸一鴨，逃出生天",
-        "FULLNAME": "among-in-the-duck",
-        "RATING": 15,
+        "FULLNAME": "/among-in-the-duck",
+        "RATING": 16,
         "COMMENTS": "6"
     },
     {
@@ -2386,8 +2386,8 @@
     },
     {
         "TITLE": "你知道嗎",
-        "FULLNAME": "do-you-know-i-love-you",
-        "RATING": 13,
+        "FULLNAME": "/do-you-know-i-love-you",
+        "RATING": 14,
         "COMMENTS": "1"
     },
     {
@@ -2464,8 +2464,8 @@
     },
     {
         "TITLE": "完美犯X的入職",
-        "FULLNAME": "interview-of-x",
-        "RATING": 10,
+        "FULLNAME": "/interview-of-x",
+        "RATING": 11,
         "COMMENTS": "0"
     },
     {
@@ -2506,7 +2506,61 @@
     },
     {
         "TITLE": "摯寐溶解",
-        "FULLNAME": "dreams-always-dissolve",
+        "FULLNAME": "/dreams-always-dissolve",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "特殊配備「九轉盔」實驗紀聞：赤嵐四向",
+        "FULLNAME": "/helms-of-nine-iterations-in-red-storm-quadrants",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "不可亂碰管線",
+        "FULLNAME": "/ching-sus",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "D-10201",
+        "FULLNAME": "/d-10201",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "無序夢囈",
+        "FULLNAME": "/disorder-flapdoodle",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "我的贖罪",
+        "FULLNAME": "/my-atonement",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "寐側擴張",
+        "FULLNAME": "/extension-of-dream",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "愛已淌血不止",
+        "FULLNAME": "/zh-love-is-bleeding",
+        "RATING": 6,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "背面的電話亭",
+        "FULLNAME": "/phone-booth5",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "摯寐迸裂",
+        "FULLNAME": "/dreams-always-explode",
         "RATING": 13,
         "COMMENTS": "0"
     }

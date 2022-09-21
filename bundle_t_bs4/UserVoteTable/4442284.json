@@ -253,8 +253,8 @@
     },
     {
         "TITLE": "我的頭著火了，我很（不）好",
-        "FULLNAME": "my-head-is-on-fire-and-im-not-ok",
-        "RATING": 8,
+        "FULLNAME": "/my-head-is-on-fire-and-im-not-ok",
+        "RATING": 9,
         "COMMENTS": "1"
     },
     {
@@ -403,8 +403,8 @@
     },
     {
         "TITLE": "SCP-105 - 「Iris」",
-        "FULLNAME": "scp-105",
-        "RATING": 5,
+        "FULLNAME": "/scp-105",
+        "RATING": 6,
         "COMMENTS": "1"
     },
     {

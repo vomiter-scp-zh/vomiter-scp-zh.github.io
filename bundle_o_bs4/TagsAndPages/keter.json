@@ -484,8 +484,8 @@
     },
     {
         "TITLE": "SCP-ZH-182 - 引誘墜樓的耳語",
-        "FULLNAME": "scp-zh-182",
-        "RATING": 0,
+        "FULLNAME": "/scp-zh-182",
+        "RATING": 1,
         "COMMENTS": "6"
     },
     {
@@ -508,8 +508,8 @@
     },
     {
         "TITLE": "SCP-ZH-403 - 禁臠與終止符",
-        "FULLNAME": "scp-zh-403",
-        "RATING": 15,
+        "FULLNAME": "/scp-zh-403",
+        "RATING": 16,
         "COMMENTS": "4"
     },
     {
@@ -522,6 +522,6 @@
         "TITLE": "SCP-ZH-318 - 認同癖",
         "FULLNAME": "scp-zh-318",
         "RATING": 0,
-        "COMMENTS": "8"
+        "COMMENTS": "9"
     }
 ]

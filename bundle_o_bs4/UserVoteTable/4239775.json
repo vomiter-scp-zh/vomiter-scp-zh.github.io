@@ -1675,8 +1675,8 @@
     },
     {
         "TITLE": "SCP-ZH-060-J - Re:在音竹宇宙重生的煩人美少女到底是甚麼東西呀?!",
-        "FULLNAME": "scp-zh-060-j",
-        "RATING": 20,
+        "FULLNAME": "/scp-zh-060-j",
+        "RATING": 21,
         "COMMENTS": "10"
     },
     {
@@ -1771,8 +1771,8 @@
     },
     {
         "TITLE": "SCP-ZH-776",
-        "FULLNAME": "scp-zh-776",
-        "RATING": 6,
+        "FULLNAME": "/scp-zh-776",
+        "RATING": 7,
         "COMMENTS": "6"
     },
     {
@@ -1891,8 +1891,8 @@
     },
     {
         "TITLE": "SCP-ZH-352 - 絕命六龜葡萄",
-        "FULLNAME": "scp-zh-352",
-        "RATING": 18,
+        "FULLNAME": "/scp-zh-352",
+        "RATING": 17,
         "COMMENTS": "4"
     },
     {
@@ -1921,8 +1921,8 @@
     },
     {
         "TITLE": "「SCP-ZH-999」 ：《工》",
-        "FULLNAME": "zh999-contest",
-        "RATING": 12,
+        "FULLNAME": "/zh999-contest",
+        "RATING": 13,
         "COMMENTS": "0"
     },
     {
@@ -1951,8 +1951,8 @@
     },
     {
         "TITLE": "SCP-ZH-999-J - 工",
-        "FULLNAME": "scp-zh-999-j",
-        "RATING": 4,
+        "FULLNAME": "/scp-zh-999-j",
+        "RATING": 5,
         "COMMENTS": "18"
     },
     {
@@ -1981,8 +1981,8 @@
     },
     {
         "TITLE": "SCP-ZH-909 - 評分模塊",
-        "FULLNAME": "scp-zh-909",
-        "RATING": 7,
+        "FULLNAME": "/scp-zh-909",
+        "RATING": 8,
         "COMMENTS": "4"
     },
     {
@@ -1999,8 +1999,8 @@
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
-        "FULLNAME": "scp-zh-999",
-        "RATING": 54,
+        "FULLNAME": "/scp-zh-999",
+        "RATING": 56,
         "COMMENTS": "13"
     },
     {
@@ -2077,14 +2077,14 @@
     },
     {
         "TITLE": "命懸一鴨，逃出生天",
-        "FULLNAME": "among-in-the-duck",
-        "RATING": 15,
+        "FULLNAME": "/among-in-the-duck",
+        "RATING": 16,
         "COMMENTS": "6"
     },
     {
         "TITLE": "2022夏季競賽 主題《X》",
-        "FULLNAME": "summer-contest-2022",
-        "RATING": 10,
+        "FULLNAME": "/summer-contest-2022",
+        "RATING": 11,
         "COMMENTS": "0"
     },
     {
@@ -2095,8 +2095,38 @@
     },
     {
         "TITLE": "完美犯X的入職",
-        "FULLNAME": "interview-of-x",
-        "RATING": 10,
+        "FULLNAME": "/interview-of-x",
+        "RATING": 11,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "特殊配備「九轉盔」實驗紀聞：赤嵐四向",
+        "FULLNAME": "/helms-of-nine-iterations-in-red-storm-quadrants",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "我的贖罪",
+        "FULLNAME": "/my-atonement",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-750 - 神說：「要有油。」就有了油。",
+        "FULLNAME": "/scp-zh-750",
+        "RATING": 29,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-173 - BLACK-GROUND: The Prologue",
+        "FULLNAME": "/scp-zh-173",
+        "RATING": 15,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-583-J - 哪來的猴子.SCiP",
+        "FULLNAME": "/scp-zh-583-j",
+        "RATING": 13,
+        "COMMENTS": "4"
     }
 ]

@@ -205,5 +205,35 @@
         "FULLNAME": "scp-zh-409",
         "RATING": 12,
         "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-327 - 花兒與檳榔",
+        "FULLNAME": "scp-zh-327",
+        "RATING": 12,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-614 - 4D粽子",
+        "FULLNAME": "scp-zh-614",
+        "RATING": 11,
+        "COMMENTS": "8"
+    },
+    {
+        "TITLE": "SCP-ZH-060-J - Re:在音竹宇宙重生的煩人美少女到底是甚麼東西呀?!",
+        "FULLNAME": "/scp-zh-060-j",
+        "RATING": 21,
+        "COMMENTS": "10"
+    },
+    {
+        "TITLE": "SCP-ZH-560 - 人生的第二春",
+        "FULLNAME": "scp-zh-560",
+        "RATING": 15,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-609 - 睡前檢查",
+        "FULLNAME": "scp-zh-609",
+        "RATING": 14,
+        "COMMENTS": "0"
     }
 ]

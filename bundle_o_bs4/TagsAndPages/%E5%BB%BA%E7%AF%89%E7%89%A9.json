@@ -106,8 +106,8 @@
     },
     {
         "TITLE": "SCP-ZH-063 - 歡 笑 不 再",
-        "FULLNAME": "scp-zh-063",
-        "RATING": 17,
+        "FULLNAME": "/scp-zh-063",
+        "RATING": 18,
         "COMMENTS": "0"
     },
     {
@@ -144,6 +144,12 @@
         "TITLE": "SCP-ZH-985 - 被抹消的酒吧歷史",
         "FULLNAME": "scp-zh-985",
         "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-441 - 只能以這種方式錯誤地惦記被碾壓而亡的屍體",
+        "FULLNAME": "/scp-zh-441",
+        "RATING": 16,
         "COMMENTS": "1"
     }
 ]

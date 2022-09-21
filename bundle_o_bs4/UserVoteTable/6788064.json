@@ -1975,8 +1975,8 @@
     },
     {
         "TITLE": "SCP-ZH-128",
-        "FULLNAME": "scp-zh-128",
-        "RATING": 19,
+        "FULLNAME": "/scp-zh-128",
+        "RATING": 20,
         "COMMENTS": "3"
     },
     {
@@ -2233,8 +2233,8 @@
     },
     {
         "TITLE": "莉亞",
-        "FULLNAME": "riariaria2",
-        "RATING": 15,
+        "FULLNAME": "/riariaria2",
+        "RATING": 16,
         "COMMENTS": "5"
     },
     {
@@ -2263,8 +2263,8 @@
     },
     {
         "TITLE": "「SCP-ZH-999」 ：《工》",
-        "FULLNAME": "zh999-contest",
-        "RATING": 12,
+        "FULLNAME": "/zh999-contest",
+        "RATING": 13,
         "COMMENTS": "0"
     },
     {
@@ -2443,14 +2443,14 @@
     },
     {
         "TITLE": "假面騎士Theseus：一意孤行",
-        "FULLNAME": "kamen-rider-theseus-alone-in-the-dark",
-        "RATING": 12,
+        "FULLNAME": "/kamen-rider-theseus-alone-in-the-dark",
+        "RATING": 13,
         "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-106-「逆模因」",
-        "FULLNAME": "scp-zh-106",
-        "RATING": 22,
+        "FULLNAME": "/scp-zh-106",
+        "RATING": 23,
         "COMMENTS": "4"
     },
     {
@@ -2473,8 +2473,8 @@
     },
     {
         "TITLE": "SCP-ZH-255 - 孤獨險",
-        "FULLNAME": "scp-zh-225",
-        "RATING": 18,
+        "FULLNAME": "/scp-zh-225",
+        "RATING": 19,
         "COMMENTS": "0"
     },
     {
@@ -2539,14 +2539,14 @@
     },
     {
         "TITLE": "刺蝟筆記本：ZH分部人物合輯（ZH-12站篇）",
-        "FULLNAME": "hedgehog-note-site-zh-12",
-        "RATING": 13,
+        "FULLNAME": "/hedgehog-note-site-zh-12",
+        "RATING": 14,
         "COMMENTS": "0"
     },
     {
         "TITLE": "你知道嗎",
-        "FULLNAME": "do-you-know-i-love-you",
-        "RATING": 13,
+        "FULLNAME": "/do-you-know-i-love-you",
+        "RATING": 14,
         "COMMENTS": "1"
     },
     {
@@ -2581,8 +2581,8 @@
     },
     {
         "TITLE": "汽水的藝作頁2",
-        "FULLNAME": "lillianasoda-artworks2",
-        "RATING": 13,
+        "FULLNAME": "/lillianasoda-artworks2",
+        "RATING": 14,
         "COMMENTS": "0"
     },
     {
@@ -2613,7 +2613,7 @@
         "TITLE": "SCP-ZH-318 - 認同癖",
         "FULLNAME": "scp-zh-318",
         "RATING": 0,
-        "COMMENTS": "8"
+        "COMMENTS": "9"
     },
     {
         "TITLE": "假面騎士Theseus：雙軌難題",
@@ -2635,8 +2635,8 @@
     },
     {
         "TITLE": "SCP-ZH-184 - 奔車朽索",
-        "FULLNAME": "scp-zh-184",
-        "RATING": 19,
+        "FULLNAME": "/scp-zh-184",
+        "RATING": 22,
         "COMMENTS": "1"
     },
     {
@@ -2647,8 +2647,8 @@
     },
     {
         "TITLE": "完美犯X的入職",
-        "FULLNAME": "interview-of-x",
-        "RATING": 10,
+        "FULLNAME": "/interview-of-x",
+        "RATING": 11,
         "COMMENTS": "0"
     },
     {
@@ -2665,7 +2665,43 @@
     },
     {
         "TITLE": "摯寐溶解",
-        "FULLNAME": "dreams-always-dissolve",
+        "FULLNAME": "/dreams-always-dissolve",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-134 - 群",
+        "FULLNAME": "/scp-zh-134",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "無序夢囈",
+        "FULLNAME": "/disorder-flapdoodle",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-750 - 神說：「要有油。」就有了油。",
+        "FULLNAME": "/scp-zh-750",
+        "RATING": 29,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-912-J - 大忌",
+        "FULLNAME": "/scp-zh-912-j",
+        "RATING": 18,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "背面的電話亭",
+        "FULLNAME": "/phone-booth5",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "摯寐迸裂",
+        "FULLNAME": "/dreams-always-explode",
         "RATING": 13,
         "COMMENTS": "0"
     }

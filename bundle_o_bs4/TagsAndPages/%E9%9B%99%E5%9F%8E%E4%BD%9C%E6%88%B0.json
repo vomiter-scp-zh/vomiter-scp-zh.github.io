@@ -103,5 +103,11 @@
         "FULLNAME": "limit-scale",
         "RATING": 8,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Negative",
+        "FULLNAME": "/negative",
+        "RATING": 3,
+        "COMMENTS": "0"
     }
 ]

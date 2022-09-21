@@ -2707,8 +2707,8 @@
     },
     {
         "TITLE": "萬里長空",
-        "FULLNAME": "talisman",
-        "RATING": 14,
+        "FULLNAME": "/talisman",
+        "RATING": 15,
         "COMMENTS": "1"
     },
     {
@@ -2725,8 +2725,8 @@
     },
     {
         "TITLE": "中華民國國家安全局第八處 中心頁",
-        "FULLNAME": "nsb8-hub",
-        "RATING": 13,
+        "FULLNAME": "/nsb8-hub",
+        "RATING": 14,
         "COMMENTS": "3"
     },
     {
@@ -3013,14 +3013,14 @@
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
-        "FULLNAME": "scp-zh-999",
-        "RATING": 54,
+        "FULLNAME": "/scp-zh-999",
+        "RATING": 56,
         "COMMENTS": "13"
     },
     {
         "TITLE": "SCP-ZH-063 - 歡 笑 不 再",
-        "FULLNAME": "scp-zh-063",
-        "RATING": 17,
+        "FULLNAME": "/scp-zh-063",
+        "RATING": 18,
         "COMMENTS": "0"
     },
     {
@@ -3031,8 +3031,8 @@
     },
     {
         "TITLE": "k1s10r0d的提案 - IMMOLARI",
-        "FULLNAME": "k1s10r0d-s-proposal",
-        "RATING": 34,
+        "FULLNAME": "/k1s10r0d-s-proposal",
+        "RATING": 35,
         "COMMENTS": "3"
     },
     {
@@ -3043,8 +3043,8 @@
     },
     {
         "TITLE": "SCP-ZH-517 - One More Time, One More Chance",
-        "FULLNAME": "scp-zh-517",
-        "RATING": 19,
+        "FULLNAME": "/scp-zh-517",
+        "RATING": 21,
         "COMMENTS": "1"
     },
     {
@@ -3265,8 +3265,8 @@
     },
     {
         "TITLE": "SCP-ZH-106-「逆模因」",
-        "FULLNAME": "scp-zh-106",
-        "RATING": 22,
+        "FULLNAME": "/scp-zh-106",
+        "RATING": 23,
         "COMMENTS": "4"
     },
     {
@@ -3277,8 +3277,8 @@
     },
     {
         "TITLE": "SCP-ZH-255 - 孤獨險",
-        "FULLNAME": "scp-zh-225",
-        "RATING": 18,
+        "FULLNAME": "/scp-zh-225",
+        "RATING": 19,
         "COMMENTS": "0"
     },
     {
@@ -3343,8 +3343,8 @@
     },
     {
         "TITLE": "刺蝟筆記本：ZH分部人物合輯（ZH-12站篇）",
-        "FULLNAME": "hedgehog-note-site-zh-12",
-        "RATING": 13,
+        "FULLNAME": "/hedgehog-note-site-zh-12",
+        "RATING": 14,
         "COMMENTS": "0"
     },
     {
@@ -3445,8 +3445,8 @@
     },
     {
         "TITLE": "汽水的藝作頁2",
-        "FULLNAME": "lillianasoda-artworks2",
-        "RATING": 13,
+        "FULLNAME": "/lillianasoda-artworks2",
+        "RATING": 14,
         "COMMENTS": "0"
     },
     {
@@ -3457,8 +3457,8 @@
     },
     {
         "TITLE": "2022夏季競賽 主題《X》",
-        "FULLNAME": "summer-contest-2022",
-        "RATING": 10,
+        "FULLNAME": "/summer-contest-2022",
+        "RATING": 11,
         "COMMENTS": "0"
     },
     {
@@ -3469,8 +3469,8 @@
     },
     {
         "TITLE": "SCP-ZH-403 - 禁臠與終止符",
-        "FULLNAME": "scp-zh-403",
-        "RATING": 15,
+        "FULLNAME": "/scp-zh-403",
+        "RATING": 16,
         "COMMENTS": "4"
     },
     {
@@ -3493,8 +3493,8 @@
     },
     {
         "TITLE": "完美犯X的入職",
-        "FULLNAME": "interview-of-x",
-        "RATING": 10,
+        "FULLNAME": "/interview-of-x",
+        "RATING": 11,
         "COMMENTS": "0"
     },
     {
@@ -3505,8 +3505,8 @@
     },
     {
         "TITLE": "SCP-ZH-279 - 愛的形狀",
-        "FULLNAME": "scp-zh-279",
-        "RATING": 19,
+        "FULLNAME": "/scp-zh-279",
+        "RATING": 20,
         "COMMENTS": "1"
     },
     {
@@ -3523,8 +3523,8 @@
     },
     {
         "TITLE": "SCP-ZH-184 - 奔車朽索",
-        "FULLNAME": "scp-zh-184",
-        "RATING": 19,
+        "FULLNAME": "/scp-zh-184",
+        "RATING": 22,
         "COMMENTS": "1"
     },
     {
@@ -3553,8 +3553,8 @@
     },
     {
         "TITLE": "摯寐溶解",
-        "FULLNAME": "dreams-always-dissolve",
-        "RATING": 13,
+        "FULLNAME": "/dreams-always-dissolve",
+        "RATING": 17,
         "COMMENTS": "0"
     },
     {
@@ -3562,5 +3562,71 @@
         "FULLNAME": "scp-zh-340",
         "RATING": 20,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "D-10201",
+        "FULLNAME": "/d-10201",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "無序夢囈",
+        "FULLNAME": "/disorder-flapdoodle",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-750 - 神說：「要有油。」就有了油。",
+        "FULLNAME": "/scp-zh-750",
+        "RATING": 29,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-441 - 只能以這種方式錯誤地惦記被碾壓而亡的屍體",
+        "FULLNAME": "/scp-zh-441",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-029 - 矇眼射飛鏢",
+        "FULLNAME": "/scp-zh-029",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "木易百載：福爾摩沙近代史展",
+        "FULLNAME": "/mu-yi-exhibition-2022",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-912-J - 大忌",
+        "FULLNAME": "/scp-zh-912-j",
+        "RATING": 18,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "背面的電話亭",
+        "FULLNAME": "/phone-booth5",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-173 - BLACK-GROUND: The Prologue",
+        "FULLNAME": "/scp-zh-173",
+        "RATING": 15,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-824 - 最沉重的繪圖筆",
+        "FULLNAME": "/scp-zh-824",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-180 - 安 妮 :-)",
+        "FULLNAME": "/scp-zh-180",
+        "RATING": 20,
+        "COMMENTS": "2"
     }
 ]

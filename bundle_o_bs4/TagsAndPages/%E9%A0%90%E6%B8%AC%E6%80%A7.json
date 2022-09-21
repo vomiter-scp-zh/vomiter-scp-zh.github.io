@@ -10,8 +10,8 @@
     },
     {
         "TITLE": "k1s10r0d的提案 - IMMOLARI",
-        "FULLNAME": "k1s10r0d-s-proposal",
-        "RATING": 34,
+        "FULLNAME": "/k1s10r0d-s-proposal",
+        "RATING": 35,
         "COMMENTS": "3"
     },
     {
@@ -19,5 +19,11 @@
         "FULLNAME": "scp-zh-801",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-029 - 矇眼射飛鏢",
+        "FULLNAME": "/scp-zh-029",
+        "RATING": 10,
+        "COMMENTS": "1"
     }
 ]

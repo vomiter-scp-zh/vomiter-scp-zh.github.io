@@ -628,8 +628,8 @@
     },
     {
         "TITLE": "SCP-500 - 萬靈藥",
-        "FULLNAME": "scp-500",
-        "RATING": 11,
+        "FULLNAME": "/scp-500",
+        "RATING": 12,
         "COMMENTS": "0"
     },
     {
@@ -868,8 +868,8 @@
     },
     {
         "TITLE": "SCP-105 - 「Iris」",
-        "FULLNAME": "scp-105",
-        "RATING": 5,
+        "FULLNAME": "/scp-105",
+        "RATING": 6,
         "COMMENTS": "1"
     },
     {
@@ -1594,8 +1594,8 @@
     },
     {
         "TITLE": "SCP-3671 - 一個憤怒的麥片盒",
-        "FULLNAME": "scp-3671",
-        "RATING": 6,
+        "FULLNAME": "/scp-3671",
+        "RATING": 7,
         "COMMENTS": "0"
     },
     {

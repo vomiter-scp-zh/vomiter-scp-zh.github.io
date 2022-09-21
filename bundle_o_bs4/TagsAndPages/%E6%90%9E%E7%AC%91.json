@@ -100,8 +100,8 @@
     },
     {
         "TITLE": "SCP-ZH-060-J - Re:在音竹宇宙重生的煩人美少女到底是甚麼東西呀?!",
-        "FULLNAME": "scp-zh-060-j",
-        "RATING": 20,
+        "FULLNAME": "/scp-zh-060-j",
+        "RATING": 21,
         "COMMENTS": "10"
     },
     {
@@ -112,8 +112,8 @@
     },
     {
         "TITLE": "SCP-ZH-999-J - 工",
-        "FULLNAME": "scp-zh-999-j",
-        "RATING": 4,
+        "FULLNAME": "/scp-zh-999-j",
+        "RATING": 5,
         "COMMENTS": "18"
     },
     {
@@ -139,5 +139,17 @@
         "FULLNAME": "scp-zh-002-j",
         "RATING": 14,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-912-J - 大忌",
+        "FULLNAME": "/scp-zh-912-j",
+        "RATING": 18,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "SCP-ZH-583-J - 哪來的猴子.SCiP",
+        "FULLNAME": "/scp-zh-583-j",
+        "RATING": 13,
+        "COMMENTS": "4"
     }
 ]

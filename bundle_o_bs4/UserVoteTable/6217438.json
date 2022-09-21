@@ -145,8 +145,8 @@
     },
     {
         "TITLE": "「SCP-ZH-999」 ：《工》",
-        "FULLNAME": "zh999-contest",
-        "RATING": 12,
+        "FULLNAME": "/zh999-contest",
+        "RATING": 13,
         "COMMENTS": "0"
     },
     {
@@ -175,8 +175,8 @@
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
-        "FULLNAME": "scp-zh-999",
-        "RATING": 54,
+        "FULLNAME": "/scp-zh-999",
+        "RATING": 56,
         "COMMENTS": "13"
     },
     {
@@ -187,8 +187,8 @@
     },
     {
         "TITLE": "SCP-ZH-063 - 歡 笑 不 再",
-        "FULLNAME": "scp-zh-063",
-        "RATING": 17,
+        "FULLNAME": "/scp-zh-063",
+        "RATING": 18,
         "COMMENTS": "0"
     },
     {
@@ -331,8 +331,8 @@
     },
     {
         "TITLE": "命懸一鴨，逃出生天",
-        "FULLNAME": "among-in-the-duck",
-        "RATING": 15,
+        "FULLNAME": "/among-in-the-duck",
+        "RATING": 16,
         "COMMENTS": "6"
     },
     {
@@ -361,14 +361,14 @@
     },
     {
         "TITLE": "SCP-ZH-182 - 引誘墜樓的耳語",
-        "FULLNAME": "scp-zh-182",
-        "RATING": 0,
+        "FULLNAME": "/scp-zh-182",
+        "RATING": 1,
         "COMMENTS": "6"
     },
     {
         "TITLE": "你知道嗎",
-        "FULLNAME": "do-you-know-i-love-you",
-        "RATING": 13,
+        "FULLNAME": "/do-you-know-i-love-you",
+        "RATING": 14,
         "COMMENTS": "1"
     },
     {
@@ -391,8 +391,8 @@
     },
     {
         "TITLE": "安塔雷斯運動宣導",
-        "FULLNAME": "propaganda-of-the-antares-movement",
-        "RATING": 10,
+        "FULLNAME": "/propaganda-of-the-antares-movement",
+        "RATING": 11,
         "COMMENTS": "0"
     },
     {
@@ -421,8 +421,8 @@
     },
     {
         "TITLE": "汽水的藝作頁2",
-        "FULLNAME": "lillianasoda-artworks2",
-        "RATING": 13,
+        "FULLNAME": "/lillianasoda-artworks2",
+        "RATING": 14,
         "COMMENTS": "0"
     },
     {
@@ -433,8 +433,8 @@
     },
     {
         "TITLE": "SCP-ZH-403 - 禁臠與終止符",
-        "FULLNAME": "scp-zh-403",
-        "RATING": 15,
+        "FULLNAME": "/scp-zh-403",
+        "RATING": 16,
         "COMMENTS": "4"
     },
     {
@@ -451,8 +451,92 @@
     },
     {
         "TITLE": "SCP-ZH-138 - 本文件的存儲位址有誤，已由非現實部門編輯",
-        "FULLNAME": "scp-zh-138",
-        "RATING": 1,
+        "FULLNAME": "/scp-zh-138",
+        "RATING": 2,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "特殊配備「九轉盔」實驗紀聞：赤嵐四向",
+        "FULLNAME": "/helms-of-nine-iterations-in-red-storm-quadrants",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "不可亂碰管線",
+        "FULLNAME": "/ching-sus",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "D-10201",
+        "FULLNAME": "/d-10201",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "無序夢囈",
+        "FULLNAME": "/disorder-flapdoodle",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-441 - 只能以這種方式錯誤地惦記被碾壓而亡的屍體",
+        "FULLNAME": "/scp-zh-441",
+        "RATING": 16,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "寐側擴張",
+        "FULLNAME": "/extension-of-dream",
+        "RATING": 11,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-029 - 矇眼射飛鏢",
+        "FULLNAME": "/scp-zh-029",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "木易百載：福爾摩沙近代史展",
+        "FULLNAME": "/mu-yi-exhibition-2022",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-912-J - 大忌",
+        "FULLNAME": "/scp-zh-912-j",
+        "RATING": 18,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "背面的電話亭",
+        "FULLNAME": "/phone-booth5",
+        "RATING": 17,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-173 - BLACK-GROUND: The Prologue",
+        "FULLNAME": "/scp-zh-173",
+        "RATING": 15,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-824 - 最沉重的繪圖筆",
+        "FULLNAME": "/scp-zh-824",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-583-J - 哪來的猴子.SCiP",
+        "FULLNAME": "/scp-zh-583-j",
+        "RATING": 13,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "摯寐迸裂",
+        "FULLNAME": "/dreams-always-explode",
+        "RATING": 13,
+        "COMMENTS": "0"
     }
 ]

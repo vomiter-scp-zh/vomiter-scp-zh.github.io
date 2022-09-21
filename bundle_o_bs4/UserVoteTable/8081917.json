@@ -19,14 +19,14 @@
     },
     {
         "TITLE": "SCP-ZH-909 - 評分模塊",
-        "FULLNAME": "scp-zh-909",
-        "RATING": 7,
+        "FULLNAME": "/scp-zh-909",
+        "RATING": 8,
         "COMMENTS": "4"
     },
     {
         "TITLE": "SCP-ZH-941 - 你才沒有在奮鬥",
-        "FULLNAME": "scp-zh-941",
-        "RATING": 2,
+        "FULLNAME": "/scp-zh-941",
+        "RATING": 1,
         "COMMENTS": "8"
     },
     {
@@ -40,5 +40,53 @@
         "FULLNAME": "/scp-zh-416",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "中華民國國家安全局第八處 中心頁",
+        "FULLNAME": "/nsb8-hub",
+        "RATING": 14,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-060-J - Re:在音竹宇宙重生的煩人美少女到底是甚麼東西呀?!",
+        "FULLNAME": "/scp-zh-060-j",
+        "RATING": 21,
+        "COMMENTS": "10"
+    },
+    {
+        "TITLE": "SCP-ZH-776",
+        "FULLNAME": "/scp-zh-776",
+        "RATING": 7,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "「SCP-ZH-999」 ：《工》",
+        "FULLNAME": "/zh999-contest",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "無序夢囈",
+        "FULLNAME": "/disorder-flapdoodle",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "我的贖罪",
+        "FULLNAME": "/my-atonement",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-188 - 五月廿五，忌殺生",
+        "FULLNAME": "/scp-zh-188",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-912-J - 大忌",
+        "FULLNAME": "/scp-zh-912-j",
+        "RATING": 18,
+        "COMMENTS": "6"
     }
 ]

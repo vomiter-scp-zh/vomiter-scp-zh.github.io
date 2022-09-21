@@ -820,8 +820,8 @@
     },
     {
         "TITLE": "SCP-ZH-128",
-        "FULLNAME": "scp-zh-128",
-        "RATING": 19,
+        "FULLNAME": "/scp-zh-128",
+        "RATING": 20,
         "COMMENTS": "3"
     },
     {
@@ -832,8 +832,8 @@
     },
     {
         "TITLE": "SCP-ZH-092",
-        "FULLNAME": "scp-zh-092",
-        "RATING": -4,
+        "FULLNAME": "/scp-zh-092",
+        "RATING": -3,
         "COMMENTS": "4"
     },
     {
@@ -880,8 +880,8 @@
     },
     {
         "TITLE": "SCP-ZH-776",
-        "FULLNAME": "scp-zh-776",
-        "RATING": 6,
+        "FULLNAME": "/scp-zh-776",
+        "RATING": 7,
         "COMMENTS": "6"
     },
     {
@@ -928,14 +928,14 @@
     },
     {
         "TITLE": "SCP-ZH-063 - 歡 笑 不 再",
-        "FULLNAME": "scp-zh-063",
-        "RATING": 17,
+        "FULLNAME": "/scp-zh-063",
+        "RATING": 18,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-517 - One More Time, One More Chance",
-        "FULLNAME": "scp-zh-517",
-        "RATING": 19,
+        "FULLNAME": "/scp-zh-517",
+        "RATING": 21,
         "COMMENTS": "1"
     },
     {
@@ -1000,8 +1000,8 @@
     },
     {
         "TITLE": "SCP-ZH-106-「逆模因」",
-        "FULLNAME": "scp-zh-106",
-        "RATING": 22,
+        "FULLNAME": "/scp-zh-106",
+        "RATING": 23,
         "COMMENTS": "4"
     },
     {
@@ -1012,8 +1012,8 @@
     },
     {
         "TITLE": "SCP-ZH-382 - 犧牲品",
-        "FULLNAME": "scp-zh-382",
-        "RATING": 12,
+        "FULLNAME": "/scp-zh-382",
+        "RATING": 13,
         "COMMENTS": "0"
     },
     {
@@ -1048,8 +1048,20 @@
     },
     {
         "TITLE": "SCP-ZH-941 - 你才沒有在奮鬥",
-        "FULLNAME": "scp-zh-941",
-        "RATING": 2,
+        "FULLNAME": "/scp-zh-941",
+        "RATING": 1,
         "COMMENTS": "8"
+    },
+    {
+        "TITLE": "SCP-ZH-029 - 矇眼射飛鏢",
+        "FULLNAME": "/scp-zh-029",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-820 - 忌妒麻仔台",
+        "FULLNAME": "/scp-zh-820",
+        "RATING": 4,
+        "COMMENTS": "1"
     }
 ]

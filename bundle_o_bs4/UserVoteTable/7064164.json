@@ -235,8 +235,8 @@
     },
     {
         "TITLE": "SCP-ZH-999-J - 工",
-        "FULLNAME": "scp-zh-999-j",
-        "RATING": 4,
+        "FULLNAME": "/scp-zh-999-j",
+        "RATING": 5,
         "COMMENTS": "18"
     },
     {
@@ -271,8 +271,8 @@
     },
     {
         "TITLE": "SCP-ZH-909 - 評分模塊",
-        "FULLNAME": "scp-zh-909",
-        "RATING": 7,
+        "FULLNAME": "/scp-zh-909",
+        "RATING": 8,
         "COMMENTS": "4"
     },
     {
@@ -313,8 +313,8 @@
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
-        "FULLNAME": "scp-zh-999",
-        "RATING": 54,
+        "FULLNAME": "/scp-zh-999",
+        "RATING": 56,
         "COMMENTS": "13"
     },
     {
@@ -355,8 +355,8 @@
     },
     {
         "TITLE": "SCP-ZH-517 - One More Time, One More Chance",
-        "FULLNAME": "scp-zh-517",
-        "RATING": 19,
+        "FULLNAME": "/scp-zh-517",
+        "RATING": 21,
         "COMMENTS": "1"
     },
     {
@@ -469,8 +469,8 @@
     },
     {
         "TITLE": "SCP-ZH-106-「逆模因」",
-        "FULLNAME": "scp-zh-106",
-        "RATING": 22,
+        "FULLNAME": "/scp-zh-106",
+        "RATING": 23,
         "COMMENTS": "4"
     },
     {
@@ -523,8 +523,8 @@
     },
     {
         "TITLE": "SCP-ZH-255 - 孤獨險",
-        "FULLNAME": "scp-zh-225",
-        "RATING": 18,
+        "FULLNAME": "/scp-zh-225",
+        "RATING": 19,
         "COMMENTS": "0"
     },
     {
@@ -559,8 +559,8 @@
     },
     {
         "TITLE": "命懸一鴨，逃出生天",
-        "FULLNAME": "among-in-the-duck",
-        "RATING": 15,
+        "FULLNAME": "/among-in-the-duck",
+        "RATING": 16,
         "COMMENTS": "6"
     },
     {
@@ -625,8 +625,8 @@
     },
     {
         "TITLE": "SCP-ZH-382 - 犧牲品",
-        "FULLNAME": "scp-zh-382",
-        "RATING": 12,
+        "FULLNAME": "/scp-zh-382",
+        "RATING": 13,
         "COMMENTS": "0"
     },
     {
@@ -643,8 +643,8 @@
     },
     {
         "TITLE": "你知道嗎",
-        "FULLNAME": "do-you-know-i-love-you",
-        "RATING": 13,
+        "FULLNAME": "/do-you-know-i-love-you",
+        "RATING": 14,
         "COMMENTS": "1"
     },
     {
@@ -667,8 +667,8 @@
     },
     {
         "TITLE": "安塔雷斯運動宣導",
-        "FULLNAME": "propaganda-of-the-antares-movement",
-        "RATING": 10,
+        "FULLNAME": "/propaganda-of-the-antares-movement",
+        "RATING": 11,
         "COMMENTS": "0"
     },
     {
@@ -751,8 +751,8 @@
     },
     {
         "TITLE": "SCP-ZH-279 - 愛的形狀",
-        "FULLNAME": "scp-zh-279",
-        "RATING": 19,
+        "FULLNAME": "/scp-zh-279",
+        "RATING": 20,
         "COMMENTS": "1"
     },
     {
@@ -868,5 +868,71 @@
         "FULLNAME": "artwork-shopping-arcade",
         "RATING": 19,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "萬里長空",
+        "FULLNAME": "/talisman",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-184 - 奔車朽索",
+        "FULLNAME": "/scp-zh-184",
+        "RATING": 22,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-134 - 群",
+        "FULLNAME": "/scp-zh-134",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "不可亂碰管線",
+        "FULLNAME": "/ching-sus",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "無序夢囈",
+        "FULLNAME": "/disorder-flapdoodle",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-750 - 神說：「要有油。」就有了油。",
+        "FULLNAME": "/scp-zh-750",
+        "RATING": 29,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-824 - 最沉重的繪圖筆",
+        "FULLNAME": "/scp-zh-824",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-180 - 安 妮 :-)",
+        "FULLNAME": "/scp-zh-180",
+        "RATING": 20,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-583-J - 哪來的猴子.SCiP",
+        "FULLNAME": "/scp-zh-583-j",
+        "RATING": 13,
+        "COMMENTS": "4"
+    },
+    {
+        "TITLE": "摯寐迸裂",
+        "FULLNAME": "/dreams-always-explode",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Negative",
+        "FULLNAME": "/negative",
+        "RATING": 3,
+        "COMMENTS": "0"
     }
 ]
