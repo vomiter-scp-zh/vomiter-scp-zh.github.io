@@ -613,5 +613,11 @@
         "FULLNAME": "new-tricks",
         "RATING": 2,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "額外資源",
+        "FULLNAME": "/additional-resources",
+        "RATING": 0,
+        "COMMENTS": "0"
     }
 ]
