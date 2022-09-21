@@ -7,7 +7,7 @@
     },
     {
         "TITLE": "SCP-____-j",
-        "FULLNAME": "/scp-j",
+        "FULLNAME": "scp-j",
         "RATING": 25,
         "COMMENTS": "2"
     },
@@ -19,7 +19,7 @@
     },
     {
         "TITLE": "●●|●●●●●|●●|●",
-        "FULLNAME": "/scp-2521",
+        "FULLNAME": "scp-2521",
         "RATING": 22,
         "COMMENTS": "3"
     },
@@ -811,7 +811,7 @@
     },
     {
         "TITLE": "後屎維基",
-        "FULLNAME": "/the-bathrooms-wiki",
+        "FULLNAME": "the-bathrooms-wiki",
         "RATING": 8,
         "COMMENTS": "0"
     },
@@ -853,19 +853,19 @@
     },
     {
         "TITLE": "SCP-7000 - 輸家",
-        "FULLNAME": "/scp-7000",
+        "FULLNAME": "scp-7000",
         "RATING": 17,
         "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-6938 - Alex Thorley得到一匹禮物馬",
-        "FULLNAME": "/scp-6938",
+        "FULLNAME": "scp-6938",
         "RATING": 5,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-5417 - 歡迎回家",
-        "FULLNAME": "/scp-5417",
+        "FULLNAME": "scp-5417",
         "RATING": 5,
         "COMMENTS": "1"
     },
@@ -877,7 +877,7 @@
     },
     {
         "TITLE": "吞噬者",
-        "FULLNAME": "/the-devourer",
+        "FULLNAME": "the-devourer",
         "RATING": 3,
         "COMMENTS": "0"
     }

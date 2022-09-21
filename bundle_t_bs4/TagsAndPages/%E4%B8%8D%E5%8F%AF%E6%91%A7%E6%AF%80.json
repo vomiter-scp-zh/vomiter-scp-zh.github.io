@@ -214,7 +214,7 @@
     },
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
-        "FULLNAME": "/scp-6820",
+        "FULLNAME": "scp-6820",
         "RATING": 13,
         "COMMENTS": "1"
     },
@@ -238,13 +238,13 @@
     },
     {
         "TITLE": "SCP-5417 - 歡迎回家",
-        "FULLNAME": "/scp-5417",
+        "FULLNAME": "scp-5417",
         "RATING": 5,
         "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-159 - 完美封鎖",
-        "FULLNAME": "/scp-159",
+        "FULLNAME": "scp-159",
         "RATING": 1,
         "COMMENTS": "0"
     }

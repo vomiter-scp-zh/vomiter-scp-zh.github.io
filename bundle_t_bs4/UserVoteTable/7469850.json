@@ -3091,7 +3091,7 @@
     },
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
-        "FULLNAME": "/scp-6820",
+        "FULLNAME": "scp-6820",
         "RATING": 13,
         "COMMENTS": "1"
     },
@@ -3169,25 +3169,25 @@
     },
     {
         "TITLE": "SCP-440 - 沙基生態",
-        "FULLNAME": "/scp-440",
+        "FULLNAME": "scp-440",
         "RATING": 4,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-333 - 交響曲中的城市",
-        "FULLNAME": "/scp-333",
+        "FULLNAME": "scp-333",
         "RATING": 3,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-396 - 然後突然地，椅子",
-        "FULLNAME": "/scp-396",
+        "FULLNAME": "scp-396",
         "RATING": 4,
         "COMMENTS": "1"
     },
     {
         "TITLE": "後屎維基",
-        "FULLNAME": "/the-bathrooms-wiki",
+        "FULLNAME": "the-bathrooms-wiki",
         "RATING": 8,
         "COMMENTS": "0"
     }

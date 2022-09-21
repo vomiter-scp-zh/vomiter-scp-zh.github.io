@@ -379,7 +379,7 @@
     },
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
-        "FULLNAME": "/scp-6820",
+        "FULLNAME": "scp-6820",
         "RATING": 13,
         "COMMENTS": "1"
     },
@@ -403,7 +403,7 @@
     },
     {
         "TITLE": "SCP-440 - 沙基生態",
-        "FULLNAME": "/scp-440",
+        "FULLNAME": "scp-440",
         "RATING": 4,
         "COMMENTS": "0"
     },
@@ -415,13 +415,13 @@
     },
     {
         "TITLE": "SCP-7009 - 殊途同歸羅馬",
-        "FULLNAME": "/scp-7009",
+        "FULLNAME": "scp-7009",
         "RATING": 9,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-7070 - 不凋",
-        "FULLNAME": "/scp-7070",
+        "FULLNAME": "scp-7070",
         "RATING": 11,
         "COMMENTS": "0"
     },
@@ -433,19 +433,19 @@
     },
     {
         "TITLE": "SCP-7000 - 輸家",
-        "FULLNAME": "/scp-7000",
+        "FULLNAME": "scp-7000",
         "RATING": 17,
         "COMMENTS": "1"
     },
     {
         "TITLE": "光反應",
-        "FULLNAME": "/light-dependent-reactions",
+        "FULLNAME": "light-dependent-reactions",
         "RATING": 3,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-7025 - 你將死於公車",
-        "FULLNAME": "/scp-7025",
+        "FULLNAME": "scp-7025",
         "RATING": 6,
         "COMMENTS": "0"
     }

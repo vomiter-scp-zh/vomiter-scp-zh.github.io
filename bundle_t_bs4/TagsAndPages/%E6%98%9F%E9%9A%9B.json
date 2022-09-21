@@ -136,19 +136,19 @@
     },
     {
         "TITLE": "SCP-7070 - 不凋",
-        "FULLNAME": "/scp-7070",
+        "FULLNAME": "scp-7070",
         "RATING": 11,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-7009 - 殊途同歸羅馬",
-        "FULLNAME": "/scp-7009",
+        "FULLNAME": "scp-7009",
         "RATING": 9,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-4335 - 坩堝中的宇宙",
-        "FULLNAME": "/scp-4335",
+        "FULLNAME": "scp-4335",
         "RATING": 3,
         "COMMENTS": "2"
     }

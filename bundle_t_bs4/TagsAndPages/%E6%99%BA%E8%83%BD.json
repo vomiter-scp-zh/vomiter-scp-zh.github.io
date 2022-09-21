@@ -1012,7 +1012,7 @@
     },
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
-        "FULLNAME": "/scp-6820",
+        "FULLNAME": "scp-6820",
         "RATING": 13,
         "COMMENTS": "1"
     },
@@ -1096,19 +1096,19 @@
     },
     {
         "TITLE": "SCP-4335 - 坩堝中的宇宙",
-        "FULLNAME": "/scp-4335",
+        "FULLNAME": "scp-4335",
         "RATING": 3,
         "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-039-長鼻工程師",
-        "FULLNAME": "/scp-039",
+        "FULLNAME": "scp-039",
         "RATING": 2,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-6765 - 惡魔奧吉爾與瑪利德拉格血之王座",
-        "FULLNAME": "/scp-6765",
+        "FULLNAME": "scp-6765",
         "RATING": 8,
         "COMMENTS": "0"
     }

@@ -43,7 +43,7 @@
     },
     {
         "TITLE": "SCP-____-j",
-        "FULLNAME": "/scp-j",
+        "FULLNAME": "scp-j",
         "RATING": 25,
         "COMMENTS": "2"
     },
@@ -73,7 +73,7 @@
     },
     {
         "TITLE": "●●|●●●●●|●●|●",
-        "FULLNAME": "/scp-2521",
+        "FULLNAME": "scp-2521",
         "RATING": 22,
         "COMMENTS": "3"
     },
@@ -169,7 +169,7 @@
     },
     {
         "TITLE": "SCP-7000 - 輸家",
-        "FULLNAME": "/scp-7000",
+        "FULLNAME": "scp-7000",
         "RATING": 17,
         "COMMENTS": "1"
     },
@@ -439,13 +439,13 @@
     },
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
-        "FULLNAME": "/scp-6820",
+        "FULLNAME": "scp-6820",
         "RATING": 13,
         "COMMENTS": "1"
     },
     {
         "TITLE": "dado的中心頁是的",
-        "FULLNAME": "/dado-hub",
+        "FULLNAME": "dado-hub",
         "RATING": 13,
         "COMMENTS": "1"
     },
@@ -601,7 +601,7 @@
     },
     {
         "TITLE": "SCP-7013 - 視實是十三",
-        "FULLNAME": "/scp-7013",
+        "FULLNAME": "scp-7013",
         "RATING": 12,
         "COMMENTS": "2"
     },
@@ -811,7 +811,7 @@
     },
     {
         "TITLE": "SCP-7070 - 不凋",
-        "FULLNAME": "/scp-7070",
+        "FULLNAME": "scp-7070",
         "RATING": 11,
         "COMMENTS": "0"
     },

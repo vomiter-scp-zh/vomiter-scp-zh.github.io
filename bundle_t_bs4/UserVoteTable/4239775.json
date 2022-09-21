@@ -13,7 +13,7 @@
     },
     {
         "TITLE": "SCP-____-j",
-        "FULLNAME": "/scp-j",
+        "FULLNAME": "scp-j",
         "RATING": 25,
         "COMMENTS": "2"
     },
@@ -31,7 +31,7 @@
     },
     {
         "TITLE": "dado的中心頁是的",
-        "FULLNAME": "/dado-hub",
+        "FULLNAME": "dado-hub",
         "RATING": 13,
         "COMMENTS": "1"
     },
@@ -745,7 +745,7 @@
     },
     {
         "TITLE": "SCP-7013 - 視實是十三",
-        "FULLNAME": "/scp-7013",
+        "FULLNAME": "scp-7013",
         "RATING": 12,
         "COMMENTS": "2"
     }

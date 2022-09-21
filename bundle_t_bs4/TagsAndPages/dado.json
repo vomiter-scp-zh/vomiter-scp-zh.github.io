@@ -4,7 +4,7 @@
     },
     {
         "TITLE": "dado的中心頁是的",
-        "FULLNAME": "/dado-hub",
+        "FULLNAME": "dado-hub",
         "RATING": 13,
         "COMMENTS": "1"
     },
@@ -70,7 +70,7 @@
     },
     {
         "TITLE": "SCP-4176 - 稅金",
-        "FULLNAME": "/scp-4176",
+        "FULLNAME": "scp-4176",
         "RATING": 2,
         "COMMENTS": "0"
     }

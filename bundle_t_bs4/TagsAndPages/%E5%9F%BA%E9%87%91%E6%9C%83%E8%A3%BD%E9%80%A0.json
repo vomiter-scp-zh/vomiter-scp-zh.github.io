@@ -184,19 +184,19 @@
     },
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
-        "FULLNAME": "/scp-6820",
+        "FULLNAME": "scp-6820",
         "RATING": 13,
         "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-7070 - 不凋",
-        "FULLNAME": "/scp-7070",
+        "FULLNAME": "scp-7070",
         "RATING": 11,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-7001 - Site-19",
-        "FULLNAME": "/scp-7001",
+        "FULLNAME": "scp-7001",
         "RATING": 6,
         "COMMENTS": "0"
     }

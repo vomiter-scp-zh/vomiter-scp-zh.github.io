@@ -298,13 +298,13 @@
     },
     {
         "TITLE": "SCP-7001 - Site-19",
-        "FULLNAME": "/scp-7001",
+        "FULLNAME": "scp-7001",
         "RATING": 6,
         "COMMENTS": "0"
     },
     {
         "TITLE": "全新把戲（或：青年文化殺了我的狗",
-        "FULLNAME": "/new-tricks",
+        "FULLNAME": "new-tricks",
         "RATING": 2,
         "COMMENTS": "0"
     }

@@ -2188,7 +2188,7 @@
     },
     {
         "TITLE": "SCP-7007 - 不幸峽谷",
-        "FULLNAME": "/scp-7007",
+        "FULLNAME": "scp-7007",
         "RATING": 5,
         "COMMENTS": "0"
     },
@@ -2206,7 +2206,7 @@
     },
     {
         "TITLE": "SCP-159 - 完美封鎖",
-        "FULLNAME": "/scp-159",
+        "FULLNAME": "scp-159",
         "RATING": 1,
         "COMMENTS": "0"
     }

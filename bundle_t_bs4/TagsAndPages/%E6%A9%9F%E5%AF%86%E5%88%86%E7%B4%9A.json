@@ -16,7 +16,7 @@
     },
     {
         "TITLE": "SCP-2165 - 不可寬恕",
-        "FULLNAME": "/scp-2165",
+        "FULLNAME": "scp-2165",
         "RATING": 3,
         "COMMENTS": "0"
     },
@@ -514,7 +514,7 @@
     },
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
-        "FULLNAME": "/scp-6820",
+        "FULLNAME": "scp-6820",
         "RATING": 13,
         "COMMENTS": "1"
     },
@@ -538,25 +538,25 @@
     },
     {
         "TITLE": "SCP-7013 - 視實是十三",
-        "FULLNAME": "/scp-7013",
+        "FULLNAME": "scp-7013",
         "RATING": 12,
         "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-7070 - 不凋",
-        "FULLNAME": "/scp-7070",
+        "FULLNAME": "scp-7070",
         "RATING": 11,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-7009 - 殊途同歸羅馬",
-        "FULLNAME": "/scp-7009",
+        "FULLNAME": "scp-7009",
         "RATING": 9,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-7008 - 一朵塑膠玫瑰",
-        "FULLNAME": "/scp-7008",
+        "FULLNAME": "scp-7008",
         "RATING": 6,
         "COMMENTS": "0"
     }

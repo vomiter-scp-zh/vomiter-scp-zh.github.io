@@ -334,13 +334,13 @@
     },
     {
         "TITLE": "SCP-7009 - 殊途同歸羅馬",
-        "FULLNAME": "/scp-7009",
+        "FULLNAME": "scp-7009",
         "RATING": 9,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-5417 - 歡迎回家",
-        "FULLNAME": "/scp-5417",
+        "FULLNAME": "scp-5417",
         "RATING": 5,
         "COMMENTS": "1"
     },
@@ -352,13 +352,13 @@
     },
     {
         "TITLE": "SCP-7001 - Site-19",
-        "FULLNAME": "/scp-7001",
+        "FULLNAME": "scp-7001",
         "RATING": 6,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-067-EX",
-        "FULLNAME": "/scp-067-ex",
+        "FULLNAME": "scp-067-ex",
         "RATING": 3,
         "COMMENTS": "0"
     }

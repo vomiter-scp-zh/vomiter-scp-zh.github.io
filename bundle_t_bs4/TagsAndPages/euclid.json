@@ -2020,13 +2020,13 @@
     },
     {
         "TITLE": "SCP-440 - 沙基生態",
-        "FULLNAME": "/scp-440",
+        "FULLNAME": "scp-440",
         "RATING": 4,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-333 - 交響曲中的城市",
-        "FULLNAME": "/scp-333",
+        "FULLNAME": "scp-333",
         "RATING": 3,
         "COMMENTS": "0"
     },
@@ -2122,25 +2122,25 @@
     },
     {
         "TITLE": "SCP-7000 - 輸家",
-        "FULLNAME": "/scp-7000",
+        "FULLNAME": "scp-7000",
         "RATING": 17,
         "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-067-EX",
-        "FULLNAME": "/scp-067-ex",
+        "FULLNAME": "scp-067-ex",
         "RATING": 3,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-039-長鼻工程師",
-        "FULLNAME": "/scp-039",
+        "FULLNAME": "scp-039",
         "RATING": 2,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-7025 - 你將死於公車",
-        "FULLNAME": "/scp-7025",
+        "FULLNAME": "scp-7025",
         "RATING": 6,
         "COMMENTS": "0"
     }

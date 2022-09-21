@@ -13,7 +13,7 @@
     },
     {
         "TITLE": "dado的中心頁是的",
-        "FULLNAME": "/dado-hub",
+        "FULLNAME": "dado-hub",
         "RATING": 13,
         "COMMENTS": "1"
     },
@@ -1399,7 +1399,7 @@
     },
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
-        "FULLNAME": "/scp-6820",
+        "FULLNAME": "scp-6820",
         "RATING": 13,
         "COMMENTS": "1"
     },
@@ -1459,7 +1459,7 @@
     },
     {
         "TITLE": "後屎維基",
-        "FULLNAME": "/the-bathrooms-wiki",
+        "FULLNAME": "the-bathrooms-wiki",
         "RATING": 8,
         "COMMENTS": "0"
     },
@@ -1573,7 +1573,7 @@
     },
     {
         "TITLE": "あ-N-0064 \"預言獸 件\"銷售目錄",
-        "FULLNAME": "/a-n-0064",
+        "FULLNAME": "a-n-0064",
         "RATING": 4,
         "COMMENTS": "0"
     },
@@ -1603,7 +1603,7 @@
     },
     {
         "TITLE": "SCP-7013 - 視實是十三",
-        "FULLNAME": "/scp-7013",
+        "FULLNAME": "scp-7013",
         "RATING": 12,
         "COMMENTS": "2"
     },
@@ -1627,19 +1627,19 @@
     },
     {
         "TITLE": "SCP-7070 - 不凋",
-        "FULLNAME": "/scp-7070",
+        "FULLNAME": "scp-7070",
         "RATING": 11,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-7007 - 不幸峽谷",
-        "FULLNAME": "/scp-7007",
+        "FULLNAME": "scp-7007",
         "RATING": 5,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-7009 - 殊途同歸羅馬",
-        "FULLNAME": "/scp-7009",
+        "FULLNAME": "scp-7009",
         "RATING": 9,
         "COMMENTS": "0"
     },
@@ -1651,7 +1651,7 @@
     },
     {
         "TITLE": "SCP-7000 - 輸家",
-        "FULLNAME": "/scp-7000",
+        "FULLNAME": "scp-7000",
         "RATING": 17,
         "COMMENTS": "1"
     },
@@ -1681,13 +1681,13 @@
     },
     {
         "TITLE": "SCP-6765 - 惡魔奧吉爾與瑪利德拉格血之王座",
-        "FULLNAME": "/scp-6765",
+        "FULLNAME": "scp-6765",
         "RATING": 8,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-7025 - 你將死於公車",
-        "FULLNAME": "/scp-7025",
+        "FULLNAME": "scp-7025",
         "RATING": 6,
         "COMMENTS": "0"
     }
