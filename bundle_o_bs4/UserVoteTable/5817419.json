@@ -67,8 +67,8 @@
     },
     {
         "TITLE": "SCP-ZH-006",
-        "FULLNAME": "scp-zh-006",
-        "RATING": 10,
+        "FULLNAME": "/scp-zh-006",
+        "RATING": 11,
         "COMMENTS": "6"
     },
     {
@@ -91,8 +91,8 @@
     },
     {
         "TITLE": "洗標：橘2147-Dr. Bales的實驗衣",
-        "FULLNAME": "orange-2147",
-        "RATING": 10,
+        "FULLNAME": "/orange-2147",
+        "RATING": 11,
         "COMMENTS": "0"
     },
     {
@@ -145,14 +145,14 @@
     },
     {
         "TITLE": "Ctrl Z博士的SCP記錄：SCP-2295 有著拼布心臟的熊",
-        "FULLNAME": "bangyen2295",
-        "RATING": 10,
+        "FULLNAME": "/bangyen2295",
+        "RATING": 11,
         "COMMENTS": "0"
     },
     {
         "TITLE": "Ctrl Z博士的SCP記錄：SCP-093 紅海物件",
-        "FULLNAME": "bangyen093",
-        "RATING": 7,
+        "FULLNAME": "/bangyen093",
+        "RATING": 8,
         "COMMENTS": "0"
     },
     {
@@ -271,8 +271,8 @@
     },
     {
         "TITLE": "SCP-ZH-120",
-        "FULLNAME": "scp-zh-120",
-        "RATING": 38,
+        "FULLNAME": "/scp-zh-120",
+        "RATING": 39,
         "COMMENTS": "4"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
         "TITLE": "山姆的ZH分部角色紀錄本",
-        "FULLNAME": "doodles-from-sam",
-        "RATING": 24,
+        "FULLNAME": "/doodles-from-sam",
+        "RATING": 25,
         "COMMENTS": "3"
     },
     {
@@ -499,8 +499,8 @@
     },
     {
         "TITLE": "觀測者並未存在",
-        "FULLNAME": "tina-uni1",
-        "RATING": 9,
+        "FULLNAME": "/tina-uni1",
+        "RATING": 10,
         "COMMENTS": "0"
     },
     {
@@ -697,8 +697,8 @@
     },
     {
         "TITLE": "SCP-ZH-289",
-        "FULLNAME": "scp-zh-289",
-        "RATING": 14,
+        "FULLNAME": "/scp-zh-289",
+        "RATING": 15,
         "COMMENTS": "4"
     },
     {
@@ -787,8 +787,8 @@
     },
     {
         "TITLE": "廁所裡的致命模因",
-        "FULLNAME": "the-bottle-in-restroom",
-        "RATING": 31,
+        "FULLNAME": "/the-bottle-in-restroom",
+        "RATING": 32,
         "COMMENTS": "7"
     },
     {
@@ -895,8 +895,8 @@
     },
     {
         "TITLE": "SCP-ZH-496 - 安全極限距離",
-        "FULLNAME": "scp-zh-496",
-        "RATING": 28,
+        "FULLNAME": "/scp-zh-496",
+        "RATING": 29,
         "COMMENTS": "7"
     },
     {
@@ -931,8 +931,8 @@
     },
     {
         "TITLE": "SCP-ZH-00l",
-        "FULLNAME": "scp-zh-00l",
-        "RATING": 12,
+        "FULLNAME": "/scp-zh-00l",
+        "RATING": 13,
         "COMMENTS": "5"
     },
     {
@@ -961,7 +961,7 @@
     },
     {
         "TITLE": "炙熱的午後時光",
-        "FULLNAME": "/the-ss-vs-ss",
+        "FULLNAME": "the-ss-vs-ss",
         "RATING": 29,
         "COMMENTS": "19"
     },

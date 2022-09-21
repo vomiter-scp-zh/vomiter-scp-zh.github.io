@@ -805,8 +805,8 @@
     },
     {
         "TITLE": "SCP-5618 - 「死路」",
-        "FULLNAME": "scp-5618",
-        "RATING": 12,
+        "FULLNAME": "/scp-5618",
+        "RATING": 13,
         "COMMENTS": "3"
     },
     {
@@ -919,8 +919,8 @@
     },
     {
         "TITLE": "SCP-2639 - 電玩遊戲暴力",
-        "FULLNAME": "scp-2639",
-        "RATING": 8,
+        "FULLNAME": "/scp-2639",
+        "RATING": 9,
         "COMMENTS": "0"
     },
     {
@@ -985,8 +985,8 @@
     },
     {
         "TITLE": "SCP-4182 - Site-5不存在",
-        "FULLNAME": "scp-4182",
-        "RATING": 13,
+        "FULLNAME": "/scp-4182",
+        "RATING": 14,
         "COMMENTS": "0"
     },
     {
@@ -1183,8 +1183,8 @@
     },
     {
         "TITLE": "代號：████ ███ — 真相",
-        "FULLNAME": "code-name-the-truth",
-        "RATING": 2,
+        "FULLNAME": "/code-name-the-truth",
+        "RATING": 3,
         "COMMENTS": "0"
     },
     {
@@ -1465,8 +1465,8 @@
     },
     {
         "TITLE": "SCP-3005 - 一道死去的光",
-        "FULLNAME": "scp-3005",
-        "RATING": 5,
+        "FULLNAME": "/scp-3005",
+        "RATING": 6,
         "COMMENTS": "0"
     },
     {
@@ -1867,8 +1867,8 @@
     },
     {
         "TITLE": "SCP-2419 - 狂笑者",
-        "FULLNAME": "scp-2419",
-        "RATING": 12,
+        "FULLNAME": "/scp-2419",
+        "RATING": 13,
         "COMMENTS": "0"
     },
     {
@@ -2046,7 +2046,7 @@
         "COMMENTS": "1"
     },
     {
-        "TITLE": "完整計畫",
+        "TITLE": "整合計畫",
         "FULLNAME": "integrity-project",
         "RATING": 2,
         "COMMENTS": "0"
@@ -2131,8 +2131,8 @@
     },
     {
         "TITLE": "維安設施檔案：Site-418",
-        "FULLNAME": "secure-facility-dossier-site-418",
-        "RATING": 6,
+        "FULLNAME": "/secure-facility-dossier-site-418",
+        "RATING": 8,
         "COMMENTS": "0"
     },
     {

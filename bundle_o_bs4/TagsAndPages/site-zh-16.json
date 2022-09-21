@@ -88,8 +88,8 @@
     },
     {
         "TITLE": "洗標：橘2147-Dr. Bales的實驗衣",
-        "FULLNAME": "orange-2147",
-        "RATING": 10,
+        "FULLNAME": "/orange-2147",
+        "RATING": 11,
         "COMMENTS": "0"
     },
     {
@@ -196,8 +196,8 @@
     },
     {
         "TITLE": "山姆的ZH分部角色紀錄本",
-        "FULLNAME": "doodles-from-sam",
-        "RATING": 24,
+        "FULLNAME": "/doodles-from-sam",
+        "RATING": 25,
         "COMMENTS": "3"
     },
     {
@@ -448,8 +448,8 @@
     },
     {
         "TITLE": "SCP-ZH-526",
-        "FULLNAME": "scp-zh-526",
-        "RATING": 18,
+        "FULLNAME": "/scp-zh-526",
+        "RATING": 19,
         "COMMENTS": "1"
     },
     {
@@ -538,7 +538,7 @@
     },
     {
         "TITLE": "SCP-ZH-416",
-        "FULLNAME": "/scp-zh-416",
+        "FULLNAME": "scp-zh-416",
         "RATING": 10,
         "COMMENTS": "0"
     },
@@ -580,7 +580,7 @@
     },
     {
         "TITLE": "SCP-ZH-060-J - Re:在音竹宇宙重生的煩人美少女到底是甚麼東西呀?!",
-        "FULLNAME": "/scp-zh-060-j",
+        "FULLNAME": "scp-zh-060-j",
         "RATING": 21,
         "COMMENTS": "10"
     },
@@ -598,7 +598,7 @@
     },
     {
         "TITLE": "SCP-ZH-092",
-        "FULLNAME": "/scp-zh-092",
+        "FULLNAME": "scp-zh-092",
         "RATING": -3,
         "COMMENTS": "4"
     },
@@ -682,7 +682,7 @@
     },
     {
         "TITLE": "假面騎士Theseus：一意孤行",
-        "FULLNAME": "/kamen-rider-theseus-alone-in-the-dark",
+        "FULLNAME": "kamen-rider-theseus-alone-in-the-dark",
         "RATING": 13,
         "COMMENTS": "1"
     },

@@ -1,8 +1,8 @@
 [
     {
         "TITLE": "SCP-ZH-017",
-        "FULLNAME": "scp-zh-017",
-        "RATING": 18,
+        "FULLNAME": "/scp-zh-017",
+        "RATING": 19,
         "COMMENTS": "1"
     },
     {
@@ -217,8 +217,8 @@
     },
     {
         "TITLE": "SCP-ZH-526",
-        "FULLNAME": "scp-zh-526",
-        "RATING": 18,
+        "FULLNAME": "/scp-zh-526",
+        "RATING": 19,
         "COMMENTS": "1"
     },
     {
@@ -235,8 +235,8 @@
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 55,
+        "FULLNAME": "/scp-zh-2005-ex",
+        "RATING": 56,
         "COMMENTS": "1"
     },
     {
@@ -301,13 +301,13 @@
     },
     {
         "TITLE": "SCP-ZH-416",
-        "FULLNAME": "/scp-zh-416",
+        "FULLNAME": "scp-zh-416",
         "RATING": 10,
         "COMMENTS": "0"
     },
     {
         "TITLE": "k1s10r0d的提案 - IMMOLARI",
-        "FULLNAME": "/k1s10r0d-s-proposal",
+        "FULLNAME": "k1s10r0d-s-proposal",
         "RATING": 35,
         "COMMENTS": "3"
     }

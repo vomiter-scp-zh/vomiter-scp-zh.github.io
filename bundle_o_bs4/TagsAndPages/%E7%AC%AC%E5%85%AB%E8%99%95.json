@@ -88,8 +88,8 @@
     },
     {
         "TITLE": "核裂擠兌中心頁",
-        "FULLNAME": "operation-nucleon-bank",
-        "RATING": 15,
+        "FULLNAME": "/operation-nucleon-bank",
+        "RATING": 16,
         "COMMENTS": "0"
     },
     {
@@ -208,7 +208,7 @@
     },
     {
         "TITLE": "中華民國國家安全局第八處 中心頁",
-        "FULLNAME": "/nsb8-hub",
+        "FULLNAME": "nsb8-hub",
         "RATING": 14,
         "COMMENTS": "3"
     },

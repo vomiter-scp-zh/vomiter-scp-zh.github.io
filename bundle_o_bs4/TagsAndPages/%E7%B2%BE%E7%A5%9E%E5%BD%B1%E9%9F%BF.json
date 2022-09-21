@@ -76,8 +76,8 @@
     },
     {
         "TITLE": "SCP-ZH-025",
-        "FULLNAME": "scp-zh-025",
-        "RATING": 15,
+        "FULLNAME": "/scp-zh-025",
+        "RATING": 16,
         "COMMENTS": "2"
     },
     {
@@ -250,8 +250,8 @@
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 55,
+        "FULLNAME": "/scp-zh-2005-ex",
+        "RATING": 56,
         "COMMENTS": "1"
     },
     {
@@ -304,7 +304,7 @@
     },
     {
         "TITLE": "SCP-ZH-416",
-        "FULLNAME": "/scp-zh-416",
+        "FULLNAME": "scp-zh-416",
         "RATING": 10,
         "COMMENTS": "0"
     },
@@ -364,7 +364,7 @@
     },
     {
         "TITLE": "SCP-ZH-776",
-        "FULLNAME": "/scp-zh-776",
+        "FULLNAME": "scp-zh-776",
         "RATING": 7,
         "COMMENTS": "6"
     },

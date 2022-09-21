@@ -13,8 +13,8 @@
     },
     {
         "TITLE": "SCP-ZH-006",
-        "FULLNAME": "scp-zh-006",
-        "RATING": 10,
+        "FULLNAME": "/scp-zh-006",
+        "RATING": 11,
         "COMMENTS": "6"
     },
     {
@@ -85,8 +85,8 @@
     },
     {
         "TITLE": "廁所裡的致命模因",
-        "FULLNAME": "the-bottle-in-restroom",
-        "RATING": 31,
+        "FULLNAME": "/the-bottle-in-restroom",
+        "RATING": 32,
         "COMMENTS": "7"
     },
     {
@@ -145,13 +145,13 @@
     },
     {
         "TITLE": "SCP-ZH-416",
-        "FULLNAME": "/scp-zh-416",
+        "FULLNAME": "scp-zh-416",
         "RATING": 10,
         "COMMENTS": "0"
     },
     {
         "TITLE": "中華民國國家安全局第八處 中心頁",
-        "FULLNAME": "/nsb8-hub",
+        "FULLNAME": "nsb8-hub",
         "RATING": 14,
         "COMMENTS": "3"
     },
@@ -169,7 +169,7 @@
     },
     {
         "TITLE": "SCP-ZH-060-J - Re:在音竹宇宙重生的煩人美少女到底是甚麼東西呀?!",
-        "FULLNAME": "/scp-zh-060-j",
+        "FULLNAME": "scp-zh-060-j",
         "RATING": 21,
         "COMMENTS": "10"
     },
@@ -205,7 +205,7 @@
     },
     {
         "TITLE": "SCP-ZH-999-J - 工",
-        "FULLNAME": "/scp-zh-999-j",
+        "FULLNAME": "scp-zh-999-j",
         "RATING": 5,
         "COMMENTS": "18"
     },
@@ -223,13 +223,13 @@
     },
     {
         "TITLE": "SCP-ZH-063 - 歡 笑 不 再",
-        "FULLNAME": "/scp-zh-063",
+        "FULLNAME": "scp-zh-063",
         "RATING": 18,
         "COMMENTS": "0"
     },
     {
         "TITLE": "k1s10r0d的提案 - IMMOLARI",
-        "FULLNAME": "/k1s10r0d-s-proposal",
+        "FULLNAME": "k1s10r0d-s-proposal",
         "RATING": 35,
         "COMMENTS": "3"
     },

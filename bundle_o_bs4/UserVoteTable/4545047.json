@@ -25,8 +25,8 @@
     },
     {
         "TITLE": "SCP-ZH-017",
-        "FULLNAME": "scp-zh-017",
-        "RATING": 18,
+        "FULLNAME": "/scp-zh-017",
+        "RATING": 19,
         "COMMENTS": "1"
     },
     {
@@ -49,8 +49,8 @@
     },
     {
         "TITLE": "SCP-ZH-289",
-        "FULLNAME": "scp-zh-289",
-        "RATING": 14,
+        "FULLNAME": "/scp-zh-289",
+        "RATING": 15,
         "COMMENTS": "4"
     }
 ]

@@ -49,8 +49,8 @@
     },
     {
         "TITLE": "SCP-ZH-017",
-        "FULLNAME": "scp-zh-017",
-        "RATING": 18,
+        "FULLNAME": "/scp-zh-017",
+        "RATING": 19,
         "COMMENTS": "1"
     },
     {
@@ -223,8 +223,8 @@
     },
     {
         "TITLE": "SCP-ZH-127",
-        "FULLNAME": "scp-zh-127",
-        "RATING": 9,
+        "FULLNAME": "/scp-zh-127",
+        "RATING": 12,
         "COMMENTS": "0"
     },
     {
@@ -451,8 +451,8 @@
     },
     {
         "TITLE": "站點綠化提案",
-        "FULLNAME": "greening",
-        "RATING": 17,
+        "FULLNAME": "/greening",
+        "RATING": 18,
         "COMMENTS": "1"
     },
     {
@@ -469,8 +469,8 @@
     },
     {
         "TITLE": "首級",
-        "FULLNAME": "head",
-        "RATING": 15,
+        "FULLNAME": "/head",
+        "RATING": 16,
         "COMMENTS": "1"
     },
     {
@@ -847,8 +847,8 @@
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-81",
-        "FULLNAME": "site-zh-81",
-        "RATING": 18,
+        "FULLNAME": "/site-zh-81",
+        "RATING": 19,
         "COMMENTS": "0"
     },
     {
@@ -865,8 +865,8 @@
     },
     {
         "TITLE": "Valentine的Logo頁",
-        "FULLNAME": "valentine-logo",
-        "RATING": 21,
+        "FULLNAME": "/valentine-logo",
+        "RATING": 22,
         "COMMENTS": "1"
     },
     {
@@ -901,8 +901,8 @@
     },
     {
         "TITLE": "SCP-ZH-120",
-        "FULLNAME": "scp-zh-120",
-        "RATING": 38,
+        "FULLNAME": "/scp-zh-120",
+        "RATING": 39,
         "COMMENTS": "4"
     },
     {
@@ -931,14 +931,14 @@
     },
     {
         "TITLE": "山姆的ZH分部角色紀錄本",
-        "FULLNAME": "doodles-from-sam",
-        "RATING": 24,
+        "FULLNAME": "/doodles-from-sam",
+        "RATING": 25,
         "COMMENTS": "3"
     },
     {
         "TITLE": "核裂擠兌中心頁",
-        "FULLNAME": "operation-nucleon-bank",
-        "RATING": 15,
+        "FULLNAME": "/operation-nucleon-bank",
+        "RATING": 16,
         "COMMENTS": "0"
     },
     {
@@ -1171,8 +1171,8 @@
     },
     {
         "TITLE": "觀測者並未存在",
-        "FULLNAME": "tina-uni1",
-        "RATING": 9,
+        "FULLNAME": "/tina-uni1",
+        "RATING": 10,
         "COMMENTS": "0"
     },
     {
@@ -1873,8 +1873,8 @@
     },
     {
         "TITLE": "航海學中心頁",
-        "FULLNAME": "navigation",
-        "RATING": 20,
+        "FULLNAME": "/navigation",
+        "RATING": 21,
         "COMMENTS": "0"
     },
     {
@@ -1993,8 +1993,8 @@
     },
     {
         "TITLE": "廁所裡的致命模因",
-        "FULLNAME": "the-bottle-in-restroom",
-        "RATING": 31,
+        "FULLNAME": "/the-bottle-in-restroom",
+        "RATING": 32,
         "COMMENTS": "7"
     },
     {
@@ -2437,8 +2437,8 @@
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 55,
+        "FULLNAME": "/scp-zh-2005-ex",
+        "RATING": 56,
         "COMMENTS": "1"
     },
     {
@@ -2641,7 +2641,7 @@
     },
     {
         "TITLE": "故事的力量～你為什麼需要超形上學～",
-        "FULLNAME": "/why-you-need-pataphysics",
+        "FULLNAME": "why-you-need-pataphysics",
         "RATING": 26,
         "COMMENTS": "1"
     },
@@ -2653,7 +2653,7 @@
     },
     {
         "TITLE": "炙熱的午後時光",
-        "FULLNAME": "/the-ss-vs-ss",
+        "FULLNAME": "the-ss-vs-ss",
         "RATING": 29,
         "COMMENTS": "19"
     },
@@ -2707,7 +2707,7 @@
     },
     {
         "TITLE": "萬里長空",
-        "FULLNAME": "/talisman",
+        "FULLNAME": "talisman",
         "RATING": 15,
         "COMMENTS": "1"
     },
@@ -2725,7 +2725,7 @@
     },
     {
         "TITLE": "中華民國國家安全局第八處 中心頁",
-        "FULLNAME": "/nsb8-hub",
+        "FULLNAME": "nsb8-hub",
         "RATING": 14,
         "COMMENTS": "3"
     },
@@ -3013,13 +3013,13 @@
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
-        "FULLNAME": "/scp-zh-999",
+        "FULLNAME": "scp-zh-999",
         "RATING": 56,
         "COMMENTS": "13"
     },
     {
         "TITLE": "SCP-ZH-063 - 歡 笑 不 再",
-        "FULLNAME": "/scp-zh-063",
+        "FULLNAME": "scp-zh-063",
         "RATING": 18,
         "COMMENTS": "0"
     },
@@ -3031,7 +3031,7 @@
     },
     {
         "TITLE": "k1s10r0d的提案 - IMMOLARI",
-        "FULLNAME": "/k1s10r0d-s-proposal",
+        "FULLNAME": "k1s10r0d-s-proposal",
         "RATING": 35,
         "COMMENTS": "3"
     },
@@ -3043,7 +3043,7 @@
     },
     {
         "TITLE": "SCP-ZH-517 - One More Time, One More Chance",
-        "FULLNAME": "/scp-zh-517",
+        "FULLNAME": "scp-zh-517",
         "RATING": 21,
         "COMMENTS": "1"
     },
@@ -3265,7 +3265,7 @@
     },
     {
         "TITLE": "SCP-ZH-106-「逆模因」",
-        "FULLNAME": "/scp-zh-106",
+        "FULLNAME": "scp-zh-106",
         "RATING": 23,
         "COMMENTS": "4"
     },
@@ -3277,7 +3277,7 @@
     },
     {
         "TITLE": "SCP-ZH-255 - 孤獨險",
-        "FULLNAME": "/scp-zh-225",
+        "FULLNAME": "scp-zh-225",
         "RATING": 19,
         "COMMENTS": "0"
     },

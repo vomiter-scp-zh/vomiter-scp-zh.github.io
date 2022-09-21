@@ -1,8 +1,8 @@
 [
     {
         "TITLE": "站點綠化提案",
-        "FULLNAME": "greening",
-        "RATING": 17,
+        "FULLNAME": "/greening",
+        "RATING": 18,
         "COMMENTS": "1"
     },
     {
@@ -19,8 +19,8 @@
     },
     {
         "TITLE": "Ctrl Z博士的SCP記錄：SCP-093 紅海物件",
-        "FULLNAME": "bangyen093",
-        "RATING": 7,
+        "FULLNAME": "/bangyen093",
+        "RATING": 8,
         "COMMENTS": "0"
     },
     {
@@ -157,8 +157,8 @@
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 55,
+        "FULLNAME": "/scp-zh-2005-ex",
+        "RATING": 56,
         "COMMENTS": "1"
     },
     {
@@ -349,7 +349,7 @@
     },
     {
         "TITLE": "炙熱的午後時光",
-        "FULLNAME": "/the-ss-vs-ss",
+        "FULLNAME": "the-ss-vs-ss",
         "RATING": 29,
         "COMMENTS": "19"
     },

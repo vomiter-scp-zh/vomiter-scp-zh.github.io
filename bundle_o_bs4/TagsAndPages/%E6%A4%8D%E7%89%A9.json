@@ -82,7 +82,7 @@
     },
     {
         "TITLE": "SCP-ZH-128",
-        "FULLNAME": "/scp-zh-128",
+        "FULLNAME": "scp-zh-128",
         "RATING": 20,
         "COMMENTS": "3"
     },
@@ -100,7 +100,7 @@
     },
     {
         "TITLE": "SCP-ZH-352 - 絕命六龜葡萄",
-        "FULLNAME": "/scp-zh-352",
+        "FULLNAME": "scp-zh-352",
         "RATING": 17,
         "COMMENTS": "4"
     },

@@ -115,8 +115,8 @@
     },
     {
         "TITLE": "SCP-ZH-120",
-        "FULLNAME": "scp-zh-120",
-        "RATING": 38,
+        "FULLNAME": "/scp-zh-120",
+        "RATING": 39,
         "COMMENTS": "4"
     },
     {
@@ -277,13 +277,13 @@
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 55,
+        "FULLNAME": "/scp-zh-2005-ex",
+        "RATING": 56,
         "COMMENTS": "1"
     },
     {
         "TITLE": "故事的力量～你為什麼需要超形上學～",
-        "FULLNAME": "/why-you-need-pataphysics",
+        "FULLNAME": "why-you-need-pataphysics",
         "RATING": 26,
         "COMMENTS": "1"
     },

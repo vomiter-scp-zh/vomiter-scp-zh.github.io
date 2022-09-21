@@ -3316,8 +3316,8 @@
     },
     {
         "TITLE": "SCP-455 - 貨船",
-        "FULLNAME": "scp-455",
-        "RATING": 2,
+        "FULLNAME": "/scp-455",
+        "RATING": 3,
         "COMMENTS": "1"
     },
     {
@@ -3538,8 +3538,8 @@
     },
     {
         "TITLE": "Glass博士的心理評估",
-        "FULLNAME": "routine-psychological-evaluations-by-dr-glass",
-        "RATING": 12,
+        "FULLNAME": "/routine-psychological-evaluations-by-dr-glass",
+        "RATING": 13,
         "COMMENTS": "0"
     },
     {
@@ -3730,8 +3730,8 @@
     },
     {
         "TITLE": "UIU職前訓練",
-        "FULLNAME": "uiu-orientation",
-        "RATING": 9,
+        "FULLNAME": "/uiu-orientation",
+        "RATING": 10,
         "COMMENTS": "0"
     },
     {
@@ -4180,8 +4180,8 @@
     },
     {
         "TITLE": "SCP-666½-J",
-        "FULLNAME": "scp-666-and-a-half-j",
-        "RATING": 8,
+        "FULLNAME": "/scp-666-and-a-half-j",
+        "RATING": 9,
         "COMMENTS": "1"
     },
     {
@@ -4396,8 +4396,8 @@
     },
     {
         "TITLE": "SCP-1440 - 來歷不明的老人",
-        "FULLNAME": "scp-1440",
-        "RATING": 7,
+        "FULLNAME": "/scp-1440",
+        "RATING": 8,
         "COMMENTS": "1"
     },
     {
@@ -4534,8 +4534,8 @@
     },
     {
         "TITLE": "SCP-5618 - 「死路」",
-        "FULLNAME": "scp-5618",
-        "RATING": 12,
+        "FULLNAME": "/scp-5618",
+        "RATING": 13,
         "COMMENTS": "3"
     },
     {
@@ -4762,8 +4762,8 @@
     },
     {
         "TITLE": "SCP-2639 - 電玩遊戲暴力",
-        "FULLNAME": "scp-2639",
-        "RATING": 8,
+        "FULLNAME": "/scp-2639",
+        "RATING": 9,
         "COMMENTS": "0"
     },
     {
@@ -4870,8 +4870,8 @@
     },
     {
         "TITLE": "SCP-4182 - Site-5不存在",
-        "FULLNAME": "scp-4182",
-        "RATING": 13,
+        "FULLNAME": "/scp-4182",
+        "RATING": 14,
         "COMMENTS": "0"
     },
     {
@@ -5158,8 +5158,8 @@
     },
     {
         "TITLE": "代號：████ ███ — 真相",
-        "FULLNAME": "code-name-the-truth",
-        "RATING": 2,
+        "FULLNAME": "/code-name-the-truth",
+        "RATING": 3,
         "COMMENTS": "0"
     },
     {
@@ -5374,8 +5374,8 @@
     },
     {
         "TITLE": "SCP-5764 - 這裏什麼都沒有。",
-        "FULLNAME": "scp-5764",
-        "RATING": 7,
+        "FULLNAME": "/scp-5764",
+        "RATING": 8,
         "COMMENTS": "2"
     },
     {
@@ -5692,8 +5692,8 @@
     },
     {
         "TITLE": "SCP-3005 - 一道死去的光",
-        "FULLNAME": "scp-3005",
-        "RATING": 5,
+        "FULLNAME": "/scp-3005",
+        "RATING": 6,
         "COMMENTS": "0"
     },
     {
@@ -6448,8 +6448,8 @@
     },
     {
         "TITLE": "SCP-6008 - 諾亞方舟",
-        "FULLNAME": "scp-6008",
-        "RATING": 4,
+        "FULLNAME": "/scp-6008",
+        "RATING": 5,
         "COMMENTS": "0"
     },
     {
@@ -6520,8 +6520,8 @@
     },
     {
         "TITLE": "SCP-320 - 希格斯場加速度操縱子",
-        "FULLNAME": "scp-320",
-        "RATING": 2,
+        "FULLNAME": "/scp-320",
+        "RATING": 3,
         "COMMENTS": "0"
     },
     {
@@ -6562,8 +6562,8 @@
     },
     {
         "TITLE": "SCP-4012 - 勝過指引千萬群星不再舞動",
-        "FULLNAME": "scp-4012",
-        "RATING": 6,
+        "FULLNAME": "/scp-4012",
+        "RATING": 7,
         "COMMENTS": "0"
     },
     {
@@ -6574,8 +6574,8 @@
     },
     {
         "TITLE": "SCP-2419 - 狂笑者",
-        "FULLNAME": "scp-2419",
-        "RATING": 12,
+        "FULLNAME": "/scp-2419",
+        "RATING": 13,
         "COMMENTS": "0"
     },
     {
@@ -6718,8 +6718,8 @@
     },
     {
         "TITLE": "SCP-6263 - 現世速報",
-        "FULLNAME": "scp-6263",
-        "RATING": 5,
+        "FULLNAME": "/scp-6263",
+        "RATING": 6,
         "COMMENTS": "0"
     },
     {
@@ -6897,7 +6897,7 @@
         "COMMENTS": "1"
     },
     {
-        "TITLE": "完整計畫",
+        "TITLE": "整合計畫",
         "FULLNAME": "integrity-project",
         "RATING": 2,
         "COMMENTS": "0"
@@ -7066,8 +7066,8 @@
     },
     {
         "TITLE": "維安設施檔案：Site-418",
-        "FULLNAME": "secure-facility-dossier-site-418",
-        "RATING": 6,
+        "FULLNAME": "/secure-facility-dossier-site-418",
+        "RATING": 8,
         "COMMENTS": "0"
     },
     {
@@ -7366,8 +7366,8 @@
     },
     {
         "TITLE": "SCP-090 - 末數方塊",
-        "FULLNAME": "scp-090",
-        "RATING": 0,
+        "FULLNAME": "/scp-090",
+        "RATING": -1,
         "COMMENTS": "0"
     },
     {
@@ -7894,8 +7894,8 @@
     },
     {
         "TITLE": "SCP-539 - 完全分心盤",
-        "FULLNAME": "scp-539",
-        "RATING": 2,
+        "FULLNAME": "/scp-539",
+        "RATING": 3,
         "COMMENTS": "0"
     },
     {
@@ -8080,8 +8080,8 @@
     },
     {
         "TITLE": "時空站點Site-01（RCT-Δt中心）",
-        "FULLNAME": "welcome-to-delta-t",
-        "RATING": 6,
+        "FULLNAME": "/welcome-to-delta-t",
+        "RATING": 8,
         "COMMENTS": "0"
     },
     {

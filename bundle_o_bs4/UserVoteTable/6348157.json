@@ -61,8 +61,8 @@
     },
     {
         "TITLE": "SCP-ZH-120",
-        "FULLNAME": "scp-zh-120",
-        "RATING": 38,
+        "FULLNAME": "/scp-zh-120",
+        "RATING": 39,
         "COMMENTS": "4"
     },
     {
@@ -361,8 +361,8 @@
     },
     {
         "TITLE": "SCP-ZH-526",
-        "FULLNAME": "scp-zh-526",
-        "RATING": 18,
+        "FULLNAME": "/scp-zh-526",
+        "RATING": 19,
         "COMMENTS": "1"
     },
     {
@@ -415,8 +415,8 @@
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 55,
+        "FULLNAME": "/scp-zh-2005-ex",
+        "RATING": 56,
         "COMMENTS": "1"
     },
     {
@@ -577,8 +577,8 @@
     },
     {
         "TITLE": "SCP-ZH-00l",
-        "FULLNAME": "scp-zh-00l",
-        "RATING": 12,
+        "FULLNAME": "/scp-zh-00l",
+        "RATING": 13,
         "COMMENTS": "5"
     },
     {
@@ -721,7 +721,7 @@
     },
     {
         "TITLE": "故事的力量～你為什麼需要超形上學～",
-        "FULLNAME": "/why-you-need-pataphysics",
+        "FULLNAME": "why-you-need-pataphysics",
         "RATING": 26,
         "COMMENTS": "1"
     },
@@ -745,7 +745,7 @@
     },
     {
         "TITLE": "炙熱的午後時光",
-        "FULLNAME": "/the-ss-vs-ss",
+        "FULLNAME": "the-ss-vs-ss",
         "RATING": 29,
         "COMMENTS": "19"
     },
@@ -787,7 +787,7 @@
     },
     {
         "TITLE": "SCP-ZH-416",
-        "FULLNAME": "/scp-zh-416",
+        "FULLNAME": "scp-zh-416",
         "RATING": 10,
         "COMMENTS": "0"
     },
@@ -853,7 +853,7 @@
     },
     {
         "TITLE": "SCP-ZH-060-J - Re:在音竹宇宙重生的煩人美少女到底是甚麼東西呀?!",
-        "FULLNAME": "/scp-zh-060-j",
+        "FULLNAME": "scp-zh-060-j",
         "RATING": 21,
         "COMMENTS": "10"
     },

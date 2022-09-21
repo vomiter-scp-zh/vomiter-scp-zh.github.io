@@ -25,8 +25,8 @@
     },
     {
         "TITLE": "SCP-ZH-017",
-        "FULLNAME": "scp-zh-017",
-        "RATING": 18,
+        "FULLNAME": "/scp-zh-017",
+        "RATING": 19,
         "COMMENTS": "1"
     },
     {
@@ -127,7 +127,7 @@
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
-        "FULLNAME": "/scp-zh-999",
+        "FULLNAME": "scp-zh-999",
         "RATING": 56,
         "COMMENTS": "13"
     },

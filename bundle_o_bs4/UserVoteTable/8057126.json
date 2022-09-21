@@ -7,8 +7,8 @@
     },
     {
         "TITLE": "SCP-ZH-00l",
-        "FULLNAME": "scp-zh-00l",
-        "RATING": 12,
+        "FULLNAME": "/scp-zh-00l",
+        "RATING": 13,
         "COMMENTS": "5"
     },
     {
@@ -34,5 +34,11 @@
         "FULLNAME": "urban-legend-department",
         "RATING": 16,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-025",
+        "FULLNAME": "/scp-zh-025",
+        "RATING": 16,
+        "COMMENTS": "2"
     }
 ]

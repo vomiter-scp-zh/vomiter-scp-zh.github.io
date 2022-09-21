@@ -79,14 +79,14 @@
     },
     {
         "TITLE": "SCP-ZH-120",
-        "FULLNAME": "scp-zh-120",
-        "RATING": 38,
+        "FULLNAME": "/scp-zh-120",
+        "RATING": 39,
         "COMMENTS": "4"
     },
     {
         "TITLE": "山姆的ZH分部角色紀錄本",
-        "FULLNAME": "doodles-from-sam",
-        "RATING": 24,
+        "FULLNAME": "/doodles-from-sam",
+        "RATING": 25,
         "COMMENTS": "3"
     },
     {
@@ -247,8 +247,8 @@
     },
     {
         "TITLE": "SCP-ZH-526",
-        "FULLNAME": "scp-zh-526",
-        "RATING": 18,
+        "FULLNAME": "/scp-zh-526",
+        "RATING": 19,
         "COMMENTS": "1"
     },
     {
@@ -259,8 +259,8 @@
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 55,
+        "FULLNAME": "/scp-zh-2005-ex",
+        "RATING": 56,
         "COMMENTS": "1"
     },
     {
@@ -283,8 +283,8 @@
     },
     {
         "TITLE": "SCP-ZH-496 - 安全極限距離",
-        "FULLNAME": "scp-zh-496",
-        "RATING": 28,
+        "FULLNAME": "/scp-zh-496",
+        "RATING": 29,
         "COMMENTS": "7"
     },
     {
@@ -379,7 +379,7 @@
     },
     {
         "TITLE": "莉亞",
-        "FULLNAME": "/riariaria2",
+        "FULLNAME": "riariaria2",
         "RATING": 16,
         "COMMENTS": "5"
     },
@@ -433,7 +433,7 @@
     },
     {
         "TITLE": "SCP-ZH-255 - 孤獨險",
-        "FULLNAME": "/scp-zh-225",
+        "FULLNAME": "scp-zh-225",
         "RATING": 19,
         "COMMENTS": "0"
     },

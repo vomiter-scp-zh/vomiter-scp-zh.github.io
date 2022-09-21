@@ -307,8 +307,8 @@
     },
     {
         "TITLE": "SCP-4182 - Site-5不存在",
-        "FULLNAME": "scp-4182",
-        "RATING": 13,
+        "FULLNAME": "/scp-4182",
+        "RATING": 14,
         "COMMENTS": "0"
     },
     {
@@ -523,8 +523,8 @@
     },
     {
         "TITLE": "SCP-5764 - 這裏什麼都沒有。",
-        "FULLNAME": "scp-5764",
-        "RATING": 7,
+        "FULLNAME": "/scp-5764",
+        "RATING": 8,
         "COMMENTS": "2"
     },
     {
@@ -898,5 +898,11 @@
         "FULLNAME": "/my-head-is-on-fire-and-im-not-ok",
         "RATING": 9,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4012 - 勝過指引千萬群星不再舞動",
+        "FULLNAME": "/scp-4012",
+        "RATING": 7,
+        "COMMENTS": "0"
     }
 ]

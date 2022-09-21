@@ -34,8 +34,8 @@
     },
     {
         "TITLE": "觀測者並未存在",
-        "FULLNAME": "tina-uni1",
-        "RATING": 9,
+        "FULLNAME": "/tina-uni1",
+        "RATING": 10,
         "COMMENTS": "0"
     },
     {
@@ -70,7 +70,7 @@
     },
     {
         "TITLE": "行動代號：0428突襲計畫",
-        "FULLNAME": "/20210428",
+        "FULLNAME": "20210428",
         "RATING": 10,
         "COMMENTS": "18"
     },

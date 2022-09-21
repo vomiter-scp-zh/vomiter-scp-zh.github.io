@@ -318,6 +318,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-4182 - Site-5不存在",
+        "FULLNAME": "/scp-4182",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-002 - 生「活」起居室",
         "FULLNAME": "scp-002",
         "RATING": 13,
@@ -384,12 +390,6 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-4182 - Site-5不存在",
-        "FULLNAME": "scp-4182",
-        "RATING": 13,
-        "COMMENTS": "0"
-    },
-    {
         "TITLE": "SCP-3939 - 編號保留；有待研究人員",
         "FULLNAME": "scp-3939",
         "RATING": 13,
@@ -412,6 +412,24 @@
         "FULLNAME": "7000contestfabledtiefling",
         "RATING": 13,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "Glass博士的心理評估",
+        "FULLNAME": "/routine-psychological-evaluations-by-dr-glass",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5618 - 「死路」",
+        "FULLNAME": "/scp-5618",
+        "RATING": 13,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-2419 - 狂笑者",
+        "FULLNAME": "/scp-2419",
+        "RATING": 13,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "dado的中心頁是的",
@@ -474,12 +492,6 @@
         "COMMENTS": "1"
     },
     {
-        "TITLE": "Glass博士的心理評估",
-        "FULLNAME": "routine-psychological-evaluations-by-dr-glass",
-        "RATING": 12,
-        "COMMENTS": "0"
-    },
-    {
         "TITLE": "特工AA的個人日誌",
         "FULLNAME": "log-of-agent-aa",
         "RATING": 12,
@@ -518,12 +530,6 @@
     {
         "TITLE": "Thanatomania 中心頁",
         "FULLNAME": "thanatomania-hub",
-        "RATING": 12,
-        "COMMENTS": "3"
-    },
-    {
-        "TITLE": "SCP-5618 - 「死路」",
-        "FULLNAME": "scp-5618",
         "RATING": 12,
         "COMMENTS": "3"
     },
@@ -572,12 +578,6 @@
     {
         "TITLE": "SCP-6131 - 遺世孤立",
         "FULLNAME": "scp-6131",
-        "RATING": 12,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-2419 - 狂笑者",
-        "FULLNAME": "scp-2419",
         "RATING": 12,
         "COMMENTS": "0"
     },
@@ -1122,6 +1122,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "UIU職前訓練",
+        "FULLNAME": "/uiu-orientation",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-682-J James 的塗鴉小冊子",
         "FULLNAME": "scp-682-j-james-coloring-book",
         "RATING": 9,
@@ -1192,11 +1198,5 @@
         "FULLNAME": "big-dick-chappell",
         "RATING": 9,
         "COMMENTS": "1"
-    },
-    {
-        "TITLE": "專業寫作與你",
-        "FULLNAME": "technical-writing",
-        "RATING": 9,
-        "COMMENTS": "0"
     }
 ]

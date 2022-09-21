@@ -37,8 +37,8 @@
     },
     {
         "TITLE": "安保設施檔案：Site-ZH-50",
-        "FULLNAME": "site-zh-50",
-        "RATING": 15,
+        "FULLNAME": "/site-zh-50",
+        "RATING": 16,
         "COMMENTS": "1"
     },
     {
@@ -55,14 +55,14 @@
     },
     {
         "TITLE": "山姆的ZH分部角色紀錄本",
-        "FULLNAME": "doodles-from-sam",
-        "RATING": 24,
+        "FULLNAME": "/doodles-from-sam",
+        "RATING": 25,
         "COMMENTS": "3"
     },
     {
         "TITLE": "核裂擠兌中心頁",
-        "FULLNAME": "operation-nucleon-bank",
-        "RATING": 15,
+        "FULLNAME": "/operation-nucleon-bank",
+        "RATING": 16,
         "COMMENTS": "0"
     },
     {
@@ -301,13 +301,13 @@
     },
     {
         "TITLE": "SCP-ZH-00l",
-        "FULLNAME": "scp-zh-00l",
-        "RATING": 12,
+        "FULLNAME": "/scp-zh-00l",
+        "RATING": 13,
         "COMMENTS": "5"
     },
     {
         "TITLE": "中華民國國家安全局第八處 中心頁",
-        "FULLNAME": "/nsb8-hub",
+        "FULLNAME": "nsb8-hub",
         "RATING": 14,
         "COMMENTS": "3"
     },
@@ -349,7 +349,7 @@
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
-        "FULLNAME": "/scp-zh-999",
+        "FULLNAME": "scp-zh-999",
         "RATING": 56,
         "COMMENTS": "13"
     },

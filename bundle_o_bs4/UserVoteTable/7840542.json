@@ -43,8 +43,8 @@
     },
     {
         "TITLE": "SCP-ZH-120",
-        "FULLNAME": "scp-zh-120",
-        "RATING": 38,
+        "FULLNAME": "/scp-zh-120",
+        "RATING": 39,
         "COMMENTS": "4"
     },
     {
@@ -115,8 +115,8 @@
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 55,
+        "FULLNAME": "/scp-zh-2005-ex",
+        "RATING": 56,
         "COMMENTS": "1"
     },
     {
@@ -139,7 +139,7 @@
     },
     {
         "TITLE": "故事的力量～你為什麼需要超形上學～",
-        "FULLNAME": "/why-you-need-pataphysics",
+        "FULLNAME": "why-you-need-pataphysics",
         "RATING": 26,
         "COMMENTS": "1"
     },
@@ -211,7 +211,7 @@
     },
     {
         "TITLE": "k1s10r0d的提案 - IMMOLARI",
-        "FULLNAME": "/k1s10r0d-s-proposal",
+        "FULLNAME": "k1s10r0d-s-proposal",
         "RATING": 35,
         "COMMENTS": "3"
     },
@@ -253,13 +253,13 @@
     },
     {
         "TITLE": "SCP-ZH-255 - 孤獨險",
-        "FULLNAME": "/scp-zh-225",
+        "FULLNAME": "scp-zh-225",
         "RATING": 19,
         "COMMENTS": "0"
     },
     {
         "TITLE": "命懸一鴨，逃出生天",
-        "FULLNAME": "/among-in-the-duck",
+        "FULLNAME": "among-in-the-duck",
         "RATING": 16,
         "COMMENTS": "6"
     },
@@ -307,19 +307,19 @@
     },
     {
         "TITLE": "莉亞",
-        "FULLNAME": "/riariaria2",
+        "FULLNAME": "riariaria2",
         "RATING": 16,
         "COMMENTS": "5"
     },
     {
         "TITLE": "SCP-ZH-063 - 歡 笑 不 再",
-        "FULLNAME": "/scp-zh-063",
+        "FULLNAME": "scp-zh-063",
         "RATING": 18,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-517 - One More Time, One More Chance",
-        "FULLNAME": "/scp-zh-517",
+        "FULLNAME": "scp-zh-517",
         "RATING": 21,
         "COMMENTS": "1"
     },
@@ -346,5 +346,35 @@
         "FULLNAME": "/scp-zh-583-j",
         "RATING": 13,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-127",
+        "FULLNAME": "/scp-zh-127",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-2295 有著拼布心臟的熊",
+        "FULLNAME": "/bangyen2295",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Ctrl Z博士的SCP記錄：SCP-093 紅海物件",
+        "FULLNAME": "/bangyen093",
+        "RATING": 8,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "Valentine的Logo頁",
+        "FULLNAME": "/valentine-logo",
+        "RATING": 22,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "山姆的ZH分部角色紀錄本",
+        "FULLNAME": "/doodles-from-sam",
+        "RATING": 25,
+        "COMMENTS": "3"
     }
 ]

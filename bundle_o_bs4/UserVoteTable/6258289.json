@@ -109,8 +109,8 @@
     },
     {
         "TITLE": "安保設施檔案：Site-ZH-50",
-        "FULLNAME": "site-zh-50",
-        "RATING": 15,
+        "FULLNAME": "/site-zh-50",
+        "RATING": 16,
         "COMMENTS": "1"
     },
     {
@@ -127,8 +127,8 @@
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-81",
-        "FULLNAME": "site-zh-81",
-        "RATING": 18,
+        "FULLNAME": "/site-zh-81",
+        "RATING": 19,
         "COMMENTS": "0"
     },
     {
@@ -139,8 +139,8 @@
     },
     {
         "TITLE": "SCP-ZH-120",
-        "FULLNAME": "scp-zh-120",
-        "RATING": 38,
+        "FULLNAME": "/scp-zh-120",
+        "RATING": 39,
         "COMMENTS": "4"
     },
     {
@@ -151,8 +151,8 @@
     },
     {
         "TITLE": "SCP-ZH-025",
-        "FULLNAME": "scp-zh-025",
-        "RATING": 15,
+        "FULLNAME": "/scp-zh-025",
+        "RATING": 16,
         "COMMENTS": "2"
     },
     {
@@ -259,8 +259,8 @@
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 55,
+        "FULLNAME": "/scp-zh-2005-ex",
+        "RATING": 56,
         "COMMENTS": "1"
     },
     {
@@ -295,7 +295,7 @@
     },
     {
         "TITLE": "萬里長空",
-        "FULLNAME": "/talisman",
+        "FULLNAME": "talisman",
         "RATING": 15,
         "COMMENTS": "1"
     },
@@ -355,7 +355,7 @@
     },
     {
         "TITLE": "SCP-ZH-060-J - Re:在音竹宇宙重生的煩人美少女到底是甚麼東西呀?!",
-        "FULLNAME": "/scp-zh-060-j",
+        "FULLNAME": "scp-zh-060-j",
         "RATING": 21,
         "COMMENTS": "10"
     },
@@ -385,7 +385,7 @@
     },
     {
         "TITLE": "SCP-ZH-128",
-        "FULLNAME": "/scp-zh-128",
+        "FULLNAME": "scp-zh-128",
         "RATING": 20,
         "COMMENTS": "3"
     },
@@ -415,7 +415,7 @@
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
-        "FULLNAME": "/scp-zh-999",
+        "FULLNAME": "scp-zh-999",
         "RATING": 56,
         "COMMENTS": "13"
     },

@@ -91,8 +91,8 @@
     },
     {
         "TITLE": "SCP-ZH-006",
-        "FULLNAME": "scp-zh-006",
-        "RATING": 10,
+        "FULLNAME": "/scp-zh-006",
+        "RATING": 11,
         "COMMENTS": "6"
     },
     {
@@ -433,8 +433,8 @@
     },
     {
         "TITLE": "Valentine的Logo頁",
-        "FULLNAME": "valentine-logo",
-        "RATING": 21,
+        "FULLNAME": "/valentine-logo",
+        "RATING": 22,
         "COMMENTS": "1"
     },
     {
@@ -451,8 +451,8 @@
     },
     {
         "TITLE": "SCP-ZH-120",
-        "FULLNAME": "scp-zh-120",
-        "RATING": 38,
+        "FULLNAME": "/scp-zh-120",
+        "RATING": 39,
         "COMMENTS": "4"
     },
     {
@@ -463,8 +463,8 @@
     },
     {
         "TITLE": "核裂擠兌中心頁",
-        "FULLNAME": "operation-nucleon-bank",
-        "RATING": 15,
+        "FULLNAME": "/operation-nucleon-bank",
+        "RATING": 16,
         "COMMENTS": "0"
     },
     {
@@ -487,8 +487,8 @@
     },
     {
         "TITLE": "SCP-ZH-025",
-        "FULLNAME": "scp-zh-025",
-        "RATING": 15,
+        "FULLNAME": "/scp-zh-025",
+        "RATING": 16,
         "COMMENTS": "2"
     },
     {
@@ -631,8 +631,8 @@
     },
     {
         "TITLE": "賓主盡歡",
-        "FULLNAME": "fools-wine",
-        "RATING": 10,
+        "FULLNAME": "/fools-wine",
+        "RATING": 11,
         "COMMENTS": "1"
     },
     {
@@ -1039,8 +1039,8 @@
     },
     {
         "TITLE": "廁所裡的致命模因",
-        "FULLNAME": "the-bottle-in-restroom",
-        "RATING": 31,
+        "FULLNAME": "/the-bottle-in-restroom",
+        "RATING": 32,
         "COMMENTS": "7"
     },
     {
@@ -1225,8 +1225,8 @@
     },
     {
         "TITLE": "SCP-ZH-496 - 安全極限距離",
-        "FULLNAME": "scp-zh-496",
-        "RATING": 28,
+        "FULLNAME": "/scp-zh-496",
+        "RATING": 29,
         "COMMENTS": "7"
     },
     {
@@ -1243,8 +1243,8 @@
     },
     {
         "TITLE": "SCP-ZH-00l",
-        "FULLNAME": "scp-zh-00l",
-        "RATING": 12,
+        "FULLNAME": "/scp-zh-00l",
+        "RATING": 13,
         "COMMENTS": "5"
     },
     {
@@ -1321,7 +1321,7 @@
     },
     {
         "TITLE": "萬里長空",
-        "FULLNAME": "/talisman",
+        "FULLNAME": "talisman",
         "RATING": 15,
         "COMMENTS": "1"
     },
@@ -1351,7 +1351,7 @@
     },
     {
         "TITLE": "中華民國國家安全局第八處 中心頁",
-        "FULLNAME": "/nsb8-hub",
+        "FULLNAME": "nsb8-hub",
         "RATING": 14,
         "COMMENTS": "3"
     },
@@ -1435,7 +1435,7 @@
     },
     {
         "TITLE": "SCP-ZH-060-J - Re:在音竹宇宙重生的煩人美少女到底是甚麼東西呀?!",
-        "FULLNAME": "/scp-zh-060-j",
+        "FULLNAME": "scp-zh-060-j",
         "RATING": 21,
         "COMMENTS": "10"
     },
@@ -1489,7 +1489,7 @@
     },
     {
         "TITLE": "SCP-ZH-128",
-        "FULLNAME": "/scp-zh-128",
+        "FULLNAME": "scp-zh-128",
         "RATING": 20,
         "COMMENTS": "3"
     },
@@ -1723,7 +1723,7 @@
     },
     {
         "TITLE": "莉亞",
-        "FULLNAME": "/riariaria2",
+        "FULLNAME": "riariaria2",
         "RATING": 16,
         "COMMENTS": "5"
     },
@@ -1783,7 +1783,7 @@
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
-        "FULLNAME": "/scp-zh-999",
+        "FULLNAME": "scp-zh-999",
         "RATING": 56,
         "COMMENTS": "13"
     },
@@ -1807,7 +1807,7 @@
     },
     {
         "TITLE": "k1s10r0d的提案 - IMMOLARI",
-        "FULLNAME": "/k1s10r0d-s-proposal",
+        "FULLNAME": "k1s10r0d-s-proposal",
         "RATING": 35,
         "COMMENTS": "3"
     },
@@ -1825,7 +1825,7 @@
     },
     {
         "TITLE": "SCP-ZH-517 - One More Time, One More Chance",
-        "FULLNAME": "/scp-zh-517",
+        "FULLNAME": "scp-zh-517",
         "RATING": 21,
         "COMMENTS": "1"
     },
@@ -1855,7 +1855,7 @@
     },
     {
         "TITLE": "SCP-ZH-106-「逆模因」",
-        "FULLNAME": "/scp-zh-106",
+        "FULLNAME": "scp-zh-106",
         "RATING": 23,
         "COMMENTS": "4"
     },
@@ -1981,8 +1981,8 @@
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 55,
+        "FULLNAME": "/scp-zh-2005-ex",
+        "RATING": 56,
         "COMMENTS": "1"
     },
     {

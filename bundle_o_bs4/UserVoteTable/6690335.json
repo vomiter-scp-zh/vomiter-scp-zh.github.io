@@ -49,8 +49,8 @@
     },
     {
         "TITLE": "SCP-ZH-006",
-        "FULLNAME": "scp-zh-006",
-        "RATING": 10,
+        "FULLNAME": "/scp-zh-006",
+        "RATING": 11,
         "COMMENTS": "6"
     },
     {
@@ -79,8 +79,8 @@
     },
     {
         "TITLE": "安保設施檔案：Site-ZH-50",
-        "FULLNAME": "site-zh-50",
-        "RATING": 15,
+        "FULLNAME": "/site-zh-50",
+        "RATING": 16,
         "COMMENTS": "1"
     },
     {
@@ -217,8 +217,8 @@
     },
     {
         "TITLE": "廁所裡的致命模因",
-        "FULLNAME": "the-bottle-in-restroom",
-        "RATING": 31,
+        "FULLNAME": "/the-bottle-in-restroom",
+        "RATING": 32,
         "COMMENTS": "7"
     },
     {
@@ -265,14 +265,14 @@
     },
     {
         "TITLE": "SCP-ZH-526",
-        "FULLNAME": "scp-zh-526",
-        "RATING": 18,
+        "FULLNAME": "/scp-zh-526",
+        "RATING": 19,
         "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 55,
+        "FULLNAME": "/scp-zh-2005-ex",
+        "RATING": 56,
         "COMMENTS": "1"
     },
     {

@@ -76,8 +76,8 @@
     },
     {
         "TITLE": "SCP-455 - 貨船",
-        "FULLNAME": "scp-455",
-        "RATING": 2,
+        "FULLNAME": "/scp-455",
+        "RATING": 3,
         "COMMENTS": "1"
     },
     {
@@ -184,8 +184,8 @@
     },
     {
         "TITLE": "SCP-320 - 希格斯場加速度操縱子",
-        "FULLNAME": "scp-320",
-        "RATING": 2,
+        "FULLNAME": "/scp-320",
+        "RATING": 3,
         "COMMENTS": "0"
     },
     {

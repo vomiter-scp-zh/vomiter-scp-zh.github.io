@@ -742,8 +742,8 @@
     },
     {
         "TITLE": "Glass博士的心理評估",
-        "FULLNAME": "routine-psychological-evaluations-by-dr-glass",
-        "RATING": 12,
+        "FULLNAME": "/routine-psychological-evaluations-by-dr-glass",
+        "RATING": 13,
         "COMMENTS": "0"
     },
     {
@@ -892,8 +892,8 @@
     },
     {
         "TITLE": "UIU職前訓練",
-        "FULLNAME": "uiu-orientation",
-        "RATING": 9,
+        "FULLNAME": "/uiu-orientation",
+        "RATING": 10,
         "COMMENTS": "0"
     },
     {
@@ -1342,8 +1342,8 @@
     },
     {
         "TITLE": "代號：████ ███ — 真相",
-        "FULLNAME": "code-name-the-truth",
-        "RATING": 2,
+        "FULLNAME": "/code-name-the-truth",
+        "RATING": 3,
         "COMMENTS": "0"
     },
     {
@@ -1689,7 +1689,7 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "完整計畫",
+        "TITLE": "整合計畫",
         "FULLNAME": "integrity-project",
         "RATING": 2,
         "COMMENTS": "0"

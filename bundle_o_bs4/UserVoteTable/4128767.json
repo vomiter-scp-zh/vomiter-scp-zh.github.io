@@ -19,8 +19,8 @@
     },
     {
         "TITLE": "SCP-ZH-017",
-        "FULLNAME": "scp-zh-017",
-        "RATING": 18,
+        "FULLNAME": "/scp-zh-017",
+        "RATING": 19,
         "COMMENTS": "1"
     },
     {
@@ -145,8 +145,8 @@
     },
     {
         "TITLE": "站點綠化提案",
-        "FULLNAME": "greening",
-        "RATING": 17,
+        "FULLNAME": "/greening",
+        "RATING": 18,
         "COMMENTS": "1"
     },
     {
@@ -163,8 +163,8 @@
     },
     {
         "TITLE": "首級",
-        "FULLNAME": "head",
-        "RATING": 15,
+        "FULLNAME": "/head",
+        "RATING": 16,
         "COMMENTS": "1"
     },
     {
@@ -313,8 +313,8 @@
     },
     {
         "TITLE": "安保設施檔案：Site-ZH-50",
-        "FULLNAME": "site-zh-50",
-        "RATING": 15,
+        "FULLNAME": "/site-zh-50",
+        "RATING": 16,
         "COMMENTS": "1"
     },
     {
@@ -379,8 +379,8 @@
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-81",
-        "FULLNAME": "site-zh-81",
-        "RATING": 18,
+        "FULLNAME": "/site-zh-81",
+        "RATING": 19,
         "COMMENTS": "0"
     },
     {
@@ -391,8 +391,8 @@
     },
     {
         "TITLE": "Valentine的Logo頁",
-        "FULLNAME": "valentine-logo",
-        "RATING": 21,
+        "FULLNAME": "/valentine-logo",
+        "RATING": 22,
         "COMMENTS": "1"
     },
     {
@@ -427,8 +427,8 @@
     },
     {
         "TITLE": "山姆的ZH分部角色紀錄本",
-        "FULLNAME": "doodles-from-sam",
-        "RATING": 24,
+        "FULLNAME": "/doodles-from-sam",
+        "RATING": 25,
         "COMMENTS": "3"
     },
     {
@@ -859,8 +859,8 @@
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 55,
+        "FULLNAME": "/scp-zh-2005-ex",
+        "RATING": 56,
         "COMMENTS": "1"
     },
     {
@@ -925,7 +925,7 @@
     },
     {
         "TITLE": "SCP-ZH-063 - 歡 笑 不 再",
-        "FULLNAME": "/scp-zh-063",
+        "FULLNAME": "scp-zh-063",
         "RATING": 18,
         "COMMENTS": "0"
     },
@@ -937,7 +937,7 @@
     },
     {
         "TITLE": "假面騎士Theseus：一意孤行",
-        "FULLNAME": "/kamen-rider-theseus-alone-in-the-dark",
+        "FULLNAME": "kamen-rider-theseus-alone-in-the-dark",
         "RATING": 13,
         "COMMENTS": "1"
     },

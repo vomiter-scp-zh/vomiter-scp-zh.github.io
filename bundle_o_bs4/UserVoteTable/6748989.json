@@ -7,8 +7,8 @@
     },
     {
         "TITLE": "站點綠化提案",
-        "FULLNAME": "greening",
-        "RATING": 17,
+        "FULLNAME": "/greening",
+        "RATING": 18,
         "COMMENTS": "1"
     },
     {
@@ -19,8 +19,8 @@
     },
     {
         "TITLE": "洗標：橘2147-Dr. Bales的實驗衣",
-        "FULLNAME": "orange-2147",
-        "RATING": 10,
+        "FULLNAME": "/orange-2147",
+        "RATING": 11,
         "COMMENTS": "0"
     },
     {
@@ -67,8 +67,8 @@
     },
     {
         "TITLE": "廁所裡的致命模因",
-        "FULLNAME": "the-bottle-in-restroom",
-        "RATING": 31,
+        "FULLNAME": "/the-bottle-in-restroom",
+        "RATING": 32,
         "COMMENTS": "7"
     },
     {
@@ -139,13 +139,13 @@
     },
     {
         "TITLE": "SCP-ZH-00l",
-        "FULLNAME": "scp-zh-00l",
-        "RATING": 12,
+        "FULLNAME": "/scp-zh-00l",
+        "RATING": 13,
         "COMMENTS": "5"
     },
     {
         "TITLE": "炙熱的午後時光",
-        "FULLNAME": "/the-ss-vs-ss",
+        "FULLNAME": "the-ss-vs-ss",
         "RATING": 29,
         "COMMENTS": "19"
     },
@@ -169,7 +169,7 @@
     },
     {
         "TITLE": "SCP-ZH-999-J - 工",
-        "FULLNAME": "/scp-zh-999-j",
+        "FULLNAME": "scp-zh-999-j",
         "RATING": 5,
         "COMMENTS": "18"
     },

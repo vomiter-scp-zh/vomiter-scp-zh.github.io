@@ -10,8 +10,8 @@
     },
     {
         "TITLE": "SCP-ZH-120",
-        "FULLNAME": "scp-zh-120",
-        "RATING": 38,
+        "FULLNAME": "/scp-zh-120",
+        "RATING": 39,
         "COMMENTS": "4"
     },
     {
@@ -106,7 +106,7 @@
     },
     {
         "TITLE": "SCP-ZH-063 - 歡 笑 不 再",
-        "FULLNAME": "/scp-zh-063",
+        "FULLNAME": "scp-zh-063",
         "RATING": 18,
         "COMMENTS": "0"
     },

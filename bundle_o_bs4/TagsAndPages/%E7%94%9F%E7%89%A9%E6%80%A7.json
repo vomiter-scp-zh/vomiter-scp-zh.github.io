@@ -58,8 +58,8 @@
     },
     {
         "TITLE": "SCP-ZH-006",
-        "FULLNAME": "scp-zh-006",
-        "RATING": 10,
+        "FULLNAME": "/scp-zh-006",
+        "RATING": 11,
         "COMMENTS": "6"
     },
     {
@@ -220,7 +220,7 @@
     },
     {
         "TITLE": "SCP-ZH-060-J - Re:在音竹宇宙重生的煩人美少女到底是甚麼東西呀?!",
-        "FULLNAME": "/scp-zh-060-j",
+        "FULLNAME": "scp-zh-060-j",
         "RATING": 21,
         "COMMENTS": "10"
     },
@@ -234,6 +234,24 @@
         "TITLE": "SCP-ZH-609 - 睡前檢查",
         "FULLNAME": "scp-zh-609",
         "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-860 - dado的「发」財藥",
+        "FULLNAME": "scp-zh-860",
+        "RATING": 33,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-236",
+        "FULLNAME": "scp-zh-236",
+        "RATING": 11,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-2588-J",
+        "FULLNAME": "scp-zh-2588-j",
+        "RATING": 5,
         "COMMENTS": "0"
     }
 ]

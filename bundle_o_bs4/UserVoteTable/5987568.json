@@ -61,8 +61,8 @@
     },
     {
         "TITLE": "SCP-ZH-120",
-        "FULLNAME": "scp-zh-120",
-        "RATING": 38,
+        "FULLNAME": "/scp-zh-120",
+        "RATING": 39,
         "COMMENTS": "4"
     },
     {
@@ -181,8 +181,8 @@
     },
     {
         "TITLE": "廁所裡的致命模因",
-        "FULLNAME": "the-bottle-in-restroom",
-        "RATING": 31,
+        "FULLNAME": "/the-bottle-in-restroom",
+        "RATING": 32,
         "COMMENTS": "7"
     },
     {
@@ -367,8 +367,8 @@
     },
     {
         "TITLE": "SCP-ZH-00l",
-        "FULLNAME": "scp-zh-00l",
-        "RATING": 12,
+        "FULLNAME": "/scp-zh-00l",
+        "RATING": 13,
         "COMMENTS": "5"
     },
     {
@@ -415,7 +415,7 @@
     },
     {
         "TITLE": "炙熱的午後時光",
-        "FULLNAME": "/the-ss-vs-ss",
+        "FULLNAME": "the-ss-vs-ss",
         "RATING": 29,
         "COMMENTS": "19"
     },
@@ -469,7 +469,7 @@
     },
     {
         "TITLE": "SCP-ZH-128",
-        "FULLNAME": "/scp-zh-128",
+        "FULLNAME": "scp-zh-128",
         "RATING": 20,
         "COMMENTS": "3"
     },
@@ -517,7 +517,7 @@
     },
     {
         "TITLE": "莉亞",
-        "FULLNAME": "/riariaria2",
+        "FULLNAME": "riariaria2",
         "RATING": 16,
         "COMMENTS": "5"
     },
@@ -559,7 +559,7 @@
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
-        "FULLNAME": "/scp-zh-999",
+        "FULLNAME": "scp-zh-999",
         "RATING": 56,
         "COMMENTS": "13"
     },
@@ -625,7 +625,7 @@
     },
     {
         "TITLE": "SCP-ZH-106-「逆模因」",
-        "FULLNAME": "/scp-zh-106",
+        "FULLNAME": "scp-zh-106",
         "RATING": 23,
         "COMMENTS": "4"
     },

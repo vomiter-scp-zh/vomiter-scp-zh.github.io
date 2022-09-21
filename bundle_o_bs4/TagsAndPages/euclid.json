@@ -226,8 +226,8 @@
     },
     {
         "TITLE": "SCP-ZH-025",
-        "FULLNAME": "scp-zh-025",
-        "RATING": 15,
+        "FULLNAME": "/scp-zh-025",
+        "RATING": 16,
         "COMMENTS": "2"
     },
     {
@@ -634,7 +634,7 @@
     },
     {
         "TITLE": "SCP-ZH-352 - 絕命六龜葡萄",
-        "FULLNAME": "/scp-zh-352",
+        "FULLNAME": "scp-zh-352",
         "RATING": 17,
         "COMMENTS": "4"
     },
@@ -754,7 +754,7 @@
     },
     {
         "TITLE": "SCP-ZH-255 - 孤獨險",
-        "FULLNAME": "/scp-zh-225",
+        "FULLNAME": "scp-zh-225",
         "RATING": 19,
         "COMMENTS": "0"
     },

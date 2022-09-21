@@ -445,8 +445,8 @@
     },
     {
         "TITLE": "安保設施檔案：Site-ZH-50",
-        "FULLNAME": "site-zh-50",
-        "RATING": 15,
+        "FULLNAME": "/site-zh-50",
+        "RATING": 16,
         "COMMENTS": "1"
     },
     {
@@ -511,8 +511,8 @@
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-81",
-        "FULLNAME": "site-zh-81",
-        "RATING": 18,
+        "FULLNAME": "/site-zh-81",
+        "RATING": 19,
         "COMMENTS": "0"
     },
     {
@@ -523,8 +523,8 @@
     },
     {
         "TITLE": "Valentine的Logo頁",
-        "FULLNAME": "valentine-logo",
-        "RATING": 21,
+        "FULLNAME": "/valentine-logo",
+        "RATING": 22,
         "COMMENTS": "1"
     },
     {
@@ -559,8 +559,8 @@
     },
     {
         "TITLE": "SCP-ZH-120",
-        "FULLNAME": "scp-zh-120",
-        "RATING": 38,
+        "FULLNAME": "/scp-zh-120",
+        "RATING": 39,
         "COMMENTS": "4"
     },
     {
@@ -577,8 +577,8 @@
     },
     {
         "TITLE": "SCP-ZH-025",
-        "FULLNAME": "scp-zh-025",
-        "RATING": 15,
+        "FULLNAME": "/scp-zh-025",
+        "RATING": 16,
         "COMMENTS": "2"
     },
     {
@@ -1273,8 +1273,8 @@
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 55,
+        "FULLNAME": "/scp-zh-2005-ex",
+        "RATING": 56,
         "COMMENTS": "1"
     },
     {
@@ -1291,8 +1291,8 @@
     },
     {
         "TITLE": "SCP-ZH-00l",
-        "FULLNAME": "scp-zh-00l",
-        "RATING": 12,
+        "FULLNAME": "/scp-zh-00l",
+        "RATING": 13,
         "COMMENTS": "5"
     },
     {
@@ -1321,7 +1321,7 @@
     },
     {
         "TITLE": "SCP-ZH-416",
-        "FULLNAME": "/scp-zh-416",
+        "FULLNAME": "scp-zh-416",
         "RATING": 10,
         "COMMENTS": "0"
     },
@@ -1423,7 +1423,7 @@
     },
     {
         "TITLE": "SCP-ZH-776",
-        "FULLNAME": "/scp-zh-776",
+        "FULLNAME": "scp-zh-776",
         "RATING": 7,
         "COMMENTS": "6"
     },
@@ -1513,7 +1513,7 @@
     },
     {
         "TITLE": "SCP-ZH-999-J - 工",
-        "FULLNAME": "/scp-zh-999-j",
+        "FULLNAME": "scp-zh-999-j",
         "RATING": 5,
         "COMMENTS": "18"
     },
@@ -1531,7 +1531,7 @@
     },
     {
         "TITLE": "SCP-ZH-909 - 評分模塊",
-        "FULLNAME": "/scp-zh-909",
+        "FULLNAME": "scp-zh-909",
         "RATING": 8,
         "COMMENTS": "4"
     },
@@ -1561,13 +1561,13 @@
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
-        "FULLNAME": "/scp-zh-999",
+        "FULLNAME": "scp-zh-999",
         "RATING": 56,
         "COMMENTS": "13"
     },
     {
         "TITLE": "k1s10r0d的提案 - IMMOLARI",
-        "FULLNAME": "/k1s10r0d-s-proposal",
+        "FULLNAME": "k1s10r0d-s-proposal",
         "RATING": 35,
         "COMMENTS": "3"
     },

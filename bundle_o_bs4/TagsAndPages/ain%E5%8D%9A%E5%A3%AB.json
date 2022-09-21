@@ -4,14 +4,14 @@
     },
     {
         "TITLE": "站點綠化提案",
-        "FULLNAME": "greening",
-        "RATING": 17,
+        "FULLNAME": "/greening",
+        "RATING": 18,
         "COMMENTS": "1"
     },
     {
         "TITLE": "首級",
-        "FULLNAME": "head",
-        "RATING": 15,
+        "FULLNAME": "/head",
+        "RATING": 16,
         "COMMENTS": "1"
     },
     {
@@ -22,8 +22,8 @@
     },
     {
         "TITLE": "山姆的ZH分部角色紀錄本",
-        "FULLNAME": "doodles-from-sam",
-        "RATING": 24,
+        "FULLNAME": "/doodles-from-sam",
+        "RATING": 25,
         "COMMENTS": "3"
     },
     {
@@ -76,7 +76,7 @@
     },
     {
         "TITLE": "行動代號：0428突襲計畫",
-        "FULLNAME": "/20210428",
+        "FULLNAME": "20210428",
         "RATING": 10,
         "COMMENTS": "18"
     },
@@ -112,7 +112,7 @@
     },
     {
         "TITLE": "命懸一鴨，逃出生天",
-        "FULLNAME": "/among-in-the-duck",
+        "FULLNAME": "among-in-the-duck",
         "RATING": 16,
         "COMMENTS": "6"
     },

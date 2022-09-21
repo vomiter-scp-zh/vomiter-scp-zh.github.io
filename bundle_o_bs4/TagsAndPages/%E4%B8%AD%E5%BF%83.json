@@ -52,8 +52,8 @@
     },
     {
         "TITLE": "安保設施檔案：Site-ZH-50",
-        "FULLNAME": "site-zh-50",
-        "RATING": 15,
+        "FULLNAME": "/site-zh-50",
+        "RATING": 16,
         "COMMENTS": "1"
     },
     {
@@ -64,14 +64,14 @@
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-81",
-        "FULLNAME": "site-zh-81",
-        "RATING": 18,
+        "FULLNAME": "/site-zh-81",
+        "RATING": 19,
         "COMMENTS": "0"
     },
     {
         "TITLE": "核裂擠兌中心頁",
-        "FULLNAME": "operation-nucleon-bank",
-        "RATING": 15,
+        "FULLNAME": "/operation-nucleon-bank",
+        "RATING": 16,
         "COMMENTS": "0"
     },
     {
@@ -166,8 +166,8 @@
     },
     {
         "TITLE": "航海學中心頁",
-        "FULLNAME": "navigation",
-        "RATING": 20,
+        "FULLNAME": "/navigation",
+        "RATING": 21,
         "COMMENTS": "0"
     },
     {
@@ -214,7 +214,7 @@
     },
     {
         "TITLE": "中華民國國家安全局第八處 中心頁",
-        "FULLNAME": "/nsb8-hub",
+        "FULLNAME": "nsb8-hub",
         "RATING": 14,
         "COMMENTS": "3"
     },
@@ -256,7 +256,7 @@
     },
     {
         "TITLE": "「SCP-ZH-999」 ：《工》",
-        "FULLNAME": "/zh999-contest",
+        "FULLNAME": "zh999-contest",
         "RATING": 13,
         "COMMENTS": "0"
     },

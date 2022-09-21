@@ -211,14 +211,14 @@
     },
     {
         "TITLE": "Ctrl Z博士的SCP記錄：SCP-2295 有著拼布心臟的熊",
-        "FULLNAME": "bangyen2295",
-        "RATING": 10,
+        "FULLNAME": "/bangyen2295",
+        "RATING": 11,
         "COMMENTS": "0"
     },
     {
         "TITLE": "Ctrl Z博士的SCP記錄：SCP-093 紅海物件",
-        "FULLNAME": "bangyen093",
-        "RATING": 7,
+        "FULLNAME": "/bangyen093",
+        "RATING": 8,
         "COMMENTS": "0"
     },
     {
@@ -247,8 +247,8 @@
     },
     {
         "TITLE": "Valentine的Logo頁",
-        "FULLNAME": "valentine-logo",
-        "RATING": 21,
+        "FULLNAME": "/valentine-logo",
+        "RATING": 22,
         "COMMENTS": "1"
     },
     {
@@ -271,8 +271,8 @@
     },
     {
         "TITLE": "山姆的ZH分部角色紀錄本",
-        "FULLNAME": "doodles-from-sam",
-        "RATING": 24,
+        "FULLNAME": "/doodles-from-sam",
+        "RATING": 25,
         "COMMENTS": "3"
     },
     {
@@ -577,8 +577,8 @@
     },
     {
         "TITLE": "觀測者並未存在",
-        "FULLNAME": "tina-uni1",
-        "RATING": 9,
+        "FULLNAME": "/tina-uni1",
+        "RATING": 10,
         "COMMENTS": "0"
     },
     {
@@ -1003,8 +1003,8 @@
     },
     {
         "TITLE": "SCP-ZH-289",
-        "FULLNAME": "scp-zh-289",
-        "RATING": 14,
+        "FULLNAME": "/scp-zh-289",
+        "RATING": 15,
         "COMMENTS": "4"
     },
     {
@@ -1543,8 +1543,8 @@
     },
     {
         "TITLE": "航海學中心頁",
-        "FULLNAME": "navigation",
-        "RATING": 20,
+        "FULLNAME": "/navigation",
+        "RATING": 21,
         "COMMENTS": "0"
     },
     {
@@ -1657,8 +1657,8 @@
     },
     {
         "TITLE": "廁所裡的致命模因",
-        "FULLNAME": "the-bottle-in-restroom",
-        "RATING": 31,
+        "FULLNAME": "/the-bottle-in-restroom",
+        "RATING": 32,
         "COMMENTS": "7"
     },
     {
@@ -2101,8 +2101,8 @@
     },
     {
         "TITLE": "SCP-ZH-526",
-        "FULLNAME": "scp-zh-526",
-        "RATING": 18,
+        "FULLNAME": "/scp-zh-526",
+        "RATING": 19,
         "COMMENTS": "1"
     },
     {
@@ -2161,8 +2161,8 @@
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 55,
+        "FULLNAME": "/scp-zh-2005-ex",
+        "RATING": 56,
         "COMMENTS": "1"
     },
     {
@@ -2341,8 +2341,8 @@
     },
     {
         "TITLE": "SCP-ZH-496 - 安全極限距離",
-        "FULLNAME": "scp-zh-496",
-        "RATING": 28,
+        "FULLNAME": "/scp-zh-496",
+        "RATING": 29,
         "COMMENTS": "7"
     },
     {
@@ -2413,8 +2413,8 @@
     },
     {
         "TITLE": "SCP-ZH-00l",
-        "FULLNAME": "scp-zh-00l",
-        "RATING": 12,
+        "FULLNAME": "/scp-zh-00l",
+        "RATING": 13,
         "COMMENTS": "5"
     },
     {
@@ -2569,13 +2569,13 @@
     },
     {
         "TITLE": "故事的力量～你為什麼需要超形上學～",
-        "FULLNAME": "/why-you-need-pataphysics",
+        "FULLNAME": "why-you-need-pataphysics",
         "RATING": 26,
         "COMMENTS": "1"
     },
     {
         "TITLE": "行動代號：0428突襲計畫",
-        "FULLNAME": "/20210428",
+        "FULLNAME": "20210428",
         "RATING": 10,
         "COMMENTS": "18"
     },
@@ -2599,7 +2599,7 @@
     },
     {
         "TITLE": "炙熱的午後時光",
-        "FULLNAME": "/the-ss-vs-ss",
+        "FULLNAME": "the-ss-vs-ss",
         "RATING": 29,
         "COMMENTS": "19"
     },
@@ -2635,7 +2635,7 @@
     },
     {
         "TITLE": "SCP-ZH-416",
-        "FULLNAME": "/scp-zh-416",
+        "FULLNAME": "scp-zh-416",
         "RATING": 10,
         "COMMENTS": "0"
     },
@@ -2677,7 +2677,7 @@
     },
     {
         "TITLE": "萬里長空",
-        "FULLNAME": "/talisman",
+        "FULLNAME": "talisman",
         "RATING": 15,
         "COMMENTS": "1"
     },
@@ -2863,7 +2863,7 @@
     },
     {
         "TITLE": "SCP-ZH-128",
-        "FULLNAME": "/scp-zh-128",
+        "FULLNAME": "scp-zh-128",
         "RATING": 20,
         "COMMENTS": "3"
     },
@@ -2935,7 +2935,7 @@
     },
     {
         "TITLE": "莉亞",
-        "FULLNAME": "/riariaria2",
+        "FULLNAME": "riariaria2",
         "RATING": 16,
         "COMMENTS": "5"
     },

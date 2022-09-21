@@ -1,8 +1,8 @@
 [
     {
         "TITLE": "站點綠化提案",
-        "FULLNAME": "greening",
-        "RATING": 17,
+        "FULLNAME": "/greening",
+        "RATING": 18,
         "COMMENTS": "1"
     },
     {
@@ -49,8 +49,8 @@
     },
     {
         "TITLE": "SCP-ZH-00l",
-        "FULLNAME": "scp-zh-00l",
-        "RATING": 12,
+        "FULLNAME": "/scp-zh-00l",
+        "RATING": 13,
         "COMMENTS": "5"
     },
     {
@@ -145,7 +145,7 @@
     },
     {
         "TITLE": "「SCP-ZH-999」 ：《工》",
-        "FULLNAME": "/zh999-contest",
+        "FULLNAME": "zh999-contest",
         "RATING": 13,
         "COMMENTS": "0"
     },
@@ -175,7 +175,7 @@
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
-        "FULLNAME": "/scp-zh-999",
+        "FULLNAME": "scp-zh-999",
         "RATING": 56,
         "COMMENTS": "13"
     },
@@ -187,7 +187,7 @@
     },
     {
         "TITLE": "SCP-ZH-063 - 歡 笑 不 再",
-        "FULLNAME": "/scp-zh-063",
+        "FULLNAME": "scp-zh-063",
         "RATING": 18,
         "COMMENTS": "0"
     },
@@ -331,7 +331,7 @@
     },
     {
         "TITLE": "命懸一鴨，逃出生天",
-        "FULLNAME": "/among-in-the-duck",
+        "FULLNAME": "among-in-the-duck",
         "RATING": 16,
         "COMMENTS": "6"
     },

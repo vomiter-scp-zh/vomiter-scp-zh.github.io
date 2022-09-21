@@ -79,8 +79,8 @@
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 55,
+        "FULLNAME": "/scp-zh-2005-ex",
+        "RATING": 56,
         "COMMENTS": "1"
     },
     {
@@ -91,7 +91,7 @@
     },
     {
         "TITLE": "炙熱的午後時光",
-        "FULLNAME": "/the-ss-vs-ss",
+        "FULLNAME": "the-ss-vs-ss",
         "RATING": 29,
         "COMMENTS": "19"
     },
@@ -235,7 +235,7 @@
     },
     {
         "TITLE": "SCP-ZH-999-J - 工",
-        "FULLNAME": "/scp-zh-999-j",
+        "FULLNAME": "scp-zh-999-j",
         "RATING": 5,
         "COMMENTS": "18"
     },
@@ -271,7 +271,7 @@
     },
     {
         "TITLE": "SCP-ZH-909 - 評分模塊",
-        "FULLNAME": "/scp-zh-909",
+        "FULLNAME": "scp-zh-909",
         "RATING": 8,
         "COMMENTS": "4"
     },
@@ -313,7 +313,7 @@
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
-        "FULLNAME": "/scp-zh-999",
+        "FULLNAME": "scp-zh-999",
         "RATING": 56,
         "COMMENTS": "13"
     },
@@ -355,7 +355,7 @@
     },
     {
         "TITLE": "SCP-ZH-517 - One More Time, One More Chance",
-        "FULLNAME": "/scp-zh-517",
+        "FULLNAME": "scp-zh-517",
         "RATING": 21,
         "COMMENTS": "1"
     },
@@ -469,7 +469,7 @@
     },
     {
         "TITLE": "SCP-ZH-106-「逆模因」",
-        "FULLNAME": "/scp-zh-106",
+        "FULLNAME": "scp-zh-106",
         "RATING": 23,
         "COMMENTS": "4"
     },
@@ -523,7 +523,7 @@
     },
     {
         "TITLE": "SCP-ZH-255 - 孤獨險",
-        "FULLNAME": "/scp-zh-225",
+        "FULLNAME": "scp-zh-225",
         "RATING": 19,
         "COMMENTS": "0"
     },
@@ -559,7 +559,7 @@
     },
     {
         "TITLE": "命懸一鴨，逃出生天",
-        "FULLNAME": "/among-in-the-duck",
+        "FULLNAME": "among-in-the-duck",
         "RATING": 16,
         "COMMENTS": "6"
     },
@@ -871,7 +871,7 @@
     },
     {
         "TITLE": "萬里長空",
-        "FULLNAME": "/talisman",
+        "FULLNAME": "talisman",
         "RATING": 15,
         "COMMENTS": "1"
     },
@@ -933,6 +933,12 @@
         "TITLE": "Negative",
         "FULLNAME": "/negative",
         "RATING": 3,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "觀測者並未存在",
+        "FULLNAME": "/tina-uni1",
+        "RATING": 10,
         "COMMENTS": "0"
     }
 ]

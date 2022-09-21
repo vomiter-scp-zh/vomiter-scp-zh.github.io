@@ -292,8 +292,8 @@
     },
     {
         "TITLE": "SCP-090 - 末數方塊",
-        "FULLNAME": "scp-090",
-        "RATING": 0,
+        "FULLNAME": "/scp-090",
+        "RATING": -1,
         "COMMENTS": "0"
     },
     {
@@ -310,8 +310,8 @@
     },
     {
         "TITLE": "SCP-539 - 完全分心盤",
-        "FULLNAME": "scp-539",
-        "RATING": 2,
+        "FULLNAME": "/scp-539",
+        "RATING": 3,
         "COMMENTS": "0"
     },
     {

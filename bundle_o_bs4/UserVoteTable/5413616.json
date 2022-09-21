@@ -7,14 +7,14 @@
     },
     {
         "TITLE": "站點綠化提案",
-        "FULLNAME": "greening",
-        "RATING": 17,
+        "FULLNAME": "/greening",
+        "RATING": 18,
         "COMMENTS": "1"
     },
     {
         "TITLE": "首級",
-        "FULLNAME": "head",
-        "RATING": 15,
+        "FULLNAME": "/head",
+        "RATING": 16,
         "COMMENTS": "1"
     },
     {
@@ -169,8 +169,8 @@
     },
     {
         "TITLE": "山姆的ZH分部角色紀錄本",
-        "FULLNAME": "doodles-from-sam",
-        "RATING": 24,
+        "FULLNAME": "/doodles-from-sam",
+        "RATING": 25,
         "COMMENTS": "3"
     },
     {
@@ -655,8 +655,8 @@
     },
     {
         "TITLE": "SCP-ZH-526",
-        "FULLNAME": "scp-zh-526",
-        "RATING": 18,
+        "FULLNAME": "/scp-zh-526",
+        "RATING": 19,
         "COMMENTS": "1"
     },
     {
@@ -739,8 +739,8 @@
     },
     {
         "TITLE": "SCP-ZH-00l",
-        "FULLNAME": "scp-zh-00l",
-        "RATING": 12,
+        "FULLNAME": "/scp-zh-00l",
+        "RATING": 13,
         "COMMENTS": "5"
     },
     {
@@ -811,7 +811,7 @@
     },
     {
         "TITLE": "炙熱的午後時光",
-        "FULLNAME": "/the-ss-vs-ss",
+        "FULLNAME": "the-ss-vs-ss",
         "RATING": 29,
         "COMMENTS": "19"
     },
@@ -901,7 +901,7 @@
     },
     {
         "TITLE": "SCP-ZH-060-J - Re:在音竹宇宙重生的煩人美少女到底是甚麼東西呀?!",
-        "FULLNAME": "/scp-zh-060-j",
+        "FULLNAME": "scp-zh-060-j",
         "RATING": 21,
         "COMMENTS": "10"
     },
@@ -943,7 +943,7 @@
     },
     {
         "TITLE": "SCP-ZH-128",
-        "FULLNAME": "/scp-zh-128",
+        "FULLNAME": "scp-zh-128",
         "RATING": 20,
         "COMMENTS": "3"
     },
@@ -1069,7 +1069,7 @@
     },
     {
         "TITLE": "SCP-ZH-776",
-        "FULLNAME": "/scp-zh-776",
+        "FULLNAME": "scp-zh-776",
         "RATING": 7,
         "COMMENTS": "6"
     },
@@ -1153,7 +1153,7 @@
     },
     {
         "TITLE": "SCP-ZH-352 - 絕命六龜葡萄",
-        "FULLNAME": "/scp-zh-352",
+        "FULLNAME": "scp-zh-352",
         "RATING": 17,
         "COMMENTS": "4"
     },
@@ -1189,7 +1189,7 @@
     },
     {
         "TITLE": "SCP-ZH-999-J - 工",
-        "FULLNAME": "/scp-zh-999-j",
+        "FULLNAME": "scp-zh-999-j",
         "RATING": 5,
         "COMMENTS": "18"
     },
@@ -1219,7 +1219,7 @@
     },
     {
         "TITLE": "SCP-ZH-909 - 評分模塊",
-        "FULLNAME": "/scp-zh-909",
+        "FULLNAME": "scp-zh-909",
         "RATING": 8,
         "COMMENTS": "4"
     },
@@ -1255,7 +1255,7 @@
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
-        "FULLNAME": "/scp-zh-999",
+        "FULLNAME": "scp-zh-999",
         "RATING": 56,
         "COMMENTS": "13"
     },
@@ -1267,7 +1267,7 @@
     },
     {
         "TITLE": "SCP-ZH-517 - One More Time, One More Chance",
-        "FULLNAME": "/scp-zh-517",
+        "FULLNAME": "scp-zh-517",
         "RATING": 21,
         "COMMENTS": "1"
     },
@@ -1381,13 +1381,13 @@
     },
     {
         "TITLE": "假面騎士Theseus：一意孤行",
-        "FULLNAME": "/kamen-rider-theseus-alone-in-the-dark",
+        "FULLNAME": "kamen-rider-theseus-alone-in-the-dark",
         "RATING": 13,
         "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-106-「逆模因」",
-        "FULLNAME": "/scp-zh-106",
+        "FULLNAME": "scp-zh-106",
         "RATING": 23,
         "COMMENTS": "4"
     },

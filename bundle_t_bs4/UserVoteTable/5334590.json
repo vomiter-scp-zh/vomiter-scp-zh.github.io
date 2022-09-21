@@ -445,8 +445,8 @@
     },
     {
         "TITLE": "UIU職前訓練",
-        "FULLNAME": "uiu-orientation",
-        "RATING": 9,
+        "FULLNAME": "/uiu-orientation",
+        "RATING": 10,
         "COMMENTS": "0"
     },
     {
@@ -541,8 +541,8 @@
     },
     {
         "TITLE": "SCP-666½-J",
-        "FULLNAME": "scp-666-and-a-half-j",
-        "RATING": 8,
+        "FULLNAME": "/scp-666-and-a-half-j",
+        "RATING": 9,
         "COMMENTS": "1"
     },
     {
@@ -751,14 +751,14 @@
     },
     {
         "TITLE": "SCP-4012 - 勝過指引千萬群星不再舞動",
-        "FULLNAME": "scp-4012",
-        "RATING": 6,
+        "FULLNAME": "/scp-4012",
+        "RATING": 7,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-2419 - 狂笑者",
-        "FULLNAME": "scp-2419",
-        "RATING": 12,
+        "FULLNAME": "/scp-2419",
+        "RATING": 13,
         "COMMENTS": "0"
     },
     {
@@ -916,5 +916,11 @@
         "FULLNAME": "scp-4666-declassification",
         "RATING": 5,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-3005 - 一道死去的光",
+        "FULLNAME": "/scp-3005",
+        "RATING": 6,
+        "COMMENTS": "0"
     }
 ]

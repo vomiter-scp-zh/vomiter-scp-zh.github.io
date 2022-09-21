@@ -55,7 +55,7 @@
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
-        "FULLNAME": "/scp-zh-999",
+        "FULLNAME": "scp-zh-999",
         "RATING": 56,
         "COMMENTS": "13"
     },
@@ -199,7 +199,7 @@
     },
     {
         "TITLE": "SCP-ZH-128",
-        "FULLNAME": "/scp-zh-128",
+        "FULLNAME": "scp-zh-128",
         "RATING": 20,
         "COMMENTS": "3"
     },
@@ -250,5 +250,11 @@
         "FULLNAME": "/scp-zh-180",
         "RATING": 20,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-2005-EX",
+        "FULLNAME": "/scp-zh-2005-ex",
+        "RATING": 56,
+        "COMMENTS": "1"
     }
 ]

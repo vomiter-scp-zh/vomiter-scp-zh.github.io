@@ -31,8 +31,8 @@
     },
     {
         "TITLE": "廁所裡的致命模因",
-        "FULLNAME": "the-bottle-in-restroom",
-        "RATING": 31,
+        "FULLNAME": "/the-bottle-in-restroom",
+        "RATING": 32,
         "COMMENTS": "7"
     },
     {
@@ -175,8 +175,8 @@
     },
     {
         "TITLE": "SCP-ZH-00l",
-        "FULLNAME": "scp-zh-00l",
-        "RATING": 12,
+        "FULLNAME": "/scp-zh-00l",
+        "RATING": 13,
         "COMMENTS": "5"
     },
     {
@@ -211,7 +211,7 @@
     },
     {
         "TITLE": "行動代號：0428突襲計畫",
-        "FULLNAME": "/20210428",
+        "FULLNAME": "20210428",
         "RATING": 10,
         "COMMENTS": "18"
     },

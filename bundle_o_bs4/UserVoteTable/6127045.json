@@ -61,8 +61,8 @@
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 55,
+        "FULLNAME": "/scp-zh-2005-ex",
+        "RATING": 56,
         "COMMENTS": "1"
     },
     {
@@ -97,8 +97,8 @@
     },
     {
         "TITLE": "SCP-ZH-496 - 安全極限距離",
-        "FULLNAME": "scp-zh-496",
-        "RATING": 28,
+        "FULLNAME": "/scp-zh-496",
+        "RATING": 29,
         "COMMENTS": "7"
     },
     {
@@ -121,7 +121,7 @@
     },
     {
         "TITLE": "「SCP-ZH-999」 ：《工》",
-        "FULLNAME": "/zh999-contest",
+        "FULLNAME": "zh999-contest",
         "RATING": 13,
         "COMMENTS": "0"
     },

@@ -13,14 +13,14 @@
     },
     {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
-        "FULLNAME": "/scp-zh-999",
+        "FULLNAME": "scp-zh-999",
         "RATING": 56,
         "COMMENTS": "13"
     },
     {
         "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 55,
+        "FULLNAME": "/scp-zh-2005-ex",
+        "RATING": 56,
         "COMMENTS": "1"
     },
     {
@@ -49,8 +49,8 @@
     },
     {
         "TITLE": "SCP-ZH-120",
-        "FULLNAME": "scp-zh-120",
-        "RATING": 38,
+        "FULLNAME": "/scp-zh-120",
+        "RATING": 39,
         "COMMENTS": "4"
     },
     {
@@ -103,7 +103,7 @@
     },
     {
         "TITLE": "k1s10r0d的提案 - IMMOLARI",
-        "FULLNAME": "/k1s10r0d-s-proposal",
+        "FULLNAME": "k1s10r0d-s-proposal",
         "RATING": 35,
         "COMMENTS": "3"
     },
@@ -156,6 +156,12 @@
         "COMMENTS": "4"
     },
     {
+        "TITLE": "廁所裡的致命模因",
+        "FULLNAME": "/the-bottle-in-restroom",
+        "RATING": 32,
+        "COMMENTS": "7"
+    },
+    {
         "TITLE": "假如你來到這個宇宙請保持冷靜",
         "FULLNAME": "you-need-icecream-in-summer",
         "RATING": 31,
@@ -166,12 +172,6 @@
         "FULLNAME": "scp-zh-774",
         "RATING": 31,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "廁所裡的致命模因",
-        "FULLNAME": "the-bottle-in-restroom",
-        "RATING": 31,
-        "COMMENTS": "7"
     },
     {
         "TITLE": "SCP-ZH-736 - 你不能再往前了",
@@ -211,7 +211,7 @@
     },
     {
         "TITLE": "炙熱的午後時光",
-        "FULLNAME": "/the-ss-vs-ss",
+        "FULLNAME": "the-ss-vs-ss",
         "RATING": 29,
         "COMMENTS": "19"
     },
@@ -220,6 +220,12 @@
         "FULLNAME": "/scp-zh-750",
         "RATING": 29,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "SCP-ZH-496 - 安全極限距離",
+        "FULLNAME": "/scp-zh-496",
+        "RATING": 29,
+        "COMMENTS": "7"
     },
     {
         "TITLE": "安布羅斯餐廳-伊薩科夫號分店 (節日限定)",
@@ -232,12 +238,6 @@
         "FULLNAME": "scp-zh-113",
         "RATING": 28,
         "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-ZH-496 - 安全極限距離",
-        "FULLNAME": "scp-zh-496",
-        "RATING": 28,
-        "COMMENTS": "7"
     },
     {
         "TITLE": "SCP-ZH-337 - 夢工廠",
@@ -283,7 +283,7 @@
     },
     {
         "TITLE": "故事的力量～你為什麼需要超形上學～",
-        "FULLNAME": "/why-you-need-pataphysics",
+        "FULLNAME": "why-you-need-pataphysics",
         "RATING": 26,
         "COMMENTS": "1"
     },
@@ -306,6 +306,12 @@
         "COMMENTS": "7"
     },
     {
+        "TITLE": "山姆的ZH分部角色紀錄本",
+        "FULLNAME": "/doodles-from-sam",
+        "RATING": 25,
+        "COMMENTS": "3"
+    },
+    {
         "TITLE": "SCP-ZH-222-J",
         "FULLNAME": "scp-zh-222-j",
         "RATING": 24,
@@ -316,12 +322,6 @@
         "FULLNAME": "rating-against-traditions",
         "RATING": 24,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "山姆的ZH分部角色紀錄本",
-        "FULLNAME": "doodles-from-sam",
-        "RATING": 24,
-        "COMMENTS": "3"
     },
     {
         "TITLE": "新聞快訊：若我們要達到仁慈的下場，應該遵守哪些事情",
@@ -457,7 +457,7 @@
     },
     {
         "TITLE": "SCP-ZH-106-「逆模因」",
-        "FULLNAME": "/scp-zh-106",
+        "FULLNAME": "scp-zh-106",
         "RATING": 23,
         "COMMENTS": "4"
     },
@@ -558,16 +558,16 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "Valentine的Logo頁",
+        "FULLNAME": "/valentine-logo",
+        "RATING": 22,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-ZH-610 - 猛爆性繁衍組織瘤",
         "FULLNAME": "scp-zh-610",
         "RATING": 21,
         "COMMENTS": "7"
-    },
-    {
-        "TITLE": "Valentine的Logo頁",
-        "FULLNAME": "valentine-logo",
-        "RATING": 21,
-        "COMMENTS": "1"
     },
     {
         "TITLE": "聖夜晚餐",
@@ -637,15 +637,21 @@
     },
     {
         "TITLE": "SCP-ZH-060-J - Re:在音竹宇宙重生的煩人美少女到底是甚麼東西呀?!",
-        "FULLNAME": "/scp-zh-060-j",
+        "FULLNAME": "scp-zh-060-j",
         "RATING": 21,
         "COMMENTS": "10"
     },
     {
         "TITLE": "SCP-ZH-517 - One More Time, One More Chance",
-        "FULLNAME": "/scp-zh-517",
+        "FULLNAME": "scp-zh-517",
         "RATING": 21,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "航海學中心頁",
+        "FULLNAME": "/navigation",
+        "RATING": 21,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-009",
@@ -738,12 +744,6 @@
         "COMMENTS": "16"
     },
     {
-        "TITLE": "航海學中心頁",
-        "FULLNAME": "navigation",
-        "RATING": 20,
-        "COMMENTS": "0"
-    },
-    {
         "TITLE": "繁中官方化賀圖",
         "FULLNAME": "scp",
         "RATING": 20,
@@ -787,7 +787,7 @@
     },
     {
         "TITLE": "SCP-ZH-128",
-        "FULLNAME": "/scp-zh-128",
+        "FULLNAME": "scp-zh-128",
         "RATING": 20,
         "COMMENTS": "3"
     },
@@ -943,25 +943,31 @@
     },
     {
         "TITLE": "SCP-ZH-255 - 孤獨險",
-        "FULLNAME": "/scp-zh-225",
+        "FULLNAME": "scp-zh-225",
         "RATING": 19,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-017",
-        "FULLNAME": "scp-zh-017",
-        "RATING": 18,
+        "FULLNAME": "/scp-zh-017",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "維安設施檔案：Site-ZH-81",
+        "FULLNAME": "/site-zh-81",
+        "RATING": 19,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-526",
+        "FULLNAME": "/scp-zh-526",
+        "RATING": 19,
         "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-010 - 迷走神經寄生體",
         "FULLNAME": "scp-zh-010",
-        "RATING": 18,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "維安設施檔案：Site-ZH-81",
-        "FULLNAME": "site-zh-81",
         "RATING": 18,
         "COMMENTS": "0"
     },
@@ -1024,12 +1030,6 @@
         "FULLNAME": "zh-025-xmas",
         "RATING": 18,
         "COMMENTS": "4"
-    },
-    {
-        "TITLE": "SCP-ZH-526",
-        "FULLNAME": "scp-zh-526",
-        "RATING": 18,
-        "COMMENTS": "1"
     },
     {
         "TITLE": "辦公室裡的致命模因",
@@ -1111,7 +1111,7 @@
     },
     {
         "TITLE": "SCP-ZH-063 - 歡 笑 不 再",
-        "FULLNAME": "/scp-zh-063",
+        "FULLNAME": "scp-zh-063",
         "RATING": 18,
         "COMMENTS": "0"
     },
@@ -1128,16 +1128,16 @@
         "COMMENTS": "6"
     },
     {
+        "TITLE": "站點綠化提案",
+        "FULLNAME": "/greening",
+        "RATING": 18,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-ZH-954 - 黃色便條紙",
         "FULLNAME": "scp-zh-954",
         "RATING": 17,
         "COMMENTS": "2"
-    },
-    {
-        "TITLE": "站點綠化提案",
-        "FULLNAME": "greening",
-        "RATING": 17,
-        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-077",

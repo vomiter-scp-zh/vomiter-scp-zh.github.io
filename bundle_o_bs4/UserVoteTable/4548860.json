@@ -103,8 +103,8 @@
     },
     {
         "TITLE": "站點綠化提案",
-        "FULLNAME": "greening",
-        "RATING": 17,
+        "FULLNAME": "/greening",
+        "RATING": 18,
         "COMMENTS": "1"
     },
     {
@@ -121,8 +121,8 @@
     },
     {
         "TITLE": "首級",
-        "FULLNAME": "head",
-        "RATING": 15,
+        "FULLNAME": "/head",
+        "RATING": 16,
         "COMMENTS": "1"
     },
     {
@@ -247,8 +247,8 @@
     },
     {
         "TITLE": "認識段落寫作",
-        "FULLNAME": "understanding-paragraph",
-        "RATING": 10,
+        "FULLNAME": "/understanding-paragraph",
+        "RATING": 11,
         "COMMENTS": "0"
     },
     {
@@ -277,7 +277,7 @@
     },
     {
         "TITLE": "SCP-ZH-416",
-        "FULLNAME": "/scp-zh-416",
+        "FULLNAME": "scp-zh-416",
         "RATING": 10,
         "COMMENTS": "0"
     }

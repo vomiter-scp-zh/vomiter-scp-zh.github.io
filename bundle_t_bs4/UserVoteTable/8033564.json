@@ -259,8 +259,8 @@
     },
     {
         "TITLE": "SCP-6263 - 現世速報",
-        "FULLNAME": "scp-6263",
-        "RATING": 5,
+        "FULLNAME": "/scp-6263",
+        "RATING": 6,
         "COMMENTS": "0"
     },
     {
@@ -349,8 +349,8 @@
     },
     {
         "TITLE": "時空站點Site-01（RCT-Δt中心）",
-        "FULLNAME": "welcome-to-delta-t",
-        "RATING": 6,
+        "FULLNAME": "/welcome-to-delta-t",
+        "RATING": 8,
         "COMMENTS": "0"
     },
     {
@@ -837,6 +837,24 @@
         "TITLE": "SCP-3671 - 一個憤怒的麥片盒",
         "FULLNAME": "/scp-3671",
         "RATING": 7,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-666½-J",
+        "FULLNAME": "/scp-666-and-a-half-j",
+        "RATING": 9,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4182 - Site-5不存在",
+        "FULLNAME": "/scp-4182",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6008 - 諾亞方舟",
+        "FULLNAME": "/scp-6008",
+        "RATING": 5,
         "COMMENTS": "0"
     }
 ]

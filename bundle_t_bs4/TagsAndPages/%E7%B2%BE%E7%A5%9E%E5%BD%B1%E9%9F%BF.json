@@ -454,8 +454,8 @@
     },
     {
         "TITLE": "SCP-4182 - Site-5不存在",
-        "FULLNAME": "scp-4182",
-        "RATING": 13,
+        "FULLNAME": "/scp-4182",
+        "RATING": 14,
         "COMMENTS": "0"
     },
     {
@@ -562,8 +562,8 @@
     },
     {
         "TITLE": "SCP-3005 - 一道死去的光",
-        "FULLNAME": "scp-3005",
-        "RATING": 5,
+        "FULLNAME": "/scp-3005",
+        "RATING": 6,
         "COMMENTS": "0"
     },
     {

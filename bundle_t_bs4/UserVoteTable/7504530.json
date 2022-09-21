@@ -97,8 +97,8 @@
     },
     {
         "TITLE": "SCP-4012 - 勝過指引千萬群星不再舞動",
-        "FULLNAME": "scp-4012",
-        "RATING": 6,
+        "FULLNAME": "/scp-4012",
+        "RATING": 7,
         "COMMENTS": "0"
     },
     {
@@ -193,8 +193,8 @@
     },
     {
         "TITLE": "維安設施檔案：Site-418",
-        "FULLNAME": "secure-facility-dossier-site-418",
-        "RATING": 6,
+        "FULLNAME": "/secure-facility-dossier-site-418",
+        "RATING": 8,
         "COMMENTS": "0"
     },
     {
@@ -422,6 +422,12 @@
     {
         "TITLE": "SCP-7000 - 不凋",
         "FULLNAME": "7000contestdysadune",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "UIU職前訓練",
+        "FULLNAME": "/uiu-orientation",
         "RATING": 10,
         "COMMENTS": "0"
     }
