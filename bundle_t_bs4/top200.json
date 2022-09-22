@@ -1129,9 +1129,15 @@
     },
     {
         "TITLE": "SCP-4231 - 蒙托克之屋",
-        "FULLNAME": "/scp-4231",
+        "FULLNAME": "scp-4231",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-5690 - 專業調教女王",
+        "FULLNAME": "/scp-5690",
+        "RATING": 10,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-682-J James 的塗鴉小冊子",
@@ -1192,11 +1198,5 @@
         "FULLNAME": "russian-branch-sub-copyright-law",
         "RATING": 9,
         "COMMENTS": "1"
-    },
-    {
-        "TITLE": "版本 F",
-        "FULLNAME": "adult:iteration-f",
-        "RATING": 9,
-        "COMMENTS": "2"
     }
 ]

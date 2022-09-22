@@ -1303,8 +1303,8 @@
     },
     {
         "TITLE": "SCP-5690 - 專業調教女王",
-        "FULLNAME": "adult:scp-5690",
-        "RATING": 9,
+        "FULLNAME": "/scp-5690",
+        "RATING": 10,
         "COMMENTS": "1"
     },
     {
@@ -2941,7 +2941,7 @@
     },
     {
         "TITLE": "SCP-4231 - 蒙托克之屋",
-        "FULLNAME": "/scp-4231",
+        "FULLNAME": "scp-4231",
         "RATING": 10,
         "COMMENTS": "0"
     }
