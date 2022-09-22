@@ -346,5 +346,11 @@
         "FULLNAME": "scp-702",
         "RATING": 5,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7013 - 視實是十三",
+        "FULLNAME": "/scp-7013",
+        "RATING": 13,
+        "COMMENTS": "2"
     }
 ]
