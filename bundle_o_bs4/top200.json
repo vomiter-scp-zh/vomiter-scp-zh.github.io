@@ -966,6 +966,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-ZH-912-J - 大忌",
+        "FULLNAME": "/scp-zh-912-j",
+        "RATING": 19,
+        "COMMENTS": "6"
+    },
+    {
         "TITLE": "SCP-ZH-010 - 迷走神經寄生體",
         "FULLNAME": "scp-zh-010",
         "RATING": 18,
@@ -1120,12 +1126,6 @@
         "FULLNAME": "disorder-flapdoodle",
         "RATING": 18,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-912-J - 大忌",
-        "FULLNAME": "scp-zh-912-j",
-        "RATING": 18,
-        "COMMENTS": "6"
     },
     {
         "TITLE": "站點綠化提案",
