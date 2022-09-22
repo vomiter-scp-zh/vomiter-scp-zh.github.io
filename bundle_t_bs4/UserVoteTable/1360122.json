@@ -70,5 +70,11 @@
         "FULLNAME": "scp-7333",
         "RATING": 10,
         "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-4231 - 蒙托克之屋",
+        "FULLNAME": "/scp-4231",
+        "RATING": 10,
+        "COMMENTS": "0"
     }
 ]

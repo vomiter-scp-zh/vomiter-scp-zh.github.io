@@ -1128,6 +1128,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-4231 - 蒙托克之屋",
+        "FULLNAME": "/scp-4231",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-682-J James 的塗鴉小冊子",
         "FULLNAME": "scp-682-j-james-coloring-book",
         "RATING": 9,
@@ -1192,11 +1198,5 @@
         "FULLNAME": "adult:iteration-f",
         "RATING": 9,
         "COMMENTS": "2"
-    },
-    {
-        "TITLE": "來自 SCP-046-ARC (更為人知的名字是大屌 Richard Chappell) 收容室的智慧小語",
-        "FULLNAME": "big-dick-chappell",
-        "RATING": 9,
-        "COMMENTS": "1"
     }
 ]
