@@ -1444,7 +1444,7 @@
     },
     {
         "TITLE": "版本 F",
-        "FULLNAME": "adult:iteration-f",
+        "FULLNAME": "iteration-f",
         "RATING": 9,
         "COMMENTS": "2"
     },
@@ -6754,7 +6754,7 @@
     },
     {
         "TITLE": "SCP-5690 - 專業調教女王",
-        "FULLNAME": "/scp-5690",
+        "FULLNAME": "scp-5690",
         "RATING": 10,
         "COMMENTS": "1"
     },
