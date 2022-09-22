@@ -55,5 +55,11 @@
         "FULLNAME": "scp-4231",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-231 - 特殊人員需求",
+        "FULLNAME": "scp-231",
+        "RATING": 12,
+        "COMMENTS": "2"
     }
 ]
