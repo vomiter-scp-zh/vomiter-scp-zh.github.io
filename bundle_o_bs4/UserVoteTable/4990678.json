@@ -3793,7 +3793,7 @@
     },
     {
         "TITLE": "SCP-ZH-092",
-        "FULLNAME": "/scp-zh-092",
+        "FULLNAME": "scp-zh-092",
         "RATING": -4,
         "COMMENTS": "4"
     },
@@ -5042,7 +5042,7 @@
     {
         "TITLE": "汽水的藝作頁3",
         "FULLNAME": "lillianasoda-artworks3",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "0"
     }
 ]
