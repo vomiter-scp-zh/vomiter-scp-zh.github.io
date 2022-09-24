@@ -816,6 +816,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-3008 - 一間毫無異狀的典型IKEA",
+        "FULLNAME": "/scp-3008",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "魔法講座",
         "FULLNAME": "another-goddamn-magic-system",
         "RATING": 10,
@@ -1106,12 +1112,6 @@
     {
         "TITLE": "SCP-7726 - 掰掰，謝謝你們的魚啦",
         "FULLNAME": "scp-7726",
-        "RATING": 10,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-3008 - 一間毫無異狀的典型IKEA",
-        "FULLNAME": "scp-3008",
         "RATING": 10,
         "COMMENTS": "1"
     },
