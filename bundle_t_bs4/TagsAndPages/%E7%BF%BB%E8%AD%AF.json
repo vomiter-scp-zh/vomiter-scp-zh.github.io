@@ -11134,8 +11134,8 @@
     },
     {
         "TITLE": "共異迴歷 中心頁",
-        "FULLNAME": "kyouikaireki-hub",
-        "RATING": 7,
+        "FULLNAME": "/kyouikaireki-hub",
+        "RATING": 8,
         "COMMENTS": "0"
     },
     {
@@ -11153,13 +11153,13 @@
     {
         "TITLE": "巴別塔如何毀於我手",
         "FULLNAME": "jak-zburzylem-wieze-babel",
-        "RATING": 2,
+        "RATING": 3,
         "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-TTKU-J （就是那個會殺了你的東東）",
         "FULLNAME": "scp-ttku-j",
-        "RATING": 0,
+        "RATING": 1,
         "COMMENTS": "0"
     }
 ]
