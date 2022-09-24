@@ -2806,5 +2806,11 @@
         "FULLNAME": "phone-booth5",
         "RATING": 17,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-145",
+        "FULLNAME": "scp-zh-145",
+        "RATING": 4,
+        "COMMENTS": "1"
     }
 ]
