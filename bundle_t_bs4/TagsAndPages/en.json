@@ -9001,5 +9001,11 @@
         "FULLNAME": "scp-ttku-j",
         "RATING": 1,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7052",
+        "FULLNAME": "scp-7052",
+        "RATING": 0,
+        "COMMENTS": "0"
     }
 ]

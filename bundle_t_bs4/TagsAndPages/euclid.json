@@ -2149,5 +2149,11 @@
         "FULLNAME": "scp-4231",
         "RATING": 10,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-7052",
+        "FULLNAME": "scp-7052",
+        "RATING": 0,
+        "COMMENTS": "0"
     }
 ]
