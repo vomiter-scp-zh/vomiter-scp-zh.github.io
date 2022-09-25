@@ -7631,12 +7631,12 @@
     {
         "TITLE": "失去的音程",
         "FULLNAME": "lost-interval",
-        "RATING": 1,
+        "RATING": 2,
         "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-149",
-        "FULLNAME": "/scp-zh-149",
+        "FULLNAME": "scp-zh-149",
         "RATING": -4,
         "COMMENTS": "0"
     }
