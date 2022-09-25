@@ -1873,14 +1873,20 @@
     },
     {
         "TITLE": "汽水的藝作頁3",
-        "FULLNAME": "/lillianasoda-artworks3",
+        "FULLNAME": "lillianasoda-artworks3",
         "RATING": 11,
         "COMMENTS": "0"
     },
     {
         "TITLE": "物理少年—標誌與分隔線",
-        "FULLNAME": "/dreamlessdreams-logo",
+        "FULLNAME": "dreamlessdreams-logo",
         "RATING": 7,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-145 - \"好運校正\"麻將桌",
+        "FULLNAME": "/scp-zh-145",
+        "RATING": 7,
+        "COMMENTS": "2"
     }
 ]
