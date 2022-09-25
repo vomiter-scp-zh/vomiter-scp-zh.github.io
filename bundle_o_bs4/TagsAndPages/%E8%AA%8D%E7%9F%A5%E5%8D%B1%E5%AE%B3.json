@@ -319,5 +319,11 @@
         "FULLNAME": "scp-zh-173",
         "RATING": 15,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-149",
+        "FULLNAME": "/scp-zh-149",
+        "RATING": 0,
+        "COMMENTS": "0"
     }
 ]
