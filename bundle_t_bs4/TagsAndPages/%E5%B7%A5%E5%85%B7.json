@@ -109,5 +109,11 @@
         "FULLNAME": "scp-6161",
         "RATING": 6,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-7052 - 菊中匙",
+        "FULLNAME": "scp-7052",
+        "RATING": 5,
+        "COMMENTS": "0"
     }
 ]
