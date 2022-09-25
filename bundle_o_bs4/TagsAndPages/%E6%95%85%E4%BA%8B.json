@@ -2566,7 +2566,7 @@
     },
     {
         "TITLE": "失去的音程",
-        "FULLNAME": "/lost-interval",
+        "FULLNAME": "lost-interval",
         "RATING": 3,
         "COMMENTS": "0"
     }
