@@ -3,12 +3,25 @@
         "TITLE": "SCP-ZH-555",
         "FULLNAME": "scp-zh-555",
         "RATING": 1,
-        "COMMENTS": "5"
+        "COMMENTS": "5",
+        "TAGS": [
+            "原創",
+            "重寫中"
+        ]
     },
     {
         "TITLE": "SCP-ZH-618",
         "FULLNAME": "scp-zh-618",
         "RATING": 41,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "safe",
+            "scp",
+            "site-zh-02",
+            "原創",
+            "地下街",
+            "生物性",
+            "繁廣"
+        ]
     }
 ]

@@ -6,18 +6,52 @@
         "TITLE": "SCP-1070 - 再教育軟件",
         "FULLNAME": "scp-1070",
         "RATING": 4,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "meta",
+            "safe",
+            "scp",
+            "媒體",
+            "玩具",
+            "翻譯",
+            "聽覺影響",
+            "視覺性",
+            "認知危害",
+            "遊戲",
+            "重寫",
+            "阿卡迪亞",
+            "電子"
+        ]
     },
     {
         "TITLE": "阿卡迪亞 說明手冊",
         "FULLNAME": "arcadia-hub",
         "RATING": 6,
-        "COMMENTS": "3"
+        "COMMENTS": "3",
+        "TAGS": [
+            "en",
+            "中心",
+            "翻譯",
+            "阿卡迪亞"
+        ]
     },
     {
         "TITLE": "SCP-720 - 圓形監獄",
         "FULLNAME": "scp-720",
         "RATING": 2,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "影片",
+            "智能",
+            "翻譯",
+            "遊戲",
+            "阿卡迪亞",
+            "電子",
+            "音頻"
+        ]
     }
 ]

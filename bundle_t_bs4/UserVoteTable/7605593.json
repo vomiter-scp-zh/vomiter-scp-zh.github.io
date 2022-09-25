@@ -3,30 +3,86 @@
         "TITLE": "SCP-6059 - 你試過在球池裏啓蒙過嗎？",
         "FULLNAME": "scp-6059",
         "RATING": 18,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "不可移動",
+            "宗教",
+            "感知力",
+            "智能",
+            "無定形",
+            "生物危害",
+            "精神影響",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "名字有什麼差？",
         "FULLNAME": "what-s-in-a-name",
         "RATING": 5,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "clef博士",
+            "en",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "SCP-3753 - TEA術性擊倒",
         "FULLNAME": "scp-3753",
         "RATING": 5,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "容器",
+            "念力",
+            "木質",
+            "睡眠",
+            "翻譯",
+            "自我複製",
+            "醫學性",
+            "食物"
+        ]
     },
     {
         "TITLE": "SCP-7K-J - 一擲定生死",
         "FULLNAME": "scp-7k-j",
         "RATING": 5,
-        "COMMENTS": "2"
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "euclid",
+            "meta",
+            "scp",
+            "合著",
+            "搞笑",
+            "數學性",
+            "文獻",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "SCP-6868 - 橡皮小鴨泡泡鮑比",
         "FULLNAME": "scp-6868",
         "RATING": 6,
-        "COMMENTS": "4"
+        "COMMENTS": "4",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "wondertainment博士",
+            "化學性",
+            "感知力",
+            "玩具",
+            "異常移動",
+            "翻譯",
+            "變形"
+        ]
     }
 ]

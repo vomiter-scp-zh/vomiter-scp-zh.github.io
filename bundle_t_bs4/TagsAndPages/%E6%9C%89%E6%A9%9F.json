@@ -3,87 +3,143 @@
         "TAGNAME": "有機"
     },
     {
-        "TITLE": "SCP-123-J",
-        "FULLNAME": "scp-123-j",
-        "RATING": 6,
-        "COMMENTS": "2"
-    },
-    {
         "TITLE": "SCP-999 - 癢癢怪",
         "FULLNAME": "scp-999",
         "RATING": 11,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-030 - 人造小人",
-        "FULLNAME": "scp-030",
-        "RATING": 2,
-        "COMMENTS": "1"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "不滅孽蜥",
+            "嗅覺影響",
+            "感知力",
+            "無定形",
+            "生物性",
+            "翻譯",
+            "觸覺影響"
+        ]
     },
     {
         "TITLE": "SCP-PL-173",
         "FULLNAME": "scp-pl-173",
         "RATING": 3,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-4576 - 會保護你的多刺好夥伴，皮理瑟斯",
-        "FULLNAME": "scp-4576",
-        "RATING": 5,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "euclid",
+            "pl",
+            "scp",
+            "傳染性",
+            "寄生性",
+            "感知影響",
+            "波蘭異常蕈類採摘協會",
+            "活物",
+            "物種",
+            "生物危害",
+            "生物性",
+            "真菌",
+            "翻譯",
+            "聲音",
+            "聽覺影響",
+            "蕭邦教",
+            "認知危害"
+        ]
     },
     {
         "TITLE": "SCP-003 - 生物主機板",
         "FULLNAME": "scp-003",
         "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-3396 - 至高天境寄生體",
-        "FULLNAME": "scp-3396",
-        "RATING": 6,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "euclid",
+            "k級情景",
+            "moose主任",
+            "scp",
+            "心靈感應",
+            "放射性",
+            "活物",
+            "熱量影響",
+            "生物性",
+            "精神影響",
+            "翻譯",
+            "自我複製",
+            "變形",
+            "重寫",
+            "電腦"
+        ]
     },
     {
         "TITLE": "SCP-3400 - 鯨類感染",
         "FULLNAME": "scp-3400",
         "RATING": 4,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-3731 - 常態將受到保護",
-        "FULLNAME": "scp-3731",
-        "RATING": 4,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "動物",
+            "液體",
+            "生物性",
+            "精神影響",
+            "翻譯",
+            "觸覺影響",
+            "記憶影響",
+            "認知危害"
+        ]
     },
     {
         "TITLE": "SCP-3512 - 只要你知道得越多",
         "FULLNAME": "scp-3512",
         "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-204 - 保護者",
-        "FULLNAME": "scp-204",
-        "RATING": 5,
-        "COMMENTS": "0"
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "en-3000",
+            "euclid",
+            "scp",
+            "地下",
+            "地點",
+            "感知力",
+            "生物性",
+            "第五教會",
+            "精神影響",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "SCP-086 - ［刪減內容］博士的辦公室",
         "FULLNAME": "scp-086",
         "RATING": 5,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-124 - 肥沃土壤",
-        "FULLNAME": "scp-124",
-        "RATING": 1,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "家具",
+            "家電用品",
+            "工具",
+            "感知力",
+            "智能",
+            "生物性",
+            "翻譯",
+            "重寫"
+        ]
     },
     {
         "TITLE": "SCP-107 - 龜甲",
         "FULLNAME": "scp-107",
         "RATING": 3,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "反熵",
+            "氣象",
+            "生物性",
+            "翻譯",
+            "骨骼"
+        ]
     }
 ]

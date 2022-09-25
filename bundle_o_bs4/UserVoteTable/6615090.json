@@ -3,12 +3,34 @@
         "TITLE": "SCP-ZH-174",
         "FULLNAME": "scp-zh-174",
         "RATING": 24,
-        "COMMENTS": "4"
+        "COMMENTS": "4",
+        "TAGS": [
+            "keter",
+            "scp",
+            "儀式性",
+            "原創",
+            "宗教",
+            "無效化",
+            "蛇之手",
+            "認知危害"
+        ]
     },
     {
         "TITLE": "Alicia女士",
         "FULLNAME": "scp-zh-774",
         "RATING": 31,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "meta",
+            "scp",
+            "人形",
+            "共感",
+            "原創",
+            "感知力",
+            "智能",
+            "機密分級",
+            "活物",
+            "精神影響"
+        ]
     }
 ]

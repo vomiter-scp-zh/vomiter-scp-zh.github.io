@@ -6,18 +6,57 @@
         "TITLE": "SCP-ZH-111",
         "FULLNAME": "scp-zh-111",
         "RATING": 34,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "keter",
+            "meta",
+            "scp",
+            "人形",
+            "傳染性",
+            "原創",
+            "吳昕博士",
+            "型態變化",
+            "展出",
+            "擬態",
+            "敵意",
+            "智能",
+            "精神影響",
+            "自主",
+            "資訊危害"
+        ]
     },
     {
         "TITLE": "SCP-ZH-791 - 錢源",
         "FULLNAME": "scp-zh-791",
         "RATING": 9,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "euclid",
+            "scp",
+            "site-zh-22",
+            "原創",
+            "擬態",
+            "欲肉教",
+            "病毒",
+            "貨幣"
+        ]
     },
     {
         "TITLE": "SCP-ZH-829",
         "FULLNAME": "scp-zh-829",
         "RATING": 11,
-        "COMMENTS": "2"
+        "COMMENTS": "2",
+        "TAGS": [
+            "awcy",
+            "safe",
+            "scp",
+            "原創",
+            "型態變化",
+            "幻覺",
+            "擬態",
+            "武器",
+            "視覺性",
+            "變形"
+        ]
     }
 ]

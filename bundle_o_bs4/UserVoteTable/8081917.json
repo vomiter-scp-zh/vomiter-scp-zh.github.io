@@ -3,120 +3,294 @@
         "TITLE": "SCP-ZH-040",
         "FULLNAME": "scp-zh-040",
         "RATING": 12,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "2020夏季競賽",
+            "euclid",
+            "scp",
+            "原創",
+            "屍體",
+            "循環",
+            "逆模因",
+            "遊戲"
+        ]
     },
     {
         "TITLE": "假面騎士Theseus：雙軌難題",
         "FULLNAME": "kamen-rider-theseus-double-tracks-problem",
         "RATING": 14,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "site-zh-16",
+            "sugoi博士",
+            "原創",
+            "故事",
+            "研究員l.what"
+        ]
     },
     {
         "TITLE": "惡意行為",
         "FULLNAME": "malicious-behavior",
         "RATING": 12,
-        "COMMENTS": "2"
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022虹光之間",
+            "apoyn博士",
+            "原創",
+            "故事"
+        ]
     },
     {
         "TITLE": "SCP-ZH-909 - 評分模塊",
         "FULLNAME": "scp-zh-909",
         "RATING": 8,
-        "COMMENTS": "4"
+        "COMMENTS": "4",
+        "TAGS": [
+            "scp",
+            "thaumiel",
+            "zh999",
+            "原創",
+            "感知力",
+            "未收容",
+            "超形上學部",
+            "超維度"
+        ]
     },
     {
         "TITLE": "SCP-ZH-941 - 你才沒有在奮鬥",
         "FULLNAME": "scp-zh-941",
         "RATING": 1,
-        "COMMENTS": "8"
+        "COMMENTS": "8",
+        "TAGS": [
+            "2022夏季競賽",
+            "safe",
+            "scp",
+            "原創"
+        ]
     },
     {
         "TITLE": "貓耳日",
         "FULLNAME": "cat-day",
         "RATING": 15,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "2019聖夜相守",
+            "ain博士",
+            "bales博士",
+            "reverberate博士",
+            "site-zh-16",
+            "site-zh-44",
+            "site-zh-81",
+            "sugoi博士",
+            "willow特工",
+            "x博士",
+            "原創",
+            "合著",
+            "故事",
+            "研究員k",
+            "研究員l.what",
+            "葉凡博士"
+        ]
     },
     {
         "TITLE": "SCP-ZH-416",
         "FULLNAME": "scp-zh-416",
         "RATING": 10,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "2020攀爬金字塔",
+            "safe",
+            "scp",
+            "site-zh-16",
+            "原創",
+            "文獻",
+            "模因效應",
+            "精神影響"
+        ]
     },
     {
         "TITLE": "中華民國國家安全局第八處 中心頁",
         "FULLNAME": "nsb8-hub",
         "RATING": 14,
-        "COMMENTS": "3"
+        "COMMENTS": "3",
+        "TAGS": [
+            "中心",
+            "原創",
+            "第八處"
+        ]
     },
     {
         "TITLE": "SCP-ZH-060-J - Re:在音竹宇宙重生的煩人美少女到底是甚麼東西呀?!",
         "FULLNAME": "scp-zh-060-j",
         "RATING": 21,
-        "COMMENTS": "10"
+        "COMMENTS": "10",
+        "TAGS": [
+            "bales博士",
+            "k級情景",
+            "scp",
+            "site-zh-01",
+            "site-zh-16",
+            "sugoi博士",
+            "三垣",
+            "原創",
+            "反物理定律",
+            "復活",
+            "搞笑",
+            "機密分級",
+            "生物性",
+            "研究員l.what",
+            "自我修復",
+            "超維度"
+        ]
     },
     {
         "TITLE": "SCP-ZH-776",
         "FULLNAME": "scp-zh-776",
         "RATING": 7,
-        "COMMENTS": "6"
+        "COMMENTS": "6",
+        "TAGS": [
+            "safe",
+            "scp",
+            "site-zh-25",
+            "光照影響",
+            "原創",
+            "型態變化",
+            "強迫性",
+            "武器",
+            "精神影響",
+            "記憶影響",
+            "銘文"
+        ]
     },
     {
         "TITLE": "「SCP-ZH-999」 ：《工》",
         "FULLNAME": "zh999-contest",
         "RATING": 13,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "zh999",
+            "中心",
+            "原創",
+            "競賽"
+        ]
     },
     {
         "TITLE": "無序夢囈",
         "FULLNAME": "disorder-flapdoodle",
         "RATING": 18,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022夏季競賽",
+            "原創",
+            "故事",
+            "物理少年",
+            "研究員l.what"
+        ]
     },
     {
         "TITLE": "我的贖罪",
         "FULLNAME": "my-atonement",
         "RATING": 8,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022夏季競賽",
+            "原創",
+            "故事"
+        ]
     },
     {
         "TITLE": "SCP-ZH-188 - 五月廿五，忌殺生",
         "FULLNAME": "scp-zh-188",
         "RATING": 12,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022夏季競賽",
+            "euclid",
+            "scp",
+            "原創"
+        ]
     },
     {
         "TITLE": "SCP-ZH-912-J - 大忌",
         "FULLNAME": "scp-zh-912-j",
         "RATING": 20,
-        "COMMENTS": "6"
+        "COMMENTS": "6",
+        "TAGS": [
+            "2022夏季競賽",
+            "scp",
+            "原創",
+            "強迫性",
+            "搞笑",
+            "模因效應",
+            "機密分級"
+        ]
     },
     {
         "TITLE": "SCP-ZH-006",
         "FULLNAME": "scp-zh-006",
         "RATING": 11,
-        "COMMENTS": "6"
+        "COMMENTS": "6",
+        "TAGS": [
+            "safe",
+            "scp",
+            "site-zh-13",
+            "sugoi博士",
+            "化學性",
+            "原創",
+            "味覺影響",
+            "生物性",
+            "繁廣",
+            "食物"
+        ]
     },
     {
         "TITLE": "洗標：橘2147-Dr. Bales的實驗衣",
         "FULLNAME": "orange-2147",
         "RATING": 11,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "bales博士",
+            "site-zh-16",
+            "原創",
+            "故事",
+            "洗衣部門"
+        ]
     },
     {
         "TITLE": "SCP-ZH-289",
         "FULLNAME": "scp-zh-289",
         "RATING": 15,
-        "COMMENTS": "4"
+        "COMMENTS": "4",
+        "TAGS": [
+            "2020攀爬金字塔",
+            "keter",
+            "scp",
+            "原創",
+            "吳昕博士",
+            "少微-12"
+        ]
     },
     {
         "TITLE": "航海學中心頁",
         "FULLNAME": "navigation",
         "RATING": 21,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "site-zh-81",
+            "中心",
+            "原創",
+            "航海學"
+        ]
     },
     {
         "TITLE": "SCP-ZH-00l",
         "FULLNAME": "scp-zh-00l",
         "RATING": 13,
-        "COMMENTS": "5"
+        "COMMENTS": "5",
+        "TAGS": [
+            "scp",
+            "原創",
+            "搞笑"
+        ]
     }
 ]

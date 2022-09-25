@@ -6,12 +6,33 @@
         "TITLE": "機動特遣隊Omega-7事故紀錄",
         "FULLNAME": "scp-076-2",
         "RATING": 6,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "bowe上將",
+            "en",
+            "maria-jones",
+            "事故",
+            "翻譯",
+            "附加資料"
+        ]
     },
     {
         "TITLE": "全新把戲（或：青年文化殺了我的狗",
         "FULLNAME": "new-tricks",
         "RATING": 2,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "bowe上將",
+            "clef博士",
+            "en",
+            "gears博士",
+            "kain-pathos-crow",
+            "lament特工",
+            "mann博士",
+            "合著",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
     }
 ]

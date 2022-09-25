@@ -3,57 +3,65 @@
         "TAGNAME": "重新導向"
     },
     {
-        "TITLE": "SCP-1004 - 工廠黃片",
-        "FULLNAME": "scp-1004",
-        "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
         "TITLE": "異常霍亂時期的慾望",
         "FULLNAME": "lust-in-the-time-of-anomalous-cholera",
         "RATING": 8,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "版本 F",
-        "FULLNAME": "iteration-f",
-        "RATING": 9,
-        "COMMENTS": "2"
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "en-愚人節2016",
+            "成人內容",
+            "故事",
+            "瘟疫醫生",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "交媾之血肉",
         "FULLNAME": "the-flesh-that-mates",
         "RATING": 6,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-5169 - 吹爆充氣娃娃",
-        "FULLNAME": "scp-5169",
-        "RATING": 6,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "成人內容",
+            "故事",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "SCP-5690 - 專業調教女王",
         "FULLNAME": "scp-5690",
         "RATING": 10,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-6969 - 性愛梗",
-        "FULLNAME": "scp-6969",
-        "RATING": 4,
-        "COMMENTS": "4"
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "交換",
+            "宗教",
+            "建築物",
+            "性",
+            "成人內容",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "SCP-3380 - 科學、技術、工程、神性",
         "FULLNAME": "scp-3380",
         "RATING": 4,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-4231 - 蒙托克之屋",
-        "FULLNAME": "scp-4231",
-        "RATING": 10,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "合著",
+            "宗教",
+            "性",
+            "成人內容",
+            "數學性",
+            "精神影響",
+            "翻譯",
+            "藍寶石"
+        ]
     }
 ]

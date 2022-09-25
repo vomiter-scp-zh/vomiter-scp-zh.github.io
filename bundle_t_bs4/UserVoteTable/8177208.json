@@ -3,66 +3,183 @@
         "TITLE": "SCP-5400-J - 超級宇宙無敵機密文章",
         "FULLNAME": "scp-5400-j",
         "RATING": 10,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "scp",
+            "搞笑",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "溯憶之途",
         "FULLNAME": "a-trip-down-memory-lane",
         "RATING": 8,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "moose主任",
+            "不復返",
+            "塑像173",
+            "故事",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "SCP-5618 - 「死路」",
         "FULLNAME": "scp-5618",
         "RATING": 13,
-        "COMMENTS": "3"
+        "COMMENTS": "3",
+        "TAGS": [
+            "en",
+            "k級情景",
+            "scp",
+            "保衛43",
+            "時間影響",
+            "機密分級",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "SCP-5764 - 這裏什麼都沒有。",
         "FULLNAME": "scp-5764",
         "RATING": 8,
-        "COMMENTS": "2"
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "meta",
+            "safe",
+            "scp",
+            "循環",
+            "感知力",
+            "文獻",
+            "智能",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "SCP-6263 - 現世速報",
         "FULLNAME": "scp-6263",
         "RATING": 6,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "scp",
+            "保衛43",
+            "機密分級",
+            "機率性",
+            "線上",
+            "翻譯",
+            "語言"
+        ]
     },
     {
         "TITLE": "SCP-7000 - 輸家",
         "FULLNAME": "scp-7000",
         "RATING": 17,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "blank博士",
+            "dan博士",
+            "en",
+            "en-7000",
+            "euclid",
+            "k級情景",
+            "scp",
+            "wettle博士",
+            "不復返",
+            "人形",
+            "保衛43",
+            "本質促動",
+            "概念",
+            "機率性",
+            "渾沌反叛軍",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "SCP-7001 - Site-19",
         "FULLNAME": "scp-7001",
         "RATING": 6,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "asheworth博士",
+            "bright博士",
+            "clef博士",
+            "en",
+            "en-7000",
+            "kain-pathos-crow",
+            "keter",
+            "lague主任",
+            "maria-jones",
+            "mcinnis主任",
+            "moose主任",
+            "scp",
+            "the-administrator",
+            "人形",
+            "傳送",
+            "基金會製造",
+            "建築物",
+            "機率性",
+            "翻譯",
+            "記憶影響",
+            "認知危害"
+        ]
     },
     {
         "TITLE": "蛙",
         "FULLNAME": "frog",
         "RATING": 4,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "crackfic2022",
+            "pl",
+            "搞笑",
+            "故事",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "SCP-____-j",
         "FULLNAME": "scp-j",
         "RATING": 25,
-        "COMMENTS": "2"
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "scp",
+            "搞笑",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "額外資源",
         "FULLNAME": "additional-resources",
         "RATING": 2,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "aktus主任",
+            "alexandra",
+            "en",
+            "lurk特工",
+            "合著",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "毀壞假面中心頁",
         "FULLNAME": "broken-masquerade-hub",
         "RATING": 5,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "en-新年競賽2013",
+            "中心",
+            "合作",
+            "毀壞假面",
+            "翻譯",
+            "重寫"
+        ]
     }
 ]

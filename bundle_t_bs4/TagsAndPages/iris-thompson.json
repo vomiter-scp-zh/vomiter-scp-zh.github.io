@@ -6,42 +6,95 @@
         "TITLE": "特工AA的個人日誌",
         "FULLNAME": "log-of-agent-aa",
         "RATING": 12,
-        "COMMENTS": "2"
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "iris-thompson",
+            "亞伯",
+            "故事",
+            "翻譯",
+            "該隱"
+        ]
     },
     {
         "TITLE": "即刻行動",
         "FULLNAME": "immediate-actions",
         "RATING": 6,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "iris-thompson",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "門前的狼群",
         "FULLNAME": "the-wolves-at-the-door",
         "RATING": 5,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "iris-thompson",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "Site-17的陌生人: 105",
         "FULLNAME": "strangers-of-site-17",
         "RATING": 4,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "iris-thompson",
+            "故事",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "女孩之夜：開始換裝",
         "FULLNAME": "dressing-up",
         "RATING": 4,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "elliott博士",
+            "en",
+            "iris-thompson",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "女孩之夜：喝個爛醉",
         "FULLNAME": "getting-drunk",
         "RATING": 4,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "elliott博士",
+            "en",
+            "iris-thompson",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "女孩之夜：大吵大鬧",
         "FULLNAME": "raising-hell",
         "RATING": 4,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "elliott博士",
+            "en",
+            "iris-thompson",
+            "全球超自然聯盟",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
     }
 ]

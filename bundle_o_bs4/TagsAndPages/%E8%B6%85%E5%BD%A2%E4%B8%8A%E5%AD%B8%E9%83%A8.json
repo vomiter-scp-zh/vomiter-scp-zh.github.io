@@ -6,30 +6,92 @@
         "TITLE": "故事的力量～你為什麼需要超形上學～",
         "FULLNAME": "why-you-need-pataphysics",
         "RATING": 26,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "原創",
+            "展出",
+            "故事",
+            "說明",
+            "超形上學部"
+        ]
     },
     {
         "TITLE": "SCP-ZH-909 - 評分模塊",
         "FULLNAME": "scp-zh-909",
         "RATING": 8,
-        "COMMENTS": "4"
+        "COMMENTS": "4",
+        "TAGS": [
+            "scp",
+            "thaumiel",
+            "zh999",
+            "原創",
+            "感知力",
+            "未收容",
+            "超形上學部",
+            "超維度"
+        ]
     },
     {
         "TITLE": "SCP-ZH-340 - 生命之沙，繁星之盒",
         "FULLNAME": "scp-zh-340",
         "RATING": 20,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "hanku博士",
+            "meta",
+            "scp",
+            "原創",
+            "地點",
+            "感知影響",
+            "敘述性",
+            "文獻",
+            "概念",
+            "機密分級",
+            "機率性",
+            "泥土",
+            "石頭",
+            "自主",
+            "超形上學部"
+        ]
     },
     {
         "TITLE": "SCP-ZH-736 - 你不能再往前了",
         "FULLNAME": "scp-zh-736",
         "RATING": 31,
-        "COMMENTS": "14"
+        "COMMENTS": "14",
+        "TAGS": [
+            "safe",
+            "scp",
+            "人造物品",
+            "原創",
+            "展出",
+            "感知力",
+            "記錄",
+            "超形上學部",
+            "遊戲",
+            "電子"
+        ]
     },
     {
         "TITLE": "SCP-ZH-441 - 只能以這種方式錯誤地惦記被碾壓而亡的屍體",
         "FULLNAME": "scp-zh-441",
         "RATING": 16,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022夏季競賽",
+            "hanku博士",
+            "meta",
+            "metha博士",
+            "scp",
+            "原創",
+            "反常部",
+            "地下",
+            "建築物",
+            "概念",
+            "機密分級",
+            "資訊危害",
+            "超形上學部",
+            "逆模因"
+        ]
     }
 ]

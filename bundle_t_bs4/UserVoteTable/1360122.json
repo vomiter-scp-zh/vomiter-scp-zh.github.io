@@ -3,78 +3,224 @@
         "TITLE": "文件001-O5",
         "FULLNAME": "document-001-o5",
         "RATING": 4,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "aaron-siegel",
+            "en",
+            "the-administrator",
+            "翻譯",
+            "補充材料"
+        ]
     },
     {
         "TITLE": "SCP-3000 - 阿難陀舍沙",
         "FULLNAME": "scp-3000",
         "RATING": 18,
-        "COMMENTS": "2"
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "en-3000",
+            "scp",
+            "thaumiel",
+            "共感",
+            "動物",
+            "合著",
+            "宗教",
+            "水棲",
+            "活物",
+            "生物性",
+            "翻譯",
+            "蛇類",
+            "視覺性",
+            "記憶影響",
+            "認知危害"
+        ]
     },
     {
         "TITLE": "東京事變",
         "FULLNAME": "tokyo-incidents",
         "RATING": 13,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "1998年",
+            "jp",
+            "故事",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "應用奇蹟學講座逐字稿　講者：████████████教授",
         "FULLNAME": "goc-supplemental-thaumatology",
         "RATING": 9,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "goc檔案",
+            "icsut",
+            "全球超自然聯盟",
+            "故事",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "SCP-3396 - 至高天境寄生體",
         "FULLNAME": "scp-3396",
         "RATING": 6,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "en-末日2018",
+            "k級情景",
+            "scp",
+            "不可摧毀",
+            "不可移動",
+            "傳染性",
+            "反熵",
+            "寄生性",
+            "樹木",
+            "機密分級",
+            "液體",
+            "無形",
+            "生物危害",
+            "生物性",
+            "神化",
+            "節肢動物",
+            "翻譯",
+            "變形"
+        ]
     },
     {
         "TITLE": "SCP-5884 - 存活",
         "FULLNAME": "scp-5884",
         "RATING": 5,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "en-急迫競賽2021",
+            "keter",
+            "scp",
+            "屍體",
+            "復活",
+            "概念",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "SCP社群討論區模擬器",
         "FULLNAME": "scp-wiki-discussion-page-simulator",
         "RATING": -3,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "合著",
+            "搞笑",
+            "故事",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "黑條之下：資訊遮蔽的光與影",
         "FULLNAME": "avoid-the-blackbox",
         "RATING": 10,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "指南",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "SCP-6355 - 扼殺禮義之咽喉",
         "FULLNAME": "scp-6355",
         "RATING": 14,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "en-部門競賽2022",
+            "scp",
+            "thaumiel",
+            "合著",
+            "感知力",
+            "智能",
+            "無形",
+            "精神影響",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "SCP-7K-J - 一擲定生死",
         "FULLNAME": "scp-7k-j",
         "RATING": 5,
-        "COMMENTS": "2"
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "euclid",
+            "meta",
+            "scp",
+            "合著",
+            "搞笑",
+            "數學性",
+            "文獻",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "SCP-4755 - 當我等全能之時",
         "FULLNAME": "scp-4755",
         "RATING": 8,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "reviwers-spotlight",
+            "scp",
+            "tau-5輪迴",
+            "敘述性",
+            "時間影響",
+            "概念",
+            "機密分級",
+            "深井目錄",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "SCP-7333 - 經商蜥蜴",
         "FULLNAME": "scp-7333",
         "RATING": 10,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "en-7000",
+            "euclid",
+            "scp",
+            "動物",
+            "感知力",
+            "智能",
+            "機率性",
+            "活物",
+            "爬行類動物",
+            "翻譯",
+            "預測性"
+        ]
     },
     {
         "TITLE": "SCP-4231 - 蒙托克之屋",
         "FULLNAME": "scp-4231",
         "RATING": 10,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "clef博士",
+            "dc-al-fine",
+            "en",
+            "euclid",
+            "scp",
+            "儀式性",
+            "建築物",
+            "性",
+            "成人內容",
+            "本質促動",
+            "猩紅之王",
+            "翻譯",
+            "超維度"
+        ]
     }
 ]

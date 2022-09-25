@@ -6,12 +6,23 @@
         "TITLE": "紅孤挺",
         "FULLNAME": "wanderers",
         "RATING": 7,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
     },
     {
         "TITLE": "血膿於水",
         "FULLNAME": "pyemia-is-thicker-than-water",
         "RATING": 5,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "kris博士",
+            "wanderers",
+            "原創",
+            "故事"
+        ]
     }
 ]

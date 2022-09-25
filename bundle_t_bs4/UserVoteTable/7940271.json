@@ -3,6 +3,15 @@
         "TITLE": "基金會設施",
         "FULLNAME": "secure-facilities-locations",
         "RATING": 5,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "中心",
+            "合作",
+            "合著",
+            "心得",
+            "翻譯",
+            "重寫"
+        ]
     }
 ]

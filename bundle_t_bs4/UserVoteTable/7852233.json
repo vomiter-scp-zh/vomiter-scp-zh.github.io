@@ -3,60 +3,174 @@
         "TITLE": "S. D. Locke的提案",
         "FULLNAME": "shaggydredlocks-proposal",
         "RATING": 21,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "001提案",
+            "apollyon",
+            "en",
+            "k級情景",
+            "meta",
+            "scp",
+            "the-administrator",
+            "光照影響",
+            "恆星",
+            "未收容",
+            "生物危害",
+            "破曉",
+            "翻譯",
+            "變形"
+        ]
     },
     {
         "TITLE": "S. D. Locke的提案解密",
         "FULLNAME": "shaggydredlocks-proposal-declassification",
         "RATING": 4,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "用戶解密",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "全球超自然聯盟檔案",
         "FULLNAME": "goc-hub-page",
         "RATING": 5,
-        "COMMENTS": "4"
+        "COMMENTS": "4",
+        "TAGS": [
+            "en",
+            "中心",
+            "全球超自然聯盟",
+            "合作",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "SCP-074 - 量子鼠婦",
         "FULLNAME": "scp-074",
         "RATING": 4,
-        "COMMENTS": "2"
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "euclid",
+            "meta",
+            "scp",
+            "傳送",
+            "反物理定律",
+            "寄生性",
+            "放射性",
+            "活物",
+            "節肢動物",
+            "翻譯",
+            "資訊危害"
+        ]
     },
     {
         "TITLE": "SCP-5145解密",
         "FULLNAME": "scp-5145-declassification",
         "RATING": 5,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "用戶解密",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "後屎維基",
         "FULLNAME": "the-bathrooms-wiki",
         "RATING": 8,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "合著",
+            "展出",
+            "故事",
+            "異視維基",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "SCP-570 - 超自然汽水大戰",
         "FULLNAME": "scp-570",
         "RATING": 8,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "archon",
+            "en",
+            "scp",
+            "儀式性",
+            "全球超自然聯盟",
+            "公司",
+            "本質促動",
+            "概念",
+            "歷史性",
+            "殆瓦",
+            "猩紅之王",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "SCP-638 - 1914年芝加哥聯邦準備機構搶案",
         "FULLNAME": "scp-638",
         "RATING": 4,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "richard-chappell",
+            "scp",
+            "人形",
+            "傳送",
+            "感知力",
+            "智能",
+            "活物",
+            "無效化",
+            "翻譯",
+            "芝加哥鬼靈"
+        ]
     },
     {
         "TITLE": "SCP-7070 - 不凋",
         "FULLNAME": "scp-7070",
         "RATING": 11,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "en-7000",
+            "k級情景",
+            "light博士",
+            "scp",
+            "the-administrator",
+            "合著",
+            "基金會製造",
+            "星際",
+            "機密分級",
+            "毒性",
+            "翻譯",
+            "變形",
+            "電腦"
+        ]
     },
     {
         "TITLE": "SCP-5763 - 我夢見了我是一隻蝴蝶",
         "FULLNAME": "scp-5763",
         "RATING": 8,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "en-部門競賽2022",
+            "meta",
+            "scp",
+            "thaumiel",
+            "化學性",
+            "基金會製造",
+            "幻覺",
+            "睡眠",
+            "精神影響",
+            "翻譯",
+            "聽覺影響",
+            "視覺性",
+            "超現實部"
+        ]
     }
 ]

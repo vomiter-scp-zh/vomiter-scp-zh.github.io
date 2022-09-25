@@ -3,30 +3,89 @@
         "TITLE": "SCP-173 - 塑像 - 最初的作品",
         "FULLNAME": "scp-173",
         "RATING": 61,
-        "COMMENTS": "3"
+        "COMMENTS": "3",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "塑像173",
+            "翻譯",
+            "自主",
+            "觀察影響"
+        ]
     },
     {
         "TITLE": "SCP-2614 - 有時候，我快要可憐裡頭的自己了",
         "FULLNAME": "scp-2614",
         "RATING": 6,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "媒體",
+            "敘述性",
+            "翻譯",
+            "記錄",
+            "銘文"
+        ]
     },
     {
         "TITLE": "黑條之下：資訊遮蔽的光與影",
         "FULLNAME": "avoid-the-blackbox",
         "RATING": 10,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "指南",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "SCP-2419 - 狂笑者",
         "FULLNAME": "scp-2419",
         "RATING": 13,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "人形",
+            "地點",
+            "基金會製造",
+            "屍體",
+            "建築物",
+            "復活",
+            "感知力",
+            "敵意",
+            "智能",
+            "活物",
+            "翻譯",
+            "自我修復"
+        ]
     },
     {
         "TITLE": "SCP-7000 - 輸家",
         "FULLNAME": "scp-7000",
         "RATING": 17,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "blank博士",
+            "dan博士",
+            "en",
+            "en-7000",
+            "euclid",
+            "k級情景",
+            "scp",
+            "wettle博士",
+            "不復返",
+            "人形",
+            "保衛43",
+            "本質促動",
+            "概念",
+            "機率性",
+            "渾沌反叛軍",
+            "翻譯"
+        ]
     }
 ]

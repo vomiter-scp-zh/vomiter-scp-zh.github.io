@@ -3,6 +3,13 @@
         "TITLE": "機動特遣隊簡要列表",
         "FULLNAME": "task-forces-complete-list",
         "RATING": 10,
-        "COMMENTS": "4"
+        "COMMENTS": "4",
+        "TAGS": [
+            "en",
+            "合作",
+            "合著",
+            "翻譯",
+            "資源"
+        ]
     }
 ]

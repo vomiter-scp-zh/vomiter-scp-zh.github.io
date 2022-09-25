@@ -3,87 +3,144 @@
         "TAGNAME": "有機"
     },
     {
-        "TITLE": "SCP-ZH-006",
-        "FULLNAME": "scp-zh-006",
-        "RATING": 11,
-        "COMMENTS": "6"
-    },
-    {
         "TITLE": "SCP-ZH-610 - 猛爆性繁衍組織瘤",
         "FULLNAME": "scp-zh-610",
         "RATING": 21,
-        "COMMENTS": "7"
-    },
-    {
-        "TITLE": "SCP-ZH-860 - dado的「发」財藥",
-        "FULLNAME": "scp-zh-860",
-        "RATING": 33,
-        "COMMENTS": "3"
+        "COMMENTS": "7",
+        "TAGS": [
+            "keter",
+            "scp",
+            "site-zh-44",
+            "人形",
+            "倫理委員會",
+            "原創",
+            "基因",
+            "欲肉教",
+            "生物性",
+            "肢體",
+            "遠己",
+            "醫學性"
+        ]
     },
     {
         "TITLE": "SCP-ZH-019",
         "FULLNAME": "scp-zh-019",
         "RATING": 11,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-ZH-236",
-        "FULLNAME": "scp-zh-236",
-        "RATING": 11,
-        "COMMENTS": "3"
+        "COMMENTS": "2",
+        "TAGS": [
+            "eric",
+            "euclid",
+            "scp",
+            "site-zh-25",
+            "動物",
+            "原創",
+            "張道士",
+            "欲肉教",
+            "活物",
+            "生物性"
+        ]
     },
     {
         "TITLE": "SCP-ZH-2588-J",
         "FULLNAME": "scp-zh-2588-j",
         "RATING": 5,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-224",
-        "FULLNAME": "scp-zh-224",
-        "RATING": 8,
-        "COMMENTS": "3"
+        "COMMENTS": "0",
+        "TAGS": [
+            "2020虹光之間",
+            "scp",
+            "site-zh-81",
+            "thaumiel",
+            "原創",
+            "搞笑",
+            "植物",
+            "生物性",
+            "自我複製",
+            "記憶影響",
+            "認知危害",
+            "逆模因",
+            "食物"
+        ]
     },
     {
         "TITLE": "SCP-ZH-950 - 綠神經",
         "FULLNAME": "scp-zh-950",
         "RATING": 17,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-ZH-327 - 花兒與檳榔",
-        "FULLNAME": "scp-zh-327",
-        "RATING": 12,
-        "COMMENTS": "3"
+        "COMMENTS": "1",
+        "TAGS": [
+            "keter",
+            "scp",
+            "site-zh-12",
+            "site-zh-16",
+            "site-zh-44",
+            "原創",
+            "本質促動",
+            "生物危害",
+            "生物性",
+            "肢體",
+            "遠己"
+        ]
     },
     {
         "TITLE": "SCP-ZH-614 - 4D粽子",
         "FULLNAME": "scp-zh-614",
         "RATING": 11,
-        "COMMENTS": "8"
-    },
-    {
-        "TITLE": "SCP-ZH-620 - 瘟疫燃燒於生命之泉",
-        "FULLNAME": "scp-zh-620",
-        "RATING": 16,
-        "COMMENTS": "7"
+        "COMMENTS": "8",
+        "TAGS": [
+            "2020攀爬金字塔",
+            "keter",
+            "scp",
+            "site-zh-01",
+            "三垣",
+            "原創",
+            "反物理定律",
+            "時空",
+            "生物性",
+            "食物"
+        ]
     },
     {
         "TITLE": "SCP-ZH-060-J - Re:在音竹宇宙重生的煩人美少女到底是甚麼東西呀?!",
         "FULLNAME": "scp-zh-060-j",
         "RATING": 21,
-        "COMMENTS": "10"
-    },
-    {
-        "TITLE": "SCP-ZH-560 - 人生的第二春",
-        "FULLNAME": "scp-zh-560",
-        "RATING": 15,
-        "COMMENTS": "2"
+        "COMMENTS": "10",
+        "TAGS": [
+            "bales博士",
+            "k級情景",
+            "scp",
+            "site-zh-01",
+            "site-zh-16",
+            "sugoi博士",
+            "三垣",
+            "原創",
+            "反物理定律",
+            "復活",
+            "搞笑",
+            "機密分級",
+            "生物性",
+            "研究員l.what",
+            "自我修復",
+            "超維度"
+        ]
     },
     {
         "TITLE": "SCP-ZH-609 - 睡前檢查",
         "FULLNAME": "scp-zh-609",
         "RATING": 14,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "euclid",
+            "scp",
+            "site-zh-22",
+            "site-zh-44",
+            "zh急迫競賽2022",
+            "原創",
+            "反熵",
+            "夜間活動",
+            "性",
+            "液體",
+            "生殖性",
+            "生物性",
+            "醫學性"
+        ]
     }
 ]

@@ -6,24 +6,56 @@
         "TITLE": "光反應",
         "FULLNAME": "light-dependent-reactions",
         "RATING": 3,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "elliott博士",
+            "en",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "女孩之夜：開始換裝",
         "FULLNAME": "dressing-up",
         "RATING": 4,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "elliott博士",
+            "en",
+            "iris-thompson",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "女孩之夜：喝個爛醉",
         "FULLNAME": "getting-drunk",
         "RATING": 4,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "elliott博士",
+            "en",
+            "iris-thompson",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "女孩之夜：大吵大鬧",
         "FULLNAME": "raising-hell",
         "RATING": 4,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "elliott博士",
+            "en",
+            "iris-thompson",
+            "全球超自然聯盟",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
     }
 ]

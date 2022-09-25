@@ -6,42 +6,124 @@
         "TITLE": "SCP-ZH-174",
         "FULLNAME": "scp-zh-174",
         "RATING": 24,
-        "COMMENTS": "4"
+        "COMMENTS": "4",
+        "TAGS": [
+            "keter",
+            "scp",
+            "儀式性",
+            "原創",
+            "宗教",
+            "無效化",
+            "蛇之手",
+            "認知危害"
+        ]
     },
     {
         "TITLE": "SCP-ZH-085",
         "FULLNAME": "scp-zh-085",
         "RATING": 6,
-        "COMMENTS": "5"
+        "COMMENTS": "5",
+        "TAGS": [
+            "2020虹光之間",
+            "meta",
+            "safe",
+            "scp",
+            "原創",
+            "宗教",
+            "飾品"
+        ]
     },
     {
         "TITLE": "SCP-ZH-066",
         "FULLNAME": "scp-zh-066",
         "RATING": 11,
-        "COMMENTS": "5"
+        "COMMENTS": "5",
+        "TAGS": [
+            "euclid",
+            "scp",
+            "site-zh-16",
+            "人造物品",
+            "原創",
+            "宗教",
+            "強迫性",
+            "文獻",
+            "模因效應",
+            "精神影響",
+            "視覺性",
+            "觀察影響",
+            "認知危害"
+        ]
     },
     {
         "TITLE": "SCP-ZH-613",
         "FULLNAME": "scp-zh-613",
         "RATING": 17,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "2021夏季競賽",
+            "keter",
+            "scp",
+            "人形",
+            "原創",
+            "宗教",
+            "展出",
+            "掠食性",
+            "敵意"
+        ]
     },
     {
         "TITLE": "SCP-ZH-062 - 燈猴",
         "FULLNAME": "scp-zh-062",
         "RATING": 16,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "safe",
+            "scp",
+            "人造物品",
+            "儀式性",
+            "動物",
+            "原創",
+            "宗教",
+            "感知力",
+            "智能",
+            "火",
+            "猿類"
+        ]
     },
     {
         "TITLE": "SCP-ZH-830 - 奇蹟",
         "FULLNAME": "scp-zh-830",
         "RATING": 9,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "scp",
+            "site-zh-16",
+            "儀式性",
+            "原創",
+            "宗教",
+            "未收容",
+            "概念",
+            "機密分級",
+            "機率性",
+            "民異署"
+        ]
     },
     {
         "TITLE": "SCP-ZH-750 - 神說：「要有油。」就有了油。",
         "FULLNAME": "scp-zh-750",
         "RATING": 29,
-        "COMMENTS": "4"
+        "COMMENTS": "4",
+        "TAGS": [
+            "2022夏季競賽",
+            "euclid",
+            "scp",
+            "site-zh-16",
+            "人形",
+            "原創",
+            "宗教",
+            "智能",
+            "本質促動",
+            "食物"
+        ]
     }
 ]

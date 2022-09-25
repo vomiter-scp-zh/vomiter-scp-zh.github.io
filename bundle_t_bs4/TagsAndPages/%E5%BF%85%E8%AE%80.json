@@ -6,12 +6,23 @@
         "TITLE": "網站守則",
         "FULLNAME": "site-rules",
         "RATING": 1,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "必讀",
+            "指導",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "新成員指南",
         "FULLNAME": "guide-for-newcomers",
         "RATING": 6,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "必讀",
+            "指導",
+            "翻譯"
+        ]
     }
 ]

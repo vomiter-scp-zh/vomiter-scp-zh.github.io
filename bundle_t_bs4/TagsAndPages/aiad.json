@@ -6,12 +6,28 @@
         "TITLE": "噢，我感覺到了，我感覺到了整個宇宙！",
         "FULLNAME": "oh-i-feel-it-i-feel-the-cosmos",
         "RATING": 6,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "aiad",
+            "en",
+            "int-goi2019",
+            "故事",
+            "翻譯",
+            "銀河聯邦"
+        ]
     },
     {
         "TITLE": "SCP-2",
         "FULLNAME": "scp-2",
         "RATING": 6,
-        "COMMENTS": "4"
+        "COMMENTS": "4",
+        "TAGS": [
+            "aiad",
+            "en",
+            "故事",
+            "相嘯魔",
+            "研究員rosen",
+            "翻譯"
+        ]
     }
 ]

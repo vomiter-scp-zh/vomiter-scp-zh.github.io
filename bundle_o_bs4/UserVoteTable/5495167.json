@@ -3,18 +3,52 @@
         "TITLE": "SCP-ZH-006",
         "FULLNAME": "scp-zh-006",
         "RATING": 11,
-        "COMMENTS": "6"
+        "COMMENTS": "6",
+        "TAGS": [
+            "safe",
+            "scp",
+            "site-zh-13",
+            "sugoi博士",
+            "化學性",
+            "原創",
+            "味覺影響",
+            "生物性",
+            "繁廣",
+            "食物"
+        ]
     },
     {
         "TITLE": "SCP-ZH-077",
         "FULLNAME": "scp-zh-077",
         "RATING": 17,
-        "COMMENTS": "3"
+        "COMMENTS": "3",
+        "TAGS": [
+            "2019暑期比賽",
+            "euclid",
+            "scp",
+            "傳送",
+            "原創",
+            "循環",
+            "時空",
+            "超維度",
+            "載具"
+        ]
     },
     {
         "TITLE": "SCP-ZH-613",
         "FULLNAME": "scp-zh-613",
         "RATING": 17,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "2021夏季競賽",
+            "keter",
+            "scp",
+            "人形",
+            "原創",
+            "宗教",
+            "展出",
+            "掠食性",
+            "敵意"
+        ]
     }
 ]

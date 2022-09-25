@@ -3,18 +3,35 @@
         "TITLE": "SCP-ZH-349",
         "FULLNAME": "scp-zh-349",
         "RATING": 6,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "safe",
+            "scp",
+            "倫理委員會",
+            "原創"
+        ]
     },
     {
         "TITLE": "SCP-ZH-124",
         "FULLNAME": "scp-zh-124",
         "RATING": 5,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "safe",
+            "scp",
+            "原創"
+        ]
     },
     {
         "TITLE": "SCP-ZH-825",
         "FULLNAME": "scp-zh-825",
         "RATING": 12,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "euclid",
+            "scp",
+            "人形",
+            "原創"
+        ]
     }
 ]

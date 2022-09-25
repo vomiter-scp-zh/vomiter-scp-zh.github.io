@@ -3,21 +3,22 @@
         "TAGNAME": "redirect"
     },
     {
-        "TITLE": "SCP-1004 - 工廠黃片",
-        "FULLNAME": "scp-1004",
-        "RATING": 5,
-        "COMMENTS": "1"
-    },
-    {
         "TITLE": "SCP-5169 - 吹爆充氣娃娃",
         "FULLNAME": "scp-5169",
         "RATING": 6,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-5690 - 專業調教女王",
-        "FULLNAME": "scp-5690",
-        "RATING": 10,
-        "COMMENTS": "1"
+        "COMMENTS": "0",
+        "TAGS": [
+            "dado",
+            "en",
+            "en-急迫競賽2020",
+            "mc&d",
+            "safe",
+            "scp",
+            "人形",
+            "反熵",
+            "性",
+            "成人內容",
+            "翻譯"
+        ]
     }
 ]

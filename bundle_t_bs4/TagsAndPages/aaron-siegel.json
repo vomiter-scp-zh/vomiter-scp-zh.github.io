@@ -6,12 +6,28 @@
         "TITLE": "文件001-O5",
         "FULLNAME": "document-001-o5",
         "RATING": 4,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "aaron-siegel",
+            "en",
+            "the-administrator",
+            "翻譯",
+            "補充材料"
+        ]
     },
     {
         "TITLE": "O5指揮部檔案",
         "FULLNAME": "o5-command-dossier",
         "RATING": 5,
-        "COMMENTS": "2"
+        "COMMENTS": "2",
+        "TAGS": [
+            "aaron-siegel",
+            "en",
+            "the-administrator",
+            "合作",
+            "翻譯",
+            "資源",
+            "黑皇后"
+        ]
     }
 ]

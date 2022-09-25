@@ -3,12 +3,28 @@
         "TITLE": "SCP-ZH-666",
         "FULLNAME": "scp-zh-666",
         "RATING": 15,
-        "COMMENTS": "2"
+        "COMMENTS": "2",
+        "TAGS": [
+            "keter",
+            "scp",
+            "人形",
+            "原創",
+            "精神影響"
+        ]
     },
     {
         "TITLE": "SCP-ZH-009",
         "FULLNAME": "scp-zh-009",
         "RATING": 20,
-        "COMMENTS": "3"
+        "COMMENTS": "3",
+        "TAGS": [
+            "safe",
+            "scp",
+            "site-zh-02",
+            "原創",
+            "地下街",
+            "熱量影響",
+            "食物"
+        ]
     }
 ]

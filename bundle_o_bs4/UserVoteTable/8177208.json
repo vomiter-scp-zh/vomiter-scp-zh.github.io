@@ -3,138 +3,314 @@
         "TITLE": "距離世界末日還有五分鐘",
         "FULLNAME": "five-minutes-to-end",
         "RATING": 26,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "2020夏季競賽",
+            "原創",
+            "展出",
+            "故事"
+        ]
     },
     {
         "TITLE": "SCP-ZH-318 - 認同癖",
         "FULLNAME": "scp-zh-318",
         "RATING": 0,
-        "COMMENTS": "10"
+        "COMMENTS": "10",
+        "TAGS": [
+            "2022夏季競賽",
+            "keter",
+            "scp",
+            "人型",
+            "原創",
+            "敘述性",
+            "死滅兄弟",
+            "誤傳部"
+        ]
     },
     {
         "TITLE": "摯寐溶解",
         "FULLNAME": "dreams-always-dissolve",
         "RATING": 17,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "原創",
+            "故事",
+            "洗衣部門",
+            "物理少年",
+            "研究員l.what"
+        ]
     },
     {
         "TITLE": "又是個該死的工作天",
         "FULLNAME": "another-damn-workday",
         "RATING": 11,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "原創",
+            "故事"
+        ]
     },
     {
         "TITLE": "「給我一束鮮花吧。」",
         "FULLNAME": "quantum-suicide-art",
         "RATING": 15,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "semibreve博士",
+            "原創",
+            "職位交換",
+            "藝術作品"
+        ]
     },
     {
         "TITLE": "炙熱的午後時光",
         "FULLNAME": "the-ss-vs-ss",
         "RATING": 29,
-        "COMMENTS": "19"
+        "COMMENTS": "19",
+        "TAGS": [
+            "semibreve博士",
+            "surge博士",
+            "willow特工",
+            "x博士",
+            "原創",
+            "地下街",
+            "故事"
+        ]
     },
     {
         "TITLE": "SCP-ZH-909 - 評分模塊",
         "FULLNAME": "scp-zh-909",
         "RATING": 8,
-        "COMMENTS": "4"
+        "COMMENTS": "4",
+        "TAGS": [
+            "scp",
+            "thaumiel",
+            "zh999",
+            "原創",
+            "感知力",
+            "未收容",
+            "超形上學部",
+            "超維度"
+        ]
     },
     {
         "TITLE": "SCP-ZH-184 - 奔車朽索",
         "FULLNAME": "scp-zh-184",
         "RATING": 22,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022夏季競賽",
+            "scp",
+            "交換",
+            "原創",
+            "幻覺",
+            "模因效應",
+            "機密分級",
+            "精神影響",
+            "視覺性",
+            "認知危害",
+            "載具"
+        ]
     },
     {
         "TITLE": "SCP-ZH-134 - 群",
         "FULLNAME": "scp-zh-134",
         "RATING": 13,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "euclid",
+            "scp",
+            "動物",
+            "原創",
+            "地點",
+            "強迫性",
+            "結構物",
+            "銘文",
+            "骨骼",
+            "魚類",
+            "鯨類"
+        ]
     },
     {
         "TITLE": "不可亂碰管線",
         "FULLNAME": "ching-sus",
         "RATING": 8,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022夏季競賽",
+            "site-zh-16",
+            "原創",
+            "故事"
+        ]
     },
     {
         "TITLE": "D-10201",
         "FULLNAME": "d-10201",
         "RATING": 15,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022夏季競賽",
+            "原創",
+            "故事"
+        ]
     },
     {
         "TITLE": "SCP-ZH-188 - 五月廿五，忌殺生",
         "FULLNAME": "scp-zh-188",
         "RATING": 12,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022夏季競賽",
+            "euclid",
+            "scp",
+            "原創"
+        ]
     },
     {
         "TITLE": "SCP-ZH-750 - 神說：「要有油。」就有了油。",
         "FULLNAME": "scp-zh-750",
         "RATING": 29,
-        "COMMENTS": "4"
+        "COMMENTS": "4",
+        "TAGS": [
+            "2022夏季競賽",
+            "euclid",
+            "scp",
+            "site-zh-16",
+            "人形",
+            "原創",
+            "宗教",
+            "智能",
+            "本質促動",
+            "食物"
+        ]
     },
     {
         "TITLE": "SCP-ZH-441 - 只能以這種方式錯誤地惦記被碾壓而亡的屍體",
         "FULLNAME": "scp-zh-441",
         "RATING": 16,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022夏季競賽",
+            "hanku博士",
+            "meta",
+            "metha博士",
+            "scp",
+            "原創",
+            "反常部",
+            "地下",
+            "建築物",
+            "概念",
+            "機密分級",
+            "資訊危害",
+            "超形上學部",
+            "逆模因"
+        ]
     },
     {
         "TITLE": "寐側擴張",
         "FULLNAME": "extension-of-dream",
         "RATING": 11,
-        "COMMENTS": "2"
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022夏季競賽",
+            "原創",
+            "故事",
+            "物理少年"
+        ]
     },
     {
         "TITLE": "木易百載：福爾摩沙近代史展",
         "FULLNAME": "mu-yi-exhibition-2022",
         "RATING": 13,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022夏季競賽",
+            "goi格式",
+            "原創",
+            "木易"
+        ]
     },
     {
         "TITLE": "摯寐迸裂",
         "FULLNAME": "dreams-always-explode",
         "RATING": 14,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "原創",
+            "故事",
+            "物理少年"
+        ]
     },
     {
         "TITLE": "站點綠化提案",
         "FULLNAME": "greening",
         "RATING": 18,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "ain博士",
+            "site-zh-02",
+            "原創",
+            "故事"
+        ]
     },
     {
         "TITLE": "首級",
         "FULLNAME": "head",
         "RATING": 16,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "ain博士",
+            "maddy",
+            "site-zh-02",
+            "原創",
+            "故事"
+        ]
     },
     {
         "TITLE": "認識段落寫作",
         "FULLNAME": "understanding-paragraph",
         "RATING": 11,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "原創",
+            "心得"
+        ]
     },
     {
         "TITLE": "安保設施檔案：Site-ZH-50",
         "FULLNAME": "site-zh-50",
         "RATING": 16,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "site-zh-50",
+            "中心",
+            "原創",
+            "站點"
+        ]
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-81",
         "FULLNAME": "site-zh-81",
         "RATING": 19,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "koschei.aic",
+            "reverberate博士",
+            "site-zh-81",
+            "中心",
+            "原創",
+            "站點"
+        ]
     },
     {
         "TITLE": "物理少年—標誌與分隔線",
         "FULLNAME": "dreamlessdreams-logo",
         "RATING": 7,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "原創",
+            "物理少年",
+            "藝術作品"
+        ]
     }
 ]

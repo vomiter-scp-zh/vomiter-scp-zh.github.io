@@ -3,18 +3,46 @@
         "TITLE": "狼頭",
         "FULLNAME": "hammer",
         "RATING": 11,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "2020聖夜相守",
+            "koschei.aic",
+            "site-zh-16",
+            "site-zh-50",
+            "site-zh-81",
+            "原創",
+            "拋鈴人",
+            "故事",
+            "航海學"
+        ]
     },
     {
         "TITLE": "SCP-ZH-00l",
         "FULLNAME": "scp-zh-00l",
         "RATING": 13,
-        "COMMENTS": "5"
+        "COMMENTS": "5",
+        "TAGS": [
+            "scp",
+            "原創",
+            "搞笑"
+        ]
     },
     {
         "TITLE": "SCP-ZH-614 - 4D粽子",
         "FULLNAME": "scp-zh-614",
         "RATING": 11,
-        "COMMENTS": "8"
+        "COMMENTS": "8",
+        "TAGS": [
+            "2020攀爬金字塔",
+            "keter",
+            "scp",
+            "site-zh-01",
+            "三垣",
+            "原創",
+            "反物理定律",
+            "時空",
+            "生物性",
+            "食物"
+        ]
     }
 ]

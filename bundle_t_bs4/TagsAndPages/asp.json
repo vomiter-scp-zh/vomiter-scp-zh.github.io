@@ -6,6 +6,14 @@
         "TITLE": "ASP-650-JP",
         "FULLNAME": "asp-650-jp",
         "RATING": 6,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "asp",
+            "goi格式",
+            "jp",
+            "machina",
+            "合著",
+            "翻譯"
+        ]
     }
 ]

@@ -6,6 +6,13 @@
         "TITLE": "文件001-O5",
         "FULLNAME": "document-001-o5",
         "RATING": 4,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "aaron-siegel",
+            "en",
+            "the-administrator",
+            "翻譯",
+            "補充材料"
+        ]
     }
 ]

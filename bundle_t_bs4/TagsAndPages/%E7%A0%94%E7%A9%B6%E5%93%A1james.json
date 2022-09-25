@@ -6,12 +6,33 @@
         "TITLE": "SCP-682-J James 的塗鴉小冊子",
         "FULLNAME": "scp-682-j-james-coloring-book",
         "RATING": 9,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "合作",
+            "研究員james",
+            "翻譯",
+            "藝術作品",
+            "附加資料"
+        ]
     },
     {
         "TITLE": "SCP-682-J",
         "FULLNAME": "scp-682-j",
         "RATING": 5,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "合著",
+            "感知力",
+            "搞笑",
+            "爬行類動物",
+            "研究員james",
+            "翻譯",
+            "自我修復",
+            "適應性"
+        ]
     }
 ]

@@ -6,12 +6,28 @@
         "TITLE": "吾王萬歲",
         "FULLNAME": "long-live-the-king",
         "RATING": 5,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "king博士",
+            "故事",
+            "歡樂基金會",
+            "翻譯"
+        ]
     },
     {
         "TITLE": "中場休息2",
         "FULLNAME": "interval-2",
         "RATING": 3,
-        "COMMENTS": "1"
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "king博士",
+            "wondertainment博士",
+            "合作",
+            "小小先生",
+            "收藏家故事",
+            "翻譯"
+        ]
     }
 ]

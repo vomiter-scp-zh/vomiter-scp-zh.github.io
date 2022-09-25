@@ -3,81 +3,117 @@
         "TAGNAME": "題寫"
     },
     {
-        "TITLE": "SCP-1021 - 出口",
-        "FULLNAME": "scp-1021",
-        "RATING": 0,
-        "COMMENTS": "0"
-    },
-    {
         "TITLE": "SCP-404-J - 群神亂舞",
         "FULLNAME": "scp-404-j",
         "RATING": 14,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-485 - 死亡之筆",
-        "FULLNAME": "scp-485",
-        "RATING": 2,
-        "COMMENTS": "1"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "scp",
+            "spanko博士",
+            "不可摧毀",
+            "土星牡鹿",
+            "大術士伊仰",
+            "搞笑",
+            "欲肉教",
+            "潘洛斯",
+            "猩紅之王",
+            "相嘯魔",
+            "破碎之神教會",
+            "結構物",
+            "翻譯",
+            "銘文"
+        ]
     },
     {
         "TITLE": "SCP-1762 - 龍之歸宿",
         "FULLNAME": "scp-1762",
         "RATING": 3,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-3671 - 一個憤怒的麥片盒",
-        "FULLNAME": "scp-3671",
-        "RATING": 7,
-        "COMMENTS": "0"
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "人造物品",
+            "容器",
+            "感知力",
+            "文獻",
+            "智能",
+            "無效化",
+            "爬行類動物",
+            "空中",
+            "翻譯",
+            "自主",
+            "銘文"
+        ]
     },
     {
         "TITLE": "SCP-2395 - $585.98",
         "FULLNAME": "scp-2395",
         "RATING": 6,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-1032 - 預知鐘",
-        "FULLNAME": "scp-1032",
-        "RATING": 5,
-        "COMMENTS": "0"
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "人造物品",
+            "建築物",
+            "念力",
+            "翻譯",
+            "銘文"
+        ]
     },
     {
         "TITLE": "SCP-049-PT",
         "FULLNAME": "scp-049-pt",
         "RATING": 7,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-5538 - 異常們的持有者",
-        "FULLNAME": "scp-5538",
-        "RATING": 3,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "keter",
+            "pt",
+            "scp",
+            "二次翻譯",
+            "循環",
+            "感知力",
+            "翻譯",
+            "視覺性",
+            "觀察影響",
+            "認知危害",
+            "銘文"
+        ]
     },
     {
         "TITLE": "SCP-4911 - 塚",
         "FULLNAME": "scp-4911",
         "RATING": 6,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-2614 - 有時候，我快要可憐裡頭的自己了",
-        "FULLNAME": "scp-2614",
-        "RATING": 6,
-        "COMMENTS": "0"
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "石頭",
+            "結構物",
+            "翻譯",
+            "觀察影響",
+            "記憶影響",
+            "銘文"
+        ]
     },
     {
         "TITLE": "SCP-559 - 生日時間！",
         "FULLNAME": "scp-559",
         "RATING": 5,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-449 - 腸內天使塵",
-        "FULLNAME": "scp-449",
-        "RATING": 2,
-        "COMMENTS": "0"
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "反熵",
+            "時間影響",
+            "翻譯",
+            "變形",
+            "銘文",
+            "食物"
+        ]
     }
 ]
