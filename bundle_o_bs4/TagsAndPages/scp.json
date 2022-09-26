@@ -8003,7 +8003,7 @@
     {
         "TITLE": "SCP-ZH-820 - 忌妒麻仔台",
         "FULLNAME": "scp-zh-820",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "1",
         "TAGS": [
             "2022夏季競賽",
@@ -8139,7 +8139,7 @@
     {
         "TITLE": "SCP-ZH-149",
         "FULLNAME": "scp-zh-149",
-        "RATING": -5,
+        "RATING": -6,
         "COMMENTS": "2",
         "TAGS": [
             "keter",
@@ -8152,11 +8152,23 @@
     {
         "TITLE": "SCP-ZH-844 新點子派",
         "FULLNAME": "scp-zh-844",
-        "RATING": -4,
+        "RATING": -5,
         "COMMENTS": "3",
         "TAGS": [
             "scp",
             "原創"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-155",
+        "FULLNAME": "scp-zh-155",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "euclid",
+            "scp",
+            "原創",
+            "鯨類"
         ]
     }
 ]

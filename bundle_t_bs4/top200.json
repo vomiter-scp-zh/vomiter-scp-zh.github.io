@@ -1140,6 +1140,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-2317 - 前往彼界之門",
+        "FULLNAME": "scp-2317",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-682-J James 的塗鴉小冊子",
         "FULLNAME": "scp-682-j-james-coloring-book",
         "RATING": 9,
@@ -1190,12 +1196,6 @@
     {
         "TITLE": "SCP-200-JP - 會沉的黃色鴨鴨",
         "FULLNAME": "scp-200-jp",
-        "RATING": 9,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "俄分著作權法相關解釋（20/6/2019）",
-        "FULLNAME": "russian-branch-sub-copyright-law",
         "RATING": 9,
         "COMMENTS": "1"
     }
