@@ -1013,5 +1013,41 @@
             "葉凡博士",
             "藝術作品"
         ]
+    },
+    {
+        "TITLE": "SCP-ZH-144 - 十二進位法",
+        "FULLNAME": "scp-zh-144",
+        "RATING": 23,
+        "COMMENTS": "3",
+        "TAGS": [
+            "keter",
+            "scp",
+            "傳染性",
+            "原創",
+            "展出",
+            "強迫性",
+            "數學性",
+            "概念",
+            "肢體",
+            "認知危害",
+            "資訊危害"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-600",
+        "FULLNAME": "scp-zh-600",
+        "RATING": 22,
+        "COMMENTS": "0",
+        "TAGS": [
+            "scp",
+            "site-zh-12",
+            "site-zh-16",
+            "wondertainment博士",
+            "人形",
+            "原創",
+            "小小先生",
+            "展出",
+            "無效化"
+        ]
     }
 ]

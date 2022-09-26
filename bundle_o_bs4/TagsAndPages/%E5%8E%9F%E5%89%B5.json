@@ -4273,7 +4273,7 @@
     {
         "TITLE": "SCP-ZH-600",
         "FULLNAME": "scp-zh-600",
-        "RATING": 21,
+        "RATING": 22,
         "COMMENTS": "0",
         "TAGS": [
             "scp",
@@ -13755,7 +13755,7 @@
     {
         "TITLE": "SCP-ZH-144 - 十二進位法",
         "FULLNAME": "scp-zh-144",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "3",
         "TAGS": [
             "keter",
@@ -17991,8 +17991,8 @@
     {
         "TITLE": "《癌又蝟鴨：紅藍爭霸戰》",
         "FULLNAME": "honglam-battle",
-        "RATING": 0,
-        "COMMENTS": "0",
+        "RATING": 1,
+        "COMMENTS": "2",
         "TAGS": [
             "中心",
             "原創",

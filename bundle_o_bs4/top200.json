@@ -462,6 +462,12 @@
         "COMMENTS": "4"
     },
     {
+        "TITLE": "SCP-ZH-144 - 十二進位法",
+        "FULLNAME": "scp-zh-144",
+        "RATING": 23,
+        "COMMENTS": "3"
+    },
+    {
         "TITLE": "SCP-ZH-255",
         "FULLNAME": "scp-zh-255",
         "RATING": 22,
@@ -534,12 +540,6 @@
         "COMMENTS": "2"
     },
     {
-        "TITLE": "SCP-ZH-144 - 十二進位法",
-        "FULLNAME": "scp-zh-144",
-        "RATING": 22,
-        "COMMENTS": "3"
-    },
-    {
         "TITLE": "SCP-ZH-086 - 請你別說見過我",
         "FULLNAME": "scp-zh-086",
         "RATING": 22,
@@ -564,6 +564,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-ZH-600",
+        "FULLNAME": "scp-zh-600",
+        "RATING": 22,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-610 - 猛爆性繁衍組織瘤",
         "FULLNAME": "scp-zh-610",
         "RATING": 21,
@@ -574,12 +580,6 @@
         "FULLNAME": "so-i-said-that-dinner",
         "RATING": 21,
         "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-ZH-600",
-        "FULLNAME": "scp-zh-600",
-        "RATING": 21,
-        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-166",
