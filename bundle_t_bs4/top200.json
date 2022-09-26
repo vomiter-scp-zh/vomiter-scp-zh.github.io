@@ -822,6 +822,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-整數",
+        "FULLNAME": "scp-5242",
+        "RATING": 11,
+        "COMMENTS": "5"
+    },
+    {
         "TITLE": "魔法講座",
         "FULLNAME": "another-goddamn-magic-system",
         "RATING": 10,
@@ -1114,12 +1120,6 @@
         "FULLNAME": "scp-7726",
         "RATING": 10,
         "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-整數",
-        "FULLNAME": "scp-5242",
-        "RATING": 10,
-        "COMMENTS": "5"
     },
     {
         "TITLE": "UIU職前訓練",

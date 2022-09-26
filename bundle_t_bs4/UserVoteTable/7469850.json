@@ -547,7 +547,7 @@
     {
         "TITLE": "SCP-整數",
         "FULLNAME": "scp-5242",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "5",
         "TAGS": [
             "en",
@@ -8924,6 +8924,70 @@
             "視覺性",
             "認知危害",
             "載具"
+        ]
+    },
+    {
+        "TITLE": "SCP-638 - 1914年芝加哥聯邦準備機構搶案",
+        "FULLNAME": "scp-638",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "richard-chappell",
+            "scp",
+            "人形",
+            "傳送",
+            "感知力",
+            "智能",
+            "活物",
+            "無效化",
+            "翻譯",
+            "芝加哥鬼靈"
+        ]
+    },
+    {
+        "TITLE": "SCP-677 - 不可測彈跳桿",
+        "FULLNAME": "scp-677",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "不可摧毀",
+            "反物理定律",
+            "未收容",
+            "玩具",
+            "翻譯",
+            "金屬"
+        ]
+    },
+    {
+        "TITLE": "SCP-636 - 至無處之電梯",
+        "FULLNAME": "scp-636",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "建築物",
+            "翻譯",
+            "自主",
+            "超維度",
+            "載具"
+        ]
+    },
+    {
+        "TITLE": "我不識己名",
+        "FULLNAME": "i-don-t-know-my-name",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "故事",
+            "無名",
+            "翻譯"
         ]
     }
 ]
