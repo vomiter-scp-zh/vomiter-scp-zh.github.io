@@ -9194,5 +9194,35 @@
             "翻譯",
             "負號部隊"
         ]
+    },
+    {
+        "TITLE": "SCP-7726 - 掰掰，謝謝你們的魚啦",
+        "FULLNAME": "scp-7726",
+        "RATING": 11,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "en-7000",
+            "everwood博士",
+            "safe",
+            "scp",
+            "武器",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-6902 - 遺失的行李",
+        "FULLNAME": "scp-6902",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "傳送",
+            "容器",
+            "翻譯",
+            "衣物"
+        ]
     }
 ]
