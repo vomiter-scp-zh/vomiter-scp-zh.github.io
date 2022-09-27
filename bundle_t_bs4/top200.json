@@ -846,6 +846,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-5400-J - 超級宇宙無敵機密文章",
+        "FULLNAME": "scp-5400-j",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "魔法講座",
         "FULLNAME": "another-goddamn-magic-system",
         "RATING": 10,
@@ -1112,12 +1118,6 @@
     {
         "TITLE": "SCP-6665 - 黑條",
         "FULLNAME": "scp-6665",
-        "RATING": 10,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-5400-J - 超級宇宙無敵機密文章",
-        "FULLNAME": "scp-5400-j",
         "RATING": 10,
         "COMMENTS": "0"
     },
