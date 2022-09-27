@@ -828,16 +828,16 @@
         "COMMENTS": "5"
     },
     {
+        "TITLE": "機動特遣隊簡要列表",
+        "FULLNAME": "task-forces-complete-list",
+        "RATING": 11,
+        "COMMENTS": "4"
+    },
+    {
         "TITLE": "魔法講座",
         "FULLNAME": "another-goddamn-magic-system",
         "RATING": 10,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "機動特遣隊簡要列表",
-        "FULLNAME": "task-forces-complete-list",
-        "RATING": 10,
-        "COMMENTS": "4"
     },
     {
         "TITLE": "SCP-073 - 「該隱」",
