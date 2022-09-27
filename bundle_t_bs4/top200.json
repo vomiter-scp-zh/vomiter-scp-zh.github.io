@@ -1146,6 +1146,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "保衛43 中心頁",
+        "FULLNAME": "on-guard-43-hub",
+        "RATING": 10,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-682-J James 的塗鴉小冊子",
         "FULLNAME": "scp-682-j-james-coloring-book",
         "RATING": 9,
@@ -1190,12 +1196,6 @@
     {
         "TITLE": "SCP-1322-J",
         "FULLNAME": "scp-1322-j",
-        "RATING": 9,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-200-JP - 會沉的黃色鴨鴨",
-        "FULLNAME": "scp-200-jp",
         "RATING": 9,
         "COMMENTS": "1"
     }
