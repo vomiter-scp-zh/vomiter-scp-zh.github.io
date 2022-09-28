@@ -31,5 +31,16 @@
             "中心",
             "翻譯"
         ]
+    },
+    {
+        "TITLE": "用戶推薦列表",
+        "FULLNAME": "user-curated-lists",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "中心",
+            "翻譯"
+        ]
     }
 ]
