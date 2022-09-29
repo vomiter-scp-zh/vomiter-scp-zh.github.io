@@ -576,6 +576,12 @@
         "COMMENTS": "3"
     },
     {
+        "TITLE": "削不完肉的沙威瑪",
+        "FULLNAME": "parawatch-shawarma",
+        "RATING": 22,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "SCP-ZH-610 - 猛爆性繁衍組織瘤",
         "FULLNAME": "scp-zh-610",
         "RATING": 21,
@@ -590,12 +596,6 @@
     {
         "TITLE": "SCP-ZH-166",
         "FULLNAME": "scp-zh-166",
-        "RATING": 21,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "削不完肉的沙威瑪",
-        "FULLNAME": "parawatch-shawarma",
         "RATING": 21,
         "COMMENTS": "2"
     },
