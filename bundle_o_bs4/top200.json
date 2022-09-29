@@ -198,6 +198,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-ZH-750 - 神說：「要有油。」就有了油。",
+        "FULLNAME": "scp-zh-750",
+        "RATING": 30,
+        "COMMENTS": "4"
+    },
+    {
         "TITLE": "SCP-ZH-053",
         "FULLNAME": "scp-zh-053",
         "RATING": 29,
@@ -214,12 +220,6 @@
         "FULLNAME": "the-ss-vs-ss",
         "RATING": 29,
         "COMMENTS": "19"
-    },
-    {
-        "TITLE": "SCP-ZH-750 - 神說：「要有油。」就有了油。",
-        "FULLNAME": "scp-zh-750",
-        "RATING": 29,
-        "COMMENTS": "4"
     },
     {
         "TITLE": "SCP-ZH-496 - 安全極限距離",
