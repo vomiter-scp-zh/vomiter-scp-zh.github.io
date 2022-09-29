@@ -1068,7 +1068,7 @@
     {
         "TITLE": "工作機會",
         "FULLNAME": "job-opportunities",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1092,6 +1092,19 @@
             "翻譯",
             "超維度",
             "魚類"
+        ]
+    },
+    {
+        "TITLE": "煉金學部中心頁",
+        "FULLNAME": "the-alchemy-department-hub",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "中心",
+            "煉金部門",
+            "翻譯",
+            "評論員焦點"
         ]
     }
 ]
