@@ -858,6 +858,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-2317 - 前往彼界之門",
+        "FULLNAME": "scp-2317",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "魔法講座",
         "FULLNAME": "another-goddamn-magic-system",
         "RATING": 10,
@@ -1138,12 +1144,6 @@
         "FULLNAME": "scp-5690",
         "RATING": 10,
         "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-2317 - 前往彼界之門",
-        "FULLNAME": "scp-2317",
-        "RATING": 10,
-        "COMMENTS": "0"
     },
     {
         "TITLE": "保衛43 中心頁",
