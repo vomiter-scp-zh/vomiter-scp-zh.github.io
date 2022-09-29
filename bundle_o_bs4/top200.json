@@ -660,6 +660,12 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "SCP-ZH-133",
+        "FULLNAME": "scp-zh-133",
+        "RATING": 21,
+        "COMMENTS": "7"
+    },
+    {
         "TITLE": "SCP-ZH-009",
         "FULLNAME": "scp-zh-009",
         "RATING": 20,
@@ -700,12 +706,6 @@
         "FULLNAME": "scp-zh-044",
         "RATING": 20,
         "COMMENTS": "3"
-    },
-    {
-        "TITLE": "SCP-ZH-133",
-        "FULLNAME": "scp-zh-133",
-        "RATING": 20,
-        "COMMENTS": "7"
     },
     {
         "TITLE": "宿雨",
@@ -822,6 +822,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "虔誠神父與社畜輔導員不會撞破蒙臉上司們做羞羞的事",
+        "FULLNAME": "one-night-four-broken-hearts-in-12",
+        "RATING": 20,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP基金會不知道的那些事件",
         "FULLNAME": "ocd-virus01",
         "RATING": 19,
@@ -928,12 +934,6 @@
         "FULLNAME": "scp-zh-432",
         "RATING": 19,
         "COMMENTS": "2"
-    },
-    {
-        "TITLE": "虔誠神父與社畜輔導員不會撞破蒙臉上司們做羞羞的事",
-        "FULLNAME": "one-night-four-broken-hearts-in-12",
-        "RATING": 19,
-        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-045",
@@ -1134,6 +1134,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "白雲孤飛",
+        "FULLNAME": "i-ll-come-back-to-the-earth-and-bring-the-piece-of-the-star",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-954 - 黃色便條紙",
         "FULLNAME": "scp-zh-954",
         "RATING": 17,
@@ -1190,12 +1196,6 @@
     {
         "TITLE": "SCP-ZH-545 - 我不是恐龍",
         "FULLNAME": "scp-zh-545",
-        "RATING": 17,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "藝術紀錄：死亡，永生-1",
-        "FULLNAME": "art-for-death-eternal-life-1",
         "RATING": 17,
         "COMMENTS": "1"
     }

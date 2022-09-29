@@ -2810,5 +2810,86 @@
             "模因效應",
             "機密分級"
         ]
+    },
+    {
+        "TITLE": "SCP-ZH-133",
+        "FULLNAME": "scp-zh-133",
+        "RATING": 21,
+        "COMMENTS": "7",
+        "TAGS": [
+            "ad博士",
+            "dado",
+            "kris博士",
+            "safe",
+            "scp",
+            "site-zh-12",
+            "人造物品",
+            "化學性",
+            "原創",
+            "容器",
+            "醫學性"
+        ]
+    },
+    {
+        "TITLE": "美好的老日子",
+        "FULLNAME": "the-goodie-old-days",
+        "RATING": 8,
+        "COMMENTS": "0",
+        "TAGS": [
+            "kris博士",
+            "原創",
+            "合著",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "血膿於水",
+        "FULLNAME": "pyemia-is-thicker-than-water",
+        "RATING": 6,
+        "COMMENTS": "1",
+        "TAGS": [
+            "kris博士",
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "白雲孤飛",
+        "FULLNAME": "i-ll-come-back-to-the-earth-and-bring-the-piece-of-the-star",
+        "RATING": 18,
+        "COMMENTS": "0",
+        "TAGS": [
+            "zh急迫競賽2022",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "勿忘我",
+        "FULLNAME": "forget-me-not-lucifelle",
+        "RATING": 17,
+        "COMMENTS": "0",
+        "TAGS": [
+            "owen",
+            "site-zh-12",
+            "zh急迫競賽2022",
+            "原創",
+            "故事",
+            "研究員lucifelle"
+        ]
+    },
+    {
+        "TITLE": "虔誠神父與社畜輔導員不會撞破蒙臉上司們做羞羞的事",
+        "FULLNAME": "one-night-four-broken-hearts-in-12",
+        "RATING": 20,
+        "COMMENTS": "0",
+        "TAGS": [
+            "zh急迫競賽2022",
+            "原創",
+            "故事",
+            "歡樂基金會",
+            "瓶中船"
+        ]
     }
 ]
