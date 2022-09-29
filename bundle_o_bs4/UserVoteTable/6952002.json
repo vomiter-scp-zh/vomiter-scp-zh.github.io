@@ -2891,5 +2891,203 @@
             "歡樂基金會",
             "瓶中船"
         ]
+    },
+    {
+        "TITLE": "過雲雨",
+        "FULLNAME": "overcast",
+        "RATING": 12,
+        "COMMENTS": "0",
+        "TAGS": [
+            "ad博士",
+            "ctrl-z博士",
+            "kris博士",
+            "site-zh-12",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "願君安好",
+        "FULLNAME": "wish-you-safe-and-sound",
+        "RATING": 24,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2020聖夜相守",
+            "kris博士",
+            "site-zh-12",
+            "willow特工",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "食堂約會",
+        "FULLNAME": "canteen-date",
+        "RATING": 22,
+        "COMMENTS": "3",
+        "TAGS": [
+            "ad博士",
+            "apoyn博士",
+            "ctrl-z博士",
+            "kris博士",
+            "site-zh-12",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "雷陣雨",
+        "FULLNAME": "thunderstorm",
+        "RATING": 14,
+        "COMMENTS": "0",
+        "TAGS": [
+            "kris博士",
+            "site-zh-02",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "後現代基金會同人戀愛向輕小說",
+        "FULLNAME": "k1s10r0d-april-fool-project-2021",
+        "RATING": 17,
+        "COMMENTS": "5",
+        "TAGS": [
+            "kris博士",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "今天也是普通的一天",
+        "FULLNAME": "today-is-just-another-ordinary-day",
+        "RATING": 12,
+        "COMMENTS": "4",
+        "TAGS": [
+            "kris博士",
+            "site-zh-81",
+            "原創",
+            "故事",
+            "欲肉教"
+        ]
+    },
+    {
+        "TITLE": "好餓好餓的克里斯博士",
+        "FULLNAME": "the-very-hungry-dr-kris",
+        "RATING": 16,
+        "COMMENTS": "2",
+        "TAGS": [
+            "ctrl-z博士",
+            "kris博士",
+            "原創",
+            "故事",
+            "歡樂基金會"
+        ]
+    },
+    {
+        "TITLE": "「轉世計劃」",
+        "FULLNAME": "project-reincarnation",
+        "RATING": 16,
+        "COMMENTS": "1",
+        "TAGS": [
+            "原創",
+            "展出",
+            "故事",
+            "轉世計劃"
+        ]
+    },
+    {
+        "TITLE": "「我腦中唯一一件事」",
+        "FULLNAME": "the-only-thing-in-my-head",
+        "RATING": 8,
+        "COMMENTS": "2",
+        "TAGS": [
+            "原創",
+            "故事",
+            "轉世計劃"
+        ]
+    },
+    {
+        "TITLE": "觸不到的你",
+        "FULLNAME": "you",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "原創",
+            "故事",
+            "轉世計劃"
+        ]
+    },
+    {
+        "TITLE": "十月十七日憶院外友人",
+        "FULLNAME": "17-th-october-a-letter-to-a-friend",
+        "RATING": 10,
+        "COMMENTS": "1",
+        "TAGS": [
+            "原創",
+            "故事",
+            "轉世計劃"
+        ]
+    },
+    {
+        "TITLE": "宿雨",
+        "FULLNAME": "the-rain-fell-overnight",
+        "RATING": 21,
+        "COMMENTS": "1",
+        "TAGS": [
+            "kris博士",
+            "site-zh-12",
+            "原創",
+            "少微-12",
+            "故事",
+            "說明"
+        ]
+    },
+    {
+        "TITLE": "微雨",
+        "FULLNAME": "drizzle",
+        "RATING": 11,
+        "COMMENTS": "2",
+        "TAGS": [
+            "ad博士",
+            "kris博士",
+            "site-zh-12",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "藝術作品：SCP-ZH-922（k1s10r0d版）",
+        "FULLNAME": "cidal-dongi-by-k1s10r0d",
+        "RATING": 15,
+        "COMMENTS": "0",
+        "TAGS": [
+            "site-zh-44",
+            "原創",
+            "台灣原住民",
+            "藝術作品"
+        ]
+    },
+    {
+        "TITLE": "別惹我",
+        "FULLNAME": "don-t-tread-on-me",
+        "RATING": 11,
+        "COMMENTS": "0",
+        "TAGS": [
+            "原創",
+            "藝術作品",
+            "轉世計劃"
+        ]
+    },
+    {
+        "TITLE": "安塔雷斯運動宣導",
+        "FULLNAME": "propaganda-of-the-antares-movement",
+        "RATING": 12,
+        "COMMENTS": "0",
+        "TAGS": [
+            "原創",
+            "藝術作品",
+            "轉世計劃"
+        ]
     }
 ]
