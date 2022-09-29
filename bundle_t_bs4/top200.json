@@ -852,6 +852,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-2000 - 機械降神",
+        "FULLNAME": "scp-2000",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "魔法講座",
         "FULLNAME": "another-goddamn-magic-system",
         "RATING": 10,
@@ -922,12 +928,6 @@
         "FULLNAME": "oneiroi",
         "RATING": 10,
         "COMMENTS": "3"
-    },
-    {
-        "TITLE": "SCP-2000 - 機械降神",
-        "FULLNAME": "scp-2000",
-        "RATING": 10,
-        "COMMENTS": "0"
     },
     {
         "TITLE": "事故 239-B - Clef-Kondraki",
