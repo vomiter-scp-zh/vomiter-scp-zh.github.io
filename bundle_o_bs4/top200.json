@@ -810,6 +810,18 @@
         "COMMENTS": "6"
     },
     {
+        "TITLE": "SCP-ZH-220",
+        "FULLNAME": "scp-zh-220",
+        "RATING": 20,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-059 - 無形的奴隸與反抗",
+        "FULLNAME": "scp-zh-059",
+        "RATING": 20,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP基金會不知道的那些事件",
         "FULLNAME": "ocd-virus01",
         "RATING": 19,
@@ -894,22 +906,10 @@
         "COMMENTS": "3"
     },
     {
-        "TITLE": "SCP-ZH-220",
-        "FULLNAME": "scp-zh-220",
-        "RATING": 19,
-        "COMMENTS": "0"
-    },
-    {
         "TITLE": "SCP-ZH-110 - 地板破了個洞",
         "FULLNAME": "scp-zh-110",
         "RATING": 19,
         "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-ZH-059 - 無形的奴隸與反抗",
-        "FULLNAME": "scp-zh-059",
-        "RATING": 19,
-        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-107 - 捕鳥雲",
