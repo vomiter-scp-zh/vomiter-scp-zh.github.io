@@ -8062,5 +8062,102 @@
             "合作",
             "翻譯"
         ]
+    },
+    {
+        "TITLE": "SCP-7052 - 菊中匙",
+        "FULLNAME": "scp-7052",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "工具",
+            "成人內容",
+            "本質促動",
+            "機率性",
+            "翻譯",
+            "自我修復"
+        ]
+    },
+    {
+        "TITLE": "工作機會",
+        "FULLNAME": "job-opportunities",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "mc&d",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-001",
+        "FULLNAME": "scp-4380",
+        "RATING": 9,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "meta",
+            "scp",
+            "不可摧毀",
+            "人形",
+            "感知力",
+            "智能",
+            "概念",
+            "機密分級",
+            "活物",
+            "翻譯",
+            "誤傳部",
+            "資訊危害",
+            "逆模因"
+        ]
+    },
+    {
+        "TITLE": "煉金學部中心頁",
+        "FULLNAME": "the-alchemy-department-hub",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "中心",
+            "煉金部門",
+            "翻譯",
+            "評論員焦點"
+        ]
+    },
+    {
+        "TITLE": "SCP-6837 - 鬧鬼故事",
+        "FULLNAME": "scp-6837",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "scp",
+            "建築物",
+            "待分級",
+            "時間影響",
+            "未來",
+            "翻譯",
+            "聲音"
+        ]
+    },
+    {
+        "TITLE": "SCP-850 - 魚群",
+        "FULLNAME": "scp-850",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "活物",
+            "物種",
+            "翻譯",
+            "超維度",
+            "魚類"
+        ]
     }
 ]
