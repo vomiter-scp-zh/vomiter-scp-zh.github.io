@@ -1152,6 +1152,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-001",
+        "FULLNAME": "scp-4380",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-682-J James 的塗鴉小冊子",
         "FULLNAME": "scp-682-j-james-coloring-book",
         "RATING": 9,
@@ -1190,12 +1196,6 @@
     {
         "TITLE": "SCP-4127 - 硬幣正或反",
         "FULLNAME": "scp-4127",
-        "RATING": 9,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-1322-J",
-        "FULLNAME": "scp-1322-j",
         "RATING": 9,
         "COMMENTS": "1"
     }
