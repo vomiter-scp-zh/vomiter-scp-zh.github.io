@@ -11222,5 +11222,28 @@
             "本質促動",
             "遊戲"
         ]
+    },
+    {
+        "TITLE": "SCP-ZH-155 - 狂暴鯨靈",
+        "FULLNAME": "scp-zh-155",
+        "RATING": 11,
+        "COMMENTS": "0",
+        "TAGS": [
+            "euclid",
+            "scp",
+            "原創",
+            "鯨類"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-387 - 主流社會性死亡",
+        "FULLNAME": "scp-zh-387",
+        "RATING": 3,
+        "COMMENTS": "2",
+        "TAGS": [
+            "keter",
+            "scp",
+            "原創"
+        ]
     }
 ]
