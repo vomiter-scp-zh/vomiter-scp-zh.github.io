@@ -9319,5 +9319,17 @@
             "翻譯",
             "載具"
         ]
+    },
+    {
+        "TITLE": "事件紀錄SCP-097",
+        "FULLNAME": "event-log-scp-097",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "事故",
+            "翻譯",
+            "附加資料"
+        ]
     }
 ]
