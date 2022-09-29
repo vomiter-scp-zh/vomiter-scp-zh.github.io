@@ -117,5 +117,48 @@
             "變形",
             "貓類"
         ]
+    },
+    {
+        "TITLE": "文件096-1",
+        "FULLNAME": "document-096-1",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "實驗",
+            "羞澀的人",
+            "翻譯",
+            "附加資料"
+        ]
+    },
+    {
+        "TITLE": "SCP-096 - 羞澀的人",
+        "FULLNAME": "scp-096",
+        "RATING": 10,
+        "COMMENTS": "0",
+        "TAGS": [
+            "dan博士",
+            "en",
+            "euclid",
+            "scp",
+            "人形",
+            "活物",
+            "羞澀的人",
+            "翻譯",
+            "視覺性",
+            "認知危害"
+        ]
+    },
+    {
+        "TITLE": "我們需要談談五十五的事情",
+        "FULLNAME": "we-need-to-talk-about-fifty-five",
+        "RATING": 9,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "marion-wheeler",
+            "故事",
+            "翻譯"
+        ]
     }
 ]

@@ -1158,6 +1158,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-096 - 羞澀的人",
+        "FULLNAME": "scp-096",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-682-J James 的塗鴉小冊子",
         "FULLNAME": "scp-682-j-james-coloring-book",
         "RATING": 9,
@@ -1192,11 +1198,5 @@
         "FULLNAME": "scp-745-jp",
         "RATING": 9,
         "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-4127 - 硬幣正或反",
-        "FULLNAME": "scp-4127",
-        "RATING": 9,
-        "COMMENTS": "1"
     }
 ]
