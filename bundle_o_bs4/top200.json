@@ -672,6 +672,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "安布羅斯餐廳-崇文館",
+        "FULLNAME": "ambrose-chung-wen-kuan",
+        "RATING": 21,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "SCP-ZH-009",
         "FULLNAME": "scp-zh-009",
         "RATING": 20,
@@ -700,12 +706,6 @@
         "FULLNAME": "tsars-hub",
         "RATING": 20,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "安布羅斯餐廳-崇文館",
-        "FULLNAME": "ambrose-chung-wen-kuan",
-        "RATING": 20,
-        "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-ZH-044",
