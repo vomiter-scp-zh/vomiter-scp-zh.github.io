@@ -1209,5 +1209,16 @@
             "誤傳部",
             "資訊危害"
         ]
+    },
+    {
+        "TITLE": "楷模計畫",
+        "FULLNAME": "project-paragon-hub",
+        "RATING": 9,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "中心",
+            "翻譯"
+        ]
     }
 ]
