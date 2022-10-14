@@ -3289,7 +3289,7 @@
     {
         "TITLE": "Dr. Bales的日常小品集錦 二",
         "FULLNAME": "bales-s-daily-2",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "1",
         "TAGS": [
             "ain博士",
@@ -3308,7 +3308,7 @@
     {
         "TITLE": "2010年的那幾個實習生",
         "FULLNAME": "source-of-chaos",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "0",
         "TAGS": [
             "ain博士",
@@ -3401,7 +3401,7 @@
     {
         "TITLE": "你會感到後悔嗎？",
         "FULLNAME": "what-are-you-waiting-for-just-join-goc-dude",
-        "RATING": 35,
+        "RATING": 36,
         "COMMENTS": "5",
         "TAGS": [
             "全球超自然聯盟",
@@ -3431,7 +3431,7 @@
     {
         "TITLE": "霜寒",
         "FULLNAME": "frozencold",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "原創",
@@ -3644,7 +3644,7 @@
     {
         "TITLE": "故事的力量～你為什麼需要超形上學～",
         "FULLNAME": "why-you-need-pataphysics",
-        "RATING": 26,
+        "RATING": 27,
         "COMMENTS": "1",
         "TAGS": [
             "原創",
@@ -4085,7 +4085,7 @@
     {
         "TITLE": "異常項目紀錄：「防暴警察頭盔」",
         "FULLNAME": "anomalous-item-hk-police-helmet",
-        "RATING": 35,
+        "RATING": 36,
         "COMMENTS": "5",
         "TAGS": [
             "2021夏季競賽",
@@ -4364,7 +4364,7 @@
     {
         "TITLE": "「轉世計劃」",
         "FULLNAME": "project-reincarnation",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "1",
         "TAGS": [
             "原創",
@@ -4586,10 +4586,11 @@
     {
         "TITLE": "方針核許異聞零零零貳－水畔公國",
         "FULLNAME": "zh-bt-strange-news-0002",
-        "RATING": -1,
-        "COMMENTS": "0",
+        "RATING": -3,
+        "COMMENTS": "1",
         "TAGS": [
             "原創",
+            "待刪除",
             "拋鈴人",
             "故事",
             "轉世計劃"
@@ -4626,7 +4627,7 @@
     {
         "TITLE": "事故紀錄458-A",
         "FULLNAME": "what-the-fuck-is-this-pizza",
-        "RATING": 15,
+        "RATING": 16,
         "COMMENTS": "0",
         "TAGS": [
             "2021聖夜相守",

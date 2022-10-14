@@ -3128,7 +3128,7 @@
     {
         "TITLE": "SCP-ZH-2005-EX",
         "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 56,
+        "RATING": 57,
         "COMMENTS": "1",
         "TAGS": [
             "2021冬季競賽",
@@ -3265,7 +3265,7 @@
     {
         "TITLE": "2010年的那幾個實習生",
         "FULLNAME": "source-of-chaos",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "0",
         "TAGS": [
             "ain博士",
@@ -3381,7 +3381,7 @@
     {
         "TITLE": "你會感到後悔嗎？",
         "FULLNAME": "what-are-you-waiting-for-just-join-goc-dude",
-        "RATING": 35,
+        "RATING": 36,
         "COMMENTS": "5",
         "TAGS": [
             "全球超自然聯盟",
@@ -3678,7 +3678,7 @@
     {
         "TITLE": "故事的力量～你為什麼需要超形上學～",
         "FULLNAME": "why-you-need-pataphysics",
-        "RATING": 26,
+        "RATING": 27,
         "COMMENTS": "1",
         "TAGS": [
             "原創",
@@ -3961,7 +3961,7 @@
     {
         "TITLE": "SCP-ZH-096 - 紅移破滅",
         "FULLNAME": "scp-zh-096",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "2",
         "TAGS": [
             "scp",
@@ -4395,8 +4395,8 @@
     {
         "TITLE": "SCP-ZH-144 - 十二進位法",
         "FULLNAME": "scp-zh-144",
-        "RATING": 23,
-        "COMMENTS": "3",
+        "RATING": 24,
+        "COMMENTS": "6",
         "TAGS": [
             "keter",
             "scp",
@@ -4789,8 +4789,8 @@
     {
         "TITLE": "SCP-ZH-999-J - 工",
         "FULLNAME": "scp-zh-999-j",
-        "RATING": 5,
-        "COMMENTS": "18",
+        "RATING": 6,
+        "COMMENTS": "19",
         "TAGS": [
             "ad博士",
             "hanku博士",
@@ -4821,7 +4821,7 @@
     {
         "TITLE": "繁中管理員筆記：2021年回顧",
         "FULLNAME": "note-for-u-guys-2021",
-        "RATING": 34,
+        "RATING": 35,
         "COMMENTS": "4",
         "TAGS": [
             "原創",
@@ -5042,7 +5042,7 @@
     {
         "TITLE": "SCP-ZH-062 - 燈猴",
         "FULLNAME": "scp-zh-062",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "0",
         "TAGS": [
             "safe",
@@ -5290,7 +5290,7 @@
     {
         "TITLE": "SCP-ZH-056 - 本班機飛往彼岸",
         "FULLNAME": "scp-zh-056",
-        "RATING": 19,
+        "RATING": 20,
         "COMMENTS": "0",
         "TAGS": [
             "euclid",
@@ -6167,6 +6167,29 @@
         "TAGS": [
             "原創",
             "藝術作品"
+        ]
+    },
+    {
+        "TITLE": "「轉世計劃」",
+        "FULLNAME": "project-reincarnation",
+        "RATING": 17,
+        "COMMENTS": "1",
+        "TAGS": [
+            "原創",
+            "展出",
+            "故事",
+            "轉世計劃"
+        ]
+    },
+    {
+        "TITLE": "資本主義、來襲",
+        "FULLNAME": "capitalism-attack",
+        "RATING": 13,
+        "COMMENTS": "3",
+        "TAGS": [
+            "原創",
+            "藝術作品",
+            "轉世計劃"
         ]
     }
 ]

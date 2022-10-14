@@ -33,7 +33,7 @@
     {
         "TITLE": "繁中管理員筆記：2021年回顧",
         "FULLNAME": "note-for-u-guys-2021",
-        "RATING": 34,
+        "RATING": 35,
         "COMMENTS": "4",
         "TAGS": [
             "原創",
@@ -274,7 +274,7 @@
     {
         "TITLE": "SCP-ZH-277－築路中原",
         "FULLNAME": "scp-zh-277",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "euclid",
@@ -1434,6 +1434,19 @@
             "通訊",
             "電子",
             "電腦"
+        ]
+    },
+    {
+        "TITLE": "異常項目紀錄：「防暴警察頭盔」",
+        "FULLNAME": "anomalous-item-hk-police-helmet",
+        "RATING": 36,
+        "COMMENTS": "5",
+        "TAGS": [
+            "2021夏季競賽",
+            "site-zh-25",
+            "原創",
+            "國安十九局",
+            "故事"
         ]
     }
 ]

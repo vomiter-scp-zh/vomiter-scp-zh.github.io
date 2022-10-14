@@ -514,8 +514,8 @@
     {
         "TITLE": "SCP-ZH-144 - 十二進位法",
         "FULLNAME": "scp-zh-144",
-        "RATING": 23,
-        "COMMENTS": "3",
+        "RATING": 24,
+        "COMMENTS": "6",
         "TAGS": [
             "keter",
             "scp",
@@ -533,7 +533,7 @@
     {
         "TITLE": "「轉世計劃」",
         "FULLNAME": "project-reincarnation",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "1",
         "TAGS": [
             "原創",
@@ -806,7 +806,7 @@
     {
         "TITLE": "事故紀錄458-A",
         "FULLNAME": "what-the-fuck-is-this-pizza",
-        "RATING": 15,
+        "RATING": 16,
         "COMMENTS": "0",
         "TAGS": [
             "2021聖夜相守",
@@ -886,7 +886,7 @@
     {
         "TITLE": "繁中管理員筆記：2021年回顧",
         "FULLNAME": "note-for-u-guys-2021",
-        "RATING": 34,
+        "RATING": 35,
         "COMMENTS": "4",
         "TAGS": [
             "原創",

@@ -2,7 +2,7 @@
     {
         "TITLE": "SCP-5400-J - 超級宇宙無敵機密文章",
         "FULLNAME": "scp-5400-j",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -76,7 +76,7 @@
     {
         "TITLE": "SCP-7000 - 輸家",
         "FULLNAME": "scp-7000",
-        "RATING": 17,
+        "RATING": 19,
         "COMMENTS": "1",
         "TAGS": [
             "blank博士",
@@ -100,7 +100,7 @@
     {
         "TITLE": "SCP-7001 - Site-19",
         "FULLNAME": "scp-7001",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "asheworth博士",
@@ -191,6 +191,31 @@
             "en",
             "mc&d",
             "復生",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-207-JP實驗紀錄",
+        "FULLNAME": "207",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "jp",
+            "合作",
+            "實驗",
+            "翻譯",
+            "附加資料"
+        ]
+    },
+    {
+        "TITLE": "我，一隻在暴雪中摀住鼻子的北極熊",
+        "FULLNAME": "i-a-polar-bear-covering-my-nose-in-a-snowstorm",
+        "RATING": 12,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "搞笑",
             "故事",
             "翻譯"
         ]

@@ -12,16 +12,16 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-ZH-2005-EX",
+        "FULLNAME": "scp-zh-2005-ex",
+        "RATING": 57,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-ZH-999－人們欠他個總統席位",
         "FULLNAME": "scp-zh-999",
         "RATING": 56,
         "COMMENTS": "13"
-    },
-    {
-        "TITLE": "SCP-ZH-2005-EX",
-        "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 56,
-        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-9288-EX",
@@ -84,22 +84,22 @@
         "COMMENTS": "19"
     },
     {
-        "TITLE": "SCP-ZH-815",
-        "FULLNAME": "scp-zh-815",
-        "RATING": 35,
-        "COMMENTS": "8"
+        "TITLE": "你會感到後悔嗎？",
+        "FULLNAME": "what-are-you-waiting-for-just-join-goc-dude",
+        "RATING": 36,
+        "COMMENTS": "5"
     },
     {
         "TITLE": "異常項目紀錄：「防暴警察頭盔」",
         "FULLNAME": "anomalous-item-hk-police-helmet",
-        "RATING": 35,
+        "RATING": 36,
         "COMMENTS": "5"
     },
     {
-        "TITLE": "你會感到後悔嗎？",
-        "FULLNAME": "what-are-you-waiting-for-just-join-goc-dude",
+        "TITLE": "SCP-ZH-815",
+        "FULLNAME": "scp-zh-815",
         "RATING": 35,
-        "COMMENTS": "5"
+        "COMMENTS": "8"
     },
     {
         "TITLE": "k1s10r0d的提案 - IMMOLARI",
@@ -110,7 +110,7 @@
     {
         "TITLE": "繁中管理員筆記：2021年回顧",
         "FULLNAME": "note-for-u-guys-2021",
-        "RATING": 34,
+        "RATING": 35,
         "COMMENTS": "4"
     },
     {
@@ -270,6 +270,12 @@
         "COMMENTS": "3"
     },
     {
+        "TITLE": "故事的力量～你為什麼需要超形上學～",
+        "FULLNAME": "why-you-need-pataphysics",
+        "RATING": 27,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-ZH-310 - 異常蛋白質結構域",
         "FULLNAME": "scp-zh-310",
         "RATING": 26,
@@ -280,12 +286,6 @@
         "FULLNAME": "five-minutes-to-end",
         "RATING": 26,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "故事的力量～你為什麼需要超形上學～",
-        "FULLNAME": "why-you-need-pataphysics",
-        "RATING": 26,
-        "COMMENTS": "1"
     },
     {
         "TITLE": "維安設施檔案：Site-ZH-02",
@@ -310,6 +310,12 @@
         "FULLNAME": "doodles-from-sam",
         "RATING": 25,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-096 - 紅移破滅",
+        "FULLNAME": "scp-zh-096",
+        "RATING": 25,
+        "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-ZH-222-J",
@@ -384,12 +390,6 @@
         "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-ZH-096 - 紅移破滅",
-        "FULLNAME": "scp-zh-096",
-        "RATING": 24,
-        "COMMENTS": "2"
-    },
-    {
         "TITLE": "SCP-ZH-174",
         "FULLNAME": "scp-zh-174",
         "RATING": 24,
@@ -400,6 +400,12 @@
         "FULLNAME": "wish-you-safe-and-sound",
         "RATING": 24,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-144 - 十二進位法",
+        "FULLNAME": "scp-zh-144",
+        "RATING": 24,
+        "COMMENTS": "6"
     },
     {
         "TITLE": "SCP-ZH-100",
@@ -460,12 +466,6 @@
         "FULLNAME": "scp-zh-106",
         "RATING": 23,
         "COMMENTS": "4"
-    },
-    {
-        "TITLE": "SCP-ZH-144 - 十二進位法",
-        "FULLNAME": "scp-zh-144",
-        "RATING": 23,
-        "COMMENTS": "3"
     },
     {
         "TITLE": "SCP-ZH-968 - 基輔戰鬼顯現之時",
@@ -828,6 +828,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-ZH-056 - 本班機飛往彼岸",
+        "FULLNAME": "scp-zh-056",
+        "RATING": 20,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP基金會不知道的那些事件",
         "FULLNAME": "ocd-virus01",
         "RATING": 19,
@@ -920,12 +926,6 @@
     {
         "TITLE": "SCP-ZH-107 - 捕鳥雲",
         "FULLNAME": "scp-zh-107",
-        "RATING": 19,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-056 - 本班機飛往彼岸",
-        "FULLNAME": "scp-zh-056",
         "RATING": 19,
         "COMMENTS": "0"
     },
@@ -1146,6 +1146,12 @@
         "COMMENTS": "3"
     },
     {
+        "TITLE": "2010年的那幾個實習生",
+        "FULLNAME": "source-of-chaos",
+        "RATING": 18,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-954 - 黃色便條紙",
         "FULLNAME": "scp-zh-954",
         "RATING": 17,
@@ -1190,12 +1196,6 @@
     {
         "TITLE": "有關批准使用模因製劑協助對鵝形惡魔實體進行驅魔的申請",
         "FULLNAME": "grant-request-for-utilization-of-memetic-agent-to-assist-per",
-        "RATING": 17,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-ZH-545 - 我不是恐龍",
-        "FULLNAME": "scp-zh-545",
         "RATING": 17,
         "COMMENTS": "1"
     }

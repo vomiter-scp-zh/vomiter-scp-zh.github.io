@@ -268,7 +268,7 @@
     {
         "TITLE": "SCP-ZH-277－築路中原",
         "FULLNAME": "scp-zh-277",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "euclid",
@@ -586,6 +586,38 @@
             "搞笑",
             "機密分級",
             "研究員lucifelle"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-204",
+        "FULLNAME": "scp-zh-204",
+        "RATING": 17,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2021冬季競賽",
+            "safe",
+            "scp",
+            "site-zh-12",
+            "人造物品",
+            "原創",
+            "嗅覺影響",
+            "幻覺",
+            "強迫性",
+            "認知危害",
+            "貨幣"
+        ]
+    },
+    {
+        "TITLE": "事故紀錄458-A",
+        "FULLNAME": "what-the-fuck-is-this-pizza",
+        "RATING": 16,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2021聖夜相守",
+            "三垣",
+            "原創",
+            "展出",
+            "故事"
         ]
     }
 ]

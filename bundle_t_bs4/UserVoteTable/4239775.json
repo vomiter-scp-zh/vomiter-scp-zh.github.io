@@ -1806,7 +1806,7 @@
     {
         "TITLE": "SCP-4680 - 噢，那些俄國佬…",
         "FULLNAME": "scp-4680",
-        "RATING": 8,
+        "RATING": 9,
         "COMMENTS": "3",
         "TAGS": [
             "en",
@@ -1855,7 +1855,7 @@
     {
         "TITLE": "SCP-5400-J - 超級宇宙無敵機密文章",
         "FULLNAME": "scp-5400-j",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1896,6 +1896,30 @@
             "機率性",
             "翻譯",
             "自我修復"
+        ]
+    },
+    {
+        "TITLE": "SCP-7000 - 輸家",
+        "FULLNAME": "scp-7000",
+        "RATING": 19,
+        "COMMENTS": "1",
+        "TAGS": [
+            "blank博士",
+            "dan博士",
+            "en",
+            "en-7000",
+            "euclid",
+            "k級情景",
+            "scp",
+            "wettle博士",
+            "不復返",
+            "人形",
+            "保衛43",
+            "本質促動",
+            "概念",
+            "機率性",
+            "渾沌反叛軍",
+            "翻譯"
         ]
     }
 ]

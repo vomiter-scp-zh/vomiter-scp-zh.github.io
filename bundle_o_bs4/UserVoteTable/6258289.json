@@ -700,7 +700,7 @@
     {
         "TITLE": "SCP-ZH-2005-EX",
         "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 56,
+        "RATING": 57,
         "COMMENTS": "1",
         "TAGS": [
             "2021冬季競賽",
@@ -1240,6 +1240,33 @@
             "精神影響",
             "認知危害",
             "都異部門"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-277－築路中原",
+        "FULLNAME": "scp-zh-277",
+        "RATING": 12,
+        "COMMENTS": "0",
+        "TAGS": [
+            "euclid",
+            "scp",
+            "zh999",
+            "原創",
+            "建築物",
+            "資訊危害",
+            "逆模因"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-056 - 本班機飛往彼岸",
+        "FULLNAME": "scp-zh-056",
+        "RATING": 20,
+        "COMMENTS": "0",
+        "TAGS": [
+            "euclid",
+            "scp",
+            "zh急迫競賽2022",
+            "原創"
         ]
     }
 ]

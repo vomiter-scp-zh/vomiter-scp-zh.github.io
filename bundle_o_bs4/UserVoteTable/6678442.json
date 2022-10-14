@@ -363,7 +363,7 @@
     {
         "TITLE": "SCP-ZH-2005-EX",
         "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 56,
+        "RATING": 57,
         "COMMENTS": "1",
         "TAGS": [
             "2021冬季競賽",
@@ -390,7 +390,7 @@
     {
         "TITLE": "SCP-ZH-204",
         "FULLNAME": "scp-zh-204",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "0",
         "TAGS": [
             "2021冬季競賽",
@@ -448,7 +448,7 @@
     {
         "TITLE": "Dr. Bales的日常小品集錦 二",
         "FULLNAME": "bales-s-daily-2",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "1",
         "TAGS": [
             "ain博士",
@@ -486,7 +486,7 @@
     {
         "TITLE": "SCP-ZH-980 - 築夢小棧",
         "FULLNAME": "scp-zh-980",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "2",
         "TAGS": [
             "bales博士",
@@ -567,7 +567,7 @@
     {
         "TITLE": "你會感到後悔嗎？",
         "FULLNAME": "what-are-you-waiting-for-just-join-goc-dude",
-        "RATING": 35,
+        "RATING": 36,
         "COMMENTS": "5",
         "TAGS": [
             "全球超自然聯盟",
@@ -1040,7 +1040,7 @@
     {
         "TITLE": "SCP-ZH-096 - 紅移破滅",
         "FULLNAME": "scp-zh-096",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "2",
         "TAGS": [
             "scp",
@@ -1198,7 +1198,7 @@
     {
         "TITLE": "SCP-ZH-905 - 愛的相反不是恨",
         "FULLNAME": "scp-zh-905",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "euclid",
@@ -1232,10 +1232,11 @@
     {
         "TITLE": "方針核許異聞零零零貳－水畔公國",
         "FULLNAME": "zh-bt-strange-news-0002",
-        "RATING": -1,
-        "COMMENTS": "0",
+        "RATING": -3,
+        "COMMENTS": "1",
         "TAGS": [
             "原創",
+            "待刪除",
             "拋鈴人",
             "故事",
             "轉世計劃"
@@ -1256,7 +1257,7 @@
     {
         "TITLE": "事故紀錄458-A",
         "FULLNAME": "what-the-fuck-is-this-pizza",
-        "RATING": 15,
+        "RATING": 16,
         "COMMENTS": "0",
         "TAGS": [
             "2021聖夜相守",
@@ -1312,7 +1313,7 @@
     {
         "TITLE": "SCP-ZH-062 - 燈猴",
         "FULLNAME": "scp-zh-062",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "0",
         "TAGS": [
             "safe",
