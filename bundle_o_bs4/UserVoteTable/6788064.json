@@ -6265,12 +6265,62 @@
     {
         "TITLE": "《癌又蝟鴨：紅藍爭霸戰》",
         "FULLNAME": "honglam-battle",
-        "RATING": 9,
-        "COMMENTS": "3",
+        "RATING": 12,
+        "COMMENTS": "8",
         "TAGS": [
+            "2022紅藍爭霸賽",
             "中心",
             "原創",
             "競賽"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-328 - Dark Soups",
+        "FULLNAME": "scp-zh-328",
+        "RATING": 19,
+        "COMMENTS": "3",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "bales博士",
+            "safe",
+            "scp",
+            "site-zh-16",
+            "原創",
+            "基金會製造",
+            "敵意",
+            "毒性",
+            "睡眠",
+            "遊戲",
+            "食物",
+            "魚類"
+        ]
+    },
+    {
+        "TITLE": "Lostwhat的提案一",
+        "FULLNAME": "lostwhat-s-proposal",
+        "RATING": 36,
+        "COMMENTS": "2",
+        "TAGS": [
+            "001提案",
+            "2022紅藍爭霸賽",
+            "k級情景",
+            "scp",
+            "site-zh-01",
+            "三垣",
+            "原創",
+            "機密分級"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-135 - 貓咪不和我玩",
+        "FULLNAME": "scp-zh-135",
+        "RATING": 21,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "euclid",
+            "scp",
+            "原創"
         ]
     }
 ]

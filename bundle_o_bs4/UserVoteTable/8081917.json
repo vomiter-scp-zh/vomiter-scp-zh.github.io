@@ -296,9 +296,10 @@
     {
         "TITLE": "《癌又蝟鴨：紅藍爭霸戰》",
         "FULLNAME": "honglam-battle",
-        "RATING": 9,
-        "COMMENTS": "3",
+        "RATING": 12,
+        "COMMENTS": "8",
         "TAGS": [
+            "2022紅藍爭霸賽",
             "中心",
             "原創",
             "競賽"
@@ -317,6 +318,22 @@
             "本質促動",
             "機密分級",
             "歷史性"
+        ]
+    },
+    {
+        "TITLE": "Lostwhat的提案一",
+        "FULLNAME": "lostwhat-s-proposal",
+        "RATING": 36,
+        "COMMENTS": "2",
+        "TAGS": [
+            "001提案",
+            "2022紅藍爭霸賽",
+            "k級情景",
+            "scp",
+            "site-zh-01",
+            "三垣",
+            "原創",
+            "機密分級"
         ]
     }
 ]

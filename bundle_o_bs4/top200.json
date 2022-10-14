@@ -96,6 +96,12 @@
         "COMMENTS": "5"
     },
     {
+        "TITLE": "Lostwhat的提案一",
+        "FULLNAME": "lostwhat-s-proposal",
+        "RATING": 36,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "SCP-ZH-815",
         "FULLNAME": "scp-zh-815",
         "RATING": 35,
@@ -678,6 +684,18 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "SCP-ZH-176 - 《海鷗的大撤退》",
+        "FULLNAME": "scp-zh-176",
+        "RATING": 21,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-135 - 貓咪不和我玩",
+        "FULLNAME": "scp-zh-135",
+        "RATING": 21,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "SCP-ZH-009",
         "FULLNAME": "scp-zh-009",
         "RATING": 20,
@@ -972,6 +990,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-ZH-328 - Dark Soups",
+        "FULLNAME": "scp-zh-328",
+        "RATING": 19,
+        "COMMENTS": "3"
+    },
+    {
         "TITLE": "SCP-ZH-010 - 迷走神經寄生體",
         "FULLNAME": "scp-zh-010",
         "RATING": 18,
@@ -1174,29 +1198,5 @@
         "FULLNAME": "scp-zh-301",
         "RATING": 17,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "死貓吊樹頭",
-        "FULLNAME": "on-the-tree",
-        "RATING": 17,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "我在這裡一陣子了",
-        "FULLNAME": "been-a-while",
-        "RATING": 17,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "鴨鴨的聖誕賀圖",
-        "FULLNAME": "duck-s-xmas",
-        "RATING": 17,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "有關批准使用模因製劑協助對鵝形惡魔實體進行驅魔的申請",
-        "FULLNAME": "grant-request-for-utilization-of-memetic-agent-to-assist-per",
-        "RATING": 17,
-        "COMMENTS": "1"
     }
 ]

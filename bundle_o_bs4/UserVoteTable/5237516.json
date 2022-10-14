@@ -961,12 +961,26 @@
     {
         "TITLE": "《癌又蝟鴨：紅藍爭霸戰》",
         "FULLNAME": "honglam-battle",
-        "RATING": 9,
-        "COMMENTS": "3",
+        "RATING": 12,
+        "COMMENTS": "8",
         "TAGS": [
+            "2022紅藍爭霸賽",
             "中心",
             "原創",
             "競賽"
+        ]
+    },
+    {
+        "TITLE": "小動物檔案：布丹！",
+        "FULLNAME": "bhutan",
+        "RATING": 12,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "awcy",
+            "goi格式",
+            "原創",
+            "威爾遜生物應對組"
         ]
     }
 ]

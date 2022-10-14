@@ -2355,7 +2355,7 @@
     {
         "TITLE": "SCP-ZH-155 - 狂暴鯨靈",
         "FULLNAME": "scp-zh-155",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "euclid",
@@ -2374,6 +2374,18 @@
             "scp",
             "原創",
             "待刪除"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-135 - 貓咪不和我玩",
+        "FULLNAME": "scp-zh-135",
+        "RATING": 21,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "euclid",
+            "scp",
+            "原創"
         ]
     }
 ]

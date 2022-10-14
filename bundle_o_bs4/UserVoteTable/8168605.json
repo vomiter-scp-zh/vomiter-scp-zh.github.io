@@ -316,5 +316,33 @@
             "神異博覽會",
             "蛇之手"
         ]
+    },
+    {
+        "TITLE": "Lostwhat的提案一",
+        "FULLNAME": "lostwhat-s-proposal",
+        "RATING": 36,
+        "COMMENTS": "2",
+        "TAGS": [
+            "001提案",
+            "2022紅藍爭霸賽",
+            "k級情景",
+            "scp",
+            "site-zh-01",
+            "三垣",
+            "原創",
+            "機密分級"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-767 - 黑旗接駁車",
+        "FULLNAME": "scp-zh-767",
+        "RATING": 15,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "scp",
+            "原創",
+            "機密分級"
+        ]
     }
 ]

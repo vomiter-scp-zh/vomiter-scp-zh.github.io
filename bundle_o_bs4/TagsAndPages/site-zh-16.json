@@ -1972,5 +1972,38 @@
             "機密分級",
             "研究員lucifelle"
         ]
+    },
+    {
+        "TITLE": "SCP-ZH-387 - 主流社會性死亡",
+        "FULLNAME": "scp-zh-387",
+        "RATING": 5,
+        "COMMENTS": "2",
+        "TAGS": [
+            "keter",
+            "scp",
+            "site-zh-16",
+            "原創"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-328 - Dark Soups",
+        "FULLNAME": "scp-zh-328",
+        "RATING": 19,
+        "COMMENTS": "3",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "bales博士",
+            "safe",
+            "scp",
+            "site-zh-16",
+            "原創",
+            "基金會製造",
+            "敵意",
+            "毒性",
+            "睡眠",
+            "遊戲",
+            "食物",
+            "魚類"
+        ]
     }
 ]
