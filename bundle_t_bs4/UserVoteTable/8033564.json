@@ -364,7 +364,7 @@
     {
         "TITLE": "K級情景總表",
         "FULLNAME": "k-class-complete-list",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -2471,7 +2471,7 @@
     {
         "TITLE": "SCP-666½-J",
         "FULLNAME": "scp-666-and-a-half-j",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "1",
         "TAGS": [
             "bright博士",
@@ -2893,6 +2893,19 @@
             "未收容",
             "武器",
             "無效化",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "未曾建立 - 中心頁",
+        "FULLNAME": "unfounded-hub",
+        "RATING": 4,
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "中心",
+            "合作",
+            "未曾建立",
             "翻譯"
         ]
     }

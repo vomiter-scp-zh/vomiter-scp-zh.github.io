@@ -541,7 +541,7 @@
     {
         "TITLE": "S. D. Locke的提案",
         "FULLNAME": "shaggydredlocks-proposal",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "1",
         "TAGS": [
             "001提案",
@@ -830,7 +830,7 @@
     {
         "TITLE": "摘錄自Alto Clef〈如何在現實不存在時求生〉",
         "FULLNAME": "clef-excerpts",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "clef博士",
@@ -2432,6 +2432,26 @@
             "通訊",
             "金屬",
             "頭足類動物"
+        ]
+    },
+    {
+        "TITLE": "SCP-3001 - 紅色現實",
+        "FULLNAME": "scp-3001",
+        "RATING": 17,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "en-3000",
+            "euclid",
+            "scp",
+            "反物理定律",
+            "悖論",
+            "時空",
+            "時間影響",
+            "神經性",
+            "翻譯",
+            "記錄",
+            "超維度"
         ]
     }
 ]

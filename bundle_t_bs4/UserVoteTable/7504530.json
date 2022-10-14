@@ -1334,5 +1334,30 @@
             "翻譯",
             "說明"
         ]
+    },
+    {
+        "TITLE": "摘錄自Alto Clef〈如何在現實不存在時求生〉",
+        "FULLNAME": "clef-excerpts",
+        "RATING": 13,
+        "COMMENTS": "0",
+        "TAGS": [
+            "clef博士",
+            "en",
+            "故事",
+            "翻譯",
+            "該隱"
+        ]
+    },
+    {
+        "TITLE": "夜幕降臨",
+        "FULLNAME": "nightfall-hub",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "中心",
+            "夜幕降臨",
+            "翻譯"
+        ]
     }
 ]

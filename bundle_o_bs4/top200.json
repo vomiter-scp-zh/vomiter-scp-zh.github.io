@@ -1032,6 +1032,12 @@
         "COMMENTS": "3"
     },
     {
+        "TITLE": "SCP-ZH-057 - 暴躁小行星",
+        "FULLNAME": "scp-zh-057",
+        "RATING": 19,
+        "COMMENTS": "4"
+    },
+    {
         "TITLE": "SCP-ZH-010 - 迷走神經寄生體",
         "FULLNAME": "scp-zh-010",
         "RATING": 18,
@@ -1120,12 +1126,6 @@
         "FULLNAME": "scp-zh-052",
         "RATING": 18,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-057 - 暴躁小行星",
-        "FULLNAME": "scp-zh-057",
-        "RATING": 18,
-        "COMMENTS": "4"
     },
     {
         "TITLE": "SCP-ZH-916 - 夢迴熔爐",
