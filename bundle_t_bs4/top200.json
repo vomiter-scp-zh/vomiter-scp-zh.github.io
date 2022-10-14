@@ -336,6 +336,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-6820 - 抹殺嘗試",
+        "FULLNAME": "scp-6820",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-002 - 生「活」起居室",
         "FULLNAME": "scp-002",
         "RATING": 13,
@@ -436,12 +442,6 @@
         "FULLNAME": "scp-2419",
         "RATING": 13,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-6820 - 抹殺嘗試",
-        "FULLNAME": "scp-6820",
-        "RATING": 13,
-        "COMMENTS": "1"
     },
     {
         "TITLE": "dado的中心頁是的",
