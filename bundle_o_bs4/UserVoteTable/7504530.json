@@ -400,5 +400,39 @@
             "展出",
             "故事"
         ]
+    },
+    {
+        "TITLE": "殘響",
+        "FULLNAME": "reverberate",
+        "RATING": 11,
+        "COMMENTS": "4",
+        "TAGS": [
+            "clef博士",
+            "gears博士",
+            "kondraki博士",
+            "卓文康卓奇",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-911 - 你所捍衛的自由",
+        "FULLNAME": "scp-zh-911",
+        "RATING": 20,
+        "COMMENTS": "0",
+        "TAGS": [
+            "euclid",
+            "meta",
+            "scp",
+            "site-zh-50",
+            "原創",
+            "感知力",
+            "智能",
+            "本質促動",
+            "武器",
+            "異常移動",
+            "認知危害",
+            "資訊危害"
+        ]
     }
 ]

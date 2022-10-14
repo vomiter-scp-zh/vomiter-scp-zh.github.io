@@ -487,7 +487,7 @@
     {
         "TITLE": "聖誕軍演",
         "FULLNAME": "xmas-exercise",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "7",
         "TAGS": [
             "2019聖夜相守",
@@ -550,7 +550,7 @@
     {
         "TITLE": "SCP-ZH-044",
         "FULLNAME": "scp-zh-044",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "3",
         "TAGS": [
             "bales博士",
@@ -1034,7 +1034,7 @@
     {
         "TITLE": "SCP-ZH-147",
         "FULLNAME": "scp-zh-147",
-        "RATING": 18,
+        "RATING": 19,
         "COMMENTS": "2",
         "TAGS": [
             "ctrl-z博士",
@@ -1113,7 +1113,7 @@
     {
         "TITLE": "SCP-ZH-111",
         "FULLNAME": "scp-zh-111",
-        "RATING": 34,
+        "RATING": 35,
         "COMMENTS": "0",
         "TAGS": [
             "keter",
@@ -1215,7 +1215,7 @@
     {
         "TITLE": "月中秋，秋糜之餅不見欣喜",
         "FULLNAME": "not-a-mooncake",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "0",
         "TAGS": [
             "原創",
@@ -1275,7 +1275,7 @@
     {
         "TITLE": "Ctrl Z博士從週刊上剪下的四格漫畫",
         "FULLNAME": "comic",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "2",
         "TAGS": [
             "ad博士",
@@ -4096,6 +4096,112 @@
             "scp",
             "原創",
             "機密分級"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-971 - 感恩seafood讚嘆seafood",
+        "FULLNAME": "scp-zh-971",
+        "RATING": 10,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "safe",
+            "scp",
+            "site-zh-13",
+            "原創",
+            "基金會製造",
+            "食物"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-993 - 無知則自由",
+        "FULLNAME": "scp-zh-993",
+        "RATING": 25,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "meta",
+            "scp",
+            "人形",
+            "原創",
+            "基金會製造",
+            "容器",
+            "復活",
+            "感知力",
+            "放射性",
+            "無效化",
+            "生物性",
+            "知識",
+            "記錄",
+            "轉世計劃"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-712 - 超高速閱讀眼鏡",
+        "FULLNAME": "scp-zh-712",
+        "RATING": 14,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "safe",
+            "scp",
+            "site-zh-25",
+            "原創",
+            "工具",
+            "眼睛"
+        ]
+    },
+    {
+        "TITLE": "輸入密匙：67337-94-505",
+        "FULLNAME": "scp-zh-505",
+        "RATING": 12,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "scp",
+            "原創"
+        ]
+    },
+    {
+        "TITLE": "併發症",
+        "FULLNAME": "complication",
+        "RATING": 6,
+        "COMMENTS": "1",
+        "TAGS": [
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "執左道者的自我政變",
+        "FULLNAME": "self-coup-of-the-knavish",
+        "RATING": 17,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "metha博士",
+            "原創",
+            "地下街",
+            "成人內容",
+            "故事",
+            "物理少年",
+            "航海學",
+            "轉世計劃"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-989 - 我們腦中的太陽",
+        "FULLNAME": "scp-zh-989",
+        "RATING": 20,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "archon",
+            "scp",
+            "傳染性",
+            "原創",
+            "基因",
+            "醫學性"
         ]
     }
 ]

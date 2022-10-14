@@ -32,7 +32,7 @@
     {
         "TITLE": "SCP-ZH-515 - 平安符",
         "FULLNAME": "scp-zh-515",
-        "RATING": 43,
+        "RATING": 44,
         "COMMENTS": "2"
     },
     {
@@ -54,6 +54,12 @@
         "COMMENTS": "4"
     },
     {
+        "TITLE": "SCP-ZH-998 - 現象學",
+        "FULLNAME": "scp-zh-998",
+        "RATING": 38,
+        "COMMENTS": "7"
+    },
+    {
         "TITLE": "我在萬物之中",
         "FULLNAME": "arkwork-3999",
         "RATING": 37,
@@ -64,12 +70,6 @@
         "FULLNAME": "scp-zh-499",
         "RATING": 37,
         "COMMENTS": "3"
-    },
-    {
-        "TITLE": "SCP-ZH-998 - 現象學",
-        "FULLNAME": "scp-zh-998",
-        "RATING": 37,
-        "COMMENTS": "7"
     },
     {
         "TITLE": "SCP-ZH-002 - 台灣獨角獸",
@@ -120,16 +120,16 @@
         "COMMENTS": "4"
     },
     {
+        "TITLE": "SCP-ZH-111",
+        "FULLNAME": "scp-zh-111",
+        "RATING": 35,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-200",
         "FULLNAME": "scp-zh-200",
         "RATING": 34,
         "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-ZH-111",
-        "FULLNAME": "scp-zh-111",
-        "RATING": 34,
-        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-117",
@@ -324,6 +324,12 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "SCP-ZH-993 - 無知則自由",
+        "FULLNAME": "scp-zh-993",
+        "RATING": 25,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-222-J",
         "FULLNAME": "scp-zh-222-j",
         "RATING": 24,
@@ -486,6 +492,18 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "Reverberate_a的提案",
+        "FULLNAME": "reverberate-a-s-proposal-1",
+        "RATING": 23,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "聖誕軍演",
+        "FULLNAME": "xmas-exercise",
+        "RATING": 23,
+        "COMMENTS": "7"
+    },
+    {
         "TITLE": "SCP-ZH-255",
         "FULLNAME": "scp-zh-255",
         "RATING": 22,
@@ -508,12 +526,6 @@
         "FULLNAME": "scp-zh-125",
         "RATING": 22,
         "COMMENTS": "2"
-    },
-    {
-        "TITLE": "聖誕軍演",
-        "FULLNAME": "xmas-exercise",
-        "RATING": 22,
-        "COMMENTS": "7"
     },
     {
         "TITLE": "行動計劃 第叁捌肆字號",
@@ -696,6 +708,36 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "三生有幸",
+        "FULLNAME": "third-life",
+        "RATING": 21,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "沙皇先知協會中心頁",
+        "FULLNAME": "tsars-hub",
+        "RATING": 21,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-044",
+        "FULLNAME": "scp-zh-044",
+        "RATING": 21,
+        "COMMENTS": "3"
+    },
+    {
+        "TITLE": "菇菇基金會",
+        "FULLNAME": "fungi-foundation",
+        "RATING": 21,
+        "COMMENTS": "6"
+    },
+    {
+        "TITLE": "繁中站點地下街",
+        "FULLNAME": "shopping-arcade",
+        "RATING": 21,
+        "COMMENTS": "3"
+    },
+    {
         "TITLE": "SCP-ZH-009",
         "FULLNAME": "scp-zh-009",
         "RATING": 20,
@@ -712,36 +754,6 @@
         "FULLNAME": "in-the-snow-in-the-iris",
         "RATING": 20,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "三生有幸",
-        "FULLNAME": "third-life",
-        "RATING": 20,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "沙皇先知協會中心頁",
-        "FULLNAME": "tsars-hub",
-        "RATING": 20,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-044",
-        "FULLNAME": "scp-zh-044",
-        "RATING": 20,
-        "COMMENTS": "3"
-    },
-    {
-        "TITLE": "菇菇基金會",
-        "FULLNAME": "fungi-foundation",
-        "RATING": 20,
-        "COMMENTS": "5"
-    },
-    {
-        "TITLE": "繁中站點地下街",
-        "FULLNAME": "shopping-arcade",
-        "RATING": 20,
-        "COMMENTS": "3"
     },
     {
         "TITLE": "濃湯約會",
@@ -848,6 +860,18 @@
     {
         "TITLE": "SCP-ZH-056 - 本班機飛往彼岸",
         "FULLNAME": "scp-zh-056",
+        "RATING": 20,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-ZH-989 - 我們腦中的太陽",
+        "FULLNAME": "scp-zh-989",
+        "RATING": 20,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "SCP-ZH-911 - 你所捍衛的自由",
+        "FULLNAME": "scp-zh-911",
         "RATING": 20,
         "COMMENTS": "0"
     },
@@ -996,6 +1020,18 @@
         "COMMENTS": "3"
     },
     {
+        "TITLE": "SCP-ZH-147",
+        "FULLNAME": "scp-zh-147",
+        "RATING": 19,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "一般與異常探勘講座",
+        "FULLNAME": "how-to-survive-in-the-wild",
+        "RATING": 19,
+        "COMMENTS": "3"
+    },
+    {
         "TITLE": "SCP-ZH-010 - 迷走神經寄生體",
         "FULLNAME": "scp-zh-010",
         "RATING": 18,
@@ -1020,20 +1056,8 @@
         "COMMENTS": "3"
     },
     {
-        "TITLE": "SCP-ZH-147",
-        "FULLNAME": "scp-zh-147",
-        "RATING": 18,
-        "COMMENTS": "2"
-    },
-    {
         "TITLE": "SCP-ZH-046",
         "FULLNAME": "scp-zh-046",
-        "RATING": 18,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "一般與異常探勘講座",
-        "FULLNAME": "how-to-survive-in-the-wild",
         "RATING": 18,
         "COMMENTS": "2"
     },
@@ -1173,30 +1197,6 @@
         "TITLE": "2010年的那幾個實習生",
         "FULLNAME": "source-of-chaos",
         "RATING": 18,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-954 - 黃色便條紙",
-        "FULLNAME": "scp-zh-954",
-        "RATING": 17,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-ZH-913 - 回家月餅",
-        "FULLNAME": "scp-zh-913",
-        "RATING": 17,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-070",
-        "FULLNAME": "scp-zh-070",
-        "RATING": 17,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-301",
-        "FULLNAME": "scp-zh-301",
-        "RATING": 17,
         "COMMENTS": "0"
     }
 ]

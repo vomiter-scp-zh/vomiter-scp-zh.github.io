@@ -179,7 +179,7 @@
     {
         "TITLE": "SCP-ZH-044",
         "FULLNAME": "scp-zh-044",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "3",
         "TAGS": [
             "bales博士",
@@ -2129,6 +2129,17 @@
         "TAGS": [
             "2022夏季競賽",
             "site-zh-16",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "生物電",
+        "FULLNAME": "bioelectricity",
+        "RATING": 9,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
             "原創",
             "故事"
         ]

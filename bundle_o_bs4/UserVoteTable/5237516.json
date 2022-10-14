@@ -200,7 +200,7 @@
     {
         "TITLE": "三生有幸",
         "FULLNAME": "third-life",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "0",
         "TAGS": [
             "reverberate博士",
@@ -505,7 +505,7 @@
     {
         "TITLE": "SCP-ZH-099",
         "FULLNAME": "scp-zh-099",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "1",
         "TAGS": [
             "scp",
@@ -981,6 +981,55 @@
             "goi格式",
             "原創",
             "威爾遜生物應對組"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-971 - 感恩seafood讚嘆seafood",
+        "FULLNAME": "scp-zh-971",
+        "RATING": 10,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "safe",
+            "scp",
+            "site-zh-13",
+            "原創",
+            "基金會製造",
+            "食物"
+        ]
+    },
+    {
+        "TITLE": "Reverberate_a的提案",
+        "FULLNAME": "reverberate-a-s-proposal-1",
+        "RATING": 23,
+        "COMMENTS": "2",
+        "TAGS": [
+            "001提案",
+            "2022紅藍爭霸賽",
+            "reverberate博士",
+            "人形",
+            "人形生物",
+            "原創",
+            "地點",
+            "心靈影響",
+            "認知影響"
+        ]
+    },
+    {
+        "TITLE": "執左道者的自我政變",
+        "FULLNAME": "self-coup-of-the-knavish",
+        "RATING": 17,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "metha博士",
+            "原創",
+            "地下街",
+            "成人內容",
+            "故事",
+            "物理少年",
+            "航海學",
+            "轉世計劃"
         ]
     }
 ]

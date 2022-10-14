@@ -62,7 +62,7 @@
     {
         "TITLE": "SCP-ZH-515 - 平安符",
         "FULLNAME": "scp-zh-515",
-        "RATING": 43,
+        "RATING": 44,
         "COMMENTS": "2",
         "TAGS": [
             "2019暑期比賽",
@@ -241,7 +241,7 @@
     {
         "TITLE": "SCP-ZH-099",
         "FULLNAME": "scp-zh-099",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "1",
         "TAGS": [
             "scp",
@@ -1350,6 +1350,25 @@
             "通訊",
             "電子",
             "電腦"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-646 - 午夜自畫",
+        "FULLNAME": "scp-zh-646",
+        "RATING": 13,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "euclid",
+            "scp",
+            "人造物品",
+            "傳染性",
+            "光照影響",
+            "原創",
+            "強迫性",
+            "火",
+            "熱量影響",
+            "認知危害"
         ]
     }
 ]

@@ -467,7 +467,7 @@
     {
         "TITLE": "SCP維基上的用戶工具",
         "FULLNAME": "usertools",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "3",
         "TAGS": [
             "管理",
@@ -678,7 +678,7 @@
     {
         "TITLE": "Clef博士研討會手記，「現實扭曲者與你：當不存在的事物存在時該如何生存。」",
         "FULLNAME": "clef101",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "1",
         "TAGS": [
             "clef博士",
@@ -2409,7 +2409,7 @@
     {
         "TITLE": "SCP-096 - 羞澀的人",
         "FULLNAME": "scp-096",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "0",
         "TAGS": [
             "dan博士",
@@ -3128,7 +3128,7 @@
     {
         "TITLE": "吾王萬歲",
         "FULLNAME": "long-live-the-king",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -3465,7 +3465,7 @@
     {
         "TITLE": "SCP-458 - 無限披薩盒",
         "FULLNAME": "scp-458",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -5592,7 +5592,7 @@
     {
         "TITLE": "文件001-O5",
         "FULLNAME": "document-001-o5",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "1",
         "TAGS": [
             "aaron-siegel",

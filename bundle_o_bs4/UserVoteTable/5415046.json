@@ -327,7 +327,7 @@
     {
         "TITLE": "SCP-ZH-515 - 平安符",
         "FULLNAME": "scp-zh-515",
-        "RATING": 43,
+        "RATING": 44,
         "COMMENTS": "2",
         "TAGS": [
             "2019暑期比賽",
@@ -1719,7 +1719,7 @@
     {
         "TITLE": "SCP-ZH-102 - 《彩虹橋》保密條款",
         "FULLNAME": "scp-zh-102",
-        "RATING": 8,
+        "RATING": 9,
         "COMMENTS": "9",
         "TAGS": [
             "2020攀爬金字塔",
@@ -1864,7 +1864,7 @@
     {
         "TITLE": "繁中站點地下街",
         "FULLNAME": "shopping-arcade",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "3",
         "TAGS": [
             "三垣",
@@ -2284,7 +2284,7 @@
     {
         "TITLE": "SCP-ZH-147",
         "FULLNAME": "scp-zh-147",
-        "RATING": 18,
+        "RATING": 19,
         "COMMENTS": "2",
         "TAGS": [
             "ctrl-z博士",
@@ -2427,7 +2427,7 @@
     {
         "TITLE": "SCP-ZH-617 - 西方的勇者",
         "FULLNAME": "scp-zh-617",
-        "RATING": 13,
+        "RATING": 14,
         "COMMENTS": "8",
         "TAGS": [
             "euclid",
@@ -2461,7 +2461,7 @@
     {
         "TITLE": "月中秋，秋糜之餅不見欣喜",
         "FULLNAME": "not-a-mooncake",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "0",
         "TAGS": [
             "原創",
@@ -2487,8 +2487,8 @@
     {
         "TITLE": "一般與異常探勘講座",
         "FULLNAME": "how-to-survive-in-the-wild",
-        "RATING": 18,
-        "COMMENTS": "2",
+        "RATING": 19,
+        "COMMENTS": "3",
         "TAGS": [
             "reverberate博士",
             "原創",
@@ -4965,6 +4965,18 @@
             "goi格式",
             "原創",
             "威爾遜生物應對組"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-190 - 心靈網路",
+        "FULLNAME": "scp-zh-190",
+        "RATING": 15,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "scp",
+            "原創",
+            "機密分級"
         ]
     }
 ]

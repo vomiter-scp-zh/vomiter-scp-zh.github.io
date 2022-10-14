@@ -825,7 +825,7 @@
     {
         "TITLE": "SCP-ZH-100",
         "FULLNAME": "scp-zh-100",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "1",
         "TAGS": [
             "reverberate博士",
@@ -1041,7 +1041,7 @@
     {
         "TITLE": "沙皇先知協會中心頁",
         "FULLNAME": "tsars-hub",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "0",
         "TAGS": [
             "中心",
@@ -1141,7 +1141,7 @@
     {
         "TITLE": "安保設施檔案：Site-ZH-31",
         "FULLNAME": "site-zh-31",
-        "RATING": 8,
+        "RATING": 9,
         "COMMENTS": "0",
         "TAGS": [
             "site-zh-31",
@@ -1438,7 +1438,7 @@
     {
         "TITLE": "Dr. Bales的日常小品集錦 一",
         "FULLNAME": "bales-s-daily-1",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "bales博士",
@@ -1741,8 +1741,8 @@
     {
         "TITLE": "菇菇基金會",
         "FULLNAME": "fungi-foundation",
-        "RATING": 20,
-        "COMMENTS": "5",
+        "RATING": 21,
+        "COMMENTS": "6",
         "TAGS": [
             "bright博士",
             "clef博士",
@@ -1821,7 +1821,7 @@
     {
         "TITLE": "繁中站點地下街",
         "FULLNAME": "shopping-arcade",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "3",
         "TAGS": [
             "三垣",
@@ -2265,7 +2265,7 @@
     {
         "TITLE": "SCP-ZH-111",
         "FULLNAME": "scp-zh-111",
-        "RATING": 34,
+        "RATING": 35,
         "COMMENTS": "0",
         "TAGS": [
             "keter",

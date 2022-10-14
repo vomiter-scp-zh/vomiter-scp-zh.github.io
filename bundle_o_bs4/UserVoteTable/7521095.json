@@ -54,7 +54,7 @@
     {
         "TITLE": "SCP-ZH-998 - 現象學",
         "FULLNAME": "scp-zh-998",
-        "RATING": 37,
+        "RATING": 38,
         "COMMENTS": "7",
         "TAGS": [
             "k級情景",
@@ -1825,6 +1825,68 @@
             "euclid",
             "scp",
             "原創"
+        ]
+    },
+    {
+        "TITLE": "夢境重唱",
+        "FULLNAME": "dream-duet",
+        "RATING": 10,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "原創",
+            "故事",
+            "物理少年"
+        ]
+    },
+    {
+        "TITLE": "虛像綻放",
+        "FULLNAME": "phantom-flowering",
+        "RATING": 9,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "原創",
+            "故事",
+            "物理少年"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-712 - 超高速閱讀眼鏡",
+        "FULLNAME": "scp-zh-712",
+        "RATING": 14,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "safe",
+            "scp",
+            "site-zh-25",
+            "原創",
+            "工具",
+            "眼睛"
+        ]
+    },
+    {
+        "TITLE": "生物電",
+        "FULLNAME": "bioelectricity",
+        "RATING": 9,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-190 - 心靈網路",
+        "FULLNAME": "scp-zh-190",
+        "RATING": 15,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "scp",
+            "原創",
+            "機密分級"
         ]
     }
 ]

@@ -716,7 +716,7 @@
     {
         "TITLE": "洗標：橘8963-許靜池的絲質睡衣",
         "FULLNAME": "orange-8963",
-        "RATING": 8,
+        "RATING": 9,
         "COMMENTS": "1",
         "TAGS": [
             "bales博士",
@@ -743,7 +743,7 @@
     {
         "TITLE": "三生有幸",
         "FULLNAME": "third-life",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "0",
         "TAGS": [
             "reverberate博士",
@@ -965,7 +965,7 @@
     {
         "TITLE": "聖誕軍演",
         "FULLNAME": "xmas-exercise",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "7",
         "TAGS": [
             "2019聖夜相守",
@@ -1306,7 +1306,7 @@
     {
         "TITLE": "Dr. Bales的日常小品集錦 一",
         "FULLNAME": "bales-s-daily-1",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "bales博士",
@@ -2368,7 +2368,7 @@
     {
         "TITLE": "海神悲鳴時",
         "FULLNAME": "wadatsumi-no-naku-koroni",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "3",
         "TAGS": [
             "1998年",
@@ -2462,7 +2462,7 @@
     {
         "TITLE": "矢尖",
         "FULLNAME": "arrowhead",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "aiad",
@@ -2477,7 +2477,7 @@
     {
         "TITLE": "月中秋，秋糜之餅不見欣喜",
         "FULLNAME": "not-a-mooncake",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "0",
         "TAGS": [
             "原創",
@@ -2503,8 +2503,8 @@
     {
         "TITLE": "一般與異常探勘講座",
         "FULLNAME": "how-to-survive-in-the-wild",
-        "RATING": 18,
-        "COMMENTS": "2",
+        "RATING": 19,
+        "COMMENTS": "3",
         "TAGS": [
             "reverberate博士",
             "原創",
@@ -5562,6 +5562,94 @@
             "原創",
             "故事",
             "毆打鯊魚中心"
+        ]
+    },
+    {
+        "TITLE": "夢境重唱",
+        "FULLNAME": "dream-duet",
+        "RATING": 10,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "原創",
+            "故事",
+            "物理少年"
+        ]
+    },
+    {
+        "TITLE": "虛像綻放",
+        "FULLNAME": "phantom-flowering",
+        "RATING": 9,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "原創",
+            "故事",
+            "物理少年"
+        ]
+    },
+    {
+        "TITLE": "併發症",
+        "FULLNAME": "complication",
+        "RATING": 6,
+        "COMMENTS": "1",
+        "TAGS": [
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "生物電",
+        "FULLNAME": "bioelectricity",
+        "RATING": 9,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "執左道者的自我政變",
+        "FULLNAME": "self-coup-of-the-knavish",
+        "RATING": 17,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "metha博士",
+            "原創",
+            "地下街",
+            "成人內容",
+            "故事",
+            "物理少年",
+            "航海學",
+            "轉世計劃"
+        ]
+    },
+    {
+        "TITLE": "殘響",
+        "FULLNAME": "reverberate",
+        "RATING": 11,
+        "COMMENTS": "4",
+        "TAGS": [
+            "clef博士",
+            "gears博士",
+            "kondraki博士",
+            "卓文康卓奇",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "幻想抽離",
+        "FULLNAME": "get-out-of-the-dream",
+        "RATING": 3,
+        "COMMENTS": "3",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "原創",
+            "故事",
+            "物理少年"
         ]
     }
 ]

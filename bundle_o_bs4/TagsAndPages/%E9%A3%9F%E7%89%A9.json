@@ -224,7 +224,7 @@
     {
         "TITLE": "SCP-ZH-2588-J",
         "FULLNAME": "scp-zh-2588-j",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "2020虹光之間",
@@ -455,6 +455,21 @@
             "遊戲",
             "食物",
             "魚類"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-971 - 感恩seafood讚嘆seafood",
+        "FULLNAME": "scp-zh-971",
+        "RATING": 10,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "safe",
+            "scp",
+            "site-zh-13",
+            "原創",
+            "基金會製造",
+            "食物"
         ]
     }
 ]

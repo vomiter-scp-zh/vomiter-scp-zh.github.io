@@ -190,7 +190,7 @@
     {
         "TITLE": "SCP-ZH-147",
         "FULLNAME": "scp-zh-147",
-        "RATING": 18,
+        "RATING": 19,
         "COMMENTS": "2",
         "TAGS": [
             "ctrl-z博士",
@@ -667,6 +667,17 @@
             "原創",
             "故事",
             "研究員lucifelle"
+        ]
+    },
+    {
+        "TITLE": "但願我不再好命",
+        "FULLNAME": "toogoodtobetrue",
+        "RATING": 18,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "原創",
+            "異視維基"
         ]
     }
 ]

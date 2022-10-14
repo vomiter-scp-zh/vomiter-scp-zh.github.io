@@ -107,7 +107,7 @@
     {
         "TITLE": "矢尖",
         "FULLNAME": "arrowhead",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "aiad",
@@ -404,6 +404,23 @@
             "水銀",
             "航海學",
             "蛛網國際"
+        ]
+    },
+    {
+        "TITLE": "執左道者的自我政變",
+        "FULLNAME": "self-coup-of-the-knavish",
+        "RATING": 17,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "metha博士",
+            "原創",
+            "地下街",
+            "成人內容",
+            "故事",
+            "物理少年",
+            "航海學",
+            "轉世計劃"
         ]
     }
 ]

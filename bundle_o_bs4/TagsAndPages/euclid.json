@@ -1113,7 +1113,7 @@
     {
         "TITLE": "SCP-ZH-617 - 西方的勇者",
         "FULLNAME": "scp-zh-617",
-        "RATING": 13,
+        "RATING": 14,
         "COMMENTS": "8",
         "TAGS": [
             "euclid",
@@ -2386,6 +2386,45 @@
             "euclid",
             "scp",
             "原創"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-646 - 午夜自畫",
+        "FULLNAME": "scp-zh-646",
+        "RATING": 13,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "euclid",
+            "scp",
+            "人造物品",
+            "傳染性",
+            "光照影響",
+            "原創",
+            "強迫性",
+            "火",
+            "熱量影響",
+            "認知危害"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-911 - 你所捍衛的自由",
+        "FULLNAME": "scp-zh-911",
+        "RATING": 20,
+        "COMMENTS": "0",
+        "TAGS": [
+            "euclid",
+            "meta",
+            "scp",
+            "site-zh-50",
+            "原創",
+            "感知力",
+            "智能",
+            "本質促動",
+            "武器",
+            "異常移動",
+            "認知危害",
+            "資訊危害"
         ]
     }
 ]

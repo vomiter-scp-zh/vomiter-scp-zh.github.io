@@ -512,5 +512,19 @@
             "scp",
             "原創"
         ]
+    },
+    {
+        "TITLE": "SCP-ZH-147",
+        "FULLNAME": "scp-zh-147",
+        "RATING": 19,
+        "COMMENTS": "2",
+        "TAGS": [
+            "ctrl-z博士",
+            "hmfscp",
+            "safe",
+            "scp",
+            "site-zh-12",
+            "原創"
+        ]
     }
 ]

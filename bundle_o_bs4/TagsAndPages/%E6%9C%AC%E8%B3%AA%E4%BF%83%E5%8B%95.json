@@ -176,7 +176,7 @@
     {
         "TITLE": "SCP-ZH-101",
         "FULLNAME": "scp-zh-101",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "1",
         "TAGS": [
             "keter",
@@ -758,6 +758,26 @@
             "本質促動",
             "機密分級",
             "歷史性"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-911 - 你所捍衛的自由",
+        "FULLNAME": "scp-zh-911",
+        "RATING": 20,
+        "COMMENTS": "0",
+        "TAGS": [
+            "euclid",
+            "meta",
+            "scp",
+            "site-zh-50",
+            "原創",
+            "感知力",
+            "智能",
+            "本質促動",
+            "武器",
+            "異常移動",
+            "認知危害",
+            "資訊危害"
         ]
     }
 ]

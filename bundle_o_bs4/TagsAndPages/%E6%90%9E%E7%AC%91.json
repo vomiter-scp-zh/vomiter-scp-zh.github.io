@@ -169,7 +169,7 @@
     {
         "TITLE": "SCP-ZH-2588-J",
         "FULLNAME": "scp-zh-2588-j",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "2020虹光之間",
@@ -428,6 +428,23 @@
             "搞笑",
             "機密分級",
             "研究員lucifelle"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-300-J - 我的襪襪🥺",
+        "FULLNAME": "scp-zh-300-j",
+        "RATING": 17,
+        "COMMENTS": "6",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "keter",
+            "meta",
+            "scp",
+            "site-zh-44",
+            "原創",
+            "成人內容",
+            "搞笑",
+            "衣物"
         ]
     }
 ]

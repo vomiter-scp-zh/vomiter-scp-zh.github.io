@@ -462,5 +462,33 @@
             "搞笑",
             "翻譯"
         ]
+    },
+    {
+        "TITLE": "SCP維基上的用戶工具",
+        "FULLNAME": "usertools",
+        "RATING": 6,
+        "COMMENTS": "3",
+        "TAGS": [
+            "管理",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-096 - 羞澀的人",
+        "FULLNAME": "scp-096",
+        "RATING": 11,
+        "COMMENTS": "0",
+        "TAGS": [
+            "dan博士",
+            "en",
+            "euclid",
+            "scp",
+            "人形",
+            "活物",
+            "羞澀的人",
+            "翻譯",
+            "視覺性",
+            "認知危害"
+        ]
     }
 ]

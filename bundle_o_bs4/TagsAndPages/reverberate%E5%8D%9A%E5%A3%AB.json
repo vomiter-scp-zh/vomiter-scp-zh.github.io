@@ -32,7 +32,7 @@
     {
         "TITLE": "SCP-ZH-100",
         "FULLNAME": "scp-zh-100",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "1",
         "TAGS": [
             "reverberate博士",
@@ -65,7 +65,7 @@
     {
         "TITLE": "三生有幸",
         "FULLNAME": "third-life",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "0",
         "TAGS": [
             "reverberate博士",
@@ -266,7 +266,7 @@
     {
         "TITLE": "聖誕軍演",
         "FULLNAME": "xmas-exercise",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "7",
         "TAGS": [
             "2019聖夜相守",
@@ -533,8 +533,8 @@
     {
         "TITLE": "菇菇基金會",
         "FULLNAME": "fungi-foundation",
-        "RATING": 20,
-        "COMMENTS": "5",
+        "RATING": 21,
+        "COMMENTS": "6",
         "TAGS": [
             "bright博士",
             "clef博士",
@@ -594,8 +594,8 @@
     {
         "TITLE": "一般與異常探勘講座",
         "FULLNAME": "how-to-survive-in-the-wild",
-        "RATING": 18,
-        "COMMENTS": "2",
+        "RATING": 19,
+        "COMMENTS": "3",
         "TAGS": [
             "reverberate博士",
             "原創",
@@ -606,7 +606,7 @@
     {
         "TITLE": "Ctrl Z博士從週刊上剪下的四格漫畫",
         "FULLNAME": "comic",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "2",
         "TAGS": [
             "ad博士",
@@ -779,6 +779,23 @@
             "原創",
             "故事",
             "航海學"
+        ]
+    },
+    {
+        "TITLE": "Reverberate_a的提案",
+        "FULLNAME": "reverberate-a-s-proposal-1",
+        "RATING": 23,
+        "COMMENTS": "2",
+        "TAGS": [
+            "001提案",
+            "2022紅藍爭霸賽",
+            "reverberate博士",
+            "人形",
+            "人形生物",
+            "原創",
+            "地點",
+            "心靈影響",
+            "認知影響"
         ]
     }
 ]

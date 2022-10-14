@@ -134,7 +134,7 @@
     {
         "TITLE": "SCP-096 - 羞澀的人",
         "FULLNAME": "scp-096",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "0",
         "TAGS": [
             "dan博士",
@@ -247,7 +247,7 @@
     {
         "TITLE": "SCP-2317 - 前往彼界之門",
         "FULLNAME": "scp-2317",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -301,6 +301,32 @@
             "翻譯",
             "記錄",
             "超維度"
+        ]
+    },
+    {
+        "TITLE": "蛇說神幻經",
+        "FULLNAME": "theology-of-a-snake",
+        "RATING": 4,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "受絞之王",
+            "夏異常",
+            "翻譯",
+            "阿拉加達"
+        ]
+    },
+    {
+        "TITLE": "文件001-O5",
+        "FULLNAME": "document-001-o5",
+        "RATING": 5,
+        "COMMENTS": "1",
+        "TAGS": [
+            "aaron-siegel",
+            "en",
+            "the-administrator",
+            "翻譯",
+            "補充材料"
         ]
     }
 ]

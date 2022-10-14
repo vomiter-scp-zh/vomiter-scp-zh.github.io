@@ -29,7 +29,7 @@
     {
         "TITLE": "SCP-ZH-998 - 現象學",
         "FULLNAME": "scp-zh-998",
-        "RATING": 37,
+        "RATING": 38,
         "COMMENTS": "7",
         "TAGS": [
             "k級情景",
@@ -928,6 +928,46 @@
             "敘述性",
             "文獻",
             "超形上學部"
+        ]
+    },
+    {
+        "TITLE": "但願我不再好命",
+        "FULLNAME": "toogoodtobetrue",
+        "RATING": 18,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "原創",
+            "異視維基"
+        ]
+    },
+    {
+        "TITLE": "執左道者的自我政變",
+        "FULLNAME": "self-coup-of-the-knavish",
+        "RATING": 17,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "metha博士",
+            "原創",
+            "地下街",
+            "成人內容",
+            "故事",
+            "物理少年",
+            "航海學",
+            "轉世計劃"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-190 - 心靈網路",
+        "FULLNAME": "scp-zh-190",
+        "RATING": 15,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "scp",
+            "原創",
+            "機密分級"
         ]
     }
 ]

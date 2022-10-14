@@ -90,7 +90,7 @@
     {
         "TITLE": "SCP-ZH-998 - 現象學",
         "FULLNAME": "scp-zh-998",
-        "RATING": 37,
+        "RATING": 38,
         "COMMENTS": "7",
         "TAGS": [
             "k級情景",
@@ -154,7 +154,7 @@
     {
         "TITLE": "沙皇先知協會中心頁",
         "FULLNAME": "tsars-hub",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "0",
         "TAGS": [
             "中心",
@@ -254,7 +254,7 @@
     {
         "TITLE": "SCP-ZH-111",
         "FULLNAME": "scp-zh-111",
-        "RATING": 34,
+        "RATING": 35,
         "COMMENTS": "0",
         "TAGS": [
             "keter",
@@ -1134,6 +1134,152 @@
             "goi格式",
             "原創",
             "威爾遜生物應對組"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-300-J - 我的襪襪🥺",
+        "FULLNAME": "scp-zh-300-j",
+        "RATING": 17,
+        "COMMENTS": "6",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "keter",
+            "meta",
+            "scp",
+            "site-zh-44",
+            "原創",
+            "成人內容",
+            "搞笑",
+            "衣物"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-712 - 超高速閱讀眼鏡",
+        "FULLNAME": "scp-zh-712",
+        "RATING": 14,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "safe",
+            "scp",
+            "site-zh-25",
+            "原創",
+            "工具",
+            "眼睛"
+        ]
+    },
+    {
+        "TITLE": "但願我不再好命",
+        "FULLNAME": "toogoodtobetrue",
+        "RATING": 18,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "原創",
+            "異視維基"
+        ]
+    },
+    {
+        "TITLE": "併發症",
+        "FULLNAME": "complication",
+        "RATING": 6,
+        "COMMENTS": "1",
+        "TAGS": [
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "執左道者的自我政變",
+        "FULLNAME": "self-coup-of-the-knavish",
+        "RATING": 17,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "metha博士",
+            "原創",
+            "地下街",
+            "成人內容",
+            "故事",
+            "物理少年",
+            "航海學",
+            "轉世計劃"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-190 - 心靈網路",
+        "FULLNAME": "scp-zh-190",
+        "RATING": 15,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "scp",
+            "原創",
+            "機密分級"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-989 - 我們腦中的太陽",
+        "FULLNAME": "scp-zh-989",
+        "RATING": 20,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "archon",
+            "scp",
+            "傳染性",
+            "原創",
+            "基因",
+            "醫學性"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-911 - 你所捍衛的自由",
+        "FULLNAME": "scp-zh-911",
+        "RATING": 20,
+        "COMMENTS": "0",
+        "TAGS": [
+            "euclid",
+            "meta",
+            "scp",
+            "site-zh-50",
+            "原創",
+            "感知力",
+            "智能",
+            "本質促動",
+            "武器",
+            "異常移動",
+            "認知危害",
+            "資訊危害"
+        ]
+    },
+    {
+        "TITLE": "《缺氧？準備轉世！》競賽頁",
+        "FULLNAME": "reincarnation-by-suffocation",
+        "RATING": 6,
+        "COMMENTS": "1",
+        "TAGS": [
+            "中心",
+            "原創",
+            "競賽"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-515 - 平安符",
+        "FULLNAME": "scp-zh-515",
+        "RATING": 44,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2019暑期比賽",
+            "safe",
+            "scp",
+            "site-zh-02",
+            "交換",
+            "人造物品",
+            "傳送",
+            "原創",
+            "展出",
+            "超維度"
         ]
     }
 ]

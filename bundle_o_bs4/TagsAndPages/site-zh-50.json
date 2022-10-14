@@ -92,7 +92,7 @@
     {
         "TITLE": "SCP-ZH-998 - 現象學",
         "FULLNAME": "scp-zh-998",
-        "RATING": 37,
+        "RATING": 38,
         "COMMENTS": "7",
         "TAGS": [
             "k級情景",
@@ -185,7 +185,7 @@
     {
         "TITLE": "聖誕軍演",
         "FULLNAME": "xmas-exercise",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "7",
         "TAGS": [
             "2019聖夜相守",
@@ -253,7 +253,7 @@
     {
         "TITLE": "矢尖",
         "FULLNAME": "arrowhead",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "aiad",
@@ -609,6 +609,26 @@
             "自我修復",
             "預測性",
             "骨骼"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-911 - 你所捍衛的自由",
+        "FULLNAME": "scp-zh-911",
+        "RATING": 20,
+        "COMMENTS": "0",
+        "TAGS": [
+            "euclid",
+            "meta",
+            "scp",
+            "site-zh-50",
+            "原創",
+            "感知力",
+            "智能",
+            "本質促動",
+            "武器",
+            "異常移動",
+            "認知危害",
+            "資訊危害"
         ]
     }
 ]

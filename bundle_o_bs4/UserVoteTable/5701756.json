@@ -84,7 +84,7 @@
     {
         "TITLE": "SCP-ZH-998 - 現象學",
         "FULLNAME": "scp-zh-998",
-        "RATING": 37,
+        "RATING": 38,
         "COMMENTS": "7",
         "TAGS": [
             "k級情景",
@@ -134,7 +134,7 @@
     {
         "TITLE": "聖誕軍演",
         "FULLNAME": "xmas-exercise",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "7",
         "TAGS": [
             "2019聖夜相守",
@@ -3580,6 +3580,192 @@
             "scp",
             "原創",
             "機密分級"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-993 - 無知則自由",
+        "FULLNAME": "scp-zh-993",
+        "RATING": 25,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "meta",
+            "scp",
+            "人形",
+            "原創",
+            "基金會製造",
+            "容器",
+            "復活",
+            "感知力",
+            "放射性",
+            "無效化",
+            "生物性",
+            "知識",
+            "記錄",
+            "轉世計劃"
+        ]
+    },
+    {
+        "TITLE": "Reverberate_a的提案",
+        "FULLNAME": "reverberate-a-s-proposal-1",
+        "RATING": 23,
+        "COMMENTS": "2",
+        "TAGS": [
+            "001提案",
+            "2022紅藍爭霸賽",
+            "reverberate博士",
+            "人形",
+            "人形生物",
+            "原創",
+            "地點",
+            "心靈影響",
+            "認知影響"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-300-J - 我的襪襪🥺",
+        "FULLNAME": "scp-zh-300-j",
+        "RATING": 17,
+        "COMMENTS": "6",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "keter",
+            "meta",
+            "scp",
+            "site-zh-44",
+            "原創",
+            "成人內容",
+            "搞笑",
+            "衣物"
+        ]
+    },
+    {
+        "TITLE": "虛像綻放",
+        "FULLNAME": "phantom-flowering",
+        "RATING": 9,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "原創",
+            "故事",
+            "物理少年"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-712 - 超高速閱讀眼鏡",
+        "FULLNAME": "scp-zh-712",
+        "RATING": 14,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "safe",
+            "scp",
+            "site-zh-25",
+            "原創",
+            "工具",
+            "眼睛"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-646 - 午夜自畫",
+        "FULLNAME": "scp-zh-646",
+        "RATING": 13,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "euclid",
+            "scp",
+            "人造物品",
+            "傳染性",
+            "光照影響",
+            "原創",
+            "強迫性",
+            "火",
+            "熱量影響",
+            "認知危害"
+        ]
+    },
+    {
+        "TITLE": "但願我不再好命",
+        "FULLNAME": "toogoodtobetrue",
+        "RATING": 18,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "原創",
+            "異視維基"
+        ]
+    },
+    {
+        "TITLE": "生物電",
+        "FULLNAME": "bioelectricity",
+        "RATING": 9,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "殘響",
+        "FULLNAME": "reverberate",
+        "RATING": 11,
+        "COMMENTS": "4",
+        "TAGS": [
+            "clef博士",
+            "gears博士",
+            "kondraki博士",
+            "卓文康卓奇",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-190 - 心靈網路",
+        "FULLNAME": "scp-zh-190",
+        "RATING": 15,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "scp",
+            "原創",
+            "機密分級"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-989 - 我們腦中的太陽",
+        "FULLNAME": "scp-zh-989",
+        "RATING": 20,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "archon",
+            "scp",
+            "傳染性",
+            "原創",
+            "基因",
+            "醫學性"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-911 - 你所捍衛的自由",
+        "FULLNAME": "scp-zh-911",
+        "RATING": 20,
+        "COMMENTS": "0",
+        "TAGS": [
+            "euclid",
+            "meta",
+            "scp",
+            "site-zh-50",
+            "原創",
+            "感知力",
+            "智能",
+            "本質促動",
+            "武器",
+            "異常移動",
+            "認知危害",
+            "資訊危害"
         ]
     }
 ]

@@ -209,7 +209,7 @@
     {
         "TITLE": "SCP-ZH-998 - 現象學",
         "FULLNAME": "scp-zh-998",
-        "RATING": 37,
+        "RATING": 38,
         "COMMENTS": "7",
         "TAGS": [
             "k級情景",
@@ -640,6 +640,21 @@
             "本質促動",
             "機密分級",
             "無效化"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-712 - 超高速閱讀眼鏡",
+        "FULLNAME": "scp-zh-712",
+        "RATING": 14,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "safe",
+            "scp",
+            "site-zh-25",
+            "原創",
+            "工具",
+            "眼睛"
         ]
     }
 ]

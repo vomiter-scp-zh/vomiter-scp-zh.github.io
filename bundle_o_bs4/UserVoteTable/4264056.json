@@ -286,7 +286,7 @@
     {
         "TITLE": "SCP-ZH-515 - 平安符",
         "FULLNAME": "scp-zh-515",
-        "RATING": 43,
+        "RATING": 44,
         "COMMENTS": "2",
         "TAGS": [
             "2019暑期比賽",
@@ -617,7 +617,7 @@
     {
         "TITLE": "SCP-ZH-998 - 現象學",
         "FULLNAME": "scp-zh-998",
-        "RATING": 37,
+        "RATING": 38,
         "COMMENTS": "7",
         "TAGS": [
             "k級情景",
@@ -661,7 +661,7 @@
     {
         "TITLE": "三生有幸",
         "FULLNAME": "third-life",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "0",
         "TAGS": [
             "reverberate博士",
@@ -809,7 +809,7 @@
     {
         "TITLE": "聖誕軍演",
         "FULLNAME": "xmas-exercise",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "7",
         "TAGS": [
             "2019聖夜相守",
@@ -872,7 +872,7 @@
     {
         "TITLE": "SCP-ZH-044",
         "FULLNAME": "scp-zh-044",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "3",
         "TAGS": [
             "bales博士",
@@ -1081,7 +1081,7 @@
     {
         "TITLE": "繁中站點地下街",
         "FULLNAME": "shopping-arcade",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "3",
         "TAGS": [
             "三垣",
@@ -1944,6 +1944,67 @@
             "scp",
             "原創",
             "機密分級"
+        ]
+    },
+    {
+        "TITLE": "Reverberate_a的提案",
+        "FULLNAME": "reverberate-a-s-proposal-1",
+        "RATING": 23,
+        "COMMENTS": "2",
+        "TAGS": [
+            "001提案",
+            "2022紅藍爭霸賽",
+            "reverberate博士",
+            "人形",
+            "人形生物",
+            "原創",
+            "地點",
+            "心靈影響",
+            "認知影響"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-300-J - 我的襪襪🥺",
+        "FULLNAME": "scp-zh-300-j",
+        "RATING": 17,
+        "COMMENTS": "6",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "keter",
+            "meta",
+            "scp",
+            "site-zh-44",
+            "原創",
+            "成人內容",
+            "搞笑",
+            "衣物"
+        ]
+    },
+    {
+        "TITLE": "但願我不再好命",
+        "FULLNAME": "toogoodtobetrue",
+        "RATING": 18,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "原創",
+            "異視維基"
+        ]
+    },
+    {
+        "TITLE": "Ctrl Z博士從週刊上剪下的四格漫畫",
+        "FULLNAME": "comic",
+        "RATING": 18,
+        "COMMENTS": "2",
+        "TAGS": [
+            "ad博士",
+            "bales博士",
+            "kris博士",
+            "reverberate博士",
+            "原創",
+            "塑像173",
+            "研究員l.what",
+            "藝術作品"
         ]
     }
 ]

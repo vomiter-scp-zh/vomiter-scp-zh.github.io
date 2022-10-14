@@ -335,5 +335,44 @@
             "原創",
             "機密分級"
         ]
+    },
+    {
+        "TITLE": "夢境重唱",
+        "FULLNAME": "dream-duet",
+        "RATING": 10,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "原創",
+            "故事",
+            "物理少年"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-971 - 感恩seafood讚嘆seafood",
+        "FULLNAME": "scp-zh-971",
+        "RATING": 10,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "safe",
+            "scp",
+            "site-zh-13",
+            "原創",
+            "基金會製造",
+            "食物"
+        ]
+    },
+    {
+        "TITLE": "幻想抽離",
+        "FULLNAME": "get-out-of-the-dream",
+        "RATING": 3,
+        "COMMENTS": "3",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "原創",
+            "故事",
+            "物理少年"
+        ]
     }
 ]

@@ -70,7 +70,7 @@
     {
         "TITLE": "繁中站點地下街",
         "FULLNAME": "shopping-arcade",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "3",
         "TAGS": [
             "三垣",
@@ -386,6 +386,23 @@
             "流浪者圖書館",
             "特殊貨物事務委員會",
             "蛇之手"
+        ]
+    },
+    {
+        "TITLE": "執左道者的自我政變",
+        "FULLNAME": "self-coup-of-the-knavish",
+        "RATING": 17,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "metha博士",
+            "原創",
+            "地下街",
+            "成人內容",
+            "故事",
+            "物理少年",
+            "航海學",
+            "轉世計劃"
         ]
     }
 ]

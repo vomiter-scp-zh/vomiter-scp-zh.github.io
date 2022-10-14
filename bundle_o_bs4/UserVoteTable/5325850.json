@@ -61,7 +61,7 @@
     {
         "TITLE": "SCP-ZH-515 - 平安符",
         "FULLNAME": "scp-zh-515",
-        "RATING": 43,
+        "RATING": 44,
         "COMMENTS": "2",
         "TAGS": [
             "2019暑期比賽",
@@ -119,7 +119,7 @@
     {
         "TITLE": "SCP-ZH-998 - 現象學",
         "FULLNAME": "scp-zh-998",
-        "RATING": 37,
+        "RATING": 38,
         "COMMENTS": "7",
         "TAGS": [
             "k級情景",
@@ -962,8 +962,8 @@
     {
         "TITLE": "菇菇基金會",
         "FULLNAME": "fungi-foundation",
-        "RATING": 20,
-        "COMMENTS": "5",
+        "RATING": 21,
+        "COMMENTS": "6",
         "TAGS": [
             "bright博士",
             "clef博士",

@@ -363,7 +363,7 @@
     {
         "TITLE": "SCP-ZH-147",
         "FULLNAME": "scp-zh-147",
-        "RATING": 18,
+        "RATING": 19,
         "COMMENTS": "2",
         "TAGS": [
             "ctrl-z博士",
@@ -443,7 +443,7 @@
     {
         "TITLE": "Ctrl Z博士從週刊上剪下的四格漫畫",
         "FULLNAME": "comic",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "2",
         "TAGS": [
             "ad博士",
@@ -3487,6 +3487,101 @@
             "euclid",
             "scp",
             "原創"
+        ]
+    },
+    {
+        "TITLE": "夢境重唱",
+        "FULLNAME": "dream-duet",
+        "RATING": 10,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "原創",
+            "故事",
+            "物理少年"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-993 - 無知則自由",
+        "FULLNAME": "scp-zh-993",
+        "RATING": 25,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "meta",
+            "scp",
+            "人形",
+            "原創",
+            "基金會製造",
+            "容器",
+            "復活",
+            "感知力",
+            "放射性",
+            "無效化",
+            "生物性",
+            "知識",
+            "記錄",
+            "轉世計劃"
+        ]
+    },
+    {
+        "TITLE": "Reverberate_a的提案",
+        "FULLNAME": "reverberate-a-s-proposal-1",
+        "RATING": 23,
+        "COMMENTS": "2",
+        "TAGS": [
+            "001提案",
+            "2022紅藍爭霸賽",
+            "reverberate博士",
+            "人形",
+            "人形生物",
+            "原創",
+            "地點",
+            "心靈影響",
+            "認知影響"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-300-J - 我的襪襪🥺",
+        "FULLNAME": "scp-zh-300-j",
+        "RATING": 17,
+        "COMMENTS": "6",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "keter",
+            "meta",
+            "scp",
+            "site-zh-44",
+            "原創",
+            "成人內容",
+            "搞笑",
+            "衣物"
+        ]
+    },
+    {
+        "TITLE": "輸入密匙：67337-94-505",
+        "FULLNAME": "scp-zh-505",
+        "RATING": 12,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "scp",
+            "原創"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-989 - 我們腦中的太陽",
+        "FULLNAME": "scp-zh-989",
+        "RATING": 20,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "archon",
+            "scp",
+            "傳染性",
+            "原創",
+            "基因",
+            "醫學性"
         ]
     }
 ]
