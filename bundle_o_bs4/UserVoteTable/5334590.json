@@ -4938,7 +4938,7 @@
         "TITLE": "SCP-ZH-750 - 神說：「要有油。」就有了油。",
         "FULLNAME": "scp-zh-750",
         "RATING": 30,
-        "COMMENTS": "4",
+        "COMMENTS": "5",
         "TAGS": [
             "2022夏季競賽",
             "euclid",
@@ -4955,7 +4955,7 @@
     {
         "TITLE": "寐側擴張",
         "FULLNAME": "extension-of-dream",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "2",
         "TAGS": [
             "2022夏季競賽",
@@ -5055,7 +5055,7 @@
     {
         "TITLE": "汽水的藝作頁3",
         "FULLNAME": "lillianasoda-artworks3",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "0",
         "TAGS": [
             "原創",
@@ -5094,6 +5094,18 @@
             "智能",
             "火",
             "猿類"
+        ]
+    },
+    {
+        "TITLE": "1970-1972奇萊山區未解明事件再審提案",
+        "FULLNAME": "unsolved-cases-mount-qilai-1970-1972",
+        "RATING": 13,
+        "COMMENTS": "0",
+        "TAGS": [
+            "原創",
+            "展出",
+            "故事",
+            "都異部門"
         ]
     }
 ]

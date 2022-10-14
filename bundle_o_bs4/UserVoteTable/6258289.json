@@ -1212,7 +1212,7 @@
         "TITLE": "SCP-ZH-750 - 神說：「要有油。」就有了油。",
         "FULLNAME": "scp-zh-750",
         "RATING": 30,
-        "COMMENTS": "4",
+        "COMMENTS": "5",
         "TAGS": [
             "2022夏季競賽",
             "euclid",
@@ -1267,6 +1267,21 @@
             "scp",
             "zh急迫競賽2022",
             "原創"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-119 - 懲罰之火不降於我",
+        "FULLNAME": "scp-zh-119",
+        "RATING": 14,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022夏季競賽",
+            "bales博士",
+            "keter",
+            "scp",
+            "原創",
+            "基金會製造",
+            "無形"
         ]
     }
 ]

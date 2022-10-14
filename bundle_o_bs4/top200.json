@@ -201,7 +201,7 @@
         "TITLE": "SCP-ZH-750 - 神說：「要有油。」就有了油。",
         "FULLNAME": "scp-zh-750",
         "RATING": 30,
-        "COMMENTS": "4"
+        "COMMENTS": "5"
     },
     {
         "TITLE": "SCP-ZH-053",
@@ -474,6 +474,12 @@
         "COMMENTS": "3"
     },
     {
+        "TITLE": "SCP-ZH-180 - 安 妮 :-)",
+        "FULLNAME": "scp-zh-180",
+        "RATING": 23,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "SCP-ZH-255",
         "FULLNAME": "scp-zh-255",
         "RATING": 22,
@@ -578,12 +584,6 @@
     {
         "TITLE": "削不完肉的沙威瑪",
         "FULLNAME": "parawatch-shawarma",
-        "RATING": 22,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-ZH-180 - 安 妮 :-)",
-        "FULLNAME": "scp-zh-180",
         "RATING": 22,
         "COMMENTS": "2"
     },

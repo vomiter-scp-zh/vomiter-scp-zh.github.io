@@ -517,7 +517,7 @@
         "TITLE": "SCP-ZH-750 - 神說：「要有油。」就有了油。",
         "FULLNAME": "scp-zh-750",
         "RATING": 30,
-        "COMMENTS": "4",
+        "COMMENTS": "5",
         "TAGS": [
             "2022夏季競賽",
             "euclid",
@@ -618,6 +618,19 @@
             "原創",
             "展出",
             "故事"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-145 - \"好運校正\"麻將桌",
+        "FULLNAME": "scp-zh-145",
+        "RATING": 10,
+        "COMMENTS": "2",
+        "TAGS": [
+            "euclid",
+            "scp",
+            "原創",
+            "本質促動",
+            "遊戲"
         ]
     }
 ]

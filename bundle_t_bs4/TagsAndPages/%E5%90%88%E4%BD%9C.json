@@ -767,7 +767,7 @@
     {
         "TITLE": "共異迴歷 中心頁",
         "FULLNAME": "kyouikaireki-hub",
-        "RATING": 8,
+        "RATING": 9,
         "COMMENTS": "0",
         "TAGS": [
             "jp",
@@ -775,6 +775,20 @@
             "中心",
             "共異迴歷",
             "合作",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "破曉中心頁",
+        "FULLNAME": "daybreak",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "中心",
+            "合作",
+            "合著",
+            "破曉",
             "翻譯"
         ]
     }

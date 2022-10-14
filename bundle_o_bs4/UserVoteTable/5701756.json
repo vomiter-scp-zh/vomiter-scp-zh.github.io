@@ -2818,7 +2818,7 @@
     {
         "TITLE": "1970-1972奇萊山區未解明事件再審提案",
         "FULLNAME": "unsolved-cases-mount-qilai-1970-1972",
-        "RATING": 11,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "原創",
@@ -3295,7 +3295,7 @@
         "TITLE": "SCP-ZH-750 - 神說：「要有油。」就有了油。",
         "FULLNAME": "scp-zh-750",
         "RATING": 30,
-        "COMMENTS": "4",
+        "COMMENTS": "5",
         "TAGS": [
             "2022夏季競賽",
             "euclid",
@@ -3312,7 +3312,7 @@
     {
         "TITLE": "寐側擴張",
         "FULLNAME": "extension-of-dream",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "2",
         "TAGS": [
             "2022夏季競賽",
@@ -3373,7 +3373,7 @@
     {
         "TITLE": "SCP-ZH-145 - \"好運校正\"麻將桌",
         "FULLNAME": "scp-zh-145",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "2",
         "TAGS": [
             "euclid",
@@ -3467,6 +3467,25 @@
             "無形",
             "精神影響",
             "肢體"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-180 - 安 妮 :-)",
+        "FULLNAME": "scp-zh-180",
+        "RATING": 23,
+        "COMMENTS": "2",
+        "TAGS": [
+            "scp",
+            "原創",
+            "屍體",
+            "展出",
+            "幻覺",
+            "待分級",
+            "文獻",
+            "藝術性",
+            "觀察影響",
+            "都異部門",
+            "雕像"
         ]
     }
 ]

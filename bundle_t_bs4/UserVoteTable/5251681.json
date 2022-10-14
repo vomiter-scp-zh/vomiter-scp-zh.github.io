@@ -2320,8 +2320,8 @@
     {
         "TITLE": "煉金學部中心頁",
         "FULLNAME": "the-alchemy-department-hub",
-        "RATING": 6,
-        "COMMENTS": "0",
+        "RATING": 8,
+        "COMMENTS": "2",
         "TAGS": [
             "en",
             "中心",
@@ -2333,7 +2333,7 @@
     {
         "TITLE": "SCP-6837 - 鬧鬼故事",
         "FULLNAME": "scp-6837",
-        "RATING": 6,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -2344,6 +2344,21 @@
             "未來",
             "翻譯",
             "聲音"
+        ]
+    },
+    {
+        "TITLE": "SCP-7260 - 黛西",
+        "FULLNAME": "scp-7260",
+        "RATING": 9,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "感知力",
+            "翻譯",
+            "自主",
+            "衣物"
         ]
     }
 ]

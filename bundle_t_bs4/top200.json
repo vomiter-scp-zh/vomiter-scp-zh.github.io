@@ -648,6 +648,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-001",
+        "FULLNAME": "scp-4380",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-050 - 致最聰明的人",
         "FULLNAME": "scp-050",
         "RATING": 11,
@@ -872,7 +878,7 @@
     {
         "TITLE": "魔法講座",
         "FULLNAME": "another-goddamn-magic-system",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "0"
     },
     {
@@ -1152,12 +1158,6 @@
         "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-001",
-        "FULLNAME": "scp-4380",
-        "RATING": 10,
-        "COMMENTS": "0"
-    },
-    {
         "TITLE": "SCP-096 - 羞澀的人",
         "FULLNAME": "scp-096",
         "RATING": 10,
@@ -1176,6 +1176,18 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-6765 - 惡魔奧吉爾與瑪利德拉格血之王座",
+        "FULLNAME": "scp-6765",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6837 - 鬧鬼故事",
+        "FULLNAME": "scp-6837",
+        "RATING": 10,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-682-J James 的塗鴉小冊子",
         "FULLNAME": "scp-682-j-james-coloring-book",
         "RATING": 9,
@@ -1184,18 +1196,6 @@
     {
         "TITLE": "SCP-666-J",
         "FULLNAME": "scp-666-j",
-        "RATING": 9,
-        "COMMENTS": "1"
-    },
-    {
-        "TITLE": "安布羅斯餐廳倫敦店的套餐菜單",
-        "FULLNAME": "ambrose-london-prix-fixe",
-        "RATING": 9,
-        "COMMENTS": "2"
-    },
-    {
-        "TITLE": "項目企劃書 2014-1221：《終於醒來》",
-        "FULLNAME": "project-proposal-2014-1221",
         "RATING": 9,
         "COMMENTS": "1"
     }

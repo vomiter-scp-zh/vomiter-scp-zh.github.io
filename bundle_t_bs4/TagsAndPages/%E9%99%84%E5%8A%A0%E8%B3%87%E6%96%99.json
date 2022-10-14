@@ -442,5 +442,28 @@
             "翻譯",
             "附加資料"
         ]
+    },
+    {
+        "TITLE": "SCP-884：原始收容記錄",
+        "FULLNAME": "scp-884-original-collection",
+        "RATING": 1,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "翻譯",
+            "附加資料"
+        ]
+    },
+    {
+        "TITLE": "Gordon Richards的個人日誌",
+        "FULLNAME": "personal-log-of-gordon-richards",
+        "RATING": 1,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "探索",
+            "翻譯",
+            "附加資料"
+        ]
     }
 ]
