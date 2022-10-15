@@ -114,6 +114,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-6630 - 彼方遙火",
+        "FULLNAME": "scp-6630",
+        "RATING": 19,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-049 - 瘟疫醫生",
         "FULLNAME": "scp-049",
         "RATING": 18,
@@ -142,12 +148,6 @@
         "FULLNAME": "rounderhouse-critique-guide",
         "RATING": 18,
         "COMMENTS": "4"
-    },
-    {
-        "TITLE": "SCP-6630 - 彼方遙火",
-        "FULLNAME": "scp-6630",
-        "RATING": 18,
-        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-3333 - 塔",
@@ -474,6 +474,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-420-J",
+        "FULLNAME": "scp-420-j",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "所以你想寫一個人形SCP項目",
         "FULLNAME": "so-you-want-to-write-a-humanoid-scp-object",
         "RATING": 12,
@@ -530,12 +536,6 @@
     {
         "TITLE": "小動物簡介：次元毀滅者 ZARGOTH！",
         "FULLNAME": "critter-profile-zargoth",
-        "RATING": 12,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-420-J",
-        "FULLNAME": "scp-420-j",
         "RATING": 12,
         "COMMENTS": "0"
     },
@@ -660,6 +660,18 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-001-EX-J",
+        "FULLNAME": "scp-001-ex-j",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "你的第一篇SCP！",
+        "FULLNAME": "your-very-first-scp",
+        "RATING": 12,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-050 - 致最聰明的人",
         "FULLNAME": "scp-050",
         "RATING": 11,
@@ -720,12 +732,6 @@
         "COMMENTS": "1"
     },
     {
-        "TITLE": "SCP-001-EX-J",
-        "FULLNAME": "scp-001-ex-j",
-        "RATING": 11,
-        "COMMENTS": "1"
-    },
-    {
         "TITLE": "SCP-2616-JP - 雪中送炭",
         "FULLNAME": "scp-2616-jp",
         "RATING": 11,
@@ -772,12 +778,6 @@
         "FULLNAME": "scp-5167",
         "RATING": 11,
         "COMMENTS": "2"
-    },
-    {
-        "TITLE": "你的第一篇SCP！",
-        "FULLNAME": "your-very-first-scp",
-        "RATING": 11,
-        "COMMENTS": "1"
     },
     {
         "TITLE": "想著希望能再聽一次妻子的聲音",
@@ -892,6 +892,12 @@
         "FULLNAME": "scp-063-j",
         "RATING": 11,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "SCP-6400 - 外面那裏",
+        "FULLNAME": "scp-6400",
+        "RATING": 11,
+        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-073 - 「該隱」",
@@ -1090,12 +1096,6 @@
         "FULLNAME": "church-of-the-broken-god-hub",
         "RATING": 10,
         "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-6400 - 外面那裏",
-        "FULLNAME": "scp-6400",
-        "RATING": 10,
-        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-2072-JP – 私刑",

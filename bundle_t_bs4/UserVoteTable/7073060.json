@@ -640,7 +640,7 @@
     {
         "TITLE": "你的第一篇SCP！",
         "FULLNAME": "your-very-first-scp",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -1326,7 +1326,7 @@
     {
         "TITLE": "SCP-6400 - 外面那裏",
         "FULLNAME": "scp-6400",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "1",
         "TAGS": [
             "en",

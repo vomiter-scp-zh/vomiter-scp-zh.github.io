@@ -5407,7 +5407,7 @@
     {
         "TITLE": "SCP-087 - 樓梯間",
         "FULLNAME": "scp-087",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -8049,8 +8049,8 @@
     {
         "TITLE": "SCP-001-EX-J",
         "FULLNAME": "scp-001-ex-j",
-        "RATING": 11,
-        "COMMENTS": "1",
+        "RATING": 12,
+        "COMMENTS": "2",
         "TAGS": [
             "en",
             "scp",
@@ -9200,7 +9200,7 @@
     {
         "TITLE": "SCP-011-J",
         "FULLNAME": "scp-011-j",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -9487,7 +9487,7 @@
     {
         "TITLE": "SCP-006-J",
         "FULLNAME": "scp-006-j",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -12383,7 +12383,7 @@
     {
         "TITLE": "你的第一篇SCP！",
         "FULLNAME": "your-very-first-scp",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -13246,7 +13246,7 @@
     {
         "TITLE": "SCP-970-EX",
         "FULLNAME": "scp-970-ex",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -13664,7 +13664,7 @@
     {
         "TITLE": "SCP-3935 - 此處靜謐瘋狂",
         "FULLNAME": "scp-3935",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "4",
         "TAGS": [
             "1976年班",
@@ -14087,7 +14087,7 @@
     {
         "TITLE": "SCP-6400 - 外面那裏",
         "FULLNAME": "scp-6400",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "1",
         "TAGS": [
             "en",

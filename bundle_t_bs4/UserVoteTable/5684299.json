@@ -1195,7 +1195,7 @@
     {
         "TITLE": "SCP-087 - 樓梯間",
         "FULLNAME": "scp-087",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -1967,7 +1967,7 @@
     {
         "TITLE": "SCP-420-J",
         "FULLNAME": "scp-420-j",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -3483,7 +3483,7 @@
     {
         "TITLE": "你的第一篇SCP！",
         "FULLNAME": "your-very-first-scp",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "1",
         "TAGS": [
             "en",

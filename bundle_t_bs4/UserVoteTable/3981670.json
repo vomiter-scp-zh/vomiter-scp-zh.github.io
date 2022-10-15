@@ -1392,7 +1392,7 @@
     {
         "TITLE": "SCP-087 - 樓梯間",
         "FULLNAME": "scp-087",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -2724,8 +2724,8 @@
     {
         "TITLE": "SCP-001-EX-J",
         "FULLNAME": "scp-001-ex-j",
-        "RATING": 11,
-        "COMMENTS": "1",
+        "RATING": 12,
+        "COMMENTS": "2",
         "TAGS": [
             "en",
             "scp",
