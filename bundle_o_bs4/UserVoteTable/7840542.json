@@ -1318,5 +1318,51 @@
             "原創",
             "藝術作品"
         ]
+    },
+    {
+        "TITLE": "Ｓ之死",
+        "FULLNAME": "the-death-of-sam-or-semibreve-etc",
+        "RATING": 18,
+        "COMMENTS": "4",
+        "TAGS": [
+            "semibreve博士",
+            "surge博士",
+            "原創",
+            "搞笑",
+            "藝術作品"
+        ]
+    },
+    {
+        "TITLE": "藝術創作：聖誕節雪喵",
+        "FULLNAME": "xmax-x",
+        "RATING": 18,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2021聖夜相守",
+            "x博士",
+            "原創",
+            "藝術作品"
+        ]
+    },
+    {
+        "TITLE": "鎖鏈的音竹",
+        "FULLNAME": "k1s10r0d-chain-sugoi",
+        "RATING": 29,
+        "COMMENTS": "6",
+        "TAGS": [
+            "sugoi博士",
+            "原創",
+            "藝術作品"
+        ]
+    },
+    {
+        "TITLE": "我們尚未知道的旅程的終點-███/9288 km",
+        "FULLNAME": "artwork-of-9288-ex",
+        "RATING": 21,
+        "COMMENTS": "2",
+        "TAGS": [
+            "原創",
+            "藝術作品"
+        ]
     }
 ]
