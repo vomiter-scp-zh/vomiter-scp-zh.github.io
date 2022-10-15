@@ -510,6 +510,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "我沒能救到他。",
+        "FULLNAME": "arkwork-zh-200",
+        "RATING": 23,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-255",
         "FULLNAME": "scp-zh-255",
         "RATING": 22,
@@ -538,12 +544,6 @@
         "FULLNAME": "she-lives-in-my-heart",
         "RATING": 22,
         "COMMENTS": "5"
-    },
-    {
-        "TITLE": "我沒能救到他。",
-        "FULLNAME": "arkwork-zh-200",
-        "RATING": 22,
-        "COMMENTS": "0"
     },
     {
         "TITLE": "在那天，妳仍舊向我道了聲晚安",
