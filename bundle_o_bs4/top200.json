@@ -744,6 +744,12 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "SCP-ZH-911 - 你所捍衛的自由",
+        "FULLNAME": "scp-zh-911",
+        "RATING": 21,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-009",
         "FULLNAME": "scp-zh-009",
         "RATING": 20,
@@ -868,12 +874,6 @@
         "FULLNAME": "scp-zh-989",
         "RATING": 20,
         "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-ZH-911 - 你所捍衛的自由",
-        "FULLNAME": "scp-zh-911",
-        "RATING": 20,
-        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP基金會不知道的那些事件",
