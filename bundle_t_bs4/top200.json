@@ -486,6 +486,12 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "SCP-001",
+        "FULLNAME": "scp-4380",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "所以你想寫一個人形SCP項目",
         "FULLNAME": "so-you-want-to-write-a-humanoid-scp-object",
         "RATING": 12,
@@ -644,12 +650,6 @@
     {
         "TITLE": "SCP-4231 - 蒙托克之屋",
         "FULLNAME": "scp-4231",
-        "RATING": 12,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-001",
-        "FULLNAME": "scp-4380",
         "RATING": 12,
         "COMMENTS": "0"
     },
