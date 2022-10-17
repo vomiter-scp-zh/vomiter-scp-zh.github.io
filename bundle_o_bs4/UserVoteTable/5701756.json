@@ -3767,5 +3767,27 @@
             "認知危害",
             "資訊危害"
         ]
+    },
+    {
+        "TITLE": "失去的音程",
+        "FULLNAME": "lost-interval",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "原創",
+            "故事",
+            "毆打鯊魚中心"
+        ]
+    },
+    {
+        "TITLE": "國安局第八處戰略資料：裝備",
+        "FULLNAME": "nsb-8-euipment",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "原創",
+            "第八處",
+            "雙城作戰"
+        ]
     }
 ]
