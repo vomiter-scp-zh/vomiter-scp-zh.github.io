@@ -1765,5 +1765,17 @@
             "基因",
             "醫學性"
         ]
+    },
+    {
+        "TITLE": "冰箱",
+        "FULLNAME": "fridge",
+        "RATING": 12,
+        "COMMENTS": "0",
+        "TAGS": [
+            "ain博士",
+            "site-zh-44",
+            "原創",
+            "故事"
+        ]
     }
 ]
