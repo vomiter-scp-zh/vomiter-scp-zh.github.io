@@ -900,6 +900,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-4852 - Site-19南遷渡冬去！",
+        "FULLNAME": "scp-4852",
+        "RATING": 11,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-073 - 「該隱」",
         "FULLNAME": "scp-073",
         "RATING": 10,
@@ -1192,11 +1198,5 @@
         "FULLNAME": "k-class-complete-list",
         "RATING": 10,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-666½-J",
-        "FULLNAME": "scp-666-and-a-half-j",
-        "RATING": 10,
-        "COMMENTS": "1"
     }
 ]
