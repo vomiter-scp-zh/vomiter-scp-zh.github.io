@@ -5220,5 +5220,16 @@
             "故事",
             "翻譯"
         ]
+    },
+    {
+        "TITLE": "SCP-3980解密",
+        "FULLNAME": "scp-3980-declassification",
+        "RATING": 4,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "用戶解密",
+            "翻譯"
+        ]
     }
 ]
