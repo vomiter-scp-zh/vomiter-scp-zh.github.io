@@ -5231,5 +5231,22 @@
             "用戶解密",
             "翻譯"
         ]
+    },
+    {
+        "TITLE": "SCP-231-J",
+        "FULLNAME": "scp-231-j",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "the-administrator",
+            "搞笑",
+            "渾沌反叛軍",
+            "猩紅之王",
+            "翻譯",
+            "貨幣"
+        ]
     }
 ]
