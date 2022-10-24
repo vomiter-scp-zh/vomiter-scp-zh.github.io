@@ -366,6 +366,12 @@
         "COMMENTS": "5"
     },
     {
+        "TITLE": "SCP-ZH-922 - 馬蘭姑娘",
+        "FULLNAME": "scp-zh-922",
+        "RATING": 25,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "挑戰傳統評分方式：關於自訂評分模版",
         "FULLNAME": "rating-against-traditions",
         "RATING": 24,
@@ -400,12 +406,6 @@
         "FULLNAME": "scp-zh-082",
         "RATING": 24,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-922 - 馬蘭姑娘",
-        "FULLNAME": "scp-zh-922",
-        "RATING": 24,
-        "COMMENTS": "1"
     },
     {
         "TITLE": "NX-ZH-02：西加走灣群島",
