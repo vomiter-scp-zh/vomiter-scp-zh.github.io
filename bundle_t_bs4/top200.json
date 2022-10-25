@@ -342,6 +342,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-2317 - 前往彼界之門",
+        "FULLNAME": "scp-2317",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-002 - 生「活」起居室",
         "FULLNAME": "scp-002",
         "RATING": 13,
@@ -488,12 +494,6 @@
     {
         "TITLE": "SCP-4666 - 聖誕老人",
         "FULLNAME": "scp-4666",
-        "RATING": 13,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-2317 - 前往彼界之門",
-        "FULLNAME": "scp-2317",
         "RATING": 13,
         "COMMENTS": "0"
     },
