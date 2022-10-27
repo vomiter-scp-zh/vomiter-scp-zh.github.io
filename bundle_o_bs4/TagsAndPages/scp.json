@@ -8443,10 +8443,21 @@
     {
         "TITLE": "SCP-ZH-156 -幼神系列-黑帝斯",
         "FULLNAME": "scp-zh-156",
-        "RATING": -1,
+        "RATING": -3,
         "COMMENTS": "0",
         "TAGS": [
             "keter",
+            "scp",
+            "原創"
+        ]
+    },
+    {
+        "TITLE": "SCP- ZH-157 -幼神系列-宙斯",
+        "FULLNAME": "scp-zh-157",
+        "RATING": -2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "euclid",
             "scp",
             "原創"
         ]
