@@ -672,6 +672,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "倫理委員會D級人員住宿規則",
+        "FULLNAME": "ethics-committee-class-d-housing-regulations",
+        "RATING": 12,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-050 - 致最聰明的人",
         "FULLNAME": "scp-050",
         "RATING": 11,
@@ -1190,12 +1196,6 @@
     {
         "TITLE": "SCP-6837 - 鬧鬼故事",
         "FULLNAME": "scp-6837",
-        "RATING": 10,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "K級情景總表",
-        "FULLNAME": "k-class-complete-list",
         "RATING": 10,
         "COMMENTS": "0"
     }

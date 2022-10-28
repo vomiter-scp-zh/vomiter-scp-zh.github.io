@@ -1310,5 +1310,32 @@
             "搞笑",
             "翻譯"
         ]
+    },
+    {
+        "TITLE": "老梗與你：一部教育影片",
+        "FULLNAME": "cliches-and-you-an-educational-film",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "心得",
+            "搞笑",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-1984-J - 字面上的1984",
+        "FULLNAME": "scp-1984-j",
+        "RATING": 1,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "強迫性",
+            "搞笑",
+            "文獻",
+            "翻譯"
+        ]
     }
 ]

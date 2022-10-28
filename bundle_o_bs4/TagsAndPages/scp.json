@@ -6122,7 +6122,7 @@
     {
         "TITLE": "SCP-ZH-298 - 天空鯨",
         "FULLNAME": "scp-zh-298",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "keter",
@@ -8443,8 +8443,8 @@
     {
         "TITLE": "SCP-ZH-156 -幼神系列-黑帝斯",
         "FULLNAME": "scp-zh-156",
-        "RATING": -6,
-        "COMMENTS": "2",
+        "RATING": -9,
+        "COMMENTS": "4",
         "TAGS": [
             "keter",
             "scp",
@@ -8454,8 +8454,8 @@
     {
         "TITLE": "SCP- ZH-157 -幼神系列-宙斯",
         "FULLNAME": "scp-zh-157",
-        "RATING": -6,
-        "COMMENTS": "2",
+        "RATING": -8,
+        "COMMENTS": "4",
         "TAGS": [
             "euclid",
             "scp",
