@@ -5403,5 +5403,17 @@
             "故事",
             "翻譯"
         ]
+    },
+    {
+        "TITLE": "追思",
+        "FULLNAME": "remembrance",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "1976年班",
+            "en",
+            "中心",
+            "翻譯"
+        ]
     }
 ]
