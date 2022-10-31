@@ -349,5 +349,17 @@
             "貓類",
             "電腦"
         ]
+    },
+    {
+        "TITLE": "SCP格式資源",
+        "FULLNAME": "scp-style-resource",
+        "RATING": 32,
+        "COMMENTS": "6",
+        "TAGS": [
+            "合作",
+            "定期檢查",
+            "指導",
+            "翻譯"
+        ]
     }
 ]
