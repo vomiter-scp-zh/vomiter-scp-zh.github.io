@@ -348,6 +348,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-4999 - 守望我等之人",
+        "FULLNAME": "scp-4999",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-002 - 生「活」起居室",
         "FULLNAME": "scp-002",
         "RATING": 13,
@@ -460,12 +466,6 @@
         "FULLNAME": "scp-7013",
         "RATING": 13,
         "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-4999 - 守望我等之人",
-        "FULLNAME": "scp-4999",
-        "RATING": 13,
-        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-7070 - 不凋",
