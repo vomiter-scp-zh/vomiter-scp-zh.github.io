@@ -135,5 +135,16 @@
             "作者頁面",
             "翻譯"
         ]
+    },
+    {
+        "TITLE": "The Administrator的傳記",
+        "FULLNAME": "the-administrator-s-biography",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "作者頁面",
+            "翻譯"
+        ]
     }
 ]
