@@ -786,12 +786,6 @@
         "COMMENTS": "4"
     },
     {
-        "TITLE": "中國國安部，不應存在的十九局",
-        "FULLNAME": "19th-bureau-of-mss-of-china",
-        "RATING": 20,
-        "COMMENTS": "16"
-    },
-    {
         "TITLE": "繁中官方化賀圖",
         "FULLNAME": "scp",
         "RATING": 20,
@@ -1036,6 +1030,12 @@
         "FULLNAME": "scp-zh-057",
         "RATING": 19,
         "COMMENTS": "4"
+    },
+    {
+        "TITLE": "中國國安部，不應存在的十九局",
+        "FULLNAME": "19th-bureau-of-mss-of-china",
+        "RATING": 19,
+        "COMMENTS": "16"
     },
     {
         "TITLE": "SCP-ZH-010 - 迷走神經寄生體",
