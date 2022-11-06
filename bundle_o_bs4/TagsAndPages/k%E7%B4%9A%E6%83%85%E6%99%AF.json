@@ -405,7 +405,7 @@
     {
         "TITLE": "SCP-ZH-208",
         "FULLNAME": "scp-zh-208",
-        "RATING": 0,
+        "RATING": -1,
         "COMMENTS": "0",
         "TAGS": [
             "keter",
