@@ -10847,5 +10847,29 @@
             "故事",
             "翻譯"
         ]
+    },
+    {
+        "TITLE": "追思：第二樂章",
+        "FULLNAME": "reunion",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "1976年班",
+            "en",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "第二插曲：演奏中",
+        "FULLNAME": "bicentennial",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "1976年班",
+            "en",
+            "故事",
+            "翻譯"
+        ]
     }
 ]
