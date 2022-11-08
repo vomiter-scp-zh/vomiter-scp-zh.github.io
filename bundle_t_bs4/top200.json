@@ -498,6 +498,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-6131 - 遺世孤立",
+        "FULLNAME": "scp-6131",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "所以你想寫一個人形SCP項目",
         "FULLNAME": "so-you-want-to-write-a-humanoid-scp-object",
         "RATING": 12,
@@ -610,12 +616,6 @@
         "FULLNAME": "scp-6009",
         "RATING": 12,
         "COMMENTS": "5"
-    },
-    {
-        "TITLE": "SCP-6131 - 遺世孤立",
-        "FULLNAME": "scp-6131",
-        "RATING": 12,
-        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-500 - 萬靈藥",
