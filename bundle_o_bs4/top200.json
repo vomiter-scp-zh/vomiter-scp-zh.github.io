@@ -846,12 +846,6 @@
         "COMMENTS": "6"
     },
     {
-        "TITLE": "SCP-ZH-220 - H.K.永遠的家",
-        "FULLNAME": "scp-zh-220",
-        "RATING": 20,
-        "COMMENTS": "0"
-    },
-    {
         "TITLE": "SCP-ZH-059 - 無形的奴隸與反抗",
         "FULLNAME": "scp-zh-059",
         "RATING": 20,
@@ -1036,6 +1030,12 @@
         "FULLNAME": "19th-bureau-of-mss-of-china",
         "RATING": 19,
         "COMMENTS": "17"
+    },
+    {
+        "TITLE": "SCP-ZH-220 - H.K.永遠的家",
+        "FULLNAME": "scp-zh-220",
+        "RATING": 19,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-010 - 迷走神經寄生體",
