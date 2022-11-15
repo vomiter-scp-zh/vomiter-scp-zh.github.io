@@ -1529,7 +1529,7 @@
     {
         "TITLE": "回收到的媒體：呂墨菲的冷硬派冒險奇譚",
         "FULLNAME": "recovered-media-the-hard-boiled-adventures-of-murphy-law",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -19815,6 +19815,27 @@
             "故事",
             "無名",
             "翻譯"
+        ]
+    },
+    {
+        "TITLE": "危險迎面而來",
+        "FULLNAME": "in-harm-s-way",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "bowe上將",
+            "bright博士",
+            "en",
+            "gillespie主任",
+            "iris-thompson",
+            "kain-pathos-crow",
+            "light博士",
+            "moose主任",
+            "roget博士",
+            "復生",
+            "故事",
+            "翻譯",
+            "該隱"
         ]
     }
 ]

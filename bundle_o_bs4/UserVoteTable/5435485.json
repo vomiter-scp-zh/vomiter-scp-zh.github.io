@@ -1477,7 +1477,7 @@
     {
         "TITLE": "冰箱",
         "FULLNAME": "fridge",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "ain博士",
@@ -2750,7 +2750,7 @@
     {
         "TITLE": "SCP-ZH-113 - 抹殺事情的真相",
         "FULLNAME": "scp-zh-113",
-        "RATING": 29,
+        "RATING": 30,
         "COMMENTS": "2",
         "TAGS": [
             "2020夏季競賽",
@@ -3882,7 +3882,7 @@
     {
         "TITLE": "表層變動",
         "FULLNAME": "one-of-the-secrets",
-        "RATING": 16,
+        "RATING": 18,
         "COMMENTS": "2",
         "TAGS": [
             "ain博士",
@@ -8156,7 +8156,7 @@
     {
         "TITLE": "殘響",
         "FULLNAME": "reverberate",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "4",
         "TAGS": [
             "clef博士",
@@ -8271,6 +8271,17 @@
         "TAGS": [
             "2022萬聖事件",
             "keter",
+            "scp",
+            "原創"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-590 - 私人茶會時間",
+        "FULLNAME": "scp-zh-590",
+        "RATING": 2,
+        "COMMENTS": "1",
+        "TAGS": [
+            "safe",
             "scp",
             "原創"
         ]

@@ -636,7 +636,7 @@
     {
         "TITLE": "SCP-ZH-113 - 抹殺事情的真相",
         "FULLNAME": "scp-zh-113",
-        "RATING": 29,
+        "RATING": 30,
         "COMMENTS": "2",
         "TAGS": [
             "2020夏季競賽",
@@ -1032,7 +1032,7 @@
     {
         "TITLE": "三色豆戰爭！",
         "FULLNAME": "three-color-bean-war",
-        "RATING": 0,
+        "RATING": -1,
         "COMMENTS": "1",
         "TAGS": [
             "2022萬聖事件",

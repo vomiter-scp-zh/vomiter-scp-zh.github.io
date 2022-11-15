@@ -3496,7 +3496,7 @@
     {
         "TITLE": "殘響",
         "FULLNAME": "reverberate",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "4",
         "TAGS": [
             "clef博士",
@@ -3628,6 +3628,17 @@
             "故事",
             "真紀博士",
             "研究員knave"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-590 - 私人茶會時間",
+        "FULLNAME": "scp-zh-590",
+        "RATING": 2,
+        "COMMENTS": "1",
+        "TAGS": [
+            "safe",
+            "scp",
+            "原創"
         ]
     }
 ]

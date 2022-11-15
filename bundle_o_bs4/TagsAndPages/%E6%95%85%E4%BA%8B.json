@@ -1091,7 +1091,7 @@
     {
         "TITLE": "冰箱",
         "FULLNAME": "fridge",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "ain博士",
@@ -3180,7 +3180,7 @@
     {
         "TITLE": "表層變動",
         "FULLNAME": "one-of-the-secrets",
-        "RATING": 16,
+        "RATING": 18,
         "COMMENTS": "2",
         "TAGS": [
             "ain博士",
@@ -5634,7 +5634,7 @@
     {
         "TITLE": "殘響",
         "FULLNAME": "reverberate",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "4",
         "TAGS": [
             "clef博士",
@@ -5732,7 +5732,7 @@
     {
         "TITLE": "三色豆戰爭！",
         "FULLNAME": "three-color-bean-war",
-        "RATING": 0,
+        "RATING": -1,
         "COMMENTS": "1",
         "TAGS": [
             "2022萬聖事件",

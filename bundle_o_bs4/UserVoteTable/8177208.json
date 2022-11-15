@@ -441,7 +441,7 @@
     {
         "TITLE": "殘響",
         "FULLNAME": "reverberate",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "4",
         "TAGS": [
             "clef博士",
@@ -803,7 +803,7 @@
     {
         "TITLE": "三色豆戰爭！",
         "FULLNAME": "three-color-bean-war",
-        "RATING": 0,
+        "RATING": -1,
         "COMMENTS": "1",
         "TAGS": [
             "2022萬聖事件",

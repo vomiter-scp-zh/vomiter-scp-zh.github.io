@@ -109,7 +109,7 @@
     {
         "TITLE": "三色豆戰爭！",
         "FULLNAME": "three-color-bean-war",
-        "RATING": 0,
+        "RATING": -1,
         "COMMENTS": "1",
         "TAGS": [
             "2022萬聖事件",
@@ -122,7 +122,7 @@
     {
         "TITLE": "你的心又屬於誰？",
         "FULLNAME": "who-does-your-heart-belong-to",
-        "RATING": 7,
+        "RATING": 9,
         "COMMENTS": "1",
         "TAGS": [
             "2022萬聖事件",
