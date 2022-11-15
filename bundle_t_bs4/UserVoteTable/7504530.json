@@ -1720,5 +1720,32 @@
             "故事",
             "翻譯"
         ]
+    },
+    {
+        "TITLE": "與惡魔的交易",
+        "FULLNAME": "deals-with-the-devil",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "gears博士",
+            "light博士",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "即刻行動",
+        "FULLNAME": "immediate-actions",
+        "RATING": 7,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "iris-thompson",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
     }
 ]
