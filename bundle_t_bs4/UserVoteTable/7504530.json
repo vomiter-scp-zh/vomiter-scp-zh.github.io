@@ -1707,5 +1707,18 @@
             "地點",
             "翻譯"
         ]
+    },
+    {
+        "TITLE": "整合計畫",
+        "FULLNAME": "integrity-project",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "aktus主任",
+            "en",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
     }
 ]
