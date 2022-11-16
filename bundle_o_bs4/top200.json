@@ -216,6 +216,12 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "SCP-ZH-496 - 安全極限距離",
+        "FULLNAME": "scp-zh-496",
+        "RATING": 30,
+        "COMMENTS": "7"
+    },
+    {
         "TITLE": "SCP-ZH-053 - 讓我們擦乾你的淚水",
         "FULLNAME": "scp-zh-053",
         "RATING": 29,
@@ -232,12 +238,6 @@
         "FULLNAME": "the-ss-vs-ss",
         "RATING": 29,
         "COMMENTS": "19"
-    },
-    {
-        "TITLE": "SCP-ZH-496 - 安全極限距離",
-        "FULLNAME": "scp-zh-496",
-        "RATING": 29,
-        "COMMENTS": "7"
     },
     {
         "TITLE": "鎖鏈的音竹",
