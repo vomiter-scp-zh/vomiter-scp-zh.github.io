@@ -126,6 +126,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "ROUNDERHOUSE帶你成為王八蛋批評家的非常好官方指南",
+        "FULLNAME": "rounderhouse-critique-guide",
+        "RATING": 19,
+        "COMMENTS": "4"
+    },
+    {
         "TITLE": "SCP-049 - 瘟疫醫生",
         "FULLNAME": "scp-049",
         "RATING": 18,
@@ -148,12 +154,6 @@
         "FULLNAME": "scp-5004",
         "RATING": 18,
         "COMMENTS": "7"
-    },
-    {
-        "TITLE": "ROUNDERHOUSE帶你成為王八蛋批評家的非常好官方指南",
-        "FULLNAME": "rounderhouse-critique-guide",
-        "RATING": 18,
-        "COMMENTS": "4"
     },
     {
         "TITLE": "SCP-3333 - 塔",
@@ -504,6 +504,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "我，一隻在暴雪中摀住鼻子的北極熊",
+        "FULLNAME": "i-a-polar-bear-covering-my-nose-in-a-snowstorm",
+        "RATING": 13,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "所以你想寫一個人形SCP項目",
         "FULLNAME": "so-you-want-to-write-a-humanoid-scp-object",
         "RATING": 12,
@@ -620,12 +626,6 @@
     {
         "TITLE": "SCP-500 - 萬靈藥",
         "FULLNAME": "scp-500",
-        "RATING": 12,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "我，一隻在暴雪中摀住鼻子的北極熊",
-        "FULLNAME": "i-a-polar-bear-covering-my-nose-in-a-snowstorm",
         "RATING": 12,
         "COMMENTS": "0"
     },

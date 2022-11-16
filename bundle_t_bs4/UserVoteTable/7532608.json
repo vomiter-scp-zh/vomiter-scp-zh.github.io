@@ -712,5 +712,29 @@
             "翻譯",
             "音頻"
         ]
+    },
+    {
+        "TITLE": "我，一隻在暴雪中摀住鼻子的北極熊",
+        "FULLNAME": "i-a-polar-bear-covering-my-nose-in-a-snowstorm",
+        "RATING": 13,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "搞笑",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "ROUNDERHOUSE帶你成為王八蛋批評家的非常好官方指南",
+        "FULLNAME": "rounderhouse-critique-guide",
+        "RATING": 19,
+        "COMMENTS": "4",
+        "TAGS": [
+            "en",
+            "心得",
+            "搞笑",
+            "翻譯"
+        ]
     }
 ]
