@@ -762,6 +762,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-ZH-912-J - 大忌",
+        "FULLNAME": "scp-zh-912-j",
+        "RATING": 21,
+        "COMMENTS": "6"
+    },
+    {
         "TITLE": "SCP-ZH-009 - 臺式早點",
         "FULLNAME": "scp-zh-009",
         "RATING": 20,
@@ -838,12 +844,6 @@
         "FULLNAME": "scp-zh-279",
         "RATING": 20,
         "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-ZH-912-J - 大忌",
-        "FULLNAME": "scp-zh-912-j",
-        "RATING": 20,
-        "COMMENTS": "6"
     },
     {
         "TITLE": "SCP-ZH-059 - 無形的奴隸與反抗",

@@ -11748,7 +11748,7 @@
     {
         "TITLE": "SCP-ZH-912-J - 大忌",
         "FULLNAME": "scp-zh-912-j",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "6",
         "TAGS": [
             "2022夏季競賽",
@@ -12168,6 +12168,17 @@
             "渾沌反叛軍",
             "結構物",
             "超維度"
+        ]
+    },
+    {
+        "TITLE": "啼血鳥",
+        "FULLNAME": "flock-of-bloods",
+        "RATING": 1,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022萬聖事件",
+            "原創",
+            "故事"
         ]
     }
 ]
