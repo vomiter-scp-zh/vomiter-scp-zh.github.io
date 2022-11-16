@@ -1038,6 +1038,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "我們之中有個間諜",
+        "FULLNAME": "there-is-a-imposter-among-us",
+        "RATING": 19,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-010 - 迷走神經寄生體",
         "FULLNAME": "scp-zh-010",
         "RATING": 18,
@@ -1192,11 +1198,5 @@
         "FULLNAME": "scp-zh-077",
         "RATING": 18,
         "COMMENTS": "3"
-    },
-    {
-        "TITLE": "2010年的那幾個實習生",
-        "FULLNAME": "source-of-chaos",
-        "RATING": 18,
-        "COMMENTS": "0"
     }
 ]
