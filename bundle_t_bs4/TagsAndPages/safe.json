@@ -6556,5 +6556,20 @@
             "文獻",
             "翻譯"
         ]
+    },
+    {
+        "TITLE": "qntm的提案",
+        "FULLNAME": "qntm-s-proposal",
+        "RATING": 0,
+        "COMMENTS": "0",
+        "TAGS": [
+            "001提案",
+            "en",
+            "safe",
+            "scp",
+            "不可摧毀",
+            "放射性",
+            "翻譯"
+        ]
     }
 ]
