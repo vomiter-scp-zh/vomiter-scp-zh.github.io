@@ -30432,5 +30432,35 @@
             "用戶解密",
             "翻譯"
         ]
+    },
+    {
+        "TITLE": "SCP-1601-JP - 彼曲來援",
+        "FULLNAME": "scp-1601-jp",
+        "RATING": 0,
+        "COMMENTS": "0",
+        "TAGS": [
+            "jp",
+            "safe",
+            "scp",
+            "人造物品",
+            "機械",
+            "翻譯",
+            "音樂性"
+        ]
+    },
+    {
+        "TITLE": "SCP-688-JP - 理想的全家福",
+        "FULLNAME": "scp-688-jp",
+        "RATING": 0,
+        "COMMENTS": "0",
+        "TAGS": [
+            "euclid",
+            "jp",
+            "scp",
+            "地點",
+            "精神影響",
+            "翻譯",
+            "視覺性"
+        ]
     }
 ]
