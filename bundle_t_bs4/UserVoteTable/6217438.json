@@ -5752,5 +5752,16 @@
             "資訊危害",
             "電力"
         ]
+    },
+    {
+        "TITLE": "SCP-4098解密",
+        "FULLNAME": "scp-4098-declassification",
+        "RATING": 1,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "用戶解密",
+            "翻譯"
+        ]
     }
 ]
