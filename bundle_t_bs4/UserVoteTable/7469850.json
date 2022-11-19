@@ -11219,5 +11219,18 @@
             "通訊",
             "電腦"
         ]
+    },
+    {
+        "TITLE": "復生",
+        "FULLNAME": "resurrection",
+        "RATING": 5,
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "中心",
+            "合作",
+            "復生",
+            "翻譯"
+        ]
     }
 ]
