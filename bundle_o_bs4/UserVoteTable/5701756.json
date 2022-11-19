@@ -3983,7 +3983,7 @@
     {
         "TITLE": "歡迎回家",
         "FULLNAME": "fog-house",
-        "RATING": 11,
+        "RATING": 13,
         "COMMENTS": "3",
         "TAGS": [
             "2022萬聖事件",
@@ -3994,12 +3994,38 @@
     {
         "TITLE": "黑色華爾滋",
         "FULLNAME": "pitch-dark-walts",
-        "RATING": 5,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "2022萬聖事件",
             "原創",
             "故事"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-418 - 查無此項目",
+        "FULLNAME": "scp-zh-418",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "ijamea",
+            "scp",
+            "原創",
+            "反常部",
+            "機密分級"
+        ]
+    },
+    {
+        "TITLE": "霖茶",
+        "FULLNAME": "rain-and-tea",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022萬聖事件",
+            "site-zh-12",
+            "原創",
+            "故事",
+            "研究員lucifelle"
         ]
     }
 ]
