@@ -18814,17 +18814,20 @@
         "RATING": 6,
         "COMMENTS": "1",
         "TAGS": [
+            "2022萬聖事件",
             "ijamea",
             "scp",
             "原創",
             "反常部",
+            "屍體",
+            "建築",
             "機密分級"
         ]
     },
     {
         "TITLE": "桂花和洋甘菊",
         "FULLNAME": "tea-rain-halloween2022",
-        "RATING": 9,
+        "RATING": 12,
         "COMMENTS": "1",
         "TAGS": [
             "2022萬聖事件",
@@ -18832,6 +18835,17 @@
             "研究員lucifelle",
             "藝術",
             "藝術作品"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-268 - 心聲",
+        "FULLNAME": "scp-zh-268",
+        "RATING": 3,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022萬聖事件",
+            "thaumiel",
+            "原創"
         ]
     }
 ]
