@@ -384,6 +384,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "What The Fuck",
+        "FULLNAME": "what-the-fuck",
+        "RATING": 25,
+        "COMMENTS": "3"
+    },
+    {
         "TITLE": "神異博覽會一九三五",
         "FULLNAME": "taiwan-miracle-exposition",
         "RATING": 24,
@@ -400,12 +406,6 @@
         "FULLNAME": "super-cooking-pot",
         "RATING": 24,
         "COMMENTS": "10"
-    },
-    {
-        "TITLE": "What The Fuck",
-        "FULLNAME": "what-the-fuck",
-        "RATING": 24,
-        "COMMENTS": "3"
     },
     {
         "TITLE": "SCP-ZH-082 - 小蜜蜂餐車",
