@@ -18794,5 +18794,31 @@
             "原創",
             "故事"
         ]
+    },
+    {
+        "TITLE": "霖茶",
+        "FULLNAME": "rain-and-tea",
+        "RATING": 0,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022萬聖事件",
+            "site-zh-12",
+            "原創",
+            "故事",
+            "研究員lucifelle"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-418 - 查無此項目",
+        "FULLNAME": "scp-zh-418",
+        "RATING": 0,
+        "COMMENTS": "0",
+        "TAGS": [
+            "ijamea",
+            "scp",
+            "原創",
+            "反常部",
+            "機密分級"
+        ]
     }
 ]
