@@ -6547,5 +6547,27 @@
             "藝術",
             "藝術作品"
         ]
+    },
+    {
+        "TITLE": "SCP-ZH-268 - 心聲",
+        "FULLNAME": "scp-zh-268",
+        "RATING": 4,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022萬聖事件",
+            "thaumiel",
+            "原創"
+        ]
+    },
+    {
+        "TITLE": "歡迎回家",
+        "FULLNAME": "fog-house",
+        "RATING": 16,
+        "COMMENTS": "3",
+        "TAGS": [
+            "2022萬聖事件",
+            "原創",
+            "故事"
+        ]
     }
 ]
