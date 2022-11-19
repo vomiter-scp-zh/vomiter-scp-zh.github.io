@@ -888,6 +888,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "我們之中有個間諜",
+        "FULLNAME": "there-is-a-imposter-among-us",
+        "RATING": 20,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP基金會不知道的那些事件",
         "FULLNAME": "ocd-virus01",
         "RATING": 19,
@@ -1036,12 +1042,6 @@
         "FULLNAME": "19th-bureau-of-mss-of-china",
         "RATING": 19,
         "COMMENTS": "17"
-    },
-    {
-        "TITLE": "我們之中有個間諜",
-        "FULLNAME": "there-is-a-imposter-among-us",
-        "RATING": 19,
-        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-010 - 迷走神經寄生體",
