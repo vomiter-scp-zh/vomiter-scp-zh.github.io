@@ -301,5 +301,16 @@
             "用戶解密",
             "翻譯"
         ]
+    },
+    {
+        "TITLE": "SCP-5956解密",
+        "FULLNAME": "scp-5956-declassification",
+        "RATING": 1,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "用戶解密",
+            "翻譯"
+        ]
     }
 ]
