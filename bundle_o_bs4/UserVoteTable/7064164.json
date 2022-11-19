@@ -2525,7 +2525,7 @@
     {
         "TITLE": "你的心又屬於誰？",
         "FULLNAME": "who-does-your-heart-belong-to",
-        "RATING": 13,
+        "RATING": 14,
         "COMMENTS": "1",
         "TAGS": [
             "2022萬聖事件",
@@ -2591,7 +2591,7 @@
     {
         "TITLE": "曹閾蝶",
         "FULLNAME": "artworks",
-        "RATING": 15,
+        "RATING": 16,
         "COMMENTS": "2",
         "TAGS": [
             "2022萬聖事件",
@@ -2618,7 +2618,7 @@
     {
         "TITLE": "歡迎回家",
         "FULLNAME": "fog-house",
-        "RATING": 13,
+        "RATING": 14,
         "COMMENTS": "3",
         "TAGS": [
             "2022萬聖事件",
@@ -2629,14 +2629,25 @@
     {
         "TITLE": "霖茶",
         "FULLNAME": "rain-and-tea",
-        "RATING": 4,
-        "COMMENTS": "0",
+        "RATING": 7,
+        "COMMENTS": "2",
         "TAGS": [
             "2022萬聖事件",
             "site-zh-12",
             "原創",
             "故事",
             "研究員lucifelle"
+        ]
+    },
+    {
+        "TITLE": "黑色華爾滋",
+        "FULLNAME": "pitch-dark-walts",
+        "RATING": 8,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022萬聖事件",
+            "原創",
+            "故事"
         ]
     }
 ]

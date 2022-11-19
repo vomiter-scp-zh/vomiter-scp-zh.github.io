@@ -6453,7 +6453,7 @@
     {
         "TITLE": "你的心又屬於誰？",
         "FULLNAME": "who-does-your-heart-belong-to",
-        "RATING": 13,
+        "RATING": 14,
         "COMMENTS": "1",
         "TAGS": [
             "2022萬聖事件",
@@ -6527,12 +6527,24 @@
     {
         "TITLE": "黑色華爾滋",
         "FULLNAME": "pitch-dark-walts",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "2022萬聖事件",
             "原創",
             "故事"
+        ]
+    },
+    {
+        "TITLE": "桂花和洋甘菊",
+        "FULLNAME": "tea-rain-halloween2022",
+        "RATING": 2,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022萬聖事件",
+            "原創",
+            "藝術",
+            "藝術作品"
         ]
     }
 ]
