@@ -2629,7 +2629,7 @@
     {
         "TITLE": "霖茶",
         "FULLNAME": "rain-and-tea",
-        "RATING": 7,
+        "RATING": 10,
         "COMMENTS": "2",
         "TAGS": [
             "2022萬聖事件",
@@ -2648,6 +2648,19 @@
             "2022萬聖事件",
             "原創",
             "故事"
+        ]
+    },
+    {
+        "TITLE": "桂花和洋甘菊",
+        "FULLNAME": "tea-rain-halloween2022",
+        "RATING": 9,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022萬聖事件",
+            "原創",
+            "研究員lucifelle",
+            "藝術",
+            "藝術作品"
         ]
     }
 ]
