@@ -11409,5 +11409,33 @@
             "原創",
             "藝術作品"
         ]
+    },
+    {
+        "TITLE": "SCP-ZH-418 - 查無此項目",
+        "FULLNAME": "scp-zh-418",
+        "RATING": 8,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022萬聖事件",
+            "ijamea",
+            "scp",
+            "原創",
+            "反常部",
+            "屍體",
+            "建築",
+            "機密分級"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-268 - 心聲",
+        "FULLNAME": "scp-zh-268",
+        "RATING": 6,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022萬聖事件",
+            "scp",
+            "thaumiel",
+            "原創"
+        ]
     }
 ]
