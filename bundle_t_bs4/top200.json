@@ -180,6 +180,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-7999 - 來星星間找我",
+        "FULLNAME": "scp-7999",
+        "RATING": 17,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "SCP-1296 - 打來駱馬",
         "FULLNAME": "scp-1296",
         "RATING": 16,
@@ -208,12 +214,6 @@
         "FULLNAME": "esoteric-classes-complete-list",
         "RATING": 16,
         "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-7999 - 來星星間找我",
-        "FULLNAME": "scp-7999",
-        "RATING": 16,
-        "COMMENTS": "2"
     },
     {
         "TITLE": "更新版記憶消除劑指南",
