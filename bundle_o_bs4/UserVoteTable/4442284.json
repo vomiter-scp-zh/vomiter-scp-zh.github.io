@@ -11437,5 +11437,40 @@
             "thaumiel",
             "原創"
         ]
+    },
+    {
+        "TITLE": "黑色華爾滋",
+        "FULLNAME": "pitch-dark-walts",
+        "RATING": 12,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022萬聖事件",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "霖茶",
+        "FULLNAME": "rain-and-tea",
+        "RATING": 13,
+        "COMMENTS": "3",
+        "TAGS": [
+            "2022萬聖事件",
+            "site-zh-12",
+            "原創",
+            "故事",
+            "研究員lucifelle"
+        ]
+    },
+    {
+        "TITLE": "歡迎回家",
+        "FULLNAME": "fog-house",
+        "RATING": 19,
+        "COMMENTS": "3",
+        "TAGS": [
+            "2022萬聖事件",
+            "原創",
+            "故事"
+        ]
     }
 ]
