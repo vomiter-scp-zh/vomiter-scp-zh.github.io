@@ -909,5 +909,16 @@
             "藝術",
             "藝術作品"
         ]
+    },
+    {
+        "TITLE": "酒單：飛行",
+        "FULLNAME": "aviation",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "site-zh-16",
+            "原創",
+            "故事"
+        ]
     }
 ]
