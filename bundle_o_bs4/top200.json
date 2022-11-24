@@ -894,6 +894,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "SCP-ZH-432 - 更好的你",
+        "FULLNAME": "scp-zh-432",
+        "RATING": 20,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "SCP基金會不知道的那些事件",
         "FULLNAME": "ocd-virus01",
         "RATING": 19,
@@ -976,12 +982,6 @@
         "FULLNAME": "scp-zh-107",
         "RATING": 19,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-432 - 更好的你",
-        "FULLNAME": "scp-zh-432",
-        "RATING": 19,
-        "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-ZH-045 - 萬能胡椒",
