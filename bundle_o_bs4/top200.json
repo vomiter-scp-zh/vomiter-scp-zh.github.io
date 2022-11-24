@@ -324,12 +324,6 @@
         "COMMENTS": "3"
     },
     {
-        "TITLE": "SCP-ZH-096 - 紅移破滅",
-        "FULLNAME": "scp-zh-096",
-        "RATING": 25,
-        "COMMENTS": "2"
-    },
-    {
         "TITLE": "SCP-ZH-993 - 無知則自由",
         "FULLNAME": "scp-zh-993",
         "RATING": 25,
@@ -436,6 +430,12 @@
         "FULLNAME": "project-proposal-2017-47-zh",
         "RATING": 24,
         "COMMENTS": "3"
+    },
+    {
+        "TITLE": "SCP-ZH-096 - 紅移破滅",
+        "FULLNAME": "scp-zh-096",
+        "RATING": 24,
+        "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-ZH-100",
