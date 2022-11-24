@@ -384,6 +384,12 @@
         "COMMENTS": "3"
     },
     {
+        "TITLE": "SCP-ZH-096 - 紅移破滅",
+        "FULLNAME": "scp-zh-096",
+        "RATING": 25,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "神異博覽會一九三五",
         "FULLNAME": "taiwan-miracle-exposition",
         "RATING": 24,
@@ -430,12 +436,6 @@
         "FULLNAME": "project-proposal-2017-47-zh",
         "RATING": 24,
         "COMMENTS": "3"
-    },
-    {
-        "TITLE": "SCP-ZH-096 - 紅移破滅",
-        "FULLNAME": "scp-zh-096",
-        "RATING": 24,
-        "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-ZH-100",
