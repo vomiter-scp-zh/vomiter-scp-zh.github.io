@@ -162,6 +162,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-7999 - 來星星間找我",
+        "FULLNAME": "scp-7999",
+        "RATING": 18,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "Lily的提案",
         "FULLNAME": "lily-s-proposal",
         "RATING": 17,
@@ -178,12 +184,6 @@
         "FULLNAME": "party-of-gods",
         "RATING": 17,
         "COMMENTS": "1"
-    },
-    {
-        "TITLE": "SCP-7999 - 來星星間找我",
-        "FULLNAME": "scp-7999",
-        "RATING": 17,
-        "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-1296 - 打來駱馬",
