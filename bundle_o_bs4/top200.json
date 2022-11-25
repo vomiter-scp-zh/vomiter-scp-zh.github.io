@@ -372,12 +372,6 @@
         "COMMENTS": "4"
     },
     {
-        "TITLE": "挑戰傳統評分方式：關於自訂評分模版",
-        "FULLNAME": "rating-against-traditions",
-        "RATING": 25,
-        "COMMENTS": "0"
-    },
-    {
         "TITLE": "What The Fuck",
         "FULLNAME": "what-the-fuck",
         "RATING": 25,
@@ -388,6 +382,12 @@
         "FULLNAME": "scp-zh-096",
         "RATING": 25,
         "COMMENTS": "2"
+    },
+    {
+        "TITLE": "挑戰傳統評分方式：關於自訂評分模版",
+        "FULLNAME": "rating-against-traditions",
+        "RATING": 25,
+        "COMMENTS": "0"
     },
     {
         "TITLE": "神異博覽會一九三五",
