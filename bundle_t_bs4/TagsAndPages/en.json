@@ -25524,5 +25524,16 @@
             "認知危害",
             "資訊危害"
         ]
+    },
+    {
+        "TITLE": "Atzak I",
+        "FULLNAME": "atzak-i",
+        "RATING": 0,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "故事",
+            "翻譯"
+        ]
     }
 ]
