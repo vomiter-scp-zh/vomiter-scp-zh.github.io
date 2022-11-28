@@ -1056,6 +1056,12 @@
         "COMMENTS": "3"
     },
     {
+        "TITLE": "SCP-ZH-962 - 似是而非",
+        "FULLNAME": "scp-zh-962",
+        "RATING": 19,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "SCP-ZH-010 - 迷走神經寄生體",
         "FULLNAME": "scp-zh-010",
         "RATING": 18,
@@ -1192,11 +1198,5 @@
         "FULLNAME": "disorder-flapdoodle",
         "RATING": 18,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "站點綠化提案",
-        "FULLNAME": "greening",
-        "RATING": 18,
-        "COMMENTS": "1"
     }
 ]
