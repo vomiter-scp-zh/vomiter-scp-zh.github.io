@@ -7850,7 +7850,7 @@
     {
         "TITLE": "SCP-024 - 亡命實境秀",
         "FULLNAME": "scp-024",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -10832,7 +10832,7 @@
     {
         "TITLE": "SCP-4953 - 漢堡王本人",
         "FULLNAME": "scp-4953",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -25529,6 +25529,17 @@
         "TITLE": "Atzak I",
         "FULLNAME": "atzak-i",
         "RATING": 0,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "一切可能為熊的數集合",
+        "FULLNAME": "the-set-of-all-numbers-which-might-be-bears",
+        "RATING": 2,
         "COMMENTS": "0",
         "TAGS": [
             "en",

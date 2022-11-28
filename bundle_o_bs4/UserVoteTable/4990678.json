@@ -171,7 +171,7 @@
     {
         "TITLE": "SCP-ZH-551 - 小石潭記",
         "FULLNAME": "scp-zh-551",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "3",
         "TAGS": [
             "euclid",
@@ -5702,7 +5702,7 @@
     {
         "TITLE": "SCP-ZH-617 - 西方的勇者",
         "FULLNAME": "scp-zh-617",
-        "RATING": 13,
+        "RATING": 14,
         "COMMENTS": "8",
         "TAGS": [
             "euclid",
@@ -12253,6 +12253,17 @@
         "FULLNAME": "aviation",
         "RATING": 12,
         "COMMENTS": "1",
+        "TAGS": [
+            "site-zh-16",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "酒單：波旁威士忌",
+        "FULLNAME": "bourbon-whiskey",
+        "RATING": 5,
+        "COMMENTS": "0",
         "TAGS": [
             "site-zh-16",
             "原創",
