@@ -516,6 +516,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-3002 - 活埋想法的嘗試",
+        "FULLNAME": "scp-3002",
+        "RATING": 13,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "所以你想寫一個人形SCP項目",
         "FULLNAME": "so-you-want-to-write-a-humanoid-scp-object",
         "RATING": 12,
@@ -616,12 +622,6 @@
         "FULLNAME": "interviews-with-prospective-groups-of-interest",
         "RATING": 12,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-3002 - 活埋想法的嘗試",
-        "FULLNAME": "scp-3002",
-        "RATING": 12,
-        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-6009 - 發電廠",
