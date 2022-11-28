@@ -282,6 +282,12 @@
         "COMMENTS": "3"
     },
     {
+        "TITLE": "SCP-ZH-222-J",
+        "FULLNAME": "scp-zh-222-j",
+        "RATING": 27,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-310 - 異常蛋白質結構域",
         "FULLNAME": "scp-zh-310",
         "RATING": 26,
@@ -290,12 +296,6 @@
     {
         "TITLE": "距離世界末日還有五分鐘",
         "FULLNAME": "five-minutes-to-end",
-        "RATING": 26,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-222-J",
-        "FULLNAME": "scp-zh-222-j",
         "RATING": 26,
         "COMMENTS": "0"
     },
