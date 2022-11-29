@@ -1252,5 +1252,31 @@
             "結構物",
             "超維度"
         ]
+    },
+    {
+        "TITLE": "SCP-ZH-244 - 歡迎回家",
+        "FULLNAME": "scp-zh-244",
+        "RATING": 10,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022萬聖事件",
+            "euclid",
+            "scp",
+            "人形",
+            "原創",
+            "敵意",
+            "未收容",
+            "無定形"
+        ]
+    },
+    {
+        "TITLE": "我回來囉",
+        "FULLNAME": "i-m-home",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "原創",
+            "藝術作品"
+        ]
     }
 ]
