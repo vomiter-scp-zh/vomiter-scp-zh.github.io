@@ -5171,12 +5171,26 @@
     {
         "TITLE": "SCP-ZH-699 - 主人！主人！主人！主人！主人！主人！主人！主人！主人！",
         "FULLNAME": "scp-zh-699",
-        "RATING": 2,
+        "RATING": 3,
         "COMMENTS": "0",
         "TAGS": [
             "keter",
             "scp",
             "原創"
+        ]
+    },
+    {
+        "TITLE": "酣夜櫻華 中心頁",
+        "FULLNAME": "site-zh-16-4th-staff-restaurant-hub",
+        "RATING": 3,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022萬聖事件",
+            "site-zh-16",
+            "中心",
+            "原創",
+            "合著",
+            "故事"
         ]
     }
 ]
