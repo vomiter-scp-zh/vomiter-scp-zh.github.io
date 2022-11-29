@@ -18,5 +18,29 @@
             "精神影響",
             "翻譯"
         ]
+    },
+    {
+        "TITLE": "放棄死亡",
+        "FULLNAME": "abandoning-death",
+        "RATING": 10,
+        "COMMENTS": "1",
+        "TAGS": [
+            "jp",
+            "thanatomania",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "夜幕降臨",
+        "FULLNAME": "nightfall-hub",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "中心",
+            "夜幕降臨",
+            "翻譯"
+        ]
     }
 ]

@@ -438,6 +438,12 @@
         "COMMENTS": "3"
     },
     {
+        "TITLE": "聖誕軍演",
+        "FULLNAME": "xmas-exercise",
+        "RATING": 24,
+        "COMMENTS": "7"
+    },
+    {
         "TITLE": "SCP-ZH-100",
         "FULLNAME": "scp-zh-0100",
         "RATING": 23,
@@ -496,12 +502,6 @@
         "FULLNAME": "reverberate-a-s-proposal-1",
         "RATING": 23,
         "COMMENTS": "2"
-    },
-    {
-        "TITLE": "聖誕軍演",
-        "FULLNAME": "xmas-exercise",
-        "RATING": 23,
-        "COMMENTS": "7"
     },
     {
         "TITLE": "SCP-ZH-587-J",
