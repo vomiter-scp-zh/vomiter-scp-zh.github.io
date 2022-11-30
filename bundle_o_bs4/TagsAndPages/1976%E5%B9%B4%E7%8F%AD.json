@@ -3,7 +3,7 @@
         "TAGNAME": "1976年班"
     },
     {
-        "TITLE": "SCP-ZH-259",
+        "TITLE": "SCP-ZH-259 - 人去餅空",
         "FULLNAME": "scp-zh-259",
         "RATING": 11,
         "COMMENTS": "0",
@@ -40,7 +40,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-076",
+        "TITLE": "SCP-ZH-076 - 廿載明昭",
         "FULLNAME": "scp-zh-076",
         "RATING": 4,
         "COMMENTS": "2",
@@ -52,13 +52,13 @@
             "原創",
             "張道士",
             "文獻",
-            "認知影響"
+            "觀察影響"
         ]
     },
     {
         "TITLE": "藝術紀錄：校外教學。",
         "FULLNAME": "art-for-2316",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "0",
         "TAGS": [
             "1976年班",

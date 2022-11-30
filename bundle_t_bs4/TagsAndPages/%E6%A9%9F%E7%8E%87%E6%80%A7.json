@@ -220,7 +220,7 @@
     {
         "TITLE": "SCP-1425 - 星星信號",
         "FULLNAME": "scp-1425",
-        "RATING": 4,
+        "RATING": 3,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -347,7 +347,7 @@
     {
         "TITLE": "SCP-7333 - 經商蜥蜴",
         "FULLNAME": "scp-7333",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -425,7 +425,7 @@
     {
         "TITLE": "SCP-7777 - 懼七症",
         "FULLNAME": "scp-7777",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "bold主任",
@@ -463,7 +463,7 @@
     {
         "TITLE": "SCP-7000 - 輸家",
         "FULLNAME": "scp-7000",
-        "RATING": 17,
+        "RATING": 19,
         "COMMENTS": "1",
         "TAGS": [
             "blank博士",
@@ -487,7 +487,7 @@
     {
         "TITLE": "SCP-7001 - Site-19",
         "FULLNAME": "scp-7001",
-        "RATING": 6,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "asheworth博士",
@@ -516,7 +516,7 @@
     {
         "TITLE": "SCP-7025 - 你將死於公車",
         "FULLNAME": "scp-7025",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -531,7 +531,7 @@
     {
         "TITLE": "SCP-7052 - 菊中匙",
         "FULLNAME": "scp-7052",
-        "RATING": 6,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -543,6 +543,35 @@
             "機率性",
             "翻譯",
             "自我修復"
+        ]
+    },
+    {
+        "TITLE": "SCP-661-J",
+        "FULLNAME": "scp-661-j",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "搞笑",
+            "機率性",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-7166 - 雷擊不貳",
+        "FULLNAME": "scp-7166",
+        "RATING": 5,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "en-7000",
+            "scp",
+            "已解明",
+            "機率性",
+            "氣象",
+            "翻譯"
         ]
     }
 ]

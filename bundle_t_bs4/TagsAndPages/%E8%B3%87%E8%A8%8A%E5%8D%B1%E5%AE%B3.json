@@ -137,7 +137,7 @@
     {
         "TITLE": "SCP-426 - 我是一臺烤吐司機",
         "FULLNAME": "scp-426",
-        "RATING": 8,
+        "RATING": 9,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -186,7 +186,7 @@
     {
         "TITLE": "SCP-2998 - 異常傳播訊號，2485MHz",
         "FULLNAME": "scp-2998",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -335,7 +335,7 @@
         ]
     },
     {
-        "TITLE": "［基於協議4000-Eshu而被限制］",
+        "TITLE": "［基於協議4000-Eshu而受限制］",
         "FULLNAME": "taboo",
         "RATING": 11,
         "COMMENTS": "4",
@@ -393,7 +393,7 @@
     {
         "TITLE": "SC嗚喔喔啊啊啊啊啊啊啊啊-JP-J",
         "FULLNAME": "scpaaaaaaaaaaaaaaaaaa-jp-j",
-        "RATING": 25,
+        "RATING": 26,
         "COMMENTS": "1",
         "TAGS": [
             "jp",
@@ -511,7 +511,7 @@
     {
         "TITLE": "SCP-3002 - 活埋想法的嘗試",
         "FULLNAME": "scp-3002",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -637,7 +637,7 @@
         "TITLE": "SCP-3908 - SCP-3908",
         "FULLNAME": "scp-3908",
         "RATING": 7,
-        "COMMENTS": "1",
+        "COMMENTS": "2",
         "TAGS": [
             "en",
             "euclid",
@@ -688,7 +688,7 @@
     {
         "TITLE": "SCP-6131 - 遺世孤立",
         "FULLNAME": "scp-6131",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -833,7 +833,7 @@
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
         "FULLNAME": "scp-6820",
-        "RATING": 13,
+        "RATING": 14,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -867,7 +867,7 @@
     {
         "TITLE": "SCP-001",
         "FULLNAME": "scp-4380",
-        "RATING": 10,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -884,6 +884,76 @@
             "誤傳部",
             "資訊危害",
             "逆模因"
+        ]
+    },
+    {
+        "TITLE": "SCP-3733 - 其他所有人",
+        "FULLNAME": "scp-3733",
+        "RATING": 6,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "未收容",
+            "神經性",
+            "翻譯",
+            "資訊危害"
+        ]
+    },
+    {
+        "TITLE": "SCP-7348 - 根本沒啥",
+        "FULLNAME": "scp-7348",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "meta",
+            "scp",
+            "模因效應",
+            "機密分級",
+            "翻譯",
+            "資訊危害"
+        ]
+    },
+    {
+        "TITLE": "SCP-4098 - S-C-P，視詞篇順暢排19-3-16",
+        "FULLNAME": "scp-4098",
+        "RATING": 10,
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "scp",
+            "thaumiel",
+            "合著",
+            "基金會製造",
+            "建築物",
+            "模因效應",
+            "翻譯",
+            "視覺性",
+            "認知危害",
+            "誤傳部",
+            "資訊危害"
+        ]
+    },
+    {
+        "TITLE": "SCP-7510 - 牆裡沒有任何東西。",
+        "FULLNAME": "scp-7510",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "meta",
+            "scp",
+            "地點",
+            "宗教",
+            "寄生性",
+            "概念",
+            "機密分級",
+            "生物性",
+            "翻譯",
+            "認知危害",
+            "資訊危害"
         ]
     }
 ]

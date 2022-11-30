@@ -3,7 +3,7 @@
         "TAGNAME": "吳昕博士"
     },
     {
-        "TITLE": "SCP-ZH-047",
+        "TITLE": "SCP-ZH-047 - 你的所作所為",
         "FULLNAME": "scp-zh-047",
         "RATING": 12,
         "COMMENTS": "3",
@@ -60,7 +60,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-289",
+        "TITLE": "SCP-ZH-289 - 17^2",
         "FULLNAME": "scp-zh-289",
         "RATING": 15,
         "COMMENTS": "4",
@@ -86,9 +86,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-111",
+        "TITLE": "SCP-ZH-111 - 自我中心",
         "FULLNAME": "scp-zh-111",
-        "RATING": 34,
+        "RATING": 38,
         "COMMENTS": "0",
         "TAGS": [
             "keter",
@@ -111,7 +111,7 @@
     {
         "TITLE": "殺死一隻知更鳥。",
         "FULLNAME": "it-was-not-my-fault",
-        "RATING": 21,
+        "RATING": 22,
         "COMMENTS": "2",
         "TAGS": [
             "原創",

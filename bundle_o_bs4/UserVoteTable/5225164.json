@@ -1,6 +1,6 @@
 [
     {
-        "TITLE": "SCP-ZH-255",
+        "TITLE": "SCP-ZH-255 - 賓尼費的最後庇護所",
         "FULLNAME": "scp-zh-255",
         "RATING": 22,
         "COMMENTS": "5",
@@ -34,7 +34,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-811",
+        "TITLE": "SCP-ZH-811 - 南中學堂",
         "FULLNAME": "scp-zh-811",
         "RATING": 10,
         "COMMENTS": "6",
@@ -62,9 +62,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-439",
+        "TITLE": "SCP-ZH-439 - 嵌合機車",
         "FULLNAME": "scp-zh-439",
-        "RATING": 3,
+        "RATING": 2,
         "COMMENTS": "1",
         "TAGS": [
             "safe",
@@ -86,7 +86,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-127",
+        "TITLE": "SCP-ZH-127 - 巫毒棉花糖",
         "FULLNAME": "scp-zh-127",
         "RATING": 12,
         "COMMENTS": "0",
@@ -99,7 +99,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-372",
+        "TITLE": "SCP-ZH-372 - 黑體群",
         "FULLNAME": "scp-zh-372",
         "RATING": 15,
         "COMMENTS": "9",
@@ -114,7 +114,7 @@
     {
         "TITLE": "SCP-ZH-222-J",
         "FULLNAME": "scp-zh-222-j",
-        "RATING": 24,
+        "RATING": 27,
         "COMMENTS": "0",
         "TAGS": [
             "scp",
@@ -193,7 +193,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-583",
+        "TITLE": "SCP-ZH-583 - 壯烈成仁",
         "FULLNAME": "scp-zh-583",
         "RATING": 12,
         "COMMENTS": "6",
@@ -208,7 +208,7 @@
     {
         "TITLE": "挑戰傳統評分方式：關於自訂評分模版",
         "FULLNAME": "rating-against-traditions",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "0",
         "TAGS": [
             "原創",
@@ -228,7 +228,7 @@
     {
         "TITLE": "SCP-ZH-515 - 平安符",
         "FULLNAME": "scp-zh-515",
-        "RATING": 43,
+        "RATING": 44,
         "COMMENTS": "2",
         "TAGS": [
             "2019暑期比賽",
@@ -256,7 +256,7 @@
     {
         "TITLE": "三生有幸",
         "FULLNAME": "third-life",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "0",
         "TAGS": [
             "reverberate博士",

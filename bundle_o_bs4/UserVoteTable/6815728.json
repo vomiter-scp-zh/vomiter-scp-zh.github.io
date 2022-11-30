@@ -1,6 +1,6 @@
 [
     {
-        "TITLE": "SCP-ZH-025",
+        "TITLE": "SCP-ZH-025 - 雪花小貓咪",
         "FULLNAME": "scp-zh-025",
         "RATING": 16,
         "COMMENTS": "2",
@@ -19,7 +19,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-167",
+        "TITLE": "SCP-ZH-167 - 痛徹心扉選三門",
         "FULLNAME": "scp-zh-167",
         "RATING": 12,
         "COMMENTS": "0",
@@ -35,7 +35,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-222",
+        "TITLE": "SCP-ZH-222 - 月球上的超音波喵❤",
         "FULLNAME": "scp-zh-222",
         "RATING": 13,
         "COMMENTS": "2",
@@ -57,9 +57,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-111",
+        "TITLE": "SCP-ZH-111 - 自我中心",
         "FULLNAME": "scp-zh-111",
-        "RATING": 34,
+        "RATING": 38,
         "COMMENTS": "0",
         "TAGS": [
             "keter",
@@ -95,7 +95,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-878",
+        "TITLE": "SCP-ZH-878 - 娃娃收集者",
         "FULLNAME": "scp-zh-878",
         "RATING": 20,
         "COMMENTS": "0",
@@ -116,7 +116,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-224",
+        "TITLE": "SCP-ZH-224 - 一盒雞蛋",
         "FULLNAME": "scp-zh-224",
         "RATING": 8,
         "COMMENTS": "3",
@@ -131,7 +131,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-146",
+        "TITLE": "SCP-ZH-146 - 破鏡永無重圓之日",
         "FULLNAME": "scp-zh-146",
         "RATING": 9,
         "COMMENTS": "2",
@@ -147,7 +147,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-322",
+        "TITLE": "SCP-ZH-322 - 無水之杯",
         "FULLNAME": "scp-zh-322",
         "RATING": 12,
         "COMMENTS": "2",
@@ -162,7 +162,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-198",
+        "TITLE": "SCP-ZH-198 - 囚蜂",
         "FULLNAME": "scp-zh-198",
         "RATING": 3,
         "COMMENTS": "15",
@@ -179,7 +179,7 @@
     {
         "TITLE": "SCP-ZH-057 - 暴躁小行星",
         "FULLNAME": "scp-zh-057",
-        "RATING": 18,
+        "RATING": 19,
         "COMMENTS": "4",
         "TAGS": [
             "scp",

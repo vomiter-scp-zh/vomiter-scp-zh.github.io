@@ -3,7 +3,7 @@
         "TAGNAME": "眼睛"
     },
     {
-        "TITLE": "SCP-ZH-832",
+        "TITLE": "SCP-ZH-832 - 回溫",
         "FULLNAME": "scp-zh-832",
         "RATING": 10,
         "COMMENTS": "3",
@@ -21,6 +21,21 @@
             "精神影響",
             "自主",
             "自我修復"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-712 - 超高速閱讀眼鏡",
+        "FULLNAME": "scp-zh-712",
+        "RATING": 15,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "safe",
+            "scp",
+            "site-zh-25",
+            "原創",
+            "工具",
+            "眼睛"
         ]
     }
 ]

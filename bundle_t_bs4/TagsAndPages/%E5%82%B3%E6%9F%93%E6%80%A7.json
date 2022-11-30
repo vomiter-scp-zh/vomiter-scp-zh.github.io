@@ -165,8 +165,8 @@
     {
         "TITLE": "SCP-001-EX-J",
         "FULLNAME": "scp-001-ex-j",
-        "RATING": 11,
-        "COMMENTS": "1",
+        "RATING": 12,
+        "COMMENTS": "2",
         "TAGS": [
             "en",
             "scp",
@@ -284,7 +284,7 @@
     {
         "TITLE": "SCP-3396 - 至高天境寄生體",
         "FULLNAME": "scp-3396",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -311,7 +311,7 @@
     {
         "TITLE": "SCP-3980 - 盲者相領",
         "FULLNAME": "scp-3980",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -331,7 +331,7 @@
     {
         "TITLE": "SCP-3731 - 常態將受到保護",
         "FULLNAME": "scp-3731",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -394,7 +394,7 @@
     {
         "TITLE": "SCP-059 - 放射性礦物",
         "FULLNAME": "scp-059",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -509,6 +509,24 @@
             "蜂巢思維",
             "變形",
             "骨骼"
+        ]
+    },
+    {
+        "TITLE": "SCP-020 - 隱形黴菌",
+        "FULLNAME": "scp-020",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "傳染性",
+            "感知影響",
+            "活物",
+            "生物危害",
+            "真菌",
+            "精神影響",
+            "翻譯"
         ]
     }
 ]

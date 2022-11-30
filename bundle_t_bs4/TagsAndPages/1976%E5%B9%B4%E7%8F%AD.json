@@ -26,7 +26,7 @@
     {
         "TITLE": "SCP-1833 - 班級76",
         "FULLNAME": "scp-1833",
-        "RATING": 2,
+        "RATING": 3,
         "COMMENTS": "0",
         "TAGS": [
             "1976年班",
@@ -62,7 +62,7 @@
     {
         "TITLE": "追思",
         "FULLNAME": "remembrance",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "0",
         "TAGS": [
             "1976年班",
@@ -74,7 +74,7 @@
     {
         "TITLE": "序曲：預備鈴",
         "FULLNAME": "days-gone-by",
-        "RATING": 7,
+        "RATING": 9,
         "COMMENTS": "0",
         "TAGS": [
             "1976年班",
@@ -188,7 +188,7 @@
     {
         "TITLE": "SCP-3935 - 此處靜謐瘋狂",
         "FULLNAME": "scp-3935",
-        "RATING": 3,
+        "RATING": 5,
         "COMMENTS": "4",
         "TAGS": [
             "1976年班",
@@ -225,6 +225,79 @@
             "聽覺影響",
             "認知危害",
             "音樂性"
+        ]
+    },
+    {
+        "TITLE": "追思：第一樂章",
+        "FULLNAME": "in-symphony",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "1976年班",
+            "en",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "第一插曲：老學校",
+        "FULLNAME": "lonwood",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "1976年班",
+            "en",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "追思：第二樂章",
+        "FULLNAME": "reunion",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "1976年班",
+            "en",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "第二插曲：演奏中",
+        "FULLNAME": "bicentennial",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "1976年班",
+            "en",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "追思：第三樂章",
+        "FULLNAME": "the-year-that-it-was",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "1976年班",
+            "en",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "終曲：遺言",
+        "FULLNAME": "looking-back",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "1976年班",
+            "en",
+            "合著",
+            "故事",
+            "翻譯"
         ]
     }
 ]

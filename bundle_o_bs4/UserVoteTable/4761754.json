@@ -1,6 +1,6 @@
 [
     {
-        "TITLE": "SCP-ZH-017",
+        "TITLE": "SCP-ZH-017 - 永衡國入境申請表",
         "FULLNAME": "scp-zh-017",
         "RATING": 19,
         "COMMENTS": "1",
@@ -15,9 +15,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-003",
+        "TITLE": "SCP-ZH-003 - 極端式信仰",
         "FULLNAME": "scp-zh-003",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "4",
         "TAGS": [
             "euclid",
@@ -28,7 +28,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-882",
+        "TITLE": "SCP-ZH-882 - 超猛召喚大全",
         "FULLNAME": "scp-zh-882",
         "RATING": 13,
         "COMMENTS": "1",
@@ -40,7 +40,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-582",
+        "TITLE": "SCP-ZH-582 - 世上最討人喜愛的不明生物",
         "FULLNAME": "scp-zh-582",
         "RATING": 15,
         "COMMENTS": "0",
@@ -54,9 +54,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-005",
+        "TITLE": "SCP-ZH-005 - 假如你沒有轉發這篇文檔給十個朋友，那麼…………",
         "FULLNAME": "scp-zh-005",
-        "RATING": 60,
+        "RATING": 61,
         "COMMENTS": "0",
         "TAGS": [
             "keter",
@@ -67,7 +67,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-815",
+        "TITLE": "SCP-ZH-815 - 一家烤肉萬家香",
         "FULLNAME": "scp-zh-815",
         "RATING": 35,
         "COMMENTS": "8",
@@ -104,7 +104,7 @@
     {
         "TITLE": "SCP-ZH-002 - 台灣獨角獸",
         "FULLNAME": "scp-zh-002",
-        "RATING": 36,
+        "RATING": 37,
         "COMMENTS": "13",
         "TAGS": [
             "keter",
@@ -151,9 +151,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-101",
+        "TITLE": "SCP-ZH-101 - 一樹一世界",
         "FULLNAME": "scp-zh-101",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "1",
         "TAGS": [
             "keter",
@@ -165,7 +165,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-289",
+        "TITLE": "SCP-ZH-289 - 17^2",
         "FULLNAME": "scp-zh-289",
         "RATING": 15,
         "COMMENTS": "4",
@@ -179,9 +179,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-113",
+        "TITLE": "SCP-ZH-113 - 抹殺事情的真相",
         "FULLNAME": "scp-zh-113",
-        "RATING": 28,
+        "RATING": 30,
         "COMMENTS": "2",
         "TAGS": [
             "2020夏季競賽",
@@ -199,7 +199,7 @@
     {
         "TITLE": "SCP-ZH-717 - 課堂中請勿伸出附肢",
         "FULLNAME": "scp-zh-717",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "0",
         "TAGS": [
             "2020夏季競賽",
@@ -220,7 +220,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-060",
+        "TITLE": "SCP-ZH-060 - 鹿路隧道",
         "FULLNAME": "scp-zh-060",
         "RATING": 21,
         "COMMENTS": "1",
@@ -238,7 +238,7 @@
     {
         "TITLE": "收容室ZH-S12-E-024實驗紀錄",
         "FULLNAME": "scp-zh-024",
-        "RATING": 33,
+        "RATING": 34,
         "COMMENTS": "0",
         "TAGS": [
             "euclid",
@@ -254,7 +254,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-500",
+        "TITLE": "SCP-ZH-500 - 護城界門",
         "FULLNAME": "scp-zh-500",
         "RATING": 8,
         "COMMENTS": "0",
@@ -285,7 +285,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-023",
+        "TITLE": "SCP-ZH-023 - 末狀記憶",
         "FULLNAME": "scp-zh-023",
         "RATING": 11,
         "COMMENTS": "1",
@@ -302,7 +302,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-526",
+        "TITLE": "SCP-ZH-526 - 我就是一台烤土司機",
         "FULLNAME": "scp-zh-526",
         "RATING": 19,
         "COMMENTS": "1",
@@ -339,7 +339,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-140",
+        "TITLE": "SCP-ZH-140 - 字義相悖",
         "FULLNAME": "scp-zh-140",
         "RATING": 20,
         "COMMENTS": "7",
@@ -358,7 +358,7 @@
     {
         "TITLE": "SCP-ZH-2005-EX",
         "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 56,
+        "RATING": 58,
         "COMMENTS": "1",
         "TAGS": [
             "2021冬季競賽",
@@ -373,7 +373,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-197",
+        "TITLE": "SCP-ZH-197 - 樂群湖水怪",
         "FULLNAME": "scp-zh-197",
         "RATING": 9,
         "COMMENTS": "3",

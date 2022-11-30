@@ -151,7 +151,7 @@
     {
         "TITLE": "SCP-024 - 亡命實境秀",
         "FULLNAME": "scp-024",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -594,7 +594,7 @@
     {
         "TITLE": "SCP-6765 - 惡魔奧吉爾與瑪利德拉格血之王座",
         "FULLNAME": "scp-6765",
-        "RATING": 8,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -627,7 +627,7 @@
     {
         "TITLE": "SCP-7440 - 無名碉堡",
         "FULLNAME": "scp-7440",
-        "RATING": 2,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -636,6 +636,43 @@
             "時空",
             "本質促動",
             "無名",
+            "結構物",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-188-KO - 地球的心臟",
+        "FULLNAME": "scp-188-ko",
+        "RATING": 4,
+        "COMMENTS": "1",
+        "TAGS": [
+            "keter",
+            "ko",
+            "k級情景",
+            "scp",
+            "不可摧毀",
+            "二次翻譯",
+            "機械",
+            "結構物",
+            "翻譯",
+            "重力",
+            "金屬"
+        ]
+    },
+    {
+        "TITLE": "SCP-2932 - 緹坦妮雅之牢",
+        "FULLNAME": "scp-2932",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "scp",
+            "thaumiel",
+            "不可摧毀",
+            "地下",
+            "夜之子",
+            "植物",
+            "活物",
             "結構物",
             "翻譯"
         ]

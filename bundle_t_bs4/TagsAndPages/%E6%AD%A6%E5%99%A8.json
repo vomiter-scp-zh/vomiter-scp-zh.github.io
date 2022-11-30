@@ -36,7 +36,7 @@
     {
         "TITLE": "SCP-50-AE-J",
         "FULLNAME": "scp-50-ae-j",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -587,7 +587,7 @@
     {
         "TITLE": "SCP-4176 - 稅金",
         "FULLNAME": "scp-4176",
-        "RATING": 2,
+        "RATING": 3,
         "COMMENTS": "0",
         "TAGS": [
             "dado",
@@ -598,6 +598,21 @@
             "武器",
             "翻譯",
             "貨幣"
+        ]
+    },
+    {
+        "TITLE": "SCP-6572 - 斬萬物之劍",
+        "FULLNAME": "scp-6572",
+        "RATING": 6,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "mc&d",
+            "scp",
+            "未收容",
+            "武器",
+            "無效化",
+            "翻譯"
         ]
     }
 ]

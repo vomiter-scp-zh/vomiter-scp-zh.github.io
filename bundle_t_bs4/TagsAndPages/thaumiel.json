@@ -95,7 +95,7 @@
     {
         "TITLE": "SCP-3936 - 一如預期般運作",
         "FULLNAME": "scp-3936",
-        "RATING": 15,
+        "RATING": 16,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -617,7 +617,7 @@
     {
         "TITLE": "SCP-6781 - Site-7：遺產",
         "FULLNAME": "scp-6781",
-        "RATING": 8,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -648,7 +648,7 @@
     {
         "TITLE": "SCP-6355 - 扼殺禮義之咽喉",
         "FULLNAME": "scp-6355",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -666,7 +666,7 @@
     {
         "TITLE": "SCP-6938 - Alex Thorley得到一匹禮物馬",
         "FULLNAME": "scp-6938",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -678,6 +678,86 @@
             "敘述性",
             "翻譯",
             "非現實部"
+        ]
+    },
+    {
+        "TITLE": "SCP-6871 - 轉眼之間",
+        "FULLNAME": "scp-6871",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "bright博士",
+            "dc-al-fine",
+            "en",
+            "scp",
+            "thaumiel",
+            "the-administrator",
+            "不滅孽蜥",
+            "儀式性",
+            "全球超自然聯盟",
+            "夜之子",
+            "大術士伊仰",
+            "悖論",
+            "時間影響",
+            "未曾建立",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-4098 - S-C-P，視詞篇順暢排19-3-16",
+        "FULLNAME": "scp-4098",
+        "RATING": 10,
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "scp",
+            "thaumiel",
+            "合著",
+            "基金會製造",
+            "建築物",
+            "模因效應",
+            "翻譯",
+            "視覺性",
+            "認知危害",
+            "誤傳部",
+            "資訊危害"
+        ]
+    },
+    {
+        "TITLE": "SCP-2932 - 緹坦妮雅之牢",
+        "FULLNAME": "scp-2932",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "scp",
+            "thaumiel",
+            "不可摧毀",
+            "地下",
+            "夜之子",
+            "植物",
+            "活物",
+            "結構物",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-2140 - 逆溯轉換子",
+        "FULLNAME": "scp-2140",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "en-短文競賽2015",
+            "scp",
+            "thaumiel",
+            "倫理委員會",
+            "基金會製造",
+            "歷史性",
+            "殆瓦",
+            "翻譯",
+            "視覺性",
+            "銘文"
         ]
     }
 ]

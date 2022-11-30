@@ -5,7 +5,7 @@
     {
         "TITLE": "SCP-2911-JP - 美國最漫長的一天",
         "FULLNAME": "scp-2911-jp",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "2",
         "TAGS": [
             "1998年",
@@ -79,7 +79,7 @@
     {
         "TITLE": "SCP-4231 - 蒙托克之屋",
         "FULLNAME": "scp-4231",
-        "RATING": 10,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "clef博士",
@@ -95,6 +95,29 @@
             "猩紅之王",
             "翻譯",
             "超維度"
+        ]
+    },
+    {
+        "TITLE": "SCP-6871 - 轉眼之間",
+        "FULLNAME": "scp-6871",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "bright博士",
+            "dc-al-fine",
+            "en",
+            "scp",
+            "thaumiel",
+            "the-administrator",
+            "不滅孽蜥",
+            "儀式性",
+            "全球超自然聯盟",
+            "夜之子",
+            "大術士伊仰",
+            "悖論",
+            "時間影響",
+            "未曾建立",
+            "翻譯"
         ]
     }
 ]

@@ -1,8 +1,8 @@
 [
     {
-        "TITLE": "SCP-ZH-018",
+        "TITLE": "SCP-ZH-018 - 繼承之照",
         "FULLNAME": "scp-zh-018",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "2",
         "TAGS": [
             "euclid",
@@ -15,7 +15,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-401",
+        "TITLE": "SCP-ZH-401 - 色鉛筆",
         "FULLNAME": "scp-zh-401",
         "RATING": 9,
         "COMMENTS": "2",
@@ -27,9 +27,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-003",
+        "TITLE": "SCP-ZH-003 - 極端式信仰",
         "FULLNAME": "scp-zh-003",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "4",
         "TAGS": [
             "euclid",
@@ -40,7 +40,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-618",
+        "TITLE": "SCP-ZH-618 - 太陽餅獅",
         "FULLNAME": "scp-zh-618",
         "RATING": 41,
         "COMMENTS": "0",
@@ -55,7 +55,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-888",
+        "TITLE": "SCP-ZH-888 - 霾",
         "FULLNAME": "scp-zh-888",
         "RATING": 19,
         "COMMENTS": "1",
@@ -75,7 +75,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-020",
+        "TITLE": "SCP-ZH-020 - 百事可樂薯",
         "FULLNAME": "scp-zh-020",
         "RATING": 13,
         "COMMENTS": "5",
@@ -89,9 +89,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-005",
+        "TITLE": "SCP-ZH-005 - 假如你沒有轉發這篇文檔給十個朋友，那麼…………",
         "FULLNAME": "scp-zh-005",
-        "RATING": 60,
+        "RATING": 61,
         "COMMENTS": "0",
         "TAGS": [
             "keter",
@@ -102,7 +102,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-045",
+        "TITLE": "SCP-ZH-045 - 萬能胡椒",
         "FULLNAME": "scp-zh-045",
         "RATING": 19,
         "COMMENTS": "0",

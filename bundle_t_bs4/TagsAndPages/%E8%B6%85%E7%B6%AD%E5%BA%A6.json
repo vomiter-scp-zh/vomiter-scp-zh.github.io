@@ -99,7 +99,7 @@
     {
         "TITLE": "SCP-50-AE-J",
         "FULLNAME": "scp-50-ae-j",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -204,7 +204,7 @@
     {
         "TITLE": "SCP-2317 - 前往彼界之門",
         "FULLNAME": "scp-2317",
-        "RATING": 11,
+        "RATING": 14,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -308,7 +308,7 @@
     {
         "TITLE": "Scantron的提案",
         "FULLNAME": "scantron-s-proposal",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "1",
         "TAGS": [
             "001提案",
@@ -344,7 +344,7 @@
     {
         "TITLE": "SCP-2911-JP - 美國最漫長的一天",
         "FULLNAME": "scp-2911-jp",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "2",
         "TAGS": [
             "1998年",
@@ -435,7 +435,7 @@
         ]
     },
     {
-        "TITLE": "［基於協議4000-Eshu而被限制］",
+        "TITLE": "［基於協議4000-Eshu而受限制］",
         "FULLNAME": "taboo",
         "RATING": 11,
         "COMMENTS": "4",
@@ -460,7 +460,7 @@
     {
         "TITLE": "SCP-4953 - 漢堡王本人",
         "FULLNAME": "scp-4953",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -487,7 +487,6 @@
             "jp",
             "k級情景",
             "scp",
-            "儀式",
             "儀式性",
             "全球超自然聯盟",
             "動物",
@@ -642,7 +641,7 @@
     {
         "TITLE": "SCP-3001 - 紅色現實",
         "FULLNAME": "scp-3001",
-        "RATING": 16,
+        "RATING": 19,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -811,7 +810,7 @@
     {
         "TITLE": "SCP-3935 - 此處靜謐瘋狂",
         "FULLNAME": "scp-3935",
-        "RATING": 3,
+        "RATING": 5,
         "COMMENTS": "4",
         "TAGS": [
             "1976年班",
@@ -949,9 +948,9 @@
             "en-6000",
             "gears博士",
             "scp",
+            "待分級",
             "植物",
             "樹木",
-            "機密分級",
             "熵",
             "知識",
             "翻譯",
@@ -1172,7 +1171,7 @@
     {
         "TITLE": "SCP-059 - 放射性礦物",
         "FULLNAME": "scp-059",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1365,7 +1364,7 @@
     {
         "TITLE": "SCP-3333 - 塔",
         "FULLNAME": "scp-3333",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1412,7 +1411,7 @@
     {
         "TITLE": "SCP-7666 - 陰間維加斯講座：莊家會輸",
         "FULLNAME": "scp-7666",
-        "RATING": 11,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1428,7 +1427,7 @@
     {
         "TITLE": "SCP-7290 - 地獄子彈",
         "FULLNAME": "scp-7290",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1444,7 +1443,7 @@
     {
         "TITLE": "SCP-4231 - 蒙托克之屋",
         "FULLNAME": "scp-4231",
-        "RATING": 10,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "clef博士",
@@ -1465,7 +1464,7 @@
     {
         "TITLE": "SCP-850 - 魚群",
         "FULLNAME": "scp-850",
-        "RATING": 3,
+        "RATING": 5,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1476,6 +1475,21 @@
             "翻譯",
             "超維度",
             "魚類"
+        ]
+    },
+    {
+        "TITLE": "SCP-4141 - 《你：實時自傳》",
+        "FULLNAME": "scp-4141",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "awcy",
+            "en",
+            "safe",
+            "scp",
+            "建築物",
+            "翻譯",
+            "超維度"
         ]
     }
 ]

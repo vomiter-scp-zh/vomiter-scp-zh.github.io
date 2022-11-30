@@ -12,7 +12,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-080",
+        "TITLE": "SCP-ZH-080 - 痘痘龍",
         "FULLNAME": "scp-zh-080",
         "RATING": 10,
         "COMMENTS": "0",
@@ -57,7 +57,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-815",
+        "TITLE": "SCP-ZH-815 - 一家烤肉萬家香",
         "FULLNAME": "scp-zh-815",
         "RATING": 35,
         "COMMENTS": "8",
@@ -72,7 +72,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-217",
+        "TITLE": "SCP-ZH-217 - 與過去相伴的稻草人",
         "FULLNAME": "scp-zh-217",
         "RATING": 10,
         "COMMENTS": "0",
@@ -120,7 +120,7 @@
     {
         "TITLE": "冰箱",
         "FULLNAME": "fridge",
-        "RATING": 11,
+        "RATING": 15,
         "COMMENTS": "0",
         "TAGS": [
             "ain博士",
@@ -206,9 +206,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-113",
+        "TITLE": "SCP-ZH-113 - 抹殺事情的真相",
         "FULLNAME": "scp-zh-113",
-        "RATING": 28,
+        "RATING": 30,
         "COMMENTS": "2",
         "TAGS": [
             "2020夏季競賽",
@@ -224,7 +224,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-014",
+        "TITLE": "SCP-ZH-014 - 人魚公主的故事",
         "FULLNAME": "scp-zh-014",
         "RATING": 20,
         "COMMENTS": "4",
@@ -258,7 +258,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-046",
+        "TITLE": "SCP-ZH-046 - 巡山靈",
         "FULLNAME": "scp-zh-046",
         "RATING": 18,
         "COMMENTS": "2",
@@ -278,7 +278,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-878",
+        "TITLE": "SCP-ZH-878 - 娃娃收集者",
         "FULLNAME": "scp-zh-878",
         "RATING": 20,
         "COMMENTS": "0",
@@ -330,7 +330,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-140",
+        "TITLE": "SCP-ZH-140 - 字義相悖",
         "FULLNAME": "scp-zh-140",
         "RATING": 20,
         "COMMENTS": "7",
@@ -359,7 +359,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-079",
+        "TITLE": "SCP-ZH-079 - 目標，親王，擊發",
         "FULLNAME": "scp-zh-079",
         "RATING": 12,
         "COMMENTS": "1",
@@ -379,10 +379,11 @@
     {
         "TITLE": "表層變動",
         "FULLNAME": "one-of-the-secrets",
-        "RATING": 16,
+        "RATING": 18,
         "COMMENTS": "2",
         "TAGS": [
             "ain博士",
+            "maddy",
             "site-zh-44",
             "原創",
             "展出",
@@ -413,7 +414,7 @@
     {
         "TITLE": "SCP-ZH-2005-EX",
         "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 56,
+        "RATING": 58,
         "COMMENTS": "1",
         "TAGS": [
             "2021冬季競賽",
@@ -491,7 +492,7 @@
     {
         "TITLE": "Dr. Bales的日常小品集錦 二",
         "FULLNAME": "bales-s-daily-2",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "1",
         "TAGS": [
             "ain博士",
@@ -510,7 +511,7 @@
     {
         "TITLE": "SCP-ZH-980 - 築夢小棧",
         "FULLNAME": "scp-zh-980",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "2",
         "TAGS": [
             "bales博士",
@@ -596,7 +597,7 @@
     {
         "TITLE": "你會感到後悔嗎？",
         "FULLNAME": "what-are-you-waiting-for-just-join-goc-dude",
-        "RATING": 35,
+        "RATING": 36,
         "COMMENTS": "5",
         "TAGS": [
             "全球超自然聯盟",
@@ -628,9 +629,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-033",
+        "TITLE": "SCP-ZH-033 - ◉",
         "FULLNAME": "scp-zh-033",
-        "RATING": 3,
+        "RATING": 2,
         "COMMENTS": "7",
         "TAGS": [
             "meta",
@@ -658,7 +659,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-066",
+        "TITLE": "SCP-ZH-066 - 有借有還",
         "FULLNAME": "scp-zh-066",
         "RATING": 11,
         "COMMENTS": "5",
@@ -716,7 +717,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-833",
+        "TITLE": "SCP-ZH-833 - 時逆殘影",
         "FULLNAME": "scp-zh-833",
         "RATING": 10,
         "COMMENTS": "4",
@@ -788,9 +789,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-880",
+        "TITLE": "SCP-ZH-880 - 阿嬤覺得你冷",
         "FULLNAME": "scp-zh-880",
-        "RATING": 29,
+        "RATING": 30,
         "COMMENTS": "2",
         "TAGS": [
             "euclid",
@@ -832,7 +833,7 @@
     {
         "TITLE": "鎖鏈的音竹",
         "FULLNAME": "k1s10r0d-chain-sugoi",
-        "RATING": 28,
+        "RATING": 29,
         "COMMENTS": "6",
         "TAGS": [
             "sugoi博士",
@@ -907,7 +908,7 @@
     {
         "TITLE": "SCP-V1L3-J實驗產物備份 燃燒卡路里",
         "FULLNAME": "adult:v1l3-j-burning-calories",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "ctrl-z博士",
@@ -952,7 +953,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-409",
+        "TITLE": "SCP-ZH-409 - 鐵衣藻",
         "FULLNAME": "scp-zh-409",
         "RATING": 12,
         "COMMENTS": "6",
@@ -973,7 +974,7 @@
     {
         "TITLE": "異常項目紀錄：「防暴警察頭盔」",
         "FULLNAME": "anomalous-item-hk-police-helmet",
-        "RATING": 35,
+        "RATING": 37,
         "COMMENTS": "5",
         "TAGS": [
             "2021夏季競賽",
@@ -1059,7 +1060,7 @@
     {
         "TITLE": "What The Fuck",
         "FULLNAME": "what-the-fuck",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "3",
         "TAGS": [
             "2020攀爬金字塔",
@@ -1076,7 +1077,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-613",
+        "TITLE": "SCP-ZH-613 - 血天使",
         "FULLNAME": "scp-zh-613",
         "RATING": 17,
         "COMMENTS": "1",

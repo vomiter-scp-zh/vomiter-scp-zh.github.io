@@ -476,7 +476,7 @@
     {
         "TITLE": "SCP-3002 - 活埋想法的嘗試",
         "FULLNAME": "scp-3002",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -876,7 +876,7 @@
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
         "FULLNAME": "scp-6820",
-        "RATING": 13,
+        "RATING": 14,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -935,7 +935,7 @@
     {
         "TITLE": "SCP-7001 - Site-19",
         "FULLNAME": "scp-7001",
-        "RATING": 6,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "asheworth博士",
@@ -964,7 +964,7 @@
     {
         "TITLE": "SCP-6765 - 惡魔奧吉爾與瑪利德拉格血之王座",
         "FULLNAME": "scp-6765",
-        "RATING": 8,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -992,6 +992,22 @@
             "記憶影響",
             "認知危害",
             "銘文"
+        ]
+    },
+    {
+        "TITLE": "SCP-146 - 羞恥的青銅首",
+        "FULLNAME": "scp-146",
+        "RATING": 1,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "精神影響",
+            "翻譯",
+            "記憶影響",
+            "認知危害",
+            "雕塑"
         ]
     }
 ]

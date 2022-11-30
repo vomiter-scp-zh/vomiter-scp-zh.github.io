@@ -106,9 +106,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-113",
+        "TITLE": "SCP-ZH-113 - 抹殺事情的真相",
         "FULLNAME": "scp-zh-113",
-        "RATING": 28,
+        "RATING": 30,
         "COMMENTS": "2",
         "TAGS": [
             "2020夏季競賽",
@@ -168,7 +168,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-013",
+        "TITLE": "SCP-ZH-013 - 好，現在我們有第二個櫃子",
         "FULLNAME": "scp-zh-013",
         "RATING": 11,
         "COMMENTS": "1",
@@ -213,7 +213,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-1766-EX",
+        "TITLE": "SCP-ZH-1766-EX - 旅鴿",
         "FULLNAME": "scp-zh-1766-ex",
         "RATING": 4,
         "COMMENTS": "1",
@@ -262,7 +262,7 @@
     {
         "TITLE": "SCP-ZH-717 - 課堂中請勿伸出附肢",
         "FULLNAME": "scp-zh-717",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "0",
         "TAGS": [
             "2020夏季競賽",
@@ -283,7 +283,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-014",
+        "TITLE": "SCP-ZH-014 - 人魚公主的故事",
         "FULLNAME": "scp-zh-014",
         "RATING": 20,
         "COMMENTS": "4",
@@ -306,7 +306,7 @@
     {
         "TITLE": "SCP-ZH-451 - 反對者與蠕蟲",
         "FULLNAME": "scp-zh-451",
-        "RATING": 11,
+        "RATING": 10,
         "COMMENTS": "7",
         "TAGS": [
             "2020夏季競賽",
@@ -329,17 +329,19 @@
         "COMMENTS": "0",
         "TAGS": [
             "2020夏季競賽",
+            "damien-nowak",
             "goi格式",
             "ijamea",
             "mc&d",
             "nobody",
             "原創",
+            "待更新",
             "新茶嶺",
             "格魯烏-p部門"
         ]
     },
     {
-        "TITLE": "SCP-ZH-015",
+        "TITLE": "SCP-ZH-015 - 七人八笑",
         "FULLNAME": "scp-zh-015",
         "RATING": 23,
         "COMMENTS": "0",
@@ -355,7 +357,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-040",
+        "TITLE": "SCP-ZH-040 - 觀眾視角",
         "FULLNAME": "scp-zh-040",
         "RATING": 12,
         "COMMENTS": "1",
@@ -407,8 +409,8 @@
     {
         "TITLE": "中國國安部，不應存在的十九局",
         "FULLNAME": "19th-bureau-of-mss-of-china",
-        "RATING": 20,
-        "COMMENTS": "16",
+        "RATING": 19,
+        "COMMENTS": "17",
         "TAGS": [
             "2020夏季競賽",
             "2020攀爬金字塔",
@@ -454,7 +456,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-165",
+        "TITLE": "SCP-ZH-165 - 自跟隨",
         "FULLNAME": "scp-zh-165",
         "RATING": 6,
         "COMMENTS": "0",

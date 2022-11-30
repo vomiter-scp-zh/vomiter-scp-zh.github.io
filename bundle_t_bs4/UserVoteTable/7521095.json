@@ -133,7 +133,7 @@
     {
         "TITLE": "SCP-666½-J",
         "FULLNAME": "scp-666-and-a-half-j",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "1",
         "TAGS": [
             "bright博士",
@@ -187,7 +187,7 @@
     {
         "TITLE": "SCP-3001 - 紅色現實",
         "FULLNAME": "scp-3001",
-        "RATING": 16,
+        "RATING": 19,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -269,7 +269,7 @@
     {
         "TITLE": "你的第一篇SCP！",
         "FULLNAME": "your-very-first-scp",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -299,7 +299,7 @@
     {
         "TITLE": "SCP-3002 - 活埋想法的嘗試",
         "FULLNAME": "scp-3002",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -413,7 +413,7 @@
     {
         "TITLE": "SCP-6400 - 外面那裏",
         "FULLNAME": "scp-6400",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -568,7 +568,7 @@
     {
         "TITLE": "SCP-231-J",
         "FULLNAME": "scp-231-j",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -883,8 +883,8 @@
     {
         "TITLE": "SCP-7999 - 來星星間找我",
         "FULLNAME": "scp-7999",
-        "RATING": 13,
-        "COMMENTS": "1",
+        "RATING": 18,
+        "COMMENTS": "2",
         "TAGS": [
             "asheworth博士",
             "en",
@@ -905,7 +905,7 @@
     {
         "TITLE": "SCP-001",
         "FULLNAME": "scp-4380",
-        "RATING": 10,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -922,6 +922,21 @@
             "誤傳部",
             "資訊危害",
             "逆模因"
+        ]
+    },
+    {
+        "TITLE": "SCP-248 - 110%",
+        "FULLNAME": "scp-248",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "人造物品",
+            "反物理定律",
+            "工廠",
+            "翻譯"
         ]
     }
 ]

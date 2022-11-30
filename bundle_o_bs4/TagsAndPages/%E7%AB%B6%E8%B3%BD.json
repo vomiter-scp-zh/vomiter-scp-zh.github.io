@@ -113,8 +113,20 @@
     {
         "TITLE": "《癌又蝟鴨：紅藍爭霸戰》",
         "FULLNAME": "honglam-battle",
-        "RATING": 9,
-        "COMMENTS": "3",
+        "RATING": 12,
+        "COMMENTS": "8",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "中心",
+            "原創",
+            "競賽"
+        ]
+    },
+    {
+        "TITLE": "《缺氧？準備轉世！》競賽頁",
+        "FULLNAME": "reincarnation-by-suffocation",
+        "RATING": 6,
+        "COMMENTS": "1",
         "TAGS": [
             "中心",
             "原創",

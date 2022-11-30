@@ -3,7 +3,7 @@
         "TAGNAME": "自我複製"
     },
     {
-        "TITLE": "SCP-ZH-591",
+        "TITLE": "SCP-ZH-591 - 血源之包",
         "FULLNAME": "scp-zh-591",
         "RATING": 12,
         "COMMENTS": "2",
@@ -20,9 +20,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-200",
+        "TITLE": "SCP-ZH-200 - 鬼抓人",
         "FULLNAME": "scp-zh-200",
-        "RATING": 34,
+        "RATING": 35,
         "COMMENTS": "1",
         "TAGS": [
             "keter",
@@ -39,7 +39,7 @@
     {
         "TITLE": "SCP-ZH-2588-J",
         "FULLNAME": "scp-zh-2588-j",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "2020虹光之間",
@@ -58,7 +58,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-407",
+        "TITLE": "SCP-ZH-407 - 仿生金屬",
         "FULLNAME": "scp-zh-407",
         "RATING": 3,
         "COMMENTS": "1",
@@ -93,7 +93,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-013",
+        "TITLE": "SCP-ZH-013 - 好，現在我們有第二個櫃子",
         "FULLNAME": "scp-zh-013",
         "RATING": 11,
         "COMMENTS": "1",
@@ -110,7 +110,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-146",
+        "TITLE": "SCP-ZH-146 - 破鏡永無重圓之日",
         "FULLNAME": "scp-zh-146",
         "RATING": 9,
         "COMMENTS": "2",

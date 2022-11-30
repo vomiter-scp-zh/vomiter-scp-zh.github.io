@@ -55,7 +55,7 @@
     {
         "TITLE": "Bright博士教你如何正確擊退敵人",
         "FULLNAME": "how-to-defeat-those-bad-guys-correctly",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "2",
         "TAGS": [
             "bright博士",
@@ -94,8 +94,8 @@
     {
         "TITLE": "菇菇基金會",
         "FULLNAME": "fungi-foundation",
-        "RATING": 20,
-        "COMMENTS": "5",
+        "RATING": 22,
+        "COMMENTS": "6",
         "TAGS": [
             "bright博士",
             "clef博士",
@@ -241,6 +241,21 @@
             "mcdoctorate博士",
             "原創",
             "藝術作品"
+        ]
+    },
+    {
+        "TITLE": "殘響",
+        "FULLNAME": "reverberate",
+        "RATING": 16,
+        "COMMENTS": "4",
+        "TAGS": [
+            "clef博士",
+            "gears博士",
+            "kondraki博士",
+            "卓文康卓奇",
+            "原創",
+            "展出",
+            "故事"
         ]
     }
 ]

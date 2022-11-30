@@ -133,7 +133,7 @@
     {
         "TITLE": "SCP-2911-JP - 美國最漫長的一天",
         "FULLNAME": "scp-2911-jp",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "2",
         "TAGS": [
             "1998年",
@@ -190,7 +190,6 @@
             "jp",
             "k級情景",
             "scp",
-            "儀式",
             "儀式性",
             "全球超自然聯盟",
             "動物",
@@ -247,7 +246,7 @@
     {
         "TITLE": "SCP-3935 - 此處靜謐瘋狂",
         "FULLNAME": "scp-3935",
-        "RATING": 3,
+        "RATING": 5,
         "COMMENTS": "4",
         "TAGS": [
             "1976年班",
@@ -666,8 +665,8 @@
     {
         "TITLE": "SCP-7999 - 來星星間找我",
         "FULLNAME": "scp-7999",
-        "RATING": 13,
-        "COMMENTS": "1",
+        "RATING": 18,
+        "COMMENTS": "2",
         "TAGS": [
             "asheworth博士",
             "en",
@@ -683,6 +682,23 @@
             "節肢動物",
             "翻譯",
             "門徑"
+        ]
+    },
+    {
+        "TITLE": "SCP-1021 - 出口",
+        "FULLNAME": "scp-1021",
+        "RATING": 0,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "時空",
+            "翻譯",
+            "藝術性",
+            "銘文",
+            "門徑",
+            "電力"
         ]
     }
 ]

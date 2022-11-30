@@ -2,7 +2,7 @@
     {
         "TITLE": "魔法講座",
         "FULLNAME": "another-goddamn-magic-system",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -23,6 +23,7 @@
         "TAGS": [
             "en",
             "scp",
+            "vang博士",
             "搞笑",
             "翻譯"
         ]
@@ -404,7 +405,7 @@
     {
         "TITLE": "SCP-3936 - 一如預期般運作",
         "FULLNAME": "scp-3936",
-        "RATING": 15,
+        "RATING": 16,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -577,7 +578,7 @@
     {
         "TITLE": "SCP-5149 - 喬，我們可不是瞎子。",
         "FULLNAME": "scp-5149",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "4",
         "TAGS": [
             "en",
@@ -705,7 +706,7 @@
     {
         "TITLE": "SCP-2911-JP - 美國最漫長的一天",
         "FULLNAME": "scp-2911-jp",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "2",
         "TAGS": [
             "1998年",
@@ -775,7 +776,7 @@
     {
         "TITLE": "SCP-666½-J",
         "FULLNAME": "scp-666-and-a-half-j",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "1",
         "TAGS": [
             "bright博士",
@@ -997,7 +998,7 @@
     {
         "TITLE": "放棄死亡",
         "FULLNAME": "abandoning-death",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "1",
         "TAGS": [
             "jp",
@@ -1122,7 +1123,7 @@
     {
         "TITLE": "S. D. Locke的提案",
         "FULLNAME": "shaggydredlocks-proposal",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "1",
         "TAGS": [
             "001提案",
@@ -1166,7 +1167,7 @@
     {
         "TITLE": "SC嗚喔喔啊啊啊啊啊啊啊啊-JP-J",
         "FULLNAME": "scpaaaaaaaaaaaaaaaaaa-jp-j",
-        "RATING": 25,
+        "RATING": 26,
         "COMMENTS": "1",
         "TAGS": [
             "jp",
@@ -1306,7 +1307,7 @@
     {
         "TITLE": "東弊舍自動人偶部門廣告",
         "FULLNAME": "tohei-automata",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "jp",
@@ -1416,7 +1417,7 @@
     {
         "TITLE": "SCP-3001 - 紅色現實",
         "FULLNAME": "scp-3001",
-        "RATING": 16,
+        "RATING": 19,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -1574,7 +1575,7 @@
     {
         "TITLE": "你的第一篇SCP！",
         "FULLNAME": "your-very-first-scp",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -1794,7 +1795,7 @@
     {
         "TITLE": "SCP-970-EX",
         "FULLNAME": "scp-970-ex",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -2254,7 +2255,7 @@
     {
         "TITLE": "scp-3-j",
         "FULLNAME": "scp-3-j",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -2508,7 +2509,7 @@
     {
         "TITLE": "SCP-6369 - 老鼠失物協尋服務",
         "FULLNAME": "scp-6369",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "4",
         "TAGS": [
             "en",
@@ -2587,7 +2588,7 @@
     {
         "TITLE": "SCP-6630 - 彼方遙火",
         "FULLNAME": "scp-6630",
-        "RATING": 18,
+        "RATING": 19,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -2604,7 +2605,7 @@
     {
         "TITLE": "SCP-6355 - 扼殺禮義之咽喉",
         "FULLNAME": "scp-6355",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -2641,7 +2642,7 @@
     {
         "TITLE": "SCP-3333 - 塔",
         "FULLNAME": "scp-3333",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -2718,7 +2719,7 @@
     {
         "TITLE": "SCP-5400-J - 超級宇宙無敵機密文章",
         "FULLNAME": "scp-5400-j",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -2730,7 +2731,7 @@
     {
         "TITLE": "SCP-7777 - 懼七症",
         "FULLNAME": "scp-7777",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "bold主任",
@@ -2749,8 +2750,8 @@
     {
         "TITLE": "SCP-7999 - 來星星間找我",
         "FULLNAME": "scp-7999",
-        "RATING": 13,
-        "COMMENTS": "1",
+        "RATING": 18,
+        "COMMENTS": "2",
         "TAGS": [
             "asheworth博士",
             "en",
@@ -2788,7 +2789,7 @@
     {
         "TITLE": "SCP-7666 - 陰間維加斯講座：莊家會輸",
         "FULLNAME": "scp-7666",
-        "RATING": 11,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -2826,7 +2827,7 @@
     {
         "TITLE": "SCP-7333 - 經商蜥蜴",
         "FULLNAME": "scp-7333",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -2846,7 +2847,7 @@
     {
         "TITLE": "SCP-7300 - 浮游生物!!!",
         "FULLNAME": "scp-7300",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -2920,7 +2921,7 @@
     {
         "TITLE": "SCP-7052 - 菊中匙",
         "FULLNAME": "scp-7052",
-        "RATING": 6,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -2932,6 +2933,32 @@
             "機率性",
             "翻譯",
             "自我修復"
+        ]
+    },
+    {
+        "TITLE": "工作機會",
+        "FULLNAME": "job-opportunities",
+        "RATING": 8,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "mc&d",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "終曲：遺言",
+        "FULLNAME": "looking-back",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "1976年班",
+            "en",
+            "合著",
+            "故事",
+            "翻譯"
         ]
     }
 ]

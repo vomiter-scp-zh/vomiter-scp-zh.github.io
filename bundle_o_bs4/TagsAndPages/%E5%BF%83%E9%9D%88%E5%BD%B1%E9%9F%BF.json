@@ -3,7 +3,7 @@
         "TAGNAME": "心靈影響"
     },
     {
-        "TITLE": "SCP-ZH-762",
+        "TITLE": "SCP-ZH-762 - 感同曾受",
         "FULLNAME": "scp-zh-762",
         "RATING": 7,
         "COMMENTS": "2",
@@ -16,6 +16,22 @@
             "感知能力",
             "研究員l.what",
             "認知危害"
+        ]
+    },
+    {
+        "TITLE": "Reverberate_a的提案",
+        "FULLNAME": "reverberate-a-s-proposal-1",
+        "RATING": 23,
+        "COMMENTS": "2",
+        "TAGS": [
+            "001提案",
+            "2022紅藍爭霸賽",
+            "reverberate博士",
+            "人形",
+            "原創",
+            "地點",
+            "心靈影響",
+            "觀察影響"
         ]
     }
 ]

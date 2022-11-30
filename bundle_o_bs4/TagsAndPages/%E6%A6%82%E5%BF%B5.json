@@ -5,7 +5,7 @@
     {
         "TITLE": "SCP-ZH-998 - 現象學",
         "FULLNAME": "scp-zh-998",
-        "RATING": 37,
+        "RATING": 38,
         "COMMENTS": "7",
         "TAGS": [
             "k級情景",
@@ -33,7 +33,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-169",
+        "TITLE": "SCP-ZH-169 - 怨雨易積至年節，嗜茶巧獸願覺眠",
         "FULLNAME": "scp-zh-169",
         "RATING": 5,
         "COMMENTS": "4",
@@ -49,7 +49,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-150",
+        "TITLE": "SCP-ZH-150 - 悖論甜甜圈",
         "FULLNAME": "scp-zh-150",
         "RATING": 12,
         "COMMENTS": "1",
@@ -66,7 +66,7 @@
     {
         "TITLE": "收容室ZH-S12-E-024實驗紀錄",
         "FULLNAME": "scp-zh-024",
-        "RATING": 33,
+        "RATING": 34,
         "COMMENTS": "0",
         "TAGS": [
             "euclid",
@@ -82,7 +82,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-140",
+        "TITLE": "SCP-ZH-140 - 字義相悖",
         "FULLNAME": "scp-zh-140",
         "RATING": 20,
         "COMMENTS": "7",
@@ -101,7 +101,7 @@
     {
         "TITLE": "SCP-ZH-496 - 安全極限距離",
         "FULLNAME": "scp-zh-496",
-        "RATING": 29,
+        "RATING": 30,
         "COMMENTS": "7",
         "TAGS": [
             "scp",
@@ -117,7 +117,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-207",
+        "TITLE": "SCP-ZH-207 - 課金就像吃人一樣",
         "FULLNAME": "scp-zh-207",
         "RATING": 11,
         "COMMENTS": "5",
@@ -173,7 +173,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-185",
+        "TITLE": "SCP-ZH-185 - 乖乖穩定器",
         "FULLNAME": "scp-zh-185",
         "RATING": 19,
         "COMMENTS": "11",
@@ -213,7 +213,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-266",
+        "TITLE": "SCP-ZH-266 - 走向理想之路",
         "FULLNAME": "scp-zh-266",
         "RATING": 12,
         "COMMENTS": "4",
@@ -252,8 +252,8 @@
     {
         "TITLE": "SCP-ZH-144 - 十二進位法",
         "FULLNAME": "scp-zh-144",
-        "RATING": 23,
-        "COMMENTS": "3",
+        "RATING": 25,
+        "COMMENTS": "6",
         "TAGS": [
             "keter",
             "scp",
@@ -271,7 +271,7 @@
     {
         "TITLE": "SCP-ZH-905 - 愛的相反不是恨",
         "FULLNAME": "scp-zh-905",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "euclid",
@@ -393,7 +393,7 @@
     {
         "TITLE": "SCP-ZH-540 - Alone In The Dark",
         "FULLNAME": "scp-zh-540",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "2",
         "TAGS": [
             "scp",
@@ -419,8 +419,8 @@
     {
         "TITLE": "SCP-ZH-968 - 基輔戰鬼顯現之時",
         "FULLNAME": "scp-zh-968",
-        "RATING": 23,
-        "COMMENTS": "3",
+        "RATING": 25,
+        "COMMENTS": "4",
         "TAGS": [
             "scp",
             "zh急迫競賽2022",
@@ -429,6 +429,7 @@
             "概念",
             "機密分級",
             "歷史性",
+            "研究員knave",
             "記憶影響",
             "軍事",
             "都異部門"
@@ -512,7 +513,7 @@
     {
         "TITLE": "SCP-ZH-441 - 只能以這種方式錯誤地惦記被碾壓而亡的屍體",
         "FULLNAME": "scp-zh-441",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "1",
         "TAGS": [
             "2022夏季競賽",
@@ -526,6 +527,7 @@
             "建築物",
             "概念",
             "機密分級",
+            "真紀博士",
             "資訊危害",
             "超形上學部",
             "逆模因"

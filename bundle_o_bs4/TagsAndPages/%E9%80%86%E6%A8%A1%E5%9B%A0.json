@@ -16,7 +16,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-406",
+        "TITLE": "SCP-ZH-406 - 不紐西蘭",
         "FULLNAME": "scp-zh-406",
         "RATING": 11,
         "COMMENTS": "1",
@@ -77,7 +77,7 @@
     {
         "TITLE": "SCP-ZH-2588-J",
         "FULLNAME": "scp-zh-2588-j",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "2020虹光之間",
@@ -134,7 +134,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-040",
+        "TITLE": "SCP-ZH-040 - 觀眾視角",
         "FULLNAME": "scp-zh-040",
         "RATING": 12,
         "COMMENTS": "1",
@@ -150,7 +150,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-440",
+        "TITLE": "SCP-ZH-440 - Site-ZH-04",
         "FULLNAME": "scp-zh-440",
         "RATING": 12,
         "COMMENTS": "6",
@@ -203,7 +203,7 @@
     {
         "TITLE": "SCP-ZH-096 - 紅移破滅",
         "FULLNAME": "scp-zh-096",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "2",
         "TAGS": [
             "scp",
@@ -215,7 +215,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-339",
+        "TITLE": "SCP-ZH-339 - 避風港",
         "FULLNAME": "scp-zh-339",
         "RATING": 16,
         "COMMENTS": "6",
@@ -234,7 +234,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-266",
+        "TITLE": "SCP-ZH-266 - 走向理想之路",
         "FULLNAME": "scp-zh-266",
         "RATING": 12,
         "COMMENTS": "4",
@@ -253,7 +253,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-068",
+        "TITLE": "SCP-ZH-068 - 自然色彩之戰",
         "FULLNAME": "scp-zh-068",
         "RATING": 2,
         "COMMENTS": "4",
@@ -288,7 +288,7 @@
     {
         "TITLE": "SCP-ZH-277－築路中原",
         "FULLNAME": "scp-zh-277",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "euclid",
@@ -331,6 +331,7 @@
             "zh999",
             "原創",
             "建築物",
+            "循環",
             "時間影響",
             "聲音",
             "逆模因",
@@ -385,7 +386,7 @@
     {
         "TITLE": "SCP-ZH-441 - 只能以這種方式錯誤地惦記被碾壓而亡的屍體",
         "FULLNAME": "scp-zh-441",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "1",
         "TAGS": [
             "2022夏季競賽",
@@ -399,6 +400,7 @@
             "建築物",
             "概念",
             "機密分級",
+            "真紀博士",
             "資訊危害",
             "超形上學部",
             "逆模因"

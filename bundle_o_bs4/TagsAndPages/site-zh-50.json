@@ -92,7 +92,7 @@
     {
         "TITLE": "SCP-ZH-998 - 現象學",
         "FULLNAME": "scp-zh-998",
-        "RATING": 37,
+        "RATING": 38,
         "COMMENTS": "7",
         "TAGS": [
             "k級情景",
@@ -185,7 +185,7 @@
     {
         "TITLE": "聖誕軍演",
         "FULLNAME": "xmas-exercise",
-        "RATING": 22,
+        "RATING": 24,
         "COMMENTS": "7",
         "TAGS": [
             "2019聖夜相守",
@@ -233,7 +233,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-700",
+        "TITLE": "SCP-ZH-700 - 預言後依然難以避免",
         "FULLNAME": "scp-zh-700",
         "RATING": 11,
         "COMMENTS": "5",
@@ -253,7 +253,7 @@
     {
         "TITLE": "矢尖",
         "FULLNAME": "arrowhead",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "aiad",
@@ -405,7 +405,7 @@
     {
         "TITLE": "事件代號：核裂擠兌-主任Semibreve的視角",
         "FULLNAME": "operation-nucleon-bank-semibreve",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "2",
         "TAGS": [
             "semibreve博士",
@@ -442,7 +442,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-231",
+        "TITLE": "SCP-ZH-231 - 黑暗卡西",
         "FULLNAME": "scp-zh-231",
         "RATING": 9,
         "COMMENTS": "9",
@@ -461,7 +461,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-800",
+        "TITLE": "SCP-ZH-800 - 雷暴",
         "FULLNAME": "scp-zh-800",
         "RATING": 8,
         "COMMENTS": "3",
@@ -605,10 +605,31 @@
             "原創",
             "反熵",
             "強迫性",
+            "第八處",
             "精神影響",
             "自我修復",
             "預測性",
             "骨骼"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-911 - 你所捍衛的自由",
+        "FULLNAME": "scp-zh-911",
+        "RATING": 21,
+        "COMMENTS": "0",
+        "TAGS": [
+            "euclid",
+            "meta",
+            "scp",
+            "site-zh-50",
+            "原創",
+            "感知力",
+            "智能",
+            "本質促動",
+            "武器",
+            "異常移動",
+            "認知危害",
+            "資訊危害"
         ]
     }
 ]

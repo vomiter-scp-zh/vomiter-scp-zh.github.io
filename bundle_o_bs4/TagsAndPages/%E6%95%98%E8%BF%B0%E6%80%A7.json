@@ -21,7 +21,7 @@
     {
         "TITLE": "收容室ZH-S12-E-024實驗紀錄",
         "FULLNAME": "scp-zh-024",
-        "RATING": 33,
+        "RATING": 34,
         "COMMENTS": "0",
         "TAGS": [
             "euclid",
@@ -102,16 +102,16 @@
     {
         "TITLE": "SCP-ZH-318 - 認同癖",
         "FULLNAME": "scp-zh-318",
-        "RATING": 1,
+        "RATING": 0,
         "COMMENTS": "10",
         "TAGS": [
             "2022夏季競賽",
             "keter",
             "scp",
-            "人型",
+            "人形",
             "原創",
             "敘述性",
-            "死滅兄弟",
+            "死滅弟兄",
             "誤傳部"
         ]
     },
@@ -132,6 +132,26 @@
             "渾沌反叛軍",
             "線上",
             "非現實部"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-176 - 《海鷗的大撤退》",
+        "FULLNAME": "scp-zh-176",
+        "RATING": 21,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "keter",
+            "meta",
+            "metha博士",
+            "scp",
+            "全球超自然聯盟",
+            "原創",
+            "基金會製造",
+            "敘述性",
+            "文獻",
+            "研究員knave",
+            "超形上學部"
         ]
     }
 ]

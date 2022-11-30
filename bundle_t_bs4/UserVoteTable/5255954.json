@@ -63,7 +63,7 @@
     {
         "TITLE": "SCP格式資源",
         "FULLNAME": "scp-style-resource",
-        "RATING": 31,
+        "RATING": 32,
         "COMMENTS": "6",
         "TAGS": [
             "合作",
@@ -178,7 +178,7 @@
     {
         "TITLE": "SCP-2998 - 異常傳播訊號，2485MHz",
         "FULLNAME": "scp-2998",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -241,7 +241,7 @@
     {
         "TITLE": "SCP-5149 - 喬，我們可不是瞎子。",
         "FULLNAME": "scp-5149",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "4",
         "TAGS": [
             "en",
@@ -396,7 +396,7 @@
     {
         "TITLE": "SCP-2911-JP - 美國最漫長的一天",
         "FULLNAME": "scp-2911-jp",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "2",
         "TAGS": [
             "1998年",
@@ -539,7 +539,7 @@
     {
         "TITLE": "SC嗚喔喔啊啊啊啊啊啊啊啊-JP-J",
         "FULLNAME": "scpaaaaaaaaaaaaaaaaaa-jp-j",
-        "RATING": 25,
+        "RATING": 26,
         "COMMENTS": "1",
         "TAGS": [
             "jp",
@@ -643,6 +643,27 @@
             "翻譯",
             "超維度",
             "馬克·桐生"
+        ]
+    },
+    {
+        "TITLE": "SCP-884 - 修容鏡",
+        "FULLNAME": "scp-884",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "lament特工",
+            "scp",
+            "人造物品",
+            "展出",
+            "感知影響",
+            "渾沌反叛軍",
+            "精神影響",
+            "翻譯",
+            "視覺性",
+            "認知危害",
+            "音訊"
         ]
     }
 ]

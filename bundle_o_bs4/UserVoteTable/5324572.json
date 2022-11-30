@@ -1,6 +1,6 @@
 [
     {
-        "TITLE": "SCP-ZH-346",
+        "TITLE": "SCP-ZH-346 - 皮開肉綻棒",
         "FULLNAME": "scp-zh-346",
         "RATING": 5,
         "COMMENTS": "1",
@@ -13,9 +13,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-018",
+        "TITLE": "SCP-ZH-018 - 繼承之照",
         "FULLNAME": "scp-zh-018",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "2",
         "TAGS": [
             "euclid",
@@ -28,9 +28,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-003",
+        "TITLE": "SCP-ZH-003 - 極端式信仰",
         "FULLNAME": "scp-zh-003",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "4",
         "TAGS": [
             "euclid",
@@ -41,7 +41,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-130",
+        "TITLE": "SCP-ZH-130 - 心",
         "FULLNAME": "scp-zh-130",
         "RATING": 7,
         "COMMENTS": "1",
@@ -62,7 +62,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-406",
+        "TITLE": "SCP-ZH-406 - 不紐西蘭",
         "FULLNAME": "scp-zh-406",
         "RATING": 11,
         "COMMENTS": "1",
@@ -87,9 +87,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-035",
+        "TITLE": "SCP-ZH-035 - 跑酷者",
         "FULLNAME": "scp-zh-035",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "0",
         "TAGS": [
             "euclid",
@@ -99,9 +99,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-005",
+        "TITLE": "SCP-ZH-005 - 假如你沒有轉發這篇文檔給十個朋友，那麼…………",
         "FULLNAME": "scp-zh-005",
-        "RATING": 60,
+        "RATING": 61,
         "COMMENTS": "0",
         "TAGS": [
             "keter",
@@ -225,8 +225,8 @@
     {
         "TITLE": "中國國安部，不應存在的十九局",
         "FULLNAME": "19th-bureau-of-mss-of-china",
-        "RATING": 20,
-        "COMMENTS": "16",
+        "RATING": 19,
+        "COMMENTS": "17",
         "TAGS": [
             "2020夏季競賽",
             "2020攀爬金字塔",

@@ -3,9 +3,9 @@
         "TAGNAME": "聲音"
     },
     {
-        "TITLE": "SCP-ZH-629",
+        "TITLE": "SCP-ZH-629 - 回聲杯",
         "FULLNAME": "scp-zh-629",
-        "RATING": 5,
+        "RATING": 4,
         "COMMENTS": "1",
         "TAGS": [
             "safe",
@@ -18,7 +18,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-095",
+        "TITLE": "SCP-ZH-095 - 守護, 愛, 祝福",
         "FULLNAME": "scp-zh-095",
         "RATING": 11,
         "COMMENTS": "0",
@@ -76,7 +76,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-014",
+        "TITLE": "SCP-ZH-014 - 人魚公主的故事",
         "FULLNAME": "scp-zh-014",
         "RATING": 20,
         "COMMENTS": "4",
@@ -117,7 +117,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-635",
+        "TITLE": "SCP-ZH-635 - 你有沒有聽到",
         "FULLNAME": "scp-zh-635",
         "RATING": 7,
         "COMMENTS": "3",
@@ -169,6 +169,7 @@
             "zh999",
             "原創",
             "建築物",
+            "循環",
             "時間影響",
             "聲音",
             "逆模因",
@@ -179,7 +180,7 @@
     {
         "TITLE": "SCP-ZH-540 - Alone In The Dark",
         "FULLNAME": "scp-zh-540",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "2",
         "TAGS": [
             "scp",

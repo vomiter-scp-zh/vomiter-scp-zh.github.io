@@ -3,7 +3,7 @@
         "TAGNAME": "武器"
     },
     {
-        "TITLE": "SCP-ZH-255",
+        "TITLE": "SCP-ZH-255 - 賓尼費的最後庇護所",
         "FULLNAME": "scp-zh-255",
         "RATING": 22,
         "COMMENTS": "5",
@@ -26,7 +26,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-118",
+        "TITLE": "SCP-ZH-118 - 荒謬的和平鴿",
         "FULLNAME": "scp-zh-118",
         "RATING": 6,
         "COMMENTS": "3",
@@ -42,7 +42,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-153",
+        "TITLE": "SCP-ZH-153 - 額溫槍",
         "FULLNAME": "scp-zh-153",
         "RATING": 8,
         "COMMENTS": "0",
@@ -90,7 +90,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-205",
+        "TITLE": "SCP-ZH-205 - 絕非設計不良",
         "FULLNAME": "scp-zh-205",
         "RATING": 6,
         "COMMENTS": "2",
@@ -104,9 +104,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-829",
+        "TITLE": "SCP-ZH-829 - 無形干戈",
         "FULLNAME": "scp-zh-829",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "2",
         "TAGS": [
             "awcy",
@@ -122,7 +122,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-776",
+        "TITLE": "SCP-ZH-776 - 暗黑暗黑暗黑之劍",
         "FULLNAME": "scp-zh-776",
         "RATING": 7,
         "COMMENTS": "6",
@@ -156,6 +156,26 @@
             "武器",
             "生物性",
             "軍事"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-911 - 你所捍衛的自由",
+        "FULLNAME": "scp-zh-911",
+        "RATING": 21,
+        "COMMENTS": "0",
+        "TAGS": [
+            "euclid",
+            "meta",
+            "scp",
+            "site-zh-50",
+            "原創",
+            "感知力",
+            "智能",
+            "本質促動",
+            "武器",
+            "異常移動",
+            "認知危害",
+            "資訊危害"
         ]
     }
 ]

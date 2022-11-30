@@ -194,7 +194,7 @@
     {
         "TITLE": "SCP-666½-J",
         "FULLNAME": "scp-666-and-a-half-j",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "1",
         "TAGS": [
             "bright博士",
@@ -285,7 +285,7 @@
     {
         "TITLE": "SCP-3980 - 盲者相領",
         "FULLNAME": "scp-3980",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -324,7 +324,7 @@
     {
         "TITLE": "SCP-3935 - 此處靜謐瘋狂",
         "FULLNAME": "scp-3935",
-        "RATING": 3,
+        "RATING": 5,
         "COMMENTS": "4",
         "TAGS": [
             "1976年班",
@@ -555,7 +555,7 @@
     {
         "TITLE": "SCP-067-EX",
         "FULLNAME": "scp-067-ex",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -567,6 +567,64 @@
             "放射性",
             "真菌",
             "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-7779 - 唉呦！",
+        "FULLNAME": "scp-7779",
+        "RATING": 8,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "傳送",
+            "全球超自然聯盟",
+            "合著",
+            "地質",
+            "幻覺",
+            "睡眠",
+            "精神影響",
+            "翻譯",
+            "聽覺影響",
+            "英國神秘情報局"
+        ]
+    },
+    {
+        "TITLE": "SCP-2805 - 冰上迪士尼",
+        "FULLNAME": "scp-2805",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "人形",
+            "夢神",
+            "幻覺",
+            "歷史性",
+            "生物性",
+            "精神影響",
+            "翻譯",
+            "視覺性",
+            "認知危害"
+        ]
+    },
+    {
+        "TITLE": "SCP-2028 - 惡夢雪景球",
+        "FULLNAME": "scp-2028",
+        "RATING": 8,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "人造物品",
+            "夢神",
+            "幻覺",
+            "睡眠",
+            "翻譯",
+            "變形"
         ]
     }
 ]

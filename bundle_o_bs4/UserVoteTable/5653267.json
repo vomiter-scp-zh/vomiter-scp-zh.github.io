@@ -13,7 +13,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-582",
+        "TITLE": "SCP-ZH-582 - 世上最討人喜愛的不明生物",
         "FULLNAME": "scp-zh-582",
         "RATING": 15,
         "COMMENTS": "0",
@@ -27,7 +27,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-888",
+        "TITLE": "SCP-ZH-888 - 霾",
         "FULLNAME": "scp-zh-888",
         "RATING": 19,
         "COMMENTS": "1",
@@ -47,7 +47,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-125",
+        "TITLE": "SCP-ZH-125 - 博愛座",
         "FULLNAME": "scp-zh-125",
         "RATING": 22,
         "COMMENTS": "2",
@@ -104,7 +104,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-045",
+        "TITLE": "SCP-ZH-045 - 萬能胡椒",
         "FULLNAME": "scp-zh-045",
         "RATING": 19,
         "COMMENTS": "0",
@@ -165,7 +165,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-357",
+        "TITLE": "SCP-ZH-357 - 護理師",
         "FULLNAME": "scp-zh-357",
         "RATING": 8,
         "COMMENTS": "0",
@@ -207,7 +207,7 @@
     {
         "TITLE": "SCP-ZH-998 - 現象學",
         "FULLNAME": "scp-zh-998",
-        "RATING": 37,
+        "RATING": 38,
         "COMMENTS": "7",
         "TAGS": [
             "k級情景",
@@ -350,7 +350,7 @@
     {
         "TITLE": "沙皇先知協會中心頁",
         "FULLNAME": "tsars-hub",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "0",
         "TAGS": [
             "中心",
@@ -452,7 +452,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-016",
+        "TITLE": "SCP-ZH-016 - 生態罐頭",
         "FULLNAME": "scp-zh-016",
         "RATING": 7,
         "COMMENTS": "2",
@@ -500,7 +500,7 @@
     {
         "TITLE": "我在萬物之中",
         "FULLNAME": "arkwork-3999",
-        "RATING": 37,
+        "RATING": 38,
         "COMMENTS": "8",
         "TAGS": [
             "原創",
@@ -521,9 +521,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-200",
+        "TITLE": "SCP-ZH-200 - 鬼抓人",
         "FULLNAME": "scp-zh-200",
-        "RATING": 34,
+        "RATING": 35,
         "COMMENTS": "1",
         "TAGS": [
             "keter",
@@ -603,7 +603,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-263",
+        "TITLE": "SCP-ZH-263 - 就是個蹭香火的",
         "FULLNAME": "scp-zh-263",
         "RATING": 4,
         "COMMENTS": "2",
@@ -621,7 +621,7 @@
     {
         "TITLE": "SCP-ZH-2588-J",
         "FULLNAME": "scp-zh-2588-j",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "2020虹光之間",
@@ -640,7 +640,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-171",
+        "TITLE": "SCP-ZH-171 - 惡之心牆",
         "FULLNAME": "scp-zh-171",
         "RATING": 8,
         "COMMENTS": "1",
@@ -665,7 +665,7 @@
     {
         "TITLE": "新聞快訊：若我們要達到仁慈的下場，應該遵守哪些事情",
         "FULLNAME": "news-site-zh-81-1",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "5",
         "TAGS": [
             "reverberate博士",
@@ -730,7 +730,7 @@
     {
         "TITLE": "藝術紀錄：死亡，永生-1",
         "FULLNAME": "art-for-death-eternal-life-1",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "1",
         "TAGS": [
             "原創",
@@ -752,7 +752,7 @@
     {
         "TITLE": "「三垣」中心頁",
         "FULLNAME": "three-enclosures-hub",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "0",
         "TAGS": [
             "三垣",
@@ -778,7 +778,7 @@
     {
         "TITLE": "Bright博士教你如何正確擊退敵人",
         "FULLNAME": "how-to-defeat-those-bad-guys-correctly",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "2",
         "TAGS": [
             "bright博士",
@@ -802,7 +802,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-133",
+        "TITLE": "SCP-ZH-133 - 不會用脫水來騙人的好藥是的",
         "FULLNAME": "scp-zh-133",
         "RATING": 21,
         "COMMENTS": "7",
@@ -874,8 +874,8 @@
     {
         "TITLE": "菇菇基金會",
         "FULLNAME": "fungi-foundation",
-        "RATING": 20,
-        "COMMENTS": "5",
+        "RATING": 22,
+        "COMMENTS": "6",
         "TAGS": [
             "bright博士",
             "clef博士",
@@ -1012,7 +1012,7 @@
     {
         "TITLE": "藝術紀錄：校外教學。",
         "FULLNAME": "art-for-2316",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "0",
         "TAGS": [
             "1976年班",
@@ -1196,7 +1196,7 @@
     {
         "TITLE": "SCP-ZH-617 - 西方的勇者",
         "FULLNAME": "scp-zh-617",
-        "RATING": 13,
+        "RATING": 14,
         "COMMENTS": "8",
         "TAGS": [
             "euclid",
@@ -1247,7 +1247,7 @@
     {
         "TITLE": "雙城作戰中心頁",
         "FULLNAME": "operation-twin-cities-hub",
-        "RATING": 8,
+        "RATING": 9,
         "COMMENTS": "1",
         "TAGS": [
             "中心",
@@ -1354,7 +1354,7 @@
     {
         "TITLE": "蓬萊島新創民主形式：「創制」首長將於今日解凍",
         "FULLNAME": "r-sinano-chuo-zhtr-2018-11-19-a222a",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "2",
         "TAGS": [
             "1998年",
@@ -1379,7 +1379,7 @@
     {
         "TITLE": "收容室ZH-S12-E-024實驗紀錄",
         "FULLNAME": "scp-zh-024",
-        "RATING": 33,
+        "RATING": 34,
         "COMMENTS": "0",
         "TAGS": [
             "euclid",
@@ -1401,7 +1401,6 @@
         "COMMENTS": "0",
         "TAGS": [
             "ad博士",
-            "cc",
             "kris博士",
             "原創",
             "研究員l.what",
@@ -1620,7 +1619,7 @@
     {
         "TITLE": "SCP-ZH-2005-EX",
         "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 56,
+        "RATING": 58,
         "COMMENTS": "1",
         "TAGS": [
             "2021冬季競賽",
@@ -1699,7 +1698,7 @@
     {
         "TITLE": "你會感到後悔嗎？",
         "FULLNAME": "what-are-you-waiting-for-just-join-goc-dude",
-        "RATING": 35,
+        "RATING": 36,
         "COMMENTS": "5",
         "TAGS": [
             "全球超自然聯盟",
@@ -1712,7 +1711,7 @@
     {
         "TITLE": "後現代基金會同人戀愛向輕小說",
         "FULLNAME": "k1s10r0d-april-fool-project-2021",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "5",
         "TAGS": [
             "kris博士",
@@ -1721,9 +1720,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-880",
+        "TITLE": "SCP-ZH-880 - 阿嬤覺得你冷",
         "FULLNAME": "scp-zh-880",
-        "RATING": 29,
+        "RATING": 30,
         "COMMENTS": "2",
         "TAGS": [
             "euclid",
@@ -1738,7 +1737,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-185",
+        "TITLE": "SCP-ZH-185 - 乖乖穩定器",
         "FULLNAME": "scp-zh-185",
         "RATING": 19,
         "COMMENTS": "11",
@@ -1759,7 +1758,7 @@
     {
         "TITLE": "鎖鏈的音竹",
         "FULLNAME": "k1s10r0d-chain-sugoi",
-        "RATING": 28,
+        "RATING": 29,
         "COMMENTS": "6",
         "TAGS": [
             "sugoi博士",
@@ -1770,7 +1769,7 @@
     {
         "TITLE": "好餓好餓的克里斯博士",
         "FULLNAME": "the-very-hungry-dr-kris",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "2",
         "TAGS": [
             "ctrl-z博士",
@@ -1800,7 +1799,7 @@
     {
         "TITLE": "中華民國國家安全局第八處 中心頁",
         "FULLNAME": "nsb8-hub",
-        "RATING": 14,
+        "RATING": 17,
         "COMMENTS": "3",
         "TAGS": [
             "中心",
@@ -1811,7 +1810,7 @@
     {
         "TITLE": "SCP-ZH-096 - 紅移破滅",
         "FULLNAME": "scp-zh-096",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "2",
         "TAGS": [
             "scp",
@@ -1825,7 +1824,7 @@
     {
         "TITLE": "異常項目紀錄：「防暴警察頭盔」",
         "FULLNAME": "anomalous-item-hk-police-helmet",
-        "RATING": 35,
+        "RATING": 37,
         "COMMENTS": "5",
         "TAGS": [
             "2021夏季競賽",
@@ -1836,7 +1835,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-128",
+        "TITLE": "SCP-ZH-128 - 此味並非惡魔之作",
         "FULLNAME": "scp-zh-128",
         "RATING": 20,
         "COMMENTS": "3",
@@ -1854,7 +1853,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-243",
+        "TITLE": "SCP-ZH-243 - 楠梓百慕達",
         "FULLNAME": "scp-zh-243",
         "RATING": 18,
         "COMMENTS": "0",
@@ -1889,7 +1888,7 @@
     {
         "TITLE": "繁中管理員筆記：2021年回顧",
         "FULLNAME": "note-for-u-guys-2021",
-        "RATING": 34,
+        "RATING": 35,
         "COMMENTS": "4",
         "TAGS": [
             "原創",

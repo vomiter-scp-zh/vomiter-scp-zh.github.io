@@ -5,7 +5,7 @@
     {
         "TITLE": "SCP-ZH-105 - 不孝子",
         "FULLNAME": "scp-zh-105",
-        "RATING": 65,
+        "RATING": 66,
         "COMMENTS": "5",
         "TAGS": [
             "euclid",
@@ -41,7 +41,7 @@
     {
         "TITLE": "SCP-ZH-515 - 平安符",
         "FULLNAME": "scp-zh-515",
-        "RATING": 43,
+        "RATING": 44,
         "COMMENTS": "2",
         "TAGS": [
             "2019暑期比賽",
@@ -77,7 +77,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-300",
+        "TITLE": "SCP-ZH-300 - 聖誕節交換「廢」物",
         "FULLNAME": "scp-zh-300",
         "RATING": 15,
         "COMMENTS": "2",
@@ -92,7 +92,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-400",
+        "TITLE": "SCP-ZH-400 - 月神蘚",
         "FULLNAME": "scp-zh-400",
         "RATING": 14,
         "COMMENTS": "1",
@@ -113,7 +113,7 @@
     {
         "TITLE": "SCP-ZH-60053-J - HONK",
         "FULLNAME": "scp-zh-60053-j",
-        "RATING": 43,
+        "RATING": 45,
         "COMMENTS": "7",
         "TAGS": [
             "scp",
@@ -131,7 +131,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-012",
+        "TITLE": "SCP-ZH-012 - 十二",
         "FULLNAME": "scp-zh-012",
         "RATING": 19,
         "COMMENTS": "2",
@@ -146,7 +146,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-222",
+        "TITLE": "SCP-ZH-222 - 月球上的超音波喵❤",
         "FULLNAME": "scp-zh-222",
         "RATING": 13,
         "COMMENTS": "2",
@@ -168,7 +168,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-007",
+        "TITLE": "SCP-ZH-007 - 幾何鯊魚",
         "FULLNAME": "scp-zh-007",
         "RATING": 15,
         "COMMENTS": "0",
@@ -188,7 +188,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-061",
+        "TITLE": "SCP-ZH-061 - 本車開往博覽會",
         "FULLNAME": "scp-zh-061",
         "RATING": 13,
         "COMMENTS": "0",
@@ -207,7 +207,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-170",
+        "TITLE": "SCP-ZH-170 - 沉默的螺旋梯",
         "FULLNAME": "scp-zh-170",
         "RATING": 5,
         "COMMENTS": "1",
@@ -224,9 +224,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-426",
+        "TITLE": "SCP-ZH-426 - 花園中的蛇是絕不低頭的",
         "FULLNAME": "scp-zh-426",
-        "RATING": 16,
+        "RATING": 15,
         "COMMENTS": "17",
         "TAGS": [
             "safe",
@@ -253,7 +253,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-060",
+        "TITLE": "SCP-ZH-060 - 鹿路隧道",
         "FULLNAME": "scp-zh-060",
         "RATING": 21,
         "COMMENTS": "1",
@@ -269,7 +269,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-079",
+        "TITLE": "SCP-ZH-079 - 目標，親王，擊發",
         "FULLNAME": "scp-zh-079",
         "RATING": 12,
         "COMMENTS": "1",
@@ -305,7 +305,7 @@
     {
         "TITLE": "SCP-ZH-496 - 安全極限距離",
         "FULLNAME": "scp-zh-496",
-        "RATING": 29,
+        "RATING": 30,
         "COMMENTS": "7",
         "TAGS": [
             "scp",
@@ -401,7 +401,7 @@
     {
         "TITLE": "SCP-ZH-991 - 魅魔後裔",
         "FULLNAME": "adult:scp-zh-991",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "4",
         "TAGS": [
             "2021夏季競賽",
@@ -427,7 +427,7 @@
     {
         "TITLE": "SCP-ZH-280 - 欸不是我的東西呢",
         "FULLNAME": "scp-zh-280",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "2",
         "TAGS": [
             "keter",
@@ -620,6 +620,47 @@
             "概念",
             "機密分級",
             "超現實部",
+            "超維度"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-157 - 暢行無阻",
+        "FULLNAME": "scp-zh-157",
+        "RATING": 11,
+        "COMMENTS": "1",
+        "TAGS": [
+            "safe",
+            "scp",
+            "人造物品",
+            "原創",
+            "合著",
+            "神異博覽會",
+            "超維度"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-962 - 似是而非",
+        "FULLNAME": "scp-zh-962",
+        "RATING": 19,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022萬聖事件",
+            "ain博士",
+            "k級情景",
+            "maddy",
+            "scp",
+            "site-zh-01",
+            "site-zh-44",
+            "surge博士",
+            "thaumiel",
+            "三垣",
+            "傳送",
+            "原創",
+            "合著",
+            "地點",
+            "時空",
+            "渾沌反叛軍",
+            "結構物",
             "超維度"
         ]
     }

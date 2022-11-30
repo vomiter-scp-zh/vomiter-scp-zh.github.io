@@ -3,9 +3,9 @@
         "TAGNAME": "觀察影響"
     },
     {
-        "TITLE": "SCP-ZH-100",
+        "TITLE": "SCP-ZH-100 - 布楊島",
         "FULLNAME": "scp-zh-100",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "1",
         "TAGS": [
             "reverberate博士",
@@ -22,9 +22,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-099",
+        "TITLE": "SCP-ZH-099 - 腐朽的墓碑",
         "FULLNAME": "scp-zh-099",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "1",
         "TAGS": [
             "scp",
@@ -58,7 +58,7 @@
     {
         "TITLE": "SCP-ZH-717 - 課堂中請勿伸出附肢",
         "FULLNAME": "scp-zh-717",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "0",
         "TAGS": [
             "2020夏季競賽",
@@ -79,7 +79,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-163",
+        "TITLE": "SCP-ZH-163 - 廣寒幽閉",
         "FULLNAME": "scp-zh-163",
         "RATING": 13,
         "COMMENTS": "2",
@@ -113,7 +113,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-172",
+        "TITLE": "SCP-ZH-172 - 血紙",
         "FULLNAME": "scp-zh-172",
         "RATING": 6,
         "COMMENTS": "9",
@@ -128,7 +128,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-066",
+        "TITLE": "SCP-ZH-066 - 有借有還",
         "FULLNAME": "scp-zh-066",
         "RATING": 11,
         "COMMENTS": "5",
@@ -211,7 +211,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-198",
+        "TITLE": "SCP-ZH-198 - 囚蜂",
         "FULLNAME": "scp-zh-198",
         "RATING": 3,
         "COMMENTS": "15",
@@ -228,7 +228,7 @@
     {
         "TITLE": "SCP-ZH-280 - 欸不是我的東西呢",
         "FULLNAME": "scp-zh-280",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "2",
         "TAGS": [
             "keter",
@@ -244,7 +244,7 @@
     {
         "TITLE": "SCP-ZH-540 - Alone In The Dark",
         "FULLNAME": "scp-zh-540",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "2",
         "TAGS": [
             "scp",
@@ -370,7 +370,7 @@
     {
         "TITLE": "SCP-ZH-180 - 安 妮 :-)",
         "FULLNAME": "scp-zh-180",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "2",
         "TAGS": [
             "scp",
@@ -384,6 +384,38 @@
             "觀察影響",
             "都異部門",
             "雕像"
+        ]
+    },
+    {
+        "TITLE": "Reverberate_a的提案",
+        "FULLNAME": "reverberate-a-s-proposal-1",
+        "RATING": 23,
+        "COMMENTS": "2",
+        "TAGS": [
+            "001提案",
+            "2022紅藍爭霸賽",
+            "reverberate博士",
+            "人形",
+            "原創",
+            "地點",
+            "心靈影響",
+            "觀察影響"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-076 - 廿載明昭",
+        "FULLNAME": "scp-zh-076",
+        "RATING": 4,
+        "COMMENTS": "2",
+        "TAGS": [
+            "1976年班",
+            "safe",
+            "scp",
+            "site-zh-25",
+            "原創",
+            "張道士",
+            "文獻",
+            "觀察影響"
         ]
     }
 ]

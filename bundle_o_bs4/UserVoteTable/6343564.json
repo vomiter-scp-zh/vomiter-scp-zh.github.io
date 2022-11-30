@@ -1,8 +1,8 @@
 [
     {
-        "TITLE": "SCP-ZH-035",
+        "TITLE": "SCP-ZH-035 - 跑酷者",
         "FULLNAME": "scp-zh-035",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "0",
         "TAGS": [
             "euclid",
@@ -12,9 +12,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-005",
+        "TITLE": "SCP-ZH-005 - 假如你沒有轉發這篇文檔給十個朋友，那麼…………",
         "FULLNAME": "scp-zh-005",
-        "RATING": 60,
+        "RATING": 61,
         "COMMENTS": "0",
         "TAGS": [
             "keter",
@@ -25,9 +25,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-041",
+        "TITLE": "SCP-ZH-041 - 夢想",
         "FULLNAME": "scp-zh-041",
-        "RATING": 19,
+        "RATING": 20,
         "COMMENTS": "4",
         "TAGS": [
             "lofia",
@@ -38,7 +38,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-025",
+        "TITLE": "SCP-ZH-025 - 雪花小貓咪",
         "FULLNAME": "scp-zh-025",
         "RATING": 16,
         "COMMENTS": "2",
@@ -59,7 +59,7 @@
     {
         "TITLE": "SCP-ZH-002 - 台灣獨角獸",
         "FULLNAME": "scp-zh-002",
-        "RATING": 36,
+        "RATING": 37,
         "COMMENTS": "13",
         "TAGS": [
             "keter",
@@ -85,7 +85,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-014",
+        "TITLE": "SCP-ZH-014 - 人魚公主的故事",
         "FULLNAME": "scp-zh-014",
         "RATING": 20,
         "COMMENTS": "4",
@@ -106,7 +106,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-040",
+        "TITLE": "SCP-ZH-040 - 觀眾視角",
         "FULLNAME": "scp-zh-040",
         "RATING": 12,
         "COMMENTS": "1",
@@ -122,7 +122,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-042",
+        "TITLE": "SCP-ZH-042 - 捨身餵人",
         "FULLNAME": "scp-zh-042",
         "RATING": 17,
         "COMMENTS": "1",
@@ -140,7 +140,7 @@
     {
         "TITLE": "收容室ZH-S12-E-024實驗紀錄",
         "FULLNAME": "scp-zh-024",
-        "RATING": 33,
+        "RATING": 34,
         "COMMENTS": "0",
         "TAGS": [
             "euclid",

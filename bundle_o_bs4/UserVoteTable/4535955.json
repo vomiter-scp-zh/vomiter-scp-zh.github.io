@@ -1,6 +1,6 @@
 [
     {
-        "TITLE": "SCP-ZH-199",
+        "TITLE": "SCP-ZH-199 - 中永和迷宮",
         "FULLNAME": "scp-zh-199",
         "RATING": 22,
         "COMMENTS": "8",
@@ -47,9 +47,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-147",
+        "TITLE": "SCP-ZH-147 - 時間小偷",
         "FULLNAME": "scp-zh-147",
-        "RATING": 18,
+        "RATING": 19,
         "COMMENTS": "2",
         "TAGS": [
             "ctrl-z博士",

@@ -5,7 +5,7 @@
     {
         "TITLE": "SCP-ZH-60053-J - HONK",
         "FULLNAME": "scp-zh-60053-j",
-        "RATING": 43,
+        "RATING": 45,
         "COMMENTS": "7",
         "TAGS": [
             "scp",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-137",
+        "TITLE": "SCP-ZH-137 - 墨玉鎖妖大印",
         "FULLNAME": "scp-zh-137",
         "RATING": 6,
         "COMMENTS": "0",
@@ -64,9 +64,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-111",
+        "TITLE": "SCP-ZH-111 - 自我中心",
         "FULLNAME": "scp-zh-111",
-        "RATING": 34,
+        "RATING": 38,
         "COMMENTS": "0",
         "TAGS": [
             "keter",
@@ -89,7 +89,7 @@
     {
         "TITLE": "SCP-ZH-496 - 安全極限距離",
         "FULLNAME": "scp-zh-496",
-        "RATING": 29,
+        "RATING": 30,
         "COMMENTS": "7",
         "TAGS": [
             "scp",
@@ -124,7 +124,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-231",
+        "TITLE": "SCP-ZH-231 - 黑暗卡西",
         "FULLNAME": "scp-zh-231",
         "RATING": 9,
         "COMMENTS": "9",
@@ -209,7 +209,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-613",
+        "TITLE": "SCP-ZH-613 - 血天使",
         "FULLNAME": "scp-zh-613",
         "RATING": 17,
         "COMMENTS": "1",
@@ -362,6 +362,43 @@
             "誤傳部",
             "資訊危害",
             "都異部門"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-328 - Dark Soups",
+        "FULLNAME": "scp-zh-328",
+        "RATING": 20,
+        "COMMENTS": "3",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "bales博士",
+            "safe",
+            "scp",
+            "site-zh-16",
+            "原創",
+            "基金會製造",
+            "敵意",
+            "毒性",
+            "睡眠",
+            "遊戲",
+            "食物",
+            "魚類"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-244 - 我回來了",
+        "FULLNAME": "scp-zh-244",
+        "RATING": 16,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022萬聖事件",
+            "euclid",
+            "scp",
+            "人形",
+            "原創",
+            "敵意",
+            "未收容",
+            "無定形"
         ]
     }
 ]

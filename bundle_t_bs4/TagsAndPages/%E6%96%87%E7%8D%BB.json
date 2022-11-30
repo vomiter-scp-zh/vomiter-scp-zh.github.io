@@ -90,7 +90,7 @@
     {
         "TITLE": "SCP-1833 - 班級76",
         "FULLNAME": "scp-1833",
-        "RATING": 2,
+        "RATING": 3,
         "COMMENTS": "0",
         "TAGS": [
             "1976年班",
@@ -403,7 +403,7 @@
     {
         "TITLE": "SCP-1425 - 星星信號",
         "FULLNAME": "scp-1425",
-        "RATING": 4,
+        "RATING": 3,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -595,7 +595,7 @@
     {
         "TITLE": "SCP-1451 - 沉沒之子的防禦圈",
         "FULLNAME": "scp-1451",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -680,7 +680,7 @@
     {
         "TITLE": "SCP-009-J",
         "FULLNAME": "scp-009-j",
-        "RATING": 2,
+        "RATING": 3,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -743,8 +743,8 @@
     {
         "TITLE": "SCP-7K-J - 一擲定生死",
         "FULLNAME": "scp-7k-j",
-        "RATING": 5,
-        "COMMENTS": "2",
+        "RATING": 6,
+        "COMMENTS": "3",
         "TAGS": [
             "en",
             "euclid",
@@ -754,6 +754,50 @@
             "搞笑",
             "數學性",
             "文獻",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-1984-J - 字面上的1984",
+        "FULLNAME": "scp-1984-j",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "強迫性",
+            "搞笑",
+            "文獻",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-476 - 至無處之地圖",
+        "FULLNAME": "scp-476",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "地點",
+            "文獻",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-1053 - 人口過剩",
+        "FULLNAME": "scp-1053",
+        "RATING": 1,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "城市",
+            "文獻",
+            "時空",
             "翻譯"
         ]
     }

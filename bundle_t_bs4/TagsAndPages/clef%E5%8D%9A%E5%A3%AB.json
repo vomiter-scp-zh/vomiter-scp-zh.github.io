@@ -70,7 +70,7 @@
     {
         "TITLE": "Clef博士研討會手記，「現實扭曲者與你：當不存在的事物存在時該如何生存。」",
         "FULLNAME": "clef101",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "1",
         "TAGS": [
             "clef博士",
@@ -441,7 +441,7 @@
     {
         "TITLE": "SCP-2911-JP - 美國最漫長的一天",
         "FULLNAME": "scp-2911-jp",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "2",
         "TAGS": [
             "1998年",
@@ -505,7 +505,7 @@
     {
         "TITLE": "SCP-666½-J",
         "FULLNAME": "scp-666-and-a-half-j",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "1",
         "TAGS": [
             "bright博士",
@@ -600,7 +600,7 @@
     {
         "TITLE": "SCP-4852 - Site-19南遷渡冬去！",
         "FULLNAME": "scp-4852",
-        "RATING": 9,
+        "RATING": 11,
         "COMMENTS": "1",
         "TAGS": [
             "aktus主任",
@@ -654,7 +654,7 @@
     {
         "TITLE": "摘錄自Alto Clef〈如何在現實不存在時求生〉",
         "FULLNAME": "clef-excerpts",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "clef博士",
@@ -852,6 +852,7 @@
         "TAGS": [
             "bright博士",
             "clef博士",
+            "en",
             "kain-pathos-crow",
             "rights博士",
             "合作",
@@ -898,6 +899,7 @@
             "mann博士",
             "mcdoctorate博士",
             "中心",
+            "採購與清算部",
             "站點",
             "翻譯"
         ]
@@ -935,7 +937,7 @@
     {
         "TITLE": "SCP-7001 - Site-19",
         "FULLNAME": "scp-7001",
-        "RATING": 6,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "asheworth博士",
@@ -964,7 +966,7 @@
     {
         "TITLE": "全新把戲（或：青年文化殺了我的狗",
         "FULLNAME": "new-tricks",
-        "RATING": 2,
+        "RATING": 3,
         "COMMENTS": "0",
         "TAGS": [
             "bowe上將",
@@ -983,7 +985,7 @@
     {
         "TITLE": "SCP-4231 - 蒙托克之屋",
         "FULLNAME": "scp-4231",
-        "RATING": 10,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "clef博士",
@@ -999,6 +1001,24 @@
             "猩紅之王",
             "翻譯",
             "超維度"
+        ]
+    },
+    {
+        "TITLE": "第一名的射手",
+        "FULLNAME": "number-one-with-a-bullet",
+        "RATING": 3,
+        "COMMENTS": "2",
+        "TAGS": [
+            "bowe上將",
+            "clef博士",
+            "elliott博士",
+            "en",
+            "iris-thompson",
+            "kain-pathos-crow",
+            "全球超自然聯盟",
+            "復生",
+            "故事",
+            "翻譯"
         ]
     }
 ]

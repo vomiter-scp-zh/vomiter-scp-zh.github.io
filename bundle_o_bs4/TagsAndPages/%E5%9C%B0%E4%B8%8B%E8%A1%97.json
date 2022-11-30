@@ -3,7 +3,7 @@
         "TAGNAME": "地下街"
     },
     {
-        "TITLE": "SCP-ZH-009",
+        "TITLE": "SCP-ZH-009 - 臺式早點",
         "FULLNAME": "scp-zh-009",
         "RATING": 20,
         "COMMENTS": "3",
@@ -18,7 +18,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-618",
+        "TITLE": "SCP-ZH-618 - 太陽餅獅",
         "FULLNAME": "scp-zh-618",
         "RATING": 41,
         "COMMENTS": "0",
@@ -70,7 +70,7 @@
     {
         "TITLE": "繁中站點地下街",
         "FULLNAME": "shopping-arcade",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "3",
         "TAGS": [
             "三垣",
@@ -161,7 +161,7 @@
     {
         "TITLE": "爆旋壽司 青龍舞兮 朱雀飛翔",
         "FULLNAME": "sushi-dragon-phoenix",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "0",
         "TAGS": [
             "uiu",
@@ -201,7 +201,7 @@
     {
         "TITLE": "Dr. Bales的日常小品集錦 二",
         "FULLNAME": "bales-s-daily-2",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "1",
         "TAGS": [
             "ain博士",
@@ -220,7 +220,7 @@
     {
         "TITLE": "SCP-ZH-980 - 築夢小棧",
         "FULLNAME": "scp-zh-980",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "2",
         "TAGS": [
             "bales博士",
@@ -238,7 +238,7 @@
     {
         "TITLE": "2010年的那幾個實習生",
         "FULLNAME": "source-of-chaos",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "0",
         "TAGS": [
             "ain博士",
@@ -386,6 +386,24 @@
             "流浪者圖書館",
             "特殊貨物事務委員會",
             "蛇之手"
+        ]
+    },
+    {
+        "TITLE": "執左道者的自我政變",
+        "FULLNAME": "self-coup-of-the-knavish",
+        "RATING": 17,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "metha博士",
+            "原創",
+            "地下街",
+            "成人內容",
+            "故事",
+            "物理少年",
+            "研究員knave",
+            "航海學",
+            "轉世計劃"
         ]
     }
 ]

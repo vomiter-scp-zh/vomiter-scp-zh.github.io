@@ -49,7 +49,7 @@
     {
         "TITLE": "銜尾蛇",
         "FULLNAME": "ouroboros",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "0",
         "TAGS": [
             "001提案",
@@ -211,7 +211,7 @@
     {
         "TITLE": "更新版記憶消除劑指南",
         "FULLNAME": "updated-amnestics-guide",
-        "RATING": 15,
+        "RATING": 16,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -504,7 +504,7 @@
         "TITLE": "俄分著作權法相關解釋（20/6/2019）",
         "FULLNAME": "russian-branch-sub-copyright-law",
         "RATING": 9,
-        "COMMENTS": "1",
+        "COMMENTS": "2",
         "TAGS": [
             "新聞",
             "管理",
@@ -615,7 +615,7 @@
     {
         "TITLE": "相嘯魔解密",
         "FULLNAME": "scpdeclassified-pattern-screamers-declassified",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -1343,7 +1343,7 @@
     {
         "TITLE": "SCP-2317 - 前往彼界之門",
         "FULLNAME": "scp-2317",
-        "RATING": 11,
+        "RATING": 14,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1363,7 +1363,7 @@
     {
         "TITLE": "SCP-4999 - 守望我等之人",
         "FULLNAME": "scp-4999",
-        "RATING": 13,
+        "RATING": 14,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1392,7 +1392,7 @@
     {
         "TITLE": "SCP-087 - 樓梯間",
         "FULLNAME": "scp-087",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -1643,7 +1643,7 @@
     {
         "TITLE": "SCP-096 - 羞澀的人",
         "FULLNAME": "scp-096",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "0",
         "TAGS": [
             "dan博士",
@@ -1754,7 +1754,7 @@
     {
         "TITLE": "SCP-426 - 我是一臺烤吐司機",
         "FULLNAME": "scp-426",
-        "RATING": 8,
+        "RATING": 9,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -1805,7 +1805,7 @@
     {
         "TITLE": "黑白黑白黑白黑白黑白灰",
         "FULLNAME": "black-white-black-white-black-white-black-white-black-white",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1834,7 +1834,7 @@
     {
         "TITLE": "SCP-3936 - 一如預期般運作",
         "FULLNAME": "scp-3936",
-        "RATING": 15,
+        "RATING": 16,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -1992,7 +1992,7 @@
     {
         "TITLE": "吾王萬歲",
         "FULLNAME": "long-live-the-king",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -2034,7 +2034,7 @@
     {
         "TITLE": "SCP-2998 - 異常傳播訊號，2485MHz",
         "FULLNAME": "scp-2998",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -2321,7 +2321,7 @@
     {
         "TITLE": "序曲：預備鈴",
         "FULLNAME": "days-gone-by",
-        "RATING": 7,
+        "RATING": 9,
         "COMMENTS": "0",
         "TAGS": [
             "1976年班",
@@ -2601,7 +2601,7 @@
     {
         "TITLE": "SCP-5149 - 喬，我們可不是瞎子。",
         "FULLNAME": "scp-5149",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "4",
         "TAGS": [
             "en",
@@ -2691,7 +2691,7 @@
     {
         "TITLE": "SCP-4357-J",
         "FULLNAME": "scp-4357-j",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -2724,8 +2724,8 @@
     {
         "TITLE": "SCP-001-EX-J",
         "FULLNAME": "scp-001-ex-j",
-        "RATING": 11,
-        "COMMENTS": "1",
+        "RATING": 12,
+        "COMMENTS": "2",
         "TAGS": [
             "en",
             "scp",
@@ -3070,7 +3070,7 @@
     {
         "TITLE": "SCP-063-J",
         "FULLNAME": "scp-063-j",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -3686,7 +3686,7 @@
     {
         "TITLE": "SCP-3333 - 塔",
         "FULLNAME": "scp-3333",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -3701,7 +3701,7 @@
     {
         "TITLE": "SCP-4666 - 聖誕老人",
         "FULLNAME": "scp-4666",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -3713,6 +3713,20 @@
             "敵意",
             "未收容",
             "玩具",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-661-J",
+        "FULLNAME": "scp-661-j",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "搞笑",
+            "機率性",
             "翻譯"
         ]
     }

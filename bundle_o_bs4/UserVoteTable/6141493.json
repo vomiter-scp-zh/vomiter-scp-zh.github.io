@@ -1,6 +1,6 @@
 [
     {
-        "TITLE": "SCP-ZH-883",
+        "TITLE": "SCP-ZH-883 - 迷惘",
         "FULLNAME": "scp-zh-883",
         "RATING": 8,
         "COMMENTS": "2",
@@ -13,7 +13,7 @@
     {
         "TITLE": "SCP-ZH-105 - 不孝子",
         "FULLNAME": "scp-zh-105",
-        "RATING": 65,
+        "RATING": 66,
         "COMMENTS": "5",
         "TAGS": [
             "euclid",
@@ -30,7 +30,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-125",
+        "TITLE": "SCP-ZH-125 - 博愛座",
         "FULLNAME": "scp-zh-125",
         "RATING": 22,
         "COMMENTS": "2",
@@ -52,7 +52,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-047",
+        "TITLE": "SCP-ZH-047 - 你的所作所為",
         "FULLNAME": "scp-zh-047",
         "RATING": 12,
         "COMMENTS": "3",
@@ -67,9 +67,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-120",
+        "TITLE": "SCP-ZH-120 - 虛構的我們",
         "FULLNAME": "scp-zh-120",
-        "RATING": 39,
+        "RATING": 40,
         "COMMENTS": "4",
         "TAGS": [
             "2019回憶競賽",
@@ -113,7 +113,7 @@
     {
         "TITLE": "我在萬物之中",
         "FULLNAME": "arkwork-3999",
-        "RATING": 37,
+        "RATING": 38,
         "COMMENTS": "8",
         "TAGS": [
             "原創",
@@ -123,7 +123,7 @@
     {
         "TITLE": "我沒能救到他。",
         "FULLNAME": "arkwork-zh-200",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "0",
         "TAGS": [
             "原創",
@@ -143,7 +143,7 @@
     {
         "TITLE": "巧達Clef!",
         "FULLNAME": "arkwork-chowderclef",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "0",
         "TAGS": [
             "原創",
@@ -172,7 +172,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-015",
+        "TITLE": "SCP-ZH-015 - 七人八笑",
         "FULLNAME": "scp-zh-015",
         "RATING": 23,
         "COMMENTS": "0",
@@ -188,9 +188,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-147",
+        "TITLE": "SCP-ZH-147 - 時間小偷",
         "FULLNAME": "scp-zh-147",
-        "RATING": 18,
+        "RATING": 19,
         "COMMENTS": "2",
         "TAGS": [
             "ctrl-z博士",
@@ -229,7 +229,7 @@
     {
         "TITLE": "收容室ZH-S12-E-024實驗紀錄",
         "FULLNAME": "scp-zh-024",
-        "RATING": 33,
+        "RATING": 34,
         "COMMENTS": "0",
         "TAGS": [
             "euclid",
@@ -255,7 +255,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-526",
+        "TITLE": "SCP-ZH-526 - 我就是一台烤土司機",
         "FULLNAME": "scp-zh-526",
         "RATING": 19,
         "COMMENTS": "1",
@@ -273,7 +273,7 @@
     {
         "TITLE": "SCP-ZH-2005-EX",
         "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 56,
+        "RATING": 58,
         "COMMENTS": "1",
         "TAGS": [
             "2021冬季競賽",
@@ -321,7 +321,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-115",
+        "TITLE": "SCP-ZH-115 - 今天的天氣是俄羅斯方塊",
         "FULLNAME": "scp-zh-115",
         "RATING": 15,
         "COMMENTS": "4",
@@ -366,7 +366,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-032",
+        "TITLE": "SCP-ZH-032 - 有毒的橡皮擦",
         "FULLNAME": "scp-zh-032",
         "RATING": 21,
         "COMMENTS": "0",
@@ -390,7 +390,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-034",
+        "TITLE": "SCP-ZH-034 - 飛頭蠻",
         "FULLNAME": "scp-zh-034",
         "RATING": 23,
         "COMMENTS": "3",
@@ -423,7 +423,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-048",
+        "TITLE": "SCP-ZH-048 - 劍與魔法與茶之魔手",
         "FULLNAME": "scp-zh-048",
         "RATING": 21,
         "COMMENTS": "2",
@@ -440,8 +440,8 @@
     {
         "TITLE": "SCP-ZH-144 - 十二進位法",
         "FULLNAME": "scp-zh-144",
-        "RATING": 23,
-        "COMMENTS": "3",
+        "RATING": 25,
+        "COMMENTS": "6",
         "TAGS": [
             "keter",
             "scp",
@@ -489,7 +489,7 @@
     {
         "TITLE": "項目企劃書 2017-47：《健康的代價》",
         "FULLNAME": "project-proposal-2017-47-zh",
-        "RATING": 23,
+        "RATING": 24,
         "COMMENTS": "3",
         "TAGS": [
             "awcy",
@@ -667,6 +667,31 @@
             "原創",
             "故事",
             "研究員lucifelle"
+        ]
+    },
+    {
+        "TITLE": "但願我不再好命",
+        "FULLNAME": "toogoodtobetrue",
+        "RATING": 19,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "原創",
+            "異視維基"
+        ]
+    },
+    {
+        "TITLE": "表層變動",
+        "FULLNAME": "one-of-the-secrets",
+        "RATING": 18,
+        "COMMENTS": "2",
+        "TAGS": [
+            "ain博士",
+            "maddy",
+            "site-zh-44",
+            "原創",
+            "展出",
+            "故事"
         ]
     }
 ]

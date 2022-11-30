@@ -49,7 +49,7 @@
     {
         "TITLE": "SCP-240-JP - 零隻蝗蟲",
         "FULLNAME": "scp-240-jp",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "1",
         "TAGS": [
             "euclid",
@@ -101,6 +101,7 @@
         "TAGS": [
             "en",
             "scp",
+            "vang博士",
             "搞笑",
             "翻譯"
         ]
@@ -108,7 +109,7 @@
     {
         "TITLE": "SPC-1057-J",
         "FULLNAME": "spc-1057-j",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -337,7 +338,7 @@
     {
         "TITLE": "相嘯魔解密",
         "FULLNAME": "scpdeclassified-pattern-screamers-declassified",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "1",
         "TAGS": [
             "en",

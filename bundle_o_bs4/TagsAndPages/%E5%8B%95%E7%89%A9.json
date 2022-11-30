@@ -3,7 +3,7 @@
         "TAGNAME": "動物"
     },
     {
-        "TITLE": "SCP-ZH-724",
+        "TITLE": "SCP-ZH-724 - 荷瓦伊的溫室球",
         "FULLNAME": "scp-zh-724",
         "RATING": 5,
         "COMMENTS": "3",
@@ -17,7 +17,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-687",
+        "TITLE": "SCP-ZH-687 - 獨眼發條貓",
         "FULLNAME": "scp-zh-687",
         "RATING": 3,
         "COMMENTS": "0",
@@ -31,7 +31,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-118",
+        "TITLE": "SCP-ZH-118 - 荒謬的和平鴿",
         "FULLNAME": "scp-zh-118",
         "RATING": 6,
         "COMMENTS": "3",
@@ -82,7 +82,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-025",
+        "TITLE": "SCP-ZH-025 - 雪花小貓咪",
         "FULLNAME": "scp-zh-025",
         "RATING": 16,
         "COMMENTS": "2",
@@ -103,7 +103,7 @@
     {
         "TITLE": "SCP-ZH-002 - 台灣獨角獸",
         "FULLNAME": "scp-zh-002",
-        "RATING": 36,
+        "RATING": 37,
         "COMMENTS": "13",
         "TAGS": [
             "keter",
@@ -142,7 +142,7 @@
     {
         "TITLE": "SCP-ZH-60053-J - HONK",
         "FULLNAME": "scp-zh-60053-j",
-        "RATING": 43,
+        "RATING": 45,
         "COMMENTS": "7",
         "TAGS": [
             "scp",
@@ -160,7 +160,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-169",
+        "TITLE": "SCP-ZH-169 - 怨雨易積至年節，嗜茶巧獸願覺眠",
         "FULLNAME": "scp-zh-169",
         "RATING": 5,
         "COMMENTS": "4",
@@ -195,7 +195,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-019",
+        "TITLE": "SCP-ZH-019 - 活態手機",
         "FULLNAME": "scp-zh-019",
         "RATING": 11,
         "COMMENTS": "2",
@@ -290,7 +290,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-222",
+        "TITLE": "SCP-ZH-222 - 月球上的超音波喵❤",
         "FULLNAME": "scp-zh-222",
         "RATING": 13,
         "COMMENTS": "2",
@@ -312,7 +312,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-007",
+        "TITLE": "SCP-ZH-007 - 幾何鯊魚",
         "FULLNAME": "scp-zh-007",
         "RATING": 15,
         "COMMENTS": "0",
@@ -332,7 +332,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-862",
+        "TITLE": "SCP-ZH-862 - 雲豹人",
         "FULLNAME": "scp-zh-862",
         "RATING": 5,
         "COMMENTS": "0",
@@ -364,7 +364,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-011",
+        "TITLE": "SCP-ZH-011 - 愛它就接受它",
         "FULLNAME": "scp-zh-011",
         "RATING": 8,
         "COMMENTS": "3",
@@ -381,7 +381,7 @@
     {
         "TITLE": "SCP-ZH-451 - 反對者與蠕蟲",
         "FULLNAME": "scp-zh-451",
-        "RATING": 11,
+        "RATING": 10,
         "COMMENTS": "7",
         "TAGS": [
             "2020夏季競賽",
@@ -419,7 +419,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-321",
+        "TITLE": "SCP-ZH-321 - 瑯嬌靈貓",
         "FULLNAME": "scp-zh-321",
         "RATING": 7,
         "COMMENTS": "4",
@@ -455,7 +455,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-235",
+        "TITLE": "SCP-ZH-235 - 會飛的小黃書",
         "FULLNAME": "adult:scp-zh-235",
         "RATING": 21,
         "COMMENTS": "10",
@@ -474,7 +474,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-946",
+        "TITLE": "SCP-ZH-946 - 黑兔大戰爭🐇",
         "FULLNAME": "scp-zh-946",
         "RATING": 27,
         "COMMENTS": "13",
@@ -497,7 +497,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-037",
+        "TITLE": "SCP-ZH-037 - 玳瑁之淚",
         "FULLNAME": "scp-zh-037",
         "RATING": 20,
         "COMMENTS": "0",
@@ -619,7 +619,7 @@
     {
         "TITLE": "SCP-ZH-062 - 燈猴",
         "FULLNAME": "scp-zh-062",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "0",
         "TAGS": [
             "safe",

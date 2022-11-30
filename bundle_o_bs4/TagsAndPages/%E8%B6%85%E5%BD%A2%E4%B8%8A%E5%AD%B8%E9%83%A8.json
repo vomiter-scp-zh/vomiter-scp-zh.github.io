@@ -5,7 +5,7 @@
     {
         "TITLE": "故事的力量～你為什麼需要超形上學～",
         "FULLNAME": "why-you-need-pataphysics",
-        "RATING": 26,
+        "RATING": 29,
         "COMMENTS": "1",
         "TAGS": [
             "原創",
@@ -75,7 +75,7 @@
     {
         "TITLE": "SCP-ZH-441 - 只能以這種方式錯誤地惦記被碾壓而亡的屍體",
         "FULLNAME": "scp-zh-441",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "1",
         "TAGS": [
             "2022夏季競賽",
@@ -89,9 +89,30 @@
             "建築物",
             "概念",
             "機密分級",
+            "真紀博士",
             "資訊危害",
             "超形上學部",
             "逆模因"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-176 - 《海鷗的大撤退》",
+        "FULLNAME": "scp-zh-176",
+        "RATING": 21,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "keter",
+            "meta",
+            "metha博士",
+            "scp",
+            "全球超自然聯盟",
+            "原創",
+            "基金會製造",
+            "敘述性",
+            "文獻",
+            "研究員knave",
+            "超形上學部"
         ]
     }
 ]

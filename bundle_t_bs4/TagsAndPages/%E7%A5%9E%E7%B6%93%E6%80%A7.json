@@ -75,7 +75,7 @@
     {
         "TITLE": "SCP-3001 - 紅色現實",
         "FULLNAME": "scp-3001",
-        "RATING": 16,
+        "RATING": 19,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -186,7 +186,7 @@
     {
         "TITLE": "SCP-3984 - 用棍棒戳死神",
         "FULLNAME": "scp-3984",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "0",
         "TAGS": [
             "d-11424 en",
@@ -341,6 +341,39 @@
             "精神影響",
             "翻譯",
             "藝術性"
+        ]
+    },
+    {
+        "TITLE": "SCP-3733 - 其他所有人",
+        "FULLNAME": "scp-3733",
+        "RATING": 6,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "未收容",
+            "神經性",
+            "翻譯",
+            "資訊危害"
+        ]
+    },
+    {
+        "TITLE": "SCP-413 - 無邊無際的停車場",
+        "FULLNAME": "scp-413",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "建築物",
+            "時空",
+            "智能",
+            "神經性",
+            "翻譯",
+            "聲音",
+            "聽覺影響"
         ]
     }
 ]

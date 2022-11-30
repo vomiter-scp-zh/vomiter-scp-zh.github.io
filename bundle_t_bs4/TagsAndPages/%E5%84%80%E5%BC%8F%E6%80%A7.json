@@ -42,7 +42,7 @@
     {
         "TITLE": "SCP-2317 - 前往彼界之門",
         "FULLNAME": "scp-2317",
-        "RATING": 11,
+        "RATING": 14,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -162,7 +162,7 @@
     {
         "TITLE": "SCP-2911-JP - 美國最漫長的一天",
         "FULLNAME": "scp-2911-jp",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "2",
         "TAGS": [
             "1998年",
@@ -209,7 +209,7 @@
         ]
     },
     {
-        "TITLE": "［基於協議4000-Eshu而被限制］",
+        "TITLE": "［基於協議4000-Eshu而受限制］",
         "FULLNAME": "taboo",
         "RATING": 11,
         "COMMENTS": "4",
@@ -242,7 +242,6 @@
             "jp",
             "k級情景",
             "scp",
-            "儀式",
             "儀式性",
             "全球超自然聯盟",
             "動物",
@@ -578,7 +577,7 @@
     {
         "TITLE": "SCP-4231 - 蒙托克之屋",
         "FULLNAME": "scp-4231",
-        "RATING": 10,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "clef博士",
@@ -594,6 +593,80 @@
             "猩紅之王",
             "翻譯",
             "超維度"
+        ]
+    },
+    {
+        "TITLE": "SCP-6871 - 轉眼之間",
+        "FULLNAME": "scp-6871",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "bright博士",
+            "dc-al-fine",
+            "en",
+            "scp",
+            "thaumiel",
+            "the-administrator",
+            "不滅孽蜥",
+            "儀式性",
+            "全球超自然聯盟",
+            "夜之子",
+            "大術士伊仰",
+            "悖論",
+            "時間影響",
+            "未曾建立",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-1333-J!",
+        "FULLNAME": "scp-1333-j",
+        "RATING": 2,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "meta",
+            "scp",
+            "人形",
+            "儀式性",
+            "搞笑",
+            "機密分級",
+            "翻譯",
+            "聲音",
+            "聽覺影響",
+            "認知危害"
+        ]
+    },
+    {
+        "TITLE": "SCP-089 - 托菲特的魔神像",
+        "FULLNAME": "scp-089",
+        "RATING": 4,
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "人形",
+            "儀式性",
+            "宗教性",
+            "火",
+            "翻譯",
+            "雕像",
+            "預測性"
+        ]
+    },
+    {
+        "TITLE": "SCP-012-VN - 咎由自取",
+        "FULLNAME": "scp-012-vn",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "scp",
+            "vn",
+            "二次翻譯",
+            "儀式性",
+            "無效化",
+            "翻譯"
         ]
     }
 ]

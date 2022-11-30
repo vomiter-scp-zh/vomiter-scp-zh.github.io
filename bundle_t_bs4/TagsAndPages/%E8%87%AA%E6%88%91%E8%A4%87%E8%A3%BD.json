@@ -169,8 +169,8 @@
     {
         "TITLE": "SCP-001-EX-J",
         "FULLNAME": "scp-001-ex-j",
-        "RATING": 11,
-        "COMMENTS": "1",
+        "RATING": 12,
+        "COMMENTS": "2",
         "TAGS": [
             "en",
             "scp",
@@ -186,7 +186,7 @@
     {
         "TITLE": "Scantron的提案",
         "FULLNAME": "scantron-s-proposal",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "1",
         "TAGS": [
             "001提案",
@@ -448,7 +448,7 @@
     {
         "TITLE": "SCP-387 - 活體樂高",
         "FULLNAME": "scp-387",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -478,6 +478,23 @@
             "無脊椎動物",
             "物種",
             "翻譯",
+            "自我複製"
+        ]
+    },
+    {
+        "TITLE": "SCP-1048 - 拼裝者小熊",
+        "FULLNAME": "scp-1048",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "未收容",
+            "玩具",
+            "精神影響",
+            "翻譯",
+            "自主",
             "自我複製"
         ]
     }

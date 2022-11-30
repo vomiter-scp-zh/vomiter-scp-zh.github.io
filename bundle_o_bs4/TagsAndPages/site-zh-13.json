@@ -3,7 +3,7 @@
         "TAGNAME": "site-zh-13"
     },
     {
-        "TITLE": "SCP-ZH-006",
+        "TITLE": "SCP-ZH-006 - 真正意義上的爆米花",
         "FULLNAME": "scp-zh-006",
         "RATING": 11,
         "COMMENTS": "6",
@@ -23,7 +23,7 @@
     {
         "TITLE": "SCP-ZH-998 - 現象學",
         "FULLNAME": "scp-zh-998",
-        "RATING": 37,
+        "RATING": 38,
         "COMMENTS": "7",
         "TAGS": [
             "k級情景",
@@ -95,7 +95,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-833",
+        "TITLE": "SCP-ZH-833 - 時逆殘影",
         "FULLNAME": "scp-zh-833",
         "RATING": 10,
         "COMMENTS": "4",
@@ -160,7 +160,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-037",
+        "TITLE": "SCP-ZH-037 - 玳瑁之淚",
         "FULLNAME": "scp-zh-037",
         "RATING": 20,
         "COMMENTS": "0",
@@ -175,7 +175,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-409",
+        "TITLE": "SCP-ZH-409 - 鐵衣藻",
         "FULLNAME": "scp-zh-409",
         "RATING": 12,
         "COMMENTS": "6",
@@ -233,6 +233,33 @@
             "site-zh-13",
             "原創",
             "藝術作品"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-971 - 感恩seafood讚嘆seafood",
+        "FULLNAME": "scp-zh-971",
+        "RATING": 10,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "safe",
+            "scp",
+            "site-zh-13",
+            "原創",
+            "基金會製造",
+            "食物"
+        ]
+    },
+    {
+        "TITLE": "三色豆戰爭！",
+        "FULLNAME": "three-color-bean-war",
+        "RATING": 0,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022萬聖事件",
+            "site-zh-13",
+            "原創",
+            "故事"
         ]
     }
 ]

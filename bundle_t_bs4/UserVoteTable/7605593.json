@@ -2,7 +2,7 @@
     {
         "TITLE": "SCP-6059 - 你試過在球池裏啓蒙過嗎？",
         "FULLNAME": "scp-6059",
-        "RATING": 18,
+        "RATING": 19,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -53,8 +53,8 @@
     {
         "TITLE": "SCP-7K-J - 一擲定生死",
         "FULLNAME": "scp-7k-j",
-        "RATING": 5,
-        "COMMENTS": "2",
+        "RATING": 6,
+        "COMMENTS": "3",
         "TAGS": [
             "en",
             "euclid",
@@ -70,7 +70,7 @@
     {
         "TITLE": "SCP-6868 - 橡皮小鴨泡泡鮑比",
         "FULLNAME": "scp-6868",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "4",
         "TAGS": [
             "en",
@@ -83,6 +83,222 @@
             "異常移動",
             "翻譯",
             "變形"
+        ]
+    },
+    {
+        "TITLE": "SCP-4680 - 噢，那些俄國佬…",
+        "FULLNAME": "scp-4680",
+        "RATING": 10,
+        "COMMENTS": "3",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "人形",
+            "倫理委員會",
+            "敵意",
+            "歷史性",
+            "翻譯",
+            "自我修復"
+        ]
+    },
+    {
+        "TITLE": "SCP-7052 - 菊中匙",
+        "FULLNAME": "scp-7052",
+        "RATING": 8,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "工具",
+            "成人內容",
+            "本質促動",
+            "機率性",
+            "翻譯",
+            "自我修復"
+        ]
+    },
+    {
+        "TITLE": "SCP-3733 - 其他所有人",
+        "FULLNAME": "scp-3733",
+        "RATING": 6,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "未收容",
+            "神經性",
+            "翻譯",
+            "資訊危害"
+        ]
+    },
+    {
+        "TITLE": "SCP-6572 - 斬萬物之劍",
+        "FULLNAME": "scp-6572",
+        "RATING": 6,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "mc&d",
+            "scp",
+            "未收容",
+            "武器",
+            "無效化",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-2741 - 左道儀",
+        "FULLNAME": "scp-2741",
+        "RATING": 5,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "人造物品",
+            "無效化",
+            "精神影響",
+            "翻譯",
+            "聲音"
+        ]
+    },
+    {
+        "TITLE": "代號：████ ███ — 真相",
+        "FULLNAME": "code-name-the-truth",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "the-administrator",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-4098解密",
+        "FULLNAME": "scp-4098-declassification",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "用戶解密",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-476 - 至無處之地圖",
+        "FULLNAME": "scp-476",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "地點",
+            "文獻",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-2932 - 緹坦妮雅之牢",
+        "FULLNAME": "scp-2932",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "scp",
+            "thaumiel",
+            "不可摧毀",
+            "地下",
+            "夜之子",
+            "植物",
+            "活物",
+            "結構物",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "𝒫",
+        "FULLNAME": "scp-5558",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "meta",
+            "scp",
+            "人形",
+            "傳送",
+            "反熵",
+            "性",
+            "智能",
+            "活物",
+            "無定形",
+            "翻譯",
+            "語言",
+            "誤傳部",
+            "音頻"
+        ]
+    },
+    {
+        "TITLE": "SCP-195 - 一款「藥用的威士忌」",
+        "FULLNAME": "scp-195",
+        "RATING": 2,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "感知影響",
+            "液體",
+            "精神影響",
+            "翻譯",
+            "變形"
+        ]
+    },
+    {
+        "TITLE": "SCP-5956解密",
+        "FULLNAME": "scp-5956-declassification",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "用戶解密",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "MTF Psi-7「家居裝飾」概述",
+        "FULLNAME": "overview-of-mtf-psi-7-home-improvement",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "故事",
+            "歡樂基金會",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-2140 - 逆溯轉換子",
+        "FULLNAME": "scp-2140",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "en-短文競賽2015",
+            "scp",
+            "thaumiel",
+            "倫理委員會",
+            "基金會製造",
+            "歷史性",
+            "殆瓦",
+            "翻譯",
+            "視覺性",
+            "銘文"
         ]
     }
 ]

@@ -2,7 +2,7 @@
     {
         "TITLE": "S. D. Locke的提案",
         "FULLNAME": "shaggydredlocks-proposal",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "1",
         "TAGS": [
             "001提案",
@@ -134,7 +134,7 @@
     {
         "TITLE": "SCP-096 - 羞澀的人",
         "FULLNAME": "scp-096",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "0",
         "TAGS": [
             "dan博士",
@@ -247,7 +247,7 @@
     {
         "TITLE": "SCP-2317 - 前往彼界之門",
         "FULLNAME": "scp-2317",
-        "RATING": 11,
+        "RATING": 14,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -286,7 +286,7 @@
     {
         "TITLE": "SCP-3001 - 紅色現實",
         "FULLNAME": "scp-3001",
-        "RATING": 16,
+        "RATING": 19,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -301,6 +301,77 @@
             "翻譯",
             "記錄",
             "超維度"
+        ]
+    },
+    {
+        "TITLE": "蛇說神幻經",
+        "FULLNAME": "theology-of-a-snake",
+        "RATING": 4,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "受絞之王",
+            "夏異常",
+            "翻譯",
+            "阿拉加達"
+        ]
+    },
+    {
+        "TITLE": "文件001-O5",
+        "FULLNAME": "document-001-o5",
+        "RATING": 5,
+        "COMMENTS": "1",
+        "TAGS": [
+            "aaron-siegel",
+            "en",
+            "the-administrator",
+            "翻譯",
+            "補充材料"
+        ]
+    },
+    {
+        "TITLE": "銜尾蛇",
+        "FULLNAME": "ouroboros",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "001提案",
+            "en",
+            "中心",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-701 - 受絞之王的悲劇",
+        "FULLNAME": "scp-701",
+        "RATING": 10,
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "人形",
+            "受絞之王",
+            "模因效應",
+            "精神影響",
+            "翻譯",
+            "表演",
+            "阿拉加達"
+        ]
+    },
+    {
+        "TITLE": "SCP-3936 - 一如預期般運作",
+        "FULLNAME": "scp-3936",
+        "RATING": 16,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "k級情景",
+            "scp",
+            "thaumiel",
+            "建築物",
+            "本質促動",
+            "翻譯"
         ]
     }
 ]

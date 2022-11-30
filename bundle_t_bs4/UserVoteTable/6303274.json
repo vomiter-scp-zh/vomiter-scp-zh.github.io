@@ -8,7 +8,7 @@
             "en",
             "keter",
             "scp",
-            "傳染",
+            "傳染性",
             "感知影響",
             "活物",
             "生物危害",
@@ -136,7 +136,7 @@
     {
         "TITLE": "SCP-024 - 亡命實境秀",
         "FULLNAME": "scp-024",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -227,7 +227,7 @@
     {
         "TITLE": "SCP-3001 - 紅色現實",
         "FULLNAME": "scp-3001",
-        "RATING": 16,
+        "RATING": 19,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -279,7 +279,7 @@
         "TITLE": "SCP-3908 - SCP-3908",
         "FULLNAME": "scp-3908",
         "RATING": 7,
-        "COMMENTS": "1",
+        "COMMENTS": "2",
         "TAGS": [
             "en",
             "euclid",

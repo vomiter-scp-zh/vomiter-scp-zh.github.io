@@ -17,7 +17,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-899",
+        "TITLE": "SCP-ZH-899 - 穿越的特工",
         "FULLNAME": "scp-zh-899",
         "RATING": 13,
         "COMMENTS": "1",
@@ -222,7 +222,7 @@
     {
         "TITLE": "事件代號：核裂擠兌-主任Semibreve的視角",
         "FULLNAME": "operation-nucleon-bank-semibreve",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "2",
         "TAGS": [
             "semibreve博士",
@@ -232,6 +232,29 @@
             "故事",
             "核裂擠兌",
             "長垣-4"
+        ]
+    },
+    {
+        "TITLE": "絕無二心",
+        "FULLNAME": "forever-heartfelt",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "1998年",
+            "2022萬聖事件",
+            "原創",
+            "大正150年",
+            "故事",
+            "核裂擠兌",
+            "欲肉教",
+            "死亡終了",
+            "物理少年",
+            "破曉",
+            "破碎之神教會",
+            "神化",
+            "繁廣",
+            "航海學",
+            "雙城作戰"
         ]
     }
 ]

@@ -59,7 +59,7 @@
     {
         "TITLE": "K級情景總表",
         "FULLNAME": "k-class-complete-list",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -108,13 +108,48 @@
     {
         "TITLE": "ROUNDERHOUSE帶你成為王八蛋批評家的非常好官方指南",
         "FULLNAME": "rounderhouse-critique-guide",
-        "RATING": 18,
+        "RATING": 19,
         "COMMENTS": "4",
         "TAGS": [
             "en",
             "心得",
             "搞笑",
             "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-6059 - 你試過在球池裏啓蒙過嗎？",
+        "FULLNAME": "scp-6059",
+        "RATING": 19,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "不可移動",
+            "宗教",
+            "感知力",
+            "智能",
+            "無定形",
+            "生物危害",
+            "精神影響",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "魔法講座",
+        "FULLNAME": "another-goddamn-magic-system",
+        "RATING": 11,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "en-mtf2016",
+            "全球超自然聯盟",
+            "故事",
+            "流浪者圖書館",
+            "翻譯",
+            "蛇之手",
+            "說明"
         ]
     }
 ]

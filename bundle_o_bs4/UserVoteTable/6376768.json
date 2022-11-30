@@ -1,6 +1,6 @@
 [
     {
-        "TITLE": "SCP-ZH-199",
+        "TITLE": "SCP-ZH-199 - 中永和迷宮",
         "FULLNAME": "scp-zh-199",
         "RATING": 22,
         "COMMENTS": "8",
@@ -17,7 +17,7 @@
     {
         "TITLE": "SCP-ZH-515 - 平安符",
         "FULLNAME": "scp-zh-515",
-        "RATING": 43,
+        "RATING": 44,
         "COMMENTS": "2",
         "TAGS": [
             "2019暑期比賽",
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-815",
+        "TITLE": "SCP-ZH-815 - 一家烤肉萬家香",
         "FULLNAME": "scp-zh-815",
         "RATING": 35,
         "COMMENTS": "8",
@@ -63,7 +63,7 @@
     {
         "TITLE": "SCP-ZH-998 - 現象學",
         "FULLNAME": "scp-zh-998",
-        "RATING": 37,
+        "RATING": 38,
         "COMMENTS": "7",
         "TAGS": [
             "k級情景",
@@ -91,9 +91,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-120",
+        "TITLE": "SCP-ZH-120 - 虛構的我們",
         "FULLNAME": "scp-zh-120",
-        "RATING": 39,
+        "RATING": 40,
         "COMMENTS": "4",
         "TAGS": [
             "2019回憶競賽",

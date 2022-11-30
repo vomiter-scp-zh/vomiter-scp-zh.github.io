@@ -118,7 +118,7 @@
     {
         "TITLE": "逃離終點站",
         "FULLNAME": "escape-from-terminus",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "1",
         "TAGS": [
             "creepypasta",
@@ -194,7 +194,7 @@
     {
         "TITLE": "SCP-701 - 受絞之王的悲劇",
         "FULLNAME": "scp-701",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -347,7 +347,7 @@
     {
         "TITLE": "SCP-4357-J",
         "FULLNAME": "scp-4357-j",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -460,7 +460,7 @@
     {
         "TITLE": "SCP-011-J",
         "FULLNAME": "scp-011-j",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -492,7 +492,7 @@
     {
         "TITLE": "SCP-2911-JP - 美國最漫長的一天",
         "FULLNAME": "scp-2911-jp",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "2",
         "TAGS": [
             "1998年",
@@ -695,7 +695,6 @@
             "jp",
             "k級情景",
             "scp",
-            "儀式",
             "儀式性",
             "全球超自然聯盟",
             "動物",
@@ -911,7 +910,7 @@
     {
         "TITLE": "1998年 中心頁",
         "FULLNAME": "1998-hub",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "2",
         "TAGS": [
             "1998年",
@@ -1046,7 +1045,7 @@
     {
         "TITLE": "放棄死亡",
         "FULLNAME": "abandoning-death",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "1",
         "TAGS": [
             "jp",
@@ -1137,7 +1136,7 @@
     {
         "TITLE": "S. D. Locke的提案",
         "FULLNAME": "shaggydredlocks-proposal",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "1",
         "TAGS": [
             "001提案",
@@ -1261,7 +1260,7 @@
     {
         "TITLE": "東弊舍自動人偶部門廣告",
         "FULLNAME": "tohei-automata",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "jp",
@@ -1585,7 +1584,7 @@
         "TITLE": "SCP-3908 - SCP-3908",
         "FULLNAME": "scp-3908",
         "RATING": 7,
-        "COMMENTS": "1",
+        "COMMENTS": "2",
         "TAGS": [
             "en",
             "euclid",
@@ -1672,7 +1671,7 @@
     {
         "TITLE": "SCP-2118 - 已逝孩童",
         "FULLNAME": "scp-2118",
-        "RATING": 8,
+        "RATING": 9,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -2076,7 +2075,7 @@
     {
         "TITLE": "SCP-6868 - 橡皮小鴨泡泡鮑比",
         "FULLNAME": "scp-6868",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "4",
         "TAGS": [
             "en",
@@ -2089,6 +2088,44 @@
             "異常移動",
             "翻譯",
             "變形"
+        ]
+    },
+    {
+        "TITLE": "SCP-413 - 無邊無際的停車場",
+        "FULLNAME": "scp-413",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "建築物",
+            "時空",
+            "智能",
+            "神經性",
+            "翻譯",
+            "聲音",
+            "聽覺影響"
+        ]
+    },
+    {
+        "TITLE": "SCP-7510 - 牆裡沒有任何東西。",
+        "FULLNAME": "scp-7510",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "meta",
+            "scp",
+            "地點",
+            "宗教",
+            "寄生性",
+            "概念",
+            "機密分級",
+            "生物性",
+            "翻譯",
+            "認知危害",
+            "資訊危害"
         ]
     }
 ]

@@ -2,7 +2,7 @@
     {
         "TITLE": "文件001-O5",
         "FULLNAME": "document-001-o5",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "1",
         "TAGS": [
             "aaron-siegel",
@@ -65,7 +65,7 @@
     {
         "TITLE": "SCP-3396 - 至高天境寄生體",
         "FULLNAME": "scp-3396",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -108,8 +108,8 @@
     {
         "TITLE": "SCP社群討論區模擬器",
         "FULLNAME": "scp-wiki-discussion-page-simulator",
-        "RATING": -3,
-        "COMMENTS": "0",
+        "RATING": -5,
+        "COMMENTS": "1",
         "TAGS": [
             "en",
             "合著",
@@ -132,7 +132,7 @@
     {
         "TITLE": "SCP-6355 - 扼殺禮義之咽喉",
         "FULLNAME": "scp-6355",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -150,8 +150,8 @@
     {
         "TITLE": "SCP-7K-J - 一擲定生死",
         "FULLNAME": "scp-7k-j",
-        "RATING": 5,
-        "COMMENTS": "2",
+        "RATING": 6,
+        "COMMENTS": "3",
         "TAGS": [
             "en",
             "euclid",
@@ -185,7 +185,7 @@
     {
         "TITLE": "SCP-7333 - 經商蜥蜴",
         "FULLNAME": "scp-7333",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -205,7 +205,7 @@
     {
         "TITLE": "SCP-4231 - 蒙托克之屋",
         "FULLNAME": "scp-4231",
-        "RATING": 10,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "clef博士",
@@ -221,6 +221,58 @@
             "猩紅之王",
             "翻譯",
             "超維度"
+        ]
+    },
+    {
+        "TITLE": "SCP-4098 - S-C-P，視詞篇順暢排19-3-16",
+        "FULLNAME": "scp-4098",
+        "RATING": 10,
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "scp",
+            "thaumiel",
+            "合著",
+            "基金會製造",
+            "建築物",
+            "模因效應",
+            "翻譯",
+            "視覺性",
+            "認知危害",
+            "誤傳部",
+            "資訊危害"
+        ]
+    },
+    {
+        "TITLE": "維安設施檔案：受保護站點Site-7（同步未完成）",
+        "FULLNAME": "secure-facility-dossier-site-7",
+        "RATING": 9,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "maria-jones",
+            "中心",
+            "合著",
+            "站點",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-1471 - MalO ver1.0.0",
+        "FULLNAME": "scp-1471",
+        "RATING": 8,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "人形",
+            "媒體",
+            "未收容",
+            "翻譯",
+            "視覺性",
+            "通訊",
+            "電腦"
         ]
     }
 ]

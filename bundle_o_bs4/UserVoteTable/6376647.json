@@ -2,8 +2,8 @@
     {
         "TITLE": "SCP-ZH-144 - 十二進位法",
         "FULLNAME": "scp-zh-144",
-        "RATING": 23,
-        "COMMENTS": "3",
+        "RATING": 25,
+        "COMMENTS": "6",
         "TAGS": [
             "keter",
             "scp",
@@ -37,9 +37,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-829",
+        "TITLE": "SCP-ZH-829 - 無形干戈",
         "FULLNAME": "scp-zh-829",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "2",
         "TAGS": [
             "awcy",
@@ -55,7 +55,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-776",
+        "TITLE": "SCP-ZH-776 - 暗黑暗黑暗黑之劍",
         "FULLNAME": "scp-zh-776",
         "RATING": 7,
         "COMMENTS": "6",
@@ -149,7 +149,7 @@
     {
         "TITLE": "項目企劃書 2017-47：《健康的代價》",
         "FULLNAME": "project-proposal-2017-47-zh",
-        "RATING": 23,
+        "RATING": 24,
         "COMMENTS": "3",
         "TAGS": [
             "awcy",
@@ -172,7 +172,7 @@
     {
         "TITLE": "SCP-ZH-399 - 我們心中的444號視聽教室",
         "FULLNAME": "scp-zh-399",
-        "RATING": 31,
+        "RATING": 32,
         "COMMENTS": "0",
         "TAGS": [
             "2021聖夜相守",

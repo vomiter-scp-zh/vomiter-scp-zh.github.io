@@ -1,6 +1,6 @@
 [
     {
-        "TITLE": "SCP-ZH-666",
+        "TITLE": "SCP-ZH-666 - 被生命所厭惡者",
         "FULLNAME": "scp-zh-666",
         "RATING": 15,
         "COMMENTS": "2",
@@ -79,8 +79,8 @@
     {
         "TITLE": "SCP-ZH-999-J - 工",
         "FULLNAME": "scp-zh-999-j",
-        "RATING": 5,
-        "COMMENTS": "18",
+        "RATING": 6,
+        "COMMENTS": "19",
         "TAGS": [
             "ad博士",
             "hanku博士",
@@ -109,7 +109,7 @@
     {
         "TITLE": "SCP-ZH-062 - 燈猴",
         "FULLNAME": "scp-zh-062",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "0",
         "TAGS": [
             "safe",
@@ -279,7 +279,7 @@
     {
         "TITLE": "SCP-ZH-179 - 冤枉",
         "FULLNAME": "scp-zh-179",
-        "RATING": 15,
+        "RATING": 16,
         "COMMENTS": "0",
         "TAGS": [
             "safe",
@@ -307,6 +307,96 @@
         "TAGS": [
             "原創",
             "搞笑"
+        ]
+    },
+    {
+        "TITLE": "Lostwhat的提案一",
+        "FULLNAME": "lostwhat-s-proposal",
+        "RATING": 37,
+        "COMMENTS": "2",
+        "TAGS": [
+            "001提案",
+            "2022紅藍爭霸賽",
+            "k級情景",
+            "scp",
+            "site-zh-01",
+            "三垣",
+            "原創",
+            "機密分級"
+        ]
+    },
+    {
+        "TITLE": "小動物檔案：布丹！",
+        "FULLNAME": "bhutan",
+        "RATING": 11,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "awcy",
+            "goi格式",
+            "原創",
+            "威爾遜生物應對組"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-767 - 黑旗接駁車",
+        "FULLNAME": "scp-zh-767",
+        "RATING": 15,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "scp",
+            "site-zh-16",
+            "原創",
+            "機密分級"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-190 - 心靈網路",
+        "FULLNAME": "scp-zh-190",
+        "RATING": 15,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "scp",
+            "原創",
+            "機密分級"
+        ]
+    },
+    {
+        "TITLE": "你的心又屬於誰？",
+        "FULLNAME": "who-does-your-heart-belong-to",
+        "RATING": 14,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022萬聖事件",
+            "原創",
+            "藝術作品",
+            "轉世計劃"
+        ]
+    },
+    {
+        "TITLE": "曹閾蝶",
+        "FULLNAME": "artworks",
+        "RATING": 16,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022萬聖事件",
+            "原創",
+            "藝術作品"
+        ]
+    },
+    {
+        "TITLE": "故事的力量～你為什麼需要超形上學～",
+        "FULLNAME": "why-you-need-pataphysics",
+        "RATING": 29,
+        "COMMENTS": "1",
+        "TAGS": [
+            "原創",
+            "展出",
+            "故事",
+            "說明",
+            "超形上學部"
         ]
     }
 ]

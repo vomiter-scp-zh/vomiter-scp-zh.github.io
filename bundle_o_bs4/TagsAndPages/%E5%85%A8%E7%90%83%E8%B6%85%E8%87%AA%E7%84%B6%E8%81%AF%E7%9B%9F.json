@@ -3,7 +3,7 @@
         "TAGNAME": "全球超自然聯盟"
     },
     {
-        "TITLE": "SCP-ZH-255",
+        "TITLE": "SCP-ZH-255 - 賓尼費的最後庇護所",
         "FULLNAME": "scp-zh-255",
         "RATING": 22,
         "COMMENTS": "5",
@@ -26,7 +26,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-888",
+        "TITLE": "SCP-ZH-888 - 霾",
         "FULLNAME": "scp-zh-888",
         "RATING": 19,
         "COMMENTS": "1",
@@ -46,7 +46,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-899",
+        "TITLE": "SCP-ZH-899 - 穿越的特工",
         "FULLNAME": "scp-zh-899",
         "RATING": 13,
         "COMMENTS": "1",
@@ -95,7 +95,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-348",
+        "TITLE": "SCP-ZH-348 - 落山風犬",
         "FULLNAME": "scp-zh-348",
         "RATING": 5,
         "COMMENTS": "2",
@@ -238,7 +238,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-333",
+        "TITLE": "SCP-ZH-333 - 往日不再",
         "FULLNAME": "adult:scp-zh-333",
         "RATING": 8,
         "COMMENTS": "0",
@@ -277,7 +277,7 @@
     {
         "TITLE": "海神悲鳴時",
         "FULLNAME": "wadatsumi-no-naku-koroni",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "3",
         "TAGS": [
             "1998年",
@@ -390,7 +390,7 @@
     {
         "TITLE": "你會感到後悔嗎？",
         "FULLNAME": "what-are-you-waiting-for-just-join-goc-dude",
-        "RATING": 35,
+        "RATING": 36,
         "COMMENTS": "5",
         "TAGS": [
             "全球超自然聯盟",
@@ -401,7 +401,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-946",
+        "TITLE": "SCP-ZH-946 - 黑兔大戰爭🐇",
         "FULLNAME": "scp-zh-946",
         "RATING": 27,
         "COMMENTS": "13",
@@ -523,7 +523,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-804",
+        "TITLE": "SCP-ZH-804 - 桃花園",
         "FULLNAME": "scp-zh-804",
         "RATING": 9,
         "COMMENTS": "3",
@@ -602,6 +602,59 @@
             "通訊",
             "電子",
             "電腦"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-176 - 《海鷗的大撤退》",
+        "FULLNAME": "scp-zh-176",
+        "RATING": 21,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "keter",
+            "meta",
+            "metha博士",
+            "scp",
+            "全球超自然聯盟",
+            "原創",
+            "基金會製造",
+            "敘述性",
+            "文獻",
+            "研究員knave",
+            "超形上學部"
+        ]
+    },
+    {
+        "TITLE": "我們之中有個間諜",
+        "FULLNAME": "there-is-a-imposter-among-us",
+        "RATING": 20,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022萬聖事件",
+            "全球超自然聯盟",
+            "原創",
+            "故事",
+            "真紀博士",
+            "研究員knave"
+        ]
+    },
+    {
+        "TITLE": "酒單：威士忌",
+        "FULLNAME": "whiskey",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "site-zh-16",
+            "全球超自然聯盟",
+            "原創",
+            "叁月協會",
+            "威爾遜生物應對組",
+            "安布羅斯餐廳",
+            "故事",
+            "沙皇先知協會",
+            "異視維基",
+            "第八處",
+            "阿卡迪亞"
         ]
     }
 ]

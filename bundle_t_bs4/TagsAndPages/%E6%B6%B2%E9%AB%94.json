@@ -327,7 +327,7 @@
     {
         "TITLE": "SCP-3396 - 至高天境寄生體",
         "FULLNAME": "scp-3396",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -616,6 +616,22 @@
             "翻譯",
             "觸覺影響",
             "門徑"
+        ]
+    },
+    {
+        "TITLE": "SCP-195 - 一款「藥用的威士忌」",
+        "FULLNAME": "scp-195",
+        "RATING": 2,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "感知影響",
+            "液體",
+            "精神影響",
+            "翻譯",
+            "變形"
         ]
     }
 ]

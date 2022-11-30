@@ -2,7 +2,7 @@
     {
         "TITLE": "SCP-240-JP - 零隻蝗蟲",
         "FULLNAME": "scp-240-jp",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "1",
         "TAGS": [
             "euclid",
@@ -83,7 +83,7 @@
     {
         "TITLE": "更新版記憶消除劑指南",
         "FULLNAME": "updated-amnestics-guide",
-        "RATING": 15,
+        "RATING": 16,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -528,7 +528,7 @@
     {
         "TITLE": "SCP-3936 - 一如預期般運作",
         "FULLNAME": "scp-3936",
-        "RATING": 15,
+        "RATING": 16,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -592,7 +592,7 @@
     {
         "TITLE": "SCP-2998 - 異常傳播訊號，2485MHz",
         "FULLNAME": "scp-2998",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -671,7 +671,7 @@
     {
         "TITLE": "序曲：預備鈴",
         "FULLNAME": "days-gone-by",
-        "RATING": 7,
+        "RATING": 9,
         "COMMENTS": "0",
         "TAGS": [
             "1976年班",
@@ -789,7 +789,7 @@
     {
         "TITLE": "SCP-5149 - 喬，我們可不是瞎子。",
         "FULLNAME": "scp-5149",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "4",
         "TAGS": [
             "en",
@@ -820,8 +820,8 @@
     {
         "TITLE": "SCP-001-EX-J",
         "FULLNAME": "scp-001-ex-j",
-        "RATING": 11,
-        "COMMENTS": "1",
+        "RATING": 12,
+        "COMMENTS": "2",
         "TAGS": [
             "en",
             "scp",
@@ -1498,7 +1498,7 @@
     {
         "TITLE": "S. D. Locke的提案",
         "FULLNAME": "shaggydredlocks-proposal",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "1",
         "TAGS": [
             "001提案",
@@ -1596,7 +1596,7 @@
     {
         "TITLE": "SC嗚喔喔啊啊啊啊啊啊啊啊-JP-J",
         "FULLNAME": "scpaaaaaaaaaaaaaaaaaa-jp-j",
-        "RATING": 25,
+        "RATING": 26,
         "COMMENTS": "1",
         "TAGS": [
             "jp",
@@ -1641,7 +1641,7 @@
     {
         "TITLE": "SCP-3001 - 紅色現實",
         "FULLNAME": "scp-3001",
-        "RATING": 16,
+        "RATING": 19,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -1776,7 +1776,7 @@
     {
         "TITLE": "SCP-4182 - Site-5不存在",
         "FULLNAME": "scp-4182",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1898,7 +1898,7 @@
     {
         "TITLE": "摘錄自Alto Clef〈如何在現實不存在時求生〉",
         "FULLNAME": "clef-excerpts",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "clef博士",
@@ -1911,7 +1911,7 @@
     {
         "TITLE": "SCP-3002 - 活埋想法的嘗試",
         "FULLNAME": "scp-3002",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -1955,7 +1955,7 @@
     {
         "TITLE": "SCP-3790 - 反常部",
         "FULLNAME": "scp-3790",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1973,7 +1973,7 @@
     {
         "TITLE": "SCP-3396 - 至高天境寄生體",
         "FULLNAME": "scp-3396",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -2112,7 +2112,7 @@
     {
         "TITLE": "SCP-970-EX",
         "FULLNAME": "scp-970-ex",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -2325,7 +2325,7 @@
     {
         "TITLE": "SCP-6400 - 外面那裏",
         "FULLNAME": "scp-6400",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -2645,7 +2645,7 @@
     {
         "TITLE": "未曾建立 - 中心頁",
         "FULLNAME": "unfounded-hub",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -2675,7 +2675,7 @@
     {
         "TITLE": "SCP-3529 - 蛇 = 蛇蛇 =可愛 ^~^",
         "FULLNAME": "scp-3529",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -2748,7 +2748,7 @@
     {
         "TITLE": "scp-3-j",
         "FULLNAME": "scp-3-j",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -2915,7 +2915,7 @@
     {
         "TITLE": "ROUNDERHOUSE帶你成為王八蛋批評家的非常好官方指南",
         "FULLNAME": "rounderhouse-critique-guide",
-        "RATING": 18,
+        "RATING": 19,
         "COMMENTS": "4",
         "TAGS": [
             "en",
@@ -2927,7 +2927,7 @@
     {
         "TITLE": "SCP-3333 - 塔",
         "FULLNAME": "scp-3333",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -3011,7 +3011,7 @@
     {
         "TITLE": "SCP-7333 - 經商蜥蜴",
         "FULLNAME": "scp-7333",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "1",
         "TAGS": [
             "en",

@@ -3,7 +3,7 @@
         "TAGNAME": "衣物"
     },
     {
-        "TITLE": "SCP-ZH-109",
+        "TITLE": "SCP-ZH-109 - 彩虹橋",
         "FULLNAME": "scp-zh-109",
         "RATING": 16,
         "COMMENTS": "0",
@@ -21,9 +21,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-880",
+        "TITLE": "SCP-ZH-880 - 阿嬤覺得你冷",
         "FULLNAME": "scp-zh-880",
-        "RATING": 29,
+        "RATING": 30,
         "COMMENTS": "2",
         "TAGS": [
             "euclid",
@@ -38,7 +38,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-039",
+        "TITLE": "SCP-ZH-039 - 晾衣樹",
         "FULLNAME": "scp-zh-039",
         "RATING": 9,
         "COMMENTS": "3",
@@ -69,6 +69,23 @@
             "強迫性",
             "生物性",
             "精神影響",
+            "衣物"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-300-J - 我的襪襪🥺",
+        "FULLNAME": "scp-zh-300-j",
+        "RATING": 17,
+        "COMMENTS": "6",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "keter",
+            "meta",
+            "scp",
+            "site-zh-44",
+            "原創",
+            "成人內容",
+            "搞笑",
             "衣物"
         ]
     }

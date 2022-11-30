@@ -20,7 +20,7 @@
             "en",
             "keter",
             "scp",
-            "傳染",
+            "傳染性",
             "感知影響",
             "活物",
             "生物危害",
@@ -49,6 +49,7 @@
         "TAGS": [
             "en",
             "scp",
+            "vang博士",
             "搞笑",
             "翻譯"
         ]
@@ -200,7 +201,7 @@
     {
         "TITLE": "序曲：預備鈴",
         "FULLNAME": "days-gone-by",
-        "RATING": 7,
+        "RATING": 9,
         "COMMENTS": "0",
         "TAGS": [
             "1976年班",
@@ -276,7 +277,7 @@
     {
         "TITLE": "東弊舍自動人偶部門廣告",
         "FULLNAME": "tohei-automata",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "jp",

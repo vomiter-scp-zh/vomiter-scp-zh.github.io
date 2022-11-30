@@ -5,7 +5,7 @@
     {
         "TITLE": "SCP-ZH-102 - 《彩虹橋》保密條款",
         "FULLNAME": "scp-zh-102",
-        "RATING": 8,
+        "RATING": 9,
         "COMMENTS": "9",
         "TAGS": [
             "2020攀爬金字塔",
@@ -39,7 +39,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-709",
+        "TITLE": "SCP-ZH-709 - 學音樂的小孩不會變壞",
         "FULLNAME": "scp-zh-709",
         "RATING": 9,
         "COMMENTS": "1",
@@ -54,7 +54,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-115",
+        "TITLE": "SCP-ZH-115 - 今天的天氣是俄羅斯方塊",
         "FULLNAME": "scp-zh-115",
         "RATING": 15,
         "COMMENTS": "4",
@@ -109,7 +109,7 @@
     {
         "TITLE": "SCP-ZH-922 - 馬蘭姑娘",
         "FULLNAME": "scp-zh-922",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "1",
         "TAGS": [
             "euclid",

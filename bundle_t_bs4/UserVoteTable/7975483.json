@@ -97,7 +97,7 @@
     {
         "TITLE": "S. D. Locke的提案",
         "FULLNAME": "shaggydredlocks-proposal",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "1",
         "TAGS": [
             "001提案",
@@ -166,7 +166,7 @@
     {
         "TITLE": "我，一隻在暴雪中摀住鼻子的北極熊",
         "FULLNAME": "i-a-polar-bear-covering-my-nose-in-a-snowstorm",
-        "RATING": 11,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -194,7 +194,7 @@
     {
         "TITLE": "SCP-387 - 活體樂高",
         "FULLNAME": "scp-387",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -263,7 +263,7 @@
     {
         "TITLE": "ROUNDERHOUSE帶你成為王八蛋批評家的非常好官方指南",
         "FULLNAME": "rounderhouse-critique-guide",
-        "RATING": 18,
+        "RATING": 19,
         "COMMENTS": "4",
         "TAGS": [
             "en",
@@ -386,7 +386,7 @@
     {
         "TITLE": "SCP-2481 - 弒殺金烏",
         "FULLNAME": "scp-2481",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -619,7 +619,8 @@
             "scp",
             "概念",
             "機密分級",
-            "翻譯"
+            "翻譯",
+            "角磨機"
         ]
     },
     {
@@ -722,7 +723,7 @@
     {
         "TITLE": "SCP-6781 - Site-7：遺產",
         "FULLNAME": "scp-6781",
-        "RATING": 8,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "en",

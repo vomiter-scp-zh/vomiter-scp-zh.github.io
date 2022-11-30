@@ -3,7 +3,7 @@
         "TAGNAME": "火"
     },
     {
-        "TITLE": "SCP-ZH-301",
+        "TITLE": "SCP-ZH-301 - 馬斯列尼查",
         "FULLNAME": "scp-zh-301",
         "RATING": 17,
         "COMMENTS": "0",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-642",
+        "TITLE": "SCP-ZH-642 - 希望打火機",
         "FULLNAME": "scp-zh-642",
         "RATING": 14,
         "COMMENTS": "0",
@@ -56,7 +56,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-444",
+        "TITLE": "SCP-ZH-444 - 鬼差",
         "FULLNAME": "scp-zh-444",
         "RATING": 17,
         "COMMENTS": "3",
@@ -75,7 +75,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-240",
+        "TITLE": "SCP-ZH-240 - 明燈",
         "FULLNAME": "scp-zh-240",
         "RATING": 11,
         "COMMENTS": "1",
@@ -117,7 +117,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-832",
+        "TITLE": "SCP-ZH-832 - 回溫",
         "FULLNAME": "scp-zh-832",
         "RATING": 10,
         "COMMENTS": "3",
@@ -140,7 +140,7 @@
     {
         "TITLE": "SCP-ZH-062 - 燈猴",
         "FULLNAME": "scp-zh-062",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "0",
         "TAGS": [
             "safe",
@@ -154,6 +154,26 @@
             "智能",
             "火",
             "猿類"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-646 - 午夜自畫",
+        "FULLNAME": "scp-zh-646",
+        "RATING": 15,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "euclid",
+            "scp",
+            "人造物品",
+            "傳染性",
+            "光照影響",
+            "原創",
+            "展出",
+            "強迫性",
+            "火",
+            "熱量影響",
+            "認知危害"
         ]
     }
 ]

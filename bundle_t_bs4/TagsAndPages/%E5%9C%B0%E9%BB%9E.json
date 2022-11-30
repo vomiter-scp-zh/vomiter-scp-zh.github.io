@@ -86,7 +86,7 @@
     {
         "TITLE": "SCP-087 - 樓梯間",
         "FULLNAME": "scp-087",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -310,7 +310,7 @@
         ]
     },
     {
-        "TITLE": "［基於協議4000-Eshu而被限制］",
+        "TITLE": "［基於協議4000-Eshu而受限制］",
         "FULLNAME": "taboo",
         "RATING": 11,
         "COMMENTS": "4",
@@ -343,7 +343,6 @@
             "jp",
             "k級情景",
             "scp",
-            "儀式",
             "儀式性",
             "全球超自然聯盟",
             "動物",
@@ -493,7 +492,7 @@
     {
         "TITLE": "SCP-4852 - Site-19南遷渡冬去！",
         "FULLNAME": "scp-4852",
-        "RATING": 9,
+        "RATING": 11,
         "COMMENTS": "1",
         "TAGS": [
             "aktus主任",
@@ -533,7 +532,7 @@
     {
         "TITLE": "SCP-4182 - Site-5不存在",
         "FULLNAME": "scp-4182",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -716,7 +715,7 @@
     {
         "TITLE": "SCP-2023 - 艾多努斯的賠禮",
         "FULLNAME": "scp-2023",
-        "RATING": 2,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -906,7 +905,7 @@
     {
         "TITLE": "SCP-1451 - 沉沒之子的防禦圈",
         "FULLNAME": "scp-1451",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -1130,7 +1129,7 @@
     {
         "TITLE": "SCP-2481 - 弒殺金烏",
         "FULLNAME": "scp-2481",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1170,7 +1169,7 @@
     {
         "TITLE": "SCP-6781 - Site-7：遺產",
         "FULLNAME": "scp-6781",
-        "RATING": 8,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1213,6 +1212,108 @@
             "精神影響",
             "翻譯",
             "載具"
+        ]
+    },
+    {
+        "TITLE": "SCP-488 - 吸引流星的人",
+        "FULLNAME": "scp-488",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "人形",
+            "反熵",
+            "地點",
+            "星際",
+            "智能",
+            "活物",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-476 - 至無處之地圖",
+        "FULLNAME": "scp-476",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "地點",
+            "文獻",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-481 - 瘢痕組織",
+        "FULLNAME": "scp-481",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "人形",
+            "共感",
+            "地點",
+            "翻譯",
+            "銘文"
+        ]
+    },
+    {
+        "TITLE": "SCP-2686 - 月光大法師",
+        "FULLNAME": "scp-2686",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "人形",
+            "地點",
+            "念力",
+            "星際",
+            "智能",
+            "月球",
+            "活動展出",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-688-JP - 理想的全家福",
+        "FULLNAME": "scp-688-jp",
+        "RATING": 1,
+        "COMMENTS": "0",
+        "TAGS": [
+            "euclid",
+            "jp",
+            "scp",
+            "地點",
+            "精神影響",
+            "翻譯",
+            "視覺性"
+        ]
+    },
+    {
+        "TITLE": "SCP-7510 - 牆裡沒有任何東西。",
+        "FULLNAME": "scp-7510",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "meta",
+            "scp",
+            "地點",
+            "宗教",
+            "寄生性",
+            "概念",
+            "機密分級",
+            "生物性",
+            "翻譯",
+            "認知危害",
+            "資訊危害"
         ]
     }
 ]

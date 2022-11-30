@@ -34,6 +34,7 @@
         "TAGS": [
             "en",
             "scp",
+            "vang博士",
             "搞笑",
             "翻譯"
         ]
@@ -389,7 +390,7 @@
     {
         "TITLE": "一切為真",
         "FULLNAME": "this-is-the-real-life",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "2",
         "TAGS": [
             "bright博士",
@@ -425,7 +426,7 @@
     {
         "TITLE": "SCP-1833 - 班級76",
         "FULLNAME": "scp-1833",
-        "RATING": 2,
+        "RATING": 3,
         "COMMENTS": "0",
         "TAGS": [
             "1976年班",
@@ -443,7 +444,7 @@
         "TITLE": "俄分著作權法相關解釋（20/6/2019）",
         "FULLNAME": "russian-branch-sub-copyright-law",
         "RATING": 9,
-        "COMMENTS": "1",
+        "COMMENTS": "2",
         "TAGS": [
             "新聞",
             "管理",
@@ -744,7 +745,7 @@
     {
         "TITLE": "逃離終點站",
         "FULLNAME": "escape-from-terminus",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "1",
         "TAGS": [
             "creepypasta",
@@ -1054,7 +1055,7 @@
     {
         "TITLE": "SCP-5149 - 喬，我們可不是瞎子。",
         "FULLNAME": "scp-5149",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "4",
         "TAGS": [
             "en",
@@ -1160,7 +1161,7 @@
     {
         "TITLE": "SCP-666½-J",
         "FULLNAME": "scp-666-and-a-half-j",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "1",
         "TAGS": [
             "bright博士",
@@ -1181,7 +1182,7 @@
         ]
     },
     {
-        "TITLE": "［基於協議4000-Eshu而被限制］",
+        "TITLE": "［基於協議4000-Eshu而受限制］",
         "FULLNAME": "taboo",
         "RATING": 11,
         "COMMENTS": "4",
@@ -1223,7 +1224,7 @@
         "TITLE": "SCP-1633-JP - 三角座銀河系（M33, NGC598）上的恆星相撞現象",
         "FULLNAME": "scp-1633-jp",
         "RATING": 4,
-        "COMMENTS": "0",
+        "COMMENTS": "3",
         "TAGS": [
             "jp",
             "scp",
@@ -1259,7 +1260,7 @@
     {
         "TITLE": "S. D. Locke的提案",
         "FULLNAME": "shaggydredlocks-proposal",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "1",
         "TAGS": [
             "001提案",
@@ -1308,7 +1309,7 @@
     {
         "TITLE": "東弊舍自動人偶部門廣告",
         "FULLNAME": "tohei-automata",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "jp",
@@ -1323,7 +1324,7 @@
     {
         "TITLE": "SCP-3001 - 紅色現實",
         "FULLNAME": "scp-3001",
-        "RATING": 16,
+        "RATING": 19,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -1389,7 +1390,7 @@
     {
         "TITLE": "SCP-3790 - 反常部",
         "FULLNAME": "scp-3790",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1458,7 +1459,7 @@
     {
         "TITLE": "SCP-3935 - 此處靜謐瘋狂",
         "FULLNAME": "scp-3935",
-        "RATING": 3,
+        "RATING": 5,
         "COMMENTS": "4",
         "TAGS": [
             "1976年班",
@@ -1574,9 +1575,9 @@
             "en-6000",
             "gears博士",
             "scp",
+            "待分級",
             "植物",
             "樹木",
-            "機密分級",
             "熵",
             "知識",
             "翻譯",
@@ -1719,7 +1720,7 @@
     {
         "TITLE": "SCP-6059 - 你試過在球池裏啓蒙過嗎？",
         "FULLNAME": "scp-6059",
-        "RATING": 18,
+        "RATING": 19,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1771,7 +1772,7 @@
     {
         "TITLE": "Dr. Palanez的提案",
         "FULLNAME": "weryllium-proposal",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "1",
         "TAGS": [
             "001提案",
@@ -1832,7 +1833,7 @@
             "euclid",
             "scp",
             "人形",
-            "儀式",
+            "儀式性",
             "宗教性",
             "火",
             "翻譯",
@@ -1860,7 +1861,7 @@
     {
         "TITLE": "ROUNDERHOUSE帶你成為王八蛋批評家的非常好官方指南",
         "FULLNAME": "rounderhouse-critique-guide",
-        "RATING": 18,
+        "RATING": 19,
         "COMMENTS": "4",
         "TAGS": [
             "en",

@@ -21,7 +21,7 @@
     {
         "TITLE": "銜尾蛇",
         "FULLNAME": "ouroboros",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "0",
         "TAGS": [
             "001提案",
@@ -146,7 +146,7 @@
     {
         "TITLE": "Scantron的提案",
         "FULLNAME": "scantron-s-proposal",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "1",
         "TAGS": [
             "001提案",
@@ -181,7 +181,7 @@
     {
         "TITLE": "S. D. Locke的提案",
         "FULLNAME": "shaggydredlocks-proposal",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "1",
         "TAGS": [
             "001提案",
@@ -240,7 +240,7 @@
         "TITLE": "Dr Gears的提案",
         "FULLNAME": "dr-gears-s-proposal",
         "RATING": 3,
-        "COMMENTS": "1",
+        "COMMENTS": "2",
         "TAGS": [
             "001提案",
             "en",
@@ -362,7 +362,7 @@
     {
         "TITLE": "Dr. Palanez的提案",
         "FULLNAME": "weryllium-proposal",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "1",
         "TAGS": [
             "001提案",
@@ -379,7 +379,7 @@
     {
         "TITLE": "Daveyoufool的提案",
         "FULLNAME": "daveyoufool-proposal",
-        "RATING": 1,
+        "RATING": 2,
         "COMMENTS": "0",
         "TAGS": [
             "001提案",
@@ -392,6 +392,21 @@
             "翻譯",
             "聽覺影響",
             "認知危害"
+        ]
+    },
+    {
+        "TITLE": "qntm的提案",
+        "FULLNAME": "qntm-s-proposal",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "001提案",
+            "en",
+            "safe",
+            "scp",
+            "不可摧毀",
+            "放射性",
+            "翻譯"
         ]
     }
 ]

@@ -27,7 +27,7 @@
     {
         "TITLE": "SCP-3001 - 紅色現實",
         "FULLNAME": "scp-3001",
-        "RATING": 16,
+        "RATING": 19,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -194,6 +194,47 @@
             "未來",
             "翻譯",
             "預測性"
+        ]
+    },
+    {
+        "TITLE": "SCP-6871 - 轉眼之間",
+        "FULLNAME": "scp-6871",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "bright博士",
+            "dc-al-fine",
+            "en",
+            "scp",
+            "thaumiel",
+            "the-administrator",
+            "不滅孽蜥",
+            "儀式性",
+            "全球超自然聯盟",
+            "夜之子",
+            "大術士伊仰",
+            "悖論",
+            "時間影響",
+            "未曾建立",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-196 - 時間悖論",
+        "FULLNAME": "scp-196",
+        "RATING": 1,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "keter",
+            "scp",
+            "人形",
+            "悖論",
+            "時間影響",
+            "智能",
+            "活物",
+            "翻譯"
         ]
     }
 ]

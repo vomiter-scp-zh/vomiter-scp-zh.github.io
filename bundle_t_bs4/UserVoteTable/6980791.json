@@ -97,7 +97,7 @@
         "TITLE": "SCP-682 - 不滅孽蜥",
         "FULLNAME": "scp-682",
         "RATING": 24,
-        "COMMENTS": "1",
+        "COMMENTS": "2",
         "TAGS": [
             "en",
             "keter",
@@ -169,7 +169,7 @@
     {
         "TITLE": "SCP格式資源",
         "FULLNAME": "scp-style-resource",
-        "RATING": 31,
+        "RATING": 32,
         "COMMENTS": "6",
         "TAGS": [
             "合作",
@@ -247,7 +247,7 @@
     {
         "TITLE": "SCP-2317 - 前往彼界之門",
         "FULLNAME": "scp-2317",
-        "RATING": 11,
+        "RATING": 14,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -302,7 +302,7 @@
     {
         "TITLE": "SCP-426 - 我是一臺烤吐司機",
         "FULLNAME": "scp-426",
-        "RATING": 8,
+        "RATING": 9,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -599,7 +599,7 @@
     {
         "TITLE": "放棄死亡",
         "FULLNAME": "abandoning-death",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "1",
         "TAGS": [
             "jp",
@@ -638,7 +638,7 @@
     {
         "TITLE": "S. D. Locke的提案",
         "FULLNAME": "shaggydredlocks-proposal",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "1",
         "TAGS": [
             "001提案",
@@ -720,7 +720,7 @@
     {
         "TITLE": "SC嗚喔喔啊啊啊啊啊啊啊啊-JP-J",
         "FULLNAME": "scpaaaaaaaaaaaaaaaaaa-jp-j",
-        "RATING": 25,
+        "RATING": 26,
         "COMMENTS": "1",
         "TAGS": [
             "jp",
@@ -817,7 +817,7 @@
             "日奉一族",
             "有村組",
             "理外研",
-            "白色系家族目錄",
+            "白色家系目錄",
             "翻譯",
             "花籠學園"
         ]

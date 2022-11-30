@@ -19,7 +19,7 @@
         "TITLE": "SCP-682 - 不滅孽蜥",
         "FULLNAME": "scp-682",
         "RATING": 24,
-        "COMMENTS": "1",
+        "COMMENTS": "2",
         "TAGS": [
             "en",
             "keter",
@@ -136,7 +136,7 @@
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
         "FULLNAME": "scp-6820",
-        "RATING": 13,
+        "RATING": 14,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -176,6 +176,29 @@
             "en",
             "不滅孽蜥",
             "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-6871 - 轉眼之間",
+        "FULLNAME": "scp-6871",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "bright博士",
+            "dc-al-fine",
+            "en",
+            "scp",
+            "thaumiel",
+            "the-administrator",
+            "不滅孽蜥",
+            "儀式性",
+            "全球超自然聯盟",
+            "夜之子",
+            "大術士伊仰",
+            "悖論",
+            "時間影響",
+            "未曾建立",
             "翻譯"
         ]
     }

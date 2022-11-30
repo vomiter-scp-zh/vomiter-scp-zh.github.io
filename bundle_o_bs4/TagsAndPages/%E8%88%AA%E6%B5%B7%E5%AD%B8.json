@@ -29,7 +29,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-700",
+        "TITLE": "SCP-ZH-700 - 預言後依然難以避免",
         "FULLNAME": "scp-zh-700",
         "RATING": 11,
         "COMMENTS": "5",
@@ -47,9 +47,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-113",
+        "TITLE": "SCP-ZH-113 - 抹殺事情的真相",
         "FULLNAME": "scp-zh-113",
-        "RATING": 28,
+        "RATING": 30,
         "COMMENTS": "2",
         "TAGS": [
             "2020夏季競賽",
@@ -107,7 +107,7 @@
     {
         "TITLE": "矢尖",
         "FULLNAME": "arrowhead",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "aiad",
@@ -404,6 +404,47 @@
             "水銀",
             "航海學",
             "蛛網國際"
+        ]
+    },
+    {
+        "TITLE": "執左道者的自我政變",
+        "FULLNAME": "self-coup-of-the-knavish",
+        "RATING": 17,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "metha博士",
+            "原創",
+            "地下街",
+            "成人內容",
+            "故事",
+            "物理少年",
+            "研究員knave",
+            "航海學",
+            "轉世計劃"
+        ]
+    },
+    {
+        "TITLE": "絕無二心",
+        "FULLNAME": "forever-heartfelt",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "1998年",
+            "2022萬聖事件",
+            "原創",
+            "大正150年",
+            "故事",
+            "核裂擠兌",
+            "欲肉教",
+            "死亡終了",
+            "物理少年",
+            "破曉",
+            "破碎之神教會",
+            "神化",
+            "繁廣",
+            "航海學",
+            "雙城作戰"
         ]
     }
 ]

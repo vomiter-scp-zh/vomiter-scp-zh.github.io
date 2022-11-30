@@ -250,7 +250,7 @@
     {
         "TITLE": "SCP-3001 - 紅色現實",
         "FULLNAME": "scp-3001",
-        "RATING": 16,
+        "RATING": 19,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -343,7 +343,7 @@
     {
         "TITLE": "SCP-3935 - 此處靜謐瘋狂",
         "FULLNAME": "scp-3935",
-        "RATING": 3,
+        "RATING": 5,
         "COMMENTS": "4",
         "TAGS": [
             "1976年班",
@@ -913,7 +913,7 @@
     {
         "TITLE": "SCP-6837 - 鬧鬼故事",
         "FULLNAME": "scp-6837",
-        "RATING": 6,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -924,6 +924,80 @@
             "未來",
             "翻譯",
             "聲音"
+        ]
+    },
+    {
+        "TITLE": "SCP-6871 - 轉眼之間",
+        "FULLNAME": "scp-6871",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "bright博士",
+            "dc-al-fine",
+            "en",
+            "scp",
+            "thaumiel",
+            "the-administrator",
+            "不滅孽蜥",
+            "儀式性",
+            "全球超自然聯盟",
+            "夜之子",
+            "大術士伊仰",
+            "悖論",
+            "時間影響",
+            "未曾建立",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-728 - 永遠房間",
+        "FULLNAME": "scp-728",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "人造物品",
+            "時間影響",
+            "翻譯",
+            "銘文"
+        ]
+    },
+    {
+        "TITLE": "SCP-196 - 時間悖論",
+        "FULLNAME": "scp-196",
+        "RATING": 1,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "keter",
+            "scp",
+            "人形",
+            "悖論",
+            "時間影響",
+            "智能",
+            "活物",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-009-JP - 閏秒",
+        "FULLNAME": "scp-009-jp",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "jp",
+            "scp",
+            "傳送",
+            "星球",
+            "星際",
+            "時空",
+            "時間影響",
+            "未收容",
+            "翻譯",
+            "重力影響"
         ]
     }
 ]

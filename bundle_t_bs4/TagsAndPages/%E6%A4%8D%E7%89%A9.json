@@ -117,7 +117,7 @@
     {
         "TITLE": "SCP-420-J",
         "FULLNAME": "scp-420-j",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -361,7 +361,7 @@
     {
         "TITLE": "SCP-2023 - 艾多努斯的賠禮",
         "FULLNAME": "scp-2023",
-        "RATING": 2,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -454,9 +454,9 @@
             "en-6000",
             "gears博士",
             "scp",
+            "待分級",
             "植物",
             "樹木",
-            "機密分級",
             "熵",
             "知識",
             "翻譯",
@@ -681,7 +681,7 @@
     {
         "TITLE": "SCP-7300 - 浮游生物!!!",
         "FULLNAME": "scp-7300",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -716,6 +716,43 @@
             "火",
             "翻譯",
             "骨骼"
+        ]
+    },
+    {
+        "TITLE": "SCP-6707 - 窮盡我等一切",
+        "FULLNAME": "scp-6707",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "scp",
+            "合著",
+            "恆星",
+            "植物",
+            "機密分級",
+            "歷史性",
+            "氣象",
+            "活物",
+            "物種",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-2932 - 緹坦妮雅之牢",
+        "FULLNAME": "scp-2932",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "scp",
+            "thaumiel",
+            "不可摧毀",
+            "地下",
+            "夜之子",
+            "植物",
+            "活物",
+            "結構物",
+            "翻譯"
         ]
     }
 ]

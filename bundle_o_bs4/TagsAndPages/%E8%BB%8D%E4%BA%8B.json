@@ -3,7 +3,7 @@
         "TAGNAME": "軍事"
     },
     {
-        "TITLE": "SCP-ZH-109",
+        "TITLE": "SCP-ZH-109 - 彩虹橋",
         "FULLNAME": "scp-zh-109",
         "RATING": 16,
         "COMMENTS": "0",
@@ -38,7 +38,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-314",
+        "TITLE": "SCP-ZH-314 - 善良的極限？",
         "FULLNAME": "scp-zh-314",
         "RATING": 11,
         "COMMENTS": "2",
@@ -56,7 +56,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-804",
+        "TITLE": "SCP-ZH-804 - 桃花園",
         "FULLNAME": "scp-zh-804",
         "RATING": 9,
         "COMMENTS": "3",
@@ -93,8 +93,8 @@
     {
         "TITLE": "SCP-ZH-968 - 基輔戰鬼顯現之時",
         "FULLNAME": "scp-zh-968",
-        "RATING": 23,
-        "COMMENTS": "3",
+        "RATING": 25,
+        "COMMENTS": "4",
         "TAGS": [
             "scp",
             "zh急迫競賽2022",
@@ -103,6 +103,7 @@
             "概念",
             "機密分級",
             "歷史性",
+            "研究員knave",
             "記憶影響",
             "軍事",
             "都異部門"

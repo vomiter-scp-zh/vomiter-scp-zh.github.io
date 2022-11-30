@@ -3,7 +3,7 @@
         "TAGNAME": "雙城作戰"
     },
     {
-        "TITLE": "SCP-ZH-888",
+        "TITLE": "SCP-ZH-888 - 霾",
         "FULLNAME": "scp-zh-888",
         "RATING": 19,
         "COMMENTS": "1",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-256",
+        "TITLE": "SCP-ZH-256 - 基改山泉",
         "FULLNAME": "scp-zh-256",
         "RATING": 15,
         "COMMENTS": "0",
@@ -148,7 +148,7 @@
     {
         "TITLE": "雙城作戰中心頁",
         "FULLNAME": "operation-twin-cities-hub",
-        "RATING": 8,
+        "RATING": 9,
         "COMMENTS": "1",
         "TAGS": [
             "中心",
@@ -274,6 +274,41 @@
         "TAGS": [
             "原創",
             "第八處",
+            "雙城作戰"
+        ]
+    },
+    {
+        "TITLE": "國安局第八處戰略資料：裝備",
+        "FULLNAME": "nsb-8-euipment",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "原創",
+            "第八處",
+            "說明",
+            "雙城作戰"
+        ]
+    },
+    {
+        "TITLE": "絕無二心",
+        "FULLNAME": "forever-heartfelt",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "1998年",
+            "2022萬聖事件",
+            "原創",
+            "大正150年",
+            "故事",
+            "核裂擠兌",
+            "欲肉教",
+            "死亡終了",
+            "物理少年",
+            "破曉",
+            "破碎之神教會",
+            "神化",
+            "繁廣",
+            "航海學",
             "雙城作戰"
         ]
     }

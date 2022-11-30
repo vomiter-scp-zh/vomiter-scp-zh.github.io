@@ -2,7 +2,7 @@
     {
         "TITLE": "魔法講座",
         "FULLNAME": "another-goddamn-magic-system",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -167,7 +167,7 @@
     {
         "TITLE": "SCP-4852 - Site-19南遷渡冬去！",
         "FULLNAME": "scp-4852",
-        "RATING": 9,
+        "RATING": 11,
         "COMMENTS": "1",
         "TAGS": [
             "aktus主任",
@@ -265,7 +265,7 @@
     {
         "TITLE": "殆瓦中心頁",
         "FULLNAME": "daevite-hub",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -277,7 +277,7 @@
     {
         "TITLE": "逆模因部時間線",
         "FULLNAME": "antimemetics-division-timeline",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -885,7 +885,7 @@
     {
         "TITLE": "SCP-6630 - 彼方遙火",
         "FULLNAME": "scp-6630",
-        "RATING": 18,
+        "RATING": 19,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -902,7 +902,7 @@
     {
         "TITLE": "SCP-6355 - 扼殺禮義之咽喉",
         "FULLNAME": "scp-6355",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -939,7 +939,7 @@
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
         "FULLNAME": "scp-6820",
-        "RATING": 13,
+        "RATING": 14,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -1058,7 +1058,7 @@
     {
         "TITLE": "SCP-7070 - 不凋",
         "FULLNAME": "scp-7070",
-        "RATING": 11,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1093,7 +1093,7 @@
     {
         "TITLE": "SCP-7000 - 輸家",
         "FULLNAME": "scp-7000",
-        "RATING": 17,
+        "RATING": 19,
         "COMMENTS": "1",
         "TAGS": [
             "blank博士",
@@ -1117,7 +1117,7 @@
     {
         "TITLE": "光反應",
         "FULLNAME": "light-dependent-reactions",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "elliott博士",
@@ -1130,7 +1130,7 @@
     {
         "TITLE": "SCP-7025 - 你將死於公車",
         "FULLNAME": "scp-7025",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1145,7 +1145,7 @@
     {
         "TITLE": "共異迴歷 中心頁",
         "FULLNAME": "kyouikaireki-hub",
-        "RATING": 8,
+        "RATING": 9,
         "COMMENTS": "0",
         "TAGS": [
             "jp",
@@ -1159,7 +1159,7 @@
     {
         "TITLE": "SCP-4231 - 蒙托克之屋",
         "FULLNAME": "scp-4231",
-        "RATING": 10,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "clef博士",
@@ -1180,7 +1180,7 @@
     {
         "TITLE": "額外資源",
         "FULLNAME": "additional-resources",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "0",
         "TAGS": [
             "aktus主任",
@@ -1208,6 +1208,695 @@
             "翻譯",
             "誤傳部",
             "資訊危害"
+        ]
+    },
+    {
+        "TITLE": "楷模計畫",
+        "FULLNAME": "project-paragon-hub",
+        "RATING": 10,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "中心",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-6765 - 惡魔奧吉爾與瑪利德拉格血之王座",
+        "FULLNAME": "scp-6765",
+        "RATING": 10,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "人形",
+            "人造物品",
+            "地下",
+            "夜之子",
+            "家具",
+            "心靈感應",
+            "感知力",
+            "智能",
+            "歷史性",
+            "殆瓦",
+            "活物",
+            "無定形",
+            "猩紅之王",
+            "生物性",
+            "睡眠",
+            "石頭",
+            "結構物",
+            "翻譯",
+            "聽覺影響",
+            "記憶影響",
+            "認知危害",
+            "銘文"
+        ]
+    },
+    {
+        "TITLE": "煉金學部中心頁",
+        "FULLNAME": "the-alchemy-department-hub",
+        "RATING": 8,
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "中心",
+            "煉金部門",
+            "翻譯",
+            "評論員焦點"
+        ]
+    },
+    {
+        "TITLE": "SCP-850 - 魚群",
+        "FULLNAME": "scp-850",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "活物",
+            "物種",
+            "翻譯",
+            "超維度",
+            "魚類"
+        ]
+    },
+    {
+        "TITLE": "凜冬",
+        "FULLNAME": "site-14-secure-facility-dossier",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "en-部門競賽2022",
+            "合著",
+            "站點",
+            "翻譯",
+            "電信監控辦公室"
+        ]
+    },
+    {
+        "TITLE": "皮媞婭的羽翼",
+        "FULLNAME": "pythia-s-wing",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-661-J",
+        "FULLNAME": "scp-661-j",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "搞笑",
+            "機率性",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "Clef博士研討會手記，「現實扭曲者與你：當不存在的事物存在時該如何生存。」",
+        "FULLNAME": "clef101",
+        "RATING": 7,
+        "COMMENTS": "1",
+        "TAGS": [
+            "clef博士",
+            "en",
+            "故事",
+            "翻譯",
+            "說明"
+        ]
+    },
+    {
+        "TITLE": "摘錄自Alto Clef〈如何在現實不存在時求生〉",
+        "FULLNAME": "clef-excerpts",
+        "RATING": 13,
+        "COMMENTS": "0",
+        "TAGS": [
+            "clef博士",
+            "en",
+            "故事",
+            "翻譯",
+            "該隱"
+        ]
+    },
+    {
+        "TITLE": "夜幕降臨",
+        "FULLNAME": "nightfall-hub",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "中心",
+            "夜幕降臨",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-1048 - 拼裝者小熊",
+        "FULLNAME": "scp-1048",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "未收容",
+            "玩具",
+            "精神影響",
+            "翻譯",
+            "自主",
+            "自我複製"
+        ]
+    },
+    {
+        "TITLE": "於其影中",
+        "FULLNAME": "in-his-own-image",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "中心",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "倫理委員會D級人員住宿規則",
+        "FULLNAME": "ethics-committee-class-d-housing-regulations",
+        "RATING": 12,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "倫理委員會",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-413 - 無邊無際的停車場",
+        "FULLNAME": "scp-413",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "建築物",
+            "時空",
+            "智能",
+            "神經性",
+            "翻譯",
+            "聲音",
+            "聽覺影響"
+        ]
+    },
+    {
+        "TITLE": "SCP-4231解密-第一部分",
+        "FULLNAME": "scp-4231-declassification-part-one",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "成人內容",
+            "用戶解密",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-2317 - 前往彼界之門",
+        "FULLNAME": "scp-2317",
+        "RATING": 14,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "k級情景",
+            "scp",
+            "人形",
+            "儀式性",
+            "感知力",
+            "智能",
+            "活物",
+            "猩紅之王",
+            "翻譯",
+            "超維度"
+        ]
+    },
+    {
+        "TITLE": "SCP-2741 - 左道儀",
+        "FULLNAME": "scp-2741",
+        "RATING": 5,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "人造物品",
+            "無效化",
+            "精神影響",
+            "翻譯",
+            "聲音"
+        ]
+    },
+    {
+        "TITLE": "SCP-4231解密-第二部分",
+        "FULLNAME": "scp-4231-declassification-part-two",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "成人內容",
+            "用戶解密",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-058 - 黯闇之心",
+        "FULLNAME": "scp-058",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "感知力",
+            "敵意",
+            "活物",
+            "牛類",
+            "翻譯",
+            "聽覺影響"
+        ]
+    },
+    {
+        "TITLE": "SCP-059 - 放射性礦物",
+        "FULLNAME": "scp-059",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "傳染性",
+            "放射性",
+            "活物",
+            "生物危害",
+            "真菌",
+            "翻譯",
+            "超維度",
+            "重寫"
+        ]
+    },
+    {
+        "TITLE": "SCP-815 - 飛蛇堅果罐",
+        "FULLNAME": "scp-815",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "傳送",
+            "玩具",
+            "翻譯",
+            "自我修復"
+        ]
+    },
+    {
+        "TITLE": "老梗與你：一部教育影片",
+        "FULLNAME": "cliches-and-you-an-educational-film",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "心得",
+            "搞笑",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-3001 - 紅色現實",
+        "FULLNAME": "scp-3001",
+        "RATING": 19,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "en-3000",
+            "euclid",
+            "scp",
+            "反物理定律",
+            "悖論",
+            "時空",
+            "時間影響",
+            "神經性",
+            "翻譯",
+            "記錄",
+            "超維度"
+        ]
+    },
+    {
+        "TITLE": "序曲：預備鈴",
+        "FULLNAME": "days-gone-by",
+        "RATING": 9,
+        "COMMENTS": "0",
+        "TAGS": [
+            "1976年班",
+            "en",
+            "故事",
+            "翻譯",
+            "重寫"
+        ]
+    },
+    {
+        "TITLE": "1976年班+SCP-2316解密",
+        "FULLNAME": "scp-2316-declassification",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "用戶解密",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "妖精雙子女王故事",
+        "FULLNAME": "a-faerie-tale-of-twin-queens",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "homo-sapiens-sidhe",
+            "來自120站的檔案",
+            "故事",
+            "無名",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "魔法軍隊之上的至高議會",
+        "FULLNAME": "the-high-court-with-the-magic-army",
+        "RATING": 3,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-2932 - 緹坦妮雅之牢",
+        "FULLNAME": "scp-2932",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "scp",
+            "thaumiel",
+            "不可摧毀",
+            "地下",
+            "夜之子",
+            "植物",
+            "活物",
+            "結構物",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-476 - 至無處之地圖",
+        "FULLNAME": "scp-476",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "地點",
+            "文獻",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-2026-JP - 聖家堂（基因改造）",
+        "FULLNAME": "scp-2026-jp",
+        "RATING": 4,
+        "COMMENTS": "1",
+        "TAGS": [
+            "euclid",
+            "jp",
+            "scp",
+            "建築物",
+            "翻譯",
+            "食物"
+        ]
+    },
+    {
+        "TITLE": "危險迎面而來",
+        "FULLNAME": "in-harm-s-way",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "bowe上將",
+            "bright博士",
+            "en",
+            "gillespie主任",
+            "iris-thompson",
+            "kain-pathos-crow",
+            "light博士",
+            "moose主任",
+            "roget博士",
+            "復生",
+            "故事",
+            "翻譯",
+            "該隱"
+        ]
+    },
+    {
+        "TITLE": "維安設施檔案：受保護站點Site-7（同步未完成）",
+        "FULLNAME": "secure-facility-dossier-site-7",
+        "RATING": 9,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "maria-jones",
+            "中心",
+            "合著",
+            "站點",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-6781 - Site-7：遺產",
+        "FULLNAME": "scp-6781",
+        "RATING": 10,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "scp",
+            "thaumiel",
+            "合著",
+            "地下",
+            "地點",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "整合計畫",
+        "FULLNAME": "integrity-project",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "aktus主任",
+            "en",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "與惡魔的交易",
+        "FULLNAME": "deals-with-the-devil",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "gears博士",
+            "light博士",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "即刻行動",
+        "FULLNAME": "immediate-actions",
+        "RATING": 7,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "iris-thompson",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "一切為真",
+        "FULLNAME": "this-is-the-real-life",
+        "RATING": 7,
+        "COMMENTS": "2",
+        "TAGS": [
+            "bright博士",
+            "en",
+            "en-愚人節2016",
+            "復生",
+            "故事",
+            "研究員labelle",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "伸出援手",
+        "FULLNAME": "lending-a-hand",
+        "RATING": 3,
+        "COMMENTS": "1",
+        "TAGS": [
+            "cimmerian博士",
+            "en",
+            "kondraki博士",
+            "light博士",
+            "倫理委員會",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-1471 - MalO ver1.0.0",
+        "FULLNAME": "scp-1471",
+        "RATING": 8,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "人形",
+            "媒體",
+            "未收容",
+            "翻譯",
+            "視覺性",
+            "通訊",
+            "電腦"
+        ]
+    },
+    {
+        "TITLE": "𝒫",
+        "FULLNAME": "scp-5558",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "meta",
+            "scp",
+            "人形",
+            "傳送",
+            "反熵",
+            "性",
+            "智能",
+            "活物",
+            "無定形",
+            "翻譯",
+            "語言",
+            "誤傳部",
+            "音頻"
+        ]
+    },
+    {
+        "TITLE": "欲肉教中心頁",
+        "FULLNAME": "sarkicism-hub",
+        "RATING": 16,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "judith-low",
+            "中心",
+            "大術士伊仰",
+            "欲肉教",
+            "殆瓦",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-2481 - 弒殺金烏",
+        "FULLNAME": "scp-2481",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "人形",
+            "地下",
+            "地點",
+            "夏異常",
+            "感知力",
+            "智能",
+            "本質促動",
+            "欲肉教",
+            "歷史性",
+            "火炬之子",
+            "爬蟲類動物",
+            "生物性",
+            "破碎之神教會",
+            "翻譯",
+            "金屬",
+            "雕塑"
+        ]
+    },
+    {
+        "TITLE": "SCP-3002 - 活埋想法的嘗試",
+        "FULLNAME": "scp-3002",
+        "RATING": 13,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "en-3000",
+            "keter",
+            "k級情景",
+            "meta",
+            "scp",
+            "基金會製造",
+            "感知力",
+            "智能",
+            "未收容",
+            "概念",
+            "模因效應",
+            "精神影響",
+            "翻譯",
+            "記憶影響",
+            "資訊危害",
+            "適應性"
+        ]
+    },
+    {
+        "TITLE": "SCP選集中心頁",
+        "FULLNAME": "scp-anthology-hub",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "中心",
+            "死亡abc",
+            "翻譯"
         ]
     }
 ]

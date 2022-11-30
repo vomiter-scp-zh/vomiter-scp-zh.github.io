@@ -23,7 +23,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-216",
+        "TITLE": "SCP-ZH-216 - 抵抗遺忘",
         "FULLNAME": "scp-zh-216",
         "RATING": 16,
         "COMMENTS": "2",
@@ -59,7 +59,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-012",
+        "TITLE": "SCP-ZH-012 - 十二",
         "FULLNAME": "scp-zh-012",
         "RATING": 19,
         "COMMENTS": "2",
@@ -76,7 +76,7 @@
     {
         "TITLE": "SCP-ZH-2588-J",
         "FULLNAME": "scp-zh-2588-j",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "2020虹光之間",
@@ -110,9 +110,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-088",
+        "TITLE": "SCP-ZH-088 - 只有男子漢可以進入的門",
         "FULLNAME": "scp-zh-088",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "1",
         "TAGS": [
             "euclid",
@@ -131,7 +131,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-023",
+        "TITLE": "SCP-ZH-023 - 末狀記憶",
         "FULLNAME": "scp-zh-023",
         "RATING": 11,
         "COMMENTS": "1",
@@ -173,7 +173,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-032",
+        "TITLE": "SCP-ZH-032 - 有毒的橡皮擦",
         "FULLNAME": "scp-zh-032",
         "RATING": 21,
         "COMMENTS": "0",
@@ -197,7 +197,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-205",
+        "TITLE": "SCP-ZH-205 - 絕非設計不良",
         "FULLNAME": "scp-zh-205",
         "RATING": 6,
         "COMMENTS": "2",
@@ -211,7 +211,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-092",
+        "TITLE": "SCP-ZH-092 - 絕地大師的光劍",
         "FULLNAME": "scp-zh-092",
         "RATING": -5,
         "COMMENTS": "4",
@@ -229,7 +229,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-266",
+        "TITLE": "SCP-ZH-266 - 走向理想之路",
         "FULLNAME": "scp-zh-266",
         "RATING": 12,
         "COMMENTS": "4",
@@ -264,7 +264,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-776",
+        "TITLE": "SCP-ZH-776 - 暗黑暗黑暗黑之劍",
         "FULLNAME": "scp-zh-776",
         "RATING": 7,
         "COMMENTS": "6",
@@ -283,7 +283,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-068",
+        "TITLE": "SCP-ZH-068 - 自然色彩之戰",
         "FULLNAME": "scp-zh-068",
         "RATING": 2,
         "COMMENTS": "4",
@@ -347,7 +347,7 @@
     {
         "TITLE": "SCP-ZH-432 - 更好的你",
         "FULLNAME": "scp-zh-432",
-        "RATING": 19,
+        "RATING": 20,
         "COMMENTS": "2",
         "TAGS": [
             "euclid",
@@ -361,8 +361,8 @@
     {
         "TITLE": "SCP-ZH-968 - 基輔戰鬼顯現之時",
         "FULLNAME": "scp-zh-968",
-        "RATING": 23,
-        "COMMENTS": "3",
+        "RATING": 25,
+        "COMMENTS": "4",
         "TAGS": [
             "scp",
             "zh急迫競賽2022",
@@ -371,6 +371,7 @@
             "概念",
             "機密分級",
             "歷史性",
+            "研究員knave",
             "記憶影響",
             "軍事",
             "都異部門"

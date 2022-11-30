@@ -29,7 +29,7 @@
     {
         "TITLE": "魔法講座",
         "FULLNAME": "another-goddamn-magic-system",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -835,7 +835,7 @@
     {
         "TITLE": "SCP-701 - 受絞之王的悲劇",
         "FULLNAME": "scp-701",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -1121,7 +1121,7 @@
     {
         "TITLE": "SCP-2317 - 前往彼界之門",
         "FULLNAME": "scp-2317",
-        "RATING": 11,
+        "RATING": 14,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1195,7 +1195,7 @@
     {
         "TITLE": "SCP-087 - 樓梯間",
         "FULLNAME": "scp-087",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -1355,7 +1355,7 @@
     {
         "TITLE": "黑白黑白黑白黑白黑白灰",
         "FULLNAME": "black-white-black-white-black-white-black-white-black-white",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1495,7 +1495,7 @@
     {
         "TITLE": "吾王萬歲",
         "FULLNAME": "long-live-the-king",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1523,7 +1523,7 @@
     {
         "TITLE": "SCP-2998 - 異常傳播訊號，2485MHz",
         "FULLNAME": "scp-2998",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -1967,7 +1967,7 @@
     {
         "TITLE": "SCP-420-J",
         "FULLNAME": "scp-420-j",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -2244,7 +2244,7 @@
     {
         "TITLE": "SCP-063-J",
         "FULLNAME": "scp-063-j",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -2288,7 +2288,7 @@
     {
         "TITLE": "SCP-2911-JP - 美國最漫長的一天",
         "FULLNAME": "scp-2911-jp",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "2",
         "TAGS": [
             "1998年",
@@ -2493,7 +2493,7 @@
     {
         "TITLE": "SCP-666½-J",
         "FULLNAME": "scp-666-and-a-half-j",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "1",
         "TAGS": [
             "bright博士",
@@ -2514,7 +2514,7 @@
         ]
     },
     {
-        "TITLE": "［基於協議4000-Eshu而被限制］",
+        "TITLE": "［基於協議4000-Eshu而受限制］",
         "FULLNAME": "taboo",
         "RATING": 11,
         "COMMENTS": "4",
@@ -2572,7 +2572,6 @@
             "jp",
             "k級情景",
             "scp",
-            "儀式",
             "儀式性",
             "全球超自然聯盟",
             "動物",
@@ -2700,7 +2699,7 @@
     {
         "TITLE": "1998年 中心頁",
         "FULLNAME": "1998-hub",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "2",
         "TAGS": [
             "1998年",
@@ -2836,7 +2835,7 @@
     {
         "TITLE": "放棄死亡",
         "FULLNAME": "abandoning-death",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "1",
         "TAGS": [
             "jp",
@@ -2977,7 +2976,7 @@
     {
         "TITLE": "SC嗚喔喔啊啊啊啊啊啊啊啊-JP-J",
         "FULLNAME": "scpaaaaaaaaaaaaaaaaaa-jp-j",
-        "RATING": 25,
+        "RATING": 26,
         "COMMENTS": "1",
         "TAGS": [
             "jp",
@@ -3049,7 +3048,7 @@
     {
         "TITLE": "即刻行動",
         "FULLNAME": "immediate-actions",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -3097,7 +3096,7 @@
     {
         "TITLE": "宛如我們是幼稚園老師一樣",
         "FULLNAME": "maria-jones-this-is-your-life",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "bright博士",
@@ -3125,7 +3124,7 @@
             "日奉一族",
             "有村組",
             "理外研",
-            "白色系家族目錄",
+            "白色家系目錄",
             "翻譯",
             "花籠學園"
         ]
@@ -3164,7 +3163,7 @@
     {
         "TITLE": "東弊舍自動人偶部門廣告",
         "FULLNAME": "tohei-automata",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "jp",
@@ -3454,7 +3453,7 @@
     {
         "TITLE": "欲肉教中心頁",
         "FULLNAME": "sarkicism-hub",
-        "RATING": 15,
+        "RATING": 16,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -3483,7 +3482,7 @@
     {
         "TITLE": "你的第一篇SCP！",
         "FULLNAME": "your-very-first-scp",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -4251,7 +4250,7 @@
     {
         "TITLE": "殆瓦中心頁",
         "FULLNAME": "daevite-hub",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -4334,7 +4333,7 @@
     {
         "TITLE": "SCP-4680 - 噢，那些俄國佬…",
         "FULLNAME": "scp-4680",
-        "RATING": 8,
+        "RATING": 10,
         "COMMENTS": "3",
         "TAGS": [
             "en",
@@ -4460,7 +4459,7 @@
     {
         "TITLE": "共異迴歷 中心頁",
         "FULLNAME": "kyouikaireki-hub",
-        "RATING": 8,
+        "RATING": 9,
         "COMMENTS": "0",
         "TAGS": [
             "jp",

@@ -5,7 +5,7 @@
     {
         "TITLE": "SCP-240-JP - 零隻蝗蟲",
         "FULLNAME": "scp-240-jp",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "1",
         "TAGS": [
             "euclid",
@@ -419,7 +419,7 @@
     {
         "TITLE": "SCP-2911-JP - 美國最漫長的一天",
         "FULLNAME": "scp-2911-jp",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "2",
         "TAGS": [
             "1998年",
@@ -568,7 +568,6 @@
             "jp",
             "k級情景",
             "scp",
-            "儀式",
             "儀式性",
             "全球超自然聯盟",
             "動物",
@@ -683,7 +682,7 @@
         "TITLE": "SCP-1633-JP - 三角座銀河系（M33, NGC598）上的恆星相撞現象",
         "FULLNAME": "scp-1633-jp",
         "RATING": 4,
-        "COMMENTS": "0",
+        "COMMENTS": "3",
         "TAGS": [
             "jp",
             "scp",
@@ -791,7 +790,7 @@
     {
         "TITLE": "1998年 中心頁",
         "FULLNAME": "1998-hub",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "2",
         "TAGS": [
             "1998年",
@@ -1018,7 +1017,7 @@
     {
         "TITLE": "放棄死亡",
         "FULLNAME": "abandoning-death",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "1",
         "TAGS": [
             "jp",
@@ -1143,7 +1142,7 @@
     {
         "TITLE": "SC嗚喔喔啊啊啊啊啊啊啊啊-JP-J",
         "FULLNAME": "scpaaaaaaaaaaaaaaaaaa-jp-j",
-        "RATING": 25,
+        "RATING": 26,
         "COMMENTS": "1",
         "TAGS": [
             "jp",
@@ -1225,7 +1224,7 @@
             "日奉一族",
             "有村組",
             "理外研",
-            "白色系家族目錄",
+            "白色家系目錄",
             "翻譯",
             "花籠學園"
         ]
@@ -1244,7 +1243,7 @@
     {
         "TITLE": "東弊舍自動人偶部門廣告",
         "FULLNAME": "tohei-automata",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "jp",
@@ -2546,7 +2545,7 @@
     {
         "TITLE": "SCP-207-JP實驗紀錄",
         "FULLNAME": "207",
-        "RATING": 2,
+        "RATING": 3,
         "COMMENTS": "0",
         "TAGS": [
             "jp",
@@ -2630,7 +2629,7 @@
     {
         "TITLE": "SCP-999-JP - 我就是第九號的人物",
         "FULLNAME": "scp-999-jp",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "1",
         "TAGS": [
             "jp",
@@ -2815,7 +2814,7 @@
     {
         "TITLE": "共異迴歷 中心頁",
         "FULLNAME": "kyouikaireki-hub",
-        "RATING": 8,
+        "RATING": 9,
         "COMMENTS": "0",
         "TAGS": [
             "jp",
@@ -2824,6 +2823,153 @@
             "共異迴歷",
             "合作",
             "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-490-JP - 貝克遜國完善裝置",
+        "FULLNAME": "scp-490-jp",
+        "RATING": 2,
+        "COMMENTS": "1",
+        "TAGS": [
+            "jp",
+            "jp-2015年終末記事競賽",
+            "safe",
+            "scp",
+            "城市",
+            "歷史性",
+            "翻譯",
+            "諸知博士",
+            "電腦"
+        ]
+    },
+    {
+        "TITLE": "SCP-2026-JP - 聖家堂（基因改造）",
+        "FULLNAME": "scp-2026-jp",
+        "RATING": 4,
+        "COMMENTS": "1",
+        "TAGS": [
+            "euclid",
+            "jp",
+            "scp",
+            "建築物",
+            "翻譯",
+            "食物"
+        ]
+    },
+    {
+        "TITLE": "SCP-1601-JP - 彼曲來援",
+        "FULLNAME": "scp-1601-jp",
+        "RATING": 1,
+        "COMMENTS": "0",
+        "TAGS": [
+            "jp",
+            "safe",
+            "scp",
+            "人造物品",
+            "機械",
+            "翻譯",
+            "音樂性"
+        ]
+    },
+    {
+        "TITLE": "SCP-688-JP - 理想的全家福",
+        "FULLNAME": "scp-688-jp",
+        "RATING": 1,
+        "COMMENTS": "0",
+        "TAGS": [
+            "euclid",
+            "jp",
+            "scp",
+            "地點",
+            "精神影響",
+            "翻譯",
+            "視覺性"
+        ]
+    },
+    {
+        "TITLE": "SCP-1099-JP - 瞬間腦腫急救師．引流白",
+        "FULLNAME": "scp-1099-jp",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "jp",
+            "scp",
+            "人形",
+            "無效化",
+            "翻譯",
+            "衣物",
+            "超電救助隊",
+            "醫學性"
+        ]
+    },
+    {
+        "TITLE": "SCP-387-JP - 高速心臟起搏師．逆行金",
+        "FULLNAME": "scp-387-jp",
+        "RATING": 2,
+        "COMMENTS": "2",
+        "TAGS": [
+            "jp",
+            "keter",
+            "scp",
+            "人形",
+            "翻譯",
+            "衣物",
+            "超電救助隊",
+            "金屬",
+            "電力"
+        ]
+    },
+    {
+        "TITLE": "SCP-2031-JP - 虐兒者斷罪戰士．審判紫",
+        "FULLNAME": "scp-2031-jp",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "jp",
+            "scp",
+            "人形",
+            "無效化",
+            "翻譯",
+            "衣物",
+            "超電救助隊"
+        ]
+    },
+    {
+        "TITLE": "SCP-990-JP - 特裝急救師．分流紅",
+        "FULLNAME": "scp-990-jp",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "euclid",
+            "jp",
+            "jp-2周年goi競賽",
+            "scp",
+            "人形",
+            "翻譯",
+            "衣物",
+            "超電救助隊",
+            "軍事",
+            "醫學性",
+            "金屬",
+            "電力"
+        ]
+    },
+    {
+        "TITLE": "SCP-009-JP - 閏秒",
+        "FULLNAME": "scp-009-jp",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "jp",
+            "scp",
+            "傳送",
+            "星球",
+            "星際",
+            "時空",
+            "時間影響",
+            "未收容",
+            "翻譯",
+            "重力影響"
         ]
     }
 ]

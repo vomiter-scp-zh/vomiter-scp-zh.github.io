@@ -284,7 +284,7 @@
     {
         "TITLE": "SCP-6161 - 糕點刀",
         "FULLNAME": "scp-6161",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -301,7 +301,7 @@
     {
         "TITLE": "SCP-7052 - 菊中匙",
         "FULLNAME": "scp-7052",
-        "RATING": 6,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -313,6 +313,20 @@
             "機率性",
             "翻譯",
             "自我修復"
+        ]
+    },
+    {
+        "TITLE": "SCP-014-J",
+        "FULLNAME": "scp-014-j",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "工具",
+            "搞笑",
+            "翻譯"
         ]
     }
 ]

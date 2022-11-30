@@ -5,7 +5,7 @@
     {
         "TITLE": "魔法講座",
         "FULLNAME": "another-goddamn-magic-system",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -153,7 +153,7 @@
     {
         "TITLE": "更新版記憶消除劑指南",
         "FULLNAME": "updated-amnestics-guide",
-        "RATING": 15,
+        "RATING": 16,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -176,7 +176,7 @@
     {
         "TITLE": "回收到的媒體：呂墨菲的冷硬派冒險奇譚",
         "FULLNAME": "recovered-media-the-hard-boiled-adventures-of-murphy-law",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -417,7 +417,7 @@
     {
         "TITLE": "異常的詩集",
         "FULLNAME": "scpoems",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "1",
         "TAGS": [
             "awcy",
@@ -598,7 +598,7 @@
     {
         "TITLE": "一切為真",
         "FULLNAME": "this-is-the-real-life",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "2",
         "TAGS": [
             "bright博士",
@@ -825,7 +825,7 @@
     {
         "TITLE": "Clef博士研討會手記，「現實扭曲者與你：當不存在的事物存在時該如何生存。」",
         "FULLNAME": "clef101",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "1",
         "TAGS": [
             "clef博士",
@@ -951,7 +951,7 @@
     {
         "TITLE": "逃離終點站",
         "FULLNAME": "escape-from-terminus",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "1",
         "TAGS": [
             "creepypasta",
@@ -1109,7 +1109,7 @@
     {
         "TITLE": "黑白黑白黑白黑白黑白灰",
         "FULLNAME": "black-white-black-white-black-white-black-white-black-white",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1163,7 +1163,7 @@
     {
         "TITLE": "吾王萬歲",
         "FULLNAME": "long-live-the-king",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1375,7 +1375,7 @@
     {
         "TITLE": "序曲：預備鈴",
         "FULLNAME": "days-gone-by",
-        "RATING": 7,
+        "RATING": 9,
         "COMMENTS": "0",
         "TAGS": [
             "1976年班",
@@ -1423,7 +1423,7 @@
     {
         "TITLE": "鏽魘",
         "FULLNAME": "rusted-nightmares",
-        "RATING": 2,
+        "RATING": 3,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1545,8 +1545,8 @@
         "COMMENTS": "0",
         "TAGS": [
             "en",
+            "lament特工",
             "故事",
-            "特工lament",
             "翻譯"
         ]
     },
@@ -2502,7 +2502,7 @@
     {
         "TITLE": "1998年 中心頁",
         "FULLNAME": "1998-hub",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "2",
         "TAGS": [
             "1998年",
@@ -2556,7 +2556,7 @@
     {
         "TITLE": "放棄死亡",
         "FULLNAME": "abandoning-death",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "1",
         "TAGS": [
             "jp",
@@ -2678,7 +2678,7 @@
     {
         "TITLE": "即刻行動",
         "FULLNAME": "immediate-actions",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -2717,7 +2717,7 @@
     {
         "TITLE": "宛如我們是幼稚園老師一樣",
         "FULLNAME": "maria-jones-this-is-your-life",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "bright博士",
@@ -2745,7 +2745,7 @@
     {
         "TITLE": "東弊舍自動人偶部門廣告",
         "FULLNAME": "tohei-automata",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "jp",
@@ -2925,7 +2925,7 @@
     {
         "TITLE": "摘錄自Alto Clef〈如何在現實不存在時求生〉",
         "FULLNAME": "clef-excerpts",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "clef博士",
@@ -2964,7 +2964,7 @@
     {
         "TITLE": "代號：████ ███ — 真相",
         "FULLNAME": "code-name-the-truth",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -3352,6 +3352,7 @@
         "TAGS": [
             "bright博士",
             "clef博士",
+            "en",
             "kain-pathos-crow",
             "rights博士",
             "合作",
@@ -3595,8 +3596,8 @@
     {
         "TITLE": "SCP社群討論區模擬器",
         "FULLNAME": "scp-wiki-discussion-page-simulator",
-        "RATING": -3,
-        "COMMENTS": "0",
+        "RATING": -5,
+        "COMMENTS": "1",
         "TAGS": [
             "en",
             "合著",
@@ -3698,7 +3699,7 @@
     {
         "TITLE": "與惡魔的交易",
         "FULLNAME": "deals-with-the-devil",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -3725,7 +3726,7 @@
     {
         "TITLE": "整合計畫",
         "FULLNAME": "integrity-project",
-        "RATING": 2,
+        "RATING": 3,
         "COMMENTS": "0",
         "TAGS": [
             "aktus主任",
@@ -3789,7 +3790,7 @@
     {
         "TITLE": "我，一隻在暴雪中摀住鼻子的北極熊",
         "FULLNAME": "i-a-polar-bear-covering-my-nose-in-a-snowstorm",
-        "RATING": 11,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -3987,7 +3988,7 @@
     {
         "TITLE": "我不識己名",
         "FULLNAME": "i-don-t-know-my-name",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -3999,7 +4000,7 @@
     {
         "TITLE": "全新把戲（或：青年文化殺了我的狗",
         "FULLNAME": "new-tricks",
-        "RATING": 2,
+        "RATING": 3,
         "COMMENTS": "0",
         "TAGS": [
             "bowe上將",
@@ -4018,7 +4019,7 @@
     {
         "TITLE": "光反應",
         "FULLNAME": "light-dependent-reactions",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "elliott博士",
@@ -4031,7 +4032,7 @@
     {
         "TITLE": "女孩之夜：開始換裝",
         "FULLNAME": "dressing-up",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "0",
         "TAGS": [
             "elliott博士",
@@ -4045,7 +4046,7 @@
     {
         "TITLE": "女孩之夜：喝個爛醉",
         "FULLNAME": "getting-drunk",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "0",
         "TAGS": [
             "elliott博士",
@@ -4059,7 +4060,7 @@
     {
         "TITLE": "女孩之夜：大吵大鬧",
         "FULLNAME": "raising-hell",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "0",
         "TAGS": [
             "elliott博士",
@@ -4087,7 +4088,7 @@
     {
         "TITLE": "額外資源",
         "FULLNAME": "additional-resources",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "0",
         "TAGS": [
             "aktus主任",
@@ -4103,7 +4104,7 @@
     {
         "TITLE": "巴別塔如何毀於我手",
         "FULLNAME": "jak-zburzylem-wieze-babel",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "1",
         "TAGS": [
             "crackfic2022",
@@ -4116,12 +4117,405 @@
     {
         "TITLE": "工作機會",
         "FULLNAME": "job-opportunities",
-        "RATING": 6,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "en",
             "mc&d",
             "復生",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "皮媞婭的羽翼",
+        "FULLNAME": "pythia-s-wing",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "於其影中：第二章",
+        "FULLNAME": "in-his-own-image-part-2",
+        "RATING": 3,
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "gears博士",
+            "glass博士",
+            "lament特工",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "於其影中：插曲 2",
+        "FULLNAME": "in-his-own-image-interlude-2",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "lament特工",
+            "light博士",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "於其影中：第三章",
+        "FULLNAME": "in-his-own-image-part-3",
+        "RATING": 1,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "gears博士",
+            "iceberg博士",
+            "lament特工",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "於其影中：插曲 3",
+        "FULLNAME": "in-his-own-image-interlude-3",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "gears博士",
+            "glass博士",
+            "iceberg博士",
+            "lament特工",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "於其影中：第四章",
+        "FULLNAME": "in-his-own-image-part-4",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "gears博士",
+            "iceberg博士",
+            "lament特工",
+            "vang博士",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "於其影中：插曲 4",
+        "FULLNAME": "in-his-own-image-interlude-4",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "lament特工",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "第一名的射手",
+        "FULLNAME": "number-one-with-a-bullet",
+        "RATING": 3,
+        "COMMENTS": "2",
+        "TAGS": [
+            "bowe上將",
+            "clef博士",
+            "elliott博士",
+            "en",
+            "iris-thompson",
+            "kain-pathos-crow",
+            "全球超自然聯盟",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "於其影中：第五章",
+        "FULLNAME": "in-his-own-image-part-5",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "gears博士",
+            "lament特工",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "於其影中：插曲 5",
+        "FULLNAME": "in-his-own-image-interlude-5",
+        "RATING": 1,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "gears博士",
+            "lament特工",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "於其影中：第六章",
+        "FULLNAME": "in-his-own-image-part-6",
+        "RATING": 1,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "gears博士",
+            "glass博士",
+            "lament特工",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "於其影中：插曲 6",
+        "FULLNAME": "in-his-own-image-interlude-6",
+        "RATING": 1,
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "gears博士",
+            "lament特工",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "於其影中：第七章",
+        "FULLNAME": "in-his-own-image-part-7",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "gears博士",
+            "lament特工",
+            "light博士",
+            "strelnikov特工",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "於其影中：尾聲",
+        "FULLNAME": "in-his-own-image-epilogue",
+        "RATING": 1,
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "gears博士",
+            "iceberg博士",
+            "lament特工",
+            "light博士",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "伸出援手",
+        "FULLNAME": "lending-a-hand",
+        "RATING": 3,
+        "COMMENTS": "1",
+        "TAGS": [
+            "cimmerian博士",
+            "en",
+            "kondraki博士",
+            "light博士",
+            "倫理委員會",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "倫理委員會D級人員住宿規則",
+        "FULLNAME": "ethics-committee-class-d-housing-regulations",
+        "RATING": 12,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "倫理委員會",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "妖精雙子女王故事",
+        "FULLNAME": "a-faerie-tale-of-twin-queens",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "homo-sapiens-sidhe",
+            "來自120站的檔案",
+            "故事",
+            "無名",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "追思：第一樂章",
+        "FULLNAME": "in-symphony",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "1976年班",
+            "en",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "第一插曲：老學校",
+        "FULLNAME": "lonwood",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "1976年班",
+            "en",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "追思：第二樂章",
+        "FULLNAME": "reunion",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "1976年班",
+            "en",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "第二插曲：演奏中",
+        "FULLNAME": "bicentennial",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "1976年班",
+            "en",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "追思：第三樂章",
+        "FULLNAME": "the-year-that-it-was",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "1976年班",
+            "en",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "終曲：遺言",
+        "FULLNAME": "looking-back",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "1976年班",
+            "en",
+            "合著",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "魔法軍隊之上的至高議會",
+        "FULLNAME": "the-high-court-with-the-magic-army",
+        "RATING": 3,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "MTF Psi-7「家居裝飾」概述",
+        "FULLNAME": "overview-of-mtf-psi-7-home-improvement",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "故事",
+            "歡樂基金會",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "危險迎面而來",
+        "FULLNAME": "in-harm-s-way",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "bowe上將",
+            "bright博士",
+            "en",
+            "gillespie主任",
+            "iris-thompson",
+            "kain-pathos-crow",
+            "light博士",
+            "moose主任",
+            "roget博士",
+            "復生",
+            "故事",
+            "翻譯",
+            "該隱"
+        ]
+    },
+    {
+        "TITLE": "ΩK",
+        "FULLNAME": "omega-k",
+        "RATING": 1,
+        "COMMENTS": "0",
+        "TAGS": [
+            "d-11424 en-末日2018",
+            "mc&d",
+            "故事",
+            "普羅米修斯實驗室",
+            "死亡終了",
+            "瑪納慈善基金會",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "Atzak I",
+        "FULLNAME": "atzak-i",
+        "RATING": 0,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "一切可能為熊的數集合",
+        "FULLNAME": "the-set-of-all-numbers-which-might-be-bears",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
             "故事",
             "翻譯"
         ]

@@ -18,7 +18,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-023",
+        "TITLE": "SCP-ZH-023 - 末狀記憶",
         "FULLNAME": "scp-zh-023",
         "RATING": 11,
         "COMMENTS": "1",
@@ -35,9 +35,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-880",
+        "TITLE": "SCP-ZH-880 - 阿嬤覺得你冷",
         "FULLNAME": "scp-zh-880",
-        "RATING": 29,
+        "RATING": 30,
         "COMMENTS": "2",
         "TAGS": [
             "euclid",
@@ -71,7 +71,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-092",
+        "TITLE": "SCP-ZH-092 - 絕地大師的光劍",
         "FULLNAME": "scp-zh-092",
         "RATING": -5,
         "COMMENTS": "4",

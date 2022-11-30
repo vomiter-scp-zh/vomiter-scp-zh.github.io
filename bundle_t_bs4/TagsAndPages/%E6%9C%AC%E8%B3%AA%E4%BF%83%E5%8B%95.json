@@ -5,7 +5,7 @@
     {
         "TITLE": "SCP-240-JP - 零隻蝗蟲",
         "FULLNAME": "scp-240-jp",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "1",
         "TAGS": [
             "euclid",
@@ -131,7 +131,7 @@
     {
         "TITLE": "SCP-3936 - 一如預期般運作",
         "FULLNAME": "scp-3936",
-        "RATING": 15,
+        "RATING": 16,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -169,7 +169,7 @@
     {
         "TITLE": "SCP-2911-JP - 美國最漫長的一天",
         "FULLNAME": "scp-2911-jp",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "2",
         "TAGS": [
             "1998年",
@@ -252,7 +252,6 @@
             "jp",
             "k級情景",
             "scp",
-            "儀式",
             "儀式性",
             "全球超自然聯盟",
             "動物",
@@ -275,7 +274,7 @@
     {
         "TITLE": "SCP-1425 - 星星信號",
         "FULLNAME": "scp-1425",
-        "RATING": 4,
+        "RATING": 3,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -387,7 +386,7 @@
     {
         "TITLE": "SCP-3529 - 蛇 = 蛇蛇 =可愛 ^~^",
         "FULLNAME": "scp-3529",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -443,7 +442,7 @@
     {
         "TITLE": "SCP-999-JP - 我就是第九號的人物",
         "FULLNAME": "scp-999-jp",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "1",
         "TAGS": [
             "jp",
@@ -536,7 +535,7 @@
     {
         "TITLE": "SCP-2481 - 弒殺金烏",
         "FULLNAME": "scp-2481",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -583,7 +582,7 @@
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
         "FULLNAME": "scp-6820",
-        "RATING": 13,
+        "RATING": 14,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -656,7 +655,7 @@
     {
         "TITLE": "SCP-7000 - 輸家",
         "FULLNAME": "scp-7000",
-        "RATING": 17,
+        "RATING": 19,
         "COMMENTS": "1",
         "TAGS": [
             "blank博士",
@@ -680,7 +679,7 @@
     {
         "TITLE": "SCP-4231 - 蒙托克之屋",
         "FULLNAME": "scp-4231",
-        "RATING": 10,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "clef博士",
@@ -701,7 +700,7 @@
     {
         "TITLE": "SCP-7052 - 菊中匙",
         "FULLNAME": "scp-7052",
-        "RATING": 6,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -718,7 +717,7 @@
     {
         "TITLE": "SCP-7440 - 無名碉堡",
         "FULLNAME": "scp-7440",
-        "RATING": 2,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -728,6 +727,21 @@
             "本質促動",
             "無名",
             "結構物",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-6046 - 致狂彈珠",
+        "FULLNAME": "scp-6046",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "scp",
+            "待分級",
+            "本質促動",
+            "玩具",
+            "球體",
             "翻譯"
         ]
     }

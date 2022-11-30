@@ -1,8 +1,8 @@
 [
     {
-        "TITLE": "SCP-ZH-889",
+        "TITLE": "SCP-ZH-889 - 此世之外",
         "FULLNAME": "scp-zh-889",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "3",
         "TAGS": [
             "safe",
@@ -15,7 +15,7 @@
     {
         "TITLE": "挑戰傳統評分方式：關於自訂評分模版",
         "FULLNAME": "rating-against-traditions",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "0",
         "TAGS": [
             "原創",
@@ -25,7 +25,7 @@
     {
         "TITLE": "SCP-ZH-105 - 不孝子",
         "FULLNAME": "scp-zh-105",
-        "RATING": 65,
+        "RATING": 66,
         "COMMENTS": "5",
         "TAGS": [
             "euclid",
@@ -72,7 +72,7 @@
     {
         "TITLE": "SCP-ZH-998 - 現象學",
         "FULLNAME": "scp-zh-998",
-        "RATING": 37,
+        "RATING": 38,
         "COMMENTS": "7",
         "TAGS": [
             "k級情景",
@@ -116,7 +116,7 @@
     {
         "TITLE": "三生有幸",
         "FULLNAME": "third-life",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "0",
         "TAGS": [
             "reverberate博士",
@@ -147,7 +147,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-301",
+        "TITLE": "SCP-ZH-301 - 馬斯列尼查",
         "FULLNAME": "scp-zh-301",
         "RATING": 17,
         "COMMENTS": "0",
@@ -320,7 +320,7 @@
     {
         "TITLE": "聖誕軍演",
         "FULLNAME": "xmas-exercise",
-        "RATING": 22,
+        "RATING": 24,
         "COMMENTS": "7",
         "TAGS": [
             "2019聖夜相守",
@@ -350,9 +350,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-044",
+        "TITLE": "SCP-ZH-044 - 石瀑狻猊",
         "FULLNAME": "scp-zh-044",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "3",
         "TAGS": [
             "bales博士",
@@ -415,7 +415,7 @@
     {
         "TITLE": "SCP-ZH-60053-J - HONK",
         "FULLNAME": "scp-zh-60053-j",
-        "RATING": 43,
+        "RATING": 45,
         "COMMENTS": "7",
         "TAGS": [
             "scp",
@@ -447,7 +447,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-108",
+        "TITLE": "SCP-ZH-108 - 團圓",
         "FULLNAME": "scp-zh-108",
         "RATING": 19,
         "COMMENTS": "0",
@@ -600,7 +600,7 @@
     {
         "TITLE": "我在萬物之中",
         "FULLNAME": "arkwork-3999",
-        "RATING": 37,
+        "RATING": 38,
         "COMMENTS": "8",
         "TAGS": [
             "原創",
@@ -630,7 +630,7 @@
     {
         "TITLE": "我沒能救到他。",
         "FULLNAME": "arkwork-zh-200",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "0",
         "TAGS": [
             "原創",
@@ -638,9 +638,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-053",
+        "TITLE": "SCP-ZH-053 - 讓我們擦乾你的淚水",
         "FULLNAME": "scp-zh-053",
-        "RATING": 29,
+        "RATING": 30,
         "COMMENTS": "0",
         "TAGS": [
             "2020虹光之間",
@@ -675,7 +675,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-480",
+        "TITLE": "SCP-ZH-480 - 向下找",
         "FULLNAME": "scp-zh-480",
         "RATING": 10,
         "COMMENTS": "1",
@@ -694,7 +694,7 @@
     {
         "TITLE": "Bright博士教你如何正確擊退敵人",
         "FULLNAME": "how-to-defeat-those-bad-guys-correctly",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "2",
         "TAGS": [
             "bright博士",
@@ -752,7 +752,7 @@
     {
         "TITLE": "巧達Clef!",
         "FULLNAME": "arkwork-chowderclef",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "0",
         "TAGS": [
             "原創",
@@ -787,8 +787,8 @@
     {
         "TITLE": "菇菇基金會",
         "FULLNAME": "fungi-foundation",
-        "RATING": 20,
-        "COMMENTS": "5",
+        "RATING": 22,
+        "COMMENTS": "6",
         "TAGS": [
             "bright博士",
             "clef博士",
@@ -845,7 +845,7 @@
     {
         "TITLE": "SCP-ZH-451 - 反對者與蠕蟲",
         "FULLNAME": "scp-zh-451",
-        "RATING": 11,
+        "RATING": 10,
         "COMMENTS": "7",
         "TAGS": [
             "2020夏季競賽",
@@ -864,8 +864,8 @@
     {
         "TITLE": "中國國安部，不應存在的十九局",
         "FULLNAME": "19th-bureau-of-mss-of-china",
-        "RATING": 20,
-        "COMMENTS": "16",
+        "RATING": 19,
+        "COMMENTS": "17",
         "TAGS": [
             "2020夏季競賽",
             "2020攀爬金字塔",
@@ -882,7 +882,7 @@
     {
         "TITLE": "海神悲鳴時",
         "FULLNAME": "wadatsumi-no-naku-koroni",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "3",
         "TAGS": [
             "1998年",
@@ -896,7 +896,7 @@
     {
         "TITLE": "矢尖",
         "FULLNAME": "arrowhead",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "aiad",
@@ -978,7 +978,7 @@
     {
         "TITLE": "蓬萊島新創民主形式：「創制」首長將於今日解凍",
         "FULLNAME": "r-sinano-chuo-zhtr-2018-11-19-a222a",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "2",
         "TAGS": [
             "1998年",
@@ -1120,6 +1120,77 @@
             "原創",
             "故事",
             "航海學"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-971 - 感恩seafood讚嘆seafood",
+        "FULLNAME": "scp-zh-971",
+        "RATING": 10,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "safe",
+            "scp",
+            "site-zh-13",
+            "原創",
+            "基金會製造",
+            "食物"
+        ]
+    },
+    {
+        "TITLE": "Reverberate_a的提案",
+        "FULLNAME": "reverberate-a-s-proposal-1",
+        "RATING": 23,
+        "COMMENTS": "2",
+        "TAGS": [
+            "001提案",
+            "2022紅藍爭霸賽",
+            "reverberate博士",
+            "人形",
+            "原創",
+            "地點",
+            "心靈影響",
+            "觀察影響"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-646 - 午夜自畫",
+        "FULLNAME": "scp-zh-646",
+        "RATING": 15,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "euclid",
+            "scp",
+            "人造物品",
+            "傳染性",
+            "光照影響",
+            "原創",
+            "展出",
+            "強迫性",
+            "火",
+            "熱量影響",
+            "認知危害"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-911 - 你所捍衛的自由",
+        "FULLNAME": "scp-zh-911",
+        "RATING": 21,
+        "COMMENTS": "0",
+        "TAGS": [
+            "euclid",
+            "meta",
+            "scp",
+            "site-zh-50",
+            "原創",
+            "感知力",
+            "智能",
+            "本質促動",
+            "武器",
+            "異常移動",
+            "認知危害",
+            "資訊危害"
         ]
     }
 ]

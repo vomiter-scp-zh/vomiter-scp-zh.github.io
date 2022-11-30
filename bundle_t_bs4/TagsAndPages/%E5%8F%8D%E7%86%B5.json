@@ -505,7 +505,7 @@
     {
         "TITLE": "SCP-458 - 無限披薩盒",
         "FULLNAME": "scp-458",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -557,7 +557,7 @@
     {
         "TITLE": "SCP-024 - 亡命實境秀",
         "FULLNAME": "scp-024",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -769,7 +769,7 @@
     {
         "TITLE": "SCP-666½-J",
         "FULLNAME": "scp-666-and-a-half-j",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "1",
         "TAGS": [
             "bright博士",
@@ -935,7 +935,7 @@
     {
         "TITLE": "SCP-4852 - Site-19南遷渡冬去！",
         "FULLNAME": "scp-4852",
-        "RATING": 9,
+        "RATING": 11,
         "COMMENTS": "1",
         "TAGS": [
             "aktus主任",
@@ -998,7 +998,7 @@
     {
         "TITLE": "SCP-3396 - 至高天境寄生體",
         "FULLNAME": "scp-3396",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -1042,7 +1042,7 @@
     {
         "TITLE": "SCP-3731 - 常態將受到保護",
         "FULLNAME": "scp-3731",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1092,7 +1092,7 @@
     {
         "TITLE": "SCP-2023 - 艾多努斯的賠禮",
         "FULLNAME": "scp-2023",
-        "RATING": 2,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1199,7 +1199,7 @@
     {
         "TITLE": "SCP-999-JP - 我就是第九號的人物",
         "FULLNAME": "scp-999-jp",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "1",
         "TAGS": [
             "jp",
@@ -1573,7 +1573,7 @@
     {
         "TITLE": "SCP-7008 - 一朵塑膠玫瑰",
         "FULLNAME": "scp-7008",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1583,6 +1583,67 @@
             "反熵",
             "機密分級",
             "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-488 - 吸引流星的人",
+        "FULLNAME": "scp-488",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "人形",
+            "反熵",
+            "地點",
+            "星際",
+            "智能",
+            "活物",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "𝒫",
+        "FULLNAME": "scp-5558",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "meta",
+            "scp",
+            "人形",
+            "傳送",
+            "反熵",
+            "性",
+            "智能",
+            "活物",
+            "無定形",
+            "翻譯",
+            "語言",
+            "誤傳部",
+            "音頻"
+        ]
+    },
+    {
+        "TITLE": "SCP-1160 - 有效收容",
+        "FULLNAME": "scp-1160",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "不可摧毀",
+            "反熵",
+            "敵意",
+            "昆蟲",
+            "空中",
+            "翻譯",
+            "視覺性",
+            "觀察影響",
+            "鳥類"
         ]
     }
 ]

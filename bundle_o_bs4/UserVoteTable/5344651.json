@@ -2,8 +2,8 @@
     {
         "TITLE": "一般與異常探勘講座",
         "FULLNAME": "how-to-survive-in-the-wild",
-        "RATING": 18,
-        "COMMENTS": "2",
+        "RATING": 19,
+        "COMMENTS": "3",
         "TAGS": [
             "reverberate博士",
             "原創",
@@ -27,7 +27,7 @@
     {
         "TITLE": "爆旋壽司 青龍舞兮 朱雀飛翔",
         "FULLNAME": "sushi-dragon-phoenix",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "0",
         "TAGS": [
             "uiu",
@@ -45,10 +45,48 @@
         "TITLE": "D-10201",
         "FULLNAME": "d-10201",
         "RATING": 16,
-        "COMMENTS": "1",
+        "COMMENTS": "2",
         "TAGS": [
             "2022夏季競賽",
             "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-962 - 似是而非",
+        "FULLNAME": "scp-zh-962",
+        "RATING": 19,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022萬聖事件",
+            "ain博士",
+            "k級情景",
+            "maddy",
+            "scp",
+            "site-zh-01",
+            "site-zh-44",
+            "surge博士",
+            "thaumiel",
+            "三垣",
+            "傳送",
+            "原創",
+            "合著",
+            "地點",
+            "時空",
+            "渾沌反叛軍",
+            "結構物",
+            "超維度"
+        ]
+    },
+    {
+        "TITLE": "啼血鳥",
+        "FULLNAME": "flock-of-bloods",
+        "RATING": 13,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022萬聖事件",
+            "原創",
+            "合著",
             "故事"
         ]
     }

@@ -3,7 +3,7 @@
         "TAGNAME": "建築物"
     },
     {
-        "TITLE": "SCP-ZH-255",
+        "TITLE": "SCP-ZH-255 - 賓尼費的最後庇護所",
         "FULLNAME": "scp-zh-255",
         "RATING": 22,
         "COMMENTS": "5",
@@ -26,9 +26,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-120",
+        "TITLE": "SCP-ZH-120 - 虛構的我們",
         "FULLNAME": "scp-zh-120",
-        "RATING": 39,
+        "RATING": 40,
         "COMMENTS": "4",
         "TAGS": [
             "2019回憶競賽",
@@ -44,7 +44,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-167",
+        "TITLE": "SCP-ZH-167 - 痛徹心扉選三門",
         "FULLNAME": "scp-zh-167",
         "RATING": 12,
         "COMMENTS": "0",
@@ -60,7 +60,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-480",
+        "TITLE": "SCP-ZH-480 - 向下找",
         "FULLNAME": "scp-zh-480",
         "RATING": 10,
         "COMMENTS": "1",
@@ -92,7 +92,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-170",
+        "TITLE": "SCP-ZH-170 - 沉默的螺旋梯",
         "FULLNAME": "scp-zh-170",
         "RATING": 5,
         "COMMENTS": "1",
@@ -109,7 +109,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-046",
+        "TITLE": "SCP-ZH-046 - 巡山靈",
         "FULLNAME": "scp-zh-046",
         "RATING": 18,
         "COMMENTS": "2",
@@ -144,7 +144,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-500",
+        "TITLE": "SCP-ZH-500 - 護城界門",
         "FULLNAME": "scp-zh-500",
         "RATING": 8,
         "COMMENTS": "0",
@@ -176,7 +176,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-440",
+        "TITLE": "SCP-ZH-440 - Site-ZH-04",
         "FULLNAME": "scp-zh-440",
         "RATING": 12,
         "COMMENTS": "6",
@@ -207,7 +207,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-220",
+        "TITLE": "SCP-ZH-220 - H.K.永遠的家",
         "FULLNAME": "scp-zh-220",
         "RATING": 20,
         "COMMENTS": "0",
@@ -242,7 +242,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-052",
+        "TITLE": "SCP-ZH-052 - 忘了我吧，但我不會忘記你們的",
         "FULLNAME": "scp-zh-052",
         "RATING": 18,
         "COMMENTS": "0",
@@ -257,7 +257,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-832",
+        "TITLE": "SCP-ZH-832 - 回溫",
         "FULLNAME": "scp-zh-832",
         "RATING": 10,
         "COMMENTS": "3",
@@ -337,7 +337,7 @@
     {
         "TITLE": "SCP-ZH-277－築路中原",
         "FULLNAME": "scp-zh-277",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "euclid",
@@ -360,6 +360,7 @@
             "zh999",
             "原創",
             "建築物",
+            "循環",
             "時間影響",
             "聲音",
             "逆模因",
@@ -370,7 +371,7 @@
     {
         "TITLE": "SCP-ZH-540 - Alone In The Dark",
         "FULLNAME": "scp-zh-540",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "2",
         "TAGS": [
             "scp",
@@ -396,7 +397,7 @@
     {
         "TITLE": "SCP-ZH-432 - 更好的你",
         "FULLNAME": "scp-zh-432",
-        "RATING": 19,
+        "RATING": 20,
         "COMMENTS": "2",
         "TAGS": [
             "euclid",
@@ -431,7 +432,7 @@
     {
         "TITLE": "SCP-ZH-441 - 只能以這種方式錯誤地惦記被碾壓而亡的屍體",
         "FULLNAME": "scp-zh-441",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "1",
         "TAGS": [
             "2022夏季競賽",
@@ -445,6 +446,7 @@
             "建築物",
             "概念",
             "機密分級",
+            "真紀博士",
             "資訊危害",
             "超形上學部",
             "逆模因"

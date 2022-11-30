@@ -3,9 +3,9 @@
         "TAGNAME": "石頭"
     },
     {
-        "TITLE": "SCP-ZH-044",
+        "TITLE": "SCP-ZH-044 - 石瀑狻猊",
         "FULLNAME": "scp-zh-044",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "3",
         "TAGS": [
             "bales博士",
@@ -20,7 +20,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-022",
+        "TITLE": "SCP-ZH-022 - 半隻石獅子",
         "FULLNAME": "scp-zh-022",
         "RATING": 6,
         "COMMENTS": "7",
@@ -61,7 +61,7 @@
     {
         "TITLE": "SCP-ZH-073 - 巡迴演出最終站",
         "FULLNAME": "scp-zh-073",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "1",
         "TAGS": [
             "scp",

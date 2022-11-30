@@ -2,7 +2,7 @@
     {
         "TITLE": "SCP-ZH-587-J",
         "FULLNAME": "scp-zh-587-j",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "1",
         "TAGS": [
             "keter",
@@ -15,7 +15,7 @@
     {
         "TITLE": "SCP-ZH-105 - 不孝子",
         "FULLNAME": "scp-zh-105",
-        "RATING": 65,
+        "RATING": 66,
         "COMMENTS": "5",
         "TAGS": [
             "euclid",
@@ -32,9 +32,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-050",
+        "TITLE": "SCP-ZH-050 - 掙扎刀片",
         "FULLNAME": "scp-zh-050",
-        "RATING": 15,
+        "RATING": 16,
         "COMMENTS": "0",
         "TAGS": [
             "safe",

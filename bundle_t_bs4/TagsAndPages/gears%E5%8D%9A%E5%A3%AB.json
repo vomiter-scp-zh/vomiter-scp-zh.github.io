@@ -295,7 +295,7 @@
     {
         "TITLE": "SCP-666½-J",
         "FULLNAME": "scp-666-and-a-half-j",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "1",
         "TAGS": [
             "bright博士",
@@ -451,9 +451,9 @@
             "en-6000",
             "gears博士",
             "scp",
+            "待分級",
             "植物",
             "樹木",
-            "機密分級",
             "熵",
             "知識",
             "翻譯",
@@ -465,7 +465,7 @@
     {
         "TITLE": "與惡魔的交易",
         "FULLNAME": "deals-with-the-devil",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -531,7 +531,7 @@
     {
         "TITLE": "全新把戲（或：青年文化殺了我的狗",
         "FULLNAME": "new-tricks",
-        "RATING": 2,
+        "RATING": 3,
         "COMMENTS": "0",
         "TAGS": [
             "bowe上將",
@@ -543,6 +543,147 @@
             "mann博士",
             "合著",
             "復生",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "於其影中：第二章",
+        "FULLNAME": "in-his-own-image-part-2",
+        "RATING": 3,
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "gears博士",
+            "glass博士",
+            "lament特工",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "於其影中：第三章",
+        "FULLNAME": "in-his-own-image-part-3",
+        "RATING": 1,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "gears博士",
+            "iceberg博士",
+            "lament特工",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "於其影中：插曲 3",
+        "FULLNAME": "in-his-own-image-interlude-3",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "gears博士",
+            "glass博士",
+            "iceberg博士",
+            "lament特工",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "於其影中：第四章",
+        "FULLNAME": "in-his-own-image-part-4",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "gears博士",
+            "iceberg博士",
+            "lament特工",
+            "vang博士",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "於其影中：第五章",
+        "FULLNAME": "in-his-own-image-part-5",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "gears博士",
+            "lament特工",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "於其影中：插曲 5",
+        "FULLNAME": "in-his-own-image-interlude-5",
+        "RATING": 1,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "gears博士",
+            "lament特工",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "於其影中：第六章",
+        "FULLNAME": "in-his-own-image-part-6",
+        "RATING": 1,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "gears博士",
+            "glass博士",
+            "lament特工",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "於其影中：插曲 6",
+        "FULLNAME": "in-his-own-image-interlude-6",
+        "RATING": 1,
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "gears博士",
+            "lament特工",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "於其影中：第七章",
+        "FULLNAME": "in-his-own-image-part-7",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "gears博士",
+            "lament特工",
+            "light博士",
+            "strelnikov特工",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "於其影中：尾聲",
+        "FULLNAME": "in-his-own-image-epilogue",
+        "RATING": 1,
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "gears博士",
+            "iceberg博士",
+            "lament特工",
+            "light博士",
             "故事",
             "翻譯"
         ]

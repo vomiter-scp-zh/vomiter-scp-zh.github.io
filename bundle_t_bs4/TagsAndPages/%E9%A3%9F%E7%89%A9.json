@@ -154,7 +154,7 @@
     {
         "TITLE": "SCP-458 - 無限披薩盒",
         "FULLNAME": "scp-458",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -240,7 +240,7 @@
     {
         "TITLE": "SCP-666½-J",
         "FULLNAME": "scp-666-and-a-half-j",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "1",
         "TAGS": [
             "bright博士",
@@ -541,8 +541,8 @@
         "COMMENTS": "0",
         "TAGS": [
             "en",
+            "safe",
             "scp",
-            "安全",
             "移動性",
             "翻譯",
             "變形",
@@ -568,7 +568,7 @@
     {
         "TITLE": "SCP-6161 - 糕點刀",
         "FULLNAME": "scp-6161",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -579,6 +579,20 @@
             "翻譯",
             "變形",
             "金屬",
+            "食物"
+        ]
+    },
+    {
+        "TITLE": "SCP-2026-JP - 聖家堂（基因改造）",
+        "FULLNAME": "scp-2026-jp",
+        "RATING": 4,
+        "COMMENTS": "1",
+        "TAGS": [
+            "euclid",
+            "jp",
+            "scp",
+            "建築物",
+            "翻譯",
             "食物"
         ]
     }

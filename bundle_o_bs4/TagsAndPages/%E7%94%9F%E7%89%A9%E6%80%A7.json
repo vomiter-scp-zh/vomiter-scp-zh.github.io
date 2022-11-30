@@ -3,9 +3,9 @@
         "TAGNAME": "生物性"
     },
     {
-        "TITLE": "SCP-ZH-003",
+        "TITLE": "SCP-ZH-003 - 極端式信仰",
         "FULLNAME": "scp-zh-003",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "4",
         "TAGS": [
             "euclid",
@@ -16,7 +16,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-372",
+        "TITLE": "SCP-ZH-372 - 黑體群",
         "FULLNAME": "scp-zh-372",
         "RATING": 15,
         "COMMENTS": "9",
@@ -29,7 +29,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-724",
+        "TITLE": "SCP-ZH-724 - 荷瓦伊的溫室球",
         "FULLNAME": "scp-zh-724",
         "RATING": 5,
         "COMMENTS": "3",
@@ -43,7 +43,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-064",
+        "TITLE": "SCP-ZH-064 - 人面藤",
         "FULLNAME": "scp-zh-064",
         "RATING": 5,
         "COMMENTS": "0",
@@ -55,7 +55,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-582",
+        "TITLE": "SCP-ZH-582 - 世上最討人喜愛的不明生物",
         "FULLNAME": "scp-zh-582",
         "RATING": 15,
         "COMMENTS": "0",
@@ -69,7 +69,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-687",
+        "TITLE": "SCP-ZH-687 - 獨眼發條貓",
         "FULLNAME": "scp-zh-687",
         "RATING": 3,
         "COMMENTS": "0",
@@ -83,7 +83,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-618",
+        "TITLE": "SCP-ZH-618 - 太陽餅獅",
         "FULLNAME": "scp-zh-618",
         "RATING": 41,
         "COMMENTS": "0",
@@ -98,7 +98,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-118",
+        "TITLE": "SCP-ZH-118 - 荒謬的和平鴿",
         "FULLNAME": "scp-zh-118",
         "RATING": 6,
         "COMMENTS": "3",
@@ -139,7 +139,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-006",
+        "TITLE": "SCP-ZH-006 - 真正意義上的爆米花",
         "FULLNAME": "scp-zh-006",
         "RATING": 11,
         "COMMENTS": "6",
@@ -229,7 +229,7 @@
     {
         "TITLE": "SCP-ZH-002 - 台灣獨角獸",
         "FULLNAME": "scp-zh-002",
-        "RATING": 36,
+        "RATING": 37,
         "COMMENTS": "13",
         "TAGS": [
             "keter",
@@ -243,7 +243,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-400",
+        "TITLE": "SCP-ZH-400 - 月神蘚",
         "FULLNAME": "scp-zh-400",
         "RATING": 14,
         "COMMENTS": "1",
@@ -262,7 +262,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-019",
+        "TITLE": "SCP-ZH-019 - 活態手機",
         "FULLNAME": "scp-zh-019",
         "RATING": 11,
         "COMMENTS": "2",
@@ -280,7 +280,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-016",
+        "TITLE": "SCP-ZH-016 - 生態罐頭",
         "FULLNAME": "scp-zh-016",
         "RATING": 7,
         "COMMENTS": "2",
@@ -315,7 +315,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-224",
+        "TITLE": "SCP-ZH-224 - 一盒雞蛋",
         "FULLNAME": "scp-zh-224",
         "RATING": 8,
         "COMMENTS": "3",
@@ -330,7 +330,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-172",
+        "TITLE": "SCP-ZH-172 - 血紙",
         "FULLNAME": "scp-zh-172",
         "RATING": 6,
         "COMMENTS": "9",
@@ -404,7 +404,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-946",
+        "TITLE": "SCP-ZH-946 - 黑兔大戰爭🐇",
         "FULLNAME": "scp-zh-946",
         "RATING": 27,
         "COMMENTS": "13",
@@ -450,7 +450,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-509",
+        "TITLE": "SCP-ZH-509 - 噬人肉團咽苦吐肉",
         "FULLNAME": "scp-zh-509",
         "RATING": 8,
         "COMMENTS": "1",
@@ -518,7 +518,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-197",
+        "TITLE": "SCP-ZH-197 - 樂群湖水怪",
         "FULLNAME": "scp-zh-197",
         "RATING": 9,
         "COMMENTS": "3",
@@ -572,7 +572,7 @@
     {
         "TITLE": "SCP-ZH-922 - 馬蘭姑娘",
         "FULLNAME": "scp-zh-922",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "1",
         "TAGS": [
             "euclid",
@@ -593,7 +593,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-409",
+        "TITLE": "SCP-ZH-409 - 鐵衣藻",
         "FULLNAME": "scp-zh-409",
         "RATING": 12,
         "COMMENTS": "6",
@@ -737,7 +737,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-236",
+        "TITLE": "SCP-ZH-236 - 終年病",
         "FULLNAME": "scp-zh-236",
         "RATING": 11,
         "COMMENTS": "3",
@@ -758,7 +758,7 @@
     {
         "TITLE": "SCP-ZH-2588-J",
         "FULLNAME": "scp-zh-2588-j",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "2020虹光之間",
@@ -774,6 +774,29 @@
             "認知危害",
             "逆模因",
             "食物"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-993 - 無知則自由",
+        "FULLNAME": "scp-zh-993",
+        "RATING": 25,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "meta",
+            "scp",
+            "人形",
+            "原創",
+            "基金會製造",
+            "容器",
+            "復活",
+            "感知力",
+            "放射性",
+            "無效化",
+            "生物性",
+            "知識",
+            "記錄",
+            "轉世計劃"
         ]
     }
 ]

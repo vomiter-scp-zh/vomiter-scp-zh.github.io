@@ -200,7 +200,7 @@
         "TITLE": "SCP-682 - 不滅孽蜥",
         "FULLNAME": "scp-682",
         "RATING": 24,
-        "COMMENTS": "1",
+        "COMMENTS": "2",
         "TAGS": [
             "en",
             "keter",
@@ -346,7 +346,7 @@
     {
         "TITLE": "SCP-2317 - 前往彼界之門",
         "FULLNAME": "scp-2317",
-        "RATING": 11,
+        "RATING": 14,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -766,7 +766,7 @@
     {
         "TITLE": "文件001-O5",
         "FULLNAME": "document-001-o5",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "1",
         "TAGS": [
             "aaron-siegel",
@@ -1051,7 +1051,7 @@
     {
         "TITLE": "SCP-011-J",
         "FULLNAME": "scp-011-j",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1160,7 +1160,7 @@
         ]
     },
     {
-        "TITLE": "［基於協議4000-Eshu而被限制］",
+        "TITLE": "［基於協議4000-Eshu而受限制］",
         "FULLNAME": "taboo",
         "RATING": 11,
         "COMMENTS": "4",
@@ -1223,7 +1223,7 @@
     {
         "TITLE": "SC嗚喔喔啊啊啊啊啊啊啊啊-JP-J",
         "FULLNAME": "scpaaaaaaaaaaaaaaaaaa-jp-j",
-        "RATING": 25,
+        "RATING": 26,
         "COMMENTS": "1",
         "TAGS": [
             "jp",
@@ -1336,7 +1336,7 @@
     {
         "TITLE": "未曾建立 - 中心頁",
         "FULLNAME": "unfounded-hub",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -1409,7 +1409,7 @@
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
         "FULLNAME": "scp-6820",
-        "RATING": 13,
+        "RATING": 14,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -1472,7 +1472,7 @@
     {
         "TITLE": "SCP-7200 - 船。",
         "FULLNAME": "scp-7200",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1487,7 +1487,7 @@
     {
         "TITLE": "SCP-6938 - Alex Thorley得到一匹禮物馬",
         "FULLNAME": "scp-6938",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1529,6 +1529,18 @@
             "crackfic2022",
             "pl",
             "搞笑",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "倫理委員會D級人員住宿規則",
+        "FULLNAME": "ethics-committee-class-d-housing-regulations",
+        "RATING": 12,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "倫理委員會",
             "故事",
             "翻譯"
         ]

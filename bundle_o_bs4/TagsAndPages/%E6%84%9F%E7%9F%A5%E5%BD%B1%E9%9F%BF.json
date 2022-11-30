@@ -3,7 +3,7 @@
         "TAGNAME": "感知影響"
     },
     {
-        "TITLE": "SCP-ZH-045",
+        "TITLE": "SCP-ZH-045 - 萬能胡椒",
         "FULLNAME": "scp-zh-045",
         "RATING": 19,
         "COMMENTS": "0",
@@ -21,7 +21,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-055",
+        "TITLE": "SCP-ZH-055 - 做你自己的主廚，隨時隨地開動吧！",
         "FULLNAME": "scp-zh-055",
         "RATING": 18,
         "COMMENTS": "3",
@@ -138,7 +138,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-032",
+        "TITLE": "SCP-ZH-032 - 有毒的橡皮擦",
         "FULLNAME": "scp-zh-032",
         "RATING": 21,
         "COMMENTS": "0",
@@ -162,7 +162,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-339",
+        "TITLE": "SCP-ZH-339 - 避風港",
         "FULLNAME": "scp-zh-339",
         "RATING": 16,
         "COMMENTS": "6",
@@ -183,7 +183,7 @@
     {
         "TITLE": "SCP-ZH-905 - 愛的相反不是恨",
         "FULLNAME": "scp-zh-905",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "euclid",

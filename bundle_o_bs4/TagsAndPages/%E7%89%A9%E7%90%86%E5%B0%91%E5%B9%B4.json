@@ -43,7 +43,7 @@
     {
         "TITLE": "寐側擴張",
         "FULLNAME": "extension-of-dream",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "2",
         "TAGS": [
             "2022夏季競賽",
@@ -60,7 +60,8 @@
         "TAGS": [
             "原創",
             "故事",
-            "物理少年"
+            "物理少年",
+            "真紀博士"
         ]
     },
     {
@@ -84,6 +85,83 @@
             "原創",
             "物理少年",
             "藝術作品"
+        ]
+    },
+    {
+        "TITLE": "夢境重唱",
+        "FULLNAME": "dream-duet",
+        "RATING": 10,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "原創",
+            "故事",
+            "物理少年"
+        ]
+    },
+    {
+        "TITLE": "虛像綻放",
+        "FULLNAME": "phantom-flowering",
+        "RATING": 9,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "原創",
+            "故事",
+            "物理少年"
+        ]
+    },
+    {
+        "TITLE": "執左道者的自我政變",
+        "FULLNAME": "self-coup-of-the-knavish",
+        "RATING": 17,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "metha博士",
+            "原創",
+            "地下街",
+            "成人內容",
+            "故事",
+            "物理少年",
+            "研究員knave",
+            "航海學",
+            "轉世計劃"
+        ]
+    },
+    {
+        "TITLE": "幻想抽離",
+        "FULLNAME": "get-out-of-the-dream",
+        "RATING": 3,
+        "COMMENTS": "3",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "原創",
+            "故事",
+            "物理少年"
+        ]
+    },
+    {
+        "TITLE": "絕無二心",
+        "FULLNAME": "forever-heartfelt",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "1998年",
+            "2022萬聖事件",
+            "原創",
+            "大正150年",
+            "故事",
+            "核裂擠兌",
+            "欲肉教",
+            "死亡終了",
+            "物理少年",
+            "破曉",
+            "破碎之神教會",
+            "神化",
+            "繁廣",
+            "航海學",
+            "雙城作戰"
         ]
     }
 ]

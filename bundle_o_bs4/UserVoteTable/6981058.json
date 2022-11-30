@@ -2,7 +2,7 @@
     {
         "TITLE": "SCP-ZH-60053-J - HONK",
         "FULLNAME": "scp-zh-60053-j",
-        "RATING": 43,
+        "RATING": 45,
         "COMMENTS": "7",
         "TAGS": [
             "scp",
@@ -32,7 +32,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-129",
+        "TITLE": "SCP-ZH-129 - 你在哪裡？",
         "FULLNAME": "scp-zh-129",
         "RATING": 11,
         "COMMENTS": "6",
@@ -113,7 +113,7 @@
         "TITLE": "SCP-ZH-750 - 神說：「要有油。」就有了油。",
         "FULLNAME": "scp-zh-750",
         "RATING": 30,
-        "COMMENTS": "4",
+        "COMMENTS": "5",
         "TAGS": [
             "2022夏季競賽",
             "euclid",
@@ -137,6 +137,19 @@
             "creepypasta",
             "原創",
             "故事"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-767 - 黑旗接駁車",
+        "FULLNAME": "scp-zh-767",
+        "RATING": 15,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "scp",
+            "site-zh-16",
+            "原創",
+            "機密分級"
         ]
     }
 ]

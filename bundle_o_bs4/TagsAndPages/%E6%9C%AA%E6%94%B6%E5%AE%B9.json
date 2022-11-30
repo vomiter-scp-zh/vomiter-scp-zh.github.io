@@ -3,7 +3,7 @@
         "TAGNAME": "未收容"
     },
     {
-        "TITLE": "SCP-ZH-888",
+        "TITLE": "SCP-ZH-888 - 霾",
         "FULLNAME": "scp-zh-888",
         "RATING": 19,
         "COMMENTS": "1",
@@ -50,7 +50,7 @@
     {
         "TITLE": "SCP-ZH-998 - 現象學",
         "FULLNAME": "scp-zh-998",
-        "RATING": 37,
+        "RATING": 38,
         "COMMENTS": "7",
         "TAGS": [
             "k級情景",
@@ -80,7 +80,7 @@
     {
         "TITLE": "SCP-ZH-002 - 台灣獨角獸",
         "FULLNAME": "scp-zh-002",
-        "RATING": 36,
+        "RATING": 37,
         "COMMENTS": "13",
         "TAGS": [
             "keter",
@@ -94,9 +94,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-044",
+        "TITLE": "SCP-ZH-044 - 石瀑狻猊",
         "FULLNAME": "scp-zh-044",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "3",
         "TAGS": [
             "bales博士",
@@ -111,7 +111,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-236",
+        "TITLE": "SCP-ZH-236 - 終年病",
         "FULLNAME": "scp-zh-236",
         "RATING": 11,
         "COMMENTS": "3",
@@ -130,7 +130,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-324",
+        "TITLE": "SCP-ZH-324 - 幽冥鬼將",
         "FULLNAME": "scp-zh-324",
         "RATING": 5,
         "COMMENTS": "0",
@@ -168,9 +168,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-113",
+        "TITLE": "SCP-ZH-113 - 抹殺事情的真相",
         "FULLNAME": "scp-zh-113",
-        "RATING": 28,
+        "RATING": 30,
         "COMMENTS": "2",
         "TAGS": [
             "2020夏季競賽",
@@ -186,7 +186,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-015",
+        "TITLE": "SCP-ZH-015 - 七人八笑",
         "FULLNAME": "scp-zh-015",
         "RATING": 23,
         "COMMENTS": "0",
@@ -204,7 +204,7 @@
     {
         "TITLE": "SCP-ZH-496 - 安全極限距離",
         "FULLNAME": "scp-zh-496",
-        "RATING": 29,
+        "RATING": 30,
         "COMMENTS": "7",
         "TAGS": [
             "scp",
@@ -340,7 +340,7 @@
     {
         "TITLE": "SCP-ZH-298 - 天空鯨",
         "FULLNAME": "scp-zh-298",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "keter",
@@ -461,6 +461,22 @@
             "誤傳部",
             "資訊危害",
             "都異部門"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-244 - 我回來了",
+        "FULLNAME": "scp-zh-244",
+        "RATING": 16,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022萬聖事件",
+            "euclid",
+            "scp",
+            "人形",
+            "原創",
+            "敵意",
+            "未收容",
+            "無定形"
         ]
     }
 ]

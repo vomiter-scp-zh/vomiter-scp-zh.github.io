@@ -65,7 +65,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-133",
+        "TITLE": "SCP-ZH-133 - 不會用脫水來騙人的好藥是的",
         "FULLNAME": "scp-zh-133",
         "RATING": 21,
         "COMMENTS": "7",
@@ -105,7 +105,7 @@
     {
         "TITLE": "SCP-ZH-717 - 課堂中請勿伸出附肢",
         "FULLNAME": "scp-zh-717",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "0",
         "TAGS": [
             "2020夏季競賽",
@@ -149,7 +149,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-206",
+        "TITLE": "SCP-ZH-206 - 施展快快好的魔法了呦",
         "FULLNAME": "scp-zh-206",
         "RATING": 3,
         "COMMENTS": "2",
@@ -234,6 +234,21 @@
             "液體",
             "生殖性",
             "生物性",
+            "醫學性"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-989 - 我們腦中的太陽",
+        "FULLNAME": "scp-zh-989",
+        "RATING": 20,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "archon",
+            "scp",
+            "傳染性",
+            "原創",
+            "基因",
             "醫學性"
         ]
     }

@@ -717,7 +717,7 @@
     {
         "TITLE": "SCP-1245 - 捕鯨船",
         "FULLNAME": "scp-1245",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -775,7 +775,7 @@
     {
         "TITLE": "SCP-1451 - 沉沒之子的防禦圈",
         "FULLNAME": "scp-1451",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -914,7 +914,7 @@
     {
         "TITLE": "SCP-6939 - 我婆要我命- ★☆☆☆☆",
         "FULLNAME": "scp-6939",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1248,7 +1248,7 @@
     {
         "TITLE": "SCP-387 - 活體樂高",
         "FULLNAME": "scp-387",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -1324,7 +1324,7 @@
     {
         "TITLE": "SCP-7200 - 船。",
         "FULLNAME": "scp-7200",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1339,7 +1339,7 @@
     {
         "TITLE": "SCP-7103 - 雕塑",
         "FULLNAME": "scp-7103",
-        "RATING": 4,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1354,6 +1354,80 @@
             "通訊",
             "銘文",
             "雕像"
+        ]
+    },
+    {
+        "TITLE": "SCP-7260 - 黛西",
+        "FULLNAME": "scp-7260",
+        "RATING": 9,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "感知力",
+            "翻譯",
+            "自主",
+            "衣物"
+        ]
+    },
+    {
+        "TITLE": "SCP-1048 - 拼裝者小熊",
+        "FULLNAME": "scp-1048",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "未收容",
+            "玩具",
+            "精神影響",
+            "翻譯",
+            "自主",
+            "自我複製"
+        ]
+    },
+    {
+        "TITLE": "SCP-4370 - 貓娘亦有情",
+        "FULLNAME": "scp-4370",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "scp",
+            "人形",
+            "媒體",
+            "復活",
+            "智能",
+            "機密分級",
+            "翻譯",
+            "自主",
+            "藝術性",
+            "貓類",
+            "電腦"
+        ]
+    },
+    {
+        "TITLE": "SCP-5371-雕像--鼻祖",
+        "FULLNAME": "scp-5371",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "人形",
+            "共感",
+            "反常部",
+            "塑像173",
+            "屍體",
+            "翻譯",
+            "自主",
+            "觀察影響",
+            "銘文",
+            "雕塑",
+            "骨骼"
         ]
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "TITLE": "SCP-ZH-252",
+        "TITLE": "SCP-ZH-252 - 為什麼你不圖片谷歌一下？",
         "FULLNAME": "scp-zh-252",
         "RATING": 15,
         "COMMENTS": "0",
@@ -87,7 +87,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-045",
+        "TITLE": "SCP-ZH-045 - 萬能胡椒",
         "FULLNAME": "scp-zh-045",
         "RATING": 19,
         "COMMENTS": "0",
@@ -124,7 +124,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-815",
+        "TITLE": "SCP-ZH-815 - 一家烤肉萬家香",
         "FULLNAME": "scp-zh-815",
         "RATING": 35,
         "COMMENTS": "8",
@@ -155,7 +155,7 @@
     {
         "TITLE": "三生有幸",
         "FULLNAME": "third-life",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "0",
         "TAGS": [
             "reverberate博士",
@@ -233,9 +233,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-120",
+        "TITLE": "SCP-ZH-120 - 虛構的我們",
         "FULLNAME": "scp-zh-120",
-        "RATING": 39,
+        "RATING": 40,
         "COMMENTS": "4",
         "TAGS": [
             "2019回憶競賽",
@@ -306,7 +306,7 @@
     {
         "TITLE": "沙皇先知協會中心頁",
         "FULLNAME": "tsars-hub",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "0",
         "TAGS": [
             "中心",
@@ -316,7 +316,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-300",
+        "TITLE": "SCP-ZH-300 - 聖誕節交換「廢」物",
         "FULLNAME": "scp-zh-300",
         "RATING": 15,
         "COMMENTS": "2",
@@ -352,7 +352,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-626",
+        "TITLE": "SCP-ZH-626 - 視野外",
         "FULLNAME": "scp-zh-626",
         "RATING": 23,
         "COMMENTS": "0",
@@ -413,7 +413,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-216",
+        "TITLE": "SCP-ZH-216 - 抵抗遺忘",
         "FULLNAME": "scp-zh-216",
         "RATING": 16,
         "COMMENTS": "2",
@@ -464,7 +464,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-097",
+        "TITLE": "SCP-ZH-097 - 組織格式",
         "FULLNAME": "scp-zh-097",
         "RATING": 14,
         "COMMENTS": "1",
@@ -550,7 +550,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-202",
+        "TITLE": "SCP-ZH-202 - 思想扭蛋機",
         "FULLNAME": "scp-zh-202",
         "RATING": 12,
         "COMMENTS": "1",
@@ -566,7 +566,7 @@
     {
         "TITLE": "Dr. Bales的日常小品集錦 一",
         "FULLNAME": "bales-s-daily-1",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "bales博士",
@@ -592,7 +592,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-055",
+        "TITLE": "SCP-ZH-055 - 做你自己的主廚，隨時隨地開動吧！",
         "FULLNAME": "scp-zh-055",
         "RATING": 18,
         "COMMENTS": "3",
@@ -700,7 +700,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-150",
+        "TITLE": "SCP-ZH-150 - 悖論甜甜圈",
         "FULLNAME": "scp-zh-150",
         "RATING": 12,
         "COMMENTS": "1",
@@ -749,7 +749,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-012",
+        "TITLE": "SCP-ZH-012 - 十二",
         "FULLNAME": "scp-zh-012",
         "RATING": 19,
         "COMMENTS": "2",
@@ -766,7 +766,7 @@
     {
         "TITLE": "我在萬物之中",
         "FULLNAME": "arkwork-3999",
-        "RATING": 37,
+        "RATING": 38,
         "COMMENTS": "8",
         "TAGS": [
             "原創",
@@ -799,9 +799,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-200",
+        "TITLE": "SCP-ZH-200 - 鬼抓人",
         "FULLNAME": "scp-zh-200",
-        "RATING": 34,
+        "RATING": 35,
         "COMMENTS": "1",
         "TAGS": [
             "keter",
@@ -818,7 +818,7 @@
     {
         "TITLE": "我沒能救到他。",
         "FULLNAME": "arkwork-zh-200",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "0",
         "TAGS": [
             "原創",
@@ -867,7 +867,7 @@
     {
         "TITLE": "SCP-ZH-2588-J",
         "FULLNAME": "scp-zh-2588-j",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "2020虹光之間",
@@ -913,7 +913,7 @@
     {
         "TITLE": "新聞快訊：若我們要達到仁慈的下場，應該遵守哪些事情",
         "FULLNAME": "news-site-zh-81-1",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "5",
         "TAGS": [
             "reverberate博士",
@@ -1030,7 +1030,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-264",
+        "TITLE": "SCP-ZH-264 - 砵甸乍防線",
         "FULLNAME": "scp-zh-264",
         "RATING": 9,
         "COMMENTS": "2",
@@ -1058,7 +1058,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-289",
+        "TITLE": "SCP-ZH-289 - 17^2",
         "FULLNAME": "scp-zh-289",
         "RATING": 15,
         "COMMENTS": "4",
@@ -1072,7 +1072,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-078",
+        "TITLE": "SCP-ZH-078 - 老師說過不可以翹兩腳椅",
         "FULLNAME": "scp-zh-078",
         "RATING": 16,
         "COMMENTS": "1",
@@ -1099,7 +1099,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-175",
+        "TITLE": "SCP-ZH-175 - 贋造的幸福",
         "FULLNAME": "scp-zh-175",
         "RATING": 10,
         "COMMENTS": "2",
@@ -1131,7 +1131,7 @@
     {
         "TITLE": "巧達Clef!",
         "FULLNAME": "arkwork-chowderclef",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "0",
         "TAGS": [
             "原創",
@@ -1202,7 +1202,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-700",
+        "TITLE": "SCP-ZH-700 - 預言後依然難以避免",
         "FULLNAME": "scp-zh-700",
         "RATING": 11,
         "COMMENTS": "5",
@@ -1241,7 +1241,7 @@
     {
         "TITLE": "為何我們不能濫用現實穩定錨？",
         "FULLNAME": "about-scranton-reality-anchors",
-        "RATING": 15,
+        "RATING": 17,
         "COMMENTS": "3",
         "TAGS": [
             "原創",
@@ -1253,7 +1253,7 @@
     {
         "TITLE": "繁中站點地下街",
         "FULLNAME": "shopping-arcade",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "3",
         "TAGS": [
             "三垣",
@@ -1301,7 +1301,7 @@
     {
         "TITLE": "藝術紀錄：校外教學。",
         "FULLNAME": "art-for-2316",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "0",
         "TAGS": [
             "1976年班",

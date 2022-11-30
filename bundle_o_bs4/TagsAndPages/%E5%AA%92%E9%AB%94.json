@@ -5,7 +5,7 @@
     {
         "TITLE": "SCP-ZH-717 - 課堂中請勿伸出附肢",
         "FULLNAME": "scp-zh-717",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "0",
         "TAGS": [
             "2020夏季競賽",
@@ -26,9 +26,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-426",
+        "TITLE": "SCP-ZH-426 - 花園中的蛇是絕不低頭的",
         "FULLNAME": "scp-zh-426",
-        "RATING": 16,
+        "RATING": 15,
         "COMMENTS": "17",
         "TAGS": [
             "safe",
@@ -57,7 +57,7 @@
     {
         "TITLE": "SCP-ZH-2005-EX",
         "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 56,
+        "RATING": 58,
         "COMMENTS": "1",
         "TAGS": [
             "2021冬季競賽",
@@ -72,7 +72,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-162",
+        "TITLE": "SCP-ZH-162 - TEIC演算法",
         "FULLNAME": "scp-zh-162",
         "RATING": 10,
         "COMMENTS": "2",
@@ -86,7 +86,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-635",
+        "TITLE": "SCP-ZH-635 - 你有沒有聽到",
         "FULLNAME": "scp-zh-635",
         "RATING": 7,
         "COMMENTS": "3",
@@ -104,7 +104,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-266",
+        "TITLE": "SCP-ZH-266 - 走向理想之路",
         "FULLNAME": "scp-zh-266",
         "RATING": 12,
         "COMMENTS": "4",
@@ -144,7 +144,7 @@
     {
         "TITLE": "SCP-ZH-403 - 禁臠與終止符",
         "FULLNAME": "scp-zh-403",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "4",
         "TAGS": [
             "2022夏季競賽",
@@ -154,6 +154,8 @@
             "媒體",
             "強迫性",
             "微觀",
+            "真紀博士",
+            "研究員knave",
             "精神影響",
             "線上",
             "認知危害"

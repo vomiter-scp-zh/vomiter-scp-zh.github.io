@@ -21,7 +21,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-700",
+        "TITLE": "SCP-ZH-700 - 預言後依然難以避免",
         "FULLNAME": "scp-zh-700",
         "RATING": 11,
         "COMMENTS": "5",
@@ -39,7 +39,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-163",
+        "TITLE": "SCP-ZH-163 - 廣寒幽閉",
         "FULLNAME": "scp-zh-163",
         "RATING": 13,
         "COMMENTS": "2",
@@ -58,7 +58,7 @@
     {
         "TITLE": "SCP-ZH-057 - 暴躁小行星",
         "FULLNAME": "scp-zh-057",
-        "RATING": 18,
+        "RATING": 19,
         "COMMENTS": "4",
         "TAGS": [
             "scp",

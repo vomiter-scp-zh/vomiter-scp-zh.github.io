@@ -5,7 +5,7 @@
     {
         "TITLE": "SCP-240-JP - 零隻蝗蟲",
         "FULLNAME": "scp-240-jp",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "1",
         "TAGS": [
             "euclid",
@@ -93,7 +93,7 @@
     {
         "TITLE": "SCP-006-J",
         "FULLNAME": "scp-006-j",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -116,7 +116,6 @@
             "jp",
             "k級情景",
             "scp",
-            "儀式",
             "儀式性",
             "全球超自然聯盟",
             "動物",
@@ -277,6 +276,26 @@
             "神經性",
             "翻譯",
             "重寫"
+        ]
+    },
+    {
+        "TITLE": "SCP-1160 - 有效收容",
+        "FULLNAME": "scp-1160",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "不可摧毀",
+            "反熵",
+            "敵意",
+            "昆蟲",
+            "空中",
+            "翻譯",
+            "視覺性",
+            "觀察影響",
+            "鳥類"
         ]
     }
 ]

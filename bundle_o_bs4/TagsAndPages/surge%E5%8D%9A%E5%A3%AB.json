@@ -30,7 +30,7 @@
     {
         "TITLE": "洗標：橘1114-Mad博士的襯衫",
         "FULLNAME": "orange-1114",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "4",
         "TAGS": [
             "ain博士",
@@ -373,7 +373,7 @@
     {
         "TITLE": "Ｓ之死",
         "FULLNAME": "the-death-of-sam-or-semibreve-etc",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "4",
         "TAGS": [
             "semibreve博士",
@@ -386,8 +386,8 @@
     {
         "TITLE": "SCP-ZH-999-J - 工",
         "FULLNAME": "scp-zh-999-j",
-        "RATING": 5,
-        "COMMENTS": "18",
+        "RATING": 6,
+        "COMMENTS": "19",
         "TAGS": [
             "ad博士",
             "hanku博士",
@@ -404,7 +404,7 @@
     {
         "TITLE": "SCP-ZH-922 - 馬蘭姑娘",
         "FULLNAME": "scp-zh-922",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "1",
         "TAGS": [
             "euclid",
@@ -474,6 +474,32 @@
             "surge博士",
             "原創",
             "故事"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-962 - 似是而非",
+        "FULLNAME": "scp-zh-962",
+        "RATING": 19,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022萬聖事件",
+            "ain博士",
+            "k級情景",
+            "maddy",
+            "scp",
+            "site-zh-01",
+            "site-zh-44",
+            "surge博士",
+            "thaumiel",
+            "三垣",
+            "傳送",
+            "原創",
+            "合著",
+            "地點",
+            "時空",
+            "渾沌反叛軍",
+            "結構物",
+            "超維度"
         ]
     }
 ]

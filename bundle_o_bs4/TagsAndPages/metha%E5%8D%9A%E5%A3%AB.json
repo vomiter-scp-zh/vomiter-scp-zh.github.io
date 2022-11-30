@@ -36,7 +36,7 @@
     {
         "TITLE": "SCP-ZH-441 - 只能以這種方式錯誤地惦記被碾壓而亡的屍體",
         "FULLNAME": "scp-zh-441",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "1",
         "TAGS": [
             "2022夏季競賽",
@@ -50,6 +50,7 @@
             "建築物",
             "概念",
             "機密分級",
+            "真紀博士",
             "資訊危害",
             "超形上學部",
             "逆模因"
@@ -102,7 +103,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-007",
+        "TITLE": "SCP-ZH-007 - 幾何鯊魚",
         "FULLNAME": "scp-zh-007",
         "RATING": 15,
         "COMMENTS": "0",
@@ -122,7 +123,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-407",
+        "TITLE": "SCP-ZH-407 - 仿生金屬",
         "FULLNAME": "scp-zh-407",
         "RATING": 3,
         "COMMENTS": "1",
@@ -139,7 +140,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-405",
+        "TITLE": "SCP-ZH-405 - 體驗神曲",
         "FULLNAME": "scp-zh-405",
         "RATING": 5,
         "COMMENTS": "0",
@@ -156,7 +157,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-046",
+        "TITLE": "SCP-ZH-046 - 巡山靈",
         "FULLNAME": "scp-zh-046",
         "RATING": 18,
         "COMMENTS": "2",
@@ -227,6 +228,44 @@
             "本質促動",
             "機密分級",
             "歷史性"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-176 - 《海鷗的大撤退》",
+        "FULLNAME": "scp-zh-176",
+        "RATING": 21,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "keter",
+            "meta",
+            "metha博士",
+            "scp",
+            "全球超自然聯盟",
+            "原創",
+            "基金會製造",
+            "敘述性",
+            "文獻",
+            "研究員knave",
+            "超形上學部"
+        ]
+    },
+    {
+        "TITLE": "執左道者的自我政變",
+        "FULLNAME": "self-coup-of-the-knavish",
+        "RATING": 17,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "metha博士",
+            "原創",
+            "地下街",
+            "成人內容",
+            "故事",
+            "物理少年",
+            "研究員knave",
+            "航海學",
+            "轉世計劃"
         ]
     }
 ]

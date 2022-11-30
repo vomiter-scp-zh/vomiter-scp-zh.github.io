@@ -76,7 +76,7 @@
     {
         "TITLE": "宛如我們是幼稚園老師一樣",
         "FULLNAME": "maria-jones-this-is-your-life",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "bright博士",
@@ -254,7 +254,7 @@
     {
         "TITLE": "與惡魔的交易",
         "FULLNAME": "deals-with-the-devil",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -298,7 +298,7 @@
     {
         "TITLE": "SCP-7070 - 不凋",
         "FULLNAME": "scp-7070",
-        "RATING": 11,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -315,6 +315,86 @@
             "翻譯",
             "變形",
             "電腦"
+        ]
+    },
+    {
+        "TITLE": "於其影中：插曲 2",
+        "FULLNAME": "in-his-own-image-interlude-2",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "lament特工",
+            "light博士",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "於其影中：第七章",
+        "FULLNAME": "in-his-own-image-part-7",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "gears博士",
+            "lament特工",
+            "light博士",
+            "strelnikov特工",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "於其影中：尾聲",
+        "FULLNAME": "in-his-own-image-epilogue",
+        "RATING": 1,
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "gears博士",
+            "iceberg博士",
+            "lament特工",
+            "light博士",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "伸出援手",
+        "FULLNAME": "lending-a-hand",
+        "RATING": 3,
+        "COMMENTS": "1",
+        "TAGS": [
+            "cimmerian博士",
+            "en",
+            "kondraki博士",
+            "light博士",
+            "倫理委員會",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "危險迎面而來",
+        "FULLNAME": "in-harm-s-way",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "bowe上將",
+            "bright博士",
+            "en",
+            "gillespie主任",
+            "iris-thompson",
+            "kain-pathos-crow",
+            "light博士",
+            "moose主任",
+            "roget博士",
+            "復生",
+            "故事",
+            "翻譯",
+            "該隱"
         ]
     }
 ]

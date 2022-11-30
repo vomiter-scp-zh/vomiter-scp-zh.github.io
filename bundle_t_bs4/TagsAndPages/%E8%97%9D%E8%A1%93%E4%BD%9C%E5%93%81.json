@@ -285,7 +285,7 @@
     {
         "TITLE": "東弊舍自動人偶部門廣告",
         "FULLNAME": "tohei-automata",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "jp",
@@ -1773,6 +1773,18 @@
         "COMMENTS": "0",
         "TAGS": [
             "jp",
+            "翻譯",
+            "藝術作品"
+        ]
+    },
+    {
+        "TITLE": "自畫像:)",
+        "FULLNAME": "self-portrait",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "en-萬聖節2022",
             "翻譯",
             "藝術作品"
         ]

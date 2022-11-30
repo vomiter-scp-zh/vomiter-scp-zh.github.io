@@ -5,8 +5,8 @@
     {
         "TITLE": "SCP-ZH-999-J - 工",
         "FULLNAME": "scp-zh-999-j",
-        "RATING": 5,
-        "COMMENTS": "18",
+        "RATING": 6,
+        "COMMENTS": "19",
         "TAGS": [
             "ad博士",
             "hanku博士",
@@ -74,7 +74,7 @@
     {
         "TITLE": "SCP-ZH-441 - 只能以這種方式錯誤地惦記被碾壓而亡的屍體",
         "FULLNAME": "scp-zh-441",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "1",
         "TAGS": [
             "2022夏季競賽",
@@ -88,6 +88,7 @@
             "建築物",
             "概念",
             "機密分級",
+            "真紀博士",
             "資訊危害",
             "超形上學部",
             "逆模因"
@@ -150,7 +151,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-140",
+        "TITLE": "SCP-ZH-140 - 字義相悖",
         "FULLNAME": "scp-zh-140",
         "RATING": 20,
         "COMMENTS": "7",

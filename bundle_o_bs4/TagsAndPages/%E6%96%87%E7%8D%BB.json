@@ -16,7 +16,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-882",
+        "TITLE": "SCP-ZH-882 - 超猛召喚大全",
         "FULLNAME": "scp-zh-882",
         "RATING": 13,
         "COMMENTS": "1",
@@ -28,7 +28,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-661",
+        "TITLE": "SCP-ZH-661 - 江岳妖訪行",
         "FULLNAME": "scp-zh-661",
         "RATING": 10,
         "COMMENTS": "0",
@@ -43,7 +43,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-047",
+        "TITLE": "SCP-ZH-047 - 你的所作所為",
         "FULLNAME": "scp-zh-047",
         "RATING": 12,
         "COMMENTS": "3",
@@ -58,7 +58,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-711",
+        "TITLE": "SCP-ZH-711 - 造句模擬器",
         "FULLNAME": "scp-zh-711",
         "RATING": 9,
         "COMMENTS": "1",
@@ -88,7 +88,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-097",
+        "TITLE": "SCP-ZH-097 - 組織格式",
         "FULLNAME": "scp-zh-097",
         "RATING": 14,
         "COMMENTS": "1",
@@ -105,7 +105,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-055",
+        "TITLE": "SCP-ZH-055 - 做你自己的主廚，隨時隨地開動吧！",
         "FULLNAME": "scp-zh-055",
         "RATING": 18,
         "COMMENTS": "3",
@@ -126,7 +126,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-076",
+        "TITLE": "SCP-ZH-076 - 廿載明昭",
         "FULLNAME": "scp-zh-076",
         "RATING": 4,
         "COMMENTS": "2",
@@ -138,11 +138,11 @@
             "原創",
             "張道士",
             "文獻",
-            "認知影響"
+            "觀察影響"
         ]
     },
     {
-        "TITLE": "SCP-ZH-405",
+        "TITLE": "SCP-ZH-405 - 體驗神曲",
         "FULLNAME": "scp-zh-405",
         "RATING": 5,
         "COMMENTS": "0",
@@ -159,7 +159,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-014",
+        "TITLE": "SCP-ZH-014 - 人魚公主的故事",
         "FULLNAME": "scp-zh-014",
         "RATING": 20,
         "COMMENTS": "4",
@@ -197,7 +197,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-404",
+        "TITLE": "SCP-ZH-404 - 無法逃離",
         "FULLNAME": "scp-zh-404",
         "RATING": 8,
         "COMMENTS": "6",
@@ -211,7 +211,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-066",
+        "TITLE": "SCP-ZH-066 - 有借有還",
         "FULLNAME": "scp-zh-066",
         "RATING": 11,
         "COMMENTS": "5",
@@ -268,7 +268,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-416",
+        "TITLE": "SCP-ZH-416 - 《身為阿宅的我使用動漫梗拯救異世界也是大丈夫だ、問題ない的啦》",
         "FULLNAME": "scp-zh-416",
         "RATING": 10,
         "COMMENTS": "0",
@@ -300,7 +300,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-266",
+        "TITLE": "SCP-ZH-266 - 走向理想之路",
         "FULLNAME": "scp-zh-266",
         "RATING": 12,
         "COMMENTS": "4",
@@ -392,7 +392,7 @@
     {
         "TITLE": "SCP-ZH-180 - 安 妮 :-)",
         "FULLNAME": "scp-zh-180",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "2",
         "TAGS": [
             "scp",
@@ -406,6 +406,26 @@
             "觀察影響",
             "都異部門",
             "雕像"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-176 - 《海鷗的大撤退》",
+        "FULLNAME": "scp-zh-176",
+        "RATING": 21,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "keter",
+            "meta",
+            "metha博士",
+            "scp",
+            "全球超自然聯盟",
+            "原創",
+            "基金會製造",
+            "敘述性",
+            "文獻",
+            "研究員knave",
+            "超形上學部"
         ]
     }
 ]

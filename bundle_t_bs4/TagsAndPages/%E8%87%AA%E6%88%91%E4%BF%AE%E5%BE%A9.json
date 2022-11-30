@@ -23,7 +23,7 @@
         "TITLE": "SCP-682 - 不滅孽蜥",
         "FULLNAME": "scp-682",
         "RATING": 24,
-        "COMMENTS": "1",
+        "COMMENTS": "2",
         "TAGS": [
             "en",
             "keter",
@@ -379,7 +379,7 @@
     {
         "TITLE": "SCP-1245 - 捕鯨船",
         "FULLNAME": "scp-1245",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -455,7 +455,7 @@
     {
         "TITLE": "SCP-4680 - 噢，那些俄國佬…",
         "FULLNAME": "scp-4680",
-        "RATING": 8,
+        "RATING": 10,
         "COMMENTS": "3",
         "TAGS": [
             "en",
@@ -557,7 +557,7 @@
     {
         "TITLE": "SCP-7052 - 菊中匙",
         "FULLNAME": "scp-7052",
-        "RATING": 6,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -567,6 +567,21 @@
             "成人內容",
             "本質促動",
             "機率性",
+            "翻譯",
+            "自我修復"
+        ]
+    },
+    {
+        "TITLE": "SCP-815 - 飛蛇堅果罐",
+        "FULLNAME": "scp-815",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "傳送",
+            "玩具",
             "翻譯",
             "自我修復"
         ]

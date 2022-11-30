@@ -3,7 +3,7 @@
         "TAGNAME": "無名"
     },
     {
-        "TITLE": "［基於協議4000-Eshu而被限制］",
+        "TITLE": "［基於協議4000-Eshu而受限制］",
         "FULLNAME": "taboo",
         "RATING": 11,
         "COMMENTS": "4",
@@ -158,7 +158,7 @@
     {
         "TITLE": "我不識己名",
         "FULLNAME": "i-don-t-know-my-name",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -170,7 +170,7 @@
     {
         "TITLE": "SCP-7440 - 無名碉堡",
         "FULLNAME": "scp-7440",
-        "RATING": 2,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -180,6 +180,20 @@
             "本質促動",
             "無名",
             "結構物",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "妖精雙子女王故事",
+        "FULLNAME": "a-faerie-tale-of-twin-queens",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "homo-sapiens-sidhe",
+            "來自120站的檔案",
+            "故事",
+            "無名",
             "翻譯"
         ]
     }

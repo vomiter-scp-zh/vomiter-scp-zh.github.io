@@ -53,8 +53,8 @@
     {
         "TITLE": "SCP-7999 - 來星星間找我",
         "FULLNAME": "scp-7999",
-        "RATING": 13,
-        "COMMENTS": "1",
+        "RATING": 18,
+        "COMMENTS": "2",
         "TAGS": [
             "asheworth博士",
             "en",
@@ -70,6 +70,24 @@
             "節肢動物",
             "翻譯",
             "門徑"
+        ]
+    },
+    {
+        "TITLE": "SCP-009-JP - 閏秒",
+        "FULLNAME": "scp-009-jp",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "jp",
+            "scp",
+            "傳送",
+            "星球",
+            "星際",
+            "時空",
+            "時間影響",
+            "未收容",
+            "翻譯",
+            "重力影響"
         ]
     }
 ]

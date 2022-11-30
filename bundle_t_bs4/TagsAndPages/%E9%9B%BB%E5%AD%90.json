@@ -12,7 +12,7 @@
             "safe",
             "scp",
             "人造物品",
-            "強制性",
+            "強迫性",
             "精神影響",
             "翻譯",
             "電子"
@@ -527,7 +527,7 @@
     {
         "TITLE": "SCP-6369 - 老鼠失物協尋服務",
         "FULLNAME": "scp-6369",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "4",
         "TAGS": [
             "en",
@@ -696,7 +696,7 @@
     {
         "TITLE": "SCP-877-KO - ██藏██體",
         "FULLNAME": "scp-877-ko",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "ko",

@@ -446,7 +446,7 @@
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
         "FULLNAME": "scp-6820",
-        "RATING": 13,
+        "RATING": 14,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -480,7 +480,7 @@
     {
         "TITLE": "SCP-7777 - 懼七症",
         "FULLNAME": "scp-7777",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "bold主任",
@@ -499,7 +499,7 @@
     {
         "TITLE": "SCP-7070 - 不凋",
         "FULLNAME": "scp-7070",
-        "RATING": 11,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -515,6 +515,61 @@
             "毒性",
             "翻譯",
             "變形",
+            "電腦"
+        ]
+    },
+    {
+        "TITLE": "SCP-4370 - 貓娘亦有情",
+        "FULLNAME": "scp-4370",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "scp",
+            "人形",
+            "媒體",
+            "復活",
+            "智能",
+            "機密分級",
+            "翻譯",
+            "自主",
+            "藝術性",
+            "貓類",
+            "電腦"
+        ]
+    },
+    {
+        "TITLE": "SCP-490-JP - 貝克遜國完善裝置",
+        "FULLNAME": "scp-490-jp",
+        "RATING": 2,
+        "COMMENTS": "1",
+        "TAGS": [
+            "jp",
+            "jp-2015年終末記事競賽",
+            "safe",
+            "scp",
+            "城市",
+            "歷史性",
+            "翻譯",
+            "諸知博士",
+            "電腦"
+        ]
+    },
+    {
+        "TITLE": "SCP-1471 - MalO ver1.0.0",
+        "FULLNAME": "scp-1471",
+        "RATING": 8,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "人形",
+            "媒體",
+            "未收容",
+            "翻譯",
+            "視覺性",
+            "通訊",
             "電腦"
         ]
     }

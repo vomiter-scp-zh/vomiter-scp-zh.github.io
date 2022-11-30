@@ -3,7 +3,7 @@
         "TAGNAME": "空中"
     },
     {
-        "TITLE": "SCP-ZH-626",
+        "TITLE": "SCP-ZH-626 - 視野外",
         "FULLNAME": "scp-zh-626",
         "RATING": 23,
         "COMMENTS": "0",
@@ -20,7 +20,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-800",
+        "TITLE": "SCP-ZH-800 - 雷暴",
         "FULLNAME": "scp-zh-800",
         "RATING": 8,
         "COMMENTS": "3",
@@ -38,7 +38,7 @@
     {
         "TITLE": "SCP-ZH-298 - 天空鯨",
         "FULLNAME": "scp-zh-298",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "keter",
@@ -112,6 +112,19 @@
             "zh急迫競賽2022",
             "原創",
             "機密分級",
+            "空中"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-107 - 捕鳥雲",
+        "FULLNAME": "scp-zh-107",
+        "RATING": 19,
+        "COMMENTS": "0",
+        "TAGS": [
+            "keter",
+            "scp",
+            "zh急迫競賽2022",
+            "原創",
             "空中"
         ]
     }

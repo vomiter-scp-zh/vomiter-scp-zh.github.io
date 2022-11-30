@@ -31,7 +31,7 @@
     {
         "TITLE": "為何我們不能濫用現實穩定錨？",
         "FULLNAME": "about-scranton-reality-anchors",
-        "RATING": 15,
+        "RATING": 17,
         "COMMENTS": "3",
         "TAGS": [
             "原創",
@@ -43,8 +43,8 @@
     {
         "TITLE": "一般與異常探勘講座",
         "FULLNAME": "how-to-survive-in-the-wild",
-        "RATING": 18,
-        "COMMENTS": "2",
+        "RATING": 19,
+        "COMMENTS": "3",
         "TAGS": [
             "reverberate博士",
             "原創",
@@ -55,7 +55,7 @@
     {
         "TITLE": "故事的力量～你為什麼需要超形上學～",
         "FULLNAME": "why-you-need-pataphysics",
-        "RATING": 26,
+        "RATING": 29,
         "COMMENTS": "1",
         "TAGS": [
             "原創",
@@ -76,6 +76,18 @@
             "原創",
             "故事",
             "說明"
+        ]
+    },
+    {
+        "TITLE": "國安局第八處戰略資料：裝備",
+        "FULLNAME": "nsb-8-euipment",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "原創",
+            "第八處",
+            "說明",
+            "雙城作戰"
         ]
     }
 ]

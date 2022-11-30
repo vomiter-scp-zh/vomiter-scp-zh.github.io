@@ -1,6 +1,6 @@
 [
     {
-        "TITLE": "SCP-ZH-618",
+        "TITLE": "SCP-ZH-618 - 太陽餅獅",
         "FULLNAME": "scp-zh-618",
         "RATING": 41,
         "COMMENTS": "0",
@@ -15,7 +15,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-323",
+        "TITLE": "SCP-ZH-323 - 陪我玩",
         "FULLNAME": "scp-zh-323",
         "RATING": 10,
         "COMMENTS": "3",
@@ -31,7 +31,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-070",
+        "TITLE": "SCP-ZH-070 - 對話框先生",
         "FULLNAME": "scp-zh-070",
         "RATING": 17,
         "COMMENTS": "0",
@@ -109,7 +109,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-282",
+        "TITLE": "SCP-ZH-282 - 饕客",
         "FULLNAME": "scp-zh-282",
         "RATING": 19,
         "COMMENTS": "3",
@@ -138,7 +138,7 @@
     {
         "TITLE": "SCP-ZH-980 - 築夢小棧",
         "FULLNAME": "scp-zh-980",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "2",
         "TAGS": [
             "bales博士",
@@ -154,9 +154,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-880",
+        "TITLE": "SCP-ZH-880 - 阿嬤覺得你冷",
         "FULLNAME": "scp-zh-880",
-        "RATING": 29,
+        "RATING": 30,
         "COMMENTS": "2",
         "TAGS": [
             "euclid",
@@ -209,7 +209,7 @@
         "TITLE": "SCP-ZH-750 - 神說：「要有油。」就有了油。",
         "FULLNAME": "scp-zh-750",
         "RATING": 30,
-        "COMMENTS": "4",
+        "COMMENTS": "5",
         "TAGS": [
             "2022夏季競賽",
             "euclid",

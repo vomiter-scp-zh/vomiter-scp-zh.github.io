@@ -1,6 +1,6 @@
 [
     {
-        "TITLE": "SCP-ZH-655",
+        "TITLE": "SCP-ZH-655 - 永遠的六點五十五分",
         "FULLNAME": "scp-zh-655",
         "RATING": 8,
         "COMMENTS": "1",
@@ -15,7 +15,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-251",
+        "TITLE": "SCP-ZH-251 - 三樓遺址",
         "FULLNAME": "scp-zh-251",
         "RATING": 10,
         "COMMENTS": "0",
@@ -32,7 +32,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-811",
+        "TITLE": "SCP-ZH-811 - 南中學堂",
         "FULLNAME": "scp-zh-811",
         "RATING": 10,
         "COMMENTS": "6",
@@ -46,9 +46,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-551",
+        "TITLE": "SCP-ZH-551 - 小石潭記",
         "FULLNAME": "scp-zh-551",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "3",
         "TAGS": [
             "euclid",
@@ -58,7 +58,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-229",
+        "TITLE": "SCP-ZH-229 - 藍乾酪",
         "FULLNAME": "scp-zh-229",
         "RATING": 14,
         "COMMENTS": "3",
@@ -69,7 +69,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-346",
+        "TITLE": "SCP-ZH-346 - 皮開肉綻棒",
         "FULLNAME": "scp-zh-346",
         "RATING": 5,
         "COMMENTS": "1",
@@ -82,7 +82,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-666",
+        "TITLE": "SCP-ZH-666 - 被生命所厭惡者",
         "FULLNAME": "scp-zh-666",
         "RATING": 15,
         "COMMENTS": "2",
@@ -95,9 +95,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-018",
+        "TITLE": "SCP-ZH-018 - 繼承之照",
         "FULLNAME": "scp-zh-018",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "2",
         "TAGS": [
             "euclid",
@@ -110,7 +110,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-122",
+        "TITLE": "SCP-ZH-122 - 螢火蟲燈泡",
         "FULLNAME": "scp-zh-122",
         "RATING": 5,
         "COMMENTS": "1",
@@ -132,7 +132,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-349",
+        "TITLE": "SCP-ZH-349 - 天已遊憩廳",
         "FULLNAME": "scp-zh-349",
         "RATING": 6,
         "COMMENTS": "1",
@@ -144,7 +144,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-521",
+        "TITLE": "SCP-ZH-521 - 摺紙屋",
         "FULLNAME": "scp-zh-521",
         "RATING": 3,
         "COMMENTS": "2",
@@ -157,7 +157,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-421",
+        "TITLE": "SCP-ZH-421 - 回朔錶",
         "FULLNAME": "scp-zh-421",
         "RATING": 6,
         "COMMENTS": "1",
@@ -169,9 +169,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-629",
+        "TITLE": "SCP-ZH-629 - 回聲杯",
         "FULLNAME": "scp-zh-629",
-        "RATING": 5,
+        "RATING": 4,
         "COMMENTS": "1",
         "TAGS": [
             "safe",
@@ -184,7 +184,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-529",
+        "TITLE": "SCP-ZH-529 - 追觴飲望",
         "FULLNAME": "scp-zh-529",
         "RATING": 8,
         "COMMENTS": "2",
@@ -198,7 +198,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-401",
+        "TITLE": "SCP-ZH-401 - 色鉛筆",
         "FULLNAME": "scp-zh-401",
         "RATING": 9,
         "COMMENTS": "2",
@@ -225,7 +225,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-882",
+        "TITLE": "SCP-ZH-882 - 超猛召喚大全",
         "FULLNAME": "scp-zh-882",
         "RATING": 13,
         "COMMENTS": "1",
@@ -251,7 +251,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-825",
+        "TITLE": "SCP-ZH-825 - 奇萊孤兒",
         "FULLNAME": "scp-zh-825",
         "RATING": 12,
         "COMMENTS": "0",
@@ -263,7 +263,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-583",
+        "TITLE": "SCP-ZH-583 - 壯烈成仁",
         "FULLNAME": "scp-zh-583",
         "RATING": 12,
         "COMMENTS": "6",
@@ -276,7 +276,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-199",
+        "TITLE": "SCP-ZH-199 - 中永和迷宮",
         "FULLNAME": "scp-zh-199",
         "RATING": 22,
         "COMMENTS": "8",
@@ -293,7 +293,7 @@
     {
         "TITLE": "SCP-ZH-105 - 不孝子",
         "FULLNAME": "scp-zh-105",
-        "RATING": 65,
+        "RATING": 66,
         "COMMENTS": "5",
         "TAGS": [
             "euclid",
@@ -329,7 +329,7 @@
     {
         "TITLE": "SCP-ZH-515 - 平安符",
         "FULLNAME": "scp-zh-515",
-        "RATING": 43,
+        "RATING": 44,
         "COMMENTS": "2",
         "TAGS": [
             "2019暑期比賽",
@@ -422,7 +422,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-259",
+        "TITLE": "SCP-ZH-259 - 人去餅空",
         "FULLNAME": "scp-zh-259",
         "RATING": 11,
         "COMMENTS": "0",
@@ -438,7 +438,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-815",
+        "TITLE": "SCP-ZH-815 - 一家烤肉萬家香",
         "FULLNAME": "scp-zh-815",
         "RATING": 35,
         "COMMENTS": "8",
@@ -513,7 +513,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-217",
+        "TITLE": "SCP-ZH-217 - 與過去相伴的稻草人",
         "FULLNAME": "scp-zh-217",
         "RATING": 10,
         "COMMENTS": "0",
@@ -528,9 +528,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-044",
+        "TITLE": "SCP-ZH-044 - 石瀑狻猊",
         "FULLNAME": "scp-zh-044",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "3",
         "TAGS": [
             "bales博士",
@@ -606,8 +606,8 @@
     {
         "TITLE": "中國國安部，不應存在的十九局",
         "FULLNAME": "19th-bureau-of-mss-of-china",
-        "RATING": 20,
-        "COMMENTS": "16",
+        "RATING": 19,
+        "COMMENTS": "17",
         "TAGS": [
             "2020夏季競賽",
             "2020攀爬金字塔",
@@ -624,7 +624,7 @@
     {
         "TITLE": "雙城作戰中心頁",
         "FULLNAME": "operation-twin-cities-hub",
-        "RATING": 8,
+        "RATING": 9,
         "COMMENTS": "1",
         "TAGS": [
             "中心",
@@ -672,7 +672,7 @@
     {
         "TITLE": "你會感到後悔嗎？",
         "FULLNAME": "what-are-you-waiting-for-just-join-goc-dude",
-        "RATING": 35,
+        "RATING": 36,
         "COMMENTS": "5",
         "TAGS": [
             "全球超自然聯盟",
@@ -697,9 +697,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-880",
+        "TITLE": "SCP-ZH-880 - 阿嬤覺得你冷",
         "FULLNAME": "scp-zh-880",
-        "RATING": 29,
+        "RATING": 30,
         "COMMENTS": "2",
         "TAGS": [
             "euclid",
@@ -738,7 +738,7 @@
     {
         "TITLE": "「轉世計劃」",
         "FULLNAME": "project-reincarnation",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "1",
         "TAGS": [
             "原創",

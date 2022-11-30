@@ -14,7 +14,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-055",
+        "TITLE": "SCP-ZH-055 - 做你自己的主廚，隨時隨地開動吧！",
         "FULLNAME": "scp-zh-055",
         "RATING": 18,
         "COMMENTS": "3",
@@ -119,7 +119,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-032",
+        "TITLE": "SCP-ZH-032 - 有毒的橡皮擦",
         "FULLNAME": "scp-zh-032",
         "RATING": 21,
         "COMMENTS": "0",
@@ -202,7 +202,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-243",
+        "TITLE": "SCP-ZH-243 - 楠梓百慕達",
         "FULLNAME": "scp-zh-243",
         "RATING": 18,
         "COMMENTS": "0",
@@ -260,7 +260,7 @@
     {
         "TITLE": "SCP-ZH-361 - 驚喜X麵",
         "FULLNAME": "scp-zh-361",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "0",
         "TAGS": [
             "2022夏季競賽",
@@ -271,6 +271,17 @@
             "安布羅斯餐廳",
             "昆蟲",
             "食物"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-590 - 私人茶會時間",
+        "FULLNAME": "scp-zh-590",
+        "RATING": 5,
+        "COMMENTS": "2",
+        "TAGS": [
+            "safe",
+            "scp",
+            "原創"
         ]
     }
 ]

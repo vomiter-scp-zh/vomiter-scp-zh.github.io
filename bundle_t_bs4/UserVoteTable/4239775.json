@@ -37,6 +37,7 @@
         "TAGS": [
             "en",
             "scp",
+            "vang博士",
             "搞笑",
             "翻譯"
         ]
@@ -196,7 +197,7 @@
         "TITLE": "SCP-682 - 不滅孽蜥",
         "FULLNAME": "scp-682",
         "RATING": 24,
-        "COMMENTS": "1",
+        "COMMENTS": "2",
         "TAGS": [
             "en",
             "keter",
@@ -486,7 +487,7 @@
         "TITLE": "俄分著作權法相關解釋（20/6/2019）",
         "FULLNAME": "russian-branch-sub-copyright-law",
         "RATING": 9,
-        "COMMENTS": "1",
+        "COMMENTS": "2",
         "TAGS": [
             "新聞",
             "管理",
@@ -718,7 +719,7 @@
     {
         "TITLE": "SCP維基上的用戶工具",
         "FULLNAME": "usertools",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "3",
         "TAGS": [
             "管理",
@@ -990,7 +991,7 @@
     {
         "TITLE": "SCP格式資源",
         "FULLNAME": "scp-style-resource",
-        "RATING": 31,
+        "RATING": 32,
         "COMMENTS": "6",
         "TAGS": [
             "合作",
@@ -1018,7 +1019,7 @@
     {
         "TITLE": "SCP-701 - 受絞之王的悲劇",
         "FULLNAME": "scp-701",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -1158,7 +1159,7 @@
     {
         "TITLE": "SCP-5149 - 喬，我們可不是瞎子。",
         "FULLNAME": "scp-5149",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "4",
         "TAGS": [
             "en",
@@ -1287,7 +1288,7 @@
     {
         "TITLE": "SCP-063-J",
         "FULLNAME": "scp-063-j",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1806,7 +1807,7 @@
     {
         "TITLE": "SCP-4680 - 噢，那些俄國佬…",
         "FULLNAME": "scp-4680",
-        "RATING": 8,
+        "RATING": 10,
         "COMMENTS": "3",
         "TAGS": [
             "en",
@@ -1838,7 +1839,7 @@
     {
         "TITLE": "SCP-6630 - 彼方遙火",
         "FULLNAME": "scp-6630",
-        "RATING": 18,
+        "RATING": 19,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -1855,7 +1856,7 @@
     {
         "TITLE": "SCP-5400-J - 超級宇宙無敵機密文章",
         "FULLNAME": "scp-5400-j",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1884,7 +1885,7 @@
     {
         "TITLE": "SCP-7052 - 菊中匙",
         "FULLNAME": "scp-7052",
-        "RATING": 6,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1896,6 +1897,90 @@
             "機率性",
             "翻譯",
             "自我修復"
+        ]
+    },
+    {
+        "TITLE": "SCP-7000 - 輸家",
+        "FULLNAME": "scp-7000",
+        "RATING": 19,
+        "COMMENTS": "1",
+        "TAGS": [
+            "blank博士",
+            "dan博士",
+            "en",
+            "en-7000",
+            "euclid",
+            "k級情景",
+            "scp",
+            "wettle博士",
+            "不復返",
+            "人形",
+            "保衛43",
+            "本質促動",
+            "概念",
+            "機率性",
+            "渾沌反叛軍",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-7260 - 黛西",
+        "FULLNAME": "scp-7260",
+        "RATING": 9,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "感知力",
+            "翻譯",
+            "自主",
+            "衣物"
+        ]
+    },
+    {
+        "TITLE": "SCP-037 - 白矮星",
+        "FULLNAME": "scp-037",
+        "RATING": 4,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "星際",
+            "空中",
+            "翻譯",
+            "重寫"
+        ]
+    },
+    {
+        "TITLE": "MTF Psi-7「家居裝飾」概述",
+        "FULLNAME": "overview-of-mtf-psi-7-home-improvement",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "故事",
+            "歡樂基金會",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SC嗚喔喔啊啊啊啊啊啊啊啊-JP-J",
+        "FULLNAME": "scpaaaaaaaaaaaaaaaaaa-jp-j",
+        "RATING": 26,
+        "COMMENTS": "1",
+        "TAGS": [
+            "jp",
+            "keter",
+            "meta",
+            "scp",
+            "不可摧毀",
+            "搞笑",
+            "敵意",
+            "精神影響",
+            "翻譯",
+            "資訊危害"
         ]
     }
 ]

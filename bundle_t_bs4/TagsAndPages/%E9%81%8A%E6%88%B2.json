@@ -27,7 +27,7 @@
     {
         "TITLE": "SCP-024 - 亡命實境秀",
         "FULLNAME": "scp-024",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -84,7 +84,7 @@
         "TITLE": "SCP-1633-JP - 三角座銀河系（M33, NGC598）上的恆星相撞現象",
         "FULLNAME": "scp-1633-jp",
         "RATING": 4,
-        "COMMENTS": "0",
+        "COMMENTS": "3",
         "TAGS": [
             "jp",
             "scp",
@@ -175,11 +175,11 @@
         "RATING": 1,
         "COMMENTS": "2",
         "TAGS": [
-            "2020連寫競賽",
             "en",
+            "en-急迫競賽2020",
             "keter",
             "scp",
-            "人形生物",
+            "人形",
             "精神影響",
             "翻譯",
             "遊戲"
@@ -241,7 +241,7 @@
     {
         "TITLE": "SCP-3128 - 讓我們來玩大富翁吧!",
         "FULLNAME": "scp-3128",
-        "RATING": 2,
+        "RATING": 3,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -280,7 +280,7 @@
     {
         "TITLE": "SCP-4335 - 坩堝中的宇宙",
         "FULLNAME": "scp-4335",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "2",
         "TAGS": [
             "en",

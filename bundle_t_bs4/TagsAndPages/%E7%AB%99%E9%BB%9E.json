@@ -54,6 +54,7 @@
             "mann博士",
             "mcdoctorate博士",
             "中心",
+            "採購與清算部",
             "站點",
             "翻譯"
         ]
@@ -81,6 +82,34 @@
             "en",
             "中心",
             "來自120站的檔案",
+            "站點",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "凜冬",
+        "FULLNAME": "site-14-secure-facility-dossier",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "en-部門競賽2022",
+            "合著",
+            "站點",
+            "翻譯",
+            "電信監控辦公室"
+        ]
+    },
+    {
+        "TITLE": "維安設施檔案：受保護站點Site-7（同步未完成）",
+        "FULLNAME": "secure-facility-dossier-site-7",
+        "RATING": 9,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "maria-jones",
+            "中心",
+            "合著",
             "站點",
             "翻譯"
         ]

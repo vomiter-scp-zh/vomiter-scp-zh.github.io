@@ -22,6 +22,7 @@
         "TAGS": [
             "en",
             "scp",
+            "vang博士",
             "搞笑",
             "翻譯"
         ]
@@ -277,7 +278,7 @@
     {
         "TITLE": "SCP-701 - 受絞之王的悲劇",
         "FULLNAME": "scp-701",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -438,8 +439,8 @@
     {
         "TITLE": "SCP-001-EX-J",
         "FULLNAME": "scp-001-ex-j",
-        "RATING": 11,
-        "COMMENTS": "1",
+        "RATING": 12,
+        "COMMENTS": "2",
         "TAGS": [
             "en",
             "scp",
@@ -455,7 +456,7 @@
     {
         "TITLE": "Scantron的提案",
         "FULLNAME": "scantron-s-proposal",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "1",
         "TAGS": [
             "001提案",
@@ -594,7 +595,7 @@
     {
         "TITLE": "SC嗚喔喔啊啊啊啊啊啊啊啊-JP-J",
         "FULLNAME": "scpaaaaaaaaaaaaaaaaaa-jp-j",
-        "RATING": 25,
+        "RATING": 26,
         "COMMENTS": "1",
         "TAGS": [
             "jp",
@@ -612,7 +613,7 @@
     {
         "TITLE": "欲肉教中心頁",
         "FULLNAME": "sarkicism-hub",
-        "RATING": 15,
+        "RATING": 16,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -797,7 +798,7 @@
     {
         "TITLE": "scp-3-j",
         "FULLNAME": "scp-3-j",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -812,7 +813,7 @@
     {
         "TITLE": "SCP-2118 - 已逝孩童",
         "FULLNAME": "scp-2118",
-        "RATING": 8,
+        "RATING": 9,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -897,7 +898,7 @@
     {
         "TITLE": "我，一隻在暴雪中摀住鼻子的北極熊",
         "FULLNAME": "i-a-polar-bear-covering-my-nose-in-a-snowstorm",
-        "RATING": 11,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -975,7 +976,7 @@
     {
         "TITLE": "ROUNDERHOUSE帶你成為王八蛋批評家的非常好官方指南",
         "FULLNAME": "rounderhouse-critique-guide",
-        "RATING": 18,
+        "RATING": 19,
         "COMMENTS": "4",
         "TAGS": [
             "en",
@@ -987,7 +988,7 @@
     {
         "TITLE": "SCP-3333 - 塔",
         "FULLNAME": "scp-3333",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1055,7 +1056,7 @@
     {
         "TITLE": "巴別塔如何毀於我手",
         "FULLNAME": "jak-zburzylem-wieze-babel",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "1",
         "TAGS": [
             "crackfic2022",
@@ -1063,6 +1064,137 @@
             "搞笑",
             "故事",
             "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-2443 - 齊齊整整一家人",
+        "FULLNAME": "scp-2443",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "人形",
+            "活物",
+            "生殖性",
+            "異常移動",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "倫理委員會D級人員住宿規則",
+        "FULLNAME": "ethics-committee-class-d-housing-regulations",
+        "RATING": 12,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "倫理委員會",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "鏽魘",
+        "FULLNAME": "rusted-nightmares",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "東弊舍自動人偶部門廣告",
+        "FULLNAME": "tohei-automata",
+        "RATING": 8,
+        "COMMENTS": "0",
+        "TAGS": [
+            "jp",
+            "pamwac",
+            "大正150年",
+            "故事",
+            "東弊重工",
+            "翻譯",
+            "藝術作品"
+        ]
+    },
+    {
+        "TITLE": "逃離終點站",
+        "FULLNAME": "escape-from-terminus",
+        "RATING": 5,
+        "COMMENTS": "1",
+        "TAGS": [
+            "creepypasta",
+            "en",
+            "故事",
+            "異視維基",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "黑白黑白黑白黑白黑白灰",
+        "FULLNAME": "black-white-black-white-black-white-black-white-black-white",
+        "RATING": 10,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-3935 - 此處靜謐瘋狂",
+        "FULLNAME": "scp-3935",
+        "RATING": 5,
+        "COMMENTS": "4",
+        "TAGS": [
+            "1976年班",
+            "en",
+            "euclid",
+            "scp",
+            "uiu",
+            "地下",
+            "幻覺",
+            "建築物",
+            "時空",
+            "時間影響",
+            "翻譯",
+            "超維度",
+            "門徑",
+            "音頻"
+        ]
+    },
+    {
+        "TITLE": "我不識己名",
+        "FULLNAME": "i-don-t-know-my-name",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "故事",
+            "無名",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-4953 - 漢堡王本人",
+        "FULLNAME": "scp-4953",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "人形",
+            "傳送",
+            "強迫性",
+            "感知力",
+            "智能",
+            "翻譯",
+            "變形",
+            "超維度"
         ]
     }
 ]

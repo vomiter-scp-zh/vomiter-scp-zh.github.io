@@ -3,7 +3,7 @@
         "TAGNAME": "研究員lucifelle"
     },
     {
-        "TITLE": "SCP-ZH-108",
+        "TITLE": "SCP-ZH-108 - 團圓",
         "FULLNAME": "scp-zh-108",
         "RATING": 19,
         "COMMENTS": "0",
@@ -18,7 +18,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-202",
+        "TITLE": "SCP-ZH-202 - 思想扭蛋機",
         "FULLNAME": "scp-zh-202",
         "RATING": 12,
         "COMMENTS": "1",
@@ -95,7 +95,7 @@
     {
         "TITLE": "溫和的人，待在溫和的地方即可",
         "FULLNAME": "mild-people",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "1",
         "TAGS": [
             "2021夏季競賽",
@@ -112,7 +112,7 @@
     {
         "TITLE": "V1L3-J實驗產物副本 夜遊賭城指南",
         "FULLNAME": "adult:v1l3-j-how-to-spend-the-night-in-sin-city",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "3",
         "TAGS": [
             "2021夏季競賽",
@@ -143,8 +143,8 @@
     {
         "TITLE": "SCP-ZH-999-J - 工",
         "FULLNAME": "scp-zh-999-j",
-        "RATING": 5,
-        "COMMENTS": "18",
+        "RATING": 6,
+        "COMMENTS": "19",
         "TAGS": [
             "ad博士",
             "hanku博士",
@@ -203,7 +203,7 @@
     {
         "TITLE": "晚安12站",
         "FULLNAME": "adult:oyasumi-site-zh-12",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "1",
         "TAGS": [
             "ad博士",
@@ -263,6 +263,32 @@
             "搞笑",
             "機密分級",
             "研究員lucifelle"
+        ]
+    },
+    {
+        "TITLE": "霖茶",
+        "FULLNAME": "rain-and-tea",
+        "RATING": 13,
+        "COMMENTS": "3",
+        "TAGS": [
+            "2022萬聖事件",
+            "site-zh-12",
+            "原創",
+            "故事",
+            "研究員lucifelle"
+        ]
+    },
+    {
+        "TITLE": "桂花和洋甘菊",
+        "FULLNAME": "tea-rain-halloween2022",
+        "RATING": 15,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022萬聖事件",
+            "原創",
+            "研究員lucifelle",
+            "藝術",
+            "藝術作品"
         ]
     }
 ]

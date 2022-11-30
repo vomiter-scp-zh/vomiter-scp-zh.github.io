@@ -45,7 +45,7 @@
     {
         "TITLE": "欲肉教中心頁",
         "FULLNAME": "sarkicism-hub",
-        "RATING": 15,
+        "RATING": 16,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -209,7 +209,7 @@
     {
         "TITLE": "殆瓦中心頁",
         "FULLNAME": "daevite-hub",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -260,7 +260,7 @@
     {
         "TITLE": "SCP-6765 - 惡魔奧吉爾與瑪利德拉格血之王座",
         "FULLNAME": "scp-6765",
-        "RATING": 8,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -287,6 +287,25 @@
             "聽覺影響",
             "記憶影響",
             "認知危害",
+            "銘文"
+        ]
+    },
+    {
+        "TITLE": "SCP-2140 - 逆溯轉換子",
+        "FULLNAME": "scp-2140",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "en-短文競賽2015",
+            "scp",
+            "thaumiel",
+            "倫理委員會",
+            "基金會製造",
+            "歷史性",
+            "殆瓦",
+            "翻譯",
+            "視覺性",
             "銘文"
         ]
     }

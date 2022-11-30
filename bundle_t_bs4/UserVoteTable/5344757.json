@@ -18,7 +18,7 @@
     {
         "TITLE": "魔法講座",
         "FULLNAME": "another-goddamn-magic-system",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -467,7 +467,7 @@
     {
         "TITLE": "SCP維基上的用戶工具",
         "FULLNAME": "usertools",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "3",
         "TAGS": [
             "管理",
@@ -678,7 +678,7 @@
     {
         "TITLE": "Clef博士研討會手記，「現實扭曲者與你：當不存在的事物存在時該如何生存。」",
         "FULLNAME": "clef101",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "1",
         "TAGS": [
             "clef博士",
@@ -983,7 +983,7 @@
     {
         "TITLE": "逃離終點站",
         "FULLNAME": "escape-from-terminus",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "1",
         "TAGS": [
             "creepypasta",
@@ -1251,7 +1251,7 @@
     {
         "TITLE": "SCP格式資源",
         "FULLNAME": "scp-style-resource",
-        "RATING": 31,
+        "RATING": 32,
         "COMMENTS": "6",
         "TAGS": [
             "合作",
@@ -1634,7 +1634,7 @@
     {
         "TITLE": "SCP-4999 - 守望我等之人",
         "FULLNAME": "scp-4999",
-        "RATING": 13,
+        "RATING": 14,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1799,7 +1799,7 @@
     {
         "TITLE": "SCP-087 - 樓梯間",
         "FULLNAME": "scp-087",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -2320,7 +2320,7 @@
     {
         "TITLE": "SCP-037 - 白矮星",
         "FULLNAME": "scp-037",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -2409,7 +2409,7 @@
     {
         "TITLE": "SCP-096 - 羞澀的人",
         "FULLNAME": "scp-096",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "0",
         "TAGS": [
             "dan博士",
@@ -2572,7 +2572,7 @@
     {
         "TITLE": "SCP-426 - 我是一臺烤吐司機",
         "FULLNAME": "scp-426",
-        "RATING": 8,
+        "RATING": 9,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -2679,7 +2679,7 @@
     {
         "TITLE": "黑白黑白黑白黑白黑白灰",
         "FULLNAME": "black-white-black-white-black-white-black-white-black-white",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -2724,7 +2724,7 @@
     {
         "TITLE": "SCP-3936 - 一如預期般運作",
         "FULLNAME": "scp-3936",
-        "RATING": 15,
+        "RATING": 16,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -3128,7 +3128,7 @@
     {
         "TITLE": "吾王萬歲",
         "FULLNAME": "long-live-the-king",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -3156,7 +3156,7 @@
     {
         "TITLE": "SCP-2998 - 異常傳播訊號，2485MHz",
         "FULLNAME": "scp-2998",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -3465,7 +3465,7 @@
     {
         "TITLE": "SCP-458 - 無限披薩盒",
         "FULLNAME": "scp-458",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -3872,7 +3872,7 @@
     {
         "TITLE": "序曲：預備鈴",
         "FULLNAME": "days-gone-by",
-        "RATING": 7,
+        "RATING": 9,
         "COMMENTS": "0",
         "TAGS": [
             "1976年班",
@@ -4057,7 +4057,7 @@
     {
         "TITLE": "SCP-024 - 亡命實境秀",
         "FULLNAME": "scp-024",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -4821,7 +4821,7 @@
     {
         "TITLE": "鏽魘",
         "FULLNAME": "rusted-nightmares",
-        "RATING": 2,
+        "RATING": 3,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -4973,7 +4973,7 @@
     {
         "TITLE": "SCP-5149 - 喬，我們可不是瞎子。",
         "FULLNAME": "scp-5149",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "4",
         "TAGS": [
             "en",
@@ -5103,7 +5103,7 @@
     {
         "TITLE": "SCP-4357-J",
         "FULLNAME": "scp-4357-j",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -5188,8 +5188,8 @@
     {
         "TITLE": "SCP-001-EX-J",
         "FULLNAME": "scp-001-ex-j",
-        "RATING": 11,
-        "COMMENTS": "1",
+        "RATING": 12,
+        "COMMENTS": "2",
         "TAGS": [
             "en",
             "scp",
@@ -5222,7 +5222,7 @@
     {
         "TITLE": "Scantron的提案",
         "FULLNAME": "scantron-s-proposal",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "1",
         "TAGS": [
             "001提案",
@@ -5592,7 +5592,7 @@
     {
         "TITLE": "文件001-O5",
         "FULLNAME": "document-001-o5",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "1",
         "TAGS": [
             "aaron-siegel",
@@ -5843,7 +5843,7 @@
     {
         "TITLE": "SCP-420-J",
         "FULLNAME": "scp-420-j",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -6509,7 +6509,7 @@
     {
         "TITLE": "K級情景總表",
         "FULLNAME": "k-class-complete-list",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -6581,7 +6581,7 @@
     {
         "TITLE": "SCP-011-J",
         "FULLNAME": "scp-011-j",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -6814,7 +6814,7 @@
     {
         "TITLE": "SCP-063-J",
         "FULLNAME": "scp-063-j",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -6893,7 +6893,7 @@
     {
         "TITLE": "SCP-2911-JP - 美國最漫長的一天",
         "FULLNAME": "scp-2911-jp",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "2",
         "TAGS": [
             "1998年",
@@ -6966,7 +6966,7 @@
     {
         "TITLE": "SCP-006-J",
         "FULLNAME": "scp-006-j",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -7498,7 +7498,7 @@
     {
         "TITLE": "SCP-666½-J",
         "FULLNAME": "scp-666-and-a-half-j",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "1",
         "TAGS": [
             "bright博士",
@@ -7519,7 +7519,7 @@
         ]
     },
     {
-        "TITLE": "［基於協議4000-Eshu而被限制］",
+        "TITLE": "［基於協議4000-Eshu而受限制］",
         "FULLNAME": "taboo",
         "RATING": 11,
         "COMMENTS": "4",
@@ -7569,7 +7569,7 @@
     {
         "TITLE": "SCP-4953 - 漢堡王本人",
         "FULLNAME": "scp-4953",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -7596,7 +7596,6 @@
             "jp",
             "k級情景",
             "scp",
-            "儀式",
             "儀式性",
             "全球超自然聯盟",
             "動物",
@@ -7805,7 +7804,7 @@
         "TITLE": "SCP-1633-JP - 三角座銀河系（M33, NGC598）上的恆星相撞現象",
         "FULLNAME": "scp-1633-jp",
         "RATING": 4,
-        "COMMENTS": "0",
+        "COMMENTS": "3",
         "TAGS": [
             "jp",
             "scp",
@@ -7981,7 +7980,7 @@
     {
         "TITLE": "SCP-1425 - 星星信號",
         "FULLNAME": "scp-1425",
-        "RATING": 4,
+        "RATING": 3,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -8225,7 +8224,7 @@
     {
         "TITLE": "1998年 中心頁",
         "FULLNAME": "1998-hub",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "2",
         "TAGS": [
             "1998年",
@@ -8572,7 +8571,7 @@
     {
         "TITLE": "放棄死亡",
         "FULLNAME": "abandoning-death",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "1",
         "TAGS": [
             "jp",
@@ -8907,7 +8906,7 @@
     {
         "TITLE": "S. D. Locke的提案",
         "FULLNAME": "shaggydredlocks-proposal",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "1",
         "TAGS": [
             "001提案",
@@ -9101,7 +9100,7 @@
     {
         "TITLE": "SC嗚喔喔啊啊啊啊啊啊啊啊-JP-J",
         "FULLNAME": "scpaaaaaaaaaaaaaaaaaa-jp-j",
-        "RATING": 25,
+        "RATING": 26,
         "COMMENTS": "1",
         "TAGS": [
             "jp",
@@ -9252,7 +9251,7 @@
     {
         "TITLE": "即刻行動",
         "FULLNAME": "immediate-actions",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -9332,7 +9331,7 @@
     {
         "TITLE": "宛如我們是幼稚園老師一樣",
         "FULLNAME": "maria-jones-this-is-your-life",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "bright博士",
@@ -9405,7 +9404,7 @@
             "日奉一族",
             "有村組",
             "理外研",
-            "白色系家族目錄",
+            "白色家系目錄",
             "翻譯",
             "花籠學園"
         ]
@@ -9495,7 +9494,7 @@
     {
         "TITLE": "東弊舍自動人偶部門廣告",
         "FULLNAME": "tohei-automata",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "jp",
@@ -9680,7 +9679,7 @@
     {
         "TITLE": "SCP-3001 - 紅色現實",
         "FULLNAME": "scp-3001",
-        "RATING": 16,
+        "RATING": 19,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -9769,7 +9768,7 @@
     {
         "TITLE": "SCP-001-J",
         "FULLNAME": "scp-001-j",
-        "RATING": 5,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -9930,7 +9929,7 @@
     {
         "TITLE": "欲肉教中心頁",
         "FULLNAME": "sarkicism-hub",
-        "RATING": 15,
+        "RATING": 16,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -10002,7 +10001,7 @@
     {
         "TITLE": "SCP-4852 - Site-19南遷渡冬去！",
         "FULLNAME": "scp-4852",
-        "RATING": 9,
+        "RATING": 11,
         "COMMENTS": "1",
         "TAGS": [
             "aktus主任",
@@ -10187,7 +10186,7 @@
     {
         "TITLE": "你的第一篇SCP！",
         "FULLNAME": "your-very-first-scp",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -10279,7 +10278,7 @@
     {
         "TITLE": "SCP-4182 - Site-5不存在",
         "FULLNAME": "scp-4182",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -10608,7 +10607,7 @@
     {
         "TITLE": "SCP-999-J",
         "FULLNAME": "scp-999-j",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -10625,7 +10624,7 @@
     {
         "TITLE": "摘錄自Alto Clef〈如何在現實不存在時求生〉",
         "FULLNAME": "clef-excerpts",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "clef博士",
@@ -10657,7 +10656,7 @@
     {
         "TITLE": "SCP-3002 - 活埋想法的嘗試",
         "FULLNAME": "scp-3002",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -10725,7 +10724,7 @@
     {
         "TITLE": "SCP-3790 - 反常部",
         "FULLNAME": "scp-3790",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -10782,7 +10781,7 @@
     {
         "TITLE": "SCP-3396 - 至高天境寄生體",
         "FULLNAME": "scp-3396",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -11120,7 +11119,7 @@
     {
         "TITLE": "代號：████ ███ — 真相",
         "FULLNAME": "code-name-the-truth",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -11502,7 +11501,7 @@
     {
         "TITLE": "SCP-970-EX",
         "FULLNAME": "scp-970-ex",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -11909,11 +11908,11 @@
         "RATING": 1,
         "COMMENTS": "2",
         "TAGS": [
-            "2020連寫競賽",
             "en",
+            "en-急迫競賽2020",
             "keter",
             "scp",
-            "人形生物",
+            "人形",
             "精神影響",
             "翻譯",
             "遊戲"

@@ -157,7 +157,7 @@
     {
         "TITLE": "SCP-087 - 樓梯間",
         "FULLNAME": "scp-087",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -189,7 +189,7 @@
     {
         "TITLE": "Scantron的提案",
         "FULLNAME": "scantron-s-proposal",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "1",
         "TAGS": [
             "001提案",
@@ -446,7 +446,7 @@
     {
         "TITLE": "SCP-2023 - 艾多努斯的賠禮",
         "FULLNAME": "scp-2023",
-        "RATING": 2,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -748,7 +748,7 @@
     {
         "TITLE": "SCP-6837 - 鬧鬼故事",
         "FULLNAME": "scp-6837",
-        "RATING": 6,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -759,6 +759,74 @@
             "未來",
             "翻譯",
             "聲音"
+        ]
+    },
+    {
+        "TITLE": "SCP-2741 - 左道儀",
+        "FULLNAME": "scp-2741",
+        "RATING": 5,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "人造物品",
+            "無效化",
+            "精神影響",
+            "翻譯",
+            "聲音"
+        ]
+    },
+    {
+        "TITLE": "SCP-413 - 無邊無際的停車場",
+        "FULLNAME": "scp-413",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "建築物",
+            "時空",
+            "智能",
+            "神經性",
+            "翻譯",
+            "聲音",
+            "聽覺影響"
+        ]
+    },
+    {
+        "TITLE": "SCP-6552 - 潮汐.wav",
+        "FULLNAME": "scp-6552",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "媒體",
+            "翻譯",
+            "聲音",
+            "音頻"
+        ]
+    },
+    {
+        "TITLE": "SCP-1333-J!",
+        "FULLNAME": "scp-1333-j",
+        "RATING": 2,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "meta",
+            "scp",
+            "人形",
+            "儀式性",
+            "搞笑",
+            "機密分級",
+            "翻譯",
+            "聲音",
+            "聽覺影響",
+            "認知危害"
         ]
     }
 ]

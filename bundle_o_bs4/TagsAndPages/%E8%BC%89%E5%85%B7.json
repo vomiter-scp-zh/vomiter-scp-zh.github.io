@@ -3,9 +3,9 @@
         "TAGNAME": "載具"
     },
     {
-        "TITLE": "SCP-ZH-439",
+        "TITLE": "SCP-ZH-439 - 嵌合機車",
         "FULLNAME": "scp-zh-439",
-        "RATING": 3,
+        "RATING": 2,
         "COMMENTS": "1",
         "TAGS": [
             "safe",
@@ -15,7 +15,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-069",
+        "TITLE": "SCP-ZH-069 - 伴牠左右",
         "FULLNAME": "scp-zh-069",
         "RATING": 10,
         "COMMENTS": "5",
@@ -31,7 +31,7 @@
     {
         "TITLE": "SCP-ZH-105 - 不孝子",
         "FULLNAME": "scp-zh-105",
-        "RATING": 65,
+        "RATING": 66,
         "COMMENTS": "5",
         "TAGS": [
             "euclid",
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-125",
+        "TITLE": "SCP-ZH-125 - 博愛座",
         "FULLNAME": "scp-zh-125",
         "RATING": 22,
         "COMMENTS": "2",
@@ -112,9 +112,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-113",
+        "TITLE": "SCP-ZH-113 - 抹殺事情的真相",
         "FULLNAME": "scp-zh-113",
-        "RATING": 28,
+        "RATING": 30,
         "COMMENTS": "2",
         "TAGS": [
             "2020夏季競賽",
@@ -130,7 +130,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-061",
+        "TITLE": "SCP-ZH-061 - 本車開往博覽會",
         "FULLNAME": "scp-zh-061",
         "RATING": 13,
         "COMMENTS": "0",

@@ -1,8 +1,8 @@
 [
     {
-        "TITLE": "SCP-ZH-035",
+        "TITLE": "SCP-ZH-035 - 跑酷者",
         "FULLNAME": "scp-zh-035",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "0",
         "TAGS": [
             "euclid",
@@ -12,7 +12,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-045",
+        "TITLE": "SCP-ZH-045 - 萬能胡椒",
         "FULLNAME": "scp-zh-045",
         "RATING": 19,
         "COMMENTS": "0",
@@ -30,9 +30,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-041",
+        "TITLE": "SCP-ZH-041 - 夢想",
         "FULLNAME": "scp-zh-041",
-        "RATING": 19,
+        "RATING": 20,
         "COMMENTS": "4",
         "TAGS": [
             "lofia",
@@ -43,7 +43,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-042",
+        "TITLE": "SCP-ZH-042 - 捨身餵人",
         "FULLNAME": "scp-zh-042",
         "RATING": 17,
         "COMMENTS": "1",

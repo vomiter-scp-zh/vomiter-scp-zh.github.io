@@ -46,8 +46,8 @@
     {
         "TITLE": "SCP-001-EX-J",
         "FULLNAME": "scp-001-ex-j",
-        "RATING": 11,
-        "COMMENTS": "1",
+        "RATING": 12,
+        "COMMENTS": "2",
         "TAGS": [
             "en",
             "scp",
@@ -95,7 +95,7 @@
     {
         "TITLE": "SCP-970-EX",
         "FULLNAME": "scp-970-ex",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -108,7 +108,7 @@
     {
         "TITLE": "SCP-067-EX",
         "FULLNAME": "scp-067-ex",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -119,6 +119,21 @@
             "建築物",
             "放射性",
             "真菌",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-7166 - 雷擊不貳",
+        "FULLNAME": "scp-7166",
+        "RATING": 5,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "en-7000",
+            "scp",
+            "已解明",
+            "機率性",
+            "氣象",
             "翻譯"
         ]
     }

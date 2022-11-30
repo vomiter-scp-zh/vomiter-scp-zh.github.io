@@ -5,7 +5,7 @@
     {
         "TITLE": "相嘯魔解密",
         "FULLNAME": "scpdeclassified-pattern-screamers-declassified",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -116,7 +116,7 @@
     {
         "TITLE": "SCP-3980解密",
         "FULLNAME": "scp-3980-declassification",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -160,7 +160,7 @@
     {
         "TITLE": "艾莉森·埃卡爾特快速講解",
         "FULLNAME": "scp-2565-flash-briefing",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -250,6 +250,63 @@
         "FULLNAME": "scp-4666-declassification",
         "RATING": 6,
         "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "用戶解密",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-4231解密-第一部分",
+        "FULLNAME": "scp-4231-declassification-part-one",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "成人內容",
+            "用戶解密",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-4231解密-第二部分",
+        "FULLNAME": "scp-4231-declassification-part-two",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "成人內容",
+            "用戶解密",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "1976年班+SCP-2316解密",
+        "FULLNAME": "scp-2316-declassification",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "用戶解密",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-4098解密",
+        "FULLNAME": "scp-4098-declassification",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "用戶解密",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-5956解密",
+        "FULLNAME": "scp-5956-declassification",
+        "RATING": 5,
+        "COMMENTS": "0",
         "TAGS": [
             "en",
             "用戶解密",

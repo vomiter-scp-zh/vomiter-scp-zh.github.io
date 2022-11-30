@@ -43,7 +43,7 @@
     {
         "TITLE": "Clef博士研討會手記，「現實扭曲者與你：當不存在的事物存在時該如何生存。」",
         "FULLNAME": "clef101",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "1",
         "TAGS": [
             "clef博士",
@@ -56,7 +56,7 @@
     {
         "TITLE": "SCP格式資源",
         "FULLNAME": "scp-style-resource",
-        "RATING": 31,
+        "RATING": 32,
         "COMMENTS": "6",
         "TAGS": [
             "合作",
@@ -79,7 +79,7 @@
     {
         "TITLE": "SCP-4999 - 守望我等之人",
         "FULLNAME": "scp-4999",
-        "RATING": 13,
+        "RATING": 14,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -252,7 +252,7 @@
     {
         "TITLE": "SCP-2911-JP - 美國最漫長的一天",
         "FULLNAME": "scp-2911-jp",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "2",
         "TAGS": [
             "1998年",
@@ -302,7 +302,7 @@
         "TITLE": "SCP-1633-JP - 三角座銀河系（M33, NGC598）上的恆星相撞現象",
         "FULLNAME": "scp-1633-jp",
         "RATING": 4,
-        "COMMENTS": "0",
+        "COMMENTS": "3",
         "TAGS": [
             "jp",
             "scp",
@@ -364,7 +364,7 @@
     {
         "TITLE": "SC嗚喔喔啊啊啊啊啊啊啊啊-JP-J",
         "FULLNAME": "scpaaaaaaaaaaaaaaaaaa-jp-j",
-        "RATING": 25,
+        "RATING": 26,
         "COMMENTS": "1",
         "TAGS": [
             "jp",
@@ -422,6 +422,28 @@
             "記憶影響",
             "超維度",
             "電腦"
+        ]
+    },
+    {
+        "TITLE": "SCP-7999 - 來星星間找我",
+        "FULLNAME": "scp-7999",
+        "RATING": 18,
+        "COMMENTS": "2",
+        "TAGS": [
+            "asheworth博士",
+            "en",
+            "en-7000",
+            "euclid",
+            "scp",
+            "來自120站的檔案",
+            "感知力",
+            "星球",
+            "星際",
+            "智能",
+            "物種",
+            "節肢動物",
+            "翻譯",
+            "門徑"
         ]
     }
 ]

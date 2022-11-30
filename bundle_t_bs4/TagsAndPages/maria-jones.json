@@ -69,7 +69,7 @@
     {
         "TITLE": "SCP-2998 - 異常傳播訊號，2485MHz",
         "FULLNAME": "scp-2998",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -88,7 +88,7 @@
     {
         "TITLE": "宛如我們是幼稚園老師一樣",
         "FULLNAME": "maria-jones-this-is-your-life",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "bright博士",
@@ -103,7 +103,7 @@
     {
         "TITLE": "SCP-7001 - Site-19",
         "FULLNAME": "scp-7001",
-        "RATING": 6,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "asheworth博士",
@@ -127,6 +127,20 @@
             "翻譯",
             "記憶影響",
             "認知危害"
+        ]
+    },
+    {
+        "TITLE": "維安設施檔案：受保護站點Site-7（同步未完成）",
+        "FULLNAME": "secure-facility-dossier-site-7",
+        "RATING": 9,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "maria-jones",
+            "中心",
+            "合著",
+            "站點",
+            "翻譯"
         ]
     }
 ]

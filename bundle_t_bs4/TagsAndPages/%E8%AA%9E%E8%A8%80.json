@@ -157,7 +157,7 @@
     {
         "TITLE": "SCP-5149 - 喬，我們可不是瞎子。",
         "FULLNAME": "scp-5149",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "4",
         "TAGS": [
             "en",
@@ -298,7 +298,7 @@
     {
         "TITLE": "SCP-3529 - 蛇 = 蛇蛇 =可愛 ^~^",
         "FULLNAME": "scp-3529",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -452,6 +452,29 @@
             "翻譯",
             "語言",
             "誤傳部"
+        ]
+    },
+    {
+        "TITLE": "𝒫",
+        "FULLNAME": "scp-5558",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "meta",
+            "scp",
+            "人形",
+            "傳送",
+            "反熵",
+            "性",
+            "智能",
+            "活物",
+            "無定形",
+            "翻譯",
+            "語言",
+            "誤傳部",
+            "音頻"
         ]
     }
 ]

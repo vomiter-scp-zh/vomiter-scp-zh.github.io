@@ -1,6 +1,6 @@
 [
     {
-        "TITLE": "SCP-ZH-251",
+        "TITLE": "SCP-ZH-251 - 三樓遺址",
         "FULLNAME": "scp-zh-251",
         "RATING": 10,
         "COMMENTS": "0",
@@ -105,7 +105,7 @@
     {
         "TITLE": "藝術紀錄：校外教學。",
         "FULLNAME": "art-for-2316",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "0",
         "TAGS": [
             "1976年班",
@@ -259,7 +259,7 @@
     {
         "TITLE": "汽水的藝作頁3",
         "FULLNAME": "lillianasoda-artworks3",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "0",
         "TAGS": [
             "原創",
@@ -274,6 +274,19 @@
         "TAGS": [
             "原創",
             "物理少年",
+            "藝術作品"
+        ]
+    },
+    {
+        "TITLE": "桂花和洋甘菊",
+        "FULLNAME": "tea-rain-halloween2022",
+        "RATING": 15,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022萬聖事件",
+            "原創",
+            "研究員lucifelle",
+            "藝術",
             "藝術作品"
         ]
     }

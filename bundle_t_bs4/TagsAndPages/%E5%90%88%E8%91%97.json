@@ -131,7 +131,7 @@
         "TITLE": "SCP-682 - 不滅孽蜥",
         "FULLNAME": "scp-682",
         "RATING": 24,
-        "COMMENTS": "1",
+        "COMMENTS": "2",
         "TAGS": [
             "en",
             "keter",
@@ -628,7 +628,7 @@
         "TITLE": "SCP-1633-JP - 三角座銀河系（M33, NGC598）上的恆星相撞現象",
         "FULLNAME": "scp-1633-jp",
         "RATING": 4,
-        "COMMENTS": "0",
+        "COMMENTS": "3",
         "TAGS": [
             "jp",
             "scp",
@@ -747,7 +747,7 @@
     {
         "TITLE": "SCP-999-J",
         "FULLNAME": "scp-999-j",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -764,7 +764,7 @@
     {
         "TITLE": "SCP-3790 - 反常部",
         "FULLNAME": "scp-3790",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -825,7 +825,7 @@
     {
         "TITLE": "SCP-3731 - 常態將受到保護",
         "FULLNAME": "scp-3731",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1142,8 +1142,8 @@
     {
         "TITLE": "SCP社群討論區模擬器",
         "FULLNAME": "scp-wiki-discussion-page-simulator",
-        "RATING": -3,
-        "COMMENTS": "0",
+        "RATING": -5,
+        "COMMENTS": "1",
         "TAGS": [
             "en",
             "合著",
@@ -1168,7 +1168,7 @@
     {
         "TITLE": "SCP-6369 - 老鼠失物協尋服務",
         "FULLNAME": "scp-6369",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "4",
         "TAGS": [
             "en",
@@ -1505,7 +1505,7 @@
     {
         "TITLE": "SCP-6781 - Site-7：遺產",
         "FULLNAME": "scp-6781",
-        "RATING": 8,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1520,7 +1520,7 @@
     {
         "TITLE": "SCP-6355 - 扼殺禮義之咽喉",
         "FULLNAME": "scp-6355",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -1538,7 +1538,7 @@
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
         "FULLNAME": "scp-6820",
-        "RATING": 13,
+        "RATING": 14,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -1572,8 +1572,8 @@
     {
         "TITLE": "SCP-7K-J - 一擲定生死",
         "FULLNAME": "scp-7k-j",
-        "RATING": 5,
-        "COMMENTS": "2",
+        "RATING": 6,
+        "COMMENTS": "3",
         "TAGS": [
             "en",
             "euclid",
@@ -1625,7 +1625,7 @@
     {
         "TITLE": "SPC-3008",
         "FULLNAME": "spc-3008",
-        "RATING": 4,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1656,7 +1656,7 @@
     {
         "TITLE": "SCP-7070 - 不凋",
         "FULLNAME": "scp-7070",
-        "RATING": 11,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1703,7 +1703,7 @@
     {
         "TITLE": "SCP-6161 - 糕點刀",
         "FULLNAME": "scp-6161",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -1720,7 +1720,7 @@
     {
         "TITLE": "SCP-7200 - 船。",
         "FULLNAME": "scp-7200",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1735,7 +1735,7 @@
     {
         "TITLE": "SCP-6938 - Alex Thorley得到一匹禮物馬",
         "FULLNAME": "scp-6938",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1752,7 +1752,7 @@
     {
         "TITLE": "SCP-4176 - 稅金",
         "FULLNAME": "scp-4176",
-        "RATING": 2,
+        "RATING": 3,
         "COMMENTS": "0",
         "TAGS": [
             "dado",
@@ -1768,7 +1768,7 @@
     {
         "TITLE": "全新把戲（或：青年文化殺了我的狗",
         "FULLNAME": "new-tricks",
-        "RATING": 2,
+        "RATING": 3,
         "COMMENTS": "0",
         "TAGS": [
             "bowe上將",
@@ -1787,7 +1787,7 @@
     {
         "TITLE": "額外資源",
         "FULLNAME": "additional-resources",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "0",
         "TAGS": [
             "aktus主任",
@@ -1803,7 +1803,7 @@
     {
         "TITLE": "SCP-7103 - 雕塑",
         "FULLNAME": "scp-7103",
-        "RATING": 4,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1818,6 +1818,137 @@
             "通訊",
             "銘文",
             "雕像"
+        ]
+    },
+    {
+        "TITLE": "凜冬",
+        "FULLNAME": "site-14-secure-facility-dossier",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "en-部門競賽2022",
+            "合著",
+            "站點",
+            "翻譯",
+            "電信監控辦公室"
+        ]
+    },
+    {
+        "TITLE": "SCP-789-J - 屁屁鬼！！",
+        "FULLNAME": "scp-789-j",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "人形",
+            "合著",
+            "搞笑",
+            "研究員james",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-6707 - 窮盡我等一切",
+        "FULLNAME": "scp-6707",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "scp",
+            "合著",
+            "恆星",
+            "植物",
+            "機密分級",
+            "歷史性",
+            "氣象",
+            "活物",
+            "物種",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "破曉中心頁",
+        "FULLNAME": "daybreak",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "中心",
+            "合作",
+            "合著",
+            "破曉",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-7779 - 唉呦！",
+        "FULLNAME": "scp-7779",
+        "RATING": 8,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "傳送",
+            "全球超自然聯盟",
+            "合著",
+            "地質",
+            "幻覺",
+            "睡眠",
+            "精神影響",
+            "翻譯",
+            "聽覺影響",
+            "英國神秘情報局"
+        ]
+    },
+    {
+        "TITLE": "終曲：遺言",
+        "FULLNAME": "looking-back",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "1976年班",
+            "en",
+            "合著",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-4098 - S-C-P，視詞篇順暢排19-3-16",
+        "FULLNAME": "scp-4098",
+        "RATING": 10,
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "scp",
+            "thaumiel",
+            "合著",
+            "基金會製造",
+            "建築物",
+            "模因效應",
+            "翻譯",
+            "視覺性",
+            "認知危害",
+            "誤傳部",
+            "資訊危害"
+        ]
+    },
+    {
+        "TITLE": "維安設施檔案：受保護站點Site-7（同步未完成）",
+        "FULLNAME": "secure-facility-dossier-site-7",
+        "RATING": 9,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "maria-jones",
+            "中心",
+            "合著",
+            "站點",
+            "翻譯"
         ]
     }
 ]

@@ -230,7 +230,7 @@
     {
         "TITLE": "SCP-4999 - 守望我等之人",
         "FULLNAME": "scp-4999",
-        "RATING": 13,
+        "RATING": 14,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -511,7 +511,7 @@
     {
         "TITLE": "S. D. Locke的提案",
         "FULLNAME": "shaggydredlocks-proposal",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "1",
         "TAGS": [
             "001提案",
@@ -669,7 +669,7 @@
     {
         "TITLE": "SCP-999-J",
         "FULLNAME": "scp-999-j",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -686,7 +686,7 @@
     {
         "TITLE": "SCP-3002 - 活埋想法的嘗試",
         "FULLNAME": "scp-3002",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -727,7 +727,7 @@
     {
         "TITLE": "SCP-3980 - 盲者相領",
         "FULLNAME": "scp-3980",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -812,7 +812,7 @@
     {
         "TITLE": "SCP-3984 - 用棍棒戳死神",
         "FULLNAME": "scp-3984",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "0",
         "TAGS": [
             "d-11424 en",
@@ -906,7 +906,7 @@
     {
         "TITLE": "SCP-3529 - 蛇 = 蛇蛇 =可愛 ^~^",
         "FULLNAME": "scp-3529",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -1190,7 +1190,7 @@
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
         "FULLNAME": "scp-6820",
-        "RATING": 13,
+        "RATING": 14,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -1294,7 +1294,7 @@
     {
         "TITLE": "SCP-4666 - 聖誕老人",
         "FULLNAME": "scp-4666",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1312,7 +1312,7 @@
     {
         "TITLE": "SCP-7290 - 地獄子彈",
         "FULLNAME": "scp-7290",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1328,7 +1328,7 @@
     {
         "TITLE": "SCP-7025 - 你將死於公車",
         "FULLNAME": "scp-7025",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1338,6 +1338,89 @@
             "機率性",
             "翻譯",
             "載具"
+        ]
+    },
+    {
+        "TITLE": "SCP-3733 - 其他所有人",
+        "FULLNAME": "scp-3733",
+        "RATING": 6,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "未收容",
+            "神經性",
+            "翻譯",
+            "資訊危害"
+        ]
+    },
+    {
+        "TITLE": "SCP-6572 - 斬萬物之劍",
+        "FULLNAME": "scp-6572",
+        "RATING": 6,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "mc&d",
+            "scp",
+            "未收容",
+            "武器",
+            "無效化",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-1048 - 拼裝者小熊",
+        "FULLNAME": "scp-1048",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "未收容",
+            "玩具",
+            "精神影響",
+            "翻譯",
+            "自主",
+            "自我複製"
+        ]
+    },
+    {
+        "TITLE": "SCP-1471 - MalO ver1.0.0",
+        "FULLNAME": "scp-1471",
+        "RATING": 8,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "人形",
+            "媒體",
+            "未收容",
+            "翻譯",
+            "視覺性",
+            "通訊",
+            "電腦"
+        ]
+    },
+    {
+        "TITLE": "SCP-009-JP - 閏秒",
+        "FULLNAME": "scp-009-jp",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "jp",
+            "scp",
+            "傳送",
+            "星球",
+            "星際",
+            "時空",
+            "時間影響",
+            "未收容",
+            "翻譯",
+            "重力影響"
         ]
     }
 ]

@@ -3,7 +3,7 @@
         "TAGNAME": "異常移動"
     },
     {
-        "TITLE": "SCP-ZH-255",
+        "TITLE": "SCP-ZH-255 - 賓尼費的最後庇護所",
         "FULLNAME": "scp-zh-255",
         "RATING": 22,
         "COMMENTS": "5",
@@ -26,7 +26,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-823",
+        "TITLE": "SCP-ZH-823 - 室友",
         "FULLNAME": "scp-zh-823",
         "RATING": 14,
         "COMMENTS": "0",
@@ -56,7 +56,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-400",
+        "TITLE": "SCP-ZH-400 - 月神蘚",
         "FULLNAME": "scp-zh-400",
         "RATING": 14,
         "COMMENTS": "1",
@@ -75,7 +75,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-480",
+        "TITLE": "SCP-ZH-480 - 向下找",
         "FULLNAME": "scp-zh-480",
         "RATING": 10,
         "COMMENTS": "1",
@@ -92,9 +92,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-091",
+        "TITLE": "SCP-ZH-091 - 逃兵",
         "FULLNAME": "scp-zh-091",
-        "RATING": 19,
+        "RATING": 20,
         "COMMENTS": "3",
         "TAGS": [
             "2020攀爬金字塔",
@@ -131,6 +131,26 @@
             "異常移動",
             "自主",
             "雕塑"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-911 - 你所捍衛的自由",
+        "FULLNAME": "scp-zh-911",
+        "RATING": 21,
+        "COMMENTS": "0",
+        "TAGS": [
+            "euclid",
+            "meta",
+            "scp",
+            "site-zh-50",
+            "原創",
+            "感知力",
+            "智能",
+            "本質促動",
+            "武器",
+            "異常移動",
+            "認知危害",
+            "資訊危害"
         ]
     }
 ]

@@ -170,7 +170,7 @@
         "TITLE": "Dr Gears的提案",
         "FULLNAME": "dr-gears-s-proposal",
         "RATING": 3,
-        "COMMENTS": "1",
+        "COMMENTS": "2",
         "TAGS": [
             "001提案",
             "en",
@@ -209,7 +209,7 @@
     {
         "TITLE": "SCP-059 - 放射性礦物",
         "FULLNAME": "scp-059",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -259,7 +259,7 @@
     {
         "TITLE": "SCP-067-EX",
         "FULLNAME": "scp-067-ex",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -270,6 +270,21 @@
             "建築物",
             "放射性",
             "真菌",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "qntm的提案",
+        "FULLNAME": "qntm-s-proposal",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "001提案",
+            "en",
+            "safe",
+            "scp",
+            "不可摧毀",
+            "放射性",
             "翻譯"
         ]
     }

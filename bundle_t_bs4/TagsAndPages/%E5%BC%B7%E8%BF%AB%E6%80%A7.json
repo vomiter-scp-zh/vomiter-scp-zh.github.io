@@ -350,7 +350,7 @@
     {
         "TITLE": "SCP-4953 - 漢堡王本人",
         "FULLNAME": "scp-4953",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -389,7 +389,7 @@
     {
         "TITLE": "SCP-001-J",
         "FULLNAME": "scp-001-j",
-        "RATING": 5,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -479,7 +479,7 @@
     {
         "TITLE": "SCP-6400 - 外面那裏",
         "FULLNAME": "scp-6400",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -634,6 +634,37 @@
             "視覺性",
             "認知危害",
             "載具"
+        ]
+    },
+    {
+        "TITLE": "SCP-1984-J - 字面上的1984",
+        "FULLNAME": "scp-1984-j",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "強迫性",
+            "搞笑",
+            "文獻",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-010 - 操縱項圈",
+        "FULLNAME": "scp-010",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "人造物品",
+            "強迫性",
+            "精神影響",
+            "翻譯",
+            "電子"
         ]
     }
 ]

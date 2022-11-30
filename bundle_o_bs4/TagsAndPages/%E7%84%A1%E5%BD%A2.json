@@ -33,9 +33,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-200",
+        "TITLE": "SCP-ZH-200 - 鬼抓人",
         "FULLNAME": "scp-zh-200",
-        "RATING": 34,
+        "RATING": 35,
         "COMMENTS": "1",
         "TAGS": [
             "keter",
@@ -50,7 +50,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-175",
+        "TITLE": "SCP-ZH-175 - 贋造的幸福",
         "FULLNAME": "scp-zh-175",
         "RATING": 10,
         "COMMENTS": "2",
@@ -68,7 +68,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-015",
+        "TITLE": "SCP-ZH-015 - 七人八笑",
         "FULLNAME": "scp-zh-015",
         "RATING": 23,
         "COMMENTS": "0",
@@ -84,7 +84,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-079",
+        "TITLE": "SCP-ZH-079 - 目標，親王，擊發",
         "FULLNAME": "scp-zh-079",
         "RATING": 12,
         "COMMENTS": "1",
@@ -119,7 +119,7 @@
     {
         "TITLE": "SCP-ZH-905 - 愛的相反不是恨",
         "FULLNAME": "scp-zh-905",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "euclid",
@@ -169,7 +169,7 @@
     {
         "TITLE": "SCP-ZH-540 - Alone In The Dark",
         "FULLNAME": "scp-zh-540",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "2",
         "TAGS": [
             "scp",
@@ -254,7 +254,7 @@
     {
         "TITLE": "SCP-ZH-119 - 懲罰之火不降於我",
         "FULLNAME": "scp-zh-119",
-        "RATING": 13,
+        "RATING": 14,
         "COMMENTS": "0",
         "TAGS": [
             "2022夏季競賽",
@@ -263,6 +263,21 @@
             "scp",
             "原創",
             "基金會製造",
+            "無形"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-230 - H.K.的漫長餘生",
+        "FULLNAME": "scp-zh-230",
+        "RATING": 12,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022萬聖事件",
+            "keter",
+            "scp",
+            "儀式性",
+            "原創",
+            "無名",
             "無形"
         ]
     }

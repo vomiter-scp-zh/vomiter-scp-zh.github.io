@@ -17,7 +17,7 @@
     {
         "TITLE": "SCP維基上的用戶工具",
         "FULLNAME": "usertools",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "3",
         "TAGS": [
             "管理",
@@ -91,7 +91,7 @@
     {
         "TITLE": "K級情景總表",
         "FULLNAME": "k-class-complete-list",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -271,7 +271,7 @@
     {
         "TITLE": "你的第一篇SCP！",
         "FULLNAME": "your-very-first-scp",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "1",
         "TAGS": [
             "en",

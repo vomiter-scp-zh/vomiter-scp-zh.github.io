@@ -146,7 +146,7 @@
     {
         "TITLE": "SCP-2911-JP - 美國最漫長的一天",
         "FULLNAME": "scp-2911-jp",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "2",
         "TAGS": [
             "1998年",
@@ -218,7 +218,7 @@
     {
         "TITLE": "SCP-231-J",
         "FULLNAME": "scp-231-j",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -272,7 +272,7 @@
     {
         "TITLE": "SCP-7777 - 懼七症",
         "FULLNAME": "scp-7777",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "bold主任",
@@ -291,7 +291,7 @@
     {
         "TITLE": "SCP-7000 - 輸家",
         "FULLNAME": "scp-7000",
-        "RATING": 17,
+        "RATING": 19,
         "COMMENTS": "1",
         "TAGS": [
             "blank博士",
@@ -310,6 +310,27 @@
             "機率性",
             "渾沌反叛軍",
             "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-884 - 修容鏡",
+        "FULLNAME": "scp-884",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "lament特工",
+            "scp",
+            "人造物品",
+            "展出",
+            "感知影響",
+            "渾沌反叛軍",
+            "精神影響",
+            "翻譯",
+            "視覺性",
+            "認知危害",
+            "音訊"
         ]
     }
 ]

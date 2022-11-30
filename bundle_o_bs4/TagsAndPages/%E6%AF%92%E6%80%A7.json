@@ -25,7 +25,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-137",
+        "TITLE": "SCP-ZH-137 - 墨玉鎖妖大印",
         "FULLNAME": "scp-zh-137",
         "RATING": 6,
         "COMMENTS": "0",
@@ -66,9 +66,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-426",
+        "TITLE": "SCP-ZH-426 - 花園中的蛇是絕不低頭的",
         "FULLNAME": "scp-zh-426",
-        "RATING": 16,
+        "RATING": 15,
         "COMMENTS": "17",
         "TAGS": [
             "safe",
@@ -95,9 +95,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-088",
+        "TITLE": "SCP-ZH-088 - 只有男子漢可以進入的門",
         "FULLNAME": "scp-zh-088",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "1",
         "TAGS": [
             "euclid",
@@ -135,6 +135,27 @@
             "磁性",
             "觀察影響",
             "超維度"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-328 - Dark Soups",
+        "FULLNAME": "scp-zh-328",
+        "RATING": 20,
+        "COMMENTS": "3",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "bales博士",
+            "safe",
+            "scp",
+            "site-zh-16",
+            "原創",
+            "基金會製造",
+            "敵意",
+            "毒性",
+            "睡眠",
+            "遊戲",
+            "食物",
+            "魚類"
         ]
     }
 ]

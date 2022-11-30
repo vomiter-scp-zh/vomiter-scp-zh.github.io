@@ -23,7 +23,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-407",
+        "TITLE": "SCP-ZH-407 - 仿生金屬",
         "FULLNAME": "scp-zh-407",
         "RATING": 3,
         "COMMENTS": "1",
@@ -57,7 +57,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-800",
+        "TITLE": "SCP-ZH-800 - 雷暴",
         "FULLNAME": "scp-zh-800",
         "RATING": 8,
         "COMMENTS": "3",
@@ -75,7 +75,7 @@
     {
         "TITLE": "SCP-ZH-298 - 天空鯨",
         "FULLNAME": "scp-zh-298",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "keter",
@@ -86,6 +86,22 @@
             "無定形",
             "空中",
             "鯨類"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-244 - 我回來了",
+        "FULLNAME": "scp-zh-244",
+        "RATING": 16,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022萬聖事件",
+            "euclid",
+            "scp",
+            "人形",
+            "原創",
+            "敵意",
+            "未收容",
+            "無定形"
         ]
     }
 ]

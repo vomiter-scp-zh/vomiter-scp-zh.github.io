@@ -162,7 +162,7 @@
     {
         "TITLE": "沙皇先知協會中心頁",
         "FULLNAME": "tsars-hub",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "0",
         "TAGS": [
             "中心",
@@ -174,7 +174,7 @@
     {
         "TITLE": "安保設施檔案：Site-ZH-31",
         "FULLNAME": "site-zh-31",
-        "RATING": 8,
+        "RATING": 9,
         "COMMENTS": "0",
         "TAGS": [
             "site-zh-31",
@@ -245,7 +245,7 @@
     {
         "TITLE": "「三垣」中心頁",
         "FULLNAME": "three-enclosures-hub",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "0",
         "TAGS": [
             "三垣",
@@ -269,7 +269,7 @@
     {
         "TITLE": "繁中站點地下街",
         "FULLNAME": "shopping-arcade",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "3",
         "TAGS": [
             "三垣",
@@ -338,7 +338,7 @@
     {
         "TITLE": "雙城作戰中心頁",
         "FULLNAME": "operation-twin-cities-hub",
-        "RATING": 8,
+        "RATING": 9,
         "COMMENTS": "1",
         "TAGS": [
             "中心",
@@ -420,7 +420,7 @@
     {
         "TITLE": "中華民國國家安全局第八處 中心頁",
         "FULLNAME": "nsb8-hub",
-        "RATING": 14,
+        "RATING": 17,
         "COMMENTS": "3",
         "TAGS": [
             "中心",
@@ -563,12 +563,60 @@
     {
         "TITLE": "《癌又蝟鴨：紅藍爭霸戰》",
         "FULLNAME": "honglam-battle",
-        "RATING": 9,
-        "COMMENTS": "3",
+        "RATING": 12,
+        "COMMENTS": "8",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "中心",
+            "原創",
+            "競賽"
+        ]
+    },
+    {
+        "TITLE": "《缺氧？準備轉世！》競賽頁",
+        "FULLNAME": "reincarnation-by-suffocation",
+        "RATING": 6,
+        "COMMENTS": "1",
         "TAGS": [
             "中心",
             "原創",
             "競賽"
+        ]
+    },
+    {
+        "TITLE": "擲鈴手生創 中心頁",
+        "FULLNAME": "bell-tosser",
+        "RATING": 6,
+        "COMMENTS": "1",
+        "TAGS": [
+            "中心",
+            "原創"
+        ]
+    },
+    {
+        "TITLE": "2022萬聖事件",
+        "FULLNAME": "halloween-event-2022",
+        "RATING": 4,
+        "COMMENTS": "4",
+        "TAGS": [
+            "2022萬聖事件",
+            "中心",
+            "原創",
+            "挑戰活動"
+        ]
+    },
+    {
+        "TITLE": "酣夜櫻華 中心頁",
+        "FULLNAME": "site-zh-16-4th-staff-restaurant-hub",
+        "RATING": 6,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022萬聖事件",
+            "site-zh-16",
+            "中心",
+            "原創",
+            "合著",
+            "故事"
         ]
     }
 ]

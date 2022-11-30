@@ -128,7 +128,7 @@
     {
         "TITLE": "沙皇先知協會中心頁",
         "FULLNAME": "tsars-hub",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "0",
         "TAGS": [
             "中心",
@@ -168,7 +168,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-264",
+        "TITLE": "SCP-ZH-264 - 砵甸乍防線",
         "FULLNAME": "scp-zh-264",
         "RATING": 9,
         "COMMENTS": "2",
@@ -252,17 +252,19 @@
         "COMMENTS": "0",
         "TAGS": [
             "2020夏季競賽",
+            "damien-nowak",
             "goi格式",
             "ijamea",
             "mc&d",
             "nobody",
             "原創",
+            "待更新",
             "新茶嶺",
             "格魯烏-p部門"
         ]
     },
     {
-        "TITLE": "SCP-ZH-061",
+        "TITLE": "SCP-ZH-061 - 本車開往博覽會",
         "FULLNAME": "scp-zh-061",
         "RATING": 13,
         "COMMENTS": "0",
@@ -281,7 +283,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-046",
+        "TITLE": "SCP-ZH-046 - 巡山靈",
         "FULLNAME": "scp-zh-046",
         "RATING": 18,
         "COMMENTS": "2",
@@ -328,7 +330,7 @@
     {
         "TITLE": "那些被當成藥物宰來吃的人們",
         "FULLNAME": "sh-cannibalism-in-taiwan",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "5",
         "TAGS": [
             "goi格式",
@@ -342,7 +344,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-500",
+        "TITLE": "SCP-ZH-500 - 護城界門",
         "FULLNAME": "scp-zh-500",
         "RATING": 8,
         "COMMENTS": "0",
@@ -392,7 +394,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-079",
+        "TITLE": "SCP-ZH-079 - 目標，親王，擊發",
         "FULLNAME": "scp-zh-079",
         "RATING": 12,
         "COMMENTS": "1",

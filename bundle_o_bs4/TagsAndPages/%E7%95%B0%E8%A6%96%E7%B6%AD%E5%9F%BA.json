@@ -111,7 +111,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-031",
+        "TITLE": "SCP-ZH-031 - 紅油黴菌",
         "FULLNAME": "scp-zh-031",
         "RATING": 7,
         "COMMENTS": "0",
@@ -131,8 +131,8 @@
     {
         "TITLE": "中國國安部，不應存在的十九局",
         "FULLNAME": "19th-bureau-of-mss-of-china",
-        "RATING": 20,
-        "COMMENTS": "16",
+        "RATING": 19,
+        "COMMENTS": "17",
         "TAGS": [
             "2020夏季競賽",
             "2020攀爬金字塔",
@@ -266,6 +266,48 @@
             "原創",
             "故事",
             "異視維基"
+        ]
+    },
+    {
+        "TITLE": "但願我不再好命",
+        "FULLNAME": "toogoodtobetrue",
+        "RATING": 19,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "原創",
+            "異視維基"
+        ]
+    },
+    {
+        "TITLE": "第六個石像",
+        "FULLNAME": "sixth-stone-statue",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "creepypasta",
+            "原創",
+            "故事",
+            "異視維基"
+        ]
+    },
+    {
+        "TITLE": "酒單：威士忌",
+        "FULLNAME": "whiskey",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "site-zh-16",
+            "全球超自然聯盟",
+            "原創",
+            "叁月協會",
+            "威爾遜生物應對組",
+            "安布羅斯餐廳",
+            "故事",
+            "沙皇先知協會",
+            "異視維基",
+            "第八處",
+            "阿卡迪亞"
         ]
     }
 ]

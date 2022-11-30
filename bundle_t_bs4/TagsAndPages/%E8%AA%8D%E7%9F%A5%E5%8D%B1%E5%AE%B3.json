@@ -329,7 +329,7 @@
     {
         "TITLE": "SCP-096 - 羞澀的人",
         "FULLNAME": "scp-096",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "0",
         "TAGS": [
             "dan博士",
@@ -813,7 +813,7 @@
     {
         "TITLE": "SCP-1425 - 星星信號",
         "FULLNAME": "scp-1425",
-        "RATING": 4,
+        "RATING": 3,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1060,7 +1060,7 @@
     {
         "TITLE": "SCP-4182 - Site-5不存在",
         "FULLNAME": "scp-4182",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1377,9 +1377,9 @@
             "en-6000",
             "gears博士",
             "scp",
+            "待分級",
             "植物",
             "樹木",
-            "機密分級",
             "熵",
             "知識",
             "翻譯",
@@ -1953,7 +1953,7 @@
     {
         "TITLE": "SCP-7001 - Site-19",
         "FULLNAME": "scp-7001",
-        "RATING": 6,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "asheworth博士",
@@ -1982,7 +1982,7 @@
     {
         "TITLE": "SCP-4335 - 坩堝中的宇宙",
         "FULLNAME": "scp-4335",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -2004,7 +2004,7 @@
     {
         "TITLE": "Daveyoufool的提案",
         "FULLNAME": "daveyoufool-proposal",
-        "RATING": 1,
+        "RATING": 2,
         "COMMENTS": "0",
         "TAGS": [
             "001提案",
@@ -2022,7 +2022,7 @@
     {
         "TITLE": "SCP-6765 - 惡魔奧吉爾與瑪利德拉格血之王座",
         "FULLNAME": "scp-6765",
-        "RATING": 8,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -2050,6 +2050,122 @@
             "記憶影響",
             "認知危害",
             "銘文"
+        ]
+    },
+    {
+        "TITLE": "SCP-884 - 修容鏡",
+        "FULLNAME": "scp-884",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "lament特工",
+            "scp",
+            "人造物品",
+            "展出",
+            "感知影響",
+            "渾沌反叛軍",
+            "精神影響",
+            "翻譯",
+            "視覺性",
+            "認知危害",
+            "音訊"
+        ]
+    },
+    {
+        "TITLE": "SCP-4098 - S-C-P，視詞篇順暢排19-3-16",
+        "FULLNAME": "scp-4098",
+        "RATING": 10,
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "scp",
+            "thaumiel",
+            "合著",
+            "基金會製造",
+            "建築物",
+            "模因效應",
+            "翻譯",
+            "視覺性",
+            "認知危害",
+            "誤傳部",
+            "資訊危害"
+        ]
+    },
+    {
+        "TITLE": "SCP-1333-J!",
+        "FULLNAME": "scp-1333-j",
+        "RATING": 2,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "meta",
+            "scp",
+            "人形",
+            "儀式性",
+            "搞笑",
+            "機密分級",
+            "翻譯",
+            "聲音",
+            "聽覺影響",
+            "認知危害"
+        ]
+    },
+    {
+        "TITLE": "SCP-146 - 羞恥的青銅首",
+        "FULLNAME": "scp-146",
+        "RATING": 1,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "精神影響",
+            "翻譯",
+            "記憶影響",
+            "認知危害",
+            "雕塑"
+        ]
+    },
+    {
+        "TITLE": "SCP-2805 - 冰上迪士尼",
+        "FULLNAME": "scp-2805",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "人形",
+            "夢神",
+            "幻覺",
+            "歷史性",
+            "生物性",
+            "精神影響",
+            "翻譯",
+            "視覺性",
+            "認知危害"
+        ]
+    },
+    {
+        "TITLE": "SCP-7510 - 牆裡沒有任何東西。",
+        "FULLNAME": "scp-7510",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "meta",
+            "scp",
+            "地點",
+            "宗教",
+            "寄生性",
+            "概念",
+            "機密分級",
+            "生物性",
+            "翻譯",
+            "認知危害",
+            "資訊危害"
         ]
     }
 ]

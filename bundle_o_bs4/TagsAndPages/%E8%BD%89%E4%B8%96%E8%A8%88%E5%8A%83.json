@@ -5,7 +5,7 @@
     {
         "TITLE": "「轉世計劃」",
         "FULLNAME": "project-reincarnation",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "1",
         "TAGS": [
             "原創",
@@ -61,7 +61,7 @@
     {
         "TITLE": "資本主義、來襲",
         "FULLNAME": "capitalism-attack",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "3",
         "TAGS": [
             "原創",
@@ -109,10 +109,11 @@
     {
         "TITLE": "方針核許異聞零零零貳－水畔公國",
         "FULLNAME": "zh-bt-strange-news-0002",
-        "RATING": -1,
-        "COMMENTS": "0",
+        "RATING": -3,
+        "COMMENTS": "1",
         "TAGS": [
             "原創",
+            "待刪除",
             "拋鈴人",
             "故事",
             "轉世計劃"
@@ -169,7 +170,7 @@
     {
         "TITLE": "《沈溺在名為下層敘事的星點寒雨》—— 或許你無法愛上你所創造的我，那也請你不要討厭這個世界，好嗎？",
         "FULLNAME": "in-the-cold-and-rain-the-love-story",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "0",
         "TAGS": [
             "原創",
@@ -325,6 +326,59 @@
         "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
+            "原創",
+            "藝術作品",
+            "轉世計劃"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-993 - 無知則自由",
+        "FULLNAME": "scp-zh-993",
+        "RATING": 25,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "meta",
+            "scp",
+            "人形",
+            "原創",
+            "基金會製造",
+            "容器",
+            "復活",
+            "感知力",
+            "放射性",
+            "無效化",
+            "生物性",
+            "知識",
+            "記錄",
+            "轉世計劃"
+        ]
+    },
+    {
+        "TITLE": "執左道者的自我政變",
+        "FULLNAME": "self-coup-of-the-knavish",
+        "RATING": 17,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "metha博士",
+            "原創",
+            "地下街",
+            "成人內容",
+            "故事",
+            "物理少年",
+            "研究員knave",
+            "航海學",
+            "轉世計劃"
+        ]
+    },
+    {
+        "TITLE": "你的心又屬於誰？",
+        "FULLNAME": "who-does-your-heart-belong-to",
+        "RATING": 14,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022萬聖事件",
             "原創",
             "藝術作品",
             "轉世計劃"

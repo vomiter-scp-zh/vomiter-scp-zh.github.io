@@ -2,7 +2,7 @@
     {
         "TITLE": "SCP-ZH-105 - 不孝子",
         "FULLNAME": "scp-zh-105",
-        "RATING": 65,
+        "RATING": 66,
         "COMMENTS": "5",
         "TAGS": [
             "euclid",
@@ -31,7 +31,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-171",
+        "TITLE": "SCP-ZH-171 - 惡之心牆",
         "FULLNAME": "scp-zh-171",
         "RATING": 8,
         "COMMENTS": "1",
@@ -42,7 +42,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-324",
+        "TITLE": "SCP-ZH-324 - 幽冥鬼將",
         "FULLNAME": "scp-zh-324",
         "RATING": 5,
         "COMMENTS": "0",
@@ -124,7 +124,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-526",
+        "TITLE": "SCP-ZH-526 - 我就是一台烤土司機",
         "FULLNAME": "scp-zh-526",
         "RATING": 19,
         "COMMENTS": "1",
@@ -151,7 +151,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-140",
+        "TITLE": "SCP-ZH-140 - 字義相悖",
         "FULLNAME": "scp-zh-140",
         "RATING": 20,
         "COMMENTS": "7",
@@ -170,10 +170,11 @@
     {
         "TITLE": "方針核許異聞零零零貳－水畔公國",
         "FULLNAME": "zh-bt-strange-news-0002",
-        "RATING": -1,
-        "COMMENTS": "0",
+        "RATING": -3,
+        "COMMENTS": "1",
         "TAGS": [
             "原創",
+            "待刪除",
             "拋鈴人",
             "故事",
             "轉世計劃"

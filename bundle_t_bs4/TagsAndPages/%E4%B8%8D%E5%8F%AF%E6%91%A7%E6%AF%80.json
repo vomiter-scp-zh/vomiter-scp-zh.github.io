@@ -183,7 +183,7 @@
     {
         "TITLE": "SCP-458 - 無限披薩盒",
         "FULLNAME": "scp-458",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -405,7 +405,7 @@
     {
         "TITLE": "SC嗚喔喔啊啊啊啊啊啊啊啊-JP-J",
         "FULLNAME": "scpaaaaaaaaaaaaaaaaaa-jp-j",
-        "RATING": 25,
+        "RATING": 26,
         "COMMENTS": "1",
         "TAGS": [
             "jp",
@@ -439,7 +439,7 @@
     {
         "TITLE": "SCP-3396 - 至高天境寄生體",
         "FULLNAME": "scp-3396",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -642,7 +642,7 @@
     {
         "TITLE": "SCP-6630 - 彼方遙火",
         "FULLNAME": "scp-6630",
-        "RATING": 18,
+        "RATING": 19,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -659,7 +659,7 @@
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
         "FULLNAME": "scp-6820",
-        "RATING": 13,
+        "RATING": 14,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -749,7 +749,7 @@
     {
         "TITLE": "SCP-5417 - 歡迎回家",
         "FULLNAME": "scp-5417",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -779,7 +779,7 @@
     {
         "TITLE": "SCP-001",
         "FULLNAME": "scp-4380",
-        "RATING": 10,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -796,6 +796,78 @@
             "誤傳部",
             "資訊危害",
             "逆模因"
+        ]
+    },
+    {
+        "TITLE": "SCP-188-KO - 地球的心臟",
+        "FULLNAME": "scp-188-ko",
+        "RATING": 4,
+        "COMMENTS": "1",
+        "TAGS": [
+            "keter",
+            "ko",
+            "k級情景",
+            "scp",
+            "不可摧毀",
+            "二次翻譯",
+            "機械",
+            "結構物",
+            "翻譯",
+            "重力",
+            "金屬"
+        ]
+    },
+    {
+        "TITLE": "SCP-2932 - 緹坦妮雅之牢",
+        "FULLNAME": "scp-2932",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "scp",
+            "thaumiel",
+            "不可摧毀",
+            "地下",
+            "夜之子",
+            "植物",
+            "活物",
+            "結構物",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "qntm的提案",
+        "FULLNAME": "qntm-s-proposal",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "001提案",
+            "en",
+            "safe",
+            "scp",
+            "不可摧毀",
+            "放射性",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-1160 - 有效收容",
+        "FULLNAME": "scp-1160",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "不可摧毀",
+            "反熵",
+            "敵意",
+            "昆蟲",
+            "空中",
+            "翻譯",
+            "視覺性",
+            "觀察影響",
+            "鳥類"
         ]
     }
 ]

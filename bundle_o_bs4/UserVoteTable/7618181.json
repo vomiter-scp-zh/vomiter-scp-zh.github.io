@@ -1,6 +1,6 @@
 [
     {
-        "TITLE": "SCP-ZH-421",
+        "TITLE": "SCP-ZH-421 - 回朔錶",
         "FULLNAME": "scp-zh-421",
         "RATING": 6,
         "COMMENTS": "1",
@@ -12,7 +12,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-075",
+        "TITLE": "SCP-ZH-075 — —- … -… ..- .-. —…-.",
         "FULLNAME": "scp-zh-075",
         "RATING": 13,
         "COMMENTS": "0",
@@ -29,7 +29,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-591",
+        "TITLE": "SCP-ZH-591 - 血源之包",
         "FULLNAME": "scp-zh-591",
         "RATING": 12,
         "COMMENTS": "2",
@@ -46,9 +46,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-200",
+        "TITLE": "SCP-ZH-200 - 鬼抓人",
         "FULLNAME": "scp-zh-200",
-        "RATING": 34,
+        "RATING": 35,
         "COMMENTS": "1",
         "TAGS": [
             "keter",
@@ -63,9 +63,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-113",
+        "TITLE": "SCP-ZH-113 - 抹殺事情的真相",
         "FULLNAME": "scp-zh-113",
-        "RATING": 28,
+        "RATING": 30,
         "COMMENTS": "2",
         "TAGS": [
             "2020夏季競賽",
@@ -140,6 +140,34 @@
             "渾沌反叛軍",
             "線上",
             "非現實部"
+        ]
+    },
+    {
+        "TITLE": "Lostwhat的提案一",
+        "FULLNAME": "lostwhat-s-proposal",
+        "RATING": 37,
+        "COMMENTS": "2",
+        "TAGS": [
+            "001提案",
+            "2022紅藍爭霸賽",
+            "k級情景",
+            "scp",
+            "site-zh-01",
+            "三垣",
+            "原創",
+            "機密分級"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-190 - 心靈網路",
+        "FULLNAME": "scp-zh-190",
+        "RATING": 15,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "scp",
+            "原創",
+            "機密分級"
         ]
     }
 ]

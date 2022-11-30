@@ -59,7 +59,7 @@
     {
         "TITLE": "SCP-4999 - 守望我等之人",
         "FULLNAME": "scp-4999",
-        "RATING": 13,
+        "RATING": 14,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -111,7 +111,7 @@
     {
         "TITLE": "SCP-011-J",
         "FULLNAME": "scp-011-j",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -529,7 +529,7 @@
     {
         "TITLE": "SCP-4335 - 坩堝中的宇宙",
         "FULLNAME": "scp-4335",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -546,6 +546,66 @@
             "觀察影響",
             "認知危害",
             "遊戲"
+        ]
+    },
+    {
+        "TITLE": "SCP-5729 - 棚屋鬼魂",
+        "FULLNAME": "scp-5729",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "blank博士",
+            "en",
+            "scp",
+            "人形",
+            "保衛43",
+            "機密分級",
+            "無形",
+            "翻譯",
+            "觀察影響",
+            "鹿類"
+        ]
+    },
+    {
+        "TITLE": "SCP-5371-雕像--鼻祖",
+        "FULLNAME": "scp-5371",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "人形",
+            "共感",
+            "反常部",
+            "塑像173",
+            "屍體",
+            "翻譯",
+            "自主",
+            "觀察影響",
+            "銘文",
+            "雕塑",
+            "骨骼"
+        ]
+    },
+    {
+        "TITLE": "SCP-1160 - 有效收容",
+        "FULLNAME": "scp-1160",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "不可摧毀",
+            "反熵",
+            "敵意",
+            "昆蟲",
+            "空中",
+            "翻譯",
+            "視覺性",
+            "觀察影響",
+            "鳥類"
         ]
     }
 ]

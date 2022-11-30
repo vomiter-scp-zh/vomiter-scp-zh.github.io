@@ -5,7 +5,7 @@
     {
         "TITLE": "收容室ZH-S12-E-024實驗紀錄",
         "FULLNAME": "scp-zh-024",
-        "RATING": 33,
+        "RATING": 34,
         "COMMENTS": "0",
         "TAGS": [
             "euclid",
@@ -21,7 +21,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-220",
+        "TITLE": "SCP-ZH-220 - H.K.永遠的家",
         "FULLNAME": "scp-zh-220",
         "RATING": 20,
         "COMMENTS": "0",
@@ -79,16 +79,16 @@
     {
         "TITLE": "SCP-ZH-318 - 認同癖",
         "FULLNAME": "scp-zh-318",
-        "RATING": 1,
+        "RATING": 0,
         "COMMENTS": "10",
         "TAGS": [
             "2022夏季競賽",
             "keter",
             "scp",
-            "人型",
+            "人形",
             "原創",
             "敘述性",
-            "死滅兄弟",
+            "死滅弟兄",
             "誤傳部"
         ]
     }

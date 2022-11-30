@@ -3,7 +3,7 @@
         "TAGNAME": "awcy"
     },
     {
-        "TITLE": "SCP-ZH-655",
+        "TITLE": "SCP-ZH-655 - 永遠的六點五十五分",
         "FULLNAME": "scp-zh-655",
         "RATING": 8,
         "COMMENTS": "1",
@@ -18,7 +18,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-431",
+        "TITLE": "SCP-ZH-431 - 固有顏料",
         "FULLNAME": "scp-zh-431",
         "RATING": 4,
         "COMMENTS": "1",
@@ -31,7 +31,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-118",
+        "TITLE": "SCP-ZH-118 - 荒謬的和平鴿",
         "FULLNAME": "scp-zh-118",
         "RATING": 6,
         "COMMENTS": "3",
@@ -47,7 +47,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-886",
+        "TITLE": "SCP-ZH-886 - 那些足跡",
         "FULLNAME": "scp-zh-886",
         "RATING": 13,
         "COMMENTS": "0",
@@ -153,7 +153,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-032",
+        "TITLE": "SCP-ZH-032 - 有毒的橡皮擦",
         "FULLNAME": "scp-zh-032",
         "RATING": 21,
         "COMMENTS": "0",
@@ -177,7 +177,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-038",
+        "TITLE": "SCP-ZH-038 - 無臉模特",
         "FULLNAME": "scp-zh-038",
         "RATING": 15,
         "COMMENTS": "0",
@@ -195,9 +195,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-829",
+        "TITLE": "SCP-ZH-829 - 無形干戈",
         "FULLNAME": "scp-zh-829",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "2",
         "TAGS": [
             "awcy",
@@ -215,7 +215,7 @@
     {
         "TITLE": "項目企劃書 2017-47：《健康的代價》",
         "FULLNAME": "project-proposal-2017-47-zh",
-        "RATING": 23,
+        "RATING": 24,
         "COMMENTS": "3",
         "TAGS": [
             "awcy",
@@ -292,6 +292,19 @@
             "通訊",
             "電子",
             "電腦"
+        ]
+    },
+    {
+        "TITLE": "小動物檔案：布丹！",
+        "FULLNAME": "bhutan",
+        "RATING": 11,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "awcy",
+            "goi格式",
+            "原創",
+            "威爾遜生物應對組"
         ]
     }
 ]

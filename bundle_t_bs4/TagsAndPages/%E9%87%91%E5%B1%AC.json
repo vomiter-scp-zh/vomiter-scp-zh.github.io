@@ -533,7 +533,7 @@
     {
         "TITLE": "SCP-1451 - 沉沒之子的防禦圈",
         "FULLNAME": "scp-1451",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -820,7 +820,7 @@
     {
         "TITLE": "SCP-2481 - 弒殺金烏",
         "FULLNAME": "scp-2481",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -864,7 +864,7 @@
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
         "FULLNAME": "scp-6820",
-        "RATING": 13,
+        "RATING": 14,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -931,7 +931,7 @@
     {
         "TITLE": "SCP-6161 - 糕點刀",
         "FULLNAME": "scp-6161",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -948,7 +948,7 @@
     {
         "TITLE": "SCP-7328 - 外星人快逃",
         "FULLNAME": "scp-7328",
-        "RATING": 3,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -964,6 +964,62 @@
             "通訊",
             "金屬",
             "頭足類動物"
+        ]
+    },
+    {
+        "TITLE": "SCP-188-KO - 地球的心臟",
+        "FULLNAME": "scp-188-ko",
+        "RATING": 4,
+        "COMMENTS": "1",
+        "TAGS": [
+            "keter",
+            "ko",
+            "k級情景",
+            "scp",
+            "不可摧毀",
+            "二次翻譯",
+            "機械",
+            "結構物",
+            "翻譯",
+            "重力",
+            "金屬"
+        ]
+    },
+    {
+        "TITLE": "SCP-387-JP - 高速心臟起搏師．逆行金",
+        "FULLNAME": "scp-387-jp",
+        "RATING": 2,
+        "COMMENTS": "2",
+        "TAGS": [
+            "jp",
+            "keter",
+            "scp",
+            "人形",
+            "翻譯",
+            "衣物",
+            "超電救助隊",
+            "金屬",
+            "電力"
+        ]
+    },
+    {
+        "TITLE": "SCP-990-JP - 特裝急救師．分流紅",
+        "FULLNAME": "scp-990-jp",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "euclid",
+            "jp",
+            "jp-2周年goi競賽",
+            "scp",
+            "人形",
+            "翻譯",
+            "衣物",
+            "超電救助隊",
+            "軍事",
+            "醫學性",
+            "金屬",
+            "電力"
         ]
     }
 ]

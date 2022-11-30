@@ -3,9 +3,9 @@
         "TAGNAME": "ad博士"
     },
     {
-        "TITLE": "SCP-ZH-120",
+        "TITLE": "SCP-ZH-120 - 虛構的我們",
         "FULLNAME": "scp-zh-120",
-        "RATING": 39,
+        "RATING": 40,
         "COMMENTS": "4",
         "TAGS": [
             "2019回憶競賽",
@@ -208,7 +208,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-133",
+        "TITLE": "SCP-ZH-133 - 不會用脫水來騙人的好藥是的",
         "FULLNAME": "scp-zh-133",
         "RATING": 21,
         "COMMENTS": "7",
@@ -337,7 +337,7 @@
     {
         "TITLE": "Ctrl Z博士從週刊上剪下的四格漫畫",
         "FULLNAME": "comic",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "2",
         "TAGS": [
             "ad博士",
@@ -357,7 +357,6 @@
         "COMMENTS": "0",
         "TAGS": [
             "ad博士",
-            "cc",
             "kris博士",
             "原創",
             "研究員l.what",
@@ -512,7 +511,7 @@
     {
         "TITLE": "溫和的人，待在溫和的地方即可",
         "FULLNAME": "mild-people",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "1",
         "TAGS": [
             "2021夏季競賽",
@@ -543,8 +542,8 @@
     {
         "TITLE": "SCP-ZH-999-J - 工",
         "FULLNAME": "scp-zh-999-j",
-        "RATING": 5,
-        "COMMENTS": "18",
+        "RATING": 6,
+        "COMMENTS": "19",
         "TAGS": [
             "ad博士",
             "hanku博士",
@@ -576,7 +575,7 @@
     {
         "TITLE": "晚安12站",
         "FULLNAME": "adult:oyasumi-site-zh-12",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "1",
         "TAGS": [
             "ad博士",

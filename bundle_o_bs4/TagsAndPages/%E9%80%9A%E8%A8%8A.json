@@ -29,7 +29,7 @@
     {
         "TITLE": "SCP-ZH-057 - 暴躁小行星",
         "FULLNAME": "scp-zh-057",
-        "RATING": 18,
+        "RATING": 19,
         "COMMENTS": "4",
         "TAGS": [
             "scp",
@@ -46,7 +46,7 @@
     {
         "TITLE": "SCP-ZH-073 - 巡迴演出最終站",
         "FULLNAME": "scp-zh-073",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "1",
         "TAGS": [
             "scp",
@@ -95,6 +95,23 @@
             "通訊",
             "電子",
             "電腦"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-214 - 勿忘我",
+        "FULLNAME": "scp-zh-214",
+        "RATING": 8,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022萬聖事件",
+            "scp",
+            "人形",
+            "人造物品",
+            "原創",
+            "感知力",
+            "無效化",
+            "第八處",
+            "通訊"
         ]
     }
 ]

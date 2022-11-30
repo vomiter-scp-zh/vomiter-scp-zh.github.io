@@ -230,7 +230,7 @@
     {
         "TITLE": "SCP-024 - 亡命實境秀",
         "FULLNAME": "scp-024",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -408,7 +408,7 @@
     {
         "TITLE": "SCP-6939 - 我婆要我命- ★☆☆☆☆",
         "FULLNAME": "scp-6939",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -512,6 +512,59 @@
             "記錄",
             "遊戲",
             "電子"
+        ]
+    },
+    {
+        "TITLE": "SCP-4370 - 貓娘亦有情",
+        "FULLNAME": "scp-4370",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "scp",
+            "人形",
+            "媒體",
+            "復活",
+            "智能",
+            "機密分級",
+            "翻譯",
+            "自主",
+            "藝術性",
+            "貓類",
+            "電腦"
+        ]
+    },
+    {
+        "TITLE": "SCP-6552 - 潮汐.wav",
+        "FULLNAME": "scp-6552",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "媒體",
+            "翻譯",
+            "聲音",
+            "音頻"
+        ]
+    },
+    {
+        "TITLE": "SCP-1471 - MalO ver1.0.0",
+        "FULLNAME": "scp-1471",
+        "RATING": 8,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "人形",
+            "媒體",
+            "未收容",
+            "翻譯",
+            "視覺性",
+            "通訊",
+            "電腦"
         ]
     }
 ]

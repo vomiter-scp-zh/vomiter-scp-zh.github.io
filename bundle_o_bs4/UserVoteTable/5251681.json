@@ -1,6 +1,6 @@
 [
     {
-        "TITLE": "SCP-ZH-825",
+        "TITLE": "SCP-ZH-825 - 奇萊孤兒",
         "FULLNAME": "scp-zh-825",
         "RATING": 12,
         "COMMENTS": "0",
@@ -14,7 +14,7 @@
     {
         "TITLE": "挑戰傳統評分方式：關於自訂評分模版",
         "FULLNAME": "rating-against-traditions",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "0",
         "TAGS": [
             "原創",
@@ -35,9 +35,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-005",
+        "TITLE": "SCP-ZH-005 - 假如你沒有轉發這篇文檔給十個朋友，那麼…………",
         "FULLNAME": "scp-zh-005",
-        "RATING": 60,
+        "RATING": 61,
         "COMMENTS": "0",
         "TAGS": [
             "keter",
@@ -50,7 +50,7 @@
     {
         "TITLE": "SCP-ZH-105 - 不孝子",
         "FULLNAME": "scp-zh-105",
-        "RATING": 65,
+        "RATING": 66,
         "COMMENTS": "5",
         "TAGS": [
             "euclid",
@@ -88,7 +88,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-815",
+        "TITLE": "SCP-ZH-815 - 一家烤肉萬家香",
         "FULLNAME": "scp-zh-815",
         "RATING": 35,
         "COMMENTS": "8",
@@ -174,7 +174,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-025",
+        "TITLE": "SCP-ZH-025 - 雪花小貓咪",
         "FULLNAME": "scp-zh-025",
         "RATING": 16,
         "COMMENTS": "2",
@@ -337,7 +337,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-055",
+        "TITLE": "SCP-ZH-055 - 做你自己的主廚，隨時隨地開動吧！",
         "FULLNAME": "scp-zh-055",
         "RATING": 18,
         "COMMENTS": "3",
@@ -409,7 +409,7 @@
     {
         "TITLE": "我在萬物之中",
         "FULLNAME": "arkwork-3999",
-        "RATING": 37,
+        "RATING": 38,
         "COMMENTS": "8",
         "TAGS": [
             "原創",
@@ -461,7 +461,7 @@
     {
         "TITLE": "巧達Clef!",
         "FULLNAME": "arkwork-chowderclef",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "0",
         "TAGS": [
             "原創",
@@ -471,7 +471,7 @@
     {
         "TITLE": "繁中站點地下街",
         "FULLNAME": "shopping-arcade",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "3",
         "TAGS": [
             "三垣",
@@ -493,7 +493,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-015",
+        "TITLE": "SCP-ZH-015 - 七人八笑",
         "FULLNAME": "scp-zh-015",
         "RATING": 23,
         "COMMENTS": "0",
@@ -511,7 +511,7 @@
     {
         "TITLE": "我們尚未知道的旅程的終點-███/9288 km",
         "FULLNAME": "artwork-of-9288-ex",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "2",
         "TAGS": [
             "原創",
@@ -578,7 +578,7 @@
     {
         "TITLE": "矢尖",
         "FULLNAME": "arrowhead",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "aiad",
@@ -607,7 +607,7 @@
     {
         "TITLE": "月中秋，秋糜之餅不見欣喜",
         "FULLNAME": "not-a-mooncake",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "0",
         "TAGS": [
             "原創",
@@ -616,7 +616,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-163",
+        "TITLE": "SCP-ZH-163 - 廣寒幽閉",
         "FULLNAME": "scp-zh-163",
         "RATING": 13,
         "COMMENTS": "2",
@@ -635,8 +635,8 @@
     {
         "TITLE": "一般與異常探勘講座",
         "FULLNAME": "how-to-survive-in-the-wild",
-        "RATING": 18,
-        "COMMENTS": "2",
+        "RATING": 19,
+        "COMMENTS": "3",
         "TAGS": [
             "reverberate博士",
             "原創",
@@ -696,7 +696,7 @@
     {
         "TITLE": "花語：花毛茛",
         "FULLNAME": "ranunculus",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "3",
         "TAGS": [
             "site-zh-02",
@@ -709,7 +709,7 @@
     {
         "TITLE": "殺死一隻知更鳥。",
         "FULLNAME": "it-was-not-my-fault",
-        "RATING": 21,
+        "RATING": 22,
         "COMMENTS": "2",
         "TAGS": [
             "原創",
@@ -863,10 +863,11 @@
     {
         "TITLE": "表層變動",
         "FULLNAME": "one-of-the-secrets",
-        "RATING": 16,
+        "RATING": 18,
         "COMMENTS": "2",
         "TAGS": [
             "ain博士",
+            "maddy",
             "site-zh-44",
             "原創",
             "展出",
@@ -897,7 +898,7 @@
     {
         "TITLE": "SCP-ZH-2005-EX",
         "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 56,
+        "RATING": 58,
         "COMMENTS": "1",
         "TAGS": [
             "2021冬季競賽",
@@ -989,7 +990,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-235",
+        "TITLE": "SCP-ZH-235 - 會飛的小黃書",
         "FULLNAME": "adult:scp-zh-235",
         "RATING": 21,
         "COMMENTS": "10",
@@ -1008,7 +1009,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-240",
+        "TITLE": "SCP-ZH-240 - 明燈",
         "FULLNAME": "scp-zh-240",
         "RATING": 11,
         "COMMENTS": "1",
@@ -1039,7 +1040,7 @@
     {
         "TITLE": "2010年的那幾個實習生",
         "FULLNAME": "source-of-chaos",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "0",
         "TAGS": [
             "ain博士",
@@ -1168,7 +1169,7 @@
     {
         "TITLE": "你會感到後悔嗎？",
         "FULLNAME": "what-are-you-waiting-for-just-join-goc-dude",
-        "RATING": 35,
+        "RATING": 36,
         "COMMENTS": "5",
         "TAGS": [
             "全球超自然聯盟",
@@ -1181,7 +1182,7 @@
     {
         "TITLE": "SCP-ZH-496 - 安全極限距離",
         "FULLNAME": "scp-zh-496",
-        "RATING": 29,
+        "RATING": 30,
         "COMMENTS": "7",
         "TAGS": [
             "scp",
@@ -1234,7 +1235,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-066",
+        "TITLE": "SCP-ZH-066 - 有借有還",
         "FULLNAME": "scp-zh-066",
         "RATING": 11,
         "COMMENTS": "5",
@@ -1257,7 +1258,7 @@
     {
         "TITLE": "後現代基金會同人戀愛向輕小說",
         "FULLNAME": "k1s10r0d-april-fool-project-2021",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "5",
         "TAGS": [
             "kris博士",
@@ -1328,7 +1329,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-093",
+        "TITLE": "SCP-ZH-093 - 藝術就是……",
         "FULLNAME": "scp-zh-093",
         "RATING": 11,
         "COMMENTS": "1",
@@ -1383,9 +1384,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-880",
+        "TITLE": "SCP-ZH-880 - 阿嬤覺得你冷",
         "FULLNAME": "scp-zh-880",
-        "RATING": 29,
+        "RATING": 30,
         "COMMENTS": "2",
         "TAGS": [
             "euclid",
@@ -1427,7 +1428,7 @@
     {
         "TITLE": "鎖鏈的音竹",
         "FULLNAME": "k1s10r0d-chain-sugoi",
-        "RATING": 28,
+        "RATING": 29,
         "COMMENTS": "6",
         "TAGS": [
             "sugoi博士",
@@ -1447,7 +1448,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-946",
+        "TITLE": "SCP-ZH-946 - 黑兔大戰爭🐇",
         "FULLNAME": "scp-zh-946",
         "RATING": 27,
         "COMMENTS": "13",
@@ -1528,7 +1529,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-416",
+        "TITLE": "SCP-ZH-416 - 《身為阿宅的我使用動漫梗拯救異世界也是大丈夫だ、問題ない的啦》",
         "FULLNAME": "scp-zh-416",
         "RATING": 10,
         "COMMENTS": "0",
@@ -1546,7 +1547,7 @@
     {
         "TITLE": "好餓好餓的克里斯博士",
         "FULLNAME": "the-very-hungry-dr-kris",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "2",
         "TAGS": [
             "ctrl-z博士",
@@ -1559,7 +1560,7 @@
     {
         "TITLE": "SCP-V1L3-J實驗產物備份 燃燒卡路里",
         "FULLNAME": "adult:v1l3-j-burning-calories",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "ctrl-z博士",
@@ -1657,7 +1658,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-231",
+        "TITLE": "SCP-ZH-231 - 黑暗卡西",
         "FULLNAME": "scp-zh-231",
         "RATING": 9,
         "COMMENTS": "9",
@@ -1690,7 +1691,7 @@
     {
         "TITLE": "SCP-V1L3-J實驗產物附圖備份",
         "FULLNAME": "adult:k1s10r0d-art-of-v1l3-j-burning-calories",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "ctrl-z博士",
@@ -1789,7 +1790,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-032",
+        "TITLE": "SCP-ZH-032 - 有毒的橡皮擦",
         "FULLNAME": "scp-zh-032",
         "RATING": 21,
         "COMMENTS": "0",
@@ -1828,7 +1829,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-034",
+        "TITLE": "SCP-ZH-034 - 飛頭蠻",
         "FULLNAME": "scp-zh-034",
         "RATING": 23,
         "COMMENTS": "3",
@@ -1845,7 +1846,7 @@
     {
         "TITLE": "溫和的人，待在溫和的地方即可",
         "FULLNAME": "mild-people",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "1",
         "TAGS": [
             "2021夏季競賽",
@@ -1860,7 +1861,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-037",
+        "TITLE": "SCP-ZH-037 - 玳瑁之淚",
         "FULLNAME": "scp-zh-037",
         "RATING": 20,
         "COMMENTS": "0",
@@ -1972,7 +1973,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-339",
+        "TITLE": "SCP-ZH-339 - 避風港",
         "FULLNAME": "scp-zh-339",
         "RATING": 16,
         "COMMENTS": "6",
@@ -2037,7 +2038,7 @@
     {
         "TITLE": "異常項目紀錄：「防暴警察頭盔」",
         "FULLNAME": "anomalous-item-hk-police-helmet",
-        "RATING": 35,
+        "RATING": 37,
         "COMMENTS": "5",
         "TAGS": [
             "2021夏季競賽",
@@ -2048,7 +2049,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-128",
+        "TITLE": "SCP-ZH-128 - 此味並非惡魔之作",
         "FULLNAME": "scp-zh-128",
         "RATING": 20,
         "COMMENTS": "3",
@@ -2158,7 +2159,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-038",
+        "TITLE": "SCP-ZH-038 - 無臉模特",
         "FULLNAME": "scp-zh-038",
         "RATING": 15,
         "COMMENTS": "0",
@@ -2232,7 +2233,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-220",
+        "TITLE": "SCP-ZH-220 - H.K.永遠的家",
         "FULLNAME": "scp-zh-220",
         "RATING": 20,
         "COMMENTS": "0",
@@ -2267,7 +2268,7 @@
     {
         "TITLE": "What The Fuck",
         "FULLNAME": "what-the-fuck",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "3",
         "TAGS": [
             "2020攀爬金字塔",
@@ -2286,7 +2287,7 @@
     {
         "TITLE": "V1L3-J實驗產物副本 夜遊賭城指南",
         "FULLNAME": "adult:v1l3-j-how-to-spend-the-night-in-sin-city",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "3",
         "TAGS": [
             "2021夏季競賽",
@@ -2302,7 +2303,7 @@
     {
         "TITLE": "「轉世計劃」",
         "FULLNAME": "project-reincarnation",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "1",
         "TAGS": [
             "原創",
@@ -2408,7 +2409,7 @@
     {
         "TITLE": "資本主義、來襲",
         "FULLNAME": "capitalism-attack",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "3",
         "TAGS": [
             "原創",
@@ -2419,7 +2420,7 @@
     {
         "TITLE": "SCP-ZH-298 - 天空鯨",
         "FULLNAME": "scp-zh-298",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "keter",
@@ -2433,7 +2434,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-052",
+        "TITLE": "SCP-ZH-052 - 忘了我吧，但我不會忘記你們的",
         "FULLNAME": "scp-zh-052",
         "RATING": 18,
         "COMMENTS": "0",
@@ -2491,7 +2492,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-832",
+        "TITLE": "SCP-ZH-832 - 回溫",
         "FULLNAME": "scp-zh-832",
         "RATING": 10,
         "COMMENTS": "3",
@@ -2592,7 +2593,7 @@
     {
         "TITLE": "項目企劃書 2017-47：《健康的代價》",
         "FULLNAME": "project-proposal-2017-47-zh",
-        "RATING": 23,
+        "RATING": 24,
         "COMMENTS": "3",
         "TAGS": [
             "awcy",
@@ -2627,7 +2628,7 @@
     {
         "TITLE": "事故紀錄458-A",
         "FULLNAME": "what-the-fuck-is-this-pizza",
-        "RATING": 15,
+        "RATING": 16,
         "COMMENTS": "0",
         "TAGS": [
             "2021聖夜相守",
@@ -2652,7 +2653,7 @@
     {
         "TITLE": "藝術創作：聖誕節雪喵",
         "FULLNAME": "xmax-x",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "0",
         "TAGS": [
             "2021聖夜相守",
@@ -2687,7 +2688,7 @@
     {
         "TITLE": "繁中管理員筆記：2021年回顧",
         "FULLNAME": "note-for-u-guys-2021",
-        "RATING": 34,
+        "RATING": 35,
         "COMMENTS": "4",
         "TAGS": [
             "原創",
@@ -2737,7 +2738,7 @@
     {
         "TITLE": "《沈溺在名為下層敘事的星點寒雨》—— 或許你無法愛上你所創造的我，那也請你不要討厭這個世界，好嗎？",
         "FULLNAME": "in-the-cold-and-rain-the-love-story",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "0",
         "TAGS": [
             "原創",
@@ -3057,7 +3058,7 @@
     {
         "TITLE": "SCP-ZH-922 - 馬蘭姑娘",
         "FULLNAME": "scp-zh-922",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "1",
         "TAGS": [
             "euclid",
@@ -3200,7 +3201,7 @@
     {
         "TITLE": "晚安12站",
         "FULLNAME": "adult:oyasumi-site-zh-12",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "1",
         "TAGS": [
             "ad博士",
@@ -3292,7 +3293,7 @@
     {
         "TITLE": "SCP-ZH-132 - 要你命的007遊戲",
         "FULLNAME": "scp-zh-132",
-        "RATING": 14,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "scp",
@@ -3489,6 +3490,246 @@
             "洗衣部門",
             "物理少年",
             "研究員l.what"
+        ]
+    },
+    {
+        "TITLE": "Lostwhat的提案一",
+        "FULLNAME": "lostwhat-s-proposal",
+        "RATING": 37,
+        "COMMENTS": "2",
+        "TAGS": [
+            "001提案",
+            "2022紅藍爭霸賽",
+            "k級情景",
+            "scp",
+            "site-zh-01",
+            "三垣",
+            "原創",
+            "機密分級"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-176 - 《海鷗的大撤退》",
+        "FULLNAME": "scp-zh-176",
+        "RATING": 21,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "keter",
+            "meta",
+            "metha博士",
+            "scp",
+            "全球超自然聯盟",
+            "原創",
+            "基金會製造",
+            "敘述性",
+            "文獻",
+            "研究員knave",
+            "超形上學部"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-135 - 貓咪不和我玩",
+        "FULLNAME": "scp-zh-135",
+        "RATING": 22,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "euclid",
+            "scp",
+            "原創"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-767 - 黑旗接駁車",
+        "FULLNAME": "scp-zh-767",
+        "RATING": 15,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "scp",
+            "site-zh-16",
+            "原創",
+            "機密分級"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-993 - 無知則自由",
+        "FULLNAME": "scp-zh-993",
+        "RATING": 25,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "meta",
+            "scp",
+            "人形",
+            "原創",
+            "基金會製造",
+            "容器",
+            "復活",
+            "感知力",
+            "放射性",
+            "無效化",
+            "生物性",
+            "知識",
+            "記錄",
+            "轉世計劃"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-300-J - 我的襪襪🥺",
+        "FULLNAME": "scp-zh-300-j",
+        "RATING": 17,
+        "COMMENTS": "6",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "keter",
+            "meta",
+            "scp",
+            "site-zh-44",
+            "原創",
+            "成人內容",
+            "搞笑",
+            "衣物"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-712 - 超高速閱讀眼鏡",
+        "FULLNAME": "scp-zh-712",
+        "RATING": 15,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "safe",
+            "scp",
+            "site-zh-25",
+            "原創",
+            "工具",
+            "眼睛"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-646 - 午夜自畫",
+        "FULLNAME": "scp-zh-646",
+        "RATING": 15,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "euclid",
+            "scp",
+            "人造物品",
+            "傳染性",
+            "光照影響",
+            "原創",
+            "展出",
+            "強迫性",
+            "火",
+            "熱量影響",
+            "認知危害"
+        ]
+    },
+    {
+        "TITLE": "但願我不再好命",
+        "FULLNAME": "toogoodtobetrue",
+        "RATING": 19,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "原創",
+            "異視維基"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-911 - 你所捍衛的自由",
+        "FULLNAME": "scp-zh-911",
+        "RATING": 21,
+        "COMMENTS": "0",
+        "TAGS": [
+            "euclid",
+            "meta",
+            "scp",
+            "site-zh-50",
+            "原創",
+            "感知力",
+            "智能",
+            "本質促動",
+            "武器",
+            "異常移動",
+            "認知危害",
+            "資訊危害"
+        ]
+    },
+    {
+        "TITLE": "《缺氧？準備轉世！》競賽頁",
+        "FULLNAME": "reincarnation-by-suffocation",
+        "RATING": 6,
+        "COMMENTS": "1",
+        "TAGS": [
+            "中心",
+            "原創",
+            "競賽"
+        ]
+    },
+    {
+        "TITLE": "你的心又屬於誰？",
+        "FULLNAME": "who-does-your-heart-belong-to",
+        "RATING": 14,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022萬聖事件",
+            "原創",
+            "藝術作品",
+            "轉世計劃"
+        ]
+    },
+    {
+        "TITLE": "桂花和洋甘菊",
+        "FULLNAME": "tea-rain-halloween2022",
+        "RATING": 15,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022萬聖事件",
+            "原創",
+            "研究員lucifelle",
+            "藝術",
+            "藝術作品"
+        ]
+    },
+    {
+        "TITLE": "酒單：飛行",
+        "FULLNAME": "aviation",
+        "RATING": 12,
+        "COMMENTS": "1",
+        "TAGS": [
+            "site-zh-16",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-244 - 我回來了",
+        "FULLNAME": "scp-zh-244",
+        "RATING": 16,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022萬聖事件",
+            "euclid",
+            "scp",
+            "人形",
+            "原創",
+            "敵意",
+            "未收容",
+            "無定形"
+        ]
+    },
+    {
+        "TITLE": "我回來囉",
+        "FULLNAME": "i-m-home",
+        "RATING": 9,
+        "COMMENTS": "0",
+        "TAGS": [
+            "原創",
+            "藝術作品"
         ]
     }
 ]

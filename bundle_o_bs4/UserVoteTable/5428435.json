@@ -13,7 +13,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-089",
+        "TITLE": "SCP-ZH-089 - 不存在的ACG購物網",
         "FULLNAME": "scp-zh-089",
         "RATING": 14,
         "COMMENTS": "1",
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-009",
+        "TITLE": "SCP-ZH-009 - 臺式早點",
         "FULLNAME": "scp-zh-009",
         "RATING": 20,
         "COMMENTS": "3",
@@ -39,7 +39,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-020",
+        "TITLE": "SCP-ZH-020 - 百事可樂薯",
         "FULLNAME": "scp-zh-020",
         "RATING": 13,
         "COMMENTS": "5",
@@ -53,7 +53,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-511",
+        "TITLE": "SCP-ZH-511 - 期冀之鶴",
         "FULLNAME": "scp-zh-511",
         "RATING": 12,
         "COMMENTS": "1",
@@ -91,7 +91,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-006",
+        "TITLE": "SCP-ZH-006 - 真正意義上的爆米花",
         "FULLNAME": "scp-zh-006",
         "RATING": 11,
         "COMMENTS": "6",
@@ -111,7 +111,7 @@
     {
         "TITLE": "SCP-ZH-105 - 不孝子",
         "FULLNAME": "scp-zh-105",
-        "RATING": 65,
+        "RATING": 66,
         "COMMENTS": "5",
         "TAGS": [
             "euclid",
@@ -128,7 +128,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-125",
+        "TITLE": "SCP-ZH-125 - 博愛座",
         "FULLNAME": "scp-zh-125",
         "RATING": 22,
         "COMMENTS": "2",
@@ -172,7 +172,7 @@
     {
         "TITLE": "SCP-ZH-515 - 平安符",
         "FULLNAME": "scp-zh-515",
-        "RATING": 43,
+        "RATING": 44,
         "COMMENTS": "2",
         "TAGS": [
             "2019暑期比賽",
@@ -207,7 +207,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-080",
+        "TITLE": "SCP-ZH-080 - 痘痘龍",
         "FULLNAME": "scp-zh-080",
         "RATING": 10,
         "COMMENTS": "0",
@@ -303,7 +303,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-045",
+        "TITLE": "SCP-ZH-045 - 萬能胡椒",
         "FULLNAME": "scp-zh-045",
         "RATING": 19,
         "COMMENTS": "0",
@@ -380,7 +380,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-217",
+        "TITLE": "SCP-ZH-217 - 與過去相伴的稻草人",
         "FULLNAME": "scp-zh-217",
         "RATING": 10,
         "COMMENTS": "0",
@@ -477,9 +477,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-120",
+        "TITLE": "SCP-ZH-120 - 虛構的我們",
         "FULLNAME": "scp-zh-120",
-        "RATING": 39,
+        "RATING": 40,
         "COMMENTS": "4",
         "TAGS": [
             "2019回憶競賽",
@@ -544,7 +544,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-642",
+        "TITLE": "SCP-ZH-642 - 希望打火機",
         "FULLNAME": "scp-zh-642",
         "RATING": 14,
         "COMMENTS": "0",
@@ -619,7 +619,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-202",
+        "TITLE": "SCP-ZH-202 - 思想扭蛋機",
         "FULLNAME": "scp-zh-202",
         "RATING": 12,
         "COMMENTS": "1",
@@ -662,9 +662,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-101",
+        "TITLE": "SCP-ZH-101 - 一樹一世界",
         "FULLNAME": "scp-zh-101",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "1",
         "TAGS": [
             "keter",
@@ -676,7 +676,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-857",
+        "TITLE": "SCP-ZH-857 - dado的好喝到爆珍珠奶茶杯",
         "FULLNAME": "scp-zh-857",
         "RATING": 12,
         "COMMENTS": "11",
@@ -694,9 +694,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-053",
+        "TITLE": "SCP-ZH-053 - 讓我們擦乾你的淚水",
         "FULLNAME": "scp-zh-053",
-        "RATING": 29,
+        "RATING": 30,
         "COMMENTS": "0",
         "TAGS": [
             "2020虹光之間",
@@ -732,7 +732,7 @@
     {
         "TITLE": "藝術紀錄：死亡，永生-1",
         "FULLNAME": "art-for-death-eternal-life-1",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "1",
         "TAGS": [
             "原創",
@@ -740,7 +740,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-133",
+        "TITLE": "SCP-ZH-133 - 不會用脫水來騙人的好藥是的",
         "FULLNAME": "scp-zh-133",
         "RATING": 21,
         "COMMENTS": "7",
@@ -790,7 +790,7 @@
     {
         "TITLE": "SCP-ZH-717 - 課堂中請勿伸出附肢",
         "FULLNAME": "scp-zh-717",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "0",
         "TAGS": [
             "2020夏季競賽",
@@ -813,7 +813,7 @@
     {
         "TITLE": "SCP-ZH-451 - 反對者與蠕蟲",
         "FULLNAME": "scp-zh-451",
-        "RATING": 11,
+        "RATING": 10,
         "COMMENTS": "7",
         "TAGS": [
             "2020夏季競賽",
@@ -830,7 +830,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-015",
+        "TITLE": "SCP-ZH-015 - 七人八笑",
         "FULLNAME": "scp-zh-015",
         "RATING": 23,
         "COMMENTS": "0",
@@ -848,8 +848,8 @@
     {
         "TITLE": "中國國安部，不應存在的十九局",
         "FULLNAME": "19th-bureau-of-mss-of-china",
-        "RATING": 20,
-        "COMMENTS": "16",
+        "RATING": 19,
+        "COMMENTS": "17",
         "TAGS": [
             "2020夏季競賽",
             "2020攀爬金字塔",
@@ -864,9 +864,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-111",
+        "TITLE": "SCP-ZH-111 - 自我中心",
         "FULLNAME": "scp-zh-111",
-        "RATING": 34,
+        "RATING": 38,
         "COMMENTS": "0",
         "TAGS": [
             "keter",
@@ -889,7 +889,7 @@
     {
         "TITLE": "SCP-ZH-617 - 西方的勇者",
         "FULLNAME": "scp-zh-617",
-        "RATING": 13,
+        "RATING": 14,
         "COMMENTS": "8",
         "TAGS": [
             "euclid",
@@ -926,7 +926,7 @@
     {
         "TITLE": "收容室ZH-S12-E-024實驗紀錄",
         "FULLNAME": "scp-zh-024",
-        "RATING": 33,
+        "RATING": 34,
         "COMMENTS": "0",
         "TAGS": [
             "euclid",
@@ -955,9 +955,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-091",
+        "TITLE": "SCP-ZH-091 - 逃兵",
         "FULLNAME": "scp-zh-091",
-        "RATING": 19,
+        "RATING": 20,
         "COMMENTS": "3",
         "TAGS": [
             "2020攀爬金字塔",
@@ -1039,7 +1039,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-709",
+        "TITLE": "SCP-ZH-709 - 學音樂的小孩不會變壞",
         "FULLNAME": "scp-zh-709",
         "RATING": 9,
         "COMMENTS": "1",
@@ -1054,7 +1054,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-115",
+        "TITLE": "SCP-ZH-115 - 今天的天氣是俄羅斯方塊",
         "FULLNAME": "scp-zh-115",
         "RATING": 15,
         "COMMENTS": "4",
@@ -1069,7 +1069,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-037",
+        "TITLE": "SCP-ZH-037 - 玳瑁之淚",
         "FULLNAME": "scp-zh-037",
         "RATING": 20,
         "COMMENTS": "0",
@@ -1086,7 +1086,7 @@
     {
         "TITLE": "SCP-ZH-096 - 紅移破滅",
         "FULLNAME": "scp-zh-096",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "2",
         "TAGS": [
             "scp",
@@ -1108,7 +1108,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-243",
+        "TITLE": "SCP-ZH-243 - 楠梓百慕達",
         "FULLNAME": "scp-zh-243",
         "RATING": 18,
         "COMMENTS": "0",
@@ -1125,7 +1125,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-769",
+        "TITLE": "SCP-ZH-769 - 食物",
         "FULLNAME": "scp-zh-769",
         "RATING": 10,
         "COMMENTS": "2",
@@ -1141,7 +1141,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-054",
+        "TITLE": "SCP-ZH-054 - 香蕉，僅此而已",
         "FULLNAME": "scp-zh-054",
         "RATING": 7,
         "COMMENTS": "4",
@@ -1178,7 +1178,7 @@
     {
         "TITLE": "SCP-ZH-399 - 我們心中的444號視聽教室",
         "FULLNAME": "scp-zh-399",
-        "RATING": 31,
+        "RATING": 32,
         "COMMENTS": "0",
         "TAGS": [
             "2021聖夜相守",
@@ -1194,7 +1194,7 @@
     {
         "TITLE": "繁中管理員筆記：2021年回顧",
         "FULLNAME": "note-for-u-guys-2021",
-        "RATING": 34,
+        "RATING": 35,
         "COMMENTS": "4",
         "TAGS": [
             "原創",

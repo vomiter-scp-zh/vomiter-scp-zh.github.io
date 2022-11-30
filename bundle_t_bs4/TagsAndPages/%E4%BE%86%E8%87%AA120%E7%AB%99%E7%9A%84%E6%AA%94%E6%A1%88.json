@@ -34,8 +34,8 @@
     {
         "TITLE": "SCP-7999 - 來星星間找我",
         "FULLNAME": "scp-7999",
-        "RATING": 13,
-        "COMMENTS": "1",
+        "RATING": 18,
+        "COMMENTS": "2",
         "TAGS": [
             "asheworth博士",
             "en",
@@ -51,6 +51,20 @@
             "節肢動物",
             "翻譯",
             "門徑"
+        ]
+    },
+    {
+        "TITLE": "妖精雙子女王故事",
+        "FULLNAME": "a-faerie-tale-of-twin-queens",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "homo-sapiens-sidhe",
+            "來自120站的檔案",
+            "故事",
+            "無名",
+            "翻譯"
         ]
     }
 ]

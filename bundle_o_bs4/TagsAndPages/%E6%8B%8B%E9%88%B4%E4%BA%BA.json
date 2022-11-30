@@ -48,7 +48,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-097",
+        "TITLE": "SCP-ZH-097 - 組織格式",
         "FULLNAME": "scp-zh-097",
         "RATING": 14,
         "COMMENTS": "1",
@@ -234,7 +234,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-855",
+        "TITLE": "SCP-ZH-855 - 來團購最划算",
         "FULLNAME": "scp-zh-855",
         "RATING": 7,
         "COMMENTS": "4",
@@ -290,10 +290,11 @@
     {
         "TITLE": "方針核許異聞零零零貳－水畔公國",
         "FULLNAME": "zh-bt-strange-news-0002",
-        "RATING": -1,
-        "COMMENTS": "0",
+        "RATING": -3,
+        "COMMENTS": "1",
         "TAGS": [
             "原創",
+            "待刪除",
             "拋鈴人",
             "故事",
             "轉世計劃"

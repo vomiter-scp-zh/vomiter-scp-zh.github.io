@@ -1,6 +1,6 @@
 [
     {
-        "TITLE": "SCP-ZH-040",
+        "TITLE": "SCP-ZH-040 - 觀眾視角",
         "FULLNAME": "scp-zh-040",
         "RATING": 12,
         "COMMENTS": "1",
@@ -93,7 +93,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-416",
+        "TITLE": "SCP-ZH-416 - 《身為阿宅的我使用動漫梗拯救異世界也是大丈夫だ、問題ない的啦》",
         "FULLNAME": "scp-zh-416",
         "RATING": 10,
         "COMMENTS": "0",
@@ -111,7 +111,7 @@
     {
         "TITLE": "中華民國國家安全局第八處 中心頁",
         "FULLNAME": "nsb8-hub",
-        "RATING": 14,
+        "RATING": 17,
         "COMMENTS": "3",
         "TAGS": [
             "中心",
@@ -144,7 +144,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-776",
+        "TITLE": "SCP-ZH-776 - 暗黑暗黑暗黑之劍",
         "FULLNAME": "scp-zh-776",
         "RATING": 7,
         "COMMENTS": "6",
@@ -213,7 +213,7 @@
     {
         "TITLE": "SCP-ZH-912-J - 大忌",
         "FULLNAME": "scp-zh-912-j",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "6",
         "TAGS": [
             "2022夏季競賽",
@@ -226,7 +226,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-006",
+        "TITLE": "SCP-ZH-006 - 真正意義上的爆米花",
         "FULLNAME": "scp-zh-006",
         "RATING": 11,
         "COMMENTS": "6",
@@ -257,7 +257,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-289",
+        "TITLE": "SCP-ZH-289 - 17^2",
         "FULLNAME": "scp-zh-289",
         "RATING": 15,
         "COMMENTS": "4",
@@ -296,9 +296,10 @@
     {
         "TITLE": "《癌又蝟鴨：紅藍爭霸戰》",
         "FULLNAME": "honglam-battle",
-        "RATING": 9,
-        "COMMENTS": "3",
+        "RATING": 12,
+        "COMMENTS": "8",
         "TAGS": [
+            "2022紅藍爭霸賽",
             "中心",
             "原創",
             "競賽"
@@ -317,6 +318,110 @@
             "本質促動",
             "機密分級",
             "歷史性"
+        ]
+    },
+    {
+        "TITLE": "Lostwhat的提案一",
+        "FULLNAME": "lostwhat-s-proposal",
+        "RATING": 37,
+        "COMMENTS": "2",
+        "TAGS": [
+            "001提案",
+            "2022紅藍爭霸賽",
+            "k級情景",
+            "scp",
+            "site-zh-01",
+            "三垣",
+            "原創",
+            "機密分級"
+        ]
+    },
+    {
+        "TITLE": "夢境重唱",
+        "FULLNAME": "dream-duet",
+        "RATING": 10,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "原創",
+            "故事",
+            "物理少年"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-971 - 感恩seafood讚嘆seafood",
+        "FULLNAME": "scp-zh-971",
+        "RATING": 10,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "safe",
+            "scp",
+            "site-zh-13",
+            "原創",
+            "基金會製造",
+            "食物"
+        ]
+    },
+    {
+        "TITLE": "幻想抽離",
+        "FULLNAME": "get-out-of-the-dream",
+        "RATING": 3,
+        "COMMENTS": "3",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "原創",
+            "故事",
+            "物理少年"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-60053-J - HONK",
+        "FULLNAME": "scp-zh-60053-j",
+        "RATING": 45,
+        "COMMENTS": "7",
+        "TAGS": [
+            "scp",
+            "site-zh-01",
+            "三垣",
+            "動物",
+            "原創",
+            "搞笑",
+            "敵意",
+            "智能",
+            "機密分級",
+            "物種",
+            "超維度",
+            "鳥類"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-222-J",
+        "FULLNAME": "scp-zh-222-j",
+        "RATING": 27,
+        "COMMENTS": "0",
+        "TAGS": [
+            "scp",
+            "site-zh-02",
+            "原創",
+            "已解明",
+            "搞笑"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-244 - 我回來了",
+        "FULLNAME": "scp-zh-244",
+        "RATING": 16,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022萬聖事件",
+            "euclid",
+            "scp",
+            "人形",
+            "原創",
+            "敵意",
+            "未收容",
+            "無定形"
         ]
     }
 ]

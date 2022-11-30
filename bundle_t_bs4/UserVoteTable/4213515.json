@@ -60,7 +60,7 @@
     {
         "TITLE": "SPC-1057-J",
         "FULLNAME": "spc-1057-j",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -325,7 +325,7 @@
     {
         "TITLE": "SCP-2443 - 齊齊整整一家人",
         "FULLNAME": "scp-2443",
-        "RATING": 4,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -625,7 +625,7 @@
     {
         "TITLE": "回收到的媒體：呂墨菲的冷硬派冒險奇譚",
         "FULLNAME": "recovered-media-the-hard-boiled-adventures-of-murphy-law",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -952,7 +952,7 @@
     {
         "TITLE": "蛇說神幻經",
         "FULLNAME": "theology-of-a-snake",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -1155,7 +1155,7 @@
         "TITLE": "SCP-682 - 不滅孽蜥",
         "FULLNAME": "scp-682",
         "RATING": 24,
-        "COMMENTS": "1",
+        "COMMENTS": "2",
         "TAGS": [
             "en",
             "keter",
@@ -1308,7 +1308,7 @@
     {
         "TITLE": "異常的詩集",
         "FULLNAME": "scpoems",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "1",
         "TAGS": [
             "awcy",
@@ -2011,7 +2011,7 @@
     {
         "TITLE": "SCP-50-AE-J",
         "FULLNAME": "scp-50-ae-j",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -2077,7 +2077,7 @@
     {
         "TITLE": "一切為真",
         "FULLNAME": "this-is-the-real-life",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "2",
         "TAGS": [
             "bright博士",
@@ -2141,7 +2141,7 @@
     {
         "TITLE": "SCP-1833 - 班級76",
         "FULLNAME": "scp-1833",
-        "RATING": 2,
+        "RATING": 3,
         "COMMENTS": "0",
         "TAGS": [
             "1976年班",
@@ -2316,7 +2316,7 @@
     {
         "TITLE": "相嘯魔解密",
         "FULLNAME": "scpdeclassified-pattern-screamers-declassified",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "1",
         "TAGS": [
             "en",

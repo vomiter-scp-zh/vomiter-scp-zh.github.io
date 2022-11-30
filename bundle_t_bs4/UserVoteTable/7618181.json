@@ -46,7 +46,7 @@
     {
         "TITLE": "SCP-701 - 受絞之王的悲劇",
         "FULLNAME": "scp-701",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -197,7 +197,7 @@
     {
         "TITLE": "SCP-6781 - Site-7：遺產",
         "FULLNAME": "scp-6781",
-        "RATING": 8,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -229,7 +229,7 @@
     {
         "TITLE": "SCP-4666 - 聖誕老人",
         "FULLNAME": "scp-4666",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -286,7 +286,7 @@
     {
         "TITLE": "SCP-2317 - 前往彼界之門",
         "FULLNAME": "scp-2317",
-        "RATING": 11,
+        "RATING": 14,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -314,6 +314,36 @@
             "合著",
             "翻譯",
             "資源"
+        ]
+    },
+    {
+        "TITLE": "K級情景總表",
+        "FULLNAME": "k-class-complete-list",
+        "RATING": 10,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "合作",
+            "翻譯",
+            "資源"
+        ]
+    },
+    {
+        "TITLE": "SCP-3790 - 反常部",
+        "FULLNAME": "scp-3790",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "反常部",
+            "合著",
+            "地下",
+            "基金會製造",
+            "容器",
+            "建築物",
+            "翻譯"
         ]
     }
 ]

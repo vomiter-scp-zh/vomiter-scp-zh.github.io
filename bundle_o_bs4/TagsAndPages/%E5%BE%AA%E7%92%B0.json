@@ -20,7 +20,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-700",
+        "TITLE": "SCP-ZH-700 - 預言後依然難以避免",
         "FULLNAME": "scp-zh-700",
         "RATING": 11,
         "COMMENTS": "5",
@@ -38,7 +38,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-040",
+        "TITLE": "SCP-ZH-040 - 觀眾視角",
         "FULLNAME": "scp-zh-040",
         "RATING": 12,
         "COMMENTS": "1",
@@ -54,7 +54,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-061",
+        "TITLE": "SCP-ZH-061 - 本車開往博覽會",
         "FULLNAME": "scp-zh-061",
         "RATING": 13,
         "COMMENTS": "0",
@@ -109,7 +109,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-832",
+        "TITLE": "SCP-ZH-832 - 回溫",
         "FULLNAME": "scp-zh-832",
         "RATING": 10,
         "COMMENTS": "3",
@@ -206,6 +206,25 @@
             "機密分級",
             "歷史性",
             "超維度"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-181 - 永續的工業革命",
+        "FULLNAME": "scp-zh-181",
+        "RATING": 12,
+        "COMMENTS": "1",
+        "TAGS": [
+            "euclid",
+            "scp",
+            "zh999",
+            "原創",
+            "建築物",
+            "循環",
+            "時間影響",
+            "聲音",
+            "逆模因",
+            "都異部門",
+            "銘文"
         ]
     }
 ]

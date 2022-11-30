@@ -3,7 +3,7 @@
         "TAGNAME": "工具"
     },
     {
-        "TITLE": "SCP-ZH-047",
+        "TITLE": "SCP-ZH-047 - 你的所作所為",
         "FULLNAME": "scp-zh-047",
         "RATING": 12,
         "COMMENTS": "3",
@@ -18,7 +18,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-711",
+        "TITLE": "SCP-ZH-711 - 造句模擬器",
         "FULLNAME": "scp-zh-711",
         "RATING": 9,
         "COMMENTS": "1",
@@ -34,7 +34,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-591",
+        "TITLE": "SCP-ZH-591 - 血源之包",
         "FULLNAME": "scp-zh-591",
         "RATING": 12,
         "COMMENTS": "2",
@@ -51,7 +51,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-202",
+        "TITLE": "SCP-ZH-202 - 思想扭蛋機",
         "FULLNAME": "scp-zh-202",
         "RATING": 12,
         "COMMENTS": "1",
@@ -65,7 +65,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-445",
+        "TITLE": "SCP-ZH-445 - 手動填墨",
         "FULLNAME": "scp-zh-445",
         "RATING": 10,
         "COMMENTS": "0",
@@ -132,7 +132,7 @@
     {
         "TITLE": "SCP-ZH-824 - 最沉重的繪圖筆",
         "FULLNAME": "scp-zh-824",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "1",
         "TAGS": [
             "2022夏季競賽",
@@ -145,7 +145,23 @@
             "工具",
             "本質促動",
             "機密分級",
-            "無效化"
+            "無效化",
+            "研究員knave"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-712 - 超高速閱讀眼鏡",
+        "FULLNAME": "scp-zh-712",
+        "RATING": 15,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "safe",
+            "scp",
+            "site-zh-25",
+            "原創",
+            "工具",
+            "眼睛"
         ]
     }
 ]

@@ -25,7 +25,7 @@
     {
         "TITLE": "SCP-2911-JP - 美國最漫長的一天",
         "FULLNAME": "scp-2911-jp",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "2",
         "TAGS": [
             "1998年",
@@ -98,7 +98,7 @@
     {
         "TITLE": "SCP-4852 - Site-19南遷渡冬去！",
         "FULLNAME": "scp-4852",
-        "RATING": 9,
+        "RATING": 11,
         "COMMENTS": "1",
         "TAGS": [
             "aktus主任",
@@ -187,7 +187,7 @@
     {
         "TITLE": "SCP-3731 - 常態將受到保護",
         "FULLNAME": "scp-3731",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -398,7 +398,7 @@
     {
         "TITLE": "SCP-7001 - Site-19",
         "FULLNAME": "scp-7001",
-        "RATING": 6,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "asheworth博士",
@@ -422,6 +422,27 @@
             "翻譯",
             "記憶影響",
             "認知危害"
+        ]
+    },
+    {
+        "TITLE": "危險迎面而來",
+        "FULLNAME": "in-harm-s-way",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "bowe上將",
+            "bright博士",
+            "en",
+            "gillespie主任",
+            "iris-thompson",
+            "kain-pathos-crow",
+            "light博士",
+            "moose主任",
+            "roget博士",
+            "復生",
+            "故事",
+            "翻譯",
+            "該隱"
         ]
     }
 ]

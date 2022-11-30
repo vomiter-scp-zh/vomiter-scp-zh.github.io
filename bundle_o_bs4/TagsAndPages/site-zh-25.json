@@ -3,7 +3,7 @@
         "TAGNAME": "site-zh-25"
     },
     {
-        "TITLE": "SCP-ZH-253",
+        "TITLE": "SCP-ZH-253 - 我的滑鼠社會起來了！",
         "FULLNAME": "scp-zh-253",
         "RATING": 12,
         "COMMENTS": "0",
@@ -16,7 +16,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-017",
+        "TITLE": "SCP-ZH-017 - 永衡國入境申請表",
         "FULLNAME": "scp-zh-017",
         "RATING": 19,
         "COMMENTS": "1",
@@ -31,9 +31,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-629",
+        "TITLE": "SCP-ZH-629 - 回聲杯",
         "FULLNAME": "scp-zh-629",
-        "RATING": 5,
+        "RATING": 4,
         "COMMENTS": "1",
         "TAGS": [
             "safe",
@@ -88,7 +88,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-888",
+        "TITLE": "SCP-ZH-888 - 霾",
         "FULLNAME": "scp-zh-888",
         "RATING": 19,
         "COMMENTS": "1",
@@ -108,7 +108,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-256",
+        "TITLE": "SCP-ZH-256 - 基改山泉",
         "FULLNAME": "scp-zh-256",
         "RATING": 15,
         "COMMENTS": "0",
@@ -126,7 +126,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-257",
+        "TITLE": "SCP-ZH-257 - 青花鼻煙壺",
         "FULLNAME": "scp-zh-257",
         "RATING": 8,
         "COMMENTS": "0",
@@ -176,7 +176,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-254",
+        "TITLE": "SCP-ZH-254 - 花露水",
         "FULLNAME": "scp-zh-254",
         "RATING": 11,
         "COMMENTS": "1",
@@ -192,7 +192,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-043",
+        "TITLE": "SCP-ZH-043 - 復原肥皂",
         "FULLNAME": "scp-zh-043",
         "RATING": 4,
         "COMMENTS": "3",
@@ -209,7 +209,7 @@
     {
         "TITLE": "SCP-ZH-998 - 現象學",
         "FULLNAME": "scp-zh-998",
-        "RATING": 37,
+        "RATING": 38,
         "COMMENTS": "7",
         "TAGS": [
             "k級情景",
@@ -237,7 +237,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-711",
+        "TITLE": "SCP-ZH-711 - 造句模擬器",
         "FULLNAME": "scp-zh-711",
         "RATING": 9,
         "COMMENTS": "1",
@@ -271,7 +271,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-258",
+        "TITLE": "SCP-ZH-258 - 協和御守",
         "FULLNAME": "scp-zh-258",
         "RATING": 13,
         "COMMENTS": "0",
@@ -317,7 +317,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-097",
+        "TITLE": "SCP-ZH-097 - 組織格式",
         "FULLNAME": "scp-zh-097",
         "RATING": 14,
         "COMMENTS": "1",
@@ -351,7 +351,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-019",
+        "TITLE": "SCP-ZH-019 - 活態手機",
         "FULLNAME": "scp-zh-019",
         "RATING": 11,
         "COMMENTS": "2",
@@ -369,7 +369,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-076",
+        "TITLE": "SCP-ZH-076 - 廿載明昭",
         "FULLNAME": "scp-zh-076",
         "RATING": 4,
         "COMMENTS": "2",
@@ -381,11 +381,11 @@
             "原創",
             "張道士",
             "文獻",
-            "認知影響"
+            "觀察影響"
         ]
     },
     {
-        "TITLE": "SCP-ZH-236",
+        "TITLE": "SCP-ZH-236 - 終年病",
         "FULLNAME": "scp-zh-236",
         "RATING": 11,
         "COMMENTS": "3",
@@ -404,7 +404,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-263",
+        "TITLE": "SCP-ZH-263 - 就是個蹭香火的",
         "FULLNAME": "scp-zh-263",
         "RATING": 4,
         "COMMENTS": "2",
@@ -467,7 +467,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-265",
+        "TITLE": "SCP-ZH-265 - 飛船推動月球引致日蝕說",
         "FULLNAME": "scp-zh-265",
         "RATING": 6,
         "COMMENTS": "0",
@@ -518,7 +518,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-042",
+        "TITLE": "SCP-ZH-042 - 捨身餵人",
         "FULLNAME": "scp-zh-042",
         "RATING": 17,
         "COMMENTS": "1",
@@ -534,9 +534,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-091",
+        "TITLE": "SCP-ZH-091 - 逃兵",
         "FULLNAME": "scp-zh-091",
-        "RATING": 19,
+        "RATING": 20,
         "COMMENTS": "3",
         "TAGS": [
             "2020攀爬金字塔",
@@ -557,7 +557,7 @@
     {
         "TITLE": "異常項目紀錄：「防暴警察頭盔」",
         "FULLNAME": "anomalous-item-hk-police-helmet",
-        "RATING": 35,
+        "RATING": 37,
         "COMMENTS": "5",
         "TAGS": [
             "2021夏季競賽",
@@ -583,7 +583,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-776",
+        "TITLE": "SCP-ZH-776 - 暗黑暗黑暗黑之劍",
         "FULLNAME": "scp-zh-776",
         "RATING": 7,
         "COMMENTS": "6",
@@ -626,7 +626,7 @@
     {
         "TITLE": "SCP-ZH-824 - 最沉重的繪圖筆",
         "FULLNAME": "scp-zh-824",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "1",
         "TAGS": [
             "2022夏季競賽",
@@ -639,7 +639,23 @@
             "工具",
             "本質促動",
             "機密分級",
-            "無效化"
+            "無效化",
+            "研究員knave"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-712 - 超高速閱讀眼鏡",
+        "FULLNAME": "scp-zh-712",
+        "RATING": 15,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "safe",
+            "scp",
+            "site-zh-25",
+            "原創",
+            "工具",
+            "眼睛"
         ]
     }
 ]

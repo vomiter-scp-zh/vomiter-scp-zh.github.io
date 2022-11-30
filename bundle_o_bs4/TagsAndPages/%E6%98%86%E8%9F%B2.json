@@ -3,7 +3,7 @@
         "TAGNAME": "昆蟲"
     },
     {
-        "TITLE": "SCP-ZH-028",
+        "TITLE": "SCP-ZH-028 - 縮骨衣魚",
         "FULLNAME": "scp-zh-028",
         "RATING": 7,
         "COMMENTS": "0",
@@ -22,7 +22,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-262",
+        "TITLE": "SCP-ZH-262 - 竹解",
         "FULLNAME": "scp-zh-262",
         "RATING": 12,
         "COMMENTS": "1",
@@ -63,7 +63,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-444",
+        "TITLE": "SCP-ZH-444 - 鬼差",
         "FULLNAME": "scp-zh-444",
         "RATING": 17,
         "COMMENTS": "3",
@@ -97,7 +97,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-023",
+        "TITLE": "SCP-ZH-023 - 末狀記憶",
         "FULLNAME": "scp-zh-023",
         "RATING": 11,
         "COMMENTS": "1",
@@ -114,7 +114,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-235",
+        "TITLE": "SCP-ZH-235 - 會飛的小黃書",
         "FULLNAME": "adult:scp-zh-235",
         "RATING": 21,
         "COMMENTS": "10",
@@ -133,7 +133,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-198",
+        "TITLE": "SCP-ZH-198 - 囚蜂",
         "FULLNAME": "scp-zh-198",
         "RATING": 3,
         "COMMENTS": "15",
@@ -171,7 +171,7 @@
     {
         "TITLE": "SCP-ZH-361 - 驚喜X麵",
         "FULLNAME": "scp-zh-361",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "0",
         "TAGS": [
             "2022夏季競賽",

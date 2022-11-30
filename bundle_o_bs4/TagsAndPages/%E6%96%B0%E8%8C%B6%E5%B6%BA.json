@@ -62,7 +62,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-254",
+        "TITLE": "SCP-ZH-254 - 花露水",
         "FULLNAME": "scp-zh-254",
         "RATING": 11,
         "COMMENTS": "1",
@@ -93,7 +93,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-259",
+        "TITLE": "SCP-ZH-259 - 人去餅空",
         "FULLNAME": "scp-zh-259",
         "RATING": 11,
         "COMMENTS": "0",
@@ -123,7 +123,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-043",
+        "TITLE": "SCP-ZH-043 - 復原肥皂",
         "FULLNAME": "scp-zh-043",
         "RATING": 4,
         "COMMENTS": "3",
@@ -334,17 +334,19 @@
         "COMMENTS": "0",
         "TAGS": [
             "2020夏季競賽",
+            "damien-nowak",
             "goi格式",
             "ijamea",
             "mc&d",
             "nobody",
             "原創",
+            "待更新",
             "新茶嶺",
             "格魯烏-p部門"
         ]
     },
     {
-        "TITLE": "SCP-ZH-042",
+        "TITLE": "SCP-ZH-042 - 捨身餵人",
         "FULLNAME": "scp-zh-042",
         "RATING": 17,
         "COMMENTS": "1",

@@ -11,7 +11,7 @@
             "en",
             "keter",
             "scp",
-            "傳染",
+            "傳染性",
             "感知影響",
             "活物",
             "生物危害",
@@ -141,7 +141,7 @@
         "TITLE": "SCP-682 - 不滅孽蜥",
         "FULLNAME": "scp-682",
         "RATING": 24,
-        "COMMENTS": "1",
+        "COMMENTS": "2",
         "TAGS": [
             "en",
             "keter",
@@ -526,7 +526,7 @@
     {
         "TITLE": "SCP-2317 - 前往彼界之門",
         "FULLNAME": "scp-2317",
-        "RATING": 11,
+        "RATING": 14,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -546,7 +546,7 @@
     {
         "TITLE": "SCP-4999 - 守望我等之人",
         "FULLNAME": "scp-4999",
-        "RATING": 13,
+        "RATING": 14,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1004,7 +1004,7 @@
     {
         "TITLE": "SCP-5149 - 喬，我們可不是瞎子。",
         "FULLNAME": "scp-5149",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "4",
         "TAGS": [
             "en",
@@ -1074,7 +1074,7 @@
     {
         "TITLE": "SCP-006-J",
         "FULLNAME": "scp-006-j",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1148,7 +1148,7 @@
     {
         "TITLE": "SCP-666½-J",
         "FULLNAME": "scp-666-and-a-half-j",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "1",
         "TAGS": [
             "bright博士",
@@ -1169,7 +1169,7 @@
         ]
     },
     {
-        "TITLE": "［基於協議4000-Eshu而被限制］",
+        "TITLE": "［基於協議4000-Eshu而受限制］",
         "FULLNAME": "taboo",
         "RATING": 11,
         "COMMENTS": "4",
@@ -1194,7 +1194,7 @@
     {
         "TITLE": "SCP-4953 - 漢堡王本人",
         "FULLNAME": "scp-4953",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1406,7 +1406,7 @@
     {
         "TITLE": "SC嗚喔喔啊啊啊啊啊啊啊啊-JP-J",
         "FULLNAME": "scpaaaaaaaaaaaaaaaaaa-jp-j",
-        "RATING": 25,
+        "RATING": 26,
         "COMMENTS": "1",
         "TAGS": [
             "jp",
@@ -1548,7 +1548,7 @@
     {
         "TITLE": "SCP-001-J",
         "FULLNAME": "scp-001-j",
-        "RATING": 5,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1642,7 +1642,7 @@
     {
         "TITLE": "SCP-4182 - Site-5不存在",
         "FULLNAME": "scp-4182",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1680,7 +1680,7 @@
     {
         "TITLE": "SCP-999-J",
         "FULLNAME": "scp-999-j",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1697,7 +1697,7 @@
     {
         "TITLE": "SCP-3002 - 活埋想法的嘗試",
         "FULLNAME": "scp-3002",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -1939,11 +1939,11 @@
         "RATING": 1,
         "COMMENTS": "2",
         "TAGS": [
-            "2020連寫競賽",
             "en",
+            "en-急迫競賽2020",
             "keter",
             "scp",
-            "人形生物",
+            "人形",
             "精神影響",
             "翻譯",
             "遊戲"
@@ -1952,7 +1952,7 @@
     {
         "TITLE": "SCP-3980 - 盲者相領",
         "FULLNAME": "scp-3980",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -1972,7 +1972,7 @@
     {
         "TITLE": "SCP-3731 - 常態將受到保護",
         "FULLNAME": "scp-3731",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -2040,7 +2040,7 @@
     {
         "TITLE": "SCP-3984 - 用棍棒戳死神",
         "FULLNAME": "scp-3984",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "0",
         "TAGS": [
             "d-11424 en",
@@ -2116,7 +2116,7 @@
     {
         "TITLE": "SCP-231-J",
         "FULLNAME": "scp-231-j",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -2133,7 +2133,7 @@
     {
         "TITLE": "SCP-058 - 黯闇之心",
         "FULLNAME": "scp-058",
-        "RATING": 2,
+        "RATING": 3,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -2351,7 +2351,7 @@
     {
         "TITLE": "SCP-999-JP - 我就是第九號的人物",
         "FULLNAME": "scp-999-jp",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "1",
         "TAGS": [
             "jp",
@@ -2491,7 +2491,7 @@
     {
         "TITLE": "SCP-059 - 放射性礦物",
         "FULLNAME": "scp-059",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -2510,7 +2510,7 @@
     {
         "TITLE": "SCP-6939 - 我婆要我命- ★☆☆☆☆",
         "FULLNAME": "scp-6939",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -2805,7 +2805,7 @@
     {
         "TITLE": "SCP-6630 - 彼方遙火",
         "FULLNAME": "scp-6630",
-        "RATING": 18,
+        "RATING": 19,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -2822,7 +2822,7 @@
     {
         "TITLE": "SCP-3333 - 塔",
         "FULLNAME": "scp-3333",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -2917,7 +2917,7 @@
     {
         "TITLE": "SCP-4666 - 聖誕老人",
         "FULLNAME": "scp-4666",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -2935,7 +2935,7 @@
     {
         "TITLE": "SCP-7666 - 陰間維加斯講座：莊家會輸",
         "FULLNAME": "scp-7666",
-        "RATING": 11,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -2951,7 +2951,7 @@
     {
         "TITLE": "SCP-7777 - 懼七症",
         "FULLNAME": "scp-7777",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "bold主任",
@@ -2970,7 +2970,7 @@
     {
         "TITLE": "SCP-7290 - 地獄子彈",
         "FULLNAME": "scp-7290",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -3007,7 +3007,7 @@
     {
         "TITLE": "SCP-7200 - 船。",
         "FULLNAME": "scp-7200",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -3022,7 +3022,7 @@
     {
         "TITLE": "SCP-5417 - 歡迎回家",
         "FULLNAME": "scp-5417",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -3037,7 +3037,7 @@
     {
         "TITLE": "SCP-7001 - Site-19",
         "FULLNAME": "scp-7001",
-        "RATING": 6,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "asheworth博士",
@@ -3066,7 +3066,7 @@
     {
         "TITLE": "SCP-4176 - 稅金",
         "FULLNAME": "scp-4176",
-        "RATING": 2,
+        "RATING": 3,
         "COMMENTS": "0",
         "TAGS": [
             "dado",
@@ -3082,7 +3082,7 @@
     {
         "TITLE": "SCP-4335 - 坩堝中的宇宙",
         "FULLNAME": "scp-4335",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -3104,7 +3104,7 @@
     {
         "TITLE": "SCP-6765 - 惡魔奧吉爾與瑪利德拉格血之王座",
         "FULLNAME": "scp-6765",
-        "RATING": 8,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -3137,7 +3137,7 @@
     {
         "TITLE": "SCP-TTKU-J （就是那個會殺了你的東東）",
         "FULLNAME": "scp-ttku-j",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -3147,6 +3147,179 @@
             "掠食性",
             "搞笑",
             "敵意",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-661-J",
+        "FULLNAME": "scp-661-j",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "搞笑",
+            "機率性",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-014-J",
+        "FULLNAME": "scp-014-j",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "工具",
+            "搞笑",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-7779 - 唉呦！",
+        "FULLNAME": "scp-7779",
+        "RATING": 8,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "傳送",
+            "全球超自然聯盟",
+            "合著",
+            "地質",
+            "幻覺",
+            "睡眠",
+            "精神影響",
+            "翻譯",
+            "聽覺影響",
+            "英國神秘情報局"
+        ]
+    },
+    {
+        "TITLE": "SCP-1048 - 拼裝者小熊",
+        "FULLNAME": "scp-1048",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "未收容",
+            "玩具",
+            "精神影響",
+            "翻譯",
+            "自主",
+            "自我複製"
+        ]
+    },
+    {
+        "TITLE": "SCP-1984-J - 字面上的1984",
+        "FULLNAME": "scp-1984-j",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "強迫性",
+            "搞笑",
+            "文獻",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-188-KO - 地球的心臟",
+        "FULLNAME": "scp-188-ko",
+        "RATING": 4,
+        "COMMENTS": "1",
+        "TAGS": [
+            "keter",
+            "ko",
+            "k級情景",
+            "scp",
+            "不可摧毀",
+            "二次翻譯",
+            "機械",
+            "結構物",
+            "翻譯",
+            "重力",
+            "金屬"
+        ]
+    },
+    {
+        "TITLE": "𝒫",
+        "FULLNAME": "scp-5558",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "meta",
+            "scp",
+            "人形",
+            "傳送",
+            "反熵",
+            "性",
+            "智能",
+            "活物",
+            "無定形",
+            "翻譯",
+            "語言",
+            "誤傳部",
+            "音頻"
+        ]
+    },
+    {
+        "TITLE": "SCP-1053 - 人口過剩",
+        "FULLNAME": "scp-1053",
+        "RATING": 1,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "城市",
+            "文獻",
+            "時空",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-387-JP - 高速心臟起搏師．逆行金",
+        "FULLNAME": "scp-387-jp",
+        "RATING": 2,
+        "COMMENTS": "2",
+        "TAGS": [
+            "jp",
+            "keter",
+            "scp",
+            "人形",
+            "翻譯",
+            "衣物",
+            "超電救助隊",
+            "金屬",
+            "電力"
+        ]
+    },
+    {
+        "TITLE": "SCP-196 - 時間悖論",
+        "FULLNAME": "scp-196",
+        "RATING": 1,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "keter",
+            "scp",
+            "人形",
+            "悖論",
+            "時間影響",
+            "智能",
+            "活物",
             "翻譯"
         ]
     }

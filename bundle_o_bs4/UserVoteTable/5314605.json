@@ -1,6 +1,6 @@
 [
     {
-        "TITLE": "SCP-ZH-124",
+        "TITLE": "SCP-ZH-124 - 明日郵箱",
         "FULLNAME": "scp-zh-124",
         "RATING": 5,
         "COMMENTS": "1",
@@ -11,9 +11,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-035",
+        "TITLE": "SCP-ZH-035 - 跑酷者",
         "FULLNAME": "scp-zh-035",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "0",
         "TAGS": [
             "euclid",
@@ -23,9 +23,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-005",
+        "TITLE": "SCP-ZH-005 - 假如你沒有轉發這篇文檔給十個朋友，那麼…………",
         "FULLNAME": "scp-zh-005",
-        "RATING": 60,
+        "RATING": 61,
         "COMMENTS": "0",
         "TAGS": [
             "keter",
@@ -36,7 +36,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-199",
+        "TITLE": "SCP-ZH-199 - 中永和迷宮",
         "FULLNAME": "scp-zh-199",
         "RATING": 22,
         "COMMENTS": "8",
@@ -53,7 +53,7 @@
     {
         "TITLE": "SCP-ZH-105 - 不孝子",
         "FULLNAME": "scp-zh-105",
-        "RATING": 65,
+        "RATING": 66,
         "COMMENTS": "5",
         "TAGS": [
             "euclid",

@@ -49,7 +49,7 @@
     {
         "TITLE": "魔法講座",
         "FULLNAME": "another-goddamn-magic-system",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -98,7 +98,7 @@
             "en",
             "safe",
             "scp",
-            "兔屬",
+            "兔類",
             "動物",
             "活物",
             "翻譯",
@@ -108,7 +108,7 @@
     {
         "TITLE": "SPC-1057-J",
         "FULLNAME": "spc-1057-j",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -385,7 +385,7 @@
     {
         "TITLE": "SCP-2443 - 齊齊整整一家人",
         "FULLNAME": "scp-2443",
-        "RATING": 4,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -557,7 +557,7 @@
         "TITLE": "SCP-682 - 不滅孽蜥",
         "FULLNAME": "scp-682",
         "RATING": 24,
-        "COMMENTS": "1",
+        "COMMENTS": "2",
         "TAGS": [
             "en",
             "keter",
@@ -701,7 +701,7 @@
     {
         "TITLE": "相嘯魔解密",
         "FULLNAME": "scpdeclassified-pattern-screamers-declassified",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "1",
         "TAGS": [
             "en",

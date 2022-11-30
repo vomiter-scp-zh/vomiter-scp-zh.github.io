@@ -26,5 +26,70 @@
             "原創",
             "待刪除"
         ]
+    },
+    {
+        "TITLE": "方針核許異聞零零零貳－水畔公國",
+        "FULLNAME": "zh-bt-strange-news-0002",
+        "RATING": -3,
+        "COMMENTS": "1",
+        "TAGS": [
+            "原創",
+            "待刪除",
+            "拋鈴人",
+            "故事",
+            "轉世計劃"
+        ]
+    },
+    {
+        "TITLE": "SCP- ZH-157 -幼神系列-宙斯",
+        "FULLNAME": "scp-zh-157",
+        "RATING": -8,
+        "COMMENTS": "4",
+        "TAGS": [
+            "euclid",
+            "scp",
+            "原創",
+            "待刪除"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-156 -幼神系列-黑帝斯",
+        "FULLNAME": "scp-zh-156",
+        "RATING": -9,
+        "COMMENTS": "4",
+        "TAGS": [
+            "keter",
+            "scp",
+            "原創",
+            "待刪除"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-208",
+        "FULLNAME": "scp-zh-208",
+        "RATING": -5,
+        "COMMENTS": "3",
+        "TAGS": [
+            "keter",
+            "k級情景",
+            "scp",
+            "原創",
+            "待刪除"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-203 - \"問題尋找\"地圖",
+        "FULLNAME": "scp-zh-203",
+        "RATING": -4,
+        "COMMENTS": "3",
+        "TAGS": [
+            "2022萬聖事件",
+            "k級情景",
+            "safe",
+            "scp",
+            "原創",
+            "地圖",
+            "待刪除"
+        ]
     }
 ]

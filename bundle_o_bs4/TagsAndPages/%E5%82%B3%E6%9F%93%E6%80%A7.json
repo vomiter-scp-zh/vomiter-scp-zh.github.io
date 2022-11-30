@@ -3,7 +3,7 @@
         "TAGNAME": "傳染性"
     },
     {
-        "TITLE": "SCP-ZH-419",
+        "TITLE": "SCP-ZH-419 - 歸屬之地",
         "FULLNAME": "scp-zh-419",
         "RATING": 10,
         "COMMENTS": "1",
@@ -35,9 +35,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-200",
+        "TITLE": "SCP-ZH-200 - 鬼抓人",
         "FULLNAME": "scp-zh-200",
-        "RATING": 34,
+        "RATING": 35,
         "COMMENTS": "1",
         "TAGS": [
             "keter",
@@ -67,7 +67,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-031",
+        "TITLE": "SCP-ZH-031 - 紅油黴菌",
         "FULLNAME": "scp-zh-031",
         "RATING": 7,
         "COMMENTS": "0",
@@ -85,7 +85,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-014",
+        "TITLE": "SCP-ZH-014 - 人魚公主的故事",
         "FULLNAME": "scp-zh-014",
         "RATING": 20,
         "COMMENTS": "4",
@@ -108,7 +108,7 @@
     {
         "TITLE": "SCP-ZH-451 - 反對者與蠕蟲",
         "FULLNAME": "scp-zh-451",
-        "RATING": 11,
+        "RATING": 10,
         "COMMENTS": "7",
         "TAGS": [
             "2020夏季競賽",
@@ -125,9 +125,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-111",
+        "TITLE": "SCP-ZH-111 - 自我中心",
         "FULLNAME": "scp-zh-111",
-        "RATING": 34,
+        "RATING": 38,
         "COMMENTS": "0",
         "TAGS": [
             "keter",
@@ -150,7 +150,7 @@
     {
         "TITLE": "SCP-ZH-617 - 西方的勇者",
         "FULLNAME": "scp-zh-617",
-        "RATING": 13,
+        "RATING": 14,
         "COMMENTS": "8",
         "TAGS": [
             "euclid",
@@ -183,7 +183,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-023",
+        "TITLE": "SCP-ZH-023 - 末狀記憶",
         "FULLNAME": "scp-zh-023",
         "RATING": 11,
         "COMMENTS": "1",
@@ -278,7 +278,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-635",
+        "TITLE": "SCP-ZH-635 - 你有沒有聽到",
         "FULLNAME": "scp-zh-635",
         "RATING": 7,
         "COMMENTS": "3",
@@ -298,7 +298,7 @@
     {
         "TITLE": "SCP-ZH-991 - 魅魔後裔",
         "FULLNAME": "adult:scp-zh-991",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "4",
         "TAGS": [
             "2021夏季競賽",
@@ -324,8 +324,8 @@
     {
         "TITLE": "SCP-ZH-144 - 十二進位法",
         "FULLNAME": "scp-zh-144",
-        "RATING": 23,
-        "COMMENTS": "3",
+        "RATING": 25,
+        "COMMENTS": "6",
         "TAGS": [
             "keter",
             "scp",
@@ -343,7 +343,7 @@
     {
         "TITLE": "SCP-ZH-905 - 愛的相反不是恨",
         "FULLNAME": "scp-zh-905",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "euclid",
@@ -358,7 +358,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-360",
+        "TITLE": "SCP-ZH-360 - 學校的石子地板",
         "FULLNAME": "scp-zh-360",
         "RATING": 8,
         "COMMENTS": "0",
@@ -369,6 +369,41 @@
             "傳染性",
             "原創",
             "地點"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-646 - 午夜自畫",
+        "FULLNAME": "scp-zh-646",
+        "RATING": 15,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "euclid",
+            "scp",
+            "人造物品",
+            "傳染性",
+            "光照影響",
+            "原創",
+            "展出",
+            "強迫性",
+            "火",
+            "熱量影響",
+            "認知危害"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-989 - 我們腦中的太陽",
+        "FULLNAME": "scp-zh-989",
+        "RATING": 20,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "archon",
+            "scp",
+            "傳染性",
+            "原創",
+            "基因",
+            "醫學性"
         ]
     }
 ]

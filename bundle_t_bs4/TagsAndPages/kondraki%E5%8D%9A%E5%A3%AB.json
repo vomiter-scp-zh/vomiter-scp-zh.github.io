@@ -325,7 +325,7 @@
     {
         "TITLE": "SCP-666½-J",
         "FULLNAME": "scp-666-and-a-half-j",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "1",
         "TAGS": [
             "bright博士",
@@ -400,7 +400,7 @@
     {
         "TITLE": "SCP-4852 - Site-19南遷渡冬去！",
         "FULLNAME": "scp-4852",
-        "RATING": 9,
+        "RATING": 11,
         "COMMENTS": "1",
         "TAGS": [
             "aktus主任",
@@ -416,6 +416,22 @@
             "地點",
             "感知力",
             "活物",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "伸出援手",
+        "FULLNAME": "lending-a-hand",
+        "RATING": 3,
+        "COMMENTS": "1",
+        "TAGS": [
+            "cimmerian博士",
+            "en",
+            "kondraki博士",
+            "light博士",
+            "倫理委員會",
+            "復生",
+            "故事",
             "翻譯"
         ]
     }

@@ -26,7 +26,7 @@
         "TITLE": "SCP-1633-JP - 三角座銀河系（M33, NGC598）上的恆星相撞現象",
         "FULLNAME": "scp-1633-jp",
         "RATING": 4,
-        "COMMENTS": "0",
+        "COMMENTS": "3",
         "TAGS": [
             "jp",
             "scp",
@@ -58,6 +58,25 @@
             "生物性",
             "翻譯",
             "衛星"
+        ]
+    },
+    {
+        "TITLE": "SCP-2686 - 月光大法師",
+        "FULLNAME": "scp-2686",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "人形",
+            "地點",
+            "念力",
+            "星際",
+            "智能",
+            "月球",
+            "活動展出",
+            "翻譯"
         ]
     }
 ]

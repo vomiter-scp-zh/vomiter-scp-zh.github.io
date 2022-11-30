@@ -3,7 +3,7 @@
         "TAGNAME": "機率性"
     },
     {
-        "TITLE": "SCP-ZH-078",
+        "TITLE": "SCP-ZH-078 - 老師說過不可以翹兩腳椅",
         "FULLNAME": "scp-zh-078",
         "RATING": 16,
         "COMMENTS": "1",
@@ -17,7 +17,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-207",
+        "TITLE": "SCP-ZH-207 - 課金就像吃人一樣",
         "FULLNAME": "scp-zh-207",
         "RATING": 11,
         "COMMENTS": "5",
@@ -36,7 +36,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-855",
+        "TITLE": "SCP-ZH-855 - 來團購最划算",
         "FULLNAME": "scp-zh-855",
         "RATING": 7,
         "COMMENTS": "4",
@@ -49,7 +49,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-206",
+        "TITLE": "SCP-ZH-206 - 施展快快好的魔法了呦",
         "FULLNAME": "scp-zh-206",
         "RATING": 3,
         "COMMENTS": "2",
@@ -127,7 +127,7 @@
     {
         "TITLE": "SCP-ZH-540 - Alone In The Dark",
         "FULLNAME": "scp-zh-540",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "2",
         "TAGS": [
             "scp",

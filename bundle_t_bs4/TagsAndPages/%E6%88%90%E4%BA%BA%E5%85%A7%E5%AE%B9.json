@@ -141,7 +141,7 @@
     {
         "TITLE": "SCP-4231 - 蒙托克之屋",
         "FULLNAME": "scp-4231",
-        "RATING": 10,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "clef博士",
@@ -183,7 +183,7 @@
     {
         "TITLE": "SCP-7052 - 菊中匙",
         "FULLNAME": "scp-7052",
-        "RATING": 6,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -195,6 +195,30 @@
             "機率性",
             "翻譯",
             "自我修復"
+        ]
+    },
+    {
+        "TITLE": "SCP-4231解密-第一部分",
+        "FULLNAME": "scp-4231-declassification-part-one",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "成人內容",
+            "用戶解密",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-4231解密-第二部分",
+        "FULLNAME": "scp-4231-declassification-part-two",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "成人內容",
+            "用戶解密",
+            "翻譯"
         ]
     }
 ]

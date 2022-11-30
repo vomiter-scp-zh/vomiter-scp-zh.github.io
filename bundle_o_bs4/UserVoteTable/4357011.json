@@ -1,6 +1,6 @@
 [
     {
-        "TITLE": "SCP-ZH-255",
+        "TITLE": "SCP-ZH-255 - 賓尼費的最後庇護所",
         "FULLNAME": "scp-zh-255",
         "RATING": 22,
         "COMMENTS": "5",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-089",
+        "TITLE": "SCP-ZH-089 - 不存在的ACG購物網",
         "FULLNAME": "scp-zh-089",
         "RATING": 14,
         "COMMENTS": "1",
@@ -48,7 +48,7 @@
     {
         "TITLE": "挑戰傳統評分方式：關於自訂評分模版",
         "FULLNAME": "rating-against-traditions",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "0",
         "TAGS": [
             "原創",
@@ -259,7 +259,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-301",
+        "TITLE": "SCP-ZH-301 - 馬斯列尼查",
         "FULLNAME": "scp-zh-301",
         "RATING": 17,
         "COMMENTS": "0",
@@ -378,7 +378,7 @@
     {
         "TITLE": "沙皇先知協會中心頁",
         "FULLNAME": "tsars-hub",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "0",
         "TAGS": [
             "中心",
@@ -402,7 +402,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-300",
+        "TITLE": "SCP-ZH-300 - 聖誕節交換「廢」物",
         "FULLNAME": "scp-zh-300",
         "RATING": 15,
         "COMMENTS": "2",
@@ -417,7 +417,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-026",
+        "TITLE": "SCP-ZH-026 - 酩酊街的兔兔",
         "FULLNAME": "scp-zh-026",
         "RATING": 7,
         "COMMENTS": "0",
@@ -434,7 +434,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-626",
+        "TITLE": "SCP-ZH-626 - 視野外",
         "FULLNAME": "scp-zh-626",
         "RATING": 23,
         "COMMENTS": "0",
@@ -545,7 +545,7 @@
     {
         "TITLE": "那些被當成藥物宰來吃的人們",
         "FULLNAME": "sh-cannibalism-in-taiwan",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "5",
         "TAGS": [
             "goi格式",
@@ -561,7 +561,7 @@
     {
         "TITLE": "蓬萊島新創民主形式：「創制」首長將於今日解凍",
         "FULLNAME": "r-sinano-chuo-zhtr-2018-11-19-a222a",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "2",
         "TAGS": [
             "1998年",
@@ -573,7 +573,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-235",
+        "TITLE": "SCP-ZH-235 - 會飛的小黃書",
         "FULLNAME": "adult:scp-zh-235",
         "RATING": 21,
         "COMMENTS": "10",
@@ -594,13 +594,24 @@
     {
         "TITLE": "項目企劃書 2017-47：《健康的代價》",
         "FULLNAME": "project-proposal-2017-47-zh",
-        "RATING": 23,
+        "RATING": 24,
         "COMMENTS": "3",
         "TAGS": [
             "awcy",
             "goi格式",
             "原創",
             "展出"
+        ]
+    },
+    {
+        "TITLE": "《缺氧？準備轉世！》競賽頁",
+        "FULLNAME": "reincarnation-by-suffocation",
+        "RATING": 6,
+        "COMMENTS": "1",
+        "TAGS": [
+            "中心",
+            "原創",
+            "競賽"
         ]
     }
 ]

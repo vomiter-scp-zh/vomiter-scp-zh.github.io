@@ -363,7 +363,7 @@
             "scp",
             "vn",
             "二次翻譯",
-            "儀式",
+            "儀式性",
             "無效化",
             "翻譯"
         ]
@@ -554,7 +554,7 @@
     {
         "TITLE": "SCP-6238 - Scronkle",
         "FULLNAME": "scp-6238",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -569,7 +569,7 @@
     {
         "TITLE": "SCP-7328 - 外星人快逃",
         "FULLNAME": "scp-7328",
-        "RATING": 3,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -585,6 +585,68 @@
             "通訊",
             "金屬",
             "頭足類動物"
+        ]
+    },
+    {
+        "TITLE": "SCP-6572 - 斬萬物之劍",
+        "FULLNAME": "scp-6572",
+        "RATING": 6,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "mc&d",
+            "scp",
+            "未收容",
+            "武器",
+            "無效化",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-2741 - 左道儀",
+        "FULLNAME": "scp-2741",
+        "RATING": 5,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "人造物品",
+            "無效化",
+            "精神影響",
+            "翻譯",
+            "聲音"
+        ]
+    },
+    {
+        "TITLE": "SCP-1099-JP - 瞬間腦腫急救師．引流白",
+        "FULLNAME": "scp-1099-jp",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "jp",
+            "scp",
+            "人形",
+            "無效化",
+            "翻譯",
+            "衣物",
+            "超電救助隊",
+            "醫學性"
+        ]
+    },
+    {
+        "TITLE": "SCP-2031-JP - 虐兒者斷罪戰士．審判紫",
+        "FULLNAME": "scp-2031-jp",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "jp",
+            "scp",
+            "人形",
+            "無效化",
+            "翻譯",
+            "衣物",
+            "超電救助隊"
         ]
     }
 ]

@@ -27,7 +27,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-017",
+        "TITLE": "SCP-ZH-017 - 永衡國入境申請表",
         "FULLNAME": "scp-zh-017",
         "RATING": 19,
         "COMMENTS": "1",
@@ -42,7 +42,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-117",
+        "TITLE": "SCP-ZH-117 - 道路保持暢通",
         "FULLNAME": "scp-zh-117",
         "RATING": 33,
         "COMMENTS": "1",
@@ -55,7 +55,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-529",
+        "TITLE": "SCP-ZH-529 - 追觴飲望",
         "FULLNAME": "scp-zh-529",
         "RATING": 8,
         "COMMENTS": "2",
@@ -69,7 +69,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-009",
+        "TITLE": "SCP-ZH-009 - 臺式早點",
         "FULLNAME": "scp-zh-009",
         "RATING": 20,
         "COMMENTS": "3",
@@ -84,7 +84,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-618",
+        "TITLE": "SCP-ZH-618 - 太陽餅獅",
         "FULLNAME": "scp-zh-618",
         "RATING": 41,
         "COMMENTS": "0",
@@ -99,7 +99,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-069",
+        "TITLE": "SCP-ZH-069 - 伴牠左右",
         "FULLNAME": "scp-zh-069",
         "RATING": 10,
         "COMMENTS": "5",
@@ -152,7 +152,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-888",
+        "TITLE": "SCP-ZH-888 - 霾",
         "FULLNAME": "scp-zh-888",
         "RATING": 19,
         "COMMENTS": "1",
@@ -172,7 +172,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-256",
+        "TITLE": "SCP-ZH-256 - 基改山泉",
         "FULLNAME": "scp-zh-256",
         "RATING": 15,
         "COMMENTS": "0",
@@ -190,9 +190,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-889",
+        "TITLE": "SCP-ZH-889 - 此世之外",
         "FULLNAME": "scp-zh-889",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "3",
         "TAGS": [
             "safe",
@@ -236,9 +236,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-053",
+        "TITLE": "SCP-ZH-053 - 讓我們擦乾你的淚水",
         "FULLNAME": "scp-zh-053",
-        "RATING": 29,
+        "RATING": 30,
         "COMMENTS": "0",
         "TAGS": [
             "2020虹光之間",
@@ -284,7 +284,7 @@
     {
         "TITLE": "新聞快訊：若我們要達到仁慈的下場，應該遵守哪些事情",
         "FULLNAME": "news-site-zh-81-1",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "5",
         "TAGS": [
             "reverberate博士",

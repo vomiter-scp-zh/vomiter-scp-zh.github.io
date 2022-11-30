@@ -353,7 +353,7 @@
     {
         "TITLE": "SCP-4182 - Site-5不存在",
         "FULLNAME": "scp-4182",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -424,7 +424,7 @@
     {
         "TITLE": "SCP-3980 - 盲者相領",
         "FULLNAME": "scp-3980",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -851,7 +851,7 @@
     {
         "TITLE": "SCP-877-KO - ██藏██體",
         "FULLNAME": "scp-877-ko",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "ko",
@@ -869,7 +869,7 @@
     {
         "TITLE": "SCP-7328 - 外星人快逃",
         "FULLNAME": "scp-7328",
-        "RATING": 3,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -885,6 +885,28 @@
             "通訊",
             "金屬",
             "頭足類動物"
+        ]
+    },
+    {
+        "TITLE": "SCP-5371-雕像--鼻祖",
+        "FULLNAME": "scp-5371",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "人形",
+            "共感",
+            "反常部",
+            "塑像173",
+            "屍體",
+            "翻譯",
+            "自主",
+            "觀察影響",
+            "銘文",
+            "雕塑",
+            "骨骼"
         ]
     }
 ]

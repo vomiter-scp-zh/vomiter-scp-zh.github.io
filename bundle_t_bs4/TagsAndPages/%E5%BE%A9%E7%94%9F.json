@@ -5,7 +5,7 @@
     {
         "TITLE": "一切為真",
         "FULLNAME": "this-is-the-real-life",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "2",
         "TAGS": [
             "bright博士",
@@ -52,7 +52,7 @@
     {
         "TITLE": "即刻行動",
         "FULLNAME": "immediate-actions",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -77,7 +77,7 @@
     {
         "TITLE": "宛如我們是幼稚園老師一樣",
         "FULLNAME": "maria-jones-this-is-your-life",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "bright博士",
@@ -145,7 +145,7 @@
     {
         "TITLE": "與惡魔的交易",
         "FULLNAME": "deals-with-the-devil",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -172,7 +172,7 @@
     {
         "TITLE": "整合計畫",
         "FULLNAME": "integrity-project",
-        "RATING": 2,
+        "RATING": 3,
         "COMMENTS": "0",
         "TAGS": [
             "aktus主任",
@@ -185,7 +185,7 @@
     {
         "TITLE": "全新把戲（或：青年文化殺了我的狗",
         "FULLNAME": "new-tricks",
-        "RATING": 2,
+        "RATING": 3,
         "COMMENTS": "0",
         "TAGS": [
             "bowe上將",
@@ -204,7 +204,7 @@
     {
         "TITLE": "光反應",
         "FULLNAME": "light-dependent-reactions",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "elliott博士",
@@ -217,7 +217,7 @@
     {
         "TITLE": "女孩之夜：開始換裝",
         "FULLNAME": "dressing-up",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "0",
         "TAGS": [
             "elliott博士",
@@ -231,7 +231,7 @@
     {
         "TITLE": "女孩之夜：喝個爛醉",
         "FULLNAME": "getting-drunk",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "0",
         "TAGS": [
             "elliott博士",
@@ -245,7 +245,7 @@
     {
         "TITLE": "女孩之夜：大吵大鬧",
         "FULLNAME": "raising-hell",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "0",
         "TAGS": [
             "elliott博士",
@@ -260,7 +260,7 @@
     {
         "TITLE": "額外資源",
         "FULLNAME": "additional-resources",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "0",
         "TAGS": [
             "aktus主任",
@@ -276,13 +276,105 @@
     {
         "TITLE": "工作機會",
         "FULLNAME": "job-opportunities",
-        "RATING": 6,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "en",
             "mc&d",
             "復生",
             "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "皮媞婭的羽翼",
+        "FULLNAME": "pythia-s-wing",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "第一名的射手",
+        "FULLNAME": "number-one-with-a-bullet",
+        "RATING": 3,
+        "COMMENTS": "2",
+        "TAGS": [
+            "bowe上將",
+            "clef博士",
+            "elliott博士",
+            "en",
+            "iris-thompson",
+            "kain-pathos-crow",
+            "全球超自然聯盟",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "伸出援手",
+        "FULLNAME": "lending-a-hand",
+        "RATING": 3,
+        "COMMENTS": "1",
+        "TAGS": [
+            "cimmerian博士",
+            "en",
+            "kondraki博士",
+            "light博士",
+            "倫理委員會",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "魔法軍隊之上的至高議會",
+        "FULLNAME": "the-high-court-with-the-magic-army",
+        "RATING": 3,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "危險迎面而來",
+        "FULLNAME": "in-harm-s-way",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "bowe上將",
+            "bright博士",
+            "en",
+            "gillespie主任",
+            "iris-thompson",
+            "kain-pathos-crow",
+            "light博士",
+            "moose主任",
+            "roget博士",
+            "復生",
+            "故事",
+            "翻譯",
+            "該隱"
+        ]
+    },
+    {
+        "TITLE": "復生",
+        "FULLNAME": "resurrection",
+        "RATING": 5,
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "中心",
+            "合作",
+            "復生",
             "翻譯"
         ]
     }

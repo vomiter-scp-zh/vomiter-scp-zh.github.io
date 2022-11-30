@@ -112,7 +112,7 @@
     {
         "TITLE": "SCP-420-J",
         "FULLNAME": "scp-420-j",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -269,7 +269,7 @@
     {
         "TITLE": "SCP-3731 - 常態將受到保護",
         "FULLNAME": "scp-3731",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -642,8 +642,8 @@
     {
         "TITLE": "SCP-7999 - 來星星間找我",
         "FULLNAME": "scp-7999",
-        "RATING": 13,
-        "COMMENTS": "1",
+        "RATING": 18,
+        "COMMENTS": "2",
         "TAGS": [
             "asheworth博士",
             "en",
@@ -664,7 +664,7 @@
     {
         "TITLE": "SCP-039-長鼻工程師",
         "FULLNAME": "scp-039",
-        "RATING": 2,
+        "RATING": 3,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -684,7 +684,7 @@
     {
         "TITLE": "SCP-850 - 魚群",
         "FULLNAME": "scp-850",
-        "RATING": 3,
+        "RATING": 5,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -695,6 +695,25 @@
             "翻譯",
             "超維度",
             "魚類"
+        ]
+    },
+    {
+        "TITLE": "SCP-6707 - 窮盡我等一切",
+        "FULLNAME": "scp-6707",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "scp",
+            "合著",
+            "恆星",
+            "植物",
+            "機密分級",
+            "歷史性",
+            "氣象",
+            "活物",
+            "物種",
+            "翻譯"
         ]
     }
 ]

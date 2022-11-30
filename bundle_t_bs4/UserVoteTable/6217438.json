@@ -281,7 +281,7 @@
     {
         "TITLE": "SCP-3936 - 一如預期般運作",
         "FULLNAME": "scp-3936",
-        "RATING": 15,
+        "RATING": 16,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -316,7 +316,7 @@
     {
         "TITLE": "SCP-2998 - 異常傳播訊號，2485MHz",
         "FULLNAME": "scp-2998",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -401,8 +401,8 @@
     {
         "TITLE": "SCP-001-EX-J",
         "FULLNAME": "scp-001-ex-j",
-        "RATING": 11,
-        "COMMENTS": "1",
+        "RATING": 12,
+        "COMMENTS": "2",
         "TAGS": [
             "en",
             "scp",
@@ -432,7 +432,7 @@
     {
         "TITLE": "SCP-420-J",
         "FULLNAME": "scp-420-j",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -501,7 +501,7 @@
     {
         "TITLE": "K級情景總表",
         "FULLNAME": "k-class-complete-list",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -549,7 +549,7 @@
         ]
     },
     {
-        "TITLE": "［基於協議4000-Eshu而被限制］",
+        "TITLE": "［基於協議4000-Eshu而受限制］",
         "FULLNAME": "taboo",
         "RATING": 11,
         "COMMENTS": "4",
@@ -582,7 +582,6 @@
             "jp",
             "k級情景",
             "scp",
-            "儀式",
             "儀式性",
             "全球超自然聯盟",
             "動物",
@@ -672,7 +671,7 @@
     {
         "TITLE": "SC嗚喔喔啊啊啊啊啊啊啊啊-JP-J",
         "FULLNAME": "scpaaaaaaaaaaaaaaaaaa-jp-j",
-        "RATING": 25,
+        "RATING": 26,
         "COMMENTS": "1",
         "TAGS": [
             "jp",
@@ -763,7 +762,7 @@
     {
         "TITLE": "SCP-4852 - Site-19南遷渡冬去！",
         "FULLNAME": "scp-4852",
-        "RATING": 9,
+        "RATING": 11,
         "COMMENTS": "1",
         "TAGS": [
             "aktus主任",
@@ -886,7 +885,7 @@
     {
         "TITLE": "SCP-4182 - Site-5不存在",
         "FULLNAME": "scp-4182",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1028,7 +1027,7 @@
     {
         "TITLE": "摘錄自Alto Clef〈如何在現實不存在時求生〉",
         "FULLNAME": "clef-excerpts",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "clef博士",
@@ -1041,7 +1040,7 @@
     {
         "TITLE": "SCP-3002 - 活埋想法的嘗試",
         "FULLNAME": "scp-3002",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -1077,7 +1076,7 @@
     {
         "TITLE": "SCP-3790 - 反常部",
         "FULLNAME": "scp-3790",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1537,7 +1536,7 @@
     {
         "TITLE": "SCP-3984 - 用棍棒戳死神",
         "FULLNAME": "scp-3984",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "0",
         "TAGS": [
             "d-11424 en",
@@ -1648,6 +1647,7 @@
         "TAGS": [
             "bright博士",
             "clef博士",
+            "en",
             "kain-pathos-crow",
             "rights博士",
             "合作",
@@ -1784,7 +1784,7 @@
     {
         "TITLE": "楷模計畫",
         "FULLNAME": "project-paragon-hub",
-        "RATING": 8,
+        "RATING": 10,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -1954,7 +1954,7 @@
     {
         "TITLE": "SCP-6131 - 遺世孤立",
         "FULLNAME": "scp-6131",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -2321,7 +2321,7 @@
     {
         "TITLE": "SCP-999-JP - 我就是第九號的人物",
         "FULLNAME": "scp-999-jp",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "1",
         "TAGS": [
             "jp",
@@ -2509,7 +2509,7 @@
     {
         "TITLE": "Dr. Palanez的提案",
         "FULLNAME": "weryllium-proposal",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "1",
         "TAGS": [
             "001提案",
@@ -2563,7 +2563,7 @@
     {
         "TITLE": "SCP-4680 - 噢，那些俄國佬…",
         "FULLNAME": "scp-4680",
-        "RATING": 8,
+        "RATING": 10,
         "COMMENTS": "3",
         "TAGS": [
             "en",
@@ -2614,7 +2614,7 @@
     {
         "TITLE": "SCP-6939 - 我婆要我命- ★☆☆☆☆",
         "FULLNAME": "scp-6939",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -2848,7 +2848,7 @@
     {
         "TITLE": "我，一隻在暴雪中摀住鼻子的北極熊",
         "FULLNAME": "i-a-polar-bear-covering-my-nose-in-a-snowstorm",
-        "RATING": 11,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -2886,6 +2886,7 @@
             "mann博士",
             "mcdoctorate博士",
             "中心",
+            "採購與清算部",
             "站點",
             "翻譯"
         ]
@@ -3123,7 +3124,7 @@
     {
         "TITLE": "時空站點Site-01（RCT-Δt中心）",
         "FULLNAME": "welcome-to-delta-t",
-        "RATING": 8,
+        "RATING": 9,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -3400,7 +3401,7 @@
     {
         "TITLE": "ROUNDERHOUSE帶你成為王八蛋批評家的非常好官方指南",
         "FULLNAME": "rounderhouse-critique-guide",
-        "RATING": 18,
+        "RATING": 19,
         "COMMENTS": "4",
         "TAGS": [
             "en",
@@ -3528,7 +3529,7 @@
     {
         "TITLE": "SCP-2481 - 弒殺金烏",
         "FULLNAME": "scp-2481",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -3694,7 +3695,8 @@
             "scp",
             "概念",
             "機密分級",
-            "翻譯"
+            "翻譯",
+            "角磨機"
         ]
     },
     {
@@ -3797,7 +3799,7 @@
     {
         "TITLE": "SCP-6781 - Site-7：遺產",
         "FULLNAME": "scp-6781",
-        "RATING": 8,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -3877,7 +3879,7 @@
     {
         "TITLE": "SCP-6630 - 彼方遙火",
         "FULLNAME": "scp-6630",
-        "RATING": 18,
+        "RATING": 19,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -3911,7 +3913,7 @@
     {
         "TITLE": "SCP-6355 - 扼殺禮義之咽喉",
         "FULLNAME": "scp-6355",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -3948,7 +3950,7 @@
     {
         "TITLE": "SCP-6820 - 抹殺嘗試",
         "FULLNAME": "scp-6820",
-        "RATING": 13,
+        "RATING": 14,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -3998,7 +4000,7 @@
     {
         "TITLE": "SCP-3333 - 塔",
         "FULLNAME": "scp-3333",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -4290,7 +4292,7 @@
     {
         "TITLE": "我不識己名",
         "FULLNAME": "i-don-t-know-my-name",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -4338,7 +4340,7 @@
     {
         "TITLE": "SCP-4666 - 聖誕老人",
         "FULLNAME": "scp-4666",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -4416,7 +4418,7 @@
     {
         "TITLE": "SCP-7333 - 經商蜥蜴",
         "FULLNAME": "scp-7333",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -4468,7 +4470,7 @@
     {
         "TITLE": "SCP-5400-J - 超級宇宙無敵機密文章",
         "FULLNAME": "scp-5400-j",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -4480,7 +4482,7 @@
     {
         "TITLE": "SCP-7666 - 陰間維加斯講座：莊家會輸",
         "FULLNAME": "scp-7666",
-        "RATING": 11,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -4496,8 +4498,8 @@
     {
         "TITLE": "SCP-7999 - 來星星間找我",
         "FULLNAME": "scp-7999",
-        "RATING": 13,
-        "COMMENTS": "1",
+        "RATING": 18,
+        "COMMENTS": "2",
         "TAGS": [
             "asheworth博士",
             "en",
@@ -4535,7 +4537,7 @@
     {
         "TITLE": "SCP-1545 - 惹人憐愛的駱馬賴瑞",
         "FULLNAME": "scp-1545",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -4550,7 +4552,7 @@
     {
         "TITLE": "SCP-7290 - 地獄子彈",
         "FULLNAME": "scp-7290",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -4566,7 +4568,7 @@
     {
         "TITLE": "SCP-7300 - 浮游生物!!!",
         "FULLNAME": "scp-7300",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -4585,7 +4587,7 @@
     {
         "TITLE": "SCP-7070 - 不凋",
         "FULLNAME": "scp-7070",
-        "RATING": 11,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -4651,7 +4653,7 @@
     {
         "TITLE": "SCP-7200 - 船。",
         "FULLNAME": "scp-7200",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -4666,7 +4668,7 @@
     {
         "TITLE": "SCP-7000 - 輸家",
         "FULLNAME": "scp-7000",
-        "RATING": 17,
+        "RATING": 19,
         "COMMENTS": "1",
         "TAGS": [
             "blank博士",
@@ -4690,7 +4692,7 @@
     {
         "TITLE": "SCP-877-KO - ██藏██體",
         "FULLNAME": "scp-877-ko",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "ko",
@@ -4725,7 +4727,7 @@
     {
         "TITLE": "代號：████ ███ — 真相",
         "FULLNAME": "code-name-the-truth",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -4750,7 +4752,7 @@
     {
         "TITLE": "SCP-6765 - 惡魔奧吉爾與瑪利德拉格血之王座",
         "FULLNAME": "scp-6765",
-        "RATING": 8,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -4783,7 +4785,7 @@
     {
         "TITLE": "SCP-7025 - 你將死於公車",
         "FULLNAME": "scp-7025",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -4798,7 +4800,7 @@
     {
         "TITLE": "SCP-4231 - 蒙托克之屋",
         "FULLNAME": "scp-4231",
-        "RATING": 10,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "clef博士",
@@ -4836,7 +4838,7 @@
     {
         "TITLE": "巴別塔如何毀於我手",
         "FULLNAME": "jak-zburzylem-wieze-babel",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "1",
         "TAGS": [
             "crackfic2022",
@@ -4889,7 +4891,7 @@
     {
         "TITLE": "SCP-001",
         "FULLNAME": "scp-4380",
-        "RATING": 10,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -4911,8 +4913,8 @@
     {
         "TITLE": "煉金學部中心頁",
         "FULLNAME": "the-alchemy-department-hub",
-        "RATING": 6,
-        "COMMENTS": "0",
+        "RATING": 8,
+        "COMMENTS": "2",
         "TAGS": [
             "en",
             "中心",
@@ -4924,7 +4926,7 @@
     {
         "TITLE": "SCP-6837 - 鬧鬼故事",
         "FULLNAME": "scp-6837",
-        "RATING": 6,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -4940,7 +4942,7 @@
     {
         "TITLE": "SCP-850 - 魚群",
         "FULLNAME": "scp-850",
-        "RATING": 3,
+        "RATING": 5,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -4956,7 +4958,7 @@
     {
         "TITLE": "SCP-7440 - 無名碉堡",
         "FULLNAME": "scp-7440",
-        "RATING": 2,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -4972,7 +4974,7 @@
     {
         "TITLE": "SCP-7103 - 雕塑",
         "FULLNAME": "scp-7103",
-        "RATING": 4,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -4992,7 +4994,7 @@
     {
         "TITLE": "SCP-7328 - 外星人快逃",
         "FULLNAME": "scp-7328",
-        "RATING": 3,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -5008,6 +5010,865 @@
             "通訊",
             "金屬",
             "頭足類動物"
+        ]
+    },
+    {
+        "TITLE": "凜冬",
+        "FULLNAME": "site-14-secure-facility-dossier",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "en-部門競賽2022",
+            "合著",
+            "站點",
+            "翻譯",
+            "電信監控辦公室"
+        ]
+    },
+    {
+        "TITLE": "SCP-7260 - 黛西",
+        "FULLNAME": "scp-7260",
+        "RATING": 9,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "感知力",
+            "翻譯",
+            "自主",
+            "衣物"
+        ]
+    },
+    {
+        "TITLE": "SCP-789-J - 屁屁鬼！！",
+        "FULLNAME": "scp-789-j",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "人形",
+            "合著",
+            "搞笑",
+            "研究員james",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-6215 - 地球上最快樂的地方！",
+        "FULLNAME": "scp-6215",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "人造物品",
+            "歷史性",
+            "玩具",
+            "球體",
+            "翻譯",
+            "衣物",
+            "重力影響"
+        ]
+    },
+    {
+        "TITLE": "SCP-6707 - 窮盡我等一切",
+        "FULLNAME": "scp-6707",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "scp",
+            "合著",
+            "恆星",
+            "植物",
+            "機密分級",
+            "歷史性",
+            "氣象",
+            "活物",
+            "物種",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-5729 - 棚屋鬼魂",
+        "FULLNAME": "scp-5729",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "blank博士",
+            "en",
+            "scp",
+            "人形",
+            "保衛43",
+            "機密分級",
+            "無形",
+            "翻譯",
+            "觀察影響",
+            "鹿類"
+        ]
+    },
+    {
+        "TITLE": "SCP-488 - 吸引流星的人",
+        "FULLNAME": "scp-488",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "人形",
+            "反熵",
+            "地點",
+            "星際",
+            "智能",
+            "活物",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "第一名的射手",
+        "FULLNAME": "number-one-with-a-bullet",
+        "RATING": 3,
+        "COMMENTS": "2",
+        "TAGS": [
+            "bowe上將",
+            "clef博士",
+            "elliott博士",
+            "en",
+            "iris-thompson",
+            "kain-pathos-crow",
+            "全球超自然聯盟",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-014-J",
+        "FULLNAME": "scp-014-j",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "工具",
+            "搞笑",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "夜幕降臨",
+        "FULLNAME": "nightfall-hub",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "中心",
+            "夜幕降臨",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-7779 - 唉呦！",
+        "FULLNAME": "scp-7779",
+        "RATING": 8,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "傳送",
+            "全球超自然聯盟",
+            "合著",
+            "地質",
+            "幻覺",
+            "睡眠",
+            "精神影響",
+            "翻譯",
+            "聽覺影響",
+            "英國神秘情報局"
+        ]
+    },
+    {
+        "TITLE": "倫理委員會D級人員住宿規則",
+        "FULLNAME": "ethics-committee-class-d-housing-regulations",
+        "RATING": 12,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "倫理委員會",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "宛如我們是幼稚園老師一樣",
+        "FULLNAME": "maria-jones-this-is-your-life",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "bright博士",
+            "en",
+            "light博士",
+            "maria-jones",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-3980解密",
+        "FULLNAME": "scp-3980-declassification",
+        "RATING": 4,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "用戶解密",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-231-J",
+        "FULLNAME": "scp-231-j",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "the-administrator",
+            "搞笑",
+            "渾沌反叛軍",
+            "猩紅之王",
+            "翻譯",
+            "貨幣"
+        ]
+    },
+    {
+        "TITLE": "SCP-4231解密-第一部分",
+        "FULLNAME": "scp-4231-declassification-part-one",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "成人內容",
+            "用戶解密",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-3980 - 盲者相領",
+        "FULLNAME": "scp-3980",
+        "RATING": 6,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "傳染性",
+            "屍體",
+            "幻覺",
+            "感知影響",
+            "未收容",
+            "概念",
+            "精神影響",
+            "翻譯",
+            "逆模因"
+        ]
+    },
+    {
+        "TITLE": "SCP-4231解密-第二部分",
+        "FULLNAME": "scp-4231-declassification-part-two",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "成人內容",
+            "用戶解密",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-7166 - 雷擊不貳",
+        "FULLNAME": "scp-7166",
+        "RATING": 5,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "en-7000",
+            "scp",
+            "已解明",
+            "機率性",
+            "氣象",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-6046 - 致狂彈珠",
+        "FULLNAME": "scp-6046",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "scp",
+            "待分級",
+            "本質促動",
+            "玩具",
+            "球體",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "老梗與你：一部教育影片",
+        "FULLNAME": "cliches-and-you-an-educational-film",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "心得",
+            "搞笑",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-1984-J - 字面上的1984",
+        "FULLNAME": "scp-1984-j",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "強迫性",
+            "搞笑",
+            "文獻",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "妖精雙子女王故事",
+        "FULLNAME": "a-faerie-tale-of-twin-queens",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "homo-sapiens-sidhe",
+            "來自120站的檔案",
+            "故事",
+            "無名",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-7348 - 根本沒啥",
+        "FULLNAME": "scp-7348",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "meta",
+            "scp",
+            "模因效應",
+            "機密分級",
+            "翻譯",
+            "資訊危害"
+        ]
+    },
+    {
+        "TITLE": "序曲：預備鈴",
+        "FULLNAME": "days-gone-by",
+        "RATING": 9,
+        "COMMENTS": "0",
+        "TAGS": [
+            "1976年班",
+            "en",
+            "故事",
+            "翻譯",
+            "重寫"
+        ]
+    },
+    {
+        "TITLE": "追思：第一樂章",
+        "FULLNAME": "in-symphony",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "1976年班",
+            "en",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "追思",
+        "FULLNAME": "remembrance",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "1976年班",
+            "en",
+            "中心",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "第一插曲：老學校",
+        "FULLNAME": "lonwood",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "1976年班",
+            "en",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "追思：第二樂章",
+        "FULLNAME": "reunion",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "1976年班",
+            "en",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "第二插曲：演奏中",
+        "FULLNAME": "bicentennial",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "1976年班",
+            "en",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-387 - 活體樂高",
+        "FULLNAME": "scp-387",
+        "RATING": 4,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "多面體",
+            "容器",
+            "感知力",
+            "智能",
+            "玩具",
+            "翻譯",
+            "自主",
+            "自我複製",
+            "適應性"
+        ]
+    },
+    {
+        "TITLE": "追思：第三樂章",
+        "FULLNAME": "the-year-that-it-was",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "1976年班",
+            "en",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-4370 - 貓娘亦有情",
+        "FULLNAME": "scp-4370",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "scp",
+            "人形",
+            "媒體",
+            "復活",
+            "智能",
+            "機密分級",
+            "翻譯",
+            "自主",
+            "藝術性",
+            "貓類",
+            "電腦"
+        ]
+    },
+    {
+        "TITLE": "終曲：遺言",
+        "FULLNAME": "looking-back",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "1976年班",
+            "en",
+            "合著",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "1976年班+SCP-2316解密",
+        "FULLNAME": "scp-2316-declassification",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "用戶解密",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-240-JP - 零隻蝗蟲",
+        "FULLNAME": "scp-240-jp",
+        "RATING": 8,
+        "COMMENTS": "1",
+        "TAGS": [
+            "euclid",
+            "jp",
+            "scp",
+            "人造物品",
+            "傳承條目-jp",
+            "日本生類創研",
+            "昆蟲",
+            "本質促動",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-6552 - 潮汐.wav",
+        "FULLNAME": "scp-6552",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "媒體",
+            "翻譯",
+            "聲音",
+            "音頻"
+        ]
+    },
+    {
+        "TITLE": "SCP-001-J",
+        "FULLNAME": "scp-001-j",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "人造物品",
+            "強迫性",
+            "搞笑",
+            "模因效應",
+            "精神影響",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-476 - 至無處之地圖",
+        "FULLNAME": "scp-476",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "地點",
+            "文獻",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-2932 - 緹坦妮雅之牢",
+        "FULLNAME": "scp-2932",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "scp",
+            "thaumiel",
+            "不可摧毀",
+            "地下",
+            "夜之子",
+            "植物",
+            "活物",
+            "結構物",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "𝒫",
+        "FULLNAME": "scp-5558",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "meta",
+            "scp",
+            "人形",
+            "傳送",
+            "反熵",
+            "性",
+            "智能",
+            "活物",
+            "無定形",
+            "翻譯",
+            "語言",
+            "誤傳部",
+            "音頻"
+        ]
+    },
+    {
+        "TITLE": "MTF Psi-7「家居裝飾」概述",
+        "FULLNAME": "overview-of-mtf-psi-7-home-improvement",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "故事",
+            "歡樂基金會",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-4098 - S-C-P，視詞篇順暢排19-3-16",
+        "FULLNAME": "scp-4098",
+        "RATING": 10,
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "scp",
+            "thaumiel",
+            "合著",
+            "基金會製造",
+            "建築物",
+            "模因效應",
+            "翻譯",
+            "視覺性",
+            "認知危害",
+            "誤傳部",
+            "資訊危害"
+        ]
+    },
+    {
+        "TITLE": "SCP-188-KO - 地球的心臟",
+        "FULLNAME": "scp-188-ko",
+        "RATING": 4,
+        "COMMENTS": "1",
+        "TAGS": [
+            "keter",
+            "ko",
+            "k級情景",
+            "scp",
+            "不可摧毀",
+            "二次翻譯",
+            "機械",
+            "結構物",
+            "翻譯",
+            "重力",
+            "金屬"
+        ]
+    },
+    {
+        "TITLE": "維安設施檔案：受保護站點Site-7（同步未完成）",
+        "FULLNAME": "secure-facility-dossier-site-7",
+        "RATING": 9,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "maria-jones",
+            "中心",
+            "合著",
+            "站點",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-2140 - 逆溯轉換子",
+        "FULLNAME": "scp-2140",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "en-短文競賽2015",
+            "scp",
+            "thaumiel",
+            "倫理委員會",
+            "基金會製造",
+            "歷史性",
+            "殆瓦",
+            "翻譯",
+            "視覺性",
+            "銘文"
+        ]
+    },
+    {
+        "TITLE": "SCP-1471 - MalO ver1.0.0",
+        "FULLNAME": "scp-1471",
+        "RATING": 8,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "人形",
+            "媒體",
+            "未收容",
+            "翻譯",
+            "視覺性",
+            "通訊",
+            "電腦"
+        ]
+    },
+    {
+        "TITLE": "SCP-426 - 我是一臺烤吐司機",
+        "FULLNAME": "scp-426",
+        "RATING": 9,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "euclid",
+            "meta",
+            "scp",
+            "家電用品",
+            "精神影響",
+            "翻譯",
+            "資訊危害",
+            "電力"
+        ]
+    },
+    {
+        "TITLE": "SCP-4098解密",
+        "FULLNAME": "scp-4098-declassification",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "用戶解密",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-5956解密",
+        "FULLNAME": "scp-5956-declassification",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "用戶解密",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-2028 - 惡夢雪景球",
+        "FULLNAME": "scp-2028",
+        "RATING": 8,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "人造物品",
+            "夢神",
+            "幻覺",
+            "睡眠",
+            "翻譯",
+            "變形"
+        ]
+    },
+    {
+        "TITLE": "SCP-196 - 時間悖論",
+        "FULLNAME": "scp-196",
+        "RATING": 1,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "keter",
+            "scp",
+            "人形",
+            "悖論",
+            "時間影響",
+            "智能",
+            "活物",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-1451 - 沉沒之子的防禦圈",
+        "FULLNAME": "scp-1451",
+        "RATING": 5,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "人形",
+            "地點",
+            "文獻",
+            "水棲",
+            "翻譯",
+            "自主",
+            "金屬",
+            "雕像"
+        ]
+    },
+    {
+        "TITLE": "SCP-7510 - 牆裡沒有任何東西。",
+        "FULLNAME": "scp-7510",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "meta",
+            "scp",
+            "地點",
+            "宗教",
+            "寄生性",
+            "概念",
+            "機密分級",
+            "生物性",
+            "翻譯",
+            "認知危害",
+            "資訊危害"
+        ]
+    },
+    {
+        "TITLE": "一切可能為熊的數集合",
+        "FULLNAME": "the-set-of-all-numbers-which-might-be-bears",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP選集中心頁",
+        "FULLNAME": "scp-anthology-hub",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "中心",
+            "死亡abc",
+            "翻譯"
         ]
     }
 ]

@@ -96,7 +96,7 @@
     {
         "TITLE": "SCP-ZH-998 - 現象學",
         "FULLNAME": "scp-zh-998",
-        "RATING": 37,
+        "RATING": 38,
         "COMMENTS": "7",
         "TAGS": [
             "k級情景",
@@ -233,7 +233,7 @@
     {
         "TITLE": "冰箱",
         "FULLNAME": "fridge",
-        "RATING": 11,
+        "RATING": 15,
         "COMMENTS": "0",
         "TAGS": [
             "ain博士",
@@ -361,7 +361,7 @@
     {
         "TITLE": "SCP-ZH-102 - 《彩虹橋》保密條款",
         "FULLNAME": "scp-zh-102",
-        "RATING": 8,
+        "RATING": 9,
         "COMMENTS": "9",
         "TAGS": [
             "2020攀爬金字塔",
@@ -485,10 +485,11 @@
     {
         "TITLE": "表層變動",
         "FULLNAME": "one-of-the-secrets",
-        "RATING": 16,
+        "RATING": 18,
         "COMMENTS": "2",
         "TAGS": [
             "ain博士",
+            "maddy",
             "site-zh-44",
             "原創",
             "展出",
@@ -519,7 +520,7 @@
     {
         "TITLE": "Dr. Bales的日常小品集錦 二",
         "FULLNAME": "bales-s-daily-2",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "1",
         "TAGS": [
             "ain博士",
@@ -536,7 +537,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-235",
+        "TITLE": "SCP-ZH-235 - 會飛的小黃書",
         "FULLNAME": "adult:scp-zh-235",
         "RATING": 21,
         "COMMENTS": "10",
@@ -943,7 +944,7 @@
     {
         "TITLE": "SCP-ZH-922 - 馬蘭姑娘",
         "FULLNAME": "scp-zh-922",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "1",
         "TAGS": [
             "euclid",
@@ -1059,7 +1060,7 @@
     {
         "TITLE": "SCP-ZH-132 - 要你命的007遊戲",
         "FULLNAME": "scp-zh-132",
-        "RATING": 14,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "scp",
@@ -1103,6 +1104,49 @@
             "surge博士",
             "原創",
             "故事"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-300-J - 我的襪襪🥺",
+        "FULLNAME": "scp-zh-300-j",
+        "RATING": 17,
+        "COMMENTS": "6",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "keter",
+            "meta",
+            "scp",
+            "site-zh-44",
+            "原創",
+            "成人內容",
+            "搞笑",
+            "衣物"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-962 - 似是而非",
+        "FULLNAME": "scp-zh-962",
+        "RATING": 19,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022萬聖事件",
+            "ain博士",
+            "k級情景",
+            "maddy",
+            "scp",
+            "site-zh-01",
+            "site-zh-44",
+            "surge博士",
+            "thaumiel",
+            "三垣",
+            "傳送",
+            "原創",
+            "合著",
+            "地點",
+            "時空",
+            "渾沌反叛軍",
+            "結構物",
+            "超維度"
         ]
     }
 ]

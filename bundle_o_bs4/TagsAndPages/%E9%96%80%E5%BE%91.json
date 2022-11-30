@@ -5,7 +5,7 @@
     {
         "TITLE": "SCP-ZH-105 - 不孝子",
         "FULLNAME": "scp-zh-105",
-        "RATING": 65,
+        "RATING": 66,
         "COMMENTS": "5",
         "TAGS": [
             "euclid",
@@ -42,7 +42,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-170",
+        "TITLE": "SCP-ZH-170 - 沉默的螺旋梯",
         "FULLNAME": "scp-zh-170",
         "RATING": 5,
         "COMMENTS": "1",
@@ -74,9 +74,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-426",
+        "TITLE": "SCP-ZH-426 - 花園中的蛇是絕不低頭的",
         "FULLNAME": "scp-zh-426",
-        "RATING": 16,
+        "RATING": 15,
         "COMMENTS": "17",
         "TAGS": [
             "safe",
@@ -103,9 +103,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-088",
+        "TITLE": "SCP-ZH-088 - 只有男子漢可以進入的門",
         "FULLNAME": "scp-zh-088",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "1",
         "TAGS": [
             "euclid",
@@ -126,7 +126,7 @@
     {
         "TITLE": "SCP-ZH-496 - 安全極限距離",
         "FULLNAME": "scp-zh-496",
-        "RATING": 29,
+        "RATING": 30,
         "COMMENTS": "7",
         "TAGS": [
             "scp",
@@ -142,7 +142,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-243",
+        "TITLE": "SCP-ZH-243 - 楠梓百慕達",
         "FULLNAME": "scp-zh-243",
         "RATING": 18,
         "COMMENTS": "0",
@@ -161,7 +161,7 @@
     {
         "TITLE": "SCP-ZH-280 - 欸不是我的東西呢",
         "FULLNAME": "scp-zh-280",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "2",
         "TAGS": [
             "keter",

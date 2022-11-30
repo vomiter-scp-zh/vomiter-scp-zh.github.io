@@ -125,7 +125,7 @@
     {
         "TITLE": "你會感到後悔嗎？",
         "FULLNAME": "what-are-you-waiting-for-just-join-goc-dude",
-        "RATING": 35,
+        "RATING": 36,
         "COMMENTS": "5",
         "TAGS": [
             "全球超自然聯盟",
@@ -136,7 +136,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-833",
+        "TITLE": "SCP-ZH-833 - 時逆殘影",
         "FULLNAME": "scp-zh-833",
         "RATING": 10,
         "COMMENTS": "4",
@@ -182,7 +182,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-635",
+        "TITLE": "SCP-ZH-635 - 你有沒有聽到",
         "FULLNAME": "scp-zh-635",
         "RATING": 7,
         "COMMENTS": "3",
@@ -248,6 +248,32 @@
             "渾沌反叛軍",
             "線上",
             "非現實部"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-962 - 似是而非",
+        "FULLNAME": "scp-zh-962",
+        "RATING": 19,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022萬聖事件",
+            "ain博士",
+            "k級情景",
+            "maddy",
+            "scp",
+            "site-zh-01",
+            "site-zh-44",
+            "surge博士",
+            "thaumiel",
+            "三垣",
+            "傳送",
+            "原創",
+            "合著",
+            "地點",
+            "時空",
+            "渾沌反叛軍",
+            "結構物",
+            "超維度"
         ]
     }
 ]

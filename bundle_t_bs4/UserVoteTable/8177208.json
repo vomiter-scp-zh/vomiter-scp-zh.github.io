@@ -2,7 +2,7 @@
     {
         "TITLE": "SCP-5400-J - 超級宇宙無敵機密文章",
         "FULLNAME": "scp-5400-j",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -76,7 +76,7 @@
     {
         "TITLE": "SCP-7000 - 輸家",
         "FULLNAME": "scp-7000",
-        "RATING": 17,
+        "RATING": 19,
         "COMMENTS": "1",
         "TAGS": [
             "blank博士",
@@ -100,7 +100,7 @@
     {
         "TITLE": "SCP-7001 - Site-19",
         "FULLNAME": "scp-7001",
-        "RATING": 6,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "asheworth博士",
@@ -147,6 +147,7 @@
         "TAGS": [
             "en",
             "scp",
+            "vang博士",
             "搞笑",
             "翻譯"
         ]
@@ -154,7 +155,7 @@
     {
         "TITLE": "額外資源",
         "FULLNAME": "additional-resources",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "0",
         "TAGS": [
             "aktus主任",
@@ -185,7 +186,7 @@
     {
         "TITLE": "工作機會",
         "FULLNAME": "job-opportunities",
-        "RATING": 6,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -193,6 +194,350 @@
             "復生",
             "故事",
             "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-207-JP實驗紀錄",
+        "FULLNAME": "207",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "jp",
+            "合作",
+            "實驗",
+            "翻譯",
+            "附加資料"
+        ]
+    },
+    {
+        "TITLE": "我，一隻在暴雪中摀住鼻子的北極熊",
+        "FULLNAME": "i-a-polar-bear-covering-my-nose-in-a-snowstorm",
+        "RATING": 13,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "搞笑",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-789-J - 屁屁鬼！！",
+        "FULLNAME": "scp-789-j",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "人形",
+            "合著",
+            "搞笑",
+            "研究員james",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "於其影中：第二章",
+        "FULLNAME": "in-his-own-image-part-2",
+        "RATING": 3,
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "gears博士",
+            "glass博士",
+            "lament特工",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "吾王萬歲",
+        "FULLNAME": "long-live-the-king",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "king博士",
+            "故事",
+            "歡樂基金會",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "S. D. Locke的提案",
+        "FULLNAME": "shaggydredlocks-proposal",
+        "RATING": 23,
+        "COMMENTS": "1",
+        "TAGS": [
+            "001提案",
+            "apollyon",
+            "en",
+            "k級情景",
+            "meta",
+            "scp",
+            "the-administrator",
+            "光照影響",
+            "恆星",
+            "未收容",
+            "生物危害",
+            "破曉",
+            "翻譯",
+            "變形"
+        ]
+    },
+    {
+        "TITLE": "自畫像:)",
+        "FULLNAME": "self-portrait",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "en-萬聖節2022",
+            "翻譯",
+            "藝術作品"
+        ]
+    },
+    {
+        "TITLE": "SCP-4852 - Site-19南遷渡冬去！",
+        "FULLNAME": "scp-4852",
+        "RATING": 11,
+        "COMMENTS": "1",
+        "TAGS": [
+            "aktus主任",
+            "bright博士",
+            "clef博士",
+            "en",
+            "euclid",
+            "kain-pathos-crow",
+            "kondraki博士",
+            "moose主任",
+            "scp",
+            "反熵",
+            "地點",
+            "感知力",
+            "活物",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "老梗與你：一部教育影片",
+        "FULLNAME": "cliches-and-you-an-educational-film",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "心得",
+            "搞笑",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-4370 - 貓娘亦有情",
+        "FULLNAME": "scp-4370",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "scp",
+            "人形",
+            "媒體",
+            "復活",
+            "智能",
+            "機密分級",
+            "翻譯",
+            "自主",
+            "藝術性",
+            "貓類",
+            "電腦"
+        ]
+    },
+    {
+        "TITLE": "SCP格式資源",
+        "FULLNAME": "scp-style-resource",
+        "RATING": 32,
+        "COMMENTS": "6",
+        "TAGS": [
+            "合作",
+            "定期檢查",
+            "指導",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-6939 - 我婆要我命- ★☆☆☆☆",
+        "FULLNAME": "scp-6939",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "keter",
+            "scp",
+            "人形",
+            "媒體",
+            "感知力",
+            "智能",
+            "翻譯",
+            "自主",
+            "藝術性",
+            "變形"
+        ]
+    },
+    {
+        "TITLE": "SCP-6552 - 潮汐.wav",
+        "FULLNAME": "scp-6552",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "媒體",
+            "翻譯",
+            "聲音",
+            "音頻"
+        ]
+    },
+    {
+        "TITLE": "MTF Psi-7「家居裝飾」概述",
+        "FULLNAME": "overview-of-mtf-psi-7-home-improvement",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "故事",
+            "歡樂基金會",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-6131 - 遺世孤立",
+        "FULLNAME": "scp-6131",
+        "RATING": 13,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "meta",
+            "scp",
+            "共感",
+            "機密分級",
+            "精神影響",
+            "翻譯",
+            "資訊危害"
+        ]
+    },
+    {
+        "TITLE": "SCP-3984 - 用棍棒戳死神",
+        "FULLNAME": "scp-3984",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "d-11424 en",
+            "en-末日2018",
+            "keter",
+            "k級情景",
+            "scp",
+            "未收容",
+            "死亡終了",
+            "無形",
+            "神經性",
+            "翻譯",
+            "醫學性"
+        ]
+    },
+    {
+        "TITLE": "SCP-3731 - 常態將受到保護",
+        "FULLNAME": "scp-3731",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "en-末日2018",
+            "keter",
+            "k級情景",
+            "moose主任",
+            "scp",
+            "人形",
+            "倫理委員會",
+            "傳染性",
+            "全球超自然聯盟",
+            "反熵",
+            "合著",
+            "型態變化",
+            "感知力",
+            "智能",
+            "活物",
+            "物種",
+            "生物危害",
+            "生物性",
+            "神化",
+            "翻譯",
+            "蛇之手",
+            "變形"
+        ]
+    },
+    {
+        "TITLE": "SCP-3396 - 至高天境寄生體",
+        "FULLNAME": "scp-3396",
+        "RATING": 7,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "en-末日2018",
+            "k級情景",
+            "scp",
+            "不可摧毀",
+            "不可移動",
+            "傳染性",
+            "反熵",
+            "寄生性",
+            "樹木",
+            "機密分級",
+            "液體",
+            "無形",
+            "生物危害",
+            "生物性",
+            "神化",
+            "節肢動物",
+            "翻譯",
+            "變形"
+        ]
+    },
+    {
+        "TITLE": "SCP-7666 - 陰間維加斯講座：莊家會輸",
+        "FULLNAME": "scp-7666",
+        "RATING": 13,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "en-7000",
+            "keter",
+            "scp",
+            "城市",
+            "宗教",
+            "翻譯",
+            "超維度"
+        ]
+    },
+    {
+        "TITLE": "SCP-6369 - 老鼠失物協尋服務",
+        "FULLNAME": "scp-6369",
+        "RATING": 11,
+        "COMMENTS": "4",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "交換",
+            "動物",
+            "合著",
+            "感知力",
+            "智能",
+            "活物",
+            "翻譯",
+            "雜食性",
+            "電子",
+            "鼠類"
         ]
     }
 ]

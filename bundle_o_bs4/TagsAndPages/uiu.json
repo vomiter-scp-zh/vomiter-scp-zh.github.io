@@ -3,7 +3,7 @@
         "TAGNAME": "uiu"
     },
     {
-        "TITLE": "SCP-ZH-255",
+        "TITLE": "SCP-ZH-255 - 賓尼費的最後庇護所",
         "FULLNAME": "scp-zh-255",
         "RATING": 22,
         "COMMENTS": "5",
@@ -90,7 +90,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-400",
+        "TITLE": "SCP-ZH-400 - 月神蘚",
         "FULLNAME": "scp-zh-400",
         "RATING": 14,
         "COMMENTS": "1",
@@ -162,7 +162,7 @@
     {
         "TITLE": "爆旋壽司 青龍舞兮 朱雀飛翔",
         "FULLNAME": "sushi-dragon-phoenix",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "0",
         "TAGS": [
             "uiu",

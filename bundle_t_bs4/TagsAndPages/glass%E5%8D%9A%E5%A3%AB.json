@@ -169,13 +169,56 @@
     {
         "TITLE": "時空站點Site-01（RCT-Δt中心）",
         "FULLNAME": "welcome-to-delta-t",
-        "RATING": 8,
+        "RATING": 9,
         "COMMENTS": "0",
         "TAGS": [
             "en",
             "glass博士",
             "thad-xyank",
             "中心",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "於其影中：第二章",
+        "FULLNAME": "in-his-own-image-part-2",
+        "RATING": 3,
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "gears博士",
+            "glass博士",
+            "lament特工",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "於其影中：插曲 3",
+        "FULLNAME": "in-his-own-image-interlude-3",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "gears博士",
+            "glass博士",
+            "iceberg博士",
+            "lament特工",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "於其影中：第六章",
+        "FULLNAME": "in-his-own-image-part-6",
+        "RATING": 1,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "gears博士",
+            "glass博士",
+            "lament特工",
+            "故事",
             "翻譯"
         ]
     }

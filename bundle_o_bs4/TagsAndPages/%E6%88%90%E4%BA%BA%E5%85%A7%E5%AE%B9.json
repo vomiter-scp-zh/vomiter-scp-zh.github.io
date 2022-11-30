@@ -19,7 +19,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-235",
+        "TITLE": "SCP-ZH-235 - 會飛的小黃書",
         "FULLNAME": "adult:scp-zh-235",
         "RATING": 21,
         "COMMENTS": "10",
@@ -68,7 +68,7 @@
     {
         "TITLE": "SCP-V1L3-J實驗產物備份 燃燒卡路里",
         "FULLNAME": "adult:v1l3-j-burning-calories",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "ctrl-z博士",
@@ -104,7 +104,7 @@
     {
         "TITLE": "SCP-V1L3-J實驗產物附圖備份",
         "FULLNAME": "adult:k1s10r0d-art-of-v1l3-j-burning-calories",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "ctrl-z博士",
@@ -118,7 +118,7 @@
     {
         "TITLE": "SCP-ZH-991 - 魅魔後裔",
         "FULLNAME": "adult:scp-zh-991",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "4",
         "TAGS": [
             "2021夏季競賽",
@@ -144,7 +144,7 @@
     {
         "TITLE": "V1L3-J實驗產物副本 夜遊賭城指南",
         "FULLNAME": "adult:v1l3-j-how-to-spend-the-night-in-sin-city",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "3",
         "TAGS": [
             "2021夏季競賽",
@@ -175,7 +175,7 @@
     {
         "TITLE": "晚安12站",
         "FULLNAME": "adult:oyasumi-site-zh-12",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "1",
         "TAGS": [
             "ad博士",
@@ -189,7 +189,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-333",
+        "TITLE": "SCP-ZH-333 - 往日不再",
         "FULLNAME": "adult:scp-zh-333",
         "RATING": 8,
         "COMMENTS": "0",
@@ -209,6 +209,41 @@
             "物種",
             "蛇之手",
             "重新導向"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-300-J - 我的襪襪🥺",
+        "FULLNAME": "scp-zh-300-j",
+        "RATING": 17,
+        "COMMENTS": "6",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "keter",
+            "meta",
+            "scp",
+            "site-zh-44",
+            "原創",
+            "成人內容",
+            "搞笑",
+            "衣物"
+        ]
+    },
+    {
+        "TITLE": "執左道者的自我政變",
+        "FULLNAME": "self-coup-of-the-knavish",
+        "RATING": 17,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "metha博士",
+            "原創",
+            "地下街",
+            "成人內容",
+            "故事",
+            "物理少年",
+            "研究員knave",
+            "航海學",
+            "轉世計劃"
         ]
     }
 ]

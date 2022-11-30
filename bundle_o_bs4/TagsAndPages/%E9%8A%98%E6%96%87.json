@@ -21,9 +21,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-091",
+        "TITLE": "SCP-ZH-091 - 逃兵",
         "FULLNAME": "scp-zh-091",
-        "RATING": 19,
+        "RATING": 20,
         "COMMENTS": "3",
         "TAGS": [
             "2020攀爬金字塔",
@@ -42,7 +42,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-206",
+        "TITLE": "SCP-ZH-206 - 施展快快好的魔法了呦",
         "FULLNAME": "scp-zh-206",
         "RATING": 3,
         "COMMENTS": "2",
@@ -107,7 +107,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-776",
+        "TITLE": "SCP-ZH-776 - 暗黑暗黑暗黑之劍",
         "FULLNAME": "scp-zh-776",
         "RATING": 7,
         "COMMENTS": "6",
@@ -136,6 +136,7 @@
             "zh999",
             "原創",
             "建築物",
+            "循環",
             "時間影響",
             "聲音",
             "逆模因",
@@ -163,7 +164,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-109",
+        "TITLE": "SCP-ZH-109 - 彩虹橋",
         "FULLNAME": "scp-zh-109",
         "RATING": 16,
         "COMMENTS": "0",
@@ -181,7 +182,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-137",
+        "TITLE": "SCP-ZH-137 - 墨玉鎖妖大印",
         "FULLNAME": "scp-zh-137",
         "RATING": 6,
         "COMMENTS": "0",

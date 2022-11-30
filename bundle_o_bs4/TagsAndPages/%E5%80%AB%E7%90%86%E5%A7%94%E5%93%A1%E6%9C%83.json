@@ -3,7 +3,7 @@
         "TAGNAME": "倫理委員會"
     },
     {
-        "TITLE": "SCP-ZH-349",
+        "TITLE": "SCP-ZH-349 - 天已遊憩廳",
         "FULLNAME": "scp-zh-349",
         "RATING": 6,
         "COMMENTS": "1",
@@ -74,7 +74,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-236",
+        "TITLE": "SCP-ZH-236 - 終年病",
         "FULLNAME": "scp-zh-236",
         "RATING": 11,
         "COMMENTS": "3",
@@ -124,9 +124,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-088",
+        "TITLE": "SCP-ZH-088 - 只有男子漢可以進入的門",
         "FULLNAME": "scp-zh-088",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "1",
         "TAGS": [
             "euclid",

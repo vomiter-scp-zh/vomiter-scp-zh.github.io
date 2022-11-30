@@ -16,7 +16,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-724",
+        "TITLE": "SCP-ZH-724 - 荷瓦伊的溫室球",
         "FULLNAME": "scp-zh-724",
         "RATING": 5,
         "COMMENTS": "3",
@@ -62,7 +62,7 @@
     {
         "TITLE": "SCP-ZH-002 - 台灣獨角獸",
         "FULLNAME": "scp-zh-002",
-        "RATING": 36,
+        "RATING": 37,
         "COMMENTS": "13",
         "TAGS": [
             "keter",
@@ -92,7 +92,7 @@
     {
         "TITLE": "SCP-ZH-102 - 《彩虹橋》保密條款",
         "FULLNAME": "scp-zh-102",
-        "RATING": 8,
+        "RATING": 9,
         "COMMENTS": "9",
         "TAGS": [
             "2020攀爬金字塔",
@@ -110,7 +110,7 @@
     {
         "TITLE": "那些被當成藥物宰來吃的人們",
         "FULLNAME": "sh-cannibalism-in-taiwan",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "5",
         "TAGS": [
             "goi格式",
@@ -264,7 +264,7 @@
     {
         "TITLE": "SCP-ZH-922 - 馬蘭姑娘",
         "FULLNAME": "scp-zh-922",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "1",
         "TAGS": [
             "euclid",

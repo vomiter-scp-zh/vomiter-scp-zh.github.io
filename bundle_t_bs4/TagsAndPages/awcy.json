@@ -30,7 +30,7 @@
     {
         "TITLE": "異常的詩集",
         "FULLNAME": "scpoems",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "1",
         "TAGS": [
             "awcy",
@@ -215,7 +215,7 @@
     {
         "TITLE": "SCP-2911-JP - 美國最漫長的一天",
         "FULLNAME": "scp-2911-jp",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "2",
         "TAGS": [
             "1998年",
@@ -536,6 +536,21 @@
             "ruiz-duchamp",
             "故事",
             "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-4141 - 《你：實時自傳》",
+        "FULLNAME": "scp-4141",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "awcy",
+            "en",
+            "safe",
+            "scp",
+            "建築物",
+            "翻譯",
+            "超維度"
         ]
     }
 ]

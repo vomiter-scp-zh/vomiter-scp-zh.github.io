@@ -138,7 +138,7 @@
     {
         "TITLE": "SCP-6630 - 彼方遙火",
         "FULLNAME": "scp-6630",
-        "RATING": 18,
+        "RATING": 19,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -155,7 +155,7 @@
     {
         "TITLE": "SCP-6355 - 扼殺禮義之咽喉",
         "FULLNAME": "scp-6355",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -199,6 +199,20 @@
             "en-部門競賽2022",
             "故事",
             "翻譯"
+        ]
+    },
+    {
+        "TITLE": "凜冬",
+        "FULLNAME": "site-14-secure-facility-dossier",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "en-部門競賽2022",
+            "合著",
+            "站點",
+            "翻譯",
+            "電信監控辦公室"
         ]
     }
 ]

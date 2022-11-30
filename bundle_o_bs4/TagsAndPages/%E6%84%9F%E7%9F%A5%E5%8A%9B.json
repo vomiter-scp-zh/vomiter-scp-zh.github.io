@@ -26,7 +26,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-045",
+        "TITLE": "SCP-ZH-045 - 萬能胡椒",
         "FULLNAME": "scp-zh-045",
         "RATING": 19,
         "COMMENTS": "0",
@@ -44,7 +44,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-301",
+        "TITLE": "SCP-ZH-301 - 馬斯列尼查",
         "FULLNAME": "scp-zh-301",
         "RATING": 17,
         "COMMENTS": "0",
@@ -64,7 +64,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-025",
+        "TITLE": "SCP-ZH-025 - 雪花小貓咪",
         "FULLNAME": "scp-zh-025",
         "RATING": 16,
         "COMMENTS": "2",
@@ -144,7 +144,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-175",
+        "TITLE": "SCP-ZH-175 - 贋造的幸福",
         "FULLNAME": "scp-zh-175",
         "RATING": 10,
         "COMMENTS": "2",
@@ -162,7 +162,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-282",
+        "TITLE": "SCP-ZH-282 - 饕客",
         "FULLNAME": "scp-zh-282",
         "RATING": 19,
         "COMMENTS": "3",
@@ -178,7 +178,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-321",
+        "TITLE": "SCP-ZH-321 - 瑯嬌靈貓",
         "FULLNAME": "scp-zh-321",
         "RATING": 7,
         "COMMENTS": "4",
@@ -211,7 +211,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-526",
+        "TITLE": "SCP-ZH-526 - 我就是一台烤土司機",
         "FULLNAME": "scp-zh-526",
         "RATING": 19,
         "COMMENTS": "1",
@@ -227,9 +227,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-091",
+        "TITLE": "SCP-ZH-091 - 逃兵",
         "FULLNAME": "scp-zh-091",
-        "RATING": 19,
+        "RATING": 20,
         "COMMENTS": "3",
         "TAGS": [
             "2020攀爬金字塔",
@@ -330,7 +330,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-197",
+        "TITLE": "SCP-ZH-197 - 樂群湖水怪",
         "FULLNAME": "scp-zh-197",
         "RATING": 9,
         "COMMENTS": "3",
@@ -349,7 +349,7 @@
     {
         "TITLE": "SCP-ZH-057 - 暴躁小行星",
         "FULLNAME": "scp-zh-057",
-        "RATING": 18,
+        "RATING": 19,
         "COMMENTS": "4",
         "TAGS": [
             "scp",
@@ -364,7 +364,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-054",
+        "TITLE": "SCP-ZH-054 - 香蕉，僅此而已",
         "FULLNAME": "scp-zh-054",
         "RATING": 7,
         "COMMENTS": "4",
@@ -395,7 +395,7 @@
     {
         "TITLE": "SCP-ZH-062 - 燈猴",
         "FULLNAME": "scp-zh-062",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "0",
         "TAGS": [
             "safe",
@@ -483,6 +483,66 @@
             "反熵",
             "感知力",
             "智能"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-993 - 無知則自由",
+        "FULLNAME": "scp-zh-993",
+        "RATING": 25,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "meta",
+            "scp",
+            "人形",
+            "原創",
+            "基金會製造",
+            "容器",
+            "復活",
+            "感知力",
+            "放射性",
+            "無效化",
+            "生物性",
+            "知識",
+            "記錄",
+            "轉世計劃"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-911 - 你所捍衛的自由",
+        "FULLNAME": "scp-zh-911",
+        "RATING": 21,
+        "COMMENTS": "0",
+        "TAGS": [
+            "euclid",
+            "meta",
+            "scp",
+            "site-zh-50",
+            "原創",
+            "感知力",
+            "智能",
+            "本質促動",
+            "武器",
+            "異常移動",
+            "認知危害",
+            "資訊危害"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-214 - 勿忘我",
+        "FULLNAME": "scp-zh-214",
+        "RATING": 8,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022萬聖事件",
+            "scp",
+            "人形",
+            "人造物品",
+            "原創",
+            "感知力",
+            "無效化",
+            "第八處",
+            "通訊"
         ]
     }
 ]

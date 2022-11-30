@@ -3,7 +3,7 @@
         "TAGNAME": "site-zh-26"
     },
     {
-        "TITLE": "SCP-ZH-251",
+        "TITLE": "SCP-ZH-251 - 三樓遺址",
         "FULLNAME": "scp-zh-251",
         "RATING": 10,
         "COMMENTS": "0",
@@ -20,9 +20,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-018",
+        "TITLE": "SCP-ZH-018 - 繼承之照",
         "FULLNAME": "scp-zh-018",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "2",
         "TAGS": [
             "euclid",
@@ -35,7 +35,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-122",
+        "TITLE": "SCP-ZH-122 - 螢火蟲燈泡",
         "FULLNAME": "scp-zh-122",
         "RATING": 5,
         "COMMENTS": "1",
@@ -47,7 +47,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-521",
+        "TITLE": "SCP-ZH-521 - 摺紙屋",
         "FULLNAME": "scp-zh-521",
         "RATING": 3,
         "COMMENTS": "2",
@@ -60,7 +60,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-213",
+        "TITLE": "SCP-ZH-213 - 選擇眼鏡",
         "FULLNAME": "scp-zh-213",
         "RATING": 4,
         "COMMENTS": "1",
@@ -146,7 +146,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-007",
+        "TITLE": "SCP-ZH-007 - 幾何鯊魚",
         "FULLNAME": "scp-zh-007",
         "RATING": 15,
         "COMMENTS": "0",
@@ -166,7 +166,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-407",
+        "TITLE": "SCP-ZH-407 - 仿生金屬",
         "FULLNAME": "scp-zh-407",
         "RATING": 3,
         "COMMENTS": "1",

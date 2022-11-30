@@ -3,7 +3,7 @@
         "TAGNAME": "復活"
     },
     {
-        "TITLE": "SCP-ZH-262",
+        "TITLE": "SCP-ZH-262 - 竹解",
         "FULLNAME": "scp-zh-262",
         "RATING": 12,
         "COMMENTS": "1",
@@ -22,9 +22,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-053",
+        "TITLE": "SCP-ZH-053 - 讓我們擦乾你的淚水",
         "FULLNAME": "scp-zh-053",
-        "RATING": 29,
+        "RATING": 30,
         "COMMENTS": "0",
         "TAGS": [
             "2020虹光之間",
@@ -83,6 +83,29 @@
             "復活",
             "金屬",
             "骨骼"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-993 - 無知則自由",
+        "FULLNAME": "scp-zh-993",
+        "RATING": 25,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "meta",
+            "scp",
+            "人形",
+            "原創",
+            "基金會製造",
+            "容器",
+            "復活",
+            "感知力",
+            "放射性",
+            "無效化",
+            "生物性",
+            "知識",
+            "記錄",
+            "轉世計劃"
         ]
     }
 ]

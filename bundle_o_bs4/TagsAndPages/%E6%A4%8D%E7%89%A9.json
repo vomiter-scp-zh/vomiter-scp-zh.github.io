@@ -3,7 +3,7 @@
         "TAGNAME": "植物"
     },
     {
-        "TITLE": "SCP-ZH-408",
+        "TITLE": "SCP-ZH-408 - 唇果樹",
         "FULLNAME": "scp-zh-408",
         "RATING": 6,
         "COMMENTS": "1",
@@ -16,7 +16,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-020",
+        "TITLE": "SCP-ZH-020 - 百事可樂薯",
         "FULLNAME": "scp-zh-020",
         "RATING": 13,
         "COMMENTS": "5",
@@ -30,7 +30,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-626",
+        "TITLE": "SCP-ZH-626 - 視野外",
         "FULLNAME": "scp-zh-626",
         "RATING": 23,
         "COMMENTS": "0",
@@ -65,7 +65,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-261",
+        "TITLE": "SCP-ZH-261 - 古巴糖",
         "FULLNAME": "scp-zh-261",
         "RATING": 10,
         "COMMENTS": "1",
@@ -84,7 +84,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-236",
+        "TITLE": "SCP-ZH-236 - 終年病",
         "FULLNAME": "scp-zh-236",
         "RATING": 11,
         "COMMENTS": "3",
@@ -103,9 +103,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-101",
+        "TITLE": "SCP-ZH-101 - 一樹一世界",
         "FULLNAME": "scp-zh-101",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "1",
         "TAGS": [
             "keter",
@@ -119,7 +119,7 @@
     {
         "TITLE": "SCP-ZH-2588-J",
         "FULLNAME": "scp-zh-2588-j",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "2020虹光之間",
@@ -213,7 +213,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-409",
+        "TITLE": "SCP-ZH-409 - 鐵衣藻",
         "FULLNAME": "scp-zh-409",
         "RATING": 12,
         "COMMENTS": "6",
@@ -232,7 +232,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-128",
+        "TITLE": "SCP-ZH-128 - 此味並非惡魔之作",
         "FULLNAME": "scp-zh-128",
         "RATING": 20,
         "COMMENTS": "3",
@@ -250,7 +250,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-039",
+        "TITLE": "SCP-ZH-039 - 晾衣樹",
         "FULLNAME": "scp-zh-039",
         "RATING": 9,
         "COMMENTS": "3",
@@ -268,7 +268,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-054",
+        "TITLE": "SCP-ZH-054 - 香蕉，僅此而已",
         "FULLNAME": "scp-zh-054",
         "RATING": 7,
         "COMMENTS": "4",
@@ -302,7 +302,7 @@
     {
         "TITLE": "SCP-ZH-922 - 馬蘭姑娘",
         "FULLNAME": "scp-zh-922",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "1",
         "TAGS": [
             "euclid",

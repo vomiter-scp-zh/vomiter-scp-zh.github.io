@@ -3,9 +3,9 @@
         "TAGNAME": "宗教"
     },
     {
-        "TITLE": "SCP-ZH-174",
+        "TITLE": "SCP-ZH-174 - 非常普通，再普通不過的線香",
         "FULLNAME": "scp-zh-174",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "4",
         "TAGS": [
             "keter",
@@ -13,13 +13,14 @@
             "儀式性",
             "原創",
             "宗教",
+            "氣體",
             "無效化",
             "蛇之手",
             "認知危害"
         ]
     },
     {
-        "TITLE": "SCP-ZH-085",
+        "TITLE": "SCP-ZH-085 - 守護之鍊",
         "FULLNAME": "scp-zh-085",
         "RATING": 6,
         "COMMENTS": "5",
@@ -34,7 +35,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-066",
+        "TITLE": "SCP-ZH-066 - 有借有還",
         "FULLNAME": "scp-zh-066",
         "RATING": 11,
         "COMMENTS": "5",
@@ -55,7 +56,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-613",
+        "TITLE": "SCP-ZH-613 - 血天使",
         "FULLNAME": "scp-zh-613",
         "RATING": 17,
         "COMMENTS": "1",
@@ -74,7 +75,7 @@
     {
         "TITLE": "SCP-ZH-062 - 燈猴",
         "FULLNAME": "scp-zh-062",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "0",
         "TAGS": [
             "safe",
@@ -112,7 +113,7 @@
         "TITLE": "SCP-ZH-750 - 神說：「要有油。」就有了油。",
         "FULLNAME": "scp-zh-750",
         "RATING": 30,
-        "COMMENTS": "4",
+        "COMMENTS": "5",
         "TAGS": [
             "2022夏季競賽",
             "euclid",

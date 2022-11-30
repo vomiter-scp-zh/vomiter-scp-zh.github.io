@@ -19,7 +19,7 @@
     {
         "TITLE": "全新把戲（或：青年文化殺了我的狗",
         "FULLNAME": "new-tricks",
-        "RATING": 2,
+        "RATING": 3,
         "COMMENTS": "0",
         "TAGS": [
             "bowe上將",
@@ -33,6 +33,45 @@
             "復生",
             "故事",
             "翻譯"
+        ]
+    },
+    {
+        "TITLE": "第一名的射手",
+        "FULLNAME": "number-one-with-a-bullet",
+        "RATING": 3,
+        "COMMENTS": "2",
+        "TAGS": [
+            "bowe上將",
+            "clef博士",
+            "elliott博士",
+            "en",
+            "iris-thompson",
+            "kain-pathos-crow",
+            "全球超自然聯盟",
+            "復生",
+            "故事",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "危險迎面而來",
+        "FULLNAME": "in-harm-s-way",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "bowe上將",
+            "bright博士",
+            "en",
+            "gillespie主任",
+            "iris-thompson",
+            "kain-pathos-crow",
+            "light博士",
+            "moose主任",
+            "roget博士",
+            "復生",
+            "故事",
+            "翻譯",
+            "該隱"
         ]
     }
 ]

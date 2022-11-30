@@ -3,7 +3,7 @@
         "TAGNAME": "安布羅斯餐廳"
     },
     {
-        "TITLE": "SCP-ZH-256",
+        "TITLE": "SCP-ZH-256 - 基改山泉",
         "FULLNAME": "scp-zh-256",
         "RATING": 15,
         "COMMENTS": "0",
@@ -111,7 +111,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-055",
+        "TITLE": "SCP-ZH-055 - 做你自己的主廚，隨時隨地開動吧！",
         "FULLNAME": "scp-zh-055",
         "RATING": 18,
         "COMMENTS": "3",
@@ -203,7 +203,7 @@
     {
         "TITLE": "爆旋壽司 青龍舞兮 朱雀飛翔",
         "FULLNAME": "sushi-dragon-phoenix",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "0",
         "TAGS": [
             "uiu",
@@ -220,7 +220,7 @@
     {
         "TITLE": "SCP-ZH-361 - 驚喜X麵",
         "FULLNAME": "scp-zh-361",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "0",
         "TAGS": [
             "2022夏季競賽",
@@ -231,6 +231,25 @@
             "安布羅斯餐廳",
             "昆蟲",
             "食物"
+        ]
+    },
+    {
+        "TITLE": "酒單：威士忌",
+        "FULLNAME": "whiskey",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "site-zh-16",
+            "全球超自然聯盟",
+            "原創",
+            "叁月協會",
+            "威爾遜生物應對組",
+            "安布羅斯餐廳",
+            "故事",
+            "沙皇先知協會",
+            "異視維基",
+            "第八處",
+            "阿卡迪亞"
         ]
     }
 ]

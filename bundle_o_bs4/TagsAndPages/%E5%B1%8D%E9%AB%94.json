@@ -3,7 +3,7 @@
         "TAGNAME": "屍體"
     },
     {
-        "TITLE": "SCP-ZH-028",
+        "TITLE": "SCP-ZH-028 - 縮骨衣魚",
         "FULLNAME": "scp-zh-028",
         "RATING": 7,
         "COMMENTS": "0",
@@ -22,9 +22,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-053",
+        "TITLE": "SCP-ZH-053 - 讓我們擦乾你的淚水",
         "FULLNAME": "scp-zh-053",
-        "RATING": 29,
+        "RATING": 30,
         "COMMENTS": "0",
         "TAGS": [
             "2020虹光之間",
@@ -62,7 +62,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-014",
+        "TITLE": "SCP-ZH-014 - 人魚公主的故事",
         "FULLNAME": "scp-zh-014",
         "RATING": 20,
         "COMMENTS": "4",
@@ -83,7 +83,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-040",
+        "TITLE": "SCP-ZH-040 - 觀眾視角",
         "FULLNAME": "scp-zh-040",
         "RATING": 12,
         "COMMENTS": "1",
@@ -99,7 +99,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-042",
+        "TITLE": "SCP-ZH-042 - 捨身餵人",
         "FULLNAME": "scp-zh-042",
         "RATING": 17,
         "COMMENTS": "1",
@@ -164,7 +164,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-052",
+        "TITLE": "SCP-ZH-052 - 忘了我吧，但我不會忘記你們的",
         "FULLNAME": "scp-zh-052",
         "RATING": 18,
         "COMMENTS": "0",
@@ -203,7 +203,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-832",
+        "TITLE": "SCP-ZH-832 - 回溫",
         "FULLNAME": "scp-zh-832",
         "RATING": 10,
         "COMMENTS": "3",
@@ -303,7 +303,7 @@
     {
         "TITLE": "SCP-ZH-132 - 要你命的007遊戲",
         "FULLNAME": "scp-zh-132",
-        "RATING": 14,
+        "RATING": 13,
         "COMMENTS": "0",
         "TAGS": [
             "scp",
@@ -331,7 +331,7 @@
     {
         "TITLE": "SCP-ZH-180 - 安 妮 :-)",
         "FULLNAME": "scp-zh-180",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "2",
         "TAGS": [
             "scp",
@@ -345,6 +345,22 @@
             "觀察影響",
             "都異部門",
             "雕像"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-418 - 查無此項目",
+        "FULLNAME": "scp-zh-418",
+        "RATING": 10,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022萬聖事件",
+            "ijamea",
+            "scp",
+            "原創",
+            "反常部",
+            "屍體",
+            "建築",
+            "機密分級"
         ]
     }
 ]

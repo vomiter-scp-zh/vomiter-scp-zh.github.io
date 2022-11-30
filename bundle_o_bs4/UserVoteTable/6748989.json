@@ -62,7 +62,7 @@
     {
         "TITLE": "冰箱",
         "FULLNAME": "fridge",
-        "RATING": 11,
+        "RATING": 15,
         "COMMENTS": "0",
         "TAGS": [
             "ain博士",
@@ -72,7 +72,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-012",
+        "TITLE": "SCP-ZH-012 - 十二",
         "FULLNAME": "scp-zh-012",
         "RATING": 19,
         "COMMENTS": "2",
@@ -166,7 +166,7 @@
     {
         "TITLE": "收容室ZH-S12-E-024實驗紀錄",
         "FULLNAME": "scp-zh-024",
-        "RATING": 33,
+        "RATING": 34,
         "COMMENTS": "0",
         "TAGS": [
             "euclid",
@@ -196,7 +196,7 @@
     {
         "TITLE": "花語：花毛茛",
         "FULLNAME": "ranunculus",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "3",
         "TAGS": [
             "site-zh-02",
@@ -253,7 +253,7 @@
     {
         "TITLE": "爆旋壽司 青龍舞兮 朱雀飛翔",
         "FULLNAME": "sushi-dragon-phoenix",
-        "RATING": 14,
+        "RATING": 15,
         "COMMENTS": "0",
         "TAGS": [
             "uiu",
@@ -270,7 +270,7 @@
     {
         "TITLE": "Dr. Bales的日常小品集錦 二",
         "FULLNAME": "bales-s-daily-2",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "1",
         "TAGS": [
             "ain博士",
@@ -289,7 +289,7 @@
     {
         "TITLE": "你會感到後悔嗎？",
         "FULLNAME": "what-are-you-waiting-for-just-join-goc-dude",
-        "RATING": 35,
+        "RATING": 36,
         "COMMENTS": "5",
         "TAGS": [
             "全球超自然聯盟",
@@ -376,7 +376,7 @@
     {
         "TITLE": "「轉世計劃」",
         "FULLNAME": "project-reincarnation",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "1",
         "TAGS": [
             "原創",
@@ -388,7 +388,7 @@
     {
         "TITLE": "SCP-ZH-057 - 暴躁小行星",
         "FULLNAME": "scp-zh-057",
-        "RATING": 18,
+        "RATING": 19,
         "COMMENTS": "4",
         "TAGS": [
             "scp",
@@ -405,8 +405,8 @@
     {
         "TITLE": "SCP-ZH-999-J - 工",
         "FULLNAME": "scp-zh-999-j",
-        "RATING": 5,
-        "COMMENTS": "18",
+        "RATING": 6,
+        "COMMENTS": "19",
         "TAGS": [
             "ad博士",
             "hanku博士",

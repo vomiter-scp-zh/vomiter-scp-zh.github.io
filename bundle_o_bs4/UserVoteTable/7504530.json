@@ -42,7 +42,7 @@
     {
         "TITLE": "故事的力量～你為什麼需要超形上學～",
         "FULLNAME": "why-you-need-pataphysics",
-        "RATING": 26,
+        "RATING": 29,
         "COMMENTS": "1",
         "TAGS": [
             "原創",
@@ -274,7 +274,7 @@
     {
         "TITLE": "SCP-ZH-277－築路中原",
         "FULLNAME": "scp-zh-277",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "euclid",
@@ -317,6 +317,7 @@
             "zh999",
             "原創",
             "建築物",
+            "循環",
             "時間影響",
             "聲音",
             "逆模因",
@@ -356,7 +357,7 @@
     {
         "TITLE": "SCP-ZH-922 - 馬蘭姑娘",
         "FULLNAME": "scp-zh-922",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "1",
         "TAGS": [
             "euclid",
@@ -379,7 +380,7 @@
     {
         "TITLE": "沒有基金會的那時",
         "FULLNAME": "the-time-foundation-disappeared",
-        "RATING": 23,
+        "RATING": 24,
         "COMMENTS": "0",
         "TAGS": [
             "原創",
@@ -398,6 +399,209 @@
             "卓文康卓奇",
             "原創",
             "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "殘響",
+        "FULLNAME": "reverberate",
+        "RATING": 16,
+        "COMMENTS": "4",
+        "TAGS": [
+            "clef博士",
+            "gears博士",
+            "kondraki博士",
+            "卓文康卓奇",
+            "原創",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-911 - 你所捍衛的自由",
+        "FULLNAME": "scp-zh-911",
+        "RATING": 21,
+        "COMMENTS": "0",
+        "TAGS": [
+            "euclid",
+            "meta",
+            "scp",
+            "site-zh-50",
+            "原創",
+            "感知力",
+            "智能",
+            "本質促動",
+            "武器",
+            "異常移動",
+            "認知危害",
+            "資訊危害"
+        ]
+    },
+    {
+        "TITLE": "國安局第八處戰略資料：裝備",
+        "FULLNAME": "nsb-8-euipment",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "原創",
+            "第八處",
+            "說明",
+            "雙城作戰"
+        ]
+    },
+    {
+        "TITLE": "基金會空勤收容指導講習-1",
+        "FULLNAME": "aerowar-50-teach-1",
+        "RATING": 9,
+        "COMMENTS": "0",
+        "TAGS": [
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-149 - 身體是你詛咒的道路",
+        "FULLNAME": "scp-zh-149",
+        "RATING": 9,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022萬聖事件",
+            "safe",
+            "scp",
+            "人形",
+            "原創"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-230 - H.K.的漫長餘生",
+        "FULLNAME": "scp-zh-230",
+        "RATING": 12,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022萬聖事件",
+            "keter",
+            "scp",
+            "儀式性",
+            "原創",
+            "無名",
+            "無形"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-091 - 逃兵",
+        "FULLNAME": "scp-zh-091",
+        "RATING": 20,
+        "COMMENTS": "3",
+        "TAGS": [
+            "2020攀爬金字塔",
+            "2021冬季競賽",
+            "euclid",
+            "scp",
+            "site-zh-25",
+            "人造物品",
+            "原創",
+            "型態變化",
+            "感知力",
+            "異常移動",
+            "遊戲",
+            "適應性",
+            "銘文"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-1021-EX- 我叫你不准說出去",
+        "FULLNAME": "scp-zh-1021-ex",
+        "RATING": 5,
+        "COMMENTS": "1",
+        "TAGS": [
+            "safe",
+            "scp",
+            "原創",
+            "已解明"
+        ]
+    },
+    {
+        "TITLE": "為何我們不能濫用現實穩定錨？",
+        "FULLNAME": "about-scranton-reality-anchors",
+        "RATING": 17,
+        "COMMENTS": "3",
+        "TAGS": [
+            "原創",
+            "故事",
+            "普羅米修斯實驗室",
+            "說明"
+        ]
+    },
+    {
+        "TITLE": "曹閾蝶",
+        "FULLNAME": "artworks",
+        "RATING": 16,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022萬聖事件",
+            "原創",
+            "藝術作品"
+        ]
+    },
+    {
+        "TITLE": "絕無二心",
+        "FULLNAME": "forever-heartfelt",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "1998年",
+            "2022萬聖事件",
+            "原創",
+            "大正150年",
+            "故事",
+            "核裂擠兌",
+            "欲肉教",
+            "死亡終了",
+            "物理少年",
+            "破曉",
+            "破碎之神教會",
+            "神化",
+            "繁廣",
+            "航海學",
+            "雙城作戰"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-214 - 勿忘我",
+        "FULLNAME": "scp-zh-214",
+        "RATING": 8,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022萬聖事件",
+            "scp",
+            "人形",
+            "人造物品",
+            "原創",
+            "感知力",
+            "無效化",
+            "第八處",
+            "通訊"
+        ]
+    },
+    {
+        "TITLE": "黑色華爾滋",
+        "FULLNAME": "pitch-dark-walts",
+        "RATING": 12,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022萬聖事件",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "歡迎回家",
+        "FULLNAME": "fog-house",
+        "RATING": 19,
+        "COMMENTS": "3",
+        "TAGS": [
+            "2022萬聖事件",
+            "原創",
             "故事"
         ]
     }

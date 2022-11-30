@@ -3,7 +3,7 @@
         "TAGNAME": "site-zh-31"
     },
     {
-        "TITLE": "SCP-ZH-811",
+        "TITLE": "SCP-ZH-811 - 南中學堂",
         "FULLNAME": "scp-zh-811",
         "RATING": 10,
         "COMMENTS": "6",
@@ -17,9 +17,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-551",
+        "TITLE": "SCP-ZH-551 - 小石潭記",
         "FULLNAME": "scp-zh-551",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "3",
         "TAGS": [
             "euclid",
@@ -29,7 +29,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-431",
+        "TITLE": "SCP-ZH-431 - 固有顏料",
         "FULLNAME": "scp-zh-431",
         "RATING": 4,
         "COMMENTS": "1",
@@ -42,7 +42,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-408",
+        "TITLE": "SCP-ZH-408 - 唇果樹",
         "FULLNAME": "scp-zh-408",
         "RATING": 6,
         "COMMENTS": "1",
@@ -55,7 +55,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-178",
+        "TITLE": "SCP-ZH-178 - 杯鳥",
         "FULLNAME": "scp-zh-178",
         "RATING": 11,
         "COMMENTS": "2",
@@ -120,7 +120,7 @@
     {
         "TITLE": "SCP-ZH-998 - 現象學",
         "FULLNAME": "scp-zh-998",
-        "RATING": 37,
+        "RATING": 38,
         "COMMENTS": "7",
         "TAGS": [
             "k級情景",
@@ -150,7 +150,7 @@
     {
         "TITLE": "安保設施檔案：Site-ZH-31",
         "FULLNAME": "site-zh-31",
-        "RATING": 8,
+        "RATING": 9,
         "COMMENTS": "0",
         "TAGS": [
             "site-zh-31",
@@ -191,7 +191,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-261",
+        "TITLE": "SCP-ZH-261 - 古巴糖",
         "FULLNAME": "scp-zh-261",
         "RATING": 10,
         "COMMENTS": "1",
@@ -210,7 +210,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-028",
+        "TITLE": "SCP-ZH-028 - 縮骨衣魚",
         "FULLNAME": "scp-zh-028",
         "RATING": 7,
         "COMMENTS": "0",
@@ -229,7 +229,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-262",
+        "TITLE": "SCP-ZH-262 - 竹解",
         "FULLNAME": "scp-zh-262",
         "RATING": 12,
         "COMMENTS": "1",
@@ -248,7 +248,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-016",
+        "TITLE": "SCP-ZH-016 - 生態罐頭",
         "FULLNAME": "scp-zh-016",
         "RATING": 7,
         "COMMENTS": "2",

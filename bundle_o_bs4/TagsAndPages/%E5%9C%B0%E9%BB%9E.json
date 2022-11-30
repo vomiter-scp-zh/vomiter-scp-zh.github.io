@@ -3,7 +3,7 @@
         "TAGNAME": "地點"
     },
     {
-        "TITLE": "SCP-ZH-251",
+        "TITLE": "SCP-ZH-251 - 三樓遺址",
         "FULLNAME": "scp-zh-251",
         "RATING": 10,
         "COMMENTS": "0",
@@ -20,7 +20,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-117",
+        "TITLE": "SCP-ZH-117 - 道路保持暢通",
         "FULLNAME": "scp-zh-117",
         "RATING": 33,
         "COMMENTS": "1",
@@ -33,7 +33,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-256",
+        "TITLE": "SCP-ZH-256 - 基改山泉",
         "FULLNAME": "scp-zh-256",
         "RATING": 15,
         "COMMENTS": "0",
@@ -51,7 +51,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-199",
+        "TITLE": "SCP-ZH-199 - 中永和迷宮",
         "FULLNAME": "scp-zh-199",
         "RATING": 22,
         "COMMENTS": "8",
@@ -66,7 +66,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-564",
+        "TITLE": "SCP-ZH-564 - 不想離開的仙那度",
         "FULLNAME": "scp-zh-564",
         "RATING": 5,
         "COMMENTS": "7",
@@ -99,7 +99,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-012",
+        "TITLE": "SCP-ZH-012 - 十二",
         "FULLNAME": "scp-zh-012",
         "RATING": 19,
         "COMMENTS": "2",
@@ -145,9 +145,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-113",
+        "TITLE": "SCP-ZH-113 - 抹殺事情的真相",
         "FULLNAME": "scp-zh-113",
-        "RATING": 28,
+        "RATING": 30,
         "COMMENTS": "2",
         "TAGS": [
             "2020夏季競賽",
@@ -163,7 +163,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-014",
+        "TITLE": "SCP-ZH-014 - 人魚公主的故事",
         "FULLNAME": "scp-zh-014",
         "RATING": 20,
         "COMMENTS": "4",
@@ -184,7 +184,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-046",
+        "TITLE": "SCP-ZH-046 - 巡山靈",
         "FULLNAME": "scp-zh-046",
         "RATING": 18,
         "COMMENTS": "2",
@@ -204,7 +204,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-060",
+        "TITLE": "SCP-ZH-060 - 鹿路隧道",
         "FULLNAME": "scp-zh-060",
         "RATING": 21,
         "COMMENTS": "1",
@@ -236,7 +236,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-339",
+        "TITLE": "SCP-ZH-339 - 避風港",
         "FULLNAME": "scp-zh-339",
         "RATING": 16,
         "COMMENTS": "6",
@@ -309,7 +309,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-804",
+        "TITLE": "SCP-ZH-804 - 桃花園",
         "FULLNAME": "scp-zh-804",
         "RATING": 9,
         "COMMENTS": "3",
@@ -343,7 +343,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-360",
+        "TITLE": "SCP-ZH-360 - 學校的石子地板",
         "FULLNAME": "scp-zh-360",
         "RATING": 8,
         "COMMENTS": "0",
@@ -497,7 +497,7 @@
     {
         "TITLE": "SCP-ZH-540 - Alone In The Dark",
         "FULLNAME": "scp-zh-540",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "2",
         "TAGS": [
             "scp",
@@ -656,6 +656,48 @@
             "骨骼",
             "魚類",
             "鯨類"
+        ]
+    },
+    {
+        "TITLE": "Reverberate_a的提案",
+        "FULLNAME": "reverberate-a-s-proposal-1",
+        "RATING": 23,
+        "COMMENTS": "2",
+        "TAGS": [
+            "001提案",
+            "2022紅藍爭霸賽",
+            "reverberate博士",
+            "人形",
+            "原創",
+            "地點",
+            "心靈影響",
+            "觀察影響"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-962 - 似是而非",
+        "FULLNAME": "scp-zh-962",
+        "RATING": 19,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022萬聖事件",
+            "ain博士",
+            "k級情景",
+            "maddy",
+            "scp",
+            "site-zh-01",
+            "site-zh-44",
+            "surge博士",
+            "thaumiel",
+            "三垣",
+            "傳送",
+            "原創",
+            "合著",
+            "地點",
+            "時空",
+            "渾沌反叛軍",
+            "結構物",
+            "超維度"
         ]
     }
 ]

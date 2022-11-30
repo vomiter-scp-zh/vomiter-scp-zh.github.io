@@ -13,7 +13,7 @@
     {
         "TITLE": "SCP-ZH-587-J",
         "FULLNAME": "scp-zh-587-j",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "1",
         "TAGS": [
             "keter",
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-582",
+        "TITLE": "SCP-ZH-582 - 世上最討人喜愛的不明生物",
         "FULLNAME": "scp-zh-582",
         "RATING": 15,
         "COMMENTS": "0",
@@ -38,7 +38,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-510",
+        "TITLE": "SCP-ZH-510 - 遺言",
         "FULLNAME": "scp-zh-510",
         "RATING": 10,
         "COMMENTS": "1",
@@ -51,7 +51,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-406",
+        "TITLE": "SCP-ZH-406 - 不紐西蘭",
         "FULLNAME": "scp-zh-406",
         "RATING": 11,
         "COMMENTS": "1",
@@ -87,7 +87,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-618",
+        "TITLE": "SCP-ZH-618 - 太陽餅獅",
         "FULLNAME": "scp-zh-618",
         "RATING": 41,
         "COMMENTS": "0",

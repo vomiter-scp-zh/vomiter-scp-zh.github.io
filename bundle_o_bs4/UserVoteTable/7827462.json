@@ -1,6 +1,6 @@
 [
     {
-        "TITLE": "SCP-ZH-882",
+        "TITLE": "SCP-ZH-882 - 超猛召喚大全",
         "FULLNAME": "scp-zh-882",
         "RATING": 13,
         "COMMENTS": "1",
@@ -44,7 +44,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-012",
+        "TITLE": "SCP-ZH-012 - 十二",
         "FULLNAME": "scp-zh-012",
         "RATING": 19,
         "COMMENTS": "2",
@@ -59,7 +59,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-014",
+        "TITLE": "SCP-ZH-014 - 人魚公主的故事",
         "FULLNAME": "scp-zh-014",
         "RATING": 20,
         "COMMENTS": "4",
@@ -82,7 +82,7 @@
     {
         "TITLE": "SCP-ZH-496 - 安全極限距離",
         "FULLNAME": "scp-zh-496",
-        "RATING": 29,
+        "RATING": 30,
         "COMMENTS": "7",
         "TAGS": [
             "scp",
@@ -98,7 +98,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-048",
+        "TITLE": "SCP-ZH-048 - 劍與魔法與茶之魔手",
         "FULLNAME": "scp-zh-048",
         "RATING": 21,
         "COMMENTS": "2",
@@ -113,7 +113,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-054",
+        "TITLE": "SCP-ZH-054 - 香蕉，僅此而已",
         "FULLNAME": "scp-zh-054",
         "RATING": 7,
         "COMMENTS": "4",
@@ -223,6 +223,68 @@
             "流浪者圖書館",
             "特殊貨物事務委員會",
             "蛇之手"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-157 - 暢行無阻",
+        "FULLNAME": "scp-zh-157",
+        "RATING": 11,
+        "COMMENTS": "1",
+        "TAGS": [
+            "safe",
+            "scp",
+            "人造物品",
+            "原創",
+            "合著",
+            "神異博覽會",
+            "超維度"
+        ]
+    },
+    {
+        "TITLE": "殘響",
+        "FULLNAME": "reverberate",
+        "RATING": 16,
+        "COMMENTS": "4",
+        "TAGS": [
+            "clef博士",
+            "gears博士",
+            "kondraki博士",
+            "卓文康卓奇",
+            "原創",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-113 - 抹殺事情的真相",
+        "FULLNAME": "scp-zh-113",
+        "RATING": 30,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2020夏季競賽",
+            "k級情景",
+            "scp",
+            "原創",
+            "地點",
+            "智能",
+            "未收容",
+            "機密分級",
+            "航海學",
+            "載具"
+        ]
+    },
+    {
+        "TITLE": "表層變動",
+        "FULLNAME": "one-of-the-secrets",
+        "RATING": 18,
+        "COMMENTS": "2",
+        "TAGS": [
+            "ain博士",
+            "maddy",
+            "site-zh-44",
+            "原創",
+            "展出",
+            "故事"
         ]
     }
 ]

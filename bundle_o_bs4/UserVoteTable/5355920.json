@@ -1,6 +1,6 @@
 [
     {
-        "TITLE": "SCP-ZH-229",
+        "TITLE": "SCP-ZH-229 - 藍乾酪",
         "FULLNAME": "scp-zh-229",
         "RATING": 14,
         "COMMENTS": "3",
@@ -11,7 +11,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-666",
+        "TITLE": "SCP-ZH-666 - 被生命所厭惡者",
         "FULLNAME": "scp-zh-666",
         "RATING": 15,
         "COMMENTS": "2",
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-178",
+        "TITLE": "SCP-ZH-178 - 杯鳥",
         "FULLNAME": "scp-zh-178",
         "RATING": 11,
         "COMMENTS": "2",
@@ -38,9 +38,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-003",
+        "TITLE": "SCP-ZH-003 - 極端式信仰",
         "FULLNAME": "scp-zh-003",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "4",
         "TAGS": [
             "euclid",
@@ -53,7 +53,7 @@
     {
         "TITLE": "SCP-ZH-222-J",
         "FULLNAME": "scp-zh-222-j",
-        "RATING": 24,
+        "RATING": 27,
         "COMMENTS": "0",
         "TAGS": [
             "scp",
@@ -64,7 +64,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-583",
+        "TITLE": "SCP-ZH-583 - 壯烈成仁",
         "FULLNAME": "scp-zh-583",
         "RATING": 12,
         "COMMENTS": "6",

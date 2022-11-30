@@ -2,7 +2,7 @@
     {
         "TITLE": "SCP-ZH-998 - 現象學",
         "FULLNAME": "scp-zh-998",
-        "RATING": 37,
+        "RATING": 38,
         "COMMENTS": "7",
         "TAGS": [
             "k級情景",
@@ -32,7 +32,7 @@
     {
         "TITLE": "SCP-ZH-60053-J - HONK",
         "FULLNAME": "scp-zh-60053-j",
-        "RATING": 43,
+        "RATING": 45,
         "COMMENTS": "7",
         "TAGS": [
             "scp",
@@ -50,7 +50,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-222",
+        "TITLE": "SCP-ZH-222 - 月球上的超音波喵❤",
         "FULLNAME": "scp-zh-222",
         "RATING": 13,
         "COMMENTS": "2",
@@ -74,7 +74,7 @@
     {
         "TITLE": "海神悲鳴時",
         "FULLNAME": "wadatsumi-no-naku-koroni",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "3",
         "TAGS": [
             "1998年",
@@ -86,7 +86,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-769",
+        "TITLE": "SCP-ZH-769 - 食物",
         "FULLNAME": "scp-zh-769",
         "RATING": 10,
         "COMMENTS": "2",
@@ -179,6 +179,103 @@
             "原創",
             "台灣原住民",
             "故事"
+        ]
+    },
+    {
+        "TITLE": "Lostwhat的提案一",
+        "FULLNAME": "lostwhat-s-proposal",
+        "RATING": 37,
+        "COMMENTS": "2",
+        "TAGS": [
+            "001提案",
+            "2022紅藍爭霸賽",
+            "k級情景",
+            "scp",
+            "site-zh-01",
+            "三垣",
+            "原創",
+            "機密分級"
+        ]
+    },
+    {
+        "TITLE": "生物電",
+        "FULLNAME": "bioelectricity",
+        "RATING": 9,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "幻想抽離",
+        "FULLNAME": "get-out-of-the-dream",
+        "RATING": 3,
+        "COMMENTS": "3",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "原創",
+            "故事",
+            "物理少年"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-911 - 你所捍衛的自由",
+        "FULLNAME": "scp-zh-911",
+        "RATING": 21,
+        "COMMENTS": "0",
+        "TAGS": [
+            "euclid",
+            "meta",
+            "scp",
+            "site-zh-50",
+            "原創",
+            "感知力",
+            "智能",
+            "本質促動",
+            "武器",
+            "異常移動",
+            "認知危害",
+            "資訊危害"
+        ]
+    },
+    {
+        "TITLE": "酒單：威士忌",
+        "FULLNAME": "whiskey",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "site-zh-16",
+            "全球超自然聯盟",
+            "原創",
+            "叁月協會",
+            "威爾遜生物應對組",
+            "安布羅斯餐廳",
+            "故事",
+            "沙皇先知協會",
+            "異視維基",
+            "第八處",
+            "阿卡迪亞"
+        ]
+    },
+    {
+        "TITLE": "聖誕軍演",
+        "FULLNAME": "xmas-exercise",
+        "RATING": 24,
+        "COMMENTS": "7",
+        "TAGS": [
+            "2019聖夜相守",
+            "reverberate博士",
+            "semibreve博士",
+            "site-zh-02",
+            "site-zh-16",
+            "site-zh-50",
+            "site-zh-81",
+            "原創",
+            "展出",
+            "故事",
+            "研究員l.what"
         ]
     }
 ]

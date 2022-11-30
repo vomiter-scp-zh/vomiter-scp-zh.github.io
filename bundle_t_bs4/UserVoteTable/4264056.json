@@ -98,7 +98,7 @@
     {
         "TITLE": "SCP格式資源",
         "FULLNAME": "scp-style-resource",
-        "RATING": 31,
+        "RATING": 32,
         "COMMENTS": "6",
         "TAGS": [
             "合作",
@@ -133,7 +133,7 @@
     {
         "TITLE": "欲肉教中心頁",
         "FULLNAME": "sarkicism-hub",
-        "RATING": 15,
+        "RATING": 16,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -172,7 +172,7 @@
             "scp",
             "vn",
             "二次翻譯",
-            "儀式",
+            "儀式性",
             "無效化",
             "翻譯"
         ]

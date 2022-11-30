@@ -1,6 +1,6 @@
 [
     {
-        "TITLE": "SCP-ZH-256",
+        "TITLE": "SCP-ZH-256 - 基改山泉",
         "FULLNAME": "scp-zh-256",
         "RATING": 15,
         "COMMENTS": "0",
@@ -20,7 +20,7 @@
     {
         "TITLE": "SCP-ZH-515 - 平安符",
         "FULLNAME": "scp-zh-515",
-        "RATING": 43,
+        "RATING": 44,
         "COMMENTS": "2",
         "TAGS": [
             "2019暑期比賽",
@@ -36,9 +36,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-174",
+        "TITLE": "SCP-ZH-174 - 非常普通，再普通不過的線香",
         "FULLNAME": "scp-zh-174",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "4",
         "TAGS": [
             "keter",
@@ -46,6 +46,7 @@
             "儀式性",
             "原創",
             "宗教",
+            "氣體",
             "無效化",
             "蛇之手",
             "認知危害"
@@ -100,7 +101,7 @@
     {
         "TITLE": "SCP-ZH-998 - 現象學",
         "FULLNAME": "scp-zh-998",
-        "RATING": 37,
+        "RATING": 38,
         "COMMENTS": "7",
         "TAGS": [
             "k級情景",
@@ -128,7 +129,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-075",
+        "TITLE": "SCP-ZH-075 — —- … -… ..- .-. —…-.",
         "FULLNAME": "scp-zh-075",
         "RATING": 13,
         "COMMENTS": "0",
@@ -158,7 +159,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-019",
+        "TITLE": "SCP-ZH-019 - 活態手機",
         "FULLNAME": "scp-zh-019",
         "RATING": 11,
         "COMMENTS": "2",
@@ -176,7 +177,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-520",
+        "TITLE": "SCP-ZH-520 - 愛的幻象",
         "FULLNAME": "scp-zh-520",
         "RATING": 16,
         "COMMENTS": "2",
@@ -194,9 +195,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-053",
+        "TITLE": "SCP-ZH-053 - 讓我們擦乾你的淚水",
         "FULLNAME": "scp-zh-053",
-        "RATING": 29,
+        "RATING": 30,
         "COMMENTS": "0",
         "TAGS": [
             "2020虹光之間",
@@ -237,7 +238,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-060",
+        "TITLE": "SCP-ZH-060 - 鹿路隧道",
         "FULLNAME": "scp-zh-060",
         "RATING": 21,
         "COMMENTS": "1",
@@ -253,7 +254,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-878",
+        "TITLE": "SCP-ZH-878 - 娃娃收集者",
         "FULLNAME": "scp-zh-878",
         "RATING": 20,
         "COMMENTS": "0",
@@ -298,7 +299,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-224",
+        "TITLE": "SCP-ZH-224 - 一盒雞蛋",
         "FULLNAME": "scp-zh-224",
         "RATING": 8,
         "COMMENTS": "3",
@@ -315,7 +316,7 @@
     {
         "TITLE": "SCP-ZH-2005-EX",
         "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 56,
+        "RATING": 58,
         "COMMENTS": "1",
         "TAGS": [
             "2021冬季競賽",
@@ -364,7 +365,7 @@
     {
         "TITLE": "繁中管理員筆記：2021年回顧",
         "FULLNAME": "note-for-u-guys-2021",
-        "RATING": 34,
+        "RATING": 35,
         "COMMENTS": "4",
         "TAGS": [
             "原創",

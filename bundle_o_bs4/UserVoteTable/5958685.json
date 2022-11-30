@@ -1,6 +1,6 @@
 [
     {
-        "TITLE": "SCP-ZH-122",
+        "TITLE": "SCP-ZH-122 - 螢火蟲燈泡",
         "FULLNAME": "scp-zh-122",
         "RATING": 5,
         "COMMENTS": "1",
@@ -25,9 +25,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-041",
+        "TITLE": "SCP-ZH-041 - 夢想",
         "FULLNAME": "scp-zh-041",
-        "RATING": 19,
+        "RATING": 20,
         "COMMENTS": "4",
         "TAGS": [
             "lofia",
@@ -38,7 +38,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-564",
+        "TITLE": "SCP-ZH-564 - 不想離開的仙那度",
         "FULLNAME": "scp-zh-564",
         "RATING": 5,
         "COMMENTS": "7",
@@ -138,7 +138,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-012",
+        "TITLE": "SCP-ZH-012 - 十二",
         "FULLNAME": "scp-zh-012",
         "RATING": 19,
         "COMMENTS": "2",
@@ -153,9 +153,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-200",
+        "TITLE": "SCP-ZH-200 - 鬼抓人",
         "FULLNAME": "scp-zh-200",
-        "RATING": 34,
+        "RATING": 35,
         "COMMENTS": "1",
         "TAGS": [
             "keter",
@@ -172,7 +172,7 @@
     {
         "TITLE": "SCP-ZH-2588-J",
         "FULLNAME": "scp-zh-2588-j",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "2020虹光之間",
@@ -204,7 +204,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-265",
+        "TITLE": "SCP-ZH-265 - 飛船推動月球引致日蝕說",
         "FULLNAME": "scp-zh-265",
         "RATING": 6,
         "COMMENTS": "0",

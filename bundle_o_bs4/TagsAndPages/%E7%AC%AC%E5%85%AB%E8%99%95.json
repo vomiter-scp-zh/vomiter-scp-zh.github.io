@@ -3,7 +3,7 @@
         "TAGNAME": "第八處"
     },
     {
-        "TITLE": "SCP-ZH-888",
+        "TITLE": "SCP-ZH-888 - 霾",
         "FULLNAME": "scp-zh-888",
         "RATING": 19,
         "COMMENTS": "1",
@@ -23,9 +23,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-889",
+        "TITLE": "SCP-ZH-889 - 此世之外",
         "FULLNAME": "scp-zh-889",
-        "RATING": 12,
+        "RATING": 13,
         "COMMENTS": "3",
         "TAGS": [
             "safe",
@@ -437,8 +437,8 @@
     {
         "TITLE": "中國國安部，不應存在的十九局",
         "FULLNAME": "19th-bureau-of-mss-of-china",
-        "RATING": 20,
-        "COMMENTS": "16",
+        "RATING": 19,
+        "COMMENTS": "17",
         "TAGS": [
             "2020夏季競賽",
             "2020攀爬金字塔",
@@ -520,7 +520,7 @@
     {
         "TITLE": "霜寒",
         "FULLNAME": "frozencold",
-        "RATING": 9,
+        "RATING": 11,
         "COMMENTS": "0",
         "TAGS": [
             "原創",
@@ -574,7 +574,7 @@
     {
         "TITLE": "中華民國國家安全局第八處 中心頁",
         "FULLNAME": "nsb8-hub",
-        "RATING": 14,
+        "RATING": 17,
         "COMMENTS": "3",
         "TAGS": [
             "中心",
@@ -638,7 +638,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-804",
+        "TITLE": "SCP-ZH-804 - 桃花園",
         "FULLNAME": "scp-zh-804",
         "RATING": 9,
         "COMMENTS": "3",
@@ -687,7 +687,7 @@
     {
         "TITLE": "赤染櫻",
         "FULLNAME": "crimson-cherry",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "0",
         "TAGS": [
             "2021夏季競賽",
@@ -758,7 +758,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-364",
+        "TITLE": "SCP-ZH-364 - 好修一直修",
         "FULLNAME": "scp-zh-364",
         "RATING": 8,
         "COMMENTS": "0",
@@ -854,6 +854,73 @@
             "原創",
             "第八處",
             "雙城作戰"
+        ]
+    },
+    {
+        "TITLE": "國安局第八處戰略資料：裝備",
+        "FULLNAME": "nsb-8-euipment",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "原創",
+            "第八處",
+            "說明",
+            "雙城作戰"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-214 - 勿忘我",
+        "FULLNAME": "scp-zh-214",
+        "RATING": 8,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022萬聖事件",
+            "scp",
+            "人形",
+            "人造物品",
+            "原創",
+            "感知力",
+            "無效化",
+            "第八處",
+            "通訊"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-801 - 湮滅公分母",
+        "FULLNAME": "scp-zh-801",
+        "RATING": 10,
+        "COMMENTS": "0",
+        "TAGS": [
+            "keter",
+            "scp",
+            "site-zh-50",
+            "原創",
+            "反熵",
+            "強迫性",
+            "第八處",
+            "精神影響",
+            "自我修復",
+            "預測性",
+            "骨骼"
+        ]
+    },
+    {
+        "TITLE": "酒單：威士忌",
+        "FULLNAME": "whiskey",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "site-zh-16",
+            "全球超自然聯盟",
+            "原創",
+            "叁月協會",
+            "威爾遜生物應對組",
+            "安布羅斯餐廳",
+            "故事",
+            "沙皇先知協會",
+            "異視維基",
+            "第八處",
+            "阿卡迪亞"
         ]
     }
 ]

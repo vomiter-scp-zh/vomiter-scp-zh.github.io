@@ -2,7 +2,7 @@
     {
         "TITLE": "SCP-ZH-60053-J - HONK",
         "FULLNAME": "scp-zh-60053-j",
-        "RATING": 43,
+        "RATING": 45,
         "COMMENTS": "7",
         "TAGS": [
             "scp",
@@ -22,7 +22,7 @@
     {
         "TITLE": "收容室ZH-S12-E-024實驗紀錄",
         "FULLNAME": "scp-zh-024",
-        "RATING": 33,
+        "RATING": 34,
         "COMMENTS": "0",
         "TAGS": [
             "euclid",
@@ -56,7 +56,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-140",
+        "TITLE": "SCP-ZH-140 - 字義相悖",
         "FULLNAME": "scp-zh-140",
         "RATING": 20,
         "COMMENTS": "7",
@@ -94,9 +94,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-033",
+        "TITLE": "SCP-ZH-033 - ◉",
         "FULLNAME": "scp-zh-033",
-        "RATING": 3,
+        "RATING": 2,
         "COMMENTS": "7",
         "TAGS": [
             "meta",
@@ -120,7 +120,7 @@
     {
         "TITLE": "SCP-ZH-298 - 天空鯨",
         "FULLNAME": "scp-zh-298",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "keter",
@@ -134,7 +134,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-052",
+        "TITLE": "SCP-ZH-052 - 忘了我吧，但我不會忘記你們的",
         "FULLNAME": "scp-zh-052",
         "RATING": 18,
         "COMMENTS": "0",
@@ -166,7 +166,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-054",
+        "TITLE": "SCP-ZH-054 - 香蕉，僅此而已",
         "FULLNAME": "scp-zh-054",
         "RATING": 7,
         "COMMENTS": "4",

@@ -3,7 +3,7 @@
         "TAGNAME": "不可摧毀"
     },
     {
-        "TITLE": "SCP-ZH-095",
+        "TITLE": "SCP-ZH-095 - 守護, 愛, 祝福",
         "FULLNAME": "scp-zh-095",
         "RATING": 11,
         "COMMENTS": "0",
@@ -22,9 +22,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-200",
+        "TITLE": "SCP-ZH-200 - 鬼抓人",
         "FULLNAME": "scp-zh-200",
-        "RATING": 34,
+        "RATING": 35,
         "COMMENTS": "1",
         "TAGS": [
             "keter",
@@ -57,7 +57,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-013",
+        "TITLE": "SCP-ZH-013 - 好，現在我們有第二個櫃子",
         "FULLNAME": "scp-zh-013",
         "RATING": 11,
         "COMMENTS": "1",
@@ -74,9 +74,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-088",
+        "TITLE": "SCP-ZH-088 - 只有男子漢可以進入的門",
         "FULLNAME": "scp-zh-088",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "1",
         "TAGS": [
             "euclid",
@@ -97,7 +97,7 @@
     {
         "TITLE": "SCP-ZH-496 - 安全極限距離",
         "FULLNAME": "scp-zh-496",
-        "RATING": 29,
+        "RATING": 30,
         "COMMENTS": "7",
         "TAGS": [
             "scp",
@@ -135,7 +135,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-121",
+        "TITLE": "SCP-ZH-121 - 顧人怨先生",
         "FULLNAME": "scp-zh-121",
         "RATING": 2,
         "COMMENTS": "0",

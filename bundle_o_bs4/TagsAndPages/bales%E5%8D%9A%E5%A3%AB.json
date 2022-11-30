@@ -3,7 +3,7 @@
         "TAGNAME": "bales博士"
     },
     {
-        "TITLE": "SCP-ZH-323",
+        "TITLE": "SCP-ZH-323 - 陪我玩",
         "FULLNAME": "scp-zh-323",
         "RATING": 10,
         "COMMENTS": "3",
@@ -68,7 +68,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-899",
+        "TITLE": "SCP-ZH-899 - 穿越的特工",
         "FULLNAME": "scp-zh-899",
         "RATING": 13,
         "COMMENTS": "1",
@@ -114,7 +114,7 @@
     {
         "TITLE": "洗標：橘8963-許靜池的絲質睡衣",
         "FULLNAME": "orange-8963",
-        "RATING": 8,
+        "RATING": 9,
         "COMMENTS": "1",
         "TAGS": [
             "bales博士",
@@ -153,7 +153,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-075",
+        "TITLE": "SCP-ZH-075 — —- … -… ..- .-. —…-.",
         "FULLNAME": "scp-zh-075",
         "RATING": 13,
         "COMMENTS": "0",
@@ -282,9 +282,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-044",
+        "TITLE": "SCP-ZH-044 - 石瀑狻猊",
         "FULLNAME": "scp-zh-044",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "3",
         "TAGS": [
             "bales博士",
@@ -338,7 +338,7 @@
     {
         "TITLE": "Dr. Bales的日常小品集錦 一",
         "FULLNAME": "bales-s-daily-1",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "bales博士",
@@ -403,7 +403,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-324",
+        "TITLE": "SCP-ZH-324 - 幽冥鬼將",
         "FULLNAME": "scp-zh-324",
         "RATING": 5,
         "COMMENTS": "0",
@@ -419,7 +419,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-137",
+        "TITLE": "SCP-ZH-137 - 墨玉鎖妖大印",
         "FULLNAME": "scp-zh-137",
         "RATING": 6,
         "COMMENTS": "0",
@@ -438,7 +438,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-1766-EX",
+        "TITLE": "SCP-ZH-1766-EX - 旅鴿",
         "FULLNAME": "scp-zh-1766-ex",
         "RATING": 4,
         "COMMENTS": "1",
@@ -456,7 +456,7 @@
     {
         "TITLE": "Ctrl Z博士從週刊上剪下的四格漫畫",
         "FULLNAME": "comic",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "2",
         "TAGS": [
             "ad博士",
@@ -545,7 +545,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-526",
+        "TITLE": "SCP-ZH-526 - 我就是一台烤土司機",
         "FULLNAME": "scp-zh-526",
         "RATING": 19,
         "COMMENTS": "1",
@@ -563,7 +563,7 @@
     {
         "TITLE": "Dr. Bales的日常小品集錦 二",
         "FULLNAME": "bales-s-daily-2",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "1",
         "TAGS": [
             "ain博士",
@@ -582,7 +582,7 @@
     {
         "TITLE": "SCP-ZH-980 - 築夢小棧",
         "FULLNAME": "scp-zh-980",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "2",
         "TAGS": [
             "bales博士",
@@ -598,7 +598,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-240",
+        "TITLE": "SCP-ZH-240 - 明燈",
         "FULLNAME": "scp-zh-240",
         "RATING": 11,
         "COMMENTS": "1",
@@ -750,7 +750,7 @@
     {
         "TITLE": "一定是假的",
         "FULLNAME": "must-be-fake",
-        "RATING": 13,
+        "RATING": 14,
         "COMMENTS": "0",
         "TAGS": [
             "bales博士",
@@ -764,7 +764,7 @@
     {
         "TITLE": "SCP-ZH-119 - 懲罰之火不降於我",
         "FULLNAME": "scp-zh-119",
-        "RATING": 13,
+        "RATING": 14,
         "COMMENTS": "0",
         "TAGS": [
             "2022夏季競賽",
@@ -774,6 +774,39 @@
             "原創",
             "基金會製造",
             "無形"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-328 - Dark Soups",
+        "FULLNAME": "scp-zh-328",
+        "RATING": 20,
+        "COMMENTS": "3",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "bales博士",
+            "safe",
+            "scp",
+            "site-zh-16",
+            "原創",
+            "基金會製造",
+            "敵意",
+            "毒性",
+            "睡眠",
+            "遊戲",
+            "食物",
+            "魚類"
+        ]
+    },
+    {
+        "TITLE": "Dr. Bales的日常小品集錦 三",
+        "FULLNAME": "bales-s-daily-3",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "bales博士",
+            "site-zh-16",
+            "原創",
+            "故事"
         ]
     }
 ]

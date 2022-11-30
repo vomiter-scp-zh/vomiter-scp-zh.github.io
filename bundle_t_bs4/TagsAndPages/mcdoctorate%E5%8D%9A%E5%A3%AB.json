@@ -149,6 +149,7 @@
             "mann博士",
             "mcdoctorate博士",
             "中心",
+            "採購與清算部",
             "站點",
             "翻譯"
         ]
@@ -173,7 +174,7 @@
     {
         "TITLE": "SCP-6938 - Alex Thorley得到一匹禮物馬",
         "FULLNAME": "scp-6938",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "0",
         "TAGS": [
             "en",

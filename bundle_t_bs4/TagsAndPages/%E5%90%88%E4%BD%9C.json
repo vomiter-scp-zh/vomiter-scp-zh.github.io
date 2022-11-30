@@ -58,7 +58,7 @@
     {
         "TITLE": "異常的詩集",
         "FULLNAME": "scpoems",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "1",
         "TAGS": [
             "awcy",
@@ -109,7 +109,7 @@
     {
         "TITLE": "SCP格式資源",
         "FULLNAME": "scp-style-resource",
-        "RATING": 31,
+        "RATING": 32,
         "COMMENTS": "6",
         "TAGS": [
             "合作",
@@ -121,7 +121,7 @@
     {
         "TITLE": "SCP-458 - 無限披薩盒",
         "FULLNAME": "scp-458",
-        "RATING": 5,
+        "RATING": 6,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -364,7 +364,7 @@
     {
         "TITLE": "K級情景總表",
         "FULLNAME": "k-class-complete-list",
-        "RATING": 9,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -388,7 +388,7 @@
     {
         "TITLE": "1998年 中心頁",
         "FULLNAME": "1998-hub",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "2",
         "TAGS": [
             "1998年",
@@ -539,6 +539,7 @@
         "TAGS": [
             "bright博士",
             "clef博士",
+            "en",
             "kain-pathos-crow",
             "rights博士",
             "合作",
@@ -577,7 +578,7 @@
     {
         "TITLE": "未曾建立 - 中心頁",
         "FULLNAME": "unfounded-hub",
-        "RATING": 3,
+        "RATING": 4,
         "COMMENTS": "2",
         "TAGS": [
             "en",
@@ -633,7 +634,7 @@
     {
         "TITLE": "SCP-207-JP實驗紀錄",
         "FULLNAME": "207",
-        "RATING": 2,
+        "RATING": 3,
         "COMMENTS": "0",
         "TAGS": [
             "jp",
@@ -767,7 +768,7 @@
     {
         "TITLE": "共異迴歷 中心頁",
         "FULLNAME": "kyouikaireki-hub",
-        "RATING": 8,
+        "RATING": 9,
         "COMMENTS": "0",
         "TAGS": [
             "jp",
@@ -775,6 +776,33 @@
             "中心",
             "共異迴歷",
             "合作",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "破曉中心頁",
+        "FULLNAME": "daybreak",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "中心",
+            "合作",
+            "合著",
+            "破曉",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "復生",
+        "FULLNAME": "resurrection",
+        "RATING": 5,
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "中心",
+            "合作",
+            "復生",
             "翻譯"
         ]
     }

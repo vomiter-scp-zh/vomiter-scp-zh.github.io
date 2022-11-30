@@ -1,6 +1,6 @@
 [
     {
-        "TITLE": "SCP-ZH-117",
+        "TITLE": "SCP-ZH-117 - 道路保持暢通",
         "FULLNAME": "scp-zh-117",
         "RATING": 33,
         "COMMENTS": "1",
@@ -13,9 +13,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-003",
+        "TITLE": "SCP-ZH-003 - 極端式信仰",
         "FULLNAME": "scp-zh-003",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "4",
         "TAGS": [
             "euclid",
@@ -28,7 +28,7 @@
     {
         "TITLE": "SCP-ZH-587-J",
         "FULLNAME": "scp-zh-587-j",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "1",
         "TAGS": [
             "keter",
@@ -41,7 +41,7 @@
     {
         "TITLE": "SCP-ZH-222-J",
         "FULLNAME": "scp-zh-222-j",
-        "RATING": 24,
+        "RATING": 27,
         "COMMENTS": "0",
         "TAGS": [
             "scp",
@@ -52,7 +52,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-009",
+        "TITLE": "SCP-ZH-009 - 臺式早點",
         "FULLNAME": "scp-zh-009",
         "RATING": 20,
         "COMMENTS": "3",
@@ -69,7 +69,7 @@
     {
         "TITLE": "挑戰傳統評分方式：關於自訂評分模版",
         "FULLNAME": "rating-against-traditions",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "0",
         "TAGS": [
             "原創",
@@ -89,9 +89,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-005",
+        "TITLE": "SCP-ZH-005 - 假如你沒有轉發這篇文檔給十個朋友，那麼…………",
         "FULLNAME": "scp-zh-005",
-        "RATING": 60,
+        "RATING": 61,
         "COMMENTS": "0",
         "TAGS": [
             "keter",
@@ -102,7 +102,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-006",
+        "TITLE": "SCP-ZH-006 - 真正意義上的爆米花",
         "FULLNAME": "scp-zh-006",
         "RATING": 11,
         "COMMENTS": "6",
@@ -122,7 +122,7 @@
     {
         "TITLE": "SCP-ZH-105 - 不孝子",
         "FULLNAME": "scp-zh-105",
-        "RATING": 65,
+        "RATING": 66,
         "COMMENTS": "5",
         "TAGS": [
             "euclid",
@@ -154,7 +154,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-254",
+        "TITLE": "SCP-ZH-254 - 花露水",
         "FULLNAME": "scp-zh-254",
         "RATING": 11,
         "COMMENTS": "1",
@@ -233,7 +233,7 @@
     {
         "TITLE": "SCP-ZH-60053-J - HONK",
         "FULLNAME": "scp-zh-60053-j",
-        "RATING": 43,
+        "RATING": 45,
         "COMMENTS": "7",
         "TAGS": [
             "scp",
@@ -251,7 +251,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-016",
+        "TITLE": "SCP-ZH-016 - 生態罐頭",
         "FULLNAME": "scp-zh-016",
         "RATING": 7,
         "COMMENTS": "2",
@@ -281,9 +281,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-200",
+        "TITLE": "SCP-ZH-200 - 鬼抓人",
         "FULLNAME": "scp-zh-200",
-        "RATING": 34,
+        "RATING": 35,
         "COMMENTS": "1",
         "TAGS": [
             "keter",
@@ -314,8 +314,8 @@
     {
         "TITLE": "菇菇基金會",
         "FULLNAME": "fungi-foundation",
-        "RATING": 20,
-        "COMMENTS": "5",
+        "RATING": 22,
+        "COMMENTS": "6",
         "TAGS": [
             "bright博士",
             "clef博士",
@@ -350,7 +350,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-013",
+        "TITLE": "SCP-ZH-013 - 好，現在我們有第二個櫃子",
         "FULLNAME": "scp-zh-013",
         "RATING": 11,
         "COMMENTS": "1",
@@ -382,7 +382,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-014",
+        "TITLE": "SCP-ZH-014 - 人魚公主的故事",
         "FULLNAME": "scp-zh-014",
         "RATING": 20,
         "COMMENTS": "4",
@@ -405,8 +405,8 @@
     {
         "TITLE": "中國國安部，不應存在的十九局",
         "FULLNAME": "19th-bureau-of-mss-of-china",
-        "RATING": 20,
-        "COMMENTS": "16",
+        "RATING": 19,
+        "COMMENTS": "17",
         "TAGS": [
             "2020夏季競賽",
             "2020攀爬金字塔",
@@ -421,7 +421,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-061",
+        "TITLE": "SCP-ZH-061 - 本車開往博覽會",
         "FULLNAME": "scp-zh-061",
         "RATING": 13,
         "COMMENTS": "0",
@@ -451,7 +451,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-444",
+        "TITLE": "SCP-ZH-444 - 鬼差",
         "FULLNAME": "scp-zh-444",
         "RATING": 17,
         "COMMENTS": "3",
@@ -581,7 +581,6 @@
         "COMMENTS": "0",
         "TAGS": [
             "ad博士",
-            "cc",
             "kris博士",
             "原創",
             "研究員l.what",
@@ -629,7 +628,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-526",
+        "TITLE": "SCP-ZH-526 - 我就是一台烤土司機",
         "FULLNAME": "scp-zh-526",
         "RATING": 19,
         "COMMENTS": "1",
@@ -647,7 +646,7 @@
     {
         "TITLE": "SCP-ZH-2005-EX",
         "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 56,
+        "RATING": 58,
         "COMMENTS": "1",
         "TAGS": [
             "2021冬季競賽",
@@ -662,9 +661,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-204",
+        "TITLE": "SCP-ZH-204 - 紅包香",
         "FULLNAME": "scp-zh-204",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "0",
         "TAGS": [
             "2021冬季競賽",
@@ -681,7 +680,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-207",
+        "TITLE": "SCP-ZH-207 - 課金就像吃人一樣",
         "FULLNAME": "scp-zh-207",
         "RATING": 11,
         "COMMENTS": "5",
@@ -702,7 +701,7 @@
     {
         "TITLE": "後現代基金會同人戀愛向輕小說",
         "FULLNAME": "k1s10r0d-april-fool-project-2021",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "5",
         "TAGS": [
             "kris博士",

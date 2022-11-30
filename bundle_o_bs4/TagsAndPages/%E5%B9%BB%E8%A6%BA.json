@@ -3,7 +3,7 @@
         "TAGNAME": "幻覺"
     },
     {
-        "TITLE": "SCP-ZH-030",
+        "TITLE": "SCP-ZH-030 - 紅色浪潮",
         "FULLNAME": "scp-zh-030",
         "RATING": 7,
         "COMMENTS": "0",
@@ -77,9 +77,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-204",
+        "TITLE": "SCP-ZH-204 - 紅包香",
         "FULLNAME": "scp-zh-204",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "0",
         "TAGS": [
             "2021冬季競賽",
@@ -145,7 +145,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-032",
+        "TITLE": "SCP-ZH-032 - 有毒的橡皮擦",
         "FULLNAME": "scp-zh-032",
         "RATING": 21,
         "COMMENTS": "0",
@@ -188,7 +188,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-197",
+        "TITLE": "SCP-ZH-197 - 樂群湖水怪",
         "FULLNAME": "scp-zh-197",
         "RATING": 9,
         "COMMENTS": "3",
@@ -205,9 +205,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-829",
+        "TITLE": "SCP-ZH-829 - 無形干戈",
         "FULLNAME": "scp-zh-829",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "2",
         "TAGS": [
             "awcy",
@@ -311,7 +311,7 @@
     {
         "TITLE": "SCP-ZH-540 - Alone In The Dark",
         "FULLNAME": "scp-zh-540",
-        "RATING": 10,
+        "RATING": 11,
         "COMMENTS": "2",
         "TAGS": [
             "scp",
@@ -471,7 +471,7 @@
     {
         "TITLE": "SCP-ZH-180 - 安 妮 :-)",
         "FULLNAME": "scp-zh-180",
-        "RATING": 22,
+        "RATING": 23,
         "COMMENTS": "2",
         "TAGS": [
             "scp",

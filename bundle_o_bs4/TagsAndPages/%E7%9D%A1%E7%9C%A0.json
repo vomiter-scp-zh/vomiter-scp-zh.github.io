@@ -3,7 +3,7 @@
         "TAGNAME": "睡眠"
     },
     {
-        "TITLE": "SCP-ZH-419",
+        "TITLE": "SCP-ZH-419 - 歸屬之地",
         "FULLNAME": "scp-zh-419",
         "RATING": 10,
         "COMMENTS": "1",
@@ -16,7 +16,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-405",
+        "TITLE": "SCP-ZH-405 - 體驗神曲",
         "FULLNAME": "scp-zh-405",
         "RATING": 5,
         "COMMENTS": "0",
@@ -33,7 +33,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-444",
+        "TITLE": "SCP-ZH-444 - 鬼差",
         "FULLNAME": "scp-zh-444",
         "RATING": 17,
         "COMMENTS": "3",
@@ -108,6 +108,27 @@
             "都異部門",
             "非現實部",
             "鳥類"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-328 - Dark Soups",
+        "FULLNAME": "scp-zh-328",
+        "RATING": 20,
+        "COMMENTS": "3",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "bales博士",
+            "safe",
+            "scp",
+            "site-zh-16",
+            "原創",
+            "基金會製造",
+            "敵意",
+            "毒性",
+            "睡眠",
+            "遊戲",
+            "食物",
+            "魚類"
         ]
     }
 ]

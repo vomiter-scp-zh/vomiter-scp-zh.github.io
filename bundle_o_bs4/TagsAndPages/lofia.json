@@ -3,7 +3,7 @@
         "TAGNAME": "lofia"
     },
     {
-        "TITLE": "SCP-ZH-510",
+        "TITLE": "SCP-ZH-510 - 遺言",
         "FULLNAME": "scp-zh-510",
         "RATING": 10,
         "COMMENTS": "1",
@@ -16,9 +16,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-041",
+        "TITLE": "SCP-ZH-041 - 夢想",
         "FULLNAME": "scp-zh-041",
-        "RATING": 19,
+        "RATING": 20,
         "COMMENTS": "4",
         "TAGS": [
             "lofia",
@@ -43,7 +43,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-405",
+        "TITLE": "SCP-ZH-405 - 體驗神曲",
         "FULLNAME": "scp-zh-405",
         "RATING": 5,
         "COMMENTS": "0",

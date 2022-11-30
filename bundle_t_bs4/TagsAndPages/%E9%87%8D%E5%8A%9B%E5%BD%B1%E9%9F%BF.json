@@ -60,7 +60,7 @@
         "TITLE": "Dr Gears的提案",
         "FULLNAME": "dr-gears-s-proposal",
         "RATING": 3,
-        "COMMENTS": "1",
+        "COMMENTS": "2",
         "TAGS": [
             "001提案",
             "en",
@@ -121,6 +121,42 @@
             "scp",
             "時空",
             "球體",
+            "翻譯",
+            "重力影響"
+        ]
+    },
+    {
+        "TITLE": "SCP-6215 - 地球上最快樂的地方！",
+        "FULLNAME": "scp-6215",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "人造物品",
+            "歷史性",
+            "玩具",
+            "球體",
+            "翻譯",
+            "衣物",
+            "重力影響"
+        ]
+    },
+    {
+        "TITLE": "SCP-009-JP - 閏秒",
+        "FULLNAME": "scp-009-jp",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "jp",
+            "scp",
+            "傳送",
+            "星球",
+            "星際",
+            "時空",
+            "時間影響",
+            "未收容",
             "翻譯",
             "重力影響"
         ]

@@ -247,7 +247,7 @@
     {
         "TITLE": "你的第一篇SCP！",
         "FULLNAME": "your-very-first-scp",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -321,7 +321,7 @@
     {
         "TITLE": "ROUNDERHOUSE帶你成為王八蛋批評家的非常好官方指南",
         "FULLNAME": "rounderhouse-critique-guide",
-        "RATING": 18,
+        "RATING": 19,
         "COMMENTS": "4",
         "TAGS": [
             "en",
@@ -350,6 +350,18 @@
         "TAGS": [
             "en",
             "心得",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "老梗與你：一部教育影片",
+        "FULLNAME": "cliches-and-you-an-educational-film",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "心得",
+            "搞笑",
             "翻譯"
         ]
     }

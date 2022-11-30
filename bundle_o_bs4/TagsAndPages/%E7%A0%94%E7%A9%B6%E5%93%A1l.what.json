@@ -3,7 +3,7 @@
         "TAGNAME": "研究員l.what"
     },
     {
-        "TITLE": "SCP-ZH-069",
+        "TITLE": "SCP-ZH-069 - 伴牠左右",
         "FULLNAME": "scp-zh-069",
         "RATING": 10,
         "COMMENTS": "5",
@@ -17,7 +17,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-020",
+        "TITLE": "SCP-ZH-020 - 百事可樂薯",
         "FULLNAME": "scp-zh-020",
         "RATING": 13,
         "COMMENTS": "5",
@@ -31,9 +31,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-005",
+        "TITLE": "SCP-ZH-005 - 假如你沒有轉發這篇文檔給十個朋友，那麼…………",
         "FULLNAME": "scp-zh-005",
-        "RATING": 60,
+        "RATING": 61,
         "COMMENTS": "0",
         "TAGS": [
             "keter",
@@ -44,9 +44,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-050",
+        "TITLE": "SCP-ZH-050 - 掙扎刀片",
         "FULLNAME": "scp-zh-050",
-        "RATING": 15,
+        "RATING": 16,
         "COMMENTS": "0",
         "TAGS": [
             "safe",
@@ -83,7 +83,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-045",
+        "TITLE": "SCP-ZH-045 - 萬能胡椒",
         "FULLNAME": "scp-zh-045",
         "RATING": 19,
         "COMMENTS": "0",
@@ -115,9 +115,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-041",
+        "TITLE": "SCP-ZH-041 - 夢想",
         "FULLNAME": "scp-zh-041",
-        "RATING": 19,
+        "RATING": 20,
         "COMMENTS": "4",
         "TAGS": [
             "lofia",
@@ -128,7 +128,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-070",
+        "TITLE": "SCP-ZH-070 - 對話框先生",
         "FULLNAME": "scp-zh-070",
         "RATING": 17,
         "COMMENTS": "0",
@@ -183,7 +183,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-762",
+        "TITLE": "SCP-ZH-762 - 感同曾受",
         "FULLNAME": "scp-zh-762",
         "RATING": 7,
         "COMMENTS": "2",
@@ -227,7 +227,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-075",
+        "TITLE": "SCP-ZH-075 — —- … -… ..- .-. —…-.",
         "FULLNAME": "scp-zh-075",
         "RATING": 13,
         "COMMENTS": "0",
@@ -280,7 +280,7 @@
     {
         "TITLE": "聖誕軍演",
         "FULLNAME": "xmas-exercise",
-        "RATING": 22,
+        "RATING": 24,
         "COMMENTS": "7",
         "TAGS": [
             "2019聖夜相守",
@@ -493,7 +493,7 @@
     {
         "TITLE": "Ctrl Z博士從週刊上剪下的四格漫畫",
         "FULLNAME": "comic",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "2",
         "TAGS": [
             "ad博士",
@@ -509,7 +509,7 @@
     {
         "TITLE": "花語：花毛茛",
         "FULLNAME": "ranunculus",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "3",
         "TAGS": [
             "site-zh-02",
@@ -526,7 +526,6 @@
         "COMMENTS": "0",
         "TAGS": [
             "ad博士",
-            "cc",
             "kris博士",
             "原創",
             "研究員l.what",
@@ -756,7 +755,7 @@
     {
         "TITLE": "一定是假的",
         "FULLNAME": "must-be-fake",
-        "RATING": 13,
+        "RATING": 14,
         "COMMENTS": "0",
         "TAGS": [
             "bales博士",

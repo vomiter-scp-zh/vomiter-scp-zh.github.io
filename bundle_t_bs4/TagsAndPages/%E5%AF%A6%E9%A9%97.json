@@ -117,11 +117,35 @@
     {
         "TITLE": "SCP-207-JP實驗紀錄",
         "FULLNAME": "207",
-        "RATING": 2,
+        "RATING": 3,
         "COMMENTS": "0",
         "TAGS": [
             "jp",
             "合作",
+            "實驗",
+            "翻譯",
+            "附加資料"
+        ]
+    },
+    {
+        "TITLE": "實驗紀錄198-A",
+        "FULLNAME": "experiment-log-198-a",
+        "RATING": 1,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "實驗",
+            "翻譯",
+            "附加資料"
+        ]
+    },
+    {
+        "TITLE": "SCP-481實驗紀錄",
+        "FULLNAME": "scp-481-test-log",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
             "實驗",
             "翻譯",
             "附加資料"

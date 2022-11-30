@@ -3,7 +3,7 @@
         "TAGNAME": "群體性"
     },
     {
-        "TITLE": "SCP-ZH-080",
+        "TITLE": "SCP-ZH-080 - 痘痘龍",
         "FULLNAME": "scp-zh-080",
         "RATING": 10,
         "COMMENTS": "0",
@@ -18,9 +18,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-044",
+        "TITLE": "SCP-ZH-044 - 石瀑狻猊",
         "FULLNAME": "scp-zh-044",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "3",
         "TAGS": [
             "bales博士",
@@ -35,7 +35,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-810",
+        "TITLE": "SCP-ZH-810 - 海洋之腦",
         "FULLNAME": "scp-zh-810",
         "RATING": 15,
         "COMMENTS": "2",
@@ -70,7 +70,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-137",
+        "TITLE": "SCP-ZH-137 - 墨玉鎖妖大印",
         "FULLNAME": "scp-zh-137",
         "RATING": 6,
         "COMMENTS": "0",
@@ -89,7 +89,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-444",
+        "TITLE": "SCP-ZH-444 - 鬼差",
         "FULLNAME": "scp-zh-444",
         "RATING": 17,
         "COMMENTS": "3",
@@ -108,7 +108,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-198",
+        "TITLE": "SCP-ZH-198 - 囚蜂",
         "FULLNAME": "scp-zh-198",
         "RATING": 3,
         "COMMENTS": "15",

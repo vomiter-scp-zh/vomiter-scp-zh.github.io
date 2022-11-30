@@ -3,7 +3,7 @@
         "TAGNAME": "氣體"
     },
     {
-        "TITLE": "SCP-ZH-137",
+        "TITLE": "SCP-ZH-137 - 墨玉鎖妖大印",
         "FULLNAME": "scp-zh-137",
         "RATING": 6,
         "COMMENTS": "0",
@@ -22,9 +22,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-426",
+        "TITLE": "SCP-ZH-426 - 花園中的蛇是絕不低頭的",
         "FULLNAME": "scp-zh-426",
-        "RATING": 16,
+        "RATING": 15,
         "COMMENTS": "17",
         "TAGS": [
             "safe",
@@ -51,7 +51,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-240",
+        "TITLE": "SCP-ZH-240 - 明燈",
         "FULLNAME": "scp-zh-240",
         "RATING": 11,
         "COMMENTS": "1",
@@ -71,7 +71,7 @@
     {
         "TITLE": "SCP-ZH-298 - 天空鯨",
         "FULLNAME": "scp-zh-298",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "0",
         "TAGS": [
             "keter",
@@ -82,6 +82,23 @@
             "無定形",
             "空中",
             "鯨類"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-174 - 非常普通，再普通不過的線香",
+        "FULLNAME": "scp-zh-174",
+        "RATING": 25,
+        "COMMENTS": "4",
+        "TAGS": [
+            "keter",
+            "scp",
+            "儀式性",
+            "原創",
+            "宗教",
+            "氣體",
+            "無效化",
+            "蛇之手",
+            "認知危害"
         ]
     }
 ]

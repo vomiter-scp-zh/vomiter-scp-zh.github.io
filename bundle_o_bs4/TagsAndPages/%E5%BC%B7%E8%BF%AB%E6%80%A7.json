@@ -18,7 +18,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-301",
+        "TITLE": "SCP-ZH-301 - 馬斯列尼查",
         "FULLNAME": "scp-zh-301",
         "RATING": 17,
         "COMMENTS": "0",
@@ -38,7 +38,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-445",
+        "TITLE": "SCP-ZH-445 - 手動填墨",
         "FULLNAME": "scp-zh-445",
         "RATING": 10,
         "COMMENTS": "0",
@@ -55,7 +55,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-030",
+        "TITLE": "SCP-ZH-030 - 紅色浪潮",
         "FULLNAME": "scp-zh-030",
         "RATING": 7,
         "COMMENTS": "0",
@@ -74,7 +74,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-055",
+        "TITLE": "SCP-ZH-055 - 做你自己的主廚，隨時隨地開動吧！",
         "FULLNAME": "scp-zh-055",
         "RATING": 18,
         "COMMENTS": "3",
@@ -95,7 +95,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-078",
+        "TITLE": "SCP-ZH-078 - 老師說過不可以翹兩腳椅",
         "FULLNAME": "scp-zh-078",
         "RATING": 16,
         "COMMENTS": "1",
@@ -109,7 +109,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-265",
+        "TITLE": "SCP-ZH-265 - 飛船推動月球引致日蝕說",
         "FULLNAME": "scp-zh-265",
         "RATING": 6,
         "COMMENTS": "0",
@@ -150,7 +150,7 @@
     {
         "TITLE": "SCP-ZH-2005-EX",
         "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 56,
+        "RATING": 58,
         "COMMENTS": "1",
         "TAGS": [
             "2021冬季競賽",
@@ -165,9 +165,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-204",
+        "TITLE": "SCP-ZH-204 - 紅包香",
         "FULLNAME": "scp-zh-204",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "0",
         "TAGS": [
             "2021冬季競賽",
@@ -184,7 +184,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-146",
+        "TITLE": "SCP-ZH-146 - 破鏡永無重圓之日",
         "FULLNAME": "scp-zh-146",
         "RATING": 9,
         "COMMENTS": "2",
@@ -200,7 +200,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-022",
+        "TITLE": "SCP-ZH-022 - 半隻石獅子",
         "FULLNAME": "scp-zh-022",
         "RATING": 6,
         "COMMENTS": "7",
@@ -216,7 +216,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-066",
+        "TITLE": "SCP-ZH-066 - 有借有還",
         "FULLNAME": "scp-zh-066",
         "RATING": 11,
         "COMMENTS": "5",
@@ -237,7 +237,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-093",
+        "TITLE": "SCP-ZH-093 - 藝術就是……",
         "FULLNAME": "scp-zh-093",
         "RATING": 11,
         "COMMENTS": "1",
@@ -254,9 +254,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-880",
+        "TITLE": "SCP-ZH-880 - 阿嬤覺得你冷",
         "FULLNAME": "scp-zh-880",
-        "RATING": 29,
+        "RATING": 30,
         "COMMENTS": "2",
         "TAGS": [
             "euclid",
@@ -287,7 +287,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-032",
+        "TITLE": "SCP-ZH-032 - 有毒的橡皮擦",
         "FULLNAME": "scp-zh-032",
         "RATING": 21,
         "COMMENTS": "0",
@@ -311,7 +311,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-092",
+        "TITLE": "SCP-ZH-092 - 絕地大師的光劍",
         "FULLNAME": "scp-zh-092",
         "RATING": -5,
         "COMMENTS": "4",
@@ -329,7 +329,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-121",
+        "TITLE": "SCP-ZH-121 - 顧人怨先生",
         "FULLNAME": "scp-zh-121",
         "RATING": 2,
         "COMMENTS": "0",
@@ -351,8 +351,8 @@
     {
         "TITLE": "SCP-ZH-144 - 十二進位法",
         "FULLNAME": "scp-zh-144",
-        "RATING": 23,
-        "COMMENTS": "3",
+        "RATING": 25,
+        "COMMENTS": "6",
         "TAGS": [
             "keter",
             "scp",
@@ -368,7 +368,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-776",
+        "TITLE": "SCP-ZH-776 - 暗黑暗黑暗黑之劍",
         "FULLNAME": "scp-zh-776",
         "RATING": 7,
         "COMMENTS": "6",
@@ -387,7 +387,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-052",
+        "TITLE": "SCP-ZH-052 - 忘了我吧，但我不會忘記你們的",
         "FULLNAME": "scp-zh-052",
         "RATING": 18,
         "COMMENTS": "0",
@@ -530,6 +530,7 @@
             "原創",
             "反熵",
             "強迫性",
+            "第八處",
             "精神影響",
             "自我修復",
             "預測性",
@@ -539,7 +540,7 @@
     {
         "TITLE": "SCP-ZH-403 - 禁臠與終止符",
         "FULLNAME": "scp-zh-403",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "4",
         "TAGS": [
             "2022夏季競賽",
@@ -549,6 +550,8 @@
             "媒體",
             "強迫性",
             "微觀",
+            "真紀博士",
+            "研究員knave",
             "精神影響",
             "線上",
             "認知危害"
@@ -576,7 +579,7 @@
     {
         "TITLE": "SCP-ZH-912-J - 大忌",
         "FULLNAME": "scp-zh-912-j",
-        "RATING": 20,
+        "RATING": 21,
         "COMMENTS": "6",
         "TAGS": [
             "2022夏季競賽",
@@ -586,6 +589,26 @@
             "搞笑",
             "模因效應",
             "機密分級"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-646 - 午夜自畫",
+        "FULLNAME": "scp-zh-646",
+        "RATING": 15,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "euclid",
+            "scp",
+            "人造物品",
+            "傳染性",
+            "光照影響",
+            "原創",
+            "展出",
+            "強迫性",
+            "火",
+            "熱量影響",
+            "認知危害"
         ]
     }
 ]

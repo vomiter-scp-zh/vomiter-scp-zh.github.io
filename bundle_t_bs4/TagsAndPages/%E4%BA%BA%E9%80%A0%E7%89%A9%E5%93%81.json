@@ -5,7 +5,7 @@
     {
         "TITLE": "SCP-240-JP - 零隻蝗蟲",
         "FULLNAME": "scp-240-jp",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "1",
         "TAGS": [
             "euclid",
@@ -44,27 +44,10 @@
             "safe",
             "scp",
             "人造物品",
-            "強制性",
+            "強迫性",
             "精神影響",
             "翻譯",
             "電子"
-        ]
-    },
-    {
-        "TITLE": "SCP-1021 - 出口",
-        "FULLNAME": "scp-1021",
-        "RATING": 0,
-        "COMMENTS": "0",
-        "TAGS": [
-            "en",
-            "safe",
-            "scp",
-            "人造物品",
-            "傳送門",
-            "時空",
-            "翻譯",
-            "藝術性",
-            "銘文"
         ]
     },
     {
@@ -538,7 +521,7 @@
     {
         "TITLE": "SCP-001-J",
         "FULLNAME": "scp-001-j",
-        "RATING": 5,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -829,7 +812,7 @@
     {
         "TITLE": "SCP-248 - 110%",
         "FULLNAME": "scp-248",
-        "RATING": 2,
+        "RATING": 3,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1086,7 +1069,7 @@
     {
         "TITLE": "SCP-7008 - 一朵塑膠玫瑰",
         "FULLNAME": "scp-7008",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1101,7 +1084,7 @@
     {
         "TITLE": "SCP-6765 - 惡魔奧吉爾與瑪利德拉格血之王座",
         "FULLNAME": "scp-6765",
-        "RATING": 8,
+        "RATING": 10,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -1129,6 +1112,108 @@
             "記憶影響",
             "認知危害",
             "銘文"
+        ]
+    },
+    {
+        "TITLE": "SCP-6215 - 地球上最快樂的地方！",
+        "FULLNAME": "scp-6215",
+        "RATING": 4,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "人造物品",
+            "歷史性",
+            "玩具",
+            "球體",
+            "翻譯",
+            "衣物",
+            "重力影響"
+        ]
+    },
+    {
+        "TITLE": "SCP-884 - 修容鏡",
+        "FULLNAME": "scp-884",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "euclid",
+            "lament特工",
+            "scp",
+            "人造物品",
+            "展出",
+            "感知影響",
+            "渾沌反叛軍",
+            "精神影響",
+            "翻譯",
+            "視覺性",
+            "認知危害",
+            "音訊"
+        ]
+    },
+    {
+        "TITLE": "SCP-2741 - 左道儀",
+        "FULLNAME": "scp-2741",
+        "RATING": 5,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "人造物品",
+            "無效化",
+            "精神影響",
+            "翻譯",
+            "聲音"
+        ]
+    },
+    {
+        "TITLE": "SCP-1601-JP - 彼曲來援",
+        "FULLNAME": "scp-1601-jp",
+        "RATING": 1,
+        "COMMENTS": "0",
+        "TAGS": [
+            "jp",
+            "safe",
+            "scp",
+            "人造物品",
+            "機械",
+            "翻譯",
+            "音樂性"
+        ]
+    },
+    {
+        "TITLE": "SCP-728 - 永遠房間",
+        "FULLNAME": "scp-728",
+        "RATING": 3,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "人造物品",
+            "時間影響",
+            "翻譯",
+            "銘文"
+        ]
+    },
+    {
+        "TITLE": "SCP-2028 - 惡夢雪景球",
+        "FULLNAME": "scp-2028",
+        "RATING": 8,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "safe",
+            "scp",
+            "人造物品",
+            "夢神",
+            "幻覺",
+            "睡眠",
+            "翻譯",
+            "變形"
         ]
     }
 ]

@@ -30,7 +30,7 @@
     {
         "TITLE": "洗標：橘1114-Mad博士的襯衫",
         "FULLNAME": "orange-1114",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "4",
         "TAGS": [
             "ain博士",
@@ -120,7 +120,7 @@
     {
         "TITLE": "冰箱",
         "FULLNAME": "fridge",
-        "RATING": 11,
+        "RATING": 15,
         "COMMENTS": "0",
         "TAGS": [
             "ain博士",
@@ -173,10 +173,11 @@
     {
         "TITLE": "表層變動",
         "FULLNAME": "one-of-the-secrets",
-        "RATING": 16,
+        "RATING": 18,
         "COMMENTS": "2",
         "TAGS": [
             "ain博士",
+            "maddy",
             "site-zh-44",
             "原創",
             "展出",
@@ -186,7 +187,7 @@
     {
         "TITLE": "Dr. Bales的日常小品集錦 二",
         "FULLNAME": "bales-s-daily-2",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "1",
         "TAGS": [
             "ain博士",
@@ -205,7 +206,7 @@
     {
         "TITLE": "2010年的那幾個實習生",
         "FULLNAME": "source-of-chaos",
-        "RATING": 17,
+        "RATING": 18,
         "COMMENTS": "0",
         "TAGS": [
             "ain博士",
@@ -356,6 +357,32 @@
             "surge博士",
             "原創",
             "故事"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-962 - 似是而非",
+        "FULLNAME": "scp-zh-962",
+        "RATING": 19,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022萬聖事件",
+            "ain博士",
+            "k級情景",
+            "maddy",
+            "scp",
+            "site-zh-01",
+            "site-zh-44",
+            "surge博士",
+            "thaumiel",
+            "三垣",
+            "傳送",
+            "原創",
+            "合著",
+            "地點",
+            "時空",
+            "渾沌反叛軍",
+            "結構物",
+            "超維度"
         ]
     }
 ]

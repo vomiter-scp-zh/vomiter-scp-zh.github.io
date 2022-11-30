@@ -1,6 +1,6 @@
 [
     {
-        "TITLE": "SCP-ZH-255",
+        "TITLE": "SCP-ZH-255 - 賓尼費的最後庇護所",
         "FULLNAME": "scp-zh-255",
         "RATING": 22,
         "COMMENTS": "5",
@@ -23,7 +23,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-251",
+        "TITLE": "SCP-ZH-251 - 三樓遺址",
         "FULLNAME": "scp-zh-251",
         "RATING": 10,
         "COMMENTS": "0",
@@ -40,7 +40,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-252",
+        "TITLE": "SCP-ZH-252 - 為什麼你不圖片谷歌一下？",
         "FULLNAME": "scp-zh-252",
         "RATING": 15,
         "COMMENTS": "0",
@@ -58,7 +58,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-253",
+        "TITLE": "SCP-ZH-253 - 我的滑鼠社會起來了！",
         "FULLNAME": "scp-zh-253",
         "RATING": 12,
         "COMMENTS": "0",
@@ -71,7 +71,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-017",
+        "TITLE": "SCP-ZH-017 - 永衡國入境申請表",
         "FULLNAME": "scp-zh-017",
         "RATING": 19,
         "COMMENTS": "1",
@@ -86,7 +86,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-256",
+        "TITLE": "SCP-ZH-256 - 基改山泉",
         "FULLNAME": "scp-zh-256",
         "RATING": 15,
         "COMMENTS": "0",
@@ -106,7 +106,7 @@
     {
         "TITLE": "SCP-ZH-105 - 不孝子",
         "FULLNAME": "scp-zh-105",
-        "RATING": 65,
+        "RATING": 66,
         "COMMENTS": "5",
         "TAGS": [
             "euclid",
@@ -123,7 +123,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-257",
+        "TITLE": "SCP-ZH-257 - 青花鼻煙壺",
         "FULLNAME": "scp-zh-257",
         "RATING": 8,
         "COMMENTS": "0",
@@ -138,7 +138,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-254",
+        "TITLE": "SCP-ZH-254 - 花露水",
         "FULLNAME": "scp-zh-254",
         "RATING": 11,
         "COMMENTS": "1",
@@ -154,7 +154,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-259",
+        "TITLE": "SCP-ZH-259 - 人去餅空",
         "FULLNAME": "scp-zh-259",
         "RATING": 11,
         "COMMENTS": "0",
@@ -170,9 +170,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-041",
+        "TITLE": "SCP-ZH-041 - 夢想",
         "FULLNAME": "scp-zh-041",
-        "RATING": 19,
+        "RATING": 20,
         "COMMENTS": "4",
         "TAGS": [
             "lofia",
@@ -183,7 +183,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-564",
+        "TITLE": "SCP-ZH-564 - 不想離開的仙那度",
         "FULLNAME": "scp-zh-564",
         "RATING": 5,
         "COMMENTS": "7",
@@ -218,7 +218,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-258",
+        "TITLE": "SCP-ZH-258 - 協和御守",
         "FULLNAME": "scp-zh-258",
         "RATING": 13,
         "COMMENTS": "0",
@@ -301,9 +301,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-829",
+        "TITLE": "SCP-ZH-829 - 無形干戈",
         "FULLNAME": "scp-zh-829",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "2",
         "TAGS": [
             "awcy",
@@ -378,7 +378,7 @@
     {
         "TITLE": "SCP-ZH-062 - 燈猴",
         "FULLNAME": "scp-zh-062",
-        "RATING": 16,
+        "RATING": 17,
         "COMMENTS": "0",
         "TAGS": [
             "safe",

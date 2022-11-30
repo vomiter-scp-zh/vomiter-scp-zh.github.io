@@ -2,7 +2,7 @@
     {
         "TITLE": "更新版記憶消除劑指南",
         "FULLNAME": "updated-amnestics-guide",
-        "RATING": 15,
+        "RATING": 16,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -48,7 +48,7 @@
     {
         "TITLE": "SCP-3001 - 紅色現實",
         "FULLNAME": "scp-3001",
-        "RATING": 16,
+        "RATING": 19,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -73,6 +73,7 @@
         "TAGS": [
             "bright博士",
             "clef博士",
+            "en",
             "kain-pathos-crow",
             "rights博士",
             "合作",
@@ -84,7 +85,7 @@
     {
         "TITLE": "SCP-6630 - 彼方遙火",
         "FULLNAME": "scp-6630",
-        "RATING": 18,
+        "RATING": 19,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -101,7 +102,7 @@
     {
         "TITLE": "SCP-5400-J - 超級宇宙無敵機密文章",
         "FULLNAME": "scp-5400-j",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "0",
         "TAGS": [
             "en",
@@ -127,6 +128,99 @@
             "機率性",
             "無效化",
             "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-6355 - 扼殺禮義之咽喉",
+        "FULLNAME": "scp-6355",
+        "RATING": 15,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "en-部門競賽2022",
+            "scp",
+            "thaumiel",
+            "合著",
+            "感知力",
+            "智能",
+            "無形",
+            "精神影響",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-4666 - 聖誕老人",
+        "FULLNAME": "scp-4666",
+        "RATING": 13,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "en-4000",
+            "keter",
+            "scp",
+            "人形",
+            "傳送",
+            "敵意",
+            "未收容",
+            "玩具",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-4680 - 噢，那些俄國佬…",
+        "FULLNAME": "scp-4680",
+        "RATING": 10,
+        "COMMENTS": "3",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "人形",
+            "倫理委員會",
+            "敵意",
+            "歷史性",
+            "翻譯",
+            "自我修復"
+        ]
+    },
+    {
+        "TITLE": "SCP-4357-J",
+        "FULLNAME": "scp-4357-j",
+        "RATING": 8,
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "euclid",
+            "scp",
+            "人形",
+            "宗教",
+            "感知力",
+            "搞笑",
+            "智能",
+            "熱量影響",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "SCP-7999 - 來星星間找我",
+        "FULLNAME": "scp-7999",
+        "RATING": 18,
+        "COMMENTS": "2",
+        "TAGS": [
+            "asheworth博士",
+            "en",
+            "en-7000",
+            "euclid",
+            "scp",
+            "來自120站的檔案",
+            "感知力",
+            "星球",
+            "星際",
+            "智能",
+            "物種",
+            "節肢動物",
+            "翻譯",
+            "門徑"
         ]
     }
 ]

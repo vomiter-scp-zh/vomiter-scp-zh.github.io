@@ -78,7 +78,7 @@
     {
         "TITLE": "異常的詩集",
         "FULLNAME": "scpoems",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "1",
         "TAGS": [
             "awcy",
@@ -210,7 +210,7 @@
         ]
     },
     {
-        "TITLE": "［基於協議4000-Eshu而被限制］",
+        "TITLE": "［基於協議4000-Eshu而受限制］",
         "FULLNAME": "taboo",
         "RATING": 11,
         "COMMENTS": "4",
@@ -269,7 +269,7 @@
     {
         "TITLE": "SCP-248 - 110%",
         "FULLNAME": "scp-248",
-        "RATING": 2,
+        "RATING": 3,
         "COMMENTS": "0",
         "TAGS": [
             "en",

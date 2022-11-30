@@ -1,6 +1,6 @@
 [
     {
-        "TITLE": "SCP-ZH-252",
+        "TITLE": "SCP-ZH-252 - 為什麼你不圖片谷歌一下？",
         "FULLNAME": "scp-zh-252",
         "RATING": 15,
         "COMMENTS": "0",
@@ -18,7 +18,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-229",
+        "TITLE": "SCP-ZH-229 - 藍乾酪",
         "FULLNAME": "scp-zh-229",
         "RATING": 14,
         "COMMENTS": "3",
@@ -29,7 +29,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-178",
+        "TITLE": "SCP-ZH-178 - 杯鳥",
         "FULLNAME": "scp-zh-178",
         "RATING": 11,
         "COMMENTS": "2",
@@ -43,7 +43,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-199",
+        "TITLE": "SCP-ZH-199 - 中永和迷宮",
         "FULLNAME": "scp-zh-199",
         "RATING": 22,
         "COMMENTS": "8",
@@ -58,7 +58,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-006",
+        "TITLE": "SCP-ZH-006 - 真正意義上的爆米花",
         "FULLNAME": "scp-zh-006",
         "RATING": 11,
         "COMMENTS": "6",
@@ -91,7 +91,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-045",
+        "TITLE": "SCP-ZH-045 - 萬能胡椒",
         "FULLNAME": "scp-zh-045",
         "RATING": 19,
         "COMMENTS": "0",
@@ -109,9 +109,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-174",
+        "TITLE": "SCP-ZH-174 - 非常普通，再普通不過的線香",
         "FULLNAME": "scp-zh-174",
-        "RATING": 24,
+        "RATING": 25,
         "COMMENTS": "4",
         "TAGS": [
             "keter",
@@ -119,13 +119,14 @@
             "儀式性",
             "原創",
             "宗教",
+            "氣體",
             "無效化",
             "蛇之手",
             "認知危害"
         ]
     },
     {
-        "TITLE": "SCP-ZH-258",
+        "TITLE": "SCP-ZH-258 - 協和御守",
         "FULLNAME": "scp-zh-258",
         "RATING": 13,
         "COMMENTS": "0",

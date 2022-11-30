@@ -5,7 +5,7 @@
     {
         "TITLE": "SCP-ZH-222-J",
         "FULLNAME": "scp-zh-222-j",
-        "RATING": 24,
+        "RATING": 27,
         "COMMENTS": "0",
         "TAGS": [
             "scp",
@@ -85,7 +85,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-1766-EX",
+        "TITLE": "SCP-ZH-1766-EX - 旅鴿",
         "FULLNAME": "scp-zh-1766-ex",
         "RATING": 4,
         "COMMENTS": "1",
@@ -103,7 +103,7 @@
     {
         "TITLE": "SCP-ZH-2005-EX",
         "FULLNAME": "scp-zh-2005-ex",
-        "RATING": 56,
+        "RATING": 58,
         "COMMENTS": "1",
         "TAGS": [
             "2021冬季競賽",
@@ -182,6 +182,29 @@
             "電子",
             "電腦",
             "預測性"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-1021-EX-我叫你不准說出去",
+        "FULLNAME": "scp-zh-1021-ex",
+        "RATING": 0,
+        "COMMENTS": "3",
+        "TAGS": [
+            "scp",
+            "原創",
+            "已解明"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-1021-EX- 我叫你不准說出去",
+        "FULLNAME": "scp-zh-1021-ex",
+        "RATING": 5,
+        "COMMENTS": "1",
+        "TAGS": [
+            "safe",
+            "scp",
+            "原創",
+            "已解明"
         ]
     }
 ]

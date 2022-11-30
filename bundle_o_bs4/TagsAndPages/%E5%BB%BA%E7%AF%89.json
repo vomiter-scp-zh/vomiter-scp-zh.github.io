@@ -3,7 +3,7 @@
         "TAGNAME": "建築"
     },
     {
-        "TITLE": "SCP-ZH-521",
+        "TITLE": "SCP-ZH-521 - 摺紙屋",
         "FULLNAME": "scp-zh-521",
         "RATING": 3,
         "COMMENTS": "2",
@@ -16,7 +16,7 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-075",
+        "TITLE": "SCP-ZH-075 — —- … -… ..- .-. —…-.",
         "FULLNAME": "scp-zh-075",
         "RATING": 13,
         "COMMENTS": "0",
@@ -33,9 +33,9 @@
         ]
     },
     {
-        "TITLE": "SCP-ZH-426",
+        "TITLE": "SCP-ZH-426 - 花園中的蛇是絕不低頭的",
         "FULLNAME": "scp-zh-426",
-        "RATING": 16,
+        "RATING": 15,
         "COMMENTS": "17",
         "TAGS": [
             "safe",
@@ -96,6 +96,22 @@
             "時空",
             "時間影響",
             "超維度"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-418 - 查無此項目",
+        "FULLNAME": "scp-zh-418",
+        "RATING": 10,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022萬聖事件",
+            "ijamea",
+            "scp",
+            "原創",
+            "反常部",
+            "屍體",
+            "建築",
+            "機密分級"
         ]
     }
 ]
