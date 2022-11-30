@@ -8397,7 +8397,7 @@
     {
         "TITLE": "酒單：威士忌",
         "FULLNAME": "whiskey",
-        "RATING": 4,
+        "RATING": 5,
         "COMMENTS": "0",
         "TAGS": [
             "site-zh-16",
@@ -8416,7 +8416,7 @@
     {
         "TITLE": "酒單：波旁威士忌",
         "FULLNAME": "bourbon-whiskey",
-        "RATING": 6,
+        "RATING": 7,
         "COMMENTS": "0",
         "TAGS": [
             "site-zh-16",
