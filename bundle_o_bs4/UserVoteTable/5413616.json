@@ -4257,5 +4257,16 @@
             "未收容",
             "無定形"
         ]
+    },
+    {
+        "TITLE": "酒單：波旁威士忌",
+        "FULLNAME": "bourbon-whiskey",
+        "RATING": 8,
+        "COMMENTS": "0",
+        "TAGS": [
+            "site-zh-16",
+            "原創",
+            "故事"
+        ]
     }
 ]
