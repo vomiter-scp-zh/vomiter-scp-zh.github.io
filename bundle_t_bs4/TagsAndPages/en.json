@@ -25528,8 +25528,8 @@
     {
         "TITLE": "Atzak I",
         "FULLNAME": "atzak-i",
-        "RATING": 0,
-        "COMMENTS": "0",
+        "RATING": -1,
+        "COMMENTS": "1",
         "TAGS": [
             "en",
             "故事",
