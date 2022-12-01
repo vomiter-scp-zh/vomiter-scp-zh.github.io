@@ -1062,6 +1062,12 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "藝術創作：聖誕節雪喵",
+        "FULLNAME": "xmax-x",
+        "RATING": 19,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-010 - 迷走神經寄生體",
         "FULLNAME": "scp-zh-010",
         "RATING": 18,
@@ -1190,12 +1196,6 @@
     {
         "TITLE": "SCP-ZH-063 - 歡 笑 不 再",
         "FULLNAME": "scp-zh-063",
-        "RATING": 18,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "無序夢囈",
-        "FULLNAME": "disorder-flapdoodle",
         "RATING": 18,
         "COMMENTS": "0"
     }
