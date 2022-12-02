@@ -900,6 +900,12 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "SCP-ZH-244 - 我回來了",
+        "FULLNAME": "scp-zh-244",
+        "RATING": 20,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP基金會不知道的那些事件",
         "FULLNAME": "ocd-virus01",
         "RATING": 19,
@@ -1066,12 +1072,6 @@
         "FULLNAME": "xmax-x",
         "RATING": 19,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-244 - 我回來了",
-        "FULLNAME": "scp-zh-244",
-        "RATING": 19,
-        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-010 - 迷走神經寄生體",
