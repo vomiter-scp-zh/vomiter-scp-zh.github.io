@@ -768,6 +768,12 @@
         "COMMENTS": "6"
     },
     {
+        "TITLE": "SCP-ZH-244 - 我回來了",
+        "FULLNAME": "scp-zh-244",
+        "RATING": 21,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-ZH-009 - 臺式早點",
         "FULLNAME": "scp-zh-009",
         "RATING": 20,
@@ -898,12 +904,6 @@
         "FULLNAME": "scp-zh-432",
         "RATING": 20,
         "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-ZH-244 - 我回來了",
-        "FULLNAME": "scp-zh-244",
-        "RATING": 20,
-        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP基金會不知道的那些事件",
