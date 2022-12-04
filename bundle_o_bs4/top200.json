@@ -630,6 +630,12 @@
         "COMMENTS": "10"
     },
     {
+        "TITLE": "SCP-ZH-911 - 你所捍衛的自由",
+        "FULLNAME": "scp-zh-911",
+        "RATING": 22,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-610 - 猛爆性繁衍組織瘤",
         "FULLNAME": "scp-zh-610",
         "RATING": 21,
@@ -742,12 +748,6 @@
         "FULLNAME": "artwork-of-9288-ex",
         "RATING": 21,
         "COMMENTS": "2"
-    },
-    {
-        "TITLE": "SCP-ZH-911 - 你所捍衛的自由",
-        "FULLNAME": "scp-zh-911",
-        "RATING": 21,
-        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-035 - 跑酷者",
