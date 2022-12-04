@@ -1020,12 +1020,6 @@
         "COMMENTS": "0"
     },
     {
-        "TITLE": "SCP-ZH-526 - 我就是一台烤土司機",
-        "FULLNAME": "scp-zh-526",
-        "RATING": 19,
-        "COMMENTS": "1"
-    },
-    {
         "TITLE": "SCP-ZH-147 - 時間小偷",
         "FULLNAME": "scp-zh-147",
         "RATING": 19,
@@ -1198,5 +1192,11 @@
         "FULLNAME": "dream-about-tomorrow",
         "RATING": 18,
         "COMMENTS": "5"
+    },
+    {
+        "TITLE": "SCP-ZH-063 - 歡 笑 不 再",
+        "FULLNAME": "scp-zh-063",
+        "RATING": 18,
+        "COMMENTS": "0"
     }
 ]
