@@ -636,6 +636,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-ZH-244 - 我回來了",
+        "FULLNAME": "scp-zh-244",
+        "RATING": 22,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-ZH-610 - 猛爆性繁衍組織瘤",
         "FULLNAME": "scp-zh-610",
         "RATING": 21,
@@ -766,12 +772,6 @@
         "FULLNAME": "scp-zh-912-j",
         "RATING": 21,
         "COMMENTS": "6"
-    },
-    {
-        "TITLE": "SCP-ZH-244 - 我回來了",
-        "FULLNAME": "scp-zh-244",
-        "RATING": 21,
-        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-009 - 臺式早點",
