@@ -5,21 +5,83 @@
 
 <body>
     <div id="HEADER">
-        dummy
+        <div class="flex_box">
+            <div id="SITE_NAME">
+                阿吐的精神時光屋
+            </div>
+            <div id="TOP_MENU" class="flex_box">
+                <div class="top_menu_item">
+                    作品解析
+                </div>
+                <div class="top_menu_item">
+                    寫作技巧
+                </div>
+                <div class="top_menu_item">
+                    代碼開發
+                </div>
+                <div class="top_menu_item">
+                    小遊戲
+                </div>
+                <div class="top_menu_item">
+                    站內搜尋
+                </div>
+
+            </div>
+
+        </div>
     </div>
     <div class="flex_box">
         <div id="side_bar">
             <div class="side_box">
                 <div class="menu_title">
-                    MENU_TITLE
+                    最近動態
+                </div>
+                <div class="menu_item">
+                    MENU_ITEM
+                </div>
+                <div class="menu_item">
+                    MENU_ITEM
+                </div>
+                <div class="menu_item">
+                    MENU_ITEM
                 </div>
                 <div class="menu_item">
                     MENU_ITEM
                 </div>
             </div>
+            <div class="side_box">
+                <div class="menu_title">
+                    最近動態
+                </div>
+                <div class="menu_item">
+                    MENU_ITEM
+                </div>
+                <div class="menu_item">
+                    MENU_ITEM
+                </div>
+                <div class="menu_item">
+                    MENU_ITEM
+                </div>
+                <div class="menu_item">
+                    MENU_ITEM
+                </div>
+            </div>
+
+
+
             <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5115834116864376"
-     crossorigin="anonymous"></script>
-        </div>
+            crossorigin="anonymous"></script>
+       <!-- test_ad -->
+       <ins class="adsbygoogle"
+            style="display:block"
+            data-ad-client="ca-pub-5115834116864376"
+            data-ad-slot="9152361519"
+            data-ad-format="auto"
+            data-full-width-responsive="true"></ins>
+       <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+       </script>
+            </div>
         <div id="contents_wrap">
             <div id="title">
                 這是標題
@@ -56,6 +118,8 @@
 <style>
     body{
         margin:0;
+        background-color: black;
+        color:aliceblue;
     }
     #HEADER{
         position: fixed;
@@ -63,8 +127,34 @@
         height: 3em;
         margin: 0;
         border: solid;
-        background-color: antiquewhite;
+        background-color: dimgray;
     }
+    #HEADER .flex_box{
+        margin: 0 auto 0;
+        max-width: 64em;
+        display: flex;
+        justify-content:space-between;
+    }
+
+    #TOP_MENU.flex_box{
+        justify-content: space-around;
+        margin:0;
+    }
+
+    #TOP_MENU.flex_box div{
+        font-size: 24px;
+        margin-left: 16px;
+        line-height: 2;
+    }
+
+
+
+
+    #SITE_NAME{
+        font-size: 32px;
+    }
+
+
     .flex_box{
         display: flex;
         justify-content: center;
@@ -89,9 +179,12 @@
     }
     .side_box{
         border: solid;
+        border-radius: 8px;
+        margin-bottom: 32px;
     }
     .menu_title{
-        background-color: antiquewhite;
+        background-color: dimgrey;
+        border-radius: 5px 5px 0 0;
 
     }
 
