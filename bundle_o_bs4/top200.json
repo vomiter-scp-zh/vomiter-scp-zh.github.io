@@ -444,6 +444,12 @@
         "COMMENTS": "7"
     },
     {
+        "TITLE": "SCP-ZH-244 - 我回來了",
+        "FULLNAME": "scp-zh-244",
+        "RATING": 24,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-ZH-100",
         "FULLNAME": "scp-zh-0100",
         "RATING": 23,
@@ -514,12 +520,6 @@
         "FULLNAME": "arkwork-zh-200",
         "RATING": 23,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-244 - 我回來了",
-        "FULLNAME": "scp-zh-244",
-        "RATING": 23,
-        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-ZH-255 - 賓尼費的最後庇護所",

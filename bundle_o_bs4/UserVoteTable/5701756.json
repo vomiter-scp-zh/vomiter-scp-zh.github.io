@@ -4157,5 +4157,32 @@
             "原創",
             "故事"
         ]
+    },
+    {
+        "TITLE": "SCP-ZH-244 - 我回來了",
+        "FULLNAME": "scp-zh-244",
+        "RATING": 24,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022萬聖事件",
+            "euclid",
+            "scp",
+            "人形",
+            "原創",
+            "敵意",
+            "未收容",
+            "無定形"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-765 - 饕案餮牘",
+        "FULLNAME": "scp-zh-765",
+        "RATING": 8,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022萬聖事件",
+            "scp",
+            "原創"
+        ]
     }
 ]
