@@ -10,22 +10,21 @@
                 阿吐的精神時光屋
             </div>
             <div id="TOP_MENU" class="flex_box">
-                <div class="top_menu_item">
-                    作品解析
-                </div>
-                <div class="top_menu_item">
-                    寫作技巧
-                </div>
-                <div class="top_menu_item">
-                    代碼開發
-                </div>
-                <div class="top_menu_item">
-                    小遊戲
-                </div>
-                <div class="top_menu_item">
-                    站內搜尋
-                </div>
-
+                <a href="#">
+                    <div class="top_menu_item">
+                        文筆
+                    </div>
+                </a>
+                <a href="#">
+                    <div class="top_menu_item">
+                        程式
+                    </div>
+                </a>
+                <a href="#">
+                    <div class="top_menu_item">
+                        其他
+                    </div>
+                </a>
             </div>
 
         </div>
@@ -116,18 +115,35 @@
 </body>
 
 <style>
+@import url(https://fonts.googleapis.com/earlyaccess/cwtexkai.css);
+body{
+    font-family: "Helvetica", "Arial","LiHei Pro","黑體-繁","微軟正黑體", sans-serif;
+}
+
+
     body{
         margin:0;
         background-color: black;
-        color:aliceblue;
+        color:seashell;
+    }
+    #HEADER a{
+        color:inherit;
+    }
+
+    a{
+        color: lightcyan;
+        text-decoration: none;
+    }
+    a:hover{
+        text-decoration: underline;
     }
     #HEADER{
         position: fixed;
         width: 100%;
         height: 3em;
         margin: 0;
-        border: solid;
-        background-color: dimgray;
+        border-bottom: solid;
+        background-color:black;
     }
     #HEADER .flex_box{
         margin: 0 auto 0;
@@ -147,11 +163,14 @@
         line-height: 2;
     }
 
-
-
+    #TOP_MENU.flex_box div:hover{
+        background-color: dimgray;
+    }
 
     #SITE_NAME{
+        text-align: center;
         font-size: 32px;
+        font-weight:900;
     }
 
 
@@ -165,7 +184,7 @@
         margin: 1em;
         border:solid;
         border-radius: 13px;
-        margin-top: 4em;
+        margin-top: 5.5em;
     }
     #contents{
         padding-left: 2em;
@@ -175,10 +194,10 @@
         width:12em;
         margin:1em;
         padding: 1em;
-        margin-top: 3.5em;
+        margin-top: 4.75em;
     }
     .side_box{
-        border: solid;
+        
         border-radius: 8px;
         margin-bottom: 32px;
     }
