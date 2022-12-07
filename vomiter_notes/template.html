@@ -16,17 +16,30 @@
 <body>
     <div id="HEADER">
         <div class="flex_box">
+            <div id="mobile_site_name">
+                <a class="site_name_a">
+                    <div class="SITE_NAME">
+                        阿吐的精神時光屋
+                    </div>
+                </a>
+            </div>
+    
             <div>
                 <div id="open_side" class="top_menu_item">
                     三
                 </div>
                 <a class="site_name_a">
-                    <div id="SITE_NAME">
+                    <div class="SITE_NAME">
                         阿吐的精神時光屋
                     </div>
                 </a>
             </div>
             <div id="TOP_MENU" class="flex_box">
+                <a href="#">
+                    <div id="open_side2" class="top_menu_item">
+                        三
+                    </div>
+                </a>
                 <a href="#">
                     <div class="top_menu_item">
                         創作
@@ -144,6 +157,7 @@
        </script>
             </div>
         <div id="contents_wrap">
+            <div id="filter"></div>
             <div class="title">
                 這是標題
             </div>
@@ -188,6 +202,10 @@
     }
     var side_opener=document.getElementById('open_side');
     side_opener.addEventListener('click',open_side_menu);
+    var side_opener2=document.getElementById('open_side2');
+    side_opener2.addEventListener('click',open_side_menu);
+
+
     var contentswrap=document.getElementById('contents_wrap');
     contentswrap.addEventListener('click',close_side_menu);
 </script>
