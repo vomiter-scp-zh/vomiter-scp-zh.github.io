@@ -16,8 +16,15 @@
 <body>
     <div id="HEADER">
         <div class="flex_box">
-            <div id="SITE_NAME">
-                阿吐的精神時光屋
+            <div>
+                <div id="open_side" class="top_menu_item">
+                    三
+                </div>
+                <a class="site_name_a">
+                    <div id="SITE_NAME">
+                        阿吐的精神時光屋
+                    </div>
+                </a>
             </div>
             <div id="TOP_MENU" class="flex_box">
                 <a href="#">
@@ -39,12 +46,15 @@
 
         </div>
     </div>
-    <div class="flex_box">
+    <div id="main_wrap" class="flex_box">
         <div id="side_bar">
             <div class="side_box">
                 <div class="menu_title">
                     作者介紹
                 </div>
+                <p class="profile_icon">
+                    <img src="https://cdn.discordapp.com/attachments/1043032784538705950/1049917063004696637/IMG_2763.jpg" width=128px>
+                </p>
                 <p>
                     <div class="social_icon">
                         <a href="#">
@@ -93,6 +103,31 @@
                 </a>
             </div>
 
+            <div class="side_box" id="recent_update2">
+                <div class="menu_title">
+                    最近動態
+                </div>
+                <a>
+                    <div class="menu_item">
+                        一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十一二三四五六七八九十
+                    </div>
+                </a>
+                <a>
+                    <div class="menu_item">
+                        MENU_ITEM
+                    </div>
+                </a>
+                <a>
+                    <div class="menu_item">
+                        MENU_ITEM
+                    </div>
+                </a>
+                <a>
+                    <div class="menu_item">
+                        MENU_ITEM
+                    </div>
+                </a>
+            </div>
 
 
             <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5115834116864376"
@@ -142,3 +177,17 @@
 </body>
 
 
+<script>
+    function open_side_menu(){
+        sidebar=document.getElementById('side_bar');
+        sidebar.classList.add('opened');
+    }
+    function close_side_menu(){
+        sidebar=document.getElementById('side_bar');
+        sidebar.classList.remove('opened');
+    }
+    var side_opener=document.getElementById('open_side');
+    side_opener.addEventListener('click',open_side_menu);
+    var contentswrap=document.getElementById('contents_wrap');
+    contentswrap.addEventListener('click',close_side_menu);
+</script>

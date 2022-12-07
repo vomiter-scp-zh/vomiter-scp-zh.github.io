@@ -20,6 +20,9 @@ body{
     a:hover{
         text-decoration: underline;
     }
+    .site_name_a:hover{
+        text-decoration: none;
+    }
     #HEADER{
         position: fixed;
         width: 100%;
@@ -40,13 +43,13 @@ body{
         margin:0;
     }
 
-    #TOP_MENU.flex_box div{
+    .top_menu_item{
         font-size: 1.5em;
         margin-right: 16px;
         line-height: 2;
     }
 
-    #TOP_MENU.flex_box div:hover{
+    .top_menu_item:hover{
         background-color: dimgray;
     }
 
@@ -69,6 +72,7 @@ body{
         margin-top: 5.5em;
         background:rgba(35,35,35,1);
         box-shadow: 0px 0px 8px 4px rgba(0, 0, 0, 0.7);
+        height: fit-content;
     }
     .contents{
         padding-left: 2em;
@@ -112,13 +116,24 @@ body{
         background-color: dimgray;
     }
     .title{
-        background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(35,35,35,1) 100%);
+        background: linear-gradient(0deg, rgba(15,15,15,1) 0%, rgba(35,35,35,1) 100%);
         color: aliceblue;
         padding: 0.5em;
         font-size: large;
         padding-left: 4em;
         border-radius: 10px 10px 0 0;
+        font-size: 1.3em;
+        font-weight: 600;
     }
+
+    .profile_icon{
+        text-align: center;
+    }
+
+    .profile_icon>img{
+        box-shadow: 0px 0px 8px 4px rgba(0, 0, 0, 0.7);
+    }
+
     .social_icon{
         text-align: center;
     }
@@ -127,6 +142,8 @@ body{
         margin:0 3px;
     }
     .social_icon>a>div{
+        border-radius: 5px;
+        box-shadow: 0px 0px 4px 2px rgba(0, 0, 0, 0.7);
         background-repeat: no-repeat;
         background-size: contain;
         height: 24px;
@@ -143,8 +160,60 @@ body{
     }
 
 
+    ::-webkit-scrollbar {
+        cursor: pointer;
+        border: none;
+    }
+
+    ::-webkit-scrollbar-thumb {
+        background: rgb(40, 40, 40);
+    }
+    
+    ::-webkit-scrollbar-thumb:hover {
+        background: rgb(55, 55, 55);
+    }
+    
+    ::-webkit-scrollbar-track {
+        background: rgb(20, 20, 20);
+    }
+    
+      
+
+
+
+
+    #open_side{
+        display: none;
+    }
+
     @media (max-width:900px) {
         #side_bar{
+            display: none;
+        }
+        #open_side{
+            display: block;
+            float: left;
+        }
+        .site_name_a{
+            float: right;
+        }
+        #side_bar.opened{
+            display: block;
+            position:fixed;
+            overflow-y: auto;
+            height: 80vh;
+        }
+        #main_wrap.flex_box{
+            justify-content: inherit;
+        }
+        #contents_wrap{
+            margin:5.5em auto;
+        }
+    }
+
+
+    @media (max-width:540px) {
+        #SITE_NAME{
             display: none;
         }
     }
