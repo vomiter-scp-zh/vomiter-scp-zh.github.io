@@ -41,7 +41,7 @@ body{
     }
 
     #TOP_MENU.flex_box div{
-        font-size: 24px;
+        font-size: 1.5em;
         margin-right: 16px;
         line-height: 2;
     }
@@ -52,7 +52,7 @@ body{
 
     #SITE_NAME{
         text-align: center;
-        font-size: 32px;
+        font-size: 2em;
         font-weight:900;
     }
 
@@ -124,6 +124,7 @@ body{
     }
     .social_icon>a{
         display: inline-block;
+        margin:0 3px;
     }
     .social_icon>a>div{
         background-repeat: no-repeat;
