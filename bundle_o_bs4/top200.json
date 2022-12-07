@@ -450,6 +450,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "海棠依舊",
+        "FULLNAME": "lucid-dreams",
+        "RATING": 24,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-100",
         "FULLNAME": "scp-zh-0100",
         "RATING": 23,
@@ -484,12 +490,6 @@
         "FULLNAME": "scp-zh-034",
         "RATING": 23,
         "COMMENTS": "3"
-    },
-    {
-        "TITLE": "海棠依舊",
-        "FULLNAME": "lucid-dreams",
-        "RATING": 23,
-        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-106-「逆模因」",
