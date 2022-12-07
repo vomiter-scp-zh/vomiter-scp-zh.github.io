@@ -21,7 +21,7 @@
             <div id="TOP_MENU" class="flex_box">
                 <a href="#">
                     <div class="top_menu_item">
-                        文筆
+                        創作
                     </div>
                 </a>
                 <a href="#">
@@ -42,7 +42,17 @@
         <div id="side_bar">
             <div class="side_box">
                 <div class="menu_title">
-                    最近動態
+                    作者介紹
+                </div>
+
+                <p>
+                    阿吐。SCP創作者、翻譯者。可以英翻中與日翻中。程式語言以Pyhton為主，但也為了網頁魔法學過Javascript。
+                </p>
+            </div>
+
+            <div class="side_box">
+                <div class="menu_title">
+                    熱門頁面
                 </div>
                 <div class="menu_item">
                     MENU_ITEM
@@ -91,10 +101,10 @@
        </script>
             </div>
         <div id="contents_wrap">
-            <div id="title">
+            <div class="title">
                 這是標題
             </div>
-            <div id="contents">
+            <div class="contents">
                 <p>
                     想有更人應該，好沒的作者不還要。我才會超這樣也，成為不就有遇，就是要看過有什真的好有夠可。說一題此什麼的囉定不，覺得我說不官方到爆：大家對這超，可以有，是希望被人告訴我屬於，以先時候的我。主照片的說他們達成想要，的聲音無轉蛋男子，快創作者感覺，好但出來也希天都，的聖誕肯定要這樣關係，整個換卡因為沒。續流這個感覺很：的店，ㄧㄤ喔我我都覺的知道那，不給超級不覺得好久，會有一，太多也就是練目前還最喜歡。
                 </p>
@@ -168,7 +178,7 @@ body{
 
     #TOP_MENU.flex_box div{
         font-size: 24px;
-        margin-left: 16px;
+        margin-right: 16px;
         line-height: 2;
     }
 
@@ -196,7 +206,7 @@ body{
         background:rgba(35,35,35,1);
         box-shadow: 0px 0px 8px 4px rgba(0, 0, 0, 0.7);
     }
-    #contents{
+    .contents{
         padding-left: 2em;
         padding-right: 2em;
     }
@@ -221,8 +231,9 @@ body{
     }
 
 
-    .side_box>div{
+    .side_box>div,.side_box>p{
         padding-left: 1em;
+        padding-right: 1em;
     }
     .menu_title{
         color:azure;
@@ -234,7 +245,7 @@ body{
     .menu_item:hover{
         background-color: dimgray;
     }
-    #title{
+    .title{
         background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(35,35,35,1) 100%);
         color: aliceblue;
         padding: 0.5em;
