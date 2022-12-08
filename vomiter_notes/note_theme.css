@@ -47,6 +47,8 @@ body{
         font-size: 1.5em;
         margin-right: 16px;
         line-height: 2;
+        min-width: 2em;
+        text-align: center;
     }
 
     .top_menu_item:hover{
@@ -77,6 +79,17 @@ body{
         padding-left: 2em;
         padding-right: 2em;
     }
+    .contents .img-block{
+        margin-bottom: 1em;
+        text-align: center;
+    }
+
+    .contents img{
+        width:100%;
+        margin: 0em auto;
+    }
+
+
     #side_bar{
         color:darkgray;
         width:14em;
@@ -125,8 +138,15 @@ body{
         font-weight: 600;
     }
 
-    .profile_icon{
-        text-align: center;
+    div.profile_icon{
+        height: 128px;
+        margin: 1em auto;
+        width: 128px;
+        background-image: url(https://cdn.discordapp.com/attachments/1043032784538705950/1049917063004696637/IMG_2763.jpg);
+        background-size: cover;
+        box-shadow: 0px 0px 8px 4px rgba(0, 0, 0, 0.7);
+
+
     }
 
     .profile_icon>img{
@@ -181,12 +201,12 @@ body{
 
 
 
-    #open_side{
+    #open_side,#open_side2{
         display: none;
     }
 
-    #open_side2{
-        display: none;
+    #open_side:hover,#open_side2:hover{
+        text-decoration: none;
     }
 
     #mobile_site_name{
