@@ -65,8 +65,7 @@ body{
         justify-content: center;
     }
     #contents_wrap{
-        min-width: 16em;
-        max-width: 46em;
+        width: 46em;
         margin: 1em;
         border-radius: 13px;
         margin-top: 5.5em;
