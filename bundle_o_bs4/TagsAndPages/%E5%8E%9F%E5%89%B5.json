@@ -18563,7 +18563,7 @@
     {
         "TITLE": "SCP-ZH-157 - 暢行無阻",
         "FULLNAME": "scp-zh-157",
-        "RATING": 11,
+        "RATING": 12,
         "COMMENTS": "1",
         "TAGS": [
             "safe",
@@ -19042,6 +19042,16 @@
             "2022萬聖事件",
             "原創",
             "故事"
+        ]
+    },
+    {
+        "TITLE": "SCP基金會繁中分部的標誌(gif)",
+        "FULLNAME": "scp-zh-gif-gif",
+        "RATING": -1,
+        "COMMENTS": "0",
+        "TAGS": [
+            "原創",
+            "藝術作品"
         ]
     }
 ]
