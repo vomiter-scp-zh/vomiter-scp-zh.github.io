@@ -79,6 +79,11 @@ body{
         padding-left: 2em;
         padding-right: 2em;
     }
+    .contents .creation_date{
+        text-align: right;
+        font-size: 0.5em;
+    }
+
     .contents .img-block{
         margin-bottom: 1em;
         text-align: center;
