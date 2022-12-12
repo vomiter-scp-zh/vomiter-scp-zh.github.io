@@ -89,6 +89,10 @@ body{
         text-align: center;
     }
 
+    .contents iframe{
+        max-width: 100%;
+    }
+
     .contents img{
         width:100%;
         margin: 0em auto;
