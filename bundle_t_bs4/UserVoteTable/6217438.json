@@ -5795,7 +5795,7 @@
         "TITLE": "SCP-196 - 時間悖論",
         "FULLNAME": "scp-196",
         "RATING": 2,
-        "COMMENTS": "0",
+        "COMMENTS": "1",
         "TAGS": [
             "en",
             "euclid",
@@ -5919,6 +5919,19 @@
             "心靈感應",
             "翻譯",
             "肢體"
+        ]
+    },
+    {
+        "TITLE": "自殺競賽 2022",
+        "FULLNAME": "suicidiocon-2022",
+        "RATING": 3,
+        "COMMENTS": "1",
+        "TAGS": [
+            "es",
+            "es-節日競賽2022",
+            "二次翻譯",
+            "故事",
+            "翻譯"
         ]
     }
 ]

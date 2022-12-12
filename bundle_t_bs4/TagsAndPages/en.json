@@ -6507,7 +6507,7 @@
     {
         "TITLE": "SCP-000",
         "FULLNAME": "scp-000",
-        "RATING": 7,
+        "RATING": 8,
         "COMMENTS": "1",
         "TAGS": [
             "en",
@@ -25492,7 +25492,7 @@
         "TITLE": "SCP-196 - 時間悖論",
         "FULLNAME": "scp-196",
         "RATING": 2,
-        "COMMENTS": "0",
+        "COMMENTS": "1",
         "TAGS": [
             "en",
             "euclid",
