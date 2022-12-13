@@ -25662,5 +25662,15 @@
             "通訊",
             "重寫"
         ]
+    },
+    {
+        "TITLE": "Scp 112",
+        "FULLNAME": "scp-112",
+        "RATING": 0,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "翻譯"
+        ]
     }
 ]
