@@ -360,5 +360,20 @@
             "翻譯",
             "重寫"
         ]
+    },
+    {
+        "TITLE": "O5指揮部檔案",
+        "FULLNAME": "o5-command-dossier",
+        "RATING": 6,
+        "COMMENTS": "2",
+        "TAGS": [
+            "aaron-siegel",
+            "en",
+            "the-administrator",
+            "合作",
+            "翻譯",
+            "資源",
+            "黑皇后"
+        ]
     }
 ]
