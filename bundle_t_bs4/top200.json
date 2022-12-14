@@ -354,6 +354,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "米津元帥物語",
+        "FULLNAME": "yonedu-gensui",
+        "RATING": 14,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "SCP-002 - 生「活」起居室",
         "FULLNAME": "scp-002",
         "RATING": 13,
@@ -382,12 +388,6 @@
         "FULLNAME": "siabhub",
         "RATING": 13,
         "COMMENTS": "2"
-    },
-    {
-        "TITLE": "米津元帥物語",
-        "FULLNAME": "yonedu-gensui",
-        "RATING": 13,
-        "COMMENTS": "1"
     },
     {
         "TITLE": "「我不幹了。」",
