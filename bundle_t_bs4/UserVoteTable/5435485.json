@@ -8584,5 +8584,18 @@
             "通訊",
             "重寫"
         ]
+    },
+    {
+        "TITLE": "火勢遏阻部中心",
+        "FULLNAME": "fire-suppression-department-hub",
+        "RATING": 2,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "中心",
+            "合著",
+            "火勢遏阻部",
+            "翻譯"
+        ]
     }
 ]
