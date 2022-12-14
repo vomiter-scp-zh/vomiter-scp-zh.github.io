@@ -375,5 +375,18 @@
             "資源",
             "黑皇后"
         ]
+    },
+    {
+        "TITLE": "火勢遏阻部中心",
+        "FULLNAME": "fire-suppression-department-hub",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "中心",
+            "合著",
+            "火勢遏阻部",
+            "翻譯"
+        ]
     }
 ]
