@@ -9170,5 +9170,44 @@
             "藝術",
             "藝術作品"
         ]
+    },
+    {
+        "TITLE": "SCP-ZH-230 - H.K.的漫長餘生",
+        "FULLNAME": "scp-zh-230",
+        "RATING": 13,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022萬聖事件",
+            "keter",
+            "scp",
+            "儀式性",
+            "原創",
+            "無名",
+            "無形"
+        ]
+    },
+    {
+        "TITLE": "回山，回家",
+        "FULLNAME": "a-home-welcoming-story-rsr-lu",
+        "RATING": 10,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022萬聖事件",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "SCP-ZH-149 - 身體是你詛咒的道路",
+        "FULLNAME": "scp-zh-149",
+        "RATING": 10,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022萬聖事件",
+            "safe",
+            "scp",
+            "人形",
+            "原創"
+        ]
     }
 ]
