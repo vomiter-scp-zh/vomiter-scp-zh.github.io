@@ -411,5 +411,16 @@
             "重寫",
             "音頻"
         ]
+    },
+    {
+        "TITLE": "異常分類系統（ACS）指南頁",
+        "FULLNAME": "anomaly-classification-system-guide",
+        "RATING": 9,
+        "COMMENTS": "0",
+        "TAGS": [
+            "en",
+            "心得",
+            "翻譯"
+        ]
     }
 ]
