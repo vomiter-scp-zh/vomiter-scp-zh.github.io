@@ -906,6 +906,12 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "SCP-ZH-962 - 似是而非",
+        "FULLNAME": "scp-zh-962",
+        "RATING": 20,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "SCP基金會不知道的那些事件",
         "FULLNAME": "ocd-virus01",
         "RATING": 19,
@@ -1054,12 +1060,6 @@
         "FULLNAME": "fog-house",
         "RATING": 19,
         "COMMENTS": "3"
-    },
-    {
-        "TITLE": "SCP-ZH-962 - 似是而非",
-        "FULLNAME": "scp-zh-962",
-        "RATING": 19,
-        "COMMENTS": "2"
     },
     {
         "TITLE": "藝術創作：聖誕節雪喵",
