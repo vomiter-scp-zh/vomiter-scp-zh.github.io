@@ -3729,5 +3729,113 @@
             "藝術",
             "藝術作品"
         ]
+    },
+    {
+        "TITLE": "窮不屠牲畜、荒不祭歿羅",
+        "FULLNAME": "wanderers:don-t-sacrifice-to-deathweb",
+        "RATING": 8,
+        "COMMENTS": "2",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "公園長椅上的男人",
+        "FULLNAME": "wanderers:man-on-the-bench",
+        "RATING": 10,
+        "COMMENTS": "3",
+        "TAGS": [
+            "2021夏季競賽",
+            "wanderers",
+            "原創",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "蔚藍之王",
+        "FULLNAME": "wanderers:cerulean-king",
+        "RATING": 8,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "咱是誰",
+        "FULLNAME": "wanderers:who-am-i",
+        "RATING": 8,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "蛇之手"
+        ]
+    },
+    {
+        "TITLE": "於是，我踏進了我面前那不存在的黑海。",
+        "FULLNAME": "wanderers:so-i-stab-into-the-black-sea",
+        "RATING": 10,
+        "COMMENTS": "1",
+        "TAGS": [
+            "kris博士",
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "星星雨的故事",
+        "FULLNAME": "wanderers:they-me-you-stars",
+        "RATING": 11,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "太陽禁止進入",
+        "FULLNAME": "wanderers:eos-and-sun",
+        "RATING": 20,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "wanderers",
+            "原創",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "瓶中的碧翠昂",
+        "FULLNAME": "wanderers:homunculus",
+        "RATING": 20,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "wanderers",
+            "原創",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "梅爾與珍珠",
+        "FULLNAME": "wanderers:pearl",
+        "RATING": 19,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "wanderers",
+            "原創",
+            "故事"
+        ]
     }
 ]

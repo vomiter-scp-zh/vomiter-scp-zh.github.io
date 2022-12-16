@@ -450,5 +450,81 @@
             "文獻",
             "翻譯"
         ]
+    },
+    {
+        "TITLE": "奈及利亞熔岩貓飼養手冊與描述",
+        "FULLNAME": "wanderers:nigerian-lava-cat",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "cryptozoological",
+            "document",
+            "entry",
+            "image",
+            "legacy",
+            "prose",
+            "report",
+            "serpents-hand",
+            "thorn",
+            "wanderers",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "情書",
+        "FULLNAME": "wanderers:a-love-letter",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "document",
+            "entry",
+            "letter",
+            "location",
+            "otherworldly",
+            "wanderers",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "星際廣播頻道5號",
+        "FULLNAME": "wanderers:interstellar-radio-channel-5",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "entry",
+            "prose",
+            "wanderers",
+            "ws2019",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "夏洛克區",
+        "FULLNAME": "wanderers:shylock-s-quarter",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "document",
+            "entry",
+            "historical",
+            "kragg",
+            "narrative",
+            "otherworldly",
+            "report",
+            "wanderers",
+            "wlc2013",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "闌尾流浪記",
+        "FULLNAME": "wanderers:appendix-s-day-out",
+        "RATING": 14,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "故事",
+            "翻譯"
+        ]
     }
 ]

@@ -3859,5 +3859,31 @@
             "wanderers",
             "原創"
         ]
+    },
+    {
+        "TITLE": "星星製造者",
+        "FULLNAME": "wanderers:star-maker",
+        "RATING": 23,
+        "COMMENTS": "4",
+        "TAGS": [
+            "2021夏季競賽",
+            "wanderers",
+            "原創",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "太陽禁止進入",
+        "FULLNAME": "wanderers:eos-and-sun",
+        "RATING": 20,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "wanderers",
+            "原創",
+            "展出",
+            "故事"
+        ]
     }
 ]

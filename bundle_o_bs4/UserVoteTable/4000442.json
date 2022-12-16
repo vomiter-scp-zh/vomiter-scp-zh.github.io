@@ -215,5 +215,29 @@
             "感知影響",
             "本質促動"
         ]
+    },
+    {
+        "TITLE": "窮不屠牲畜、荒不祭歿羅",
+        "FULLNAME": "wanderers:don-t-sacrifice-to-deathweb",
+        "RATING": 8,
+        "COMMENTS": "2",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "一封記載異聞的信",
+        "FULLNAME": "wanderers:letter-about-strange-serpents",
+        "RATING": 16,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "台灣原住民",
+            "展出",
+            "故事"
+        ]
     }
 ]

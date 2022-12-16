@@ -2295,5 +2295,72 @@
             "原創",
             "蛛網國際"
         ]
+    },
+    {
+        "TITLE": "JACK",
+        "FULLNAME": "wanderers:story-of-jack",
+        "RATING": 6,
+        "COMMENTS": "3",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "雙龍",
+        "FULLNAME": "wanderers:two-dragons",
+        "RATING": 5,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "三面僕",
+        "FULLNAME": "wanderers:three-faced-servant",
+        "RATING": 6,
+        "COMMENTS": "2",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "長冬",
+        "FULLNAME": "wanderers:long-winter",
+        "RATING": 11,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "彼岸之花",
+        "FULLNAME": "wanderers:lycorisradiata",
+        "RATING": 13,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "死亡永生"
+        ]
+    },
+    {
+        "TITLE": "如是我聞",
+        "FULLNAME": "wanderers:flowers-thus-have-i-heard",
+        "RATING": 18,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "展出",
+            "死亡永生"
+        ]
     }
 ]

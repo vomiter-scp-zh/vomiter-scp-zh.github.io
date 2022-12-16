@@ -1372,5 +1372,28 @@
             "線上",
             "認知危害"
         ]
+    },
+    {
+        "TITLE": "彼岸之花",
+        "FULLNAME": "wanderers:lycorisradiata",
+        "RATING": 13,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "死亡永生"
+        ]
+    },
+    {
+        "TITLE": "如是我聞",
+        "FULLNAME": "wanderers:flowers-thus-have-i-heard",
+        "RATING": 18,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "展出",
+            "死亡永生"
+        ]
     }
 ]

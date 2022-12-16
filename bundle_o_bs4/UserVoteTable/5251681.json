@@ -3732,5 +3732,100 @@
             "原創",
             "藝術作品"
         ]
+    },
+    {
+        "TITLE": "回憶裡的薰衣草",
+        "FULLNAME": "wanderers:after-cube-ch-01",
+        "RATING": 10,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "原創"
+        ]
+    },
+    {
+        "TITLE": "一封記載異聞的信",
+        "FULLNAME": "wanderers:letter-about-strange-serpents",
+        "RATING": 16,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "台灣原住民",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "星星製造者",
+        "FULLNAME": "wanderers:star-maker",
+        "RATING": 23,
+        "COMMENTS": "4",
+        "TAGS": [
+            "2021夏季競賽",
+            "wanderers",
+            "原創",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "《臺北市私立大稻埕高級中學校歌》",
+        "FULLNAME": "wanderers:twatutia-high-school-song",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創"
+        ]
+    },
+    {
+        "TITLE": "蔚藍之王",
+        "FULLNAME": "wanderers:cerulean-king",
+        "RATING": 8,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "於是，我踏進了我面前那不存在的黑海。",
+        "FULLNAME": "wanderers:so-i-stab-into-the-black-sea",
+        "RATING": 10,
+        "COMMENTS": "1",
+        "TAGS": [
+            "kris博士",
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "太陽禁止進入",
+        "FULLNAME": "wanderers:eos-and-sun",
+        "RATING": 20,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "wanderers",
+            "原創",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "瓶中的碧翠昂",
+        "FULLNAME": "wanderers:homunculus",
+        "RATING": 20,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "wanderers",
+            "原創",
+            "展出",
+            "故事"
+        ]
     }
 ]

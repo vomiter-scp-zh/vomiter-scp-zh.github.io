@@ -522,6 +522,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "星星製造者",
+        "FULLNAME": "wanderers:star-maker",
+        "RATING": 23,
+        "COMMENTS": "4"
+    },
+    {
         "TITLE": "SCP-ZH-255 - 賓尼費的最後庇護所",
         "FULLNAME": "scp-zh-255",
         "RATING": 22,
@@ -640,6 +646,12 @@
         "FULLNAME": "scp-zh-911",
         "RATING": 22,
         "COMMENTS": "0"
+    },
+    {
+        "TITLE": "七律——歌哭咽",
+        "FULLNAME": "wanderers:die-in-immortality",
+        "RATING": 22,
+        "COMMENTS": "2"
     },
     {
         "TITLE": "SCP-ZH-610 - 猛爆性繁衍組織瘤",
@@ -912,6 +924,18 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "太陽禁止進入",
+        "FULLNAME": "wanderers:eos-and-sun",
+        "RATING": 20,
+        "COMMENTS": "1"
+    },
+    {
+        "TITLE": "瓶中的碧翠昂",
+        "FULLNAME": "wanderers:homunculus",
+        "RATING": 20,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP基金會不知道的那些事件",
         "FULLNAME": "ocd-virus01",
         "RATING": 19,
@@ -1074,6 +1098,12 @@
         "COMMENTS": "3"
     },
     {
+        "TITLE": "梅爾與珍珠",
+        "FULLNAME": "wanderers:pearl",
+        "RATING": 19,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "SCP-ZH-010 - 迷走神經寄生體",
         "FULLNAME": "scp-zh-010",
         "RATING": 18,
@@ -1168,35 +1198,5 @@
         "FULLNAME": "025o-s-painting",
         "RATING": 18,
         "COMMENTS": "1"
-    },
-    {
-        "TITLE": "歡迎，敬啟者",
-        "FULLNAME": "multiversal-valentine",
-        "RATING": 18,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "萬華鏡中的貓",
-        "FULLNAME": "cats-in-kaleidoscopes",
-        "RATING": 18,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "到職",
-        "FULLNAME": "arrival",
-        "RATING": 18,
-        "COMMENTS": "5"
-    },
-    {
-        "TITLE": "無夢之人是否會夢到明天的景色",
-        "FULLNAME": "dream-about-tomorrow",
-        "RATING": 18,
-        "COMMENTS": "5"
-    },
-    {
-        "TITLE": "SCP-ZH-063 - 歡 笑 不 再",
-        "FULLNAME": "scp-zh-063",
-        "RATING": 18,
-        "COMMENTS": "0"
     }
 ]

@@ -603,5 +603,110 @@
             "認知危害",
             "資訊危害"
         ]
+    },
+    {
+        "TITLE": "被自毁的筆記",
+        "FULLNAME": "wanderers:a-suicide-note",
+        "RATING": 5,
+        "COMMENTS": "4",
+        "TAGS": [
+            "relationship03",
+            "thorn",
+            "wanderers",
+            "翻譯",
+            "首頁徵文"
+        ]
+    },
+    {
+        "TITLE": "藏幽之書",
+        "FULLNAME": "wanderers:book-of-the-hidden",
+        "RATING": 3,
+        "COMMENTS": "3",
+        "TAGS": [
+            "pangur",
+            "wanderers",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "蛇與手：給基金會作家的介紹",
+        "FULLNAME": "wanderers:for-foundation-writers",
+        "RATING": 4,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "指導",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "糖之頌歌",
+        "FULLNAME": "wanderers:song-of-sugar",
+        "RATING": 3,
+        "COMMENTS": "1",
+        "TAGS": [
+            "pangur",
+            "wanderers",
+            "翻譯",
+            "蛇夫座法典",
+            "記載",
+            "韻文"
+        ]
+    },
+    {
+        "TITLE": "樹下",
+        "FULLNAME": "wanderers:under-the-tree",
+        "RATING": 4,
+        "COMMENTS": "1",
+        "TAGS": [
+            "redtooth",
+            "wanderers",
+            "圖片",
+            "翻譯",
+            "記載",
+            "長影之書",
+            "韻文"
+        ]
+    },
+    {
+        "TITLE": "停引",
+        "FULLNAME": "wanderers:turn-off-gravity",
+        "RATING": 3,
+        "COMMENTS": "2",
+        "TAGS": [
+            "wanderers",
+            "ws2019",
+            "敘述",
+            "翻譯",
+            "記載"
+        ]
+    },
+    {
+        "TITLE": "古法修研",
+        "FULLNAME": "wanderers:the-study-of-ancient-spells",
+        "RATING": 3,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "個體",
+            "典籍",
+            "日記",
+            "歷史",
+            "物體",
+            "神話",
+            "翻譯",
+            "記載"
+        ]
+    },
+    {
+        "TITLE": "闌尾流浪記",
+        "FULLNAME": "wanderers:appendix-s-day-out",
+        "RATING": 14,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "故事",
+            "翻譯"
+        ]
     }
 ]

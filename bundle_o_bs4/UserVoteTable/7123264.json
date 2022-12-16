@@ -88,5 +88,28 @@
             "原創",
             "故事"
         ]
+    },
+    {
+        "TITLE": "追求死亡之人",
+        "FULLNAME": "wanderers:o-my-god-plz-just-kill-me",
+        "RATING": 0,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2021夏季競賽",
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "咱是誰",
+        "FULLNAME": "wanderers:who-am-i",
+        "RATING": 8,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "蛇之手"
+        ]
     }
 ]

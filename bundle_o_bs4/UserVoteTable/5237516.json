@@ -1040,5 +1040,55 @@
             "原創",
             "故事"
         ]
+    },
+    {
+        "TITLE": "太陽禁止進入",
+        "FULLNAME": "wanderers:eos-and-sun",
+        "RATING": 20,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "wanderers",
+            "原創",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "此世亦然",
+        "FULLNAME": "wanderers:while-you-are-god",
+        "RATING": 6,
+        "COMMENTS": "1",
+        "TAGS": [
+            "site-zh-16",
+            "site-zh-44",
+            "sugoi博士",
+            "surge博士",
+            "wanderers",
+            "原創",
+            "故事",
+            "研究員l.what"
+        ]
+    },
+    {
+        "TITLE": "在不安之時祈求平安之人",
+        "FULLNAME": "wanderers:the-man-who-praying-for-peace-in-a-hard-time",
+        "RATING": 10,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2019聖夜相守",
+            "wanderers",
+            "原創"
+        ]
+    },
+    {
+        "TITLE": "得以永生。",
+        "FULLNAME": "wanderers:the-first-named-adam",
+        "RATING": 13,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "原創"
+        ]
     }
 ]

@@ -1869,5 +1869,29 @@
             "搞笑",
             "翻譯"
         ]
+    },
+    {
+        "TITLE": "祖各上菜！",
+        "FULLNAME": "wanderers:cooking-with-zoogs",
+        "RATING": 3,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "所有的宇航員都會飛上天堂",
+        "FULLNAME": "wanderers:all-astronauts-go-to-heaven",
+        "RATING": 8,
+        "COMMENTS": "2",
+        "TAGS": [
+            "kragg",
+            "wanderers",
+            "敘述",
+            "散文",
+            "翻譯",
+            "記載"
+        ]
     }
 ]

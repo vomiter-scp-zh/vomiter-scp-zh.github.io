@@ -2169,5 +2169,63 @@
             "原創",
             "故事"
         ]
+    },
+    {
+        "TITLE": "廉價的晚餐",
+        "FULLNAME": "wanderers:instant-noodles-and-tea",
+        "RATING": 13,
+        "COMMENTS": "5",
+        "TAGS": [
+            "hanku博士",
+            "wanderers",
+            "原創",
+            "故事",
+            "葉凡博士"
+        ]
+    },
+    {
+        "TITLE": "窮不屠牲畜、荒不祭歿羅",
+        "FULLNAME": "wanderers:don-t-sacrifice-to-deathweb",
+        "RATING": 8,
+        "COMMENTS": "2",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "回憶裡的薰衣草",
+        "FULLNAME": "wanderers:after-cube-ch-01",
+        "RATING": 10,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "原創"
+        ]
+    },
+    {
+        "TITLE": "一隻蚯蚓",
+        "FULLNAME": "wanderers:an-earthworm",
+        "RATING": 12,
+        "COMMENTS": "2",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "蛇之手"
+        ]
+    },
+    {
+        "TITLE": "一封記載異聞的信",
+        "FULLNAME": "wanderers:letter-about-strange-serpents",
+        "RATING": 16,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "台灣原住民",
+            "展出",
+            "故事"
+        ]
     }
 ]

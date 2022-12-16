@@ -1192,5 +1192,45 @@
             "認知危害",
             "資訊危害"
         ]
+    },
+    {
+        "TITLE": "太陽禁止進入",
+        "FULLNAME": "wanderers:eos-and-sun",
+        "RATING": 20,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "wanderers",
+            "原創",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "瓶中的碧翠昂",
+        "FULLNAME": "wanderers:homunculus",
+        "RATING": 20,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "wanderers",
+            "原創",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "乘物之物",
+        "FULLNAME": "wanderers:gerens-paxillum",
+        "RATING": 11,
+        "COMMENTS": "0",
+        "TAGS": [
+            "site-zh-81",
+            "wanderers",
+            "原創",
+            "故事",
+            "虹光之間",
+            "韻文"
+        ]
     }
 ]

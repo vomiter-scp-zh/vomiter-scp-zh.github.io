@@ -1910,5 +1910,64 @@
             "scp",
             "原創"
         ]
+    },
+    {
+        "TITLE": "公園長椅上的男人",
+        "FULLNAME": "wanderers:man-on-the-bench",
+        "RATING": 10,
+        "COMMENTS": "3",
+        "TAGS": [
+            "2021夏季競賽",
+            "wanderers",
+            "原創",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "阿里扎巫師日常",
+        "FULLNAME": "wanderers:arizas-class",
+        "RATING": 8,
+        "COMMENTS": "4",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "蔚藍之王",
+        "FULLNAME": "wanderers:cerulean-king",
+        "RATING": 8,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "星星雨的故事",
+        "FULLNAME": "wanderers:they-me-you-stars",
+        "RATING": 11,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "如是我聞",
+        "FULLNAME": "wanderers:flowers-thus-have-i-heard",
+        "RATING": 18,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "展出",
+            "死亡永生"
+        ]
     }
 ]

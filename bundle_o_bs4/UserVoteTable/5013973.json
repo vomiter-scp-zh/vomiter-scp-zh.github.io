@@ -918,5 +918,30 @@
             "原創",
             "故事"
         ]
+    },
+    {
+        "TITLE": "乘物之物",
+        "FULLNAME": "wanderers:gerens-paxillum",
+        "RATING": 11,
+        "COMMENTS": "0",
+        "TAGS": [
+            "site-zh-81",
+            "wanderers",
+            "原創",
+            "故事",
+            "虹光之間",
+            "韻文"
+        ]
+    },
+    {
+        "TITLE": "長冬",
+        "FULLNAME": "wanderers:long-winter",
+        "RATING": 11,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
     }
 ]

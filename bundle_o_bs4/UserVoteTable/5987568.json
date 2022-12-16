@@ -1906,5 +1906,56 @@
             "原創",
             "火勢遏阻部"
         ]
+    },
+    {
+        "TITLE": "廉價的晚餐",
+        "FULLNAME": "wanderers:instant-noodles-and-tea",
+        "RATING": 13,
+        "COMMENTS": "5",
+        "TAGS": [
+            "hanku博士",
+            "wanderers",
+            "原創",
+            "故事",
+            "葉凡博士"
+        ]
+    },
+    {
+        "TITLE": "太陽禁止進入",
+        "FULLNAME": "wanderers:eos-and-sun",
+        "RATING": 20,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "wanderers",
+            "原創",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "瓶中的碧翠昂",
+        "FULLNAME": "wanderers:homunculus",
+        "RATING": 20,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "wanderers",
+            "原創",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "梅爾與珍珠",
+        "FULLNAME": "wanderers:pearl",
+        "RATING": 19,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "wanderers",
+            "原創",
+            "故事"
+        ]
     }
 ]

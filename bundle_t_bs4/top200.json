@@ -360,6 +360,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "闌尾流浪記",
+        "FULLNAME": "wanderers:appendix-s-day-out",
+        "RATING": 14,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-002 - 生「活」起居室",
         "FULLNAME": "scp-002",
         "RATING": 13,
@@ -918,6 +924,12 @@
         "COMMENTS": "4"
     },
     {
+        "TITLE": "流浪者圖書館急救指南",
+        "FULLNAME": "wanderers:a-wanderers-guide-to-first-aid-in-the-library",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-073 - 「該隱」",
         "FULLNAME": "scp-073",
         "RATING": 10,
@@ -1184,18 +1196,6 @@
     {
         "TITLE": "SCP-7777 - 懼七症",
         "FULLNAME": "scp-7777",
-        "RATING": 10,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-6765 - 惡魔奧吉爾與瑪利德拉格血之王座",
-        "FULLNAME": "scp-6765",
-        "RATING": 10,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-6837 - 鬧鬼故事",
-        "FULLNAME": "scp-6837",
         "RATING": 10,
         "COMMENTS": "0"
     }

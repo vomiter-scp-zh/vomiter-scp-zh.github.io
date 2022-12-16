@@ -6580,5 +6580,142 @@
             "原創",
             "故事"
         ]
+    },
+    {
+        "TITLE": "廉價的晚餐",
+        "FULLNAME": "wanderers:instant-noodles-and-tea",
+        "RATING": 13,
+        "COMMENTS": "5",
+        "TAGS": [
+            "hanku博士",
+            "wanderers",
+            "原創",
+            "故事",
+            "葉凡博士"
+        ]
+    },
+    {
+        "TITLE": "回憶裡的薰衣草",
+        "FULLNAME": "wanderers:after-cube-ch-01",
+        "RATING": 10,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "原創"
+        ]
+    },
+    {
+        "TITLE": "一隻蚯蚓",
+        "FULLNAME": "wanderers:an-earthworm",
+        "RATING": 12,
+        "COMMENTS": "2",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "蛇之手"
+        ]
+    },
+    {
+        "TITLE": "星星製造者",
+        "FULLNAME": "wanderers:star-maker",
+        "RATING": 23,
+        "COMMENTS": "4",
+        "TAGS": [
+            "2021夏季競賽",
+            "wanderers",
+            "原創",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "追求死亡之人",
+        "FULLNAME": "wanderers:o-my-god-plz-just-kill-me",
+        "RATING": 0,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2021夏季競賽",
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "瓶中的碧翠昂",
+        "FULLNAME": "wanderers:homunculus",
+        "RATING": 20,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "wanderers",
+            "原創",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "累世燼逝",
+        "FULLNAME": "wanderers:farewell",
+        "RATING": 13,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "中秋夜遣懷",
+        "FULLNAME": "wanderers:wandered-at-night",
+        "RATING": 14,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "中秋烏路賽",
+            "原創",
+            "韻文"
+        ]
+    },
+    {
+        "TITLE": "非人與非神共舞。",
+        "FULLNAME": "wanderers:before-ad",
+        "RATING": 13,
+        "COMMENTS": "1",
+        "TAGS": [
+            "ad博士",
+            "apoyn博士",
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "七律——歌哭咽",
+        "FULLNAME": "wanderers:die-in-immortality",
+        "RATING": 22,
+        "COMMENTS": "2",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "叁月協會",
+            "欲肉教",
+            "死亡永生",
+            "死亡終了",
+            "酩酊街",
+            "阿拉加達",
+            "韻文"
+        ]
+    },
+    {
+        "TITLE": "如是我聞",
+        "FULLNAME": "wanderers:flowers-thus-have-i-heard",
+        "RATING": 18,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "展出",
+            "死亡永生"
+        ]
     }
 ]

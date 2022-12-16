@@ -723,5 +723,34 @@
             "翻譯",
             "遠野妖怪保護區"
         ]
+    },
+    {
+        "TITLE": "夏洛克區",
+        "FULLNAME": "wanderers:shylock-s-quarter",
+        "RATING": 5,
+        "COMMENTS": "0",
+        "TAGS": [
+            "document",
+            "entry",
+            "historical",
+            "kragg",
+            "narrative",
+            "otherworldly",
+            "report",
+            "wanderers",
+            "wlc2013",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "闌尾流浪記",
+        "FULLNAME": "wanderers:appendix-s-day-out",
+        "RATING": 14,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "故事",
+            "翻譯"
+        ]
     }
 ]

@@ -2491,5 +2491,60 @@
             "原創",
             "搞笑"
         ]
+    },
+    {
+        "TITLE": "星星製造者",
+        "FULLNAME": "wanderers:star-maker",
+        "RATING": 23,
+        "COMMENTS": "4",
+        "TAGS": [
+            "2021夏季競賽",
+            "wanderers",
+            "原創",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "中秋夜遣懷",
+        "FULLNAME": "wanderers:wandered-at-night",
+        "RATING": 14,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "中秋烏路賽",
+            "原創",
+            "韻文"
+        ]
+    },
+    {
+        "TITLE": "乘物之物",
+        "FULLNAME": "wanderers:gerens-paxillum",
+        "RATING": 11,
+        "COMMENTS": "0",
+        "TAGS": [
+            "site-zh-81",
+            "wanderers",
+            "原創",
+            "故事",
+            "虹光之間",
+            "韻文"
+        ]
+    },
+    {
+        "TITLE": "此世亦然",
+        "FULLNAME": "wanderers:while-you-are-god",
+        "RATING": 6,
+        "COMMENTS": "1",
+        "TAGS": [
+            "site-zh-16",
+            "site-zh-44",
+            "sugoi博士",
+            "surge博士",
+            "wanderers",
+            "原創",
+            "故事",
+            "研究員l.what"
+        ]
     }
 ]

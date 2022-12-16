@@ -2481,5 +2481,31 @@
             "故事",
             "翻譯"
         ]
+    },
+    {
+        "TITLE": "流浪者圖書館急救指南",
+        "FULLNAME": "wanderers:a-wanderers-guide-to-first-aid-in-the-library",
+        "RATING": 11,
+        "COMMENTS": "0",
+        "TAGS": [
+            "entry",
+            "wanderers",
+            "wing-two",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "所有的宇航員都會飛上天堂",
+        "FULLNAME": "wanderers:all-astronauts-go-to-heaven",
+        "RATING": 8,
+        "COMMENTS": "2",
+        "TAGS": [
+            "kragg",
+            "wanderers",
+            "敘述",
+            "散文",
+            "翻譯",
+            "記載"
+        ]
     }
 ]

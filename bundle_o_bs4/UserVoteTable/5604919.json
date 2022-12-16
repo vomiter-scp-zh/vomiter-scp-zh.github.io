@@ -1344,5 +1344,40 @@
             "原創",
             "藝術作品"
         ]
+    },
+    {
+        "TITLE": "得以永生。",
+        "FULLNAME": "wanderers:the-first-named-adam",
+        "RATING": 13,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "原創"
+        ]
+    },
+    {
+        "TITLE": "非人與非神共舞。",
+        "FULLNAME": "wanderers:before-ad",
+        "RATING": 13,
+        "COMMENTS": "1",
+        "TAGS": [
+            "ad博士",
+            "apoyn博士",
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "如是我聞",
+        "FULLNAME": "wanderers:flowers-thus-have-i-heard",
+        "RATING": 18,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "展出",
+            "死亡永生"
+        ]
     }
 ]

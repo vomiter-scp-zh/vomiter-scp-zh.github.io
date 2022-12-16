@@ -7047,5 +7047,193 @@
             "原創",
             "故事"
         ]
+    },
+    {
+        "TITLE": "廉價的晚餐",
+        "FULLNAME": "wanderers:instant-noodles-and-tea",
+        "RATING": 13,
+        "COMMENTS": "5",
+        "TAGS": [
+            "hanku博士",
+            "wanderers",
+            "原創",
+            "故事",
+            "葉凡博士"
+        ]
+    },
+    {
+        "TITLE": "窮不屠牲畜、荒不祭歿羅",
+        "FULLNAME": "wanderers:don-t-sacrifice-to-deathweb",
+        "RATING": 8,
+        "COMMENTS": "2",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "回憶裡的薰衣草",
+        "FULLNAME": "wanderers:after-cube-ch-01",
+        "RATING": 10,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "原創"
+        ]
+    },
+    {
+        "TITLE": "一隻蚯蚓",
+        "FULLNAME": "wanderers:an-earthworm",
+        "RATING": 12,
+        "COMMENTS": "2",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "蛇之手"
+        ]
+    },
+    {
+        "TITLE": "一封記載異聞的信",
+        "FULLNAME": "wanderers:letter-about-strange-serpents",
+        "RATING": 16,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "台灣原住民",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "追求死亡之人",
+        "FULLNAME": "wanderers:o-my-god-plz-just-kill-me",
+        "RATING": 0,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2021夏季競賽",
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "《臺北市私立大稻埕高級中學校歌》",
+        "FULLNAME": "wanderers:twatutia-high-school-song",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創"
+        ]
+    },
+    {
+        "TITLE": "信件啊信件",
+        "FULLNAME": "wanderers:letter-ah-letter",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "蛇之手"
+        ]
+    },
+    {
+        "TITLE": "咱是誰",
+        "FULLNAME": "wanderers:who-am-i",
+        "RATING": 8,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "蛇之手"
+        ]
+    },
+    {
+        "TITLE": "於是，我踏進了我面前那不存在的黑海。",
+        "FULLNAME": "wanderers:so-i-stab-into-the-black-sea",
+        "RATING": 10,
+        "COMMENTS": "1",
+        "TAGS": [
+            "kris博士",
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "迫降事件",
+        "FULLNAME": "wanderers:a-freak-accident-also-a-forced-anchorage",
+        "RATING": 10,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "zh急迫競賽2022",
+            "原創",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "太陽禁止進入",
+        "FULLNAME": "wanderers:eos-and-sun",
+        "RATING": 20,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "wanderers",
+            "原創",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "瓶中的碧翠昂",
+        "FULLNAME": "wanderers:homunculus",
+        "RATING": 20,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "wanderers",
+            "原創",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "梅爾與珍珠",
+        "FULLNAME": "wanderers:pearl",
+        "RATING": 19,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "彼岸之花",
+        "FULLNAME": "wanderers:lycorisradiata",
+        "RATING": 13,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "死亡永生"
+        ]
+    },
+    {
+        "TITLE": "如是我聞",
+        "FULLNAME": "wanderers:flowers-thus-have-i-heard",
+        "RATING": 18,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "展出",
+            "死亡永生"
+        ]
     }
 ]

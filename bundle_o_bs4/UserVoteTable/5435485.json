@@ -8536,5 +8536,236 @@
             "原創",
             "故事"
         ]
+    },
+    {
+        "TITLE": "廉價的晚餐",
+        "FULLNAME": "wanderers:instant-noodles-and-tea",
+        "RATING": 13,
+        "COMMENTS": "5",
+        "TAGS": [
+            "hanku博士",
+            "wanderers",
+            "原創",
+            "故事",
+            "葉凡博士"
+        ]
+    },
+    {
+        "TITLE": "窮不屠牲畜、荒不祭歿羅",
+        "FULLNAME": "wanderers:don-t-sacrifice-to-deathweb",
+        "RATING": 8,
+        "COMMENTS": "2",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "一隻蚯蚓",
+        "FULLNAME": "wanderers:an-earthworm",
+        "RATING": 12,
+        "COMMENTS": "2",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "蛇之手"
+        ]
+    },
+    {
+        "TITLE": "一封記載異聞的信",
+        "FULLNAME": "wanderers:letter-about-strange-serpents",
+        "RATING": 16,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "台灣原住民",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "星星製造者",
+        "FULLNAME": "wanderers:star-maker",
+        "RATING": 23,
+        "COMMENTS": "4",
+        "TAGS": [
+            "2021夏季競賽",
+            "wanderers",
+            "原創",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "《臺北市私立大稻埕高級中學校歌》",
+        "FULLNAME": "wanderers:twatutia-high-school-song",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創"
+        ]
+    },
+    {
+        "TITLE": "蔚藍之王",
+        "FULLNAME": "wanderers:cerulean-king",
+        "RATING": 8,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "迫降事件",
+        "FULLNAME": "wanderers:a-freak-accident-also-a-forced-anchorage",
+        "RATING": 10,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "zh急迫競賽2022",
+            "原創",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "星星雨的故事",
+        "FULLNAME": "wanderers:they-me-you-stars",
+        "RATING": 11,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "太陽禁止進入",
+        "FULLNAME": "wanderers:eos-and-sun",
+        "RATING": 20,
+        "COMMENTS": "1",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "wanderers",
+            "原創",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "梅爾與珍珠",
+        "FULLNAME": "wanderers:pearl",
+        "RATING": 19,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "累世燼逝",
+        "FULLNAME": "wanderers:farewell",
+        "RATING": 13,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "JACK",
+        "FULLNAME": "wanderers:story-of-jack",
+        "RATING": 6,
+        "COMMENTS": "3",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "中秋夜遣懷",
+        "FULLNAME": "wanderers:wandered-at-night",
+        "RATING": 14,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "中秋烏路賽",
+            "原創",
+            "韻文"
+        ]
+    },
+    {
+        "TITLE": "乘物之物",
+        "FULLNAME": "wanderers:gerens-paxillum",
+        "RATING": 11,
+        "COMMENTS": "0",
+        "TAGS": [
+            "site-zh-81",
+            "wanderers",
+            "原創",
+            "故事",
+            "虹光之間",
+            "韻文"
+        ]
+    },
+    {
+        "TITLE": "此世亦然",
+        "FULLNAME": "wanderers:while-you-are-god",
+        "RATING": 6,
+        "COMMENTS": "1",
+        "TAGS": [
+            "site-zh-16",
+            "site-zh-44",
+            "sugoi博士",
+            "surge博士",
+            "wanderers",
+            "原創",
+            "故事",
+            "研究員l.what"
+        ]
+    },
+    {
+        "TITLE": "在不安之時祈求平安之人",
+        "FULLNAME": "wanderers:the-man-who-praying-for-peace-in-a-hard-time",
+        "RATING": 10,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2019聖夜相守",
+            "wanderers",
+            "原創"
+        ]
+    },
+    {
+        "TITLE": "非人與非神共舞。",
+        "FULLNAME": "wanderers:before-ad",
+        "RATING": 13,
+        "COMMENTS": "1",
+        "TAGS": [
+            "ad博士",
+            "apoyn博士",
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "長冬",
+        "FULLNAME": "wanderers:long-winter",
+        "RATING": 11,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
     }
 ]

@@ -1174,5 +1174,39 @@
             "記憶影響",
             "逆模因"
         ]
+    },
+    {
+        "TITLE": "廉價的晚餐",
+        "FULLNAME": "wanderers:instant-noodles-and-tea",
+        "RATING": 13,
+        "COMMENTS": "5",
+        "TAGS": [
+            "hanku博士",
+            "wanderers",
+            "原創",
+            "故事",
+            "葉凡博士"
+        ]
+    },
+    {
+        "TITLE": "《臺北市私立大稻埕高級中學校歌》",
+        "FULLNAME": "wanderers:twatutia-high-school-song",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創"
+        ]
+    },
+    {
+        "TITLE": "阿里扎巫師日常",
+        "FULLNAME": "wanderers:arizas-class",
+        "RATING": 8,
+        "COMMENTS": "4",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
     }
 ]

@@ -5181,5 +5181,135 @@
             "scp",
             "原創"
         ]
+    },
+    {
+        "TITLE": "一隻蚯蚓",
+        "FULLNAME": "wanderers:an-earthworm",
+        "RATING": 12,
+        "COMMENTS": "2",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "蛇之手"
+        ]
+    },
+    {
+        "TITLE": "星星製造者",
+        "FULLNAME": "wanderers:star-maker",
+        "RATING": 23,
+        "COMMENTS": "4",
+        "TAGS": [
+            "2021夏季競賽",
+            "wanderers",
+            "原創",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "星星雨的故事",
+        "FULLNAME": "wanderers:they-me-you-stars",
+        "RATING": 11,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "梅爾與珍珠",
+        "FULLNAME": "wanderers:pearl",
+        "RATING": 19,
+        "COMMENTS": "2",
+        "TAGS": [
+            "2022紅藍爭霸賽",
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "JACK",
+        "FULLNAME": "wanderers:story-of-jack",
+        "RATING": 6,
+        "COMMENTS": "3",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "雙龍",
+        "FULLNAME": "wanderers:two-dragons",
+        "RATING": 5,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "三面僕",
+        "FULLNAME": "wanderers:three-faced-servant",
+        "RATING": 6,
+        "COMMENTS": "2",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "中秋夜遣懷",
+        "FULLNAME": "wanderers:wandered-at-night",
+        "RATING": 14,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "中秋烏路賽",
+            "原創",
+            "韻文"
+        ]
+    },
+    {
+        "TITLE": "致我親愛的探險者們",
+        "FULLNAME": "wanderers:to:my-lovely-explorers",
+        "RATING": 5,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "原創"
+        ]
+    },
+    {
+        "TITLE": "得以永生。",
+        "FULLNAME": "wanderers:the-first-named-adam",
+        "RATING": 13,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "原創"
+        ]
+    },
+    {
+        "TITLE": "七律——歌哭咽",
+        "FULLNAME": "wanderers:die-in-immortality",
+        "RATING": 22,
+        "COMMENTS": "2",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "叁月協會",
+            "欲肉教",
+            "死亡永生",
+            "死亡終了",
+            "酩酊街",
+            "阿拉加達",
+            "韻文"
+        ]
     }
 ]

@@ -8532,5 +8532,69 @@
             "二次翻譯",
             "翻譯"
         ]
+    },
+    {
+        "TITLE": "被自毁的筆記",
+        "FULLNAME": "wanderers:a-suicide-note",
+        "RATING": 5,
+        "COMMENTS": "4",
+        "TAGS": [
+            "relationship03",
+            "thorn",
+            "wanderers",
+            "翻譯",
+            "首頁徵文"
+        ]
+    },
+    {
+        "TITLE": "流浪者的護封 主題（圖書館主站版）",
+        "FULLNAME": "wanderers:dustjacket-theme",
+        "RATING": 2,
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "外觀主題",
+            "待更新",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "蛇與手：給基金會作家的介紹",
+        "FULLNAME": "wanderers:for-foundation-writers",
+        "RATING": 4,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "指導",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "情書",
+        "FULLNAME": "wanderers:a-love-letter",
+        "RATING": 6,
+        "COMMENTS": "0",
+        "TAGS": [
+            "document",
+            "entry",
+            "letter",
+            "location",
+            "otherworldly",
+            "wanderers",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "星際廣播頻道5號",
+        "FULLNAME": "wanderers:interstellar-radio-channel-5",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "entry",
+            "prose",
+            "wanderers",
+            "ws2019",
+            "翻譯"
+        ]
     }
 ]

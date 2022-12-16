@@ -242,5 +242,45 @@
             "死亡永生",
             "遊戲"
         ]
+    },
+    {
+        "TITLE": "七律——歌哭咽",
+        "FULLNAME": "wanderers:die-in-immortality",
+        "RATING": 22,
+        "COMMENTS": "2",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "叁月協會",
+            "欲肉教",
+            "死亡永生",
+            "死亡終了",
+            "酩酊街",
+            "阿拉加達",
+            "韻文"
+        ]
+    },
+    {
+        "TITLE": "彼岸之花",
+        "FULLNAME": "wanderers:lycorisradiata",
+        "RATING": 13,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "死亡永生"
+        ]
+    },
+    {
+        "TITLE": "如是我聞",
+        "FULLNAME": "wanderers:flowers-thus-have-i-heard",
+        "RATING": 18,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "展出",
+            "死亡永生"
+        ]
     }
 ]

@@ -477,5 +477,38 @@
             "特殊貨物事務委員會",
             "蛇之手"
         ]
+    },
+    {
+        "TITLE": "一隻蚯蚓",
+        "FULLNAME": "wanderers:an-earthworm",
+        "RATING": 12,
+        "COMMENTS": "2",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "蛇之手"
+        ]
+    },
+    {
+        "TITLE": "信件啊信件",
+        "FULLNAME": "wanderers:letter-ah-letter",
+        "RATING": 7,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "蛇之手"
+        ]
+    },
+    {
+        "TITLE": "咱是誰",
+        "FULLNAME": "wanderers:who-am-i",
+        "RATING": 8,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "蛇之手"
+        ]
     }
 ]

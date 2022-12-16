@@ -1961,5 +1961,114 @@
             "原創",
             "藝術作品"
         ]
+    },
+    {
+        "TITLE": "一封記載異聞的信",
+        "FULLNAME": "wanderers:letter-about-strange-serpents",
+        "RATING": 16,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "台灣原住民",
+            "展出",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "中秋夜遣懷",
+        "FULLNAME": "wanderers:wandered-at-night",
+        "RATING": 14,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "中秋烏路賽",
+            "原創",
+            "韻文"
+        ]
+    },
+    {
+        "TITLE": "在不安之時祈求平安之人",
+        "FULLNAME": "wanderers:the-man-who-praying-for-peace-in-a-hard-time",
+        "RATING": 10,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2019聖夜相守",
+            "wanderers",
+            "原創"
+        ]
+    },
+    {
+        "TITLE": "得以永生。",
+        "FULLNAME": "wanderers:the-first-named-adam",
+        "RATING": 13,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "原創"
+        ]
+    },
+    {
+        "TITLE": "非人與非神共舞。",
+        "FULLNAME": "wanderers:before-ad",
+        "RATING": 13,
+        "COMMENTS": "1",
+        "TAGS": [
+            "ad博士",
+            "apoyn博士",
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "七律——歌哭咽",
+        "FULLNAME": "wanderers:die-in-immortality",
+        "RATING": 22,
+        "COMMENTS": "2",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "叁月協會",
+            "欲肉教",
+            "死亡永生",
+            "死亡終了",
+            "酩酊街",
+            "阿拉加達",
+            "韻文"
+        ]
+    },
+    {
+        "TITLE": "勝利之日",
+        "FULLNAME": "wanderers:victory-day",
+        "RATING": 8,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "原創"
+        ]
+    },
+    {
+        "TITLE": "彼岸之花",
+        "FULLNAME": "wanderers:lycorisradiata",
+        "RATING": 13,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "死亡永生"
+        ]
+    },
+    {
+        "TITLE": "如是我聞",
+        "FULLNAME": "wanderers:flowers-thus-have-i-heard",
+        "RATING": 18,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "展出",
+            "死亡永生"
+        ]
     }
 ]

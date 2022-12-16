@@ -226,5 +226,17 @@
             "翻譯",
             "資源"
         ]
+    },
+    {
+        "TITLE": "流浪者的護封 主題（圖書館主站版）",
+        "FULLNAME": "wanderers:dustjacket-theme",
+        "RATING": 2,
+        "COMMENTS": "2",
+        "TAGS": [
+            "en",
+            "外觀主題",
+            "待更新",
+            "翻譯"
+        ]
     }
 ]

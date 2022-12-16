@@ -5470,5 +5470,101 @@
             "原創",
             "故事"
         ]
+    },
+    {
+        "TITLE": "窮不屠牲畜、荒不祭歿羅",
+        "FULLNAME": "wanderers:don-t-sacrifice-to-deathweb",
+        "RATING": 8,
+        "COMMENTS": "2",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "蔚藍之王",
+        "FULLNAME": "wanderers:cerulean-king",
+        "RATING": 8,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "累世燼逝",
+        "FULLNAME": "wanderers:farewell",
+        "RATING": 13,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "乘物之物",
+        "FULLNAME": "wanderers:gerens-paxillum",
+        "RATING": 11,
+        "COMMENTS": "0",
+        "TAGS": [
+            "site-zh-81",
+            "wanderers",
+            "原創",
+            "故事",
+            "虹光之間",
+            "韻文"
+        ]
+    },
+    {
+        "TITLE": "在不安之時祈求平安之人",
+        "FULLNAME": "wanderers:the-man-who-praying-for-peace-in-a-hard-time",
+        "RATING": 10,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2019聖夜相守",
+            "wanderers",
+            "原創"
+        ]
+    },
+    {
+        "TITLE": "得以永生。",
+        "FULLNAME": "wanderers:the-first-named-adam",
+        "RATING": 13,
+        "COMMENTS": "1",
+        "TAGS": [
+            "wanderers",
+            "原創"
+        ]
+    },
+    {
+        "TITLE": "七律——歌哭咽",
+        "FULLNAME": "wanderers:die-in-immortality",
+        "RATING": 22,
+        "COMMENTS": "2",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "叁月協會",
+            "欲肉教",
+            "死亡永生",
+            "死亡終了",
+            "酩酊街",
+            "阿拉加達",
+            "韻文"
+        ]
+    },
+    {
+        "TITLE": "彼岸之花",
+        "FULLNAME": "wanderers:lycorisradiata",
+        "RATING": 13,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "死亡永生"
+        ]
     }
 ]
