@@ -130,5 +130,36 @@
             "wlc2013",
             "翻譯"
         ]
+    },
+    {
+        "TITLE": "地球上的教育",
+        "FULLNAME": "wanderers:schooling-on-earth",
+        "RATING": 12,
+        "COMMENTS": "0",
+        "TAGS": [
+            "document",
+            "entry",
+            "prose",
+            "wanderers",
+            "ws2019",
+            "翻譯"
+        ]
+    },
+    {
+        "TITLE": "妖精踢客",
+        "FULLNAME": "wanderers:kicker-of-elves",
+        "RATING": 10,
+        "COMMENTS": "0",
+        "TAGS": [
+            "cryptozoological",
+            "elrich",
+            "entry",
+            "fable",
+            "narrative",
+            "otherworldly",
+            "redtooth",
+            "wanderers",
+            "翻譯"
+        ]
     }
 ]
