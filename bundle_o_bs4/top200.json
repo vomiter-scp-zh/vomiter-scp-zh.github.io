@@ -1068,6 +1068,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-ZH-916 - 夢迴熔爐",
+        "FULLNAME": "scp-zh-916",
+        "RATING": 19,
+        "COMMENTS": "3"
+    },
+    {
         "TITLE": "SCP-ZH-010 - 迷走神經寄生體",
         "FULLNAME": "scp-zh-010",
         "RATING": 18,
@@ -1156,12 +1162,6 @@
         "FULLNAME": "scp-zh-052",
         "RATING": 18,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-916 - 夢迴熔爐",
-        "FULLNAME": "scp-zh-916",
-        "RATING": 18,
-        "COMMENTS": "3"
     },
     {
         "TITLE": "025O的畫",
