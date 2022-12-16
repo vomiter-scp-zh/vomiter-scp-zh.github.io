@@ -5447,5 +5447,28 @@
             "原創",
             "藝術作品"
         ]
+    },
+    {
+        "TITLE": "旅者的謝幕",
+        "FULLNAME": "wanderers:curtain-down",
+        "RATING": 12,
+        "COMMENTS": "0",
+        "TAGS": [
+            "apoyn博士",
+            "surge博士",
+            "wanderers",
+            "原創"
+        ]
+    },
+    {
+        "TITLE": "羅威爾的碗與天鵝",
+        "FULLNAME": "wanderers:outer-space-marketing-articles-tyrosine",
+        "RATING": 16,
+        "COMMENTS": "5",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
     }
 ]

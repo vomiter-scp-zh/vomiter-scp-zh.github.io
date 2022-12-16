@@ -5160,5 +5160,26 @@
             "認知危害",
             "金屬"
         ]
+    },
+    {
+        "TITLE": "埃莉絲夢遊仙境",
+        "FULLNAME": "wanderers:ellis-in-wonderland",
+        "RATING": 8,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創"
+        ]
+    },
+    {
+        "TITLE": "羅威爾的碗與天鵝",
+        "FULLNAME": "wanderers:outer-space-marketing-articles-tyrosine",
+        "RATING": 16,
+        "COMMENTS": "5",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
     }
 ]

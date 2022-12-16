@@ -9210,5 +9210,28 @@
             "人形",
             "原創"
         ]
+    },
+    {
+        "TITLE": "那是一間小木屋",
+        "FULLNAME": "wanderers:that-is-a-cabin",
+        "RATING": 8,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2020聖夜相守",
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "羅威爾的碗與天鵝",
+        "FULLNAME": "wanderers:outer-space-marketing-articles-tyrosine",
+        "RATING": 16,
+        "COMMENTS": "5",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
     }
 ]

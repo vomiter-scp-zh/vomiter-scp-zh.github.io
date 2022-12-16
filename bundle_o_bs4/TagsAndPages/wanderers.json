@@ -24,5 +24,61 @@
             "原創",
             "故事"
         ]
+    },
+    {
+        "TITLE": "旅者的謝幕",
+        "FULLNAME": "wanderers:curtain-down",
+        "RATING": 12,
+        "COMMENTS": "0",
+        "TAGS": [
+            "apoyn博士",
+            "surge博士",
+            "wanderers",
+            "原創"
+        ]
+    },
+    {
+        "TITLE": "江岳妖訪行 山岳 三十六",
+        "FULLNAME": "wanderers:jiang-yue-tour-mountain-36",
+        "RATING": 9,
+        "COMMENTS": "2",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "埃莉絲夢遊仙境",
+        "FULLNAME": "wanderers:ellis-in-wonderland",
+        "RATING": 8,
+        "COMMENTS": "0",
+        "TAGS": [
+            "wanderers",
+            "原創"
+        ]
+    },
+    {
+        "TITLE": "那是一間小木屋",
+        "FULLNAME": "wanderers:that-is-a-cabin",
+        "RATING": 8,
+        "COMMENTS": "0",
+        "TAGS": [
+            "2020聖夜相守",
+            "wanderers",
+            "原創",
+            "故事"
+        ]
+    },
+    {
+        "TITLE": "羅威爾的碗與天鵝",
+        "FULLNAME": "wanderers:outer-space-marketing-articles-tyrosine",
+        "RATING": 16,
+        "COMMENTS": "5",
+        "TAGS": [
+            "wanderers",
+            "原創",
+            "故事"
+        ]
     }
 ]
