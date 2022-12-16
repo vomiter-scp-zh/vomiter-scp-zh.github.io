@@ -13,5 +13,17 @@
             "故事",
             "翻譯"
         ]
+    },
+    {
+        "TITLE": "宣誓",
+        "FULLNAME": "to-swear-an-oath",
+        "RATING": 5,
+        "COMMENTS": "1",
+        "TAGS": [
+            "en",
+            "故事",
+            "翻譯",
+            "詩歌"
+        ]
     }
 ]
