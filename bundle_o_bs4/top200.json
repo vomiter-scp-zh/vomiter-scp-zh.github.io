@@ -918,12 +918,6 @@
         "COMMENTS": "2"
     },
     {
-        "TITLE": "SCP-ZH-962 - 似是而非",
-        "FULLNAME": "scp-zh-962",
-        "RATING": 20,
-        "COMMENTS": "2"
-    },
-    {
         "TITLE": "太陽禁止進入",
         "FULLNAME": "wanderers:eos-and-sun",
         "RATING": 20,
@@ -1100,6 +1094,12 @@
     {
         "TITLE": "梅爾與珍珠",
         "FULLNAME": "wanderers:pearl",
+        "RATING": 19,
+        "COMMENTS": "2"
+    },
+    {
+        "TITLE": "SCP-ZH-962 - 似是而非",
+        "FULLNAME": "scp-zh-962",
         "RATING": 19,
         "COMMENTS": "2"
     },
