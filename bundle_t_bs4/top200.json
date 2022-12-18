@@ -282,6 +282,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "未命名檔案",
+        "FULLNAME": "unnamed-file",
+        "RATING": 15,
+        "COMMENTS": "1"
+    },
+    {
         "TITLE": "「老梗項目構思」清單",
         "FULLNAME": "the-big-list-of-overdone-scp-cliches",
         "RATING": 14,
@@ -316,12 +322,6 @@
         "FULLNAME": "scp-2144-jp",
         "RATING": 14,
         "COMMENTS": "2"
-    },
-    {
-        "TITLE": "未命名檔案",
-        "FULLNAME": "unnamed-file",
-        "RATING": 14,
-        "COMMENTS": "1"
     },
     {
         "TITLE": "SCP-5510 - 通用遙控器",
