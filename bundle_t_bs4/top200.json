@@ -690,6 +690,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "DDD-2034",
+        "FULLNAME": "ddd-2034",
+        "RATING": 12,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "SCP-050 - 致最聰明的人",
         "FULLNAME": "scp-050",
         "RATING": 11,
@@ -844,12 +850,6 @@
         "FULLNAME": "scp-5883",
         "RATING": 11,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "DDD-2034",
-        "FULLNAME": "ddd-2034",
-        "RATING": 11,
-        "COMMENTS": "2"
     },
     {
         "TITLE": "DV標準表",
