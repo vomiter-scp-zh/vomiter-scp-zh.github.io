@@ -792,6 +792,12 @@
         "COMMENTS": "1"
     },
     {
+        "TITLE": "譯者初校自行檢查表",
+        "FULLNAME": "your-first-translation",
+        "RATING": 21,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-009 - 臺式早點",
         "FULLNAME": "scp-zh-009",
         "RATING": 20,
@@ -926,12 +932,6 @@
     {
         "TITLE": "瓶中的碧翠昂",
         "FULLNAME": "wanderers:homunculus",
-        "RATING": 20,
-        "COMMENTS": "0"
-    },
-    {
-        "TITLE": "譯者初校自行檢查表",
-        "FULLNAME": "your-first-translation",
         "RATING": 20,
         "COMMENTS": "0"
     },
