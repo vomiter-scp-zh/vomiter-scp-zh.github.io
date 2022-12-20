@@ -1104,6 +1104,12 @@
         "COMMENTS": "2"
     },
     {
+        "TITLE": "譯者初校自行檢查表",
+        "FULLNAME": "your-first-translation",
+        "RATING": 19,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-ZH-010 - 迷走神經寄生體",
         "FULLNAME": "scp-zh-010",
         "RATING": 18,
@@ -1192,11 +1198,5 @@
         "FULLNAME": "scp-zh-052",
         "RATING": 18,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "025O的畫",
-        "FULLNAME": "025o-s-painting",
-        "RATING": 18,
-        "COMMENTS": "1"
     }
 ]
