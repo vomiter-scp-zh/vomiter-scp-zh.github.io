@@ -930,6 +930,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "譯者初校自行檢查表",
+        "FULLNAME": "your-first-translation",
+        "RATING": 20,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP基金會不知道的那些事件",
         "FULLNAME": "ocd-virus01",
         "RATING": 19,
@@ -1102,12 +1108,6 @@
         "FULLNAME": "scp-zh-962",
         "RATING": 19,
         "COMMENTS": "2"
-    },
-    {
-        "TITLE": "譯者初校自行檢查表",
-        "FULLNAME": "your-first-translation",
-        "RATING": 19,
-        "COMMENTS": "0"
     },
     {
         "TITLE": "SCP-ZH-010 - 迷走神經寄生體",
