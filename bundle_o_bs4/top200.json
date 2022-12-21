@@ -798,6 +798,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-ZH-432 - 更好的你",
+        "FULLNAME": "scp-zh-432",
+        "RATING": 21,
+        "COMMENTS": "2"
+    },
+    {
         "TITLE": "SCP-ZH-009 - 臺式早點",
         "FULLNAME": "scp-zh-009",
         "RATING": 20,
@@ -916,12 +922,6 @@
         "FULLNAME": "scp-zh-220",
         "RATING": 20,
         "COMMENTS": "0"
-    },
-    {
-        "TITLE": "SCP-ZH-432 - 更好的你",
-        "FULLNAME": "scp-zh-432",
-        "RATING": 20,
-        "COMMENTS": "2"
     },
     {
         "TITLE": "太陽禁止進入",
