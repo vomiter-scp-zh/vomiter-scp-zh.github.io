@@ -936,6 +936,12 @@
         "COMMENTS": "0"
     },
     {
+        "TITLE": "SCP-3041 - 紅刀",
+        "FULLNAME": "scp-3041",
+        "RATING": 11,
+        "COMMENTS": "0"
+    },
+    {
         "TITLE": "SCP-073 - 「該隱」",
         "FULLNAME": "scp-073",
         "RATING": 10,
@@ -1042,12 +1048,6 @@
         "FULLNAME": "insertjokeinurlhere",
         "RATING": 10,
         "COMMENTS": "4"
-    },
-    {
-        "TITLE": "SCP-3041 - 紅刀",
-        "FULLNAME": "scp-3041",
-        "RATING": 10,
-        "COMMENTS": "0"
     },
     {
         "TITLE": "Clef與Dimitri上路了",
