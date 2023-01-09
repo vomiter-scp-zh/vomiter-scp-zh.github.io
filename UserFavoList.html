@@ -45,7 +45,7 @@
     user_id=user_id.substring(1,user_id.length);
     
     
-    fetch(`o_req/UserVoteTable/${user_id}.json`,INIT)
+    fetch(`https://scp-zh.github.io/SCP-ZH.io/o_req/UserVoteTable/${user_id}.json`,INIT)
     .then(function(response){
         if(response.ok){
         return response.json();}
@@ -63,7 +63,7 @@
         to_write.innerHTML='您還未有評分紀錄'
     })
 
-    fetch(`t_req/UserVoteTable/${user_id}.json`,INIT)
+    fetch(`https://scp-zh.github.io/SCP-ZH.io/t_req/UserVoteTable/${user_id}.json`,INIT)
     .then(function(response){
         if(response.ok){
         return response.json();}
